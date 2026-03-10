@@ -35,9 +35,11 @@ The app will be available at `http://localhost:8080`.
 ## 🚢 Deployment
 This project is optimized for **Cloudflare Pages** with GitHub Integration.
 
-1. **Build Command:** `npm run sync && node scripts/validate.js`
-2. **Build Output Directory:** `src`
-3. **Automated Updates:** Once connected, the included GitHub Action (`.github/workflows/sync-data.yml`) will automatically update the data every 10 minutes and push to `master`, triggering a global redeploy on Cloudflare Pages.
+1.  **Build command:** *(Leave this field blank)*
+2.  **Build output directory:** `src`
+3.  **Root directory:** `/`
+
+Once connected, the included GitHub Action (`.github/workflows/sync-data.yml`) will automatically update the data every 10 minutes, and Cloudflare Pages will deploy the new static content.
 
 ## 📂 Project Structure
 - `src/`: The frontend application (HTML/CSS/JS).
