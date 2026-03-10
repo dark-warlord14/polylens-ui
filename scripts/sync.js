@@ -152,20 +152,8 @@ async function run() {
         const cacheData = {
             timestamp: Date.now(),
             count: markets.length,
-            summary: {
-                categories: {},
-                outcomes: { Yes: 0, No: 0 }
-            },
             deals: opportunities
         };
-
-        // Pre-calculate summaries for the UI
-        opportunities.forEach(d => {
-            cacheData.summary.categories[d.category] = (cacheData.summary.categories[d.category] || 0) + 1;
-            const outcome = d.outcome.toLowerCase();
-            if (outcome === 'yes') cacheData.summary.outcomes.Yes++;
-            else if (outcome === 'no') cacheData.summary.outcomes.No++;
-        });
 
         fs.mkdirSync(path.dirname(CACHE_PATH), { recursive: true });
         fs.writeFileSync(CACHE_PATH, JSON.stringify(cacheData, null, 2));

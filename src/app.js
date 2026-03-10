@@ -20,7 +20,6 @@ const CACHE_KEY = "polylens_elite_cache";
 const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes — matches background alarm
 
 let allOpportunities = [];
-let globalSummary = { categories: {}, outcomes: { Yes: 0, No: 0 } };
 let currentCategory = "all";
 let activeOutcome = null; // Outcome filter state ("Yes" | "No" | null)
 const CORE_CATEGORIES = ["Politics", "Elections", "Sports", "Crypto", "Finance", "Economy", "Geopolitics", "Tech", "Culture", "Climate & Science"];
@@ -63,7 +62,6 @@ async function initDashboard() {
 
         if (cache && cache.deals && cache.deals.length > 0) {
             allOpportunities = cache.deals;
-            globalSummary = cache.summary || { categories: {}, outcomes: { Yes: 0, No: 0 } };
             updateStats(cache.count, allOpportunities.length, cache.timestamp);
             applyFilters();
 
@@ -198,6 +196,36 @@ function updateCategoryChips(filtered) {
     const container = document.getElementById("category-filters");
     if (!container) return;
 
+    const allCategoriesInFiltered = new Set();
+    const counts = {};
+    let otherCount = 0;
+
+    filtered.forEach(d => {
+        const cat = d.category;
+        counts[cat] = (counts[cat] || 0) + 1;
+        if (!CORE_CATEGORIES.includes(cat)) { // Check against CORE_CATEGORIES to determine 'Other'
+            otherCount++;
+        }
+        allCategoriesInFiltered.add(cat); // Add all unique categories found
+    });
+
+    // Determine which categories to explicitly show as chips, maintaining order
+    const categoriesToShow = Array.from(allCategoriesInFiltered)
+        .filter(cat => CORE_CATEGORIES.includes(cat) || (!CORE_CATEGORIES.includes(cat) && otherCount === 0)) // Only show non-core explicitly if there's no 'Other' bucket
+        .sort((a, b) => {
+            // Sort: CORE_CATEGORIES order first, then alphabetical for others
+            const indexA = CORE_CATEGORIES.indexOf(a);
+            const indexB = CORE_CATEGORIES.indexOf(b);
+            if (indexA !== -1 && indexB !== -1) return indexA - indexB; // Both are core, sort by core index
+            if (indexA !== -1) return -1; // A is core, B is not, A comes first
+            if (indexB !== -1) return 1;  // B is core, A is not, B comes first
+            return a.localeCompare(b); // Neither are core, sort alphabetically
+        });
+
+    if (otherCount > 0) {
+        categoriesToShow.push("Other"); // Add "Other" chip if there are any non-core markets
+    }
+
     container.innerHTML = "";
 
     const makeChip = (label, isActive, onClick) => {
@@ -208,15 +236,14 @@ function updateCategoryChips(filtered) {
         container.appendChild(btn);
     };
 
-    // Use pre-calculated globalSummary for the main chips
-    makeChip(`All  ${allOpportunities.length}`, currentCategory === "all", () => {
+    makeChip(`All  ${filtered.length}`, currentCategory === "all", () => {
         currentCategory = "all";
         applyFilters();
     });
 
-    CORE_CATEGORIES.forEach(cat => {
-        const count = globalSummary.categories[cat] || 0;
-        if (count > 0 || currentCategory === cat) {
+    categoriesToShow.forEach(cat => {
+        const count = cat === "Other" ? otherCount : (counts[cat] || 0);
+        if (count > 0 || currentCategory === cat) { // Only show chip if count > 0 or it's the currently active category
             makeChip(`${cat}  ${count}`, currentCategory === cat, () => {
                 currentCategory = cat;
                 applyFilters();
@@ -224,17 +251,14 @@ function updateCategoryChips(filtered) {
         }
     });
 
-    if (globalSummary.categories["Other"] > 0 || currentCategory === "Other") {
-        makeChip(`Other  ${globalSummary.categories["Other"]}`, currentCategory === "Other", () => {
-            currentCategory = "Other";
-            applyFilters();
-        });
-    }
-
     // Add separator & Yes/No chips
     const sep = document.createElement("div");
     sep.className = "nav-sep";
     container.appendChild(sep);
+
+    // Yes/No counts in the CURRENT filtered set
+    const yesCount = filtered.filter(d => d.outcome.toLowerCase() === "yes").length;
+    const noCount = filtered.filter(d => d.outcome.toLowerCase() === "no").length;
 
     const makeOutcomeChip = (label, value, count, isActive) => {
         const btn = document.createElement("button");
@@ -247,10 +271,9 @@ function updateCategoryChips(filtered) {
         container.appendChild(btn);
     };
 
-    makeOutcomeChip("Yes", "Yes", globalSummary.outcomes.Yes, activeOutcome === "Yes");
-    makeOutcomeChip("No", "No", globalSummary.outcomes.No, activeOutcome === "No");
+    makeOutcomeChip("Yes", "Yes", yesCount, activeOutcome === "Yes");
+    makeOutcomeChip("No", "No", noCount, activeOutcome === "No");
 }
-
 
 // ─── Render ────────────────────────────────────────────────────────
 
