@@ -3,9 +3,9 @@ name: 10-Min Data Sync
 on:
   schedule:
     - cron: '*/10 * * * *'
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+  repository_dispatch:
+    types: [webhook_sync]
 
 jobs:
   sync:
@@ -32,7 +32,7 @@ jobs:
       - name: Validate data
         run: node scripts/validate.js
 
-      - name: Commit and push to master
+      - name: Commit and push to main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
