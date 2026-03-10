@@ -1,0 +1,10 @@
+services:
+  polylens-ui:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./src/data:/app/src/data
+      - ./src:/app/src
+    environment:
+      - NODE_ENV=development

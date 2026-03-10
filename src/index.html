@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PolyLens Elite | Market Discovery</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+    <div class="dashboard">
+
+        <!-- ── Sidebar ─────────────────────────────────────── -->
+        <aside class="sidebar">
+            <div class="brand">
+                <a href="/" style="text-decoration: none; color: inherit; display: flex; align-items: center; gap: 12px;">
+                    <div class="logo-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline>
+                            <polyline points="16 7 22 7 22 13"></polyline>
+                        </svg>
+                    </div>
+                    <div class="brand-text">
+                        <h1>PolyLens Elite</h1>
+                        <span>Market Discovery</span>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Filters -->
+            <div class="filter-group">
+                <label>Min Liquidity</label>
+                <div class="input-card">
+                    <span class="label">Minimum $USD volume traded</span>
+                    <div class="input-row">
+                        <input type="number" id="min-volume" value="10000" step="1000" min="0">
+                        <span class="unit">$USD</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label>Expiry Window</label>
+                <div class="input-card">
+                    <span class="label">Max days until close</span>
+                    <div class="input-row">
+                        <input type="number" id="max-days" value="1" step="1" min="0">
+                        <span class="unit">days</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label>Probability Range</label>
+                <div class="input-card">
+                    <span class="label">Outcome probability window</span>
+                    <div class="prob-range-row">
+                        <div class="input-row">
+                            <input type="number" id="min-prob" value="80" step="5" min="1" max="99" placeholder="1">
+                            <span class="unit">%</span>
+                        </div>
+                        <span class="range-sep">→</span>
+                        <div class="input-row">
+                            <input type="number" id="max-prob" value="99" step="5" min="1" max="99" placeholder="99">
+                            <span class="unit">%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label>Sort By</label>
+                <div class="select-wrapper">
+                    <select id="sort-by">
+                        <option value="roi">Highest Implied ROI</option>
+                        <option value="prob">Highest Probability</option>
+                        <option value="volume">Deepest Liquidity</option>
+                        <option value="days">Soonest Expiry</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="sidebar-actions">
+                <button id="save-config-btn" class="btn-save">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z" />
+                        <polyline points="17 21 17 13 7 13 7 21" />
+                        <polyline points="7 3 7 8 15 8" />
+                    </svg>
+                    <span>Save Config</span>
+                </button>
+            </div>
+        </aside>
+
+        <!-- ── Main Content ────────────────────────────────── -->
+        <main class="main-content">
+            <header class="top-bar">
+                <div class="header-main-row">
+                    <div class="search-info">
+                        <h2 id="results-title">Alpha Dashboard</h2>
+                        <p id="sync-status">Updating markets...</p>
+                    </div>
+                    <div class="stats-row">
+                        <div class="stat-pill">
+                            <span class="stat-label">Total Markets</span>
+                            <span id="stat-scanned" class="stat-value primary">—</span>
+                        </div>
+                        <div class="stat-pill">
+                            <span class="stat-label">Filtered</span>
+                            <span id="stat-deals" class="stat-value">—</span>
+                        </div>
+                    </div>
+                </div>
+
+                <nav class="top-categories-bar">
+                    <div id="category-filters" class="category-filters">
+                        <!-- Populated by JS -->
+                    </div>
+                </nav>
+            </header>
+
+            <div id="deals-grid" class="deals-grid">
+                <!-- Skeleton placeholders -->
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+            </div>
+
+            <div id="empty-state" class="empty-state hidden">
+                <div class="empty-icon">🔍</div>
+                <h3>No markets match your filters</h3>
+                <p>Try widening your filters — lower the probability floor or increase the expiry window.</p>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>

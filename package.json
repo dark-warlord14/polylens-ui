@@ -1,0 +1,15 @@
+{
+  "name": "polylens-ui",
+  "version": "1.0.0",
+  "description": "PolyLens UI converted from Chrome Extension",
+  "main": "index.js",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "serve": "npx http-server src -p 8080",
+    "dev": "npm run sync && npm run serve",
+    "start": "npm run serve"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
