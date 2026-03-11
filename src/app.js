@@ -1,23 +1,9 @@
 /**
  * app.js — PolyLens Elite Dashboard Controller
- *
- * Responsibilities:
- *   - Load opportunities from local JSON cache (synced via GitHub Actions)
- *   - Show update age based on JSON timestamp
- *   - Filter pipeline: sidebar filters → category chips → sort → render
- *   - Display precise expiry countdowns (e.g. "6h 14m left") from expiryDate field
- *
- * Storage:
- *   localStorage (via polyfill) →  polylens_elite_cache (statically synced)
- *   localStorage (via polyfill) →  polylens_filter_config (user's saved settings)
- *
- * Categories (matches Polymarket nav):
- *   Politics · Elections · Sports · Crypto · Finance · Economy
- *   Geopolitics · Tech · Culture · Climate & Science
  */
 
 const CACHE_KEY = "polylens_elite_cache";
-const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes — matches background alarm
+const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
 
 let allOpportunities = [];
 let currentCategory = "all";
@@ -29,7 +15,30 @@ const CORE_CATEGORIES = ["Politics", "Elections", "Sports", "Crypto", "Finance",
 document.addEventListener("DOMContentLoaded", () => {
     initDashboard();
     setupEventListeners();
+    setupSidebarToggle();
 });
+
+function setupSidebarToggle() {
+    const dashboard = document.getElementById("dashboard");
+    const headerToggle = document.getElementById("header-filter-toggle");
+    const overlay = document.getElementById("sidebar-overlay");
+
+    // Restore state from localStorage (default to visible on desktop for first-time use)
+    const isCollapsed = localStorage.getItem("sidebar-collapsed") === "true";
+    if (isCollapsed) dashboard.classList.add("sidebar-collapsed");
+
+    const toggle = () => {
+        if (window.innerWidth > 992) {
+            dashboard.classList.toggle("sidebar-collapsed");
+            localStorage.setItem("sidebar-collapsed", dashboard.classList.contains("sidebar-collapsed"));
+        } else {
+            dashboard.classList.toggle("sidebar-open");
+        }
+    };
+
+    headerToggle?.addEventListener("click", toggle);
+    overlay?.addEventListener("click", () => dashboard.classList.remove("sidebar-open"));
+}
 
 function setupEventListeners() {
     ["min-volume", "max-days", "min-prob", "max-prob", "sort-by"].forEach(id => {
@@ -47,7 +56,6 @@ function setupEventListeners() {
             applyFilters();
         });
     });
-    document.getElementById("save-config-btn")?.addEventListener("click", saveConfig);
 }
 
 async function initDashboard() {
@@ -93,22 +101,6 @@ function saveConfig() {
     
     // Direct localStorage save
     localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
-
-    // Brief visual confirmation
-    const btn = document.getElementById("save-config-btn");
-    if (btn) {
-        const original = btn.innerHTML;
-        btn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Saved!</span>`;
-        btn.style.background = "#166534";
-        btn.style.borderColor = "#166534";
-        btn.style.color = "#fff";
-        setTimeout(() => {
-            btn.innerHTML = original;
-            btn.style.background = "";
-            btn.style.borderColor = "";
-            btn.style.color = "";
-        }, 1800);
-    }
 }
 
 function loadConfig() {
@@ -157,6 +149,7 @@ function formatAge(ms) {
 // ─── Filter & Render Pipeline ──────────────────────────────────────
 
 function applyFilters() {
+    saveConfig(); // Auto-save on every filter change
     const minVol = parseFloat(document.getElementById("min-volume")?.value) || 0;
     const maxDays = parseFloat(document.getElementById("max-days")?.value) || 999;
     const minProb = parseFloat(document.getElementById("min-prob")?.value) || 0;
