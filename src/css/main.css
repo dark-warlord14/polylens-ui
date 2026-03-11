@@ -202,7 +202,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1440px;
+    max-width: 1600px;
     margin: 0 auto;
     height: 64px;
 }
@@ -351,7 +351,7 @@ body {
     display: flex;
     align-items: center;
     gap: 20px;
-    max-width: 1440px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 10px 0 14px;
     border-top: 1px solid var(--border);
@@ -484,7 +484,7 @@ body {
     letter-spacing: -0.01em;
 }
 
-/* Select inside mini-input (liquidity preset) */
+/* Select inside mini-input (liquidity preset) — matches text input style */
 .mini-input select {
     border: none;
     background: transparent;
@@ -494,8 +494,16 @@ body {
     color: var(--text-primary);
     font-family: var(--font-sans);
     cursor: pointer;
-    padding: 0 2px;
-    max-width: 64px;
+    /* Remove native arrow */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    /* Custom chevron via inline SVG */
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%236b7a92' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0px center;
+    padding-right: 14px;
+    letter-spacing: -0.01em;
 }
 
 /* Probability range: two inputs side by side */
@@ -532,7 +540,7 @@ body {
 }
 
 .select-mini select {
-    padding: 5px 10px;
+    padding: 5px 18px 5px 8px;
     font-size: 0.78rem;
     font-weight: 700;
     background: transparent;
@@ -543,19 +551,30 @@ body {
     outline: none;
     transition: color var(--t-fast);
     font-family: var(--font-sans);
+    /* Remove native arrow + custom chevron */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%236b7a92' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 4px center;
+    letter-spacing: -0.01em;
 }
 
 .select-mini select:hover { color: var(--text-primary); }
+
+/* On dark theme, the chevron icon is already grey — no change needed.
+   But for light theme we also keep it legible (same icon works on both). */
 
 /* ═══════════════════════════════════════════════════════════════════
    Cards Grid
    ═══════════════════════════════════════════════════════════════════ */
 .deals-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 18px;
     padding: 28px 32px;
-    max-width: 1440px;
+    max-width: 1600px;
     margin: 0 auto;
 }
 
