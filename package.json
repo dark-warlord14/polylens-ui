@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sync": "node scripts/sync.js",
-    "serve": "npx http-server src -p 8080",
+    "serve": "npx http-server src -p 8080 -c-1",
     "dev": "npm run sync && npm run serve",
     "start": "npm run serve"
   },

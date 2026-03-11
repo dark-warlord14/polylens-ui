@@ -2,7 +2,6 @@
  * app.js — PolyLens Elite Dashboard Controller
  */
 
-const CACHE_KEY = "polylens_elite_cache";
 const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
 
 let allOpportunities = [];
@@ -19,11 +18,13 @@ document.addEventListener("DOMContentLoaded", () => {
     checkOnboarding();
 });
 
+let _filterDebounce;
 function setupEventListeners() {
     ["min-volume", "max-days", "min-prob", "sort-by"].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener("input", () => {
-             applyFilters();
+            clearTimeout(_filterDebounce);
+            _filterDebounce = setTimeout(applyFilters, 300);
         });
     });
 }
@@ -141,16 +142,16 @@ function updateStats(totalScanned, opportunitiesFound, timestamp) {
     if (dealsEl) dealsEl.textContent = (opportunitiesFound || 0).toLocaleString();
     if (lastSyncEl && timestamp) {
         const ageMs = Date.now() - timestamp;
-        lastSyncEl.textContent = `Updated ${formatAge(ageMs)} ago`;
+        const mins = Math.floor(ageMs / 60000);
+        if (mins < 1) {
+            lastSyncEl.textContent = "Just synced";
+        } else if (mins < 60) {
+            lastSyncEl.textContent = `Updated ${mins}m ago`;
+        } else {
+            const hrs = Math.floor(mins / 60);
+            lastSyncEl.textContent = `Updated ${hrs}h ${mins % 60}m ago`;
+        }
     }
-}
-
-function formatAge(ms) {
-    const mins = Math.floor(ms / 60000);
-    if (mins < 1) return "just now";
-    if (mins < 60) return `${mins}m`;
-    const hrs = Math.floor(mins / 60);
-    return `${hrs}h ${mins % 60}m`;
 }
 
 // ─── Filter & Render Pipeline ──────────────────────────────────────
@@ -168,13 +169,14 @@ function applyFilters() {
         d.probability >= minProb
     );
 
-    updateCategoryChips(sidebarFiltered);
-
     const categoryFiltered = sidebarFiltered.filter(d => {
         if (currentCategory === "all") return true;
         if (currentCategory === "Other") return !CORE_CATEGORIES.includes(d.category);
         return d.category === currentCategory;
     });
+
+    // Pass category-filtered set so Yes/No counts reflect what's actually visible
+    updateCategoryChips(sidebarFiltered, categoryFiltered);
 
     const finalFiltered = categoryFiltered.filter(d => {
         if (!activeOutcome) return true;
@@ -190,7 +192,7 @@ function applyFilters() {
     renderOpportunities(finalFiltered);
 }
 
-function updateCategoryChips(filtered) {
+function updateCategoryChips(filtered, categoryFiltered) {
     const container = document.getElementById("category-filters");
     if (!container) return;
 
@@ -254,9 +256,10 @@ function updateCategoryChips(filtered) {
     sep.className = "nav-sep";
     container.appendChild(sep);
 
-    // Yes/No counts in the CURRENT filtered set
-    const yesCount = filtered.filter(d => d.outcome.toLowerCase() === "yes").length;
-    const noCount = filtered.filter(d => d.outcome.toLowerCase() === "no").length;
+    // Yes/No counts in the CATEGORY-filtered set (what's actually visible)
+    const _base = categoryFiltered || filtered;
+    const yesCount = _base.filter(d => d.outcome.toLowerCase() === "yes").length;
+    const noCount = _base.filter(d => d.outcome.toLowerCase() === "no").length;
 
     const makeOutcomeChip = (label, value, count, isActive) => {
         const btn = document.createElement("button");
@@ -290,11 +293,14 @@ function renderOpportunities(deals) {
 
     grid.innerHTML = "";
 
-    if (deals.length === 0) {
-        if (empty) empty.classList.remove("hidden");
-        return;
+    if (empty) {
+        if (deals.length === 0) {
+            empty.classList.remove("hidden");
+        } else {
+            empty.classList.add("hidden");
+        }
     }
-    if (empty) empty.classList.add("hidden");
+    if (deals.length === 0) return;
 
     deals.forEach(deal => {
         const card = document.createElement("div");
@@ -363,7 +369,7 @@ function renderOpportunities(deals) {
             </div>
 
             <div class="card-footer">
-                <a href="https://polymarket.com/market/${deal.slug}" target="_blank" class="cta-btn">
+                <a href="https://polymarket.com/market/${encodeURIComponent(deal.slug)}" target="_blank" class="cta-btn">
                     <span>Trade on Polymarket</span>
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
