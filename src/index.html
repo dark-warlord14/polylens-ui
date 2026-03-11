@@ -4,9 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PolyLens Elite | Market Discovery</title>
+    <title>PolyLens | High-Probability Market Discovery</title>
+    <meta name="description" content="Discover high-probability markets on Polymarket with real-time analytics, smart filters, and imminent expiry tracking.">
     <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@600;700;800&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,300;0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700;0,14..32,800;1,14..32,400&family=Outfit:wght@600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/main.css">
     <link rel="icon" type="image/png" href="icons/icon16.png">
@@ -14,142 +15,206 @@
 
 <body>
     <div class="dashboard" id="dashboard">
-        <!-- ── Main Content ────────────────────────────────── -->
-        <main class="main-content">
-            <header class="top-bar">
-                <div class="header-main-row">
-                    <div class="search-info">
-                        <div style="display: flex; align-items: center; gap: 16px;">
-                            <h2 id="results-title">PolyLens Elite</h2>
-                            <div class="nav-sep"></div>
-                            <p id="last-sync" class="status-text">Loading status...</p>
-                        </div>
+
+        <!-- ── Top Navigation Bar ── -->
+        <header class="top-bar">
+            <div class="header-main-row">
+
+                <!-- Brand left -->
+                <div class="search-info">
+                    <div class="logo-small" aria-hidden="true">
+                        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
                     </div>
-                    <div class="stats-row">
-                        <button id="theme-toggle-header" class="theme-pill" title="Switch Theme">
-                            <div class="switch-icons">
-                                <svg id="theme-light-icon-header" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
-                                <svg id="theme-dark-icon-header" class="active" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
-                            </div>
-                        </button>
-                        <div class="stat-pill">
-                            <span class="stat-label">Markets</span>
-                            <span id="stat-scanned" class="stat-value primary">—</span>
-                        </div>
-                        <div class="stat-pill">
-                            <span class="stat-label">Alpha</span>
-                            <span id="stat-deals" class="stat-value">—</span>
-                        </div>
-                    </div>
+                    <h1 id="results-title">PolyLens</h1>
+                    <div class="nav-sep" aria-hidden="true"></div>
+                    <p id="last-sync" class="status-text">Synchronizing data…</p>
                 </div>
 
-                <div class="discovery-toolbar">
-                    <div id="category-filters" class="category-filters">
-                        <!-- Populated by JS -->
+                <!-- Stats + theme right -->
+                <div class="stats-row">
+                    <div class="stat-pill">
+                        <span class="stat-label">Markets</span>
+                        <span id="stat-scanned" class="stat-value primary">—</span>
                     </div>
-                    
-                    <div class="toolbar-sep"></div>
-
-                    <div class="filter-controls">
-                        <div class="control-item">
-                            <label>Liquidity ></label>
-                            <div class="mini-input">
-                                <span>$</span>
-                                <input type="number" id="min-volume" value="10000" step="5000">
-                            </div>
-                        </div>
-
-                        <div class="control-item">
-                            <label>Expiry <</label>
-                            <div class="mini-input">
-                                <input type="number" id="max-days" value="1" step="1">
-                                <span>d</span>
-                            </div>
-                        </div>
-
-                        <div class="control-item">
-                            <label>Prob Floor</label>
-                            <div class="mini-input">
-                                <input type="number" id="min-prob" value="80" step="5">
-                                <span>%</span>
-                            </div>
-                        </div>
-
-                        <div class="select-mini">
-                            <select id="sort-by">
-                                <option value="roi">Sort: ROI</option>
-                                <option value="prob">Sort: Prob</option>
-                                <option value="volume">Sort: Liq</option>
-                                <option value="days">Sort: Time</option>
-                            </select>
-                        </div>
+                    <div class="stat-pill">
+                        <span class="stat-label">Showing</span>
+                        <span id="stat-deals" class="stat-value">—</span>
                     </div>
+                    <button id="theme-toggle-header" class="theme-pill" title="Toggle light / dark theme" aria-label="Toggle theme">
+                        <div class="switch-icons">
+                            <svg id="theme-light-icon-header" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="5"></circle>
+                                <line x1="12" y1="1" x2="12" y2="3"></line>
+                                <line x1="12" y1="21" x2="12" y2="23"></line>
+                                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                <line x1="1" y1="12" x2="3" y2="12"></line>
+                                <line x1="21" y1="12" x2="23" y2="12"></line>
+                                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                            </svg>
+                            <svg id="theme-dark-icon-header" class="active" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                            </svg>
+                        </div>
+                    </button>
                 </div>
-            </header>
-
-            <div id="deals-grid" class="deals-grid">
-                <!-- Skeleton placeholders -->
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
-                <div class="skeleton-card"></div>
             </div>
 
-            <div id="empty-state" class="empty-state hidden">
-                <div class="empty-icon">🔍</div>
-                <h3>No markets match your filters</h3>
-                <p>Try widening your filters — lower the probability floor or increase the expiry window.</p>
+            <!-- ── Filter / Toolbar Row ── -->
+            <div class="discovery-toolbar">
+                <!-- Category chips (JS-populated) -->
+                <div id="category-filters" class="category-filters" role="group" aria-label="Category filters"></div>
+
+                <!-- Numeric filter controls -->
+                <div class="filter-controls" role="group" aria-label="Market filters">
+
+                    <!-- ── Liquidity dropdown + custom ── -->
+                    <div class="control-item">
+                        <label for="vol-preset">Liq ≥</label>
+                        <div class="mini-input">
+                            <span>$</span>
+                            <select id="vol-preset" aria-label="Minimum liquidity preset">
+                                <option value="5000">5K</option>
+                                <option value="10000" selected>10K</option>
+                                <option value="25000">25K</option>
+                                <option value="50000">50K</option>
+                                <option value="custom">Custom…</option>
+                            </select>
+                        </div>
+                        <!-- Custom liquidity input, hidden unless "Custom…" selected -->
+                        <div id="vol-custom-wrap" class="mini-input hidden">
+                            <input type="number" id="vol-custom-input" placeholder="0" min="0" step="1000" aria-label="Custom minimum liquidity">
+                            <span>K</span>
+                        </div>
+                    </div>
+
+                    <div class="filter-divider" aria-hidden="true"></div>
+
+                    <!-- ── Expiry ── -->
+                    <div class="control-item">
+                        <label for="max-days">Expiry ≤</label>
+                        <div class="mini-input">
+                            <input type="number" id="max-days" value="1" step="1" min="0" aria-label="Maximum days to expiry">
+                            <span>d</span>
+                        </div>
+                    </div>
+
+                    <div class="filter-divider" aria-hidden="true"></div>
+
+                    <!-- ── Probability range ── -->
+                    <div class="control-item">
+                        <label>Prob</label>
+                        <div class="mini-input range-input">
+                            <input type="number" id="min-prob" value="80" step="5" min="0" max="100" aria-label="Minimum probability">
+                            <span class="range-sep">–</span>
+                            <input type="number" id="max-prob" value="100" step="5" min="0" max="100" aria-label="Maximum probability">
+                            <span>%</span>
+                        </div>
+                    </div>
+
+                    <div class="filter-divider" aria-hidden="true"></div>
+
+                    <!-- ── Sort ── -->
+                    <div class="select-mini">
+                        <select id="sort-by" aria-label="Sort markets by">
+                            <optgroup label="Probability">
+                                <option value="prob-desc">Prob ↓</option>
+                                <option value="prob-asc">Prob ↑</option>
+                            </optgroup>
+                            <optgroup label="Liquidity">
+                                <option value="vol-desc">Liquidity ↓</option>
+                                <option value="vol-asc">Liquidity ↑</option>
+                            </optgroup>
+                            <optgroup label="Expiry">
+                                <option value="days-asc">Expiry ↑</option>
+                                <option value="days-desc">Expiry ↓</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- ── Main Content ── -->
+        <main class="main-content" id="main-content">
+            <div id="deals-grid" class="deals-grid" role="list" aria-label="Market opportunities">
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+                <div class="skeleton-card" role="presentation"></div>
+            </div>
+
+            <div id="empty-state" class="empty-state hidden" role="status" aria-live="polite">
+                <div class="empty-icon" aria-hidden="true">🔍</div>
+                <h3>No markets found</h3>
+                <p>Try adjusting your filters — lower the probability floor, extend the expiry window, or reduce the liquidity threshold.</p>
             </div>
         </main>
     </div>
-    <div id="welcome-overlay" class="modal-overlay">
+
+    <!-- ── Welcome / Onboarding Overlay ── -->
+    <div id="welcome-overlay" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="welcome-heading">
         <div class="welcome-modal">
-            <div class="logo-large">
-                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5">
+            <div class="logo-large" aria-hidden="true">
+                <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path>
                     <circle cx="12" cy="12" r="3"></circle>
                 </svg>
             </div>
-            <h2>Insights for the new economy</h2>
-            <p>PolyLens is your professional dashboard for discovering high-probability opportunities and alpha on Polymarket.</p>
-            
+            <h2 id="welcome-heading">Intelligence for the<br>new economy</h2>
+            <p>PolyLens is your professional dashboard for discovering high-probability markets on Polymarket, with smart filters and real-time data.</p>
+
             <div class="feature-list">
                 <div class="feature-item">
-                    <div class="feature-icon">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 14 4-4 4 4"/><path d="M3.34 19a10 10 0 1 1 17.32 0"/></svg>
+                    <div class="feature-icon" aria-hidden="true">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="m12 14 4-4 4 4"/>
+                            <path d="M3.34 19a10 10 0 1 1 17.32 0"/>
+                        </svg>
                     </div>
                     <div class="feature-text">
-                        <b>Alpha Scoring</b>
-                        <span>Proprietary filtering for the highest implied ROI and imminent markets.</span>
+                        <b>Smart Discovery</b>
+                        <span>Probability range filtering to find markets that match your confidence level.</span>
                     </div>
                 </div>
                 <div class="feature-item">
-                    <div class="feature-icon">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    <div class="feature-icon" aria-hidden="true">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 2v20"/>
+                            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+                        </svg>
                     </div>
                     <div class="feature-text">
                         <b>Liquidity Intelligence</b>
-                        <span>Identify deep markets where your trades execute with minimal slippage.</span>
+                        <span>Identify deep markets where capital moves with minimal slippage.</span>
                     </div>
                 </div>
                 <div class="feature-item">
-                    <div class="feature-icon">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    <div class="feature-icon" aria-hidden="true">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"/>
+                            <polyline points="12 6 12 12 16 14"/>
+                        </svg>
                     </div>
                     <div class="feature-text">
                         <b>Capital Efficiency</b>
-                        <span>Sort by imminent expiry to maximize your internal rate of return.</span>
+                        <span>Prioritize imminent expiry to make the most of your capital in a tight window.</span>
                     </div>
                 </div>
             </div>
 
-            <button id="close-welcome" class="welcome-btn">Enter Dashboard</button>
+            <button id="close-welcome" class="welcome-btn">Enter Dashboard →</button>
         </div>
     </div>
+
     <script src="js/main.js"></script>
 </body>
 

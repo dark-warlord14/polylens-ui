@@ -1,54 +1,97 @@
-# PolyLens Elite
+# PolyLens
 
-PolyLens is a professional-grade market discovery and alpha-scoring dashboard for Polymarket. It filters thousands of active markets to find high-probability opportunities with mispriced ROI and deep liquidity.
+PolyLens is a professional-grade market discovery dashboard for [Polymarket](https://polymarket.com). It filters thousands of active markets in real-time to surface high-probability opportunities with deep liquidity and imminent resolution.
 
 **🌐 Live App:** [polylens.aivault.securityjunky.com](https://polylens.aivault.securityjunky.com/)
 
+---
+
 ## ✨ Key Features
-- **Elite Dashboard:** Modern, high-performance UI inspired by Stripe/Dropbox.
-- **Alpha Discovery:** Proprietary scoring for implied ROI and imminent expiry.
-- **Liquidity Intelligence:** Real-time volume filtering for minimal slippage.
-- **Theme Support:** Fully refined Light and Dark modes.
-- **Privacy First:** Filter configurations are stored locally in your browser.
+
+- **Probability Range Filter** — Set a min and max probability to find markets that match your exact confidence level.
+- **Liquidity Presets** — Quick-select 5K / 10K / 25K / 50K minimum volume, or enter a fully custom threshold.
+- **Expiry Window** — Filter markets by days remaining to resolution.
+- **Flexible Sort** — Sort ascending or descending by Probability, Liquidity, or Expiry.
+- **Category Chips** — One-click filter by market category (Politics, Crypto, Finance, Geopolitics, Tech, etc.).
+- **Yes / No Filter** — Further narrow results to Yes or No outcome positions.
+- **Theme Support** — Fully refined Light and Dark modes, saved across sessions.
+- **Persistent Config** — All filter settings are automatically saved to localStorage and restored on next visit.
+
+---
+
+## 🔧 Filters Reference
+
+| Filter | Control | Default | Notes |
+|---|---|---|---|
+| Liquidity ≥ | Dropdown + Custom input | 10K | Presets: 5K, 10K, 25K, 50K, or custom number |
+| Expiry ≤ | Number input | 1 day | Maximum days until market resolution |
+| Probability | Min – Max range | 80% – 100% | Both bounds inclusive |
+| Sort | Dropdown | Prob ↓ | Prob ↑↓ · Liquidity ↑↓ · Expiry ↑↓ |
+
+---
 
 ## 🏗 System Architecture
-The system is 100% automated, utilizing GitHub Actions for data processing and Cloudflare for global static delivery.
+
+The system is fully automated, using GitHub Actions for data syncing and Cloudflare Pages for global delivery.
 
 ```mermaid
 graph LR
     A[Polymarket API] --> B(GitHub Actions)
     B -->|Sync Data| C[Cloudflare Pages]
     C -->|Static Delivery| D(Frontend Live)
-    
+
     style B fill:#635bff,stroke:#333,color:#fff
     style C fill:#f60,stroke:#333,color:#fff
     style D fill:#24b47e,stroke:#333,color:#fff
 ```
 
+---
+
 ## 📂 Project Structure
-Following full-stack web standards:
-- `src/js/`: Modular JavaScript controllers (`main.js`, `popup.js`).
-- `src/css/`: Modern design system styles (`main.css`, `popup.css`).
-- `src/data/`: Auto-synced market intelligence JSON.
-- `scripts/`: Data synchronization and validation logic.
+
+```
+src/
+├── css/
+│   ├── main.css      # Dashboard design system
+│   └── popup.css     # Browser extension popup styles
+├── data/
+│   └── cache.json    # Auto-synced market data (do not edit manually)
+├── js/
+│   ├── main.js       # Dashboard controller (filters, render, config)
+│   └── popup.js      # Browser extension popup controller
+├── icons/            # App icons
+└── index.html        # Main dashboard
+scripts/              # Data sync and validation scripts
+```
+
+---
 
 ## 🛠 Local Development
-The easiest way to run the app locally is with Docker:
+
+The easiest way to run locally is with Docker:
+
 ```bash
 docker-compose up
 ```
-The dashboard will be available at `http://localhost:8080`.
+
+The dashboard will be available at **http://localhost:8080**.
+
+---
 
 ## 🚢 Deployment
+
 Built for **Cloudflare Pages** with zero-config deployment.
 
 1. **Connect GitHub:** Link this repository to Cloudflare Pages.
-2. **Build Settings:** 
-   - Build Command: (Leave blank)
+2. **Build Settings:**
+   - Build Command: *(leave blank)*
    - Output Directory: `src`
-3. **Automate:** GitHub Actions (`.github/workflows/sync-data.yml`) handle all market updates automatically every 10 minutes.
+3. **Automate:** GitHub Actions (`.github/workflows/sync-data.yml`) handle all market data updates automatically every 10 minutes.
 
-## ✅ Implementation Details
-- **Capital Efficiency:** Sort by imminent expiry to maximize internal rate of return.
-- **Onboarding:** Smart welcome overlay reappears every 7 days to keep users informed of the latest scoring changes.
-- **Standardized:** Fully compliant with modern web development practices and clean file structures.
+---
+
+## ✅ Implementation Notes
+
+- **Config Persistence:** All filter settings (liquidity preset, custom value, expiry, probability range, sort direction) are auto-saved to `localStorage` on every change and restored on page load.
+- **Onboarding:** Smart welcome overlay reappears every 7 days.
+- **Privacy First:** No server-side tracking. All preferences are local to your browser.

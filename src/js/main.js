@@ -1,33 +1,84 @@
 /**
- * app.js — PolyLens Elite Dashboard Controller
+ * main.js — PolyLens Dashboard Controller
  */
-
-const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
 
 let allOpportunities = [];
 let currentCategory = "all";
 let activeOutcome = null; // Outcome filter state ("Yes" | "No" | null)
 const CORE_CATEGORIES = ["Politics", "Elections", "Sports", "Crypto", "Finance", "Economy", "Geopolitics", "Tech", "Culture", "Climate & Science"];
 
+// Preset liquidity options (value in raw number)
+const VOL_PRESETS = [
+    { label: "5K",   value: 5000   },
+    { label: "10K",  value: 10000  },
+    { label: "25K",  value: 25000  },
+    { label: "50K",  value: 50000  },
+    { label: "Custom", value: "custom" }
+];
+
 // ─── Init ──────────────────────────────────────────────────────────
 
 document.addEventListener("DOMContentLoaded", () => {
+    setupThemeToggle(); // theme first to avoid flash
     initDashboard();
     setupEventListeners();
-    setupThemeToggle();
+    setupLiquidityDropdown();
     checkOnboarding();
 });
 
 let _filterDebounce;
 function setupEventListeners() {
-    ["min-volume", "max-days", "min-prob", "sort-by"].forEach(id => {
+    // These IDs all trigger a debounced filter re-run
+    ["max-days", "min-prob", "max-prob", "vol-custom-input", "sort-by"].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener("input", () => {
             clearTimeout(_filterDebounce);
             _filterDebounce = setTimeout(applyFilters, 300);
         });
     });
+
+    // Guard: min-prob should never exceed max-prob and vice-versa
+    const minProbEl = document.getElementById("min-prob");
+    const maxProbEl = document.getElementById("max-prob");
+
+    minProbEl?.addEventListener("change", () => {
+        const min = parseFloat(minProbEl.value) || 0;
+        const max = parseFloat(maxProbEl?.value) ?? 100;
+        if (min > max) maxProbEl.value = min;
+    });
+
+    maxProbEl?.addEventListener("change", () => {
+        const min = parseFloat(minProbEl?.value) || 0;
+        const max = parseFloat(maxProbEl.value) ?? 100;
+        if (max < min) minProbEl.value = max;
+    });
 }
+
+// ─── Liquidity Dropdown ────────────────────────────────────────────
+
+function setupLiquidityDropdown() {
+    const select = document.getElementById("vol-preset");
+    const customWrap = document.getElementById("vol-custom-wrap");
+    const customInput = document.getElementById("vol-custom-input");
+
+    if (!select) return;
+
+    const toggle = () => {
+        const isCustom = select.value === "custom";
+        customWrap.classList.toggle("hidden", !isCustom);
+        if (!isCustom) {
+            clearTimeout(_filterDebounce);
+            _filterDebounce = setTimeout(applyFilters, 300);
+        }
+    };
+
+    select.addEventListener("change", toggle);
+
+    // Sync state on first load (after loadConfig sets the value)
+    // We call this in loadConfig after setting select.value
+}
+
+// ─── Theme Toggle ──────────────────────────────────────────────────
 
 function setupThemeToggle() {
     const toggle = document.getElementById("theme-toggle-header");
@@ -47,7 +98,6 @@ function setupThemeToggle() {
         localStorage.setItem("polylens_theme", isDark ? "dark" : "light");
     };
 
-    // Init
     const savedTheme = localStorage.getItem("polylens_theme");
     // Default to dark if no preference or explicitly dark
     const isDark = !savedTheme || savedTheme === "dark";
@@ -58,6 +108,8 @@ function setupThemeToggle() {
         setTheme(!isCurrentlyDark);
     });
 }
+
+// ─── Onboarding ────────────────────────────────────────────────────
 
 function checkOnboarding() {
     const overlay = document.getElementById("welcome-overlay");
@@ -76,6 +128,8 @@ function checkOnboarding() {
         localStorage.setItem("polylens_last_welcomed", Date.now().toString());
     });
 }
+
+// ─── Init Dashboard ────────────────────────────────────────────────
 
 async function initDashboard() {
     renderSkeletons();
@@ -98,36 +152,57 @@ async function initDashboard() {
     }
 }
 
-// ─── Config Persistence (Native localStorage) ──────────────────────
+// ─── Config Persistence ────────────────────────────────────────────
 
 const CONFIG_KEY = "polylens_filter_config";
 
+function getEffectiveMinVolume() {
+    const select = document.getElementById("vol-preset");
+    if (!select) return 10000;
+    if (select.value === "custom") {
+        return parseFloat(document.getElementById("vol-custom-input")?.value) || 0;
+    }
+    return parseFloat(select.value) || 0;
+}
+
 function saveConfig() {
     const config = {
-        minVolume: document.getElementById("min-volume")?.value || "10000",
-        maxDays: document.getElementById("max-days")?.value || "1",
-        minProb: document.getElementById("min-prob")?.value || "80",
-        sortBy: document.getElementById("sort-by")?.value || "roi"
+        volPreset:    document.getElementById("vol-preset")?.value      || "10000",
+        volCustom:    document.getElementById("vol-custom-input")?.value || "",
+        maxDays:      document.getElementById("max-days")?.value         || "1",
+        minProb:      document.getElementById("min-prob")?.value         || "80",
+        maxProb:      document.getElementById("max-prob")?.value         || "100",
+        sortBy:       document.getElementById("sort-by")?.value          || "prob-desc"
     };
     localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
 }
 
 function loadConfig() {
     const saved = localStorage.getItem(CONFIG_KEY);
-    if (!saved) return;
+    const set = (id, val) => {
+        const el = document.getElementById(id);
+        if (el && val !== undefined && val !== null) el.value = val;
+    };
 
-    try {
-        const config = JSON.parse(saved);
-        const set = (id, val) => {
-            const el = document.getElementById(id);
-            if (el && val !== undefined) el.value = val;
-        };
-        set("min-volume", config.minVolume);
-        set("max-days", config.maxDays);
-        set("min-prob", config.minProb);
-        set("sort-by", config.sortBy);
-    } catch (e) {
-        console.error("Failed to parse config:", e);
+    if (saved) {
+        try {
+            const config = JSON.parse(saved);
+            set("vol-preset", config.volPreset);
+            set("vol-custom-input", config.volCustom);
+            set("max-days", config.maxDays);
+            set("min-prob", config.minProb);
+            set("max-prob", config.maxProb);
+            set("sort-by", config.sortBy);
+        } catch (e) {
+            console.error("Failed to parse config:", e);
+        }
+    }
+
+    // After loading, sync the custom-input visibility
+    const select = document.getElementById("vol-preset");
+    const customWrap = document.getElementById("vol-custom-wrap");
+    if (select && customWrap) {
+        customWrap.classList.toggle("hidden", select.value !== "custom");
     }
 }
 
@@ -135,7 +210,7 @@ function loadConfig() {
 
 function updateStats(totalScanned, opportunitiesFound, timestamp) {
     const scannedEl = document.getElementById("stat-scanned");
-    const dealsEl = document.getElementById("stat-deals");
+    const dealsEl   = document.getElementById("stat-deals");
     const lastSyncEl = document.getElementById("last-sync");
 
     if (scannedEl) scannedEl.textContent = (totalScanned || 0).toLocaleString();
@@ -158,15 +233,18 @@ function updateStats(totalScanned, opportunitiesFound, timestamp) {
 
 function applyFilters() {
     saveConfig(); // Auto-save on every filter change
-    const minVol = parseFloat(document.getElementById("min-volume")?.value) || 0;
+
+    const minVol  = getEffectiveMinVolume();
     const maxDays = parseFloat(document.getElementById("max-days")?.value) || 999;
     const minProb = parseFloat(document.getElementById("min-prob")?.value) || 0;
-    const sortBy = document.getElementById("sort-by")?.value || "roi";
+    const maxProb = parseFloat(document.getElementById("max-prob")?.value) ?? 100;
+    const sortBy  = document.getElementById("sort-by")?.value || "prob";
 
     const sidebarFiltered = allOpportunities.filter(d =>
         d.volume >= minVol &&
         d.daysLeft <= maxDays &&
-        d.probability >= minProb
+        d.probability >= minProb &&
+        d.probability <= maxProb
     );
 
     const categoryFiltered = sidebarFiltered.filter(d => {
@@ -180,14 +258,16 @@ function applyFilters() {
 
     const finalFiltered = categoryFiltered.filter(d => {
         if (!activeOutcome) return true;
-        // Case-insensitive match for robustness
         return d.outcome.toLowerCase() === activeOutcome.toLowerCase();
     });
 
-    if (sortBy === "roi") finalFiltered.sort((a, b) => b.roi - a.roi);
-    else if (sortBy === "volume") finalFiltered.sort((a, b) => b.volume - a.volume);
-    else if (sortBy === "prob") finalFiltered.sort((a, b) => b.probability - a.probability);
-    else if (sortBy === "days") finalFiltered.sort((a, b) => a.daysLeft - b.daysLeft);
+    if      (sortBy === "prob-desc")  finalFiltered.sort((a, b) => b.probability - a.probability);
+    else if (sortBy === "prob-asc")   finalFiltered.sort((a, b) => a.probability - b.probability);
+    else if (sortBy === "vol-desc")   finalFiltered.sort((a, b) => b.volume - a.volume);
+    else if (sortBy === "vol-asc")    finalFiltered.sort((a, b) => a.volume - b.volume);
+    else if (sortBy === "days-asc")   finalFiltered.sort((a, b) => a.daysLeft - b.daysLeft);
+    else if (sortBy === "days-desc")  finalFiltered.sort((a, b) => b.daysLeft - a.daysLeft);
+    else finalFiltered.sort((a, b) => b.probability - a.probability); // fallback
 
     renderOpportunities(finalFiltered);
 }
@@ -203,27 +283,25 @@ function updateCategoryChips(filtered, categoryFiltered) {
     filtered.forEach(d => {
         const cat = d.category;
         counts[cat] = (counts[cat] || 0) + 1;
-        if (!CORE_CATEGORIES.includes(cat)) { // Check against CORE_CATEGORIES to determine 'Other'
+        if (!CORE_CATEGORIES.includes(cat)) {
             otherCount++;
         }
-        allCategoriesInFiltered.add(cat); // Add all unique categories found
+        allCategoriesInFiltered.add(cat);
     });
 
-    // Determine which categories to explicitly show as chips, maintaining order
     const categoriesToShow = Array.from(allCategoriesInFiltered)
-        .filter(cat => CORE_CATEGORIES.includes(cat) || (!CORE_CATEGORIES.includes(cat) && otherCount === 0)) // Only show non-core explicitly if there's no 'Other' bucket
+        .filter(cat => CORE_CATEGORIES.includes(cat) || (!CORE_CATEGORIES.includes(cat) && otherCount === 0))
         .sort((a, b) => {
-            // Sort: CORE_CATEGORIES order first, then alphabetical for others
             const indexA = CORE_CATEGORIES.indexOf(a);
             const indexB = CORE_CATEGORIES.indexOf(b);
-            if (indexA !== -1 && indexB !== -1) return indexA - indexB; // Both are core, sort by core index
-            if (indexA !== -1) return -1; // A is core, B is not, A comes first
-            if (indexB !== -1) return 1;  // B is core, A is not, B comes first
-            return a.localeCompare(b); // Neither are core, sort alphabetically
+            if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+            if (indexA !== -1) return -1;
+            if (indexB !== -1) return 1;
+            return a.localeCompare(b);
         });
 
     if (otherCount > 0) {
-        categoriesToShow.push("Other"); // Add "Other" chip if there are any non-core markets
+        categoriesToShow.push("Other");
     }
 
     container.innerHTML = "";
@@ -243,7 +321,7 @@ function updateCategoryChips(filtered, categoryFiltered) {
 
     categoriesToShow.forEach(cat => {
         const count = cat === "Other" ? otherCount : (counts[cat] || 0);
-        if (count > 0 || currentCategory === cat) { // Only show chip if count > 0 or it's the currently active category
+        if (count > 0 || currentCategory === cat) {
             makeChip(`${cat}  ${count}`, currentCategory === cat, () => {
                 currentCategory = cat;
                 applyFilters();
@@ -256,10 +334,9 @@ function updateCategoryChips(filtered, categoryFiltered) {
     sep.className = "nav-sep";
     container.appendChild(sep);
 
-    // Yes/No counts in the CATEGORY-filtered set (what's actually visible)
     const _base = categoryFiltered || filtered;
     const yesCount = _base.filter(d => d.outcome.toLowerCase() === "yes").length;
-    const noCount = _base.filter(d => d.outcome.toLowerCase() === "no").length;
+    const noCount  = _base.filter(d => d.outcome.toLowerCase() === "no").length;
 
     const makeOutcomeChip = (label, value, count, isActive) => {
         const btn = document.createElement("button");
@@ -273,19 +350,19 @@ function updateCategoryChips(filtered, categoryFiltered) {
     };
 
     makeOutcomeChip("Yes", "Yes", yesCount, activeOutcome === "Yes");
-    makeOutcomeChip("No", "No", noCount, activeOutcome === "No");
+    makeOutcomeChip("No",  "No",  noCount,  activeOutcome === "No");
 }
 
 // ─── Render ────────────────────────────────────────────────────────
 
 function renderSkeletons() {
     const grid = document.getElementById("deals-grid");
-    if (grid) grid.innerHTML = '<div class="skeleton-card"></div>'.repeat(8);
+    if (grid) grid.innerHTML = '<div class="skeleton-card" role="presentation"></div>'.repeat(8);
 }
 
 function renderOpportunities(deals) {
-    const grid = document.getElementById("deals-grid");
-    const empty = document.getElementById("empty-state");
+    const grid    = document.getElementById("deals-grid");
+    const empty   = document.getElementById("empty-state");
     const dealsEl = document.getElementById("stat-deals");
 
     if (dealsEl) dealsEl.textContent = deals.length.toLocaleString();
@@ -294,26 +371,24 @@ function renderOpportunities(deals) {
     grid.innerHTML = "";
 
     if (empty) {
-        if (deals.length === 0) {
-            empty.classList.remove("hidden");
-        } else {
-            empty.classList.add("hidden");
-        }
+        empty.classList.toggle("hidden", deals.length > 0);
     }
     if (deals.length === 0) return;
 
     deals.forEach(deal => {
         const card = document.createElement("div");
         card.className = "deal-card";
+        card.setAttribute("role", "listitem");
 
         const vol = deal.volume;
         const volLabel = vol >= 1e6
-            ? `$${(vol / 1e6).toFixed(1)}M`
+            ? `${(vol / 1e6).toFixed(1)}M`
             : vol >= 1e3
-                ? `$${(vol / 1e3).toFixed(0)}K`
-                : `$${vol}`;
+                ? `${(vol / 1e3).toFixed(0)}K`
+                : `${vol}`;
 
         const volTier = vol >= 500000 ? "high" : vol >= 100000 ? "mid" : "low";
+
         const totalMinutes = deal.expiryDate
             ? Math.max(0, Math.floor((new Date(deal.expiryDate) - Date.now()) / 60000))
             : Math.max(0, Math.floor(deal.daysLeft * 24 * 60));
@@ -333,45 +408,46 @@ function renderOpportunities(deals) {
             daysLabel = `${dd}d ${hh}h left`;
         }
 
-        const isUrgent = totalMinutes < 24 * 60; // < 24 hours
+        const isUrgent   = totalMinutes < 24 * 60;
         const isHighProb = deal.probability >= 80;
 
         // Escape to prevent XSS
-        const title = escapeHTML(deal.title);
-        const outcome = escapeHTML(String(deal.outcome || "Yes"));
+        const title    = escapeHTML(deal.title);
+        const category = escapeHTML(deal.category || "General");
+        const outcome  = escapeHTML(String(deal.outcome || "Yes"));
+        const outcomeClass = outcome.toLowerCase() === "yes" ? "yes" : "no";
 
         card.innerHTML = `
             <div class="card-header">
-                <span class="cat-badge">${escapeHTML(deal.category || "General")}</span>
-                <span class="vol-badge vol-${volTier}">${volLabel} volume</span>
+                <span class="cat-badge" data-cat="${category}">${category}</span>
+                <span class="vol-badge vol-${volTier}">${volLabel}</span>
             </div>
 
             <div class="card-body">
-                <p class="market-title">${title}</p>
+                <h3 class="market-title">${title}</h3>
                 <div class="outcome-row">
-                    <span class="outcome-pill">${outcome}</span>
+                    <span class="outcome-pill ${outcomeClass}">${outcome}</span>
                     <span class="expiry-chip${isUrgent ? " urgent" : ""}">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+                        </svg>
                         ${daysLabel}
                     </span>
                 </div>
             </div>
 
             <div class="card-metrics">
-                <div class="metric">
-                    <span class="metric-label">Probability</span>
-                    <span class="metric-value${isHighProb ? " prob-high" : ""}">${deal.probability}%</span>
-                </div>
-                <div class="metric">
-                    <span class="metric-label">Implied ROI</span>
-                    <span class="metric-value roi-val">+${deal.roi}%</span>
+                <span class="metric-label">Probability</span>
+                <span class="metric-value${isHighProb ? " prob-high" : ""}">${deal.probability}%</span>
+                <div class="prob-track">
+                    <div class="prob-bar${isHighProb ? " high" : ""}" style="width: ${deal.probability}%"></div>
                 </div>
             </div>
 
             <div class="card-footer">
-                <a href="https://polymarket.com/market/${encodeURIComponent(deal.slug)}" target="_blank" class="cta-btn">
+                <a href="https://polymarket.com/market/${encodeURIComponent(deal.slug)}" target="_blank" rel="noopener noreferrer" class="cta-btn">
                     <span>Trade on Polymarket</span>
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
                         <polyline points="15 3 21 3 21 9"></polyline>
                         <line x1="10" y1="14" x2="21" y2="3"></line>

@@ -119,7 +119,6 @@ function processMarkets(markets) {
                     title: marketTitle,
                     outcome: outcomes[idx] || "Yes",
                     probability: parseFloat((prob * 100).toFixed(1)),
-                    roi: parseFloat((((1 - prob) / prob) * 100).toFixed(2)),
                     daysLeft: parseFloat(Math.max(0, diffDays).toFixed(1)),
                     volume: volume,
                     category: category,

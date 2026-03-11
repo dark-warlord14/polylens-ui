@@ -2,139 +2,133 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PolyLens</title>
-  <link rel="stylesheet" href="css/popup.css" />
-  <link rel="icon" type="image/png" href="icons/icon16.png">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PolyLens Alpha</title>
+    <link rel="stylesheet" href="css/popup.css" />
+    <link rel="icon" type="image/png" href="icons/icon16.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 
 <body>
-  <div class="app">
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-left">
+                <div class="logo">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5">
+                        <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path>
+                        <circle cx="12" cy="12" r="3"></circle>
+                    </svg>
+                </div>
+                <div>
+                    <div class="title">PolyLens Alpha</div>
+                    <div class="subtitle">Discovery Engine</div>
+                </div>
+            </div>
+            <div id="api-badge" class="badge badge-loading">
+                <span class="badge-dot"></span>
+                <span id="api-badge-text">Syncing</span>
+            </div>
+        </header>
 
-    <!-- Header -->
-    <div class="header">
-      <div class="header-left">
-        <div class="logo">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5">
-            <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path>
-            <circle cx="12" cy="12" r="3"></circle>
-          </svg>
+        <div class="divider"></div>
+
+        <!-- Filter Mode Selector -->
+        <div class="section">
+            <div class="section-label">Filter Intelligence</div>
+            <div class="tabs">
+                <button class="tab active" data-mode="days">Imminent</button>
+                <button class="tab" data-mode="deals">Alpha</button>
+                <button class="tab" data-mode="date">Specific</button>
+                <button class="tab" data-mode="range">Window</button>
+            </div>
         </div>
-        <div>
-          <div class="title">PolyLens</div>
-          <div class="subtitle">Alpha Discovery</div>
+
+        <!-- Imminent (Days Left) -->
+        <div id="section-days" class="filter-section visible">
+            <div class="section-label">Expiration Window</div>
+            <div class="input-row">
+                <input type="number" id="input-days" class="input" placeholder="0" min="0" max="365" />
+                <span class="input-unit">days left</span>
+            </div>
+            <div class="quick-chips">
+                <button class="chip" data-val="1">24h</button>
+                <button class="chip" data-val="3">3d</button>
+                <button class="chip" data-val="7">1w</button>
+                <button class="chip" data-val="14">2w</button>
+            </div>
+            <div class="hint">Filter markets by remaining time to resolution.</div>
         </div>
-      </div>
-      <div id="api-badge" class="badge badge-loading">
-        <span class="badge-dot"></span>
-        <span id="api-badge-text">Loading...</span>
-      </div>
-    </div>
 
-    <!-- Divider -->
-    <div class="divider"></div>
+        <!-- Alpha Deals (ROI) -->
+        <div id="section-deals" class="filter-section">
+            <div class="section-label">Probability Scanning</div>
+            <div class="config-grid">
+                <div class="config-item">
+                    <label>Window &le;</label>
+                    <div class="input-row-mini">
+                        <input type="number" id="input-deal-days" class="input-mini" value="1" min="1" max="30" />
+                        <span class="unit">d</span>
+                    </div>
+                </div>
+                <div class="config-item">
+                    <label>Floor &ge;</label>
+                    <div class="input-row-mini">
+                        <input type="number" id="input-deal-prob" class="input-mini" value="80" min="50" max="99" />
+                        <span class="unit">%</span>
+                    </div>
+                </div>
+            </div>
 
-    <!-- Filter Mode Selector -->
-    <div class="section">
-      <div class="section-label">Filter by</div>
-      <div class="tabs">
-        <button class="tab active" data-mode="days">Days Left</button>
-        <button class="tab" data-mode="date">Exact Date</button>
-        <button class="tab" data-mode="range">Date Range</button>
-        <button class="tab" data-mode="deals">ROI Deals</button>
-      </div>
-    </div>
-
-    <!-- Days to Expiry -->
-    <div id="section-days" class="filter-section visible">
-      <div class="section-label">Show markets expiring within</div>
-      <div class="input-row">
-        <input type="number" id="input-days" class="input" placeholder="0" min="0" max="365" />
-        <span class="input-unit">days</span>
-      </div>
-      <div class="quick-chips">
-        <button class="chip" data-val="1">1d</button>
-        <button class="chip" data-val="3">3d</button>
-        <button class="chip" data-val="5">5d</button>
-        <button class="chip" data-val="7">7d</button>
-        <button class="chip" data-val="10">10d</button>
-      </div>
-      <div class="hint">Show markets expiring in the next X days.</div>
-    </div>
-
-    <!-- Exact Date -->
-    <div id="section-date" class="filter-section">
-      <div class="section-label">Show markets expiring on</div>
-      <input type="date" id="input-date" class="input input-date" />
-      <div class="quick-chips">
-        <button class="chip chip-wide" id="chip-today">Today</button>
-        <button class="chip chip-wide" id="chip-end-month">End of Month</button>
-      </div>
-    </div>
-
-    <!-- Date Range -->
-    <div id="section-range" class="filter-section">
-      <div class="section-label">Show markets expiring between</div>
-      <div class="range-row">
-        <input type="date" id="input-start" class="input input-date" />
-        <span class="range-sep">—</span>
-        <input type="date" id="input-end" class="input input-date" />
-      </div>
-    </div>
-
-    <!-- ROI Deals -->
-    <div id="section-deals" class="filter-section">
-      <div class="section-label">Find high probability deals</div>
-      <div class="config-grid">
-        <div class="config-item">
-          <label for="input-deal-days">Expiring in &le;</label>
-          <div class="input-row-mini">
-            <input type="number" id="input-deal-days" class="input-mini" value="1" min="1" max="30" />
-            <span class="unit">days</span>
-          </div>
+            <button id="btn-open-dashboard" class="btn btn-primary btn-full" style="margin-top: 8px;">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right: 8px;">
+                    <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3" />
+                </svg>
+                Launch Elite Dashboard
+            </button>
+            <div class="hint" style="text-align: center;">Deep arbitrage scans and advanced filtering.</div>
         </div>
-        <div class="config-item">
-          <label for="input-deal-prob">Probability &ge;</label>
-          <div class="input-row-mini">
-            <input type="number" id="input-deal-prob" class="input-mini" value="80" min="50" max="99" />
-            <span class="unit">%</span>
-          </div>
+
+        <!-- Specific Date -->
+        <div id="section-date" class="filter-section">
+            <div class="section-label">Target Date</div>
+            <input type="date" id="input-date" class="input" style="background: var(--surface); border: 1px solid var(--border); padding: 8px 12px; border-radius: var(--radius-md); width: 100%; color: var(--text-primary); font-weight: 600;" />
+            <div class="quick-chips">
+                <button class="chip chip-wide" id="chip-today">Today</button>
+                <button class="chip chip-wide" id="chip-end-month">Month End</button>
+            </div>
         </div>
-      </div>
 
-      <button id="btn-open-dashboard" class="btn btn-primary btn-full">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
-          style="margin-right: 8px;">
-          <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3" />
-        </svg>
-        Open Alpha Dashboard
-      </button>
+        <!-- Date Range -->
+        <div id="section-range" class="filter-section">
+            <div class="section-label">Date Window</div>
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <input type="date" id="input-start" class="input" style="background: var(--surface); border: 1px solid var(--border); padding: 8px 12px; border-radius: var(--radius-md); width: 100%; color: var(--text-primary); font-weight: 600;" />
+                <div style="text-align: center; font-size: 0.75rem; color: var(--text-tertiary);">to</div>
+                <input type="date" id="input-end" class="input" style="background: var(--surface); border: 1px solid var(--border); padding: 8px 12px; border-radius: var(--radius-md); width: 100%; color: var(--text-primary); font-weight: 600;" />
+            </div>
+        </div>
 
-      <div class="hint" style="text-align: center;">Recommended for deep arbitrage scans and advanced filtering.</div>
-    </div>
+        <div class="divider"></div>
 
-    <!-- Divider -->
-    <div class="divider"></div>
+        <!-- Actions -->
+        <div class="actions">
+            <button id="btn-clear" class="btn btn-secondary">Reset</button>
+            <button id="btn-apply" class="btn btn-primary">Apply Filters</button>
+        </div>
 
-    <!-- Actions -->
-    <div class="actions">
-      <button id="btn-clear" class="btn btn-secondary">Clear</button>
-      <button id="btn-apply" class="btn btn-primary">Apply Filter</button>
-    </div>
-
-    <!-- Status bar -->
-    <div id="status-bar" class="status-bar hidden">
-      <svg width="12" height="12" viewBox="0 0 24 24" fill="none">
-        <circle cx="12" cy="12" r="9" stroke="#22c55e" stroke-width="2.5" />
-        <path d="M8 12l3 3 5-5" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
-      </svg>
-      <span id="status-text">Filter active</span>
-      <span id="status-counts" class="status-counts"></span>
-    </div>
+        <!-- Status bar -->
+        <div id="status-bar" class="status-bar hidden">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                <polyline points="22 4 12 14.01 9 11.01"></polyline>
+            </svg>
+            <span id="status-text">Intelligence active</span>
+            <span id="status-counts" class="status-counts"></span>
+        </div>
     </div>
     <script src="js/popup.js"></script>
-    </body>
-
+</body>
 
 </html>
