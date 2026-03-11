@@ -72,17 +72,11 @@ async function initDashboard() {
             allOpportunities = cache.deals;
             updateStats(cache.count, allOpportunities.length, cache.timestamp);
             applyFilters();
-
-            const ageMs = Date.now() - (cache.timestamp || 0);
-            if (ageMs > CACHE_TTL_MS) {
-                const statusEl = document.getElementById("sync-status");
-                if (statusEl) statusEl.textContent = `Last updated ${formatAge(ageMs)} ago`;
-            }
         }
     } catch (error) {
         console.error('Failed to load markets:', error);
-        const statusEl = document.getElementById("sync-status");
-        if (statusEl) statusEl.textContent = "Error loading markets. Please try again later.";
+        const statusEl = document.getElementById("last-sync");
+        if (statusEl) statusEl.textContent = "Error loading markets.";
     }
 }
 
