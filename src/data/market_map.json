@@ -24641,10 +24641,6 @@
     "endDate": "2026-06-30T00:00:00Z",
     "closed": false
   },
-  "cbb-mst-mdes-2026-01-03": {
-    "endDate": "2026-01-03T21:30:00Z",
-    "closed": false
-  },
   "cwbb-sccc-wcar-2026-01-03": {
     "endDate": "2026-01-03T19:00:00Z",
     "closed": false
@@ -95855,10 +95851,6 @@
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
   },
-  "hok-jdg-ksg-2026-03-11-game1": {
-    "endDate": "2026-03-11T15:10:00Z",
-    "closed": false
-  },
   "hok-jdg-ksg-2026-03-11-game2": {
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
@@ -95924,27 +95916,27 @@
     "closed": false
   },
   "hok-wb-wol-2026-03-11": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "hok-wb-wol-2026-03-11-game1": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "hok-wb-wol-2026-03-11-game2": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "hok-wb-wol-2026-03-11-game3": {
-    "endDate": "2026-03-11T17:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "hok-wb-wol-2026-03-11-game4": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "hok-wb-wol-2026-03-11-total-games-3pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "elc-oxf-hul-2026-04-03-spread-home-1pt5": {
@@ -95952,7 +95944,7 @@
     "closed": false
   },
   "hok-wb-wol-2026-03-11-total-games-4pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "elc-oxf-hul-2026-04-03-spread-away-1pt5": {
@@ -95960,7 +95952,7 @@
     "closed": false
   },
   "hok-wb-wol-2026-03-11-game-handicap-home-1pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "elc-oxf-hul-2026-04-03-spread-home-2pt5": {
@@ -95968,7 +95960,7 @@
     "closed": false
   },
   "hok-wb-wol-2026-03-11-game-handicap-home-2pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:20:00Z",
     "closed": false
   },
   "elc-oxf-hul-2026-04-03-spread-away-2pt5": {
@@ -101249,10 +101241,6 @@
     "endDate": "2026-03-11T14:10:00Z",
     "closed": false
   },
-  "val-art-t1a-2026-03-11-game1": {
-    "endDate": "2026-03-11T14:10:00Z",
-    "closed": false
-  },
   "val-art-t1a-2026-03-11-game2": {
     "endDate": "2026-03-11T14:10:00Z",
     "closed": false
@@ -104037,14 +104025,6 @@
     "endDate": "2026-03-11T12:00:00Z",
     "closed": false
   },
-  "highest-temperature-in-ankara-on-march-11-2026-10c": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-ankara-on-march-11-2026-11c": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-ankara-on-march-11-2026-12c": {
     "endDate": "2026-03-11T12:00:00Z",
     "closed": false
@@ -104109,18 +104089,6 @@
     "endDate": "2026-03-11T12:00:00Z",
     "closed": false
   },
-  "highest-temperature-in-munich-on-march-11-2026-11c": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-munich-on-march-11-2026-12c": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-munich-on-march-11-2026-13c": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-munich-on-march-11-2026-14c": {
     "endDate": "2026-03-11T12:00:00Z",
     "closed": false
@@ -104138,10 +104106,6 @@
     "closed": false
   },
   "highest-temperature-in-munich-on-march-11-2026-18corhigher": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-tel-aviv-on-march-11-2026-22c": {
     "endDate": "2026-03-11T12:00:00Z",
     "closed": false
   },
@@ -106272,10 +106236,6 @@
     "endDate": "2026-03-16T16:00:00Z",
     "closed": false
   },
-  "val-ae4-trn-2026-03-11": {
-    "endDate": "2026-03-11T14:10:00Z",
-    "closed": false
-  },
   "elon-musk-of-tweets-march-12-march-14-165-189": {
     "endDate": "2026-03-14T16:00:00Z",
     "closed": false
@@ -106290,10 +106250,6 @@
   },
   "sc2-bunny-clem-2026-03-14-game1": {
     "endDate": "2026-03-14T14:45:00Z",
-    "closed": false
-  },
-  "atp-geerts-dostani-2026-03-11": {
-    "endDate": "2026-03-18T09:00:00Z",
     "closed": false
   },
   "will-the-price-of-bitcoin-be-between-70000-72000-on-march-16": {
@@ -106320,10 +106276,6 @@
     "endDate": "2026-03-16T16:00:00Z",
     "closed": false
   },
-  "val-ae4-trn-2026-03-11-game2": {
-    "endDate": "2026-03-11T14:10:00Z",
-    "closed": false
-  },
   "elon-musk-of-tweets-march-12-march-14-215-239": {
     "endDate": "2026-03-14T16:00:00Z",
     "closed": false
@@ -106342,10 +106294,6 @@
   },
   "will-the-price-of-bitcoin-be-between-74000-76000-on-march-16": {
     "endDate": "2026-03-16T16:00:00Z",
-    "closed": false
-  },
-  "val-ae4-trn-2026-03-11-total-games-2pt5": {
-    "endDate": "2026-03-11T14:10:00Z",
     "closed": false
   },
   "elon-musk-of-tweets-march-12-march-14-240plus": {
@@ -106370,10 +106318,6 @@
   },
   "ethereum-above-2400-on-march-16": {
     "endDate": "2026-03-16T16:00:00Z",
-    "closed": false
-  },
-  "val-ae4-trn-2026-03-11-map-handicap-away-1pt5": {
-    "endDate": "2026-03-11T14:10:00Z",
     "closed": false
   },
   "will-the-price-of-bitcoin-be-greater-than-78000-on-march-16": {
@@ -107112,15 +107056,7 @@
     "endDate": "2026-03-15T00:00:00Z",
     "closed": false
   },
-  "wta-bronzet-brancac-2026-03-11-first-set-total-8pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
   "wta-bronzet-brancac-2026-03-11-match-total-21pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
-  "wta-bronzet-brancac-2026-03-11-first-set-winner-Bronzetti-vs-Brancaccio": {
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
@@ -107140,20 +107076,12 @@
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
-  "wta-bronzet-brancac-2026-03-11-first-set-total-9pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
   "2026-the-players-championship-winner-seong-hyeon-kim-win": {
     "endDate": "2026-03-15T00:00:00Z",
     "closed": false
   },
   "codmw-lat1-c9ny-2026-03-14-game-handicap-away-2pt5": {
     "endDate": "2026-03-15T05:00:00Z",
-    "closed": false
-  },
-  "wta-bronzet-brancac-2026-03-11-first-set-total-10pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
   "wta-bronzet-brancac-2026-03-11-match-total-23pt5": {
@@ -107344,14 +107272,6 @@
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
-  "wta-erjavec-oz-2026-03-11-first-set-winner-Erjavec-vs-Oz": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
-  "wta-erjavec-oz-2026-03-11-first-set-total-8pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
   "wta-erjavec-oz-2026-03-11-match-total-21pt5": {
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
@@ -107372,10 +107292,6 @@
     "endDate": "2026-03-15T00:00:00Z",
     "closed": false
   },
-  "wta-erjavec-oz-2026-03-11-first-set-total-9pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
   "wta-erjavec-oz-2026-03-11-match-total-22pt5": {
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
@@ -107394,10 +107310,6 @@
   },
   "2026-the-players-championship-winner-taylor-moore-win": {
     "endDate": "2026-03-15T00:00:00Z",
-    "closed": false
-  },
-  "wta-erjavec-oz-2026-03-11-first-set-total-10pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
   "wta-erjavec-oz-2026-03-11-match-total-23pt5": {
@@ -107468,15 +107380,7 @@
     "endDate": "2026-04-05T02:30:00Z",
     "closed": false
   },
-  "wta-kalinin-pridank-2026-03-11-first-set-winner-Kalinina-vs-Pridankina": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
   "wta-kalinin-pridank-2026-03-11-set-totals-2pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
-  "wta-kalinin-pridank-2026-03-11-first-set-total-8pt5": {
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
@@ -107492,15 +107396,7 @@
     "endDate": "2026-03-15T00:00:00Z",
     "closed": false
   },
-  "wta-kalinin-pridank-2026-03-11-first-set-total-9pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
   "wta-kalinin-pridank-2026-03-11-match-total-22pt5": {
-    "endDate": "2026-03-18T07:00:00Z",
-    "closed": false
-  },
-  "wta-kalinin-pridank-2026-03-11-first-set-total-10pt5": {
     "endDate": "2026-03-18T07:00:00Z",
     "closed": false
   },
@@ -110072,28 +109968,12 @@
     "endDate": "2026-04-04T23:30:00Z",
     "closed": false
   },
-  "atp-geerts-dostani-2026-03-11-match-total-21pt5": {
-    "endDate": "2026-03-18T09:00:00Z",
-    "closed": false
-  },
-  "atp-geerts-dostani-2026-03-11-set-totals-2pt5": {
-    "endDate": "2026-03-18T09:00:00Z",
-    "closed": false
-  },
   "mls-mia-aus-2026-04-04-spread-home-2pt5": {
     "endDate": "2026-04-04T23:30:00Z",
     "closed": false
   },
-  "atp-geerts-dostani-2026-03-11-match-total-22pt5": {
-    "endDate": "2026-03-18T09:00:00Z",
-    "closed": false
-  },
   "mls-mia-aus-2026-04-04-spread-away-2pt5": {
     "endDate": "2026-04-04T23:30:00Z",
-    "closed": false
-  },
-  "atp-geerts-dostani-2026-03-11-match-total-23pt5": {
-    "endDate": "2026-03-18T09:00:00Z",
     "closed": false
   },
   "mls-mia-aus-2026-04-04-total-1pt5": {
@@ -111781,14 +111661,6 @@
   },
   "bra2-cui-ath-2026-04-01-ath": {
     "endDate": "2026-04-02T00:30:00Z",
-    "closed": false
-  },
-  "bra2-ber-ope-2026-04-02-ber": {
-    "endDate": "2026-04-02T20:30:00Z",
-    "closed": false
-  },
-  "bra2-ber-ope-2026-04-02-draw": {
-    "endDate": "2026-04-02T20:30:00Z",
     "closed": false
   },
   "bra2-ber-ope-2026-04-02-ope": {
@@ -115781,14 +115653,6 @@
   },
   "sea-rom-lec-2026-03-22-lec": {
     "endDate": "2026-03-22T17:00:00Z",
-    "closed": false
-  },
-  "bun-aug-stu-2026-03-22-stu": {
-    "endDate": "2026-03-22T18:30:00Z",
-    "closed": false
-  },
-  "fl1-pfc-hac-2026-03-22-hac": {
-    "endDate": "2026-03-22T16:15:00Z",
     "closed": false
   },
   "elc-wre-sot-2026-04-06-wre": {
@@ -120097,10 +119961,6 @@
     "endDate": "2026-03-10T14:00:00Z",
     "closed": false
   },
-  "cs2-ntr-mouzn-2026-03-10-game2-odd-even-total-kills": {
-    "endDate": "2026-03-10T16:00:00Z",
-    "closed": false
-  },
   "cs2-ntr-mouzn-2026-03-10-game3-odd-even-total-kills": {
     "endDate": "2026-03-10T17:00:00Z",
     "closed": false
@@ -120129,10 +119989,6 @@
     "endDate": "2026-03-11T15:00:00Z",
     "closed": false
   },
-  "cs2-cs1-pha-2026-03-11-game1": {
-    "endDate": "2026-03-11T13:00:00Z",
-    "closed": false
-  },
   "cs2-cs1-pha-2026-03-11-game2": {
     "endDate": "2026-03-11T13:00:00Z",
     "closed": false
@@ -120146,10 +120002,6 @@
     "closed": false
   },
   "cs2-cs1-pha-2026-03-11-game1-odd-even-total-kills": {
-    "endDate": "2026-03-11T13:00:00Z",
-    "closed": false
-  },
-  "cs2-cs1-pha-2026-03-11-game1-odd-even-total-rounds": {
     "endDate": "2026-03-11T13:00:00Z",
     "closed": false
   },
@@ -120170,43 +120022,43 @@
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game1": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game2": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-total-games-2pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game1-odd-even-total-kills": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game1-odd-even-total-rounds": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game2-odd-even-total-kills": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game3-odd-even-total-kills": {
-    "endDate": "2026-03-11T17:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-fav-ef1-2026-03-11-game3-odd-even-total-rounds": {
-    "endDate": "2026-03-11T17:00:00Z",
+    "endDate": "2026-03-11T18:30:00Z",
     "closed": false
   },
   "cs2-am-fav-2026-03-11": {
@@ -121747,22 +121599,6 @@
   },
   "bnb-up-or-down-march-12-4am-et": {
     "endDate": "2026-03-12T09:00:00Z",
-    "closed": false
-  },
-  "sol-updown-4h-1773216000": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "eth-updown-4h-1773216000": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-4h-1773216000": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "xrp-updown-4h-1773216000": {
-    "endDate": "2026-03-11T12:00:00Z",
     "closed": false
   },
   "val-wu-bo-2026-03-11": {
@@ -123809,14 +123645,6 @@
     "endDate": "2026-03-18T16:00:00Z",
     "closed": false
   },
-  "atp-cecchin-kopp-2026-03-11-match-total-22pt5": {
-    "endDate": "2026-03-18T16:00:00Z",
-    "closed": false
-  },
-  "atp-cecchin-kopp-2026-03-11-first-set-total-10pt5": {
-    "endDate": "2026-03-18T16:00:00Z",
-    "closed": false
-  },
   "atp-cecchin-kopp-2026-03-11-match-total-23pt5": {
     "endDate": "2026-03-18T16:00:00Z",
     "closed": false
@@ -124021,86 +123849,6 @@
     "endDate": "2026-03-10T21:25:00Z",
     "closed": false
   },
-  "eth-updown-15m-1773228600": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773228600": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773228600": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773228600": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773229200": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773229200": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773229200": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773229200": {
-    "endDate": "2026-03-11T11:45:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773229500": {
-    "endDate": "2026-03-11T11:50:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773229500": {
-    "endDate": "2026-03-11T11:50:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773229500": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773229500": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773229500": {
-    "endDate": "2026-03-11T11:50:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773229500": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773229500": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773229500": {
-    "endDate": "2026-03-11T11:50:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773229800": {
-    "endDate": "2026-03-11T11:55:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773229800": {
-    "endDate": "2026-03-11T11:55:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773229800": {
-    "endDate": "2026-03-11T11:55:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773229800": {
-    "endDate": "2026-03-11T11:55:00Z",
-    "closed": false
-  },
   "spx-up-or-down-on-march-11-2026": {
     "endDate": "2026-03-11T20:00:00Z",
     "closed": false
@@ -124145,35 +123893,11 @@
     "endDate": "2026-03-11T20:00:00Z",
     "closed": false
   },
-  "cs2-mornin-lvg-2026-03-11": {
-    "endDate": "2026-03-11T14:30:00Z",
-    "closed": false
-  },
-  "cs2-mornin-lvg-2026-03-11-game2": {
-    "endDate": "2026-03-11T14:30:00Z",
-    "closed": false
-  },
-  "cs2-mornin-lvg-2026-03-11-total-games-2pt5": {
-    "endDate": "2026-03-11T14:30:00Z",
-    "closed": false
-  },
   "cs2-mornin-lvg-2026-03-11-game1-odd-even-total-kills": {
     "endDate": "2026-03-11T14:30:00Z",
     "closed": false
   },
   "cs2-mornin-lvg-2026-03-11-game2-odd-even-total-kills": {
-    "endDate": "2026-03-11T14:30:00Z",
-    "closed": false
-  },
-  "cs2-mornin-lvg-2026-03-11-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-11T14:30:00Z",
-    "closed": false
-  },
-  "cs2-mornin-lvg-2026-03-11-game3-odd-even-total-kills": {
-    "endDate": "2026-03-11T14:30:00Z",
-    "closed": false
-  },
-  "cs2-mornin-lvg-2026-03-11-game3-odd-even-total-rounds": {
     "endDate": "2026-03-11T14:30:00Z",
     "closed": false
   },
@@ -124493,100 +124217,20 @@
     "endDate": "2026-03-11T20:00:00Z",
     "closed": false
   },
-  "sol-updown-5m-1773230100": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773230100": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773230100": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773230100": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773230400": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
   "btc-updown-4h-1773230400": {
     "endDate": "2026-03-11T16:00:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773230400": {
-    "endDate": "2026-03-11T12:05:00Z",
     "closed": false
   },
   "xrp-updown-4h-1773230400": {
     "endDate": "2026-03-11T16:00:00Z",
     "closed": false
   },
-  "sol-updown-15m-1773230400": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
   "sol-updown-4h-1773230400": {
     "endDate": "2026-03-11T16:00:00Z",
     "closed": false
   },
-  "sol-updown-5m-1773230400": {
-    "endDate": "2026-03-11T12:05:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773230400": {
-    "endDate": "2026-03-11T12:05:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773230400": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773230400": {
-    "endDate": "2026-03-11T12:05:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773230400": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
   "eth-updown-4h-1773230400": {
     "endDate": "2026-03-11T16:00:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773230700": {
-    "endDate": "2026-03-11T12:10:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773230700": {
-    "endDate": "2026-03-11T12:10:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773230700": {
-    "endDate": "2026-03-11T12:10:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773230700": {
-    "endDate": "2026-03-11T12:10:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773231000": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773231000": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773231000": {
-    "endDate": "2026-03-11T12:15:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773231000": {
-    "endDate": "2026-03-11T12:15:00Z",
     "closed": false
   },
   "eth-updown-15m-1773231300": {
@@ -124595,22 +124239,6 @@
   },
   "xrp-updown-15m-1773231300": {
     "endDate": "2026-03-11T12:30:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773231300": {
-    "endDate": "2026-03-11T12:20:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773231300": {
-    "endDate": "2026-03-11T12:20:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773231300": {
-    "endDate": "2026-03-11T12:20:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773231300": {
-    "endDate": "2026-03-11T12:20:00Z",
     "closed": false
   },
   "btc-updown-15m-1773231300": {
@@ -126405,10 +126033,6 @@
     "endDate": "2026-03-10T22:15:00Z",
     "closed": false
   },
-  "atp-jubb-wendelk-2026-03-11": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
   "wttwom-takahas-kuai-2026-03-12": {
     "endDate": "2026-03-19T10:30:00Z",
     "closed": false
@@ -127246,47 +126870,47 @@
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game1": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game2": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-total-games-2pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-map-handicap-away-1pt5": {
-    "endDate": "2026-03-11T18:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game1-odd-even-total-kills": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game1-odd-even-total-rounds": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game2-odd-even-total-kills": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-11T16:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game3-odd-even-total-kills": {
-    "endDate": "2026-03-11T17:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "cs2-hotu-zerote-2026-03-11-game3-odd-even-total-rounds": {
-    "endDate": "2026-03-11T17:00:00Z",
+    "endDate": "2026-03-11T18:15:00Z",
     "closed": false
   },
   "sol-updown-5m-1773246300": {
@@ -128009,10 +127633,6 @@
     "endDate": "2026-03-18T09:00:00Z",
     "closed": false
   },
-  "atp-added-cassone-2026-03-11-match-total-22pt5": {
-    "endDate": "2026-03-18T09:00:00Z",
-    "closed": false
-  },
   "atp-added-cassone-2026-03-11-first-set-total-10pt5": {
     "endDate": "2026-03-18T09:00:00Z",
     "closed": false
@@ -128097,35 +127717,11 @@
     "endDate": "2026-03-18T08:00:00Z",
     "closed": false
   },
-  "atp-jubb-wendelk-2026-03-11-match-total-21pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
-  "atp-jubb-wendelk-2026-03-11-set-totals-2pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
-  "atp-jubb-wendelk-2026-03-11-match-total-22pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
-  "atp-jubb-wendelk-2026-03-11-match-total-23pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
   "atp-mar-clarke-2026-03-11-set-totals-2pt5": {
     "endDate": "2026-03-18T08:00:00Z",
     "closed": false
   },
-  "atp-mar-clarke-2026-03-11-first-set-winner-Martin-vs-Clarke": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
   "atp-mar-clarke-2026-03-11-match-total-21pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
-  "atp-mar-clarke-2026-03-11-first-set-total-8pt5": {
     "endDate": "2026-03-18T08:00:00Z",
     "closed": false
   },
@@ -128137,20 +127733,12 @@
     "endDate": "2026-03-18T08:00:00Z",
     "closed": false
   },
-  "atp-mar-clarke-2026-03-11-first-set-total-9pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
-    "closed": false
-  },
   "atp-mar-clarke-2026-03-11-match-total-23pt5": {
     "endDate": "2026-03-18T08:00:00Z",
     "closed": false
   },
   "cs2-all-grg-2026-03-13-game1-odd-even-total-kills": {
     "endDate": "2026-03-13T23:30:00Z",
-    "closed": false
-  },
-  "atp-mar-clarke-2026-03-11-first-set-total-10pt5": {
-    "endDate": "2026-03-18T08:00:00Z",
     "closed": false
   },
   "cs2-all-grg-2026-03-13-game1-odd-even-total-rounds": {
@@ -129817,14 +129405,6 @@
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
   },
-  "cs2-aim1-nvq-2026-03-11-game1": {
-    "endDate": "2026-03-11T15:10:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
   "cs2-aim1-nvq-2026-03-11-game2": {
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
@@ -129849,24 +129429,12 @@
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game1-both-teams-beat-roshan": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
   "cs2-aim1-nvq-2026-03-11-game1-odd-even-total-kills": {
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
   },
   "spl-hil-kho-2026-04-07-hil": {
     "endDate": "2026-04-07T18:00:00Z",
-    "closed": false
-  },
-  "cs2-aim1-nvq-2026-03-11-game1-odd-even-total-rounds": {
-    "endDate": "2026-03-11T15:10:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game1-both-teams-destroy-barracks": {
-    "endDate": "2026-03-11T12:00:00Z",
     "closed": false
   },
   "spl-hil-kho-2026-04-07-draw": {
@@ -129877,20 +129445,12 @@
     "endDate": "2026-03-11T15:10:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game1-any-player-ultra-kill": {
-    "endDate": "2026-03-11T12:00:00Z",
-    "closed": false
-  },
   "spl-hil-kho-2026-04-07-kho": {
     "endDate": "2026-04-07T18:00:00Z",
     "closed": false
   },
   "cs2-aim1-nvq-2026-03-11-game2-odd-even-total-rounds": {
     "endDate": "2026-03-11T15:10:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game1-any-player-rampage": {
-    "endDate": "2026-03-11T12:00:00Z",
     "closed": false
   },
   "dota2-xtreme-vg-2026-03-11-game2-ends-in-daytime": {
@@ -130071,14 +129631,6 @@
   },
   "dota2-navi-bb4-2026-03-11-game3-any-player-ultra-kill": {
     "endDate": "2026-03-11T17:20:00Z",
-    "closed": false
-  },
-  "dota2-navi-bb4-2026-03-11-game3-any-player-rampage": {
-    "endDate": "2026-03-11T17:20:00Z",
-    "closed": false
-  },
-  "dota2-pari-tundra-2026-03-11": {
-    "endDate": "2026-03-11T20:00:00Z",
     "closed": false
   },
   "dota2-pari-tundra-2026-03-11-game1": {
@@ -132857,27 +132409,7 @@
     "endDate": "2026-03-11T14:00:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-40pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-45pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-41pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
   "dota2-xtreme-vg-2026-03-11-game2-kill-over-43pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game1-first-blood": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-44pt5": {
     "endDate": "2026-03-11T14:00:00Z",
     "closed": false
   },
@@ -134091,14 +133623,6 @@
   },
   "lol-fn-tp2-2026-03-11-game2-any-player-penta-kill": {
     "endDate": "2026-03-11T20:00:00Z",
-    "closed": false
-  },
-  "lol-fn-tp2-2026-03-11-game2-odd-even-total-kills": {
-    "endDate": "2026-03-11T20:00:00Z",
-    "closed": false
-  },
-  "lol-fn-tp2-2026-03-11-game3-both-teams-slay-baron": {
-    "endDate": "2026-03-11T21:00:00Z",
     "closed": false
   },
   "lol-fn-tp2-2026-03-11-game3-both-teams-slay-dragon": {
@@ -138413,10 +137937,6 @@
     "endDate": "2026-03-12T07:35:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-39pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
   "xrp-updown-5m-1773300900": {
     "endDate": "2026-03-12T07:40:00Z",
     "closed": false
@@ -138813,10 +138333,6 @@
     "endDate": "2026-03-13T10:00:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-38pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
   "solana-up-or-down-march-13-5am-et": {
     "endDate": "2026-03-13T10:00:00Z",
     "closed": false
@@ -138885,18 +138401,6 @@
     "endDate": "2026-03-12T09:15:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-37pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-36pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-35pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
   "nba-cle-orl-2026-03-11-1h-total-110pt5": {
     "endDate": "2026-03-11T23:30:00Z",
     "closed": false
@@ -138933,18 +138437,6 @@
     "endDate": "2026-03-12T09:15:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-33pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-32pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-34pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
   "sol-updown-15m-1773306900": {
     "endDate": "2026-03-12T09:30:00Z",
     "closed": false
@@ -138975,14 +138467,6 @@
   },
   "eth-updown-5m-1773306900": {
     "endDate": "2026-03-12T09:20:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-47pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-46pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
     "closed": false
   },
   "sol-updown-5m-1773307200": {
@@ -139049,18 +138533,6 @@
     "endDate": "2026-03-12T09:45:00Z",
     "closed": false
   },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-49pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-50pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-48pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773308100": {
     "endDate": "2026-03-12T09:40:00Z",
     "closed": false
@@ -139075,14 +138547,6 @@
   },
   "xrp-updown-5m-1773308100": {
     "endDate": "2026-03-12T09:40:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-51pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
-    "closed": false
-  },
-  "dota2-xtreme-vg-2026-03-11-game2-kill-over-52pt5": {
-    "endDate": "2026-03-11T14:00:00Z",
     "closed": false
   },
   "xrp-updown-5m-1773308400": {
@@ -140153,18 +139617,6 @@
     "endDate": "2026-03-12T10:45:00Z",
     "closed": false
   },
-  "btc-updown-5m-1773311400": {
-    "endDate": "2026-03-12T10:35:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773311400": {
-    "endDate": "2026-03-12T10:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773311700": {
-    "endDate": "2026-03-12T10:40:00Z",
-    "closed": false
-  },
   "eth-updown-5m-1773311700": {
     "endDate": "2026-03-12T10:40:00Z",
     "closed": false
@@ -140925,6 +140377,158 @@
     "endDate": "2026-03-20T07:30:00Z",
     "closed": false
   },
+  "f1-chinese-grand-prix-constructor-pole-position-alpine-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-aston-martin-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-williams-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-audi-revolut-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-cadillac-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-ferrari-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-tgr-haas-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-mclaren-mastercard-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-mercedes-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-red-bull-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-pole-position-racing-bulls-2026-03-13": {
+    "endDate": "2026-03-20T07:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-gasly-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-alonso-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-albon-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-bortoleto-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-perez-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-leclerc-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-ocon-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-norris-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-antonelli-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-verstappen-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-colapinto-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-jr-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-hulkenberg-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-bottas-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-hamilton-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-bearman-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-piastri-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-russell-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-lindblad-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-hadjar-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-fastest-lap-lawson-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-fastest-lap-alpine-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-fastest-lap-aston-martin-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-fastest-lap-williams-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-fastest-lap-audi-revolut-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-fastest-lap-cadillac-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-constructor-fastest-lap-ferrari-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
   "f1-chinese-grand-prix-safety-car-2026-03-15": {
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
@@ -140933,7 +140537,95 @@
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
   },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-pierre-gasly-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-fernando-alonso-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-alexander-albon-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-gabriel-bortoleto-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-sergio-perez-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-charles-leclerc-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-esteban-ocon-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-lando-norris-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-andrea-kimi-antonelli-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-max-verstappen-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-franco-colapinto-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-carlos-sainz-jr-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-nico-hulkenberg-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-valtteri-bottas-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-lewis-hamilton-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-oliver-bearman-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-oscar-piastri-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-george-russell-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-arvid-lindblad-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-isack-hadjar-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-practice-1-fastest-lap-liam-lawson-2026-03-12": {
+    "endDate": "2026-03-20T03:30:00Z",
+    "closed": false
+  },
   "f1-chinese-grand-prix-h2h-colapinto-vs-gasly-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-h2h-albon-vs-jr-2026-03-15": {
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
   },
@@ -140942,6 +140634,10 @@
     "closed": false
   },
   "f1-chinese-grand-prix-h2h-perez-vs-bottas-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-h2h-leclerc-vs-hamilton-2026-03-15": {
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
   },
@@ -140962,6 +140658,10 @@
     "closed": false
   },
   "f1-chinese-grand-prix-h2h-lindblad-vs-lawson-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-h2h-leclerc-vs-norris-2026-03-15": {
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
   },
@@ -141006,6 +140706,10 @@
     "closed": false
   },
   "f1-chinese-grand-prix-h2h-hamilton-vs-russell-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-h2h-piastri-vs-russell-2026-03-15": {
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
   },
@@ -141077,6 +140781,98 @@
     "endDate": "2026-03-22T07:00:00Z",
     "closed": false
   },
+  "f1-chinese-grand-prix-driver-podium-hadjar-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-chinese-grand-prix-driver-podium-lawson-2026-03-15": {
+    "endDate": "2026-03-22T07:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-gasly-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-alonso-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-albon-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-bortoleto-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-perez-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-leclerc-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-ocon-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-norris-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-antonelli-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-verstappen-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-colapinto-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-jr-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-hulkenberg-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-bottas-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-hamilton-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-bearman-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-piastri-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-russell-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-lindblad-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-hadjar-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-winner-lawson-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
   "f1-japanese-grand-prix-driver-pole-position-gasly-2026-03-28": {
     "endDate": "2026-04-04T06:00:00Z",
     "closed": false
@@ -141129,6 +140925,38 @@
     "endDate": "2026-04-04T06:00:00Z",
     "closed": false
   },
+  "f1-japanese-grand-prix-driver-pole-position-bottas-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-hamilton-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-bearman-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-piastri-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-russell-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-lindblad-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-hadjar-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-pole-position-lawson-2026-03-28": {
+    "endDate": "2026-04-04T06:00:00Z",
+    "closed": false
+  },
   "f1-japanese-grand-prix-constructor-pole-position-alpine-2026-03-28": {
     "endDate": "2026-04-04T06:00:00Z",
     "closed": false
@@ -141173,12 +141001,264 @@
     "endDate": "2026-04-04T06:00:00Z",
     "closed": false
   },
+  "f1-japanese-grand-prix-driver-fastest-lap-gasly-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-alonso-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-albon-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-bortoleto-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-perez-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-leclerc-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-ocon-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-norris-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-antonelli-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-verstappen-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-colapinto-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-jr-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-hulkenberg-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-bottas-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-hamilton-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-bearman-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-piastri-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-russell-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-lindblad-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-hadjar-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-fastest-lap-lawson-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
   "f1-japanese-grand-prix-safety-car-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
   "f1-japanese-grand-prix-red-flag-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-pierre-gasly-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-fernando-alonso-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-alexander-albon-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-gabriel-bortoleto-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-sergio-perez-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-charles-leclerc-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-esteban-ocon-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-lando-norris-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-andrea-kimi-antonelli-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-max-verstappen-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-franco-colapinto-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-carlos-sainz-jr-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-nico-hulkenberg-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-valtteri-bottas-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-lewis-hamilton-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-oliver-bearman-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-oscar-piastri-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-george-russell-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-arvid-lindblad-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-isack-hadjar-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-2-fastest-lap-liam-lawson-2026-03-27": {
+    "endDate": "2026-04-03T06:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-pierre-gasly-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-fernando-alonso-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-alexander-albon-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-gabriel-bortoleto-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-sergio-perez-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-charles-leclerc-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-esteban-ocon-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-lando-norris-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-andrea-kimi-antonelli-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-max-verstappen-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-franco-colapinto-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-carlos-sainz-jr-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-nico-hulkenberg-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-valtteri-bottas-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-lewis-hamilton-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-oliver-bearman-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-oscar-piastri-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-george-russell-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-arvid-lindblad-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-isack-hadjar-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-practice-3-fastest-lap-liam-lawson-2026-03-27": {
+    "endDate": "2026-04-04T02:30:00Z",
     "closed": false
   },
   "f1-japanese-grand-prix-h2h-colapinto-vs-gasly-2026-03-29": {
@@ -141194,6 +141274,10 @@
     "closed": false
   },
   "f1-japanese-grand-prix-h2h-perez-vs-bottas-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-h2h-leclerc-vs-hamilton-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
@@ -141221,11 +141305,19 @@
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
+  "f1-japanese-grand-prix-h2h-leclerc-vs-piastri-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
   "f1-japanese-grand-prix-h2h-leclerc-vs-russell-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
   "f1-japanese-grand-prix-h2h-norris-vs-hamilton-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-h2h-norris-vs-russell-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
@@ -141249,6 +141341,18 @@
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
+  "f1-japanese-grand-prix-h2h-piastri-vs-russell-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-podium-gasly-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-podium-alonso-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
   "f1-japanese-grand-prix-driver-podium-albon-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
@@ -141265,11 +141369,19 @@
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
+  "f1-japanese-grand-prix-driver-podium-antonelli-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
   "f1-japanese-grand-prix-driver-podium-verstappen-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
   "f1-japanese-grand-prix-driver-podium-colapinto-2026-03-29": {
+    "endDate": "2026-04-05T05:00:00Z",
+    "closed": false
+  },
+  "f1-japanese-grand-prix-driver-podium-jr-2026-03-29": {
     "endDate": "2026-04-05T05:00:00Z",
     "closed": false
   },
@@ -141341,6 +141453,10 @@
     "endDate": "2026-03-12T11:45:00Z",
     "closed": false
   },
+  "dota2-navi-bb4-2026-03-11-game1-kill-over-49pt5": {
+    "endDate": "2026-03-11T17:20:00Z",
+    "closed": false
+  },
   "sol-updown-5m-1773315300": {
     "endDate": "2026-03-12T11:40:00Z",
     "closed": false
@@ -141355,6 +141471,510 @@
   },
   "xrp-updown-5m-1773315300": {
     "endDate": "2026-03-12T11:40:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773315600": {
+    "endDate": "2026-03-12T11:45:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773315600": {
+    "endDate": "2026-03-12T11:45:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773315600": {
+    "endDate": "2026-03-12T11:45:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773315600": {
+    "endDate": "2026-03-12T11:45:00Z",
+    "closed": false
+  },
+  "dota2-navi-bb4-2026-03-11-game1-kill-over-39pt5": {
+    "endDate": "2026-03-11T17:20:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773315900": {
+    "endDate": "2026-03-12T11:50:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773315900": {
+    "endDate": "2026-03-12T11:50:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773315900": {
+    "endDate": "2026-03-12T11:50:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773315900": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773315900": {
+    "endDate": "2026-03-12T11:50:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773315900": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773315900": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773315900": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "dota2-navi-bb4-2026-03-11-game1-kill-over-38pt5": {
+    "endDate": "2026-03-11T17:20:00Z",
+    "closed": false
+  },
+  "dota2-navi-bb4-2026-03-11-game1-kill-over-35pt5": {
+    "endDate": "2026-03-11T17:20:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773316200": {
+    "endDate": "2026-03-12T11:55:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773316200": {
+    "endDate": "2026-03-12T11:55:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773316200": {
+    "endDate": "2026-03-12T11:55:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773316200": {
+    "endDate": "2026-03-12T11:55:00Z",
+    "closed": false
+  },
+  "bitcoin-up-or-down-march-13-8am-et": {
+    "endDate": "2026-03-13T13:00:00Z",
+    "closed": false
+  },
+  "bitcoin-etf-flows-on-march-13": {
+    "endDate": "2026-03-13T22:00:00Z",
+    "closed": false
+  },
+  "aapl-close-above-255-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "aapl-close-above-265-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "aapl-close-above-270-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "rou1-aus-aog-2026-03-23-total-3pt5": {
+    "endDate": "2026-03-23T18:30:00Z",
+    "closed": false
+  },
+  "rou1-aus-aog-2026-03-23-btts": {
+    "endDate": "2026-03-23T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fch-fcb-2026-03-22-spread-home-1pt5": {
+    "endDate": "2026-03-22T17:00:00Z",
+    "closed": false
+  },
+  "gbp-usd-up-or-down-on-march-11-2026": {
+    "endDate": "2026-03-11T21:00:00Z",
+    "closed": false
+  },
+  "rou1-fch-fcb-2026-03-22-total-2pt5": {
+    "endDate": "2026-03-22T17:00:00Z",
+    "closed": false
+  },
+  "rou1-fch-fcb-2026-03-22-total-3pt5": {
+    "endDate": "2026-03-22T17:00:00Z",
+    "closed": false
+  },
+  "si-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "nik-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "msft-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "msft-close-above-390-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "ethereum-up-or-down-march-13-8am-et": {
+    "endDate": "2026-03-13T13:00:00Z",
+    "closed": false
+  },
+  "msft-close-above-430-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "rou1-fap-fuc-2026-03-21-spread-home-1pt5": {
+    "endDate": "2026-03-21T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fap-fuc-2026-03-21-spread-home-2pt5": {
+    "endDate": "2026-03-21T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fap-fuc-2026-03-21-total-2pt5": {
+    "endDate": "2026-03-21T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fap-fuc-2026-03-21-total-3pt5": {
+    "endDate": "2026-03-21T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fap-fuc-2026-03-21-btts": {
+    "endDate": "2026-03-21T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fcm-ffc-2026-03-21-spread-away-1pt5": {
+    "endDate": "2026-03-21T15:30:00Z",
+    "closed": false
+  },
+  "rou1-fcm-ffc-2026-03-21-spread-away-2pt5": {
+    "endDate": "2026-03-21T15:30:00Z",
+    "closed": false
+  },
+  "amzn-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "solana-up-or-down-march-13-8am-et": {
+    "endDate": "2026-03-13T13:00:00Z",
+    "closed": false
+  },
+  "rou1-fmb-fpp-2026-03-21-spread-away-1pt5": {
+    "endDate": "2026-03-21T13:00:00Z",
+    "closed": false
+  },
+  "rou1-fmb-fpp-2026-03-21-total-3pt5": {
+    "endDate": "2026-03-21T13:00:00Z",
+    "closed": false
+  },
+  "amzn-close-above-220-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "amzn-close-above-225-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "dota2-navi-bb4-2026-03-11-game1-kill-over-33pt5": {
+    "endDate": "2026-03-11T17:20:00Z",
+    "closed": false
+  },
+  "dota2-navi-bb4-2026-03-11-game1-kill-over-32pt5": {
+    "endDate": "2026-03-11T17:20:00Z",
+    "closed": false
+  },
+  "rou1-fcc-fcr-2026-03-20-spread-home-1pt5": {
+    "endDate": "2026-03-20T19:45:00Z",
+    "closed": false
+  },
+  "rou1-fcc-fcr-2026-03-20-total-1pt5": {
+    "endDate": "2026-03-20T19:45:00Z",
+    "closed": false
+  },
+  "xrp-up-or-down-march-13-8am-et": {
+    "endDate": "2026-03-13T13:00:00Z",
+    "closed": false
+  },
+  "rou1-fcs-fua-2026-03-20-spread-away-2pt5": {
+    "endDate": "2026-03-20T17:00:00Z",
+    "closed": false
+  },
+  "rou1-fcs-fua-2026-03-20-total-1pt5": {
+    "endDate": "2026-03-20T17:00:00Z",
+    "closed": false
+  },
+  "rou1-fcs-fua-2026-03-20-total-2pt5": {
+    "endDate": "2026-03-20T17:00:00Z",
+    "closed": false
+  },
+  "rou1-fcs-fua-2026-03-20-total-4pt5": {
+    "endDate": "2026-03-20T17:00:00Z",
+    "closed": false
+  },
+  "rou1-fcs-fua-2026-03-20-btts": {
+    "endDate": "2026-03-20T17:00:00Z",
+    "closed": false
+  },
+  "googl-close-above-295-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "googl-close-above-305-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "rou1-din-ucc-2026-03-19-spread-home-1pt5": {
+    "endDate": "2026-03-19T18:30:00Z",
+    "closed": false
+  },
+  "rou1-din-ucc-2026-03-19-total-4pt5": {
+    "endDate": "2026-03-19T18:30:00Z",
+    "closed": false
+  },
+  "ukx-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-spread-home-1pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-spread-away-1pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "dogecoin-up-or-down-march-13-8am-et": {
+    "endDate": "2026-03-13T13:00:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-total-1pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-total-2pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-total-3pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-total-4pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "rou1-fuc-fcc-2026-03-15-btts": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "meta-close-above-630-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "meta-close-above-650-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "rou1-fcr-din-2026-03-14-spread-away-1pt5": {
+    "endDate": "2026-03-14T19:00:00Z",
+    "closed": false
+  },
+  "meta-close-above-670-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "hype-up-or-down-march-13-8am-et": {
+    "endDate": "2026-03-13T13:00:00Z",
+    "closed": false
+  },
+  "rou1-ucc-fap-2026-03-13-spread-home-2pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "rou1-ucc-fap-2026-03-13-total-1pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "rou1-ucc-fap-2026-03-13-total-2pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "rou1-ucc-fap-2026-03-13-total-4pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "rou1-ucc-fap-2026-03-13-btts": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "tsla-close-above-380-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "tsla-close-above-400-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "tsla-close-above-420-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "nvda-close-above-180-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "nvda-close-above-195-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "rut-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "coin-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "hood-up-or-down-on-march-12-2026": {
+    "endDate": "2026-03-12T20:00:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773316500": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773316500": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773316500": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773316500": {
+    "endDate": "2026-03-12T12:00:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773316800": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "btc-updown-4h-1773316800": {
+    "endDate": "2026-03-12T16:00:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773316800": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "sol-updown-4h-1773316800": {
+    "endDate": "2026-03-12T16:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773316800": {
+    "endDate": "2026-03-12T12:05:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773316800": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773316800": {
+    "endDate": "2026-03-12T12:05:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773316800": {
+    "endDate": "2026-03-12T12:05:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773316800": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773316800": {
+    "endDate": "2026-03-12T12:05:00Z",
+    "closed": false
+  },
+  "eth-updown-4h-1773316800": {
+    "endDate": "2026-03-12T16:00:00Z",
+    "closed": false
+  },
+  "xrp-updown-4h-1773316800": {
+    "endDate": "2026-03-12T16:00:00Z",
+    "closed": false
+  },
+  "nba-tor-nop-2026-03-11-spread-away-2pt5": {
+    "endDate": "2026-03-12T00:00:00Z",
+    "closed": false
+  },
+  "nba-nyk-uta-2026-03-11-spread-away-13pt5": {
+    "endDate": "2026-03-12T01:00:00Z",
+    "closed": false
+  },
+  "nba-hou-den-2026-03-11-total-230pt5": {
+    "endDate": "2026-03-12T02:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773317100": {
+    "endDate": "2026-03-12T12:10:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773317100": {
+    "endDate": "2026-03-12T12:10:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773317100": {
+    "endDate": "2026-03-12T12:10:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773317100": {
+    "endDate": "2026-03-12T12:10:00Z",
+    "closed": false
+  },
+  "cs2-nem-arc4-2026-03-11-map-handicap-away-1pt5": {
+    "endDate": "2026-03-11T18:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773317400": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773317400": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773317400": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773317400": {
+    "endDate": "2026-03-12T12:15:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773317700": {
+    "endDate": "2026-03-12T12:20:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773317700": {
+    "endDate": "2026-03-12T12:20:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773317700": {
+    "endDate": "2026-03-12T12:20:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773317700": {
+    "endDate": "2026-03-12T12:30:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773317700": {
+    "endDate": "2026-03-12T12:20:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773317700": {
+    "endDate": "2026-03-12T12:30:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773317700": {
+    "endDate": "2026-03-12T12:30:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773317700": {
+    "endDate": "2026-03-12T12:30:00Z",
     "closed": false
   }
 }
