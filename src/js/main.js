@@ -15,55 +15,72 @@ const CORE_CATEGORIES = ["Politics", "Elections", "Sports", "Crypto", "Finance",
 document.addEventListener("DOMContentLoaded", () => {
     initDashboard();
     setupEventListeners();
-    setupSidebarToggle();
+    setupThemeToggle();
+    checkOnboarding();
 });
 
-function setupSidebarToggle() {
-    const dashboard = document.getElementById("dashboard");
-    const headerToggle = document.getElementById("header-filter-toggle");
-    const overlay = document.getElementById("sidebar-overlay");
-
-    // Restore state from localStorage (default to visible on desktop for first-time use)
-    const isCollapsed = localStorage.getItem("sidebar-collapsed") === "true";
-    if (isCollapsed) dashboard.classList.add("sidebar-collapsed");
-
-    const toggle = () => {
-        if (window.innerWidth > 992) {
-            dashboard.classList.toggle("sidebar-collapsed");
-            localStorage.setItem("sidebar-collapsed", dashboard.classList.contains("sidebar-collapsed"));
-        } else {
-            dashboard.classList.toggle("sidebar-open");
-        }
-    };
-
-    headerToggle?.addEventListener("click", toggle);
-    overlay?.addEventListener("click", () => dashboard.classList.remove("sidebar-open"));
-}
-
 function setupEventListeners() {
-    ["min-volume", "max-days", "min-prob", "max-prob", "sort-by"].forEach(id => {
+    ["min-volume", "max-days", "min-prob", "sort-by"].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener("input", () => {
-            // Auto-clamp: keep min ≤ max when either changes
-            const minEl = document.getElementById("min-prob");
-            const maxEl = document.getElementById("max-prob");
-            if (minEl && maxEl && id === "min-prob" && parseFloat(minEl.value) > parseFloat(maxEl.value)) {
-                maxEl.value = minEl.value;
-            }
-            if (minEl && maxEl && id === "max-prob" && parseFloat(maxEl.value) < parseFloat(minEl.value)) {
-                minEl.value = maxEl.value;
-            }
-            applyFilters();
+             applyFilters();
         });
+    });
+}
+
+function setupThemeToggle() {
+    const toggle = document.getElementById("theme-toggle-header");
+    const lightIcon = document.getElementById("theme-light-icon-header");
+    const darkIcon = document.getElementById("theme-dark-icon-header");
+
+    const setTheme = (isDark) => {
+        if (isDark) {
+            document.body.classList.add("dark-theme");
+            lightIcon?.classList.remove("active");
+            darkIcon?.classList.add("active");
+        } else {
+            document.body.classList.remove("dark-theme");
+            lightIcon?.classList.add("active");
+            darkIcon?.classList.remove("active");
+        }
+        localStorage.setItem("polylens_theme", isDark ? "dark" : "light");
+    };
+
+    // Init
+    const savedTheme = localStorage.getItem("polylens_theme");
+    // Default to dark if no preference or explicitly dark
+    const isDark = !savedTheme || savedTheme === "dark";
+    setTheme(isDark);
+
+    toggle?.addEventListener("click", () => {
+        const isCurrentlyDark = document.body.classList.contains("dark-theme");
+        setTheme(!isCurrentlyDark);
+    });
+}
+
+function checkOnboarding() {
+    const overlay = document.getElementById("welcome-overlay");
+    const closeBtn = document.getElementById("close-welcome");
+    const lastWelcomed = localStorage.getItem("polylens_last_welcomed");
+    const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
+
+    const shouldShow = !lastWelcomed || (Date.now() - parseInt(lastWelcomed, 10) > SEVEN_DAYS_MS);
+
+    if (shouldShow) {
+        setTimeout(() => overlay?.classList.add("active"), 500);
+    }
+
+    closeBtn?.addEventListener("click", () => {
+        overlay?.classList.remove("active");
+        localStorage.setItem("polylens_last_welcomed", Date.now().toString());
     });
 }
 
 async function initDashboard() {
     renderSkeletons();
-    loadConfig(); // Restore saved filter settings first
+    loadConfig();
 
     try {
-        // Direct fetch from the static JSON file
         const response = await fetch('data/cache.json');
         if (!response.ok) throw new Error('Network response was not ok');
         const cache = await response.json();
@@ -89,11 +106,8 @@ function saveConfig() {
         minVolume: document.getElementById("min-volume")?.value || "10000",
         maxDays: document.getElementById("max-days")?.value || "1",
         minProb: document.getElementById("min-prob")?.value || "80",
-        maxProb: document.getElementById("max-prob")?.value || "99",
         sortBy: document.getElementById("sort-by")?.value || "roi"
     };
-    
-    // Direct localStorage save
     localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
 }
 
@@ -110,7 +124,6 @@ function loadConfig() {
         set("min-volume", config.minVolume);
         set("max-days", config.maxDays);
         set("min-prob", config.minProb);
-        set("max-prob", config.maxProb);
         set("sort-by", config.sortBy);
     } catch (e) {
         console.error("Failed to parse config:", e);
@@ -147,14 +160,12 @@ function applyFilters() {
     const minVol = parseFloat(document.getElementById("min-volume")?.value) || 0;
     const maxDays = parseFloat(document.getElementById("max-days")?.value) || 999;
     const minProb = parseFloat(document.getElementById("min-prob")?.value) || 0;
-    const maxProb = parseFloat(document.getElementById("max-prob")?.value) || 100;
     const sortBy = document.getElementById("sort-by")?.value || "roi";
 
     const sidebarFiltered = allOpportunities.filter(d =>
         d.volume >= minVol &&
         d.daysLeft <= maxDays &&
-        d.probability >= minProb &&
-        d.probability <= maxProb
+        d.probability >= minProb
     );
 
     updateCategoryChips(sidebarFiltered);
@@ -326,14 +337,17 @@ function renderOpportunities(deals) {
         card.innerHTML = `
             <div class="card-header">
                 <span class="cat-badge">${escapeHTML(deal.category || "General")}</span>
-                <span class="vol-badge vol-${volTier}">${volLabel}</span>
+                <span class="vol-badge vol-${volTier}">${volLabel} volume</span>
             </div>
 
             <div class="card-body">
                 <p class="market-title">${title}</p>
                 <div class="outcome-row">
                     <span class="outcome-pill">${outcome}</span>
-                    <span class="expiry-chip${isUrgent ? " urgent" : ""}">${daysLabel}</span>
+                    <span class="expiry-chip${isUrgent ? " urgent" : ""}">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        ${daysLabel}
+                    </span>
                 </div>
             </div>
 
@@ -350,9 +364,11 @@ function renderOpportunities(deals) {
 
             <div class="card-footer">
                 <a href="https://polymarket.com/market/${deal.slug}" target="_blank" class="cta-btn">
-                    Trade on Polymarket
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M7 17L17 7M17 7H7M17 7v10"/>
+                    <span>Trade on Polymarket</span>
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                        <polyline points="15 3 21 3 21 9"></polyline>
+                        <line x1="10" y1="14" x2="21" y2="3"></line>
                     </svg>
                 </a>
             </div>
