@@ -90366,10 +90366,6 @@
     "endDate": "2026-03-13T18:30:00Z",
     "closed": false
   },
-  "khl-lad-lok-2026-03-13": {
-    "endDate": "2026-03-13T15:00:00Z",
-    "closed": false
-  },
   "dehl-dre-loe-2026-03-13": {
     "endDate": "2026-03-13T18:30:00Z",
     "closed": false
@@ -91668,6 +91664,10 @@
   },
   "per1-cdm-cuf-2026-03-21-cuf": {
     "endDate": "2026-03-21T16:00:00Z",
+    "closed": false
+  },
+  "cze1-fcz-fkj-2026-04-04-draw": {
+    "endDate": "2026-04-04T13:00:00Z",
     "closed": false
   },
   "cze1-fcz-fkj-2026-04-04-fkj": {
@@ -106990,10 +106990,6 @@
     "endDate": "2026-03-15T13:00:00Z",
     "closed": false
   },
-  "rou1-fua-fch-2026-03-15-total-4pt5": {
-    "endDate": "2026-03-15T13:00:00Z",
-    "closed": false
-  },
   "rou1-fua-fch-2026-03-15-btts": {
     "endDate": "2026-03-15T13:00:00Z",
     "closed": false
@@ -109662,6 +109658,10 @@
     "endDate": "2026-03-21T19:00:00Z",
     "closed": false
   },
+  "bra2-csc-ber-2026-03-21-total-3pt5": {
+    "endDate": "2026-03-21T19:00:00Z",
+    "closed": false
+  },
   "bra2-csc-ber-2026-03-21-total-4pt5": {
     "endDate": "2026-03-21T19:00:00Z",
     "closed": false
@@ -111388,22 +111388,6 @@
     "endDate": "2026-03-12T15:30:00Z",
     "closed": false
   },
-  "cs2-biga-fokusr-2026-03-13": {
-    "endDate": "2026-03-13T15:10:00Z",
-    "closed": false
-  },
-  "cs2-biga-fokusr-2026-03-13-game1": {
-    "endDate": "2026-03-13T15:10:00Z",
-    "closed": false
-  },
-  "cs2-biga-fokusr-2026-03-13-game2": {
-    "endDate": "2026-03-13T15:10:00Z",
-    "closed": false
-  },
-  "cs2-biga-fokusr-2026-03-13-total-games-2pt5": {
-    "endDate": "2026-03-13T15:10:00Z",
-    "closed": false
-  },
   "cs2-biga-fokusr-2026-03-13-map-handicap-away-1pt5": {
     "endDate": "2026-03-13T15:10:00Z",
     "closed": false
@@ -111421,14 +111405,6 @@
     "closed": false
   },
   "cs2-biga-fokusr-2026-03-13-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-13T15:10:00Z",
-    "closed": false
-  },
-  "cs2-biga-fokusr-2026-03-13-game3-odd-even-total-kills": {
-    "endDate": "2026-03-13T15:10:00Z",
-    "closed": false
-  },
-  "cs2-biga-fokusr-2026-03-13-game3-odd-even-total-rounds": {
     "endDate": "2026-03-13T15:10:00Z",
     "closed": false
   },
@@ -112318,6 +112294,34 @@
   },
   "will-nobody-2-be-the-2-us-netflix-movie-this-week": {
     "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-11-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-13-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-23-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-25-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-27-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-30-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
+    "closed": false
+  },
+  "military-action-against-iran-ends-by-march-31-2026": {
+    "endDate": "2026-03-31T00:00:00Z",
     "closed": false
   },
   "will-age-of-attraction-be-the-top-global-netflix-show-this-week": {
@@ -115044,10 +115048,6 @@
     "endDate": "2026-03-13T22:00:00Z",
     "closed": false
   },
-  "cs2-mouz-fut-2026-03-13-game1": {
-    "endDate": "2026-03-13T22:00:00Z",
-    "closed": false
-  },
   "cs2-mouz-fut-2026-03-13-game2": {
     "endDate": "2026-03-13T22:00:00Z",
     "closed": false
@@ -115085,47 +115085,47 @@
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game1": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game2": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-total-games-2pt5": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-map-handicap-home-1pt5": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game1-odd-even-total-kills": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game1-odd-even-total-rounds": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game2-odd-even-total-kills": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game3-odd-even-total-kills": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "cs2-ast10-ts7-2026-03-13-game3-odd-even-total-rounds": {
-    "endDate": "2026-03-14T02:00:00Z",
+    "endDate": "2026-03-14T02:20:00Z",
     "closed": false
   },
   "will-clavicular-be-irans-next-supreme-leader-by-march-31st": {
@@ -115661,10 +115661,6 @@
     "closed": false
   },
   "highest-temperature-in-lucknow-on-march-13-2026-43c": {
-    "endDate": "2026-03-13T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-lucknow-on-march-13-2026-44corhigher": {
     "endDate": "2026-03-13T12:00:00Z",
     "closed": false
   },
@@ -117656,6 +117652,10 @@
     "endDate": "2026-04-10T00:00:00Z",
     "closed": false
   },
+  "will-a-dozen-eggs-cost-2pt00-in-march": {
+    "endDate": "2026-04-10T00:00:00Z",
+    "closed": false
+  },
   "will-a-dozen-eggs-cost-between-2pt002pt25-in-march": {
     "endDate": "2026-04-10T00:00:00Z",
     "closed": false
@@ -118514,6 +118514,10 @@
   },
   "will-condoleezza-rice-join-the-trump-administration-by-april-30": {
     "endDate": "2026-04-30T00:00:00Z",
+    "closed": false
+  },
+  "us-x-iran-ceasefire-before-trump-visits-china": {
+    "endDate": "2026-03-31T00:00:00Z",
     "closed": false
   },
   "unitas-labs-fdv-above-20m-one-day-after-launch": {
@@ -119654,10 +119658,6 @@
   },
   "hok-xyg-sygami-2026-03-15-game3": {
     "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "hok-xyg-sygami-2026-03-15-game4": {
-    "endDate": "2026-03-15T18:00:00Z",
     "closed": false
   },
   "hok-xyg-sygami-2026-03-15-total-games-3pt5": {
@@ -121284,58 +121284,6 @@
     "endDate": "2026-03-13T21:15:00Z",
     "closed": false
   },
-  "lol-bce-ff1-2026-03-13-game2-both-teams-slay-dragon": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game2-both-teams-destroy-inhibitors": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game2-any-player-quadra-kill": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game2-any-player-penta-kill": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game2-odd-even-total-kills": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game3-both-teams-slay-baron": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game3-both-teams-slay-dragon": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game3-both-teams-destroy-inhibitors": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game3-any-player-quadra-kill": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game3-any-player-penta-kill": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-bce-ff1-2026-03-13-game3-odd-even-total-kills": {
-    "endDate": "2026-03-13T21:15:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13-game1": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
   "lol-hmble-3bl-2026-03-13-game2": {
     "endDate": "2026-03-13T21:20:00Z",
     "closed": false
@@ -121396,46 +121344,6 @@
     "endDate": "2026-03-13T21:20:00Z",
     "closed": false
   },
-  "lol-hmble-3bl-2026-03-13-game3-both-teams-slay-baron": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13-game3-both-teams-slay-dragon": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13-game3-both-teams-destroy-inhibitors": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13-game3-any-player-quadra-kill": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13-game3-any-player-penta-kill": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-hmble-3bl-2026-03-13-game3-odd-even-total-kills": {
-    "endDate": "2026-03-13T21:20:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-game2": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-total-games-2pt5": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-game-handicap-home-1pt5": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
   "lol-ban2-use1-2026-03-13-game1-both-teams-slay-baron": {
     "endDate": "2026-03-13T21:25:00Z",
     "closed": false
@@ -121488,31 +121396,7 @@
     "endDate": "2026-03-13T21:25:00Z",
     "closed": false
   },
-  "lol-ban2-use1-2026-03-13-game3-both-teams-slay-dragon": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-game3-both-teams-destroy-inhibitors": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-game3-any-player-quadra-kill": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-game3-any-player-penta-kill": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
-  "lol-ban2-use1-2026-03-13-game3-odd-even-total-kills": {
-    "endDate": "2026-03-13T21:25:00Z",
-    "closed": false
-  },
   "lol-tp2-es1-2026-03-13": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1": {
     "endDate": "2026-03-13T20:50:00Z",
     "closed": false
   },
@@ -121525,30 +121409,6 @@
     "closed": false
   },
   "lol-tp2-es1-2026-03-13-game-handicap-home-1pt5": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1-both-teams-slay-baron": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1-both-teams-slay-dragon": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1-both-teams-destroy-inhibitors": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1-any-player-quadra-kill": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1-any-player-penta-kill": {
-    "endDate": "2026-03-13T20:50:00Z",
-    "closed": false
-  },
-  "lol-tp2-es1-2026-03-13-game1-odd-even-total-kills": {
     "endDate": "2026-03-13T20:50:00Z",
     "closed": false
   },
@@ -121797,14 +121657,6 @@
     "closed": false
   },
   "will-the-pirate-party-of-slovenia-pps-win-the-second-most-seats-in-the-2026-slovenian-parliamentary-election": {
-    "endDate": "2026-03-22T00:00:00Z",
-    "closed": false
-  },
-  "will-the-slovenian-peoples-party-sls-win-the-second-most-seats-in-the-2026-slovenian-parliamentary-election": {
-    "endDate": "2026-03-22T00:00:00Z",
-    "closed": false
-  },
-  "will-the-party-of-generations-sg-win-the-second-most-seats-in-the-2026-slovenian-parliamentary-election": {
     "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
@@ -123288,10 +123140,6 @@
     "endDate": "2026-03-27T15:00:00Z",
     "closed": false
   },
-  "ppa-tour-veolia-texas-open-womens-singles-pro-main-draw-winner-kelsey-laurente-win": {
-    "endDate": "2026-03-27T15:00:00Z",
-    "closed": false
-  },
   "ppa-tour-veolia-texas-open-mixed-doubles-pro-main-draw-winner-andrei-daescu-parris-todd-win": {
     "endDate": "2026-03-29T15:00:00Z",
     "closed": false
@@ -123361,10 +123209,6 @@
     "closed": false
   },
   "ppa-tour-veolia-texas-open-mens-singles-pro-main-draw-winner-federico-staksrud-win": {
-    "endDate": "2026-03-29T15:00:00Z",
-    "closed": false
-  },
-  "ppa-tour-veolia-texas-open-mens-singles-pro-main-draw-winner-gabriel-joseph-win": {
     "endDate": "2026-03-29T15:00:00Z",
     "closed": false
   },
@@ -123558,6 +123402,38 @@
   },
   "will-learner-tien-win-the-2026-bnp-paribas-open-mens-singles-tournament": {
     "endDate": "2026-03-16T00:00:00Z",
+    "closed": false
+  },
+  "will-chatgpt-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-google-gemini-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-google-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-threads-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-claude-by-anthropic-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-tubi-movies-live-tv-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-temu-shop-like-a-billionaire-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
+    "closed": false
+  },
+  "will-capcut-photo-video-editor-be-2-free-app-in-the-us-apple-app-store-on-march-17": {
+    "endDate": "2026-03-17T00:00:00Z",
     "closed": false
   },
   "will-aryna-sabalenka-win-the-2026-bnp-paribas-open-womens-singles-tournament": {
@@ -123908,6 +123784,14 @@
     "endDate": "2026-04-15T00:00:00Z",
     "closed": false
   },
+  "will-dtmf-bad-bunny-be-the-1-song-on-us-spotify-this-week-353": {
+    "endDate": "2026-03-20T00:00:00Z",
+    "closed": false
+  },
+  "will-baile-inolvidable-bad-bunny-be-the-1-song-on-us-spotify-this-week-495": {
+    "endDate": "2026-03-20T00:00:00Z",
+    "closed": false
+  },
   "spl-dam-qad-2026-04-09-dam": {
     "endDate": "2026-04-09T16:00:00Z",
     "closed": false
@@ -123976,38 +123860,6 @@
     "endDate": "2026-04-15T00:00:00Z",
     "closed": false
   },
-  "sol-updown-5m-1773430200": {
-    "endDate": "2026-03-13T19:35:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773430200": {
-    "endDate": "2026-03-13T19:35:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773430200": {
-    "endDate": "2026-03-13T19:45:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773430200": {
-    "endDate": "2026-03-13T19:35:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773430200": {
-    "endDate": "2026-03-13T19:45:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773430200": {
-    "endDate": "2026-03-13T19:35:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773430200": {
-    "endDate": "2026-03-13T19:45:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773430200": {
-    "endDate": "2026-03-13T19:45:00Z",
-    "closed": false
-  },
   "will-the-us-flu-hospitalization-rate-per-100000-in-week-10-be-less-than-60": {
     "endDate": "2026-03-20T00:00:00Z",
     "closed": false
@@ -124030,22 +123882,6 @@
   },
   "will-the-us-flu-hospitalization-rate-per-100000-in-week-10-be-100-or-more": {
     "endDate": "2026-03-20T00:00:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773430500": {
-    "endDate": "2026-03-13T19:40:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773430500": {
-    "endDate": "2026-03-13T19:40:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773430500": {
-    "endDate": "2026-03-13T19:40:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773430500": {
-    "endDate": "2026-03-13T19:40:00Z",
     "closed": false
   },
   "will-the-white-house-call-a-full-lid-by-630pm-on-march-16": {
@@ -124072,20 +123908,32 @@
     "endDate": "2026-03-21T00:00:00Z",
     "closed": false
   },
-  "xrp-updown-5m-1773430800": {
-    "endDate": "2026-03-13T19:45:00Z",
+  "will-trump-say-ufc-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
-  "eth-updown-5m-1773430800": {
-    "endDate": "2026-03-13T19:45:00Z",
+  "will-trump-say-no-inflation-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
-  "sol-updown-5m-1773430800": {
-    "endDate": "2026-03-13T19:45:00Z",
+  "will-trump-say-khamenei-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
-  "btc-updown-5m-1773430800": {
-    "endDate": "2026-03-13T19:45:00Z",
+  "will-trump-say-no-no-no-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
+    "closed": false
+  },
+  "will-trump-say-nancy-or-pelosi-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
+    "closed": false
+  },
+  "will-trump-say-barack-hussein-obama-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
+    "closed": false
+  },
+  "will-trump-say-hormuz-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
   "will-trumps-approval-rating-be-less-than-40pt0-on-march-20-2026": {
@@ -124116,10 +123964,6 @@
     "endDate": "2026-03-21T00:00:00Z",
     "closed": false
   },
-  "xrp-updown-5m-1773431100": {
-    "endDate": "2026-03-13T19:50:00Z",
-    "closed": false
-  },
   "sol-updown-15m-1773431100": {
     "endDate": "2026-03-13T20:00:00Z",
     "closed": false
@@ -124132,36 +123976,8 @@
     "endDate": "2026-03-13T20:00:00Z",
     "closed": false
   },
-  "eth-updown-5m-1773431100": {
-    "endDate": "2026-03-13T19:50:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773431100": {
-    "endDate": "2026-03-13T19:50:00Z",
-    "closed": false
-  },
   "btc-updown-15m-1773431100": {
     "endDate": "2026-03-13T20:00:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773431100": {
-    "endDate": "2026-03-13T19:50:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773431400": {
-    "endDate": "2026-03-13T19:55:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773431400": {
-    "endDate": "2026-03-13T19:55:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773431400": {
-    "endDate": "2026-03-13T19:55:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773431400": {
-    "endDate": "2026-03-13T19:55:00Z",
     "closed": false
   },
   "bitcoin-up-or-down-march-14-4pm-et": {
@@ -125652,6 +125468,38 @@
     "endDate": "2026-03-24T08:30:00Z",
     "closed": false
   },
+  "criclcl-roy-sou-2026-03-17-toss-match-double-roy": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-toss-match-double-draw": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-toss-match-double-sou": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-most-sixes-roy": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-most-sixes-draw": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-most-sixes-sou": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-team-top-batter-roy": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
+  "criclcl-roy-sou-2026-03-17-team-top-batter-draw": {
+    "endDate": "2026-03-24T08:30:00Z",
+    "closed": false
+  },
   "criclcl-roy-sou-2026-03-17-team-top-batter-sou": {
     "endDate": "2026-03-24T08:30:00Z",
     "closed": false
@@ -125809,34 +125657,6 @@
     "closed": false
   },
   "cricnt20c-fai-pes-2026-03-13-completed-match": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-toss-match-double-fai": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-toss-match-double-draw": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-toss-match-double-pes": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-most-sixes-fai": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-most-sixes-draw": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-most-sixes-pes": {
-    "endDate": "2026-03-20T11:15:00Z",
-    "closed": false
-  },
-  "cricnt20c-fai-pes-2026-03-13-team-top-batter-fai": {
     "endDate": "2026-03-20T11:15:00Z",
     "closed": false
   },
@@ -126274,10 +126094,6 @@
   },
   "wta-tararud-birrell-2026-03-13": {
     "endDate": "2026-03-20T21:00:00Z",
-    "closed": false
-  },
-  "atp-bertola-gojo-2026-03-13": {
-    "endDate": "2026-03-20T15:30:00Z",
     "closed": false
   },
   "wta-sabalen-noskova-2026-03-13": {
@@ -127028,14 +126844,6 @@
     "endDate": "2026-03-20T15:30:00Z",
     "closed": false
   },
-  "atp-bertola-gojo-2026-03-13-set-totals-2pt5": {
-    "endDate": "2026-03-20T15:30:00Z",
-    "closed": false
-  },
-  "atp-bertola-gojo-2026-03-13-match-total-22pt5": {
-    "endDate": "2026-03-20T15:30:00Z",
-    "closed": false
-  },
   "atp-bertola-gojo-2026-03-13-match-total-23pt5": {
     "endDate": "2026-03-20T15:30:00Z",
     "closed": false
@@ -127092,27 +126900,11 @@
     "endDate": "2026-03-13T18:00:00Z",
     "closed": false
   },
-  "hok-bue-he-2026-03-13-game3": {
-    "endDate": "2026-03-13T18:10:00Z",
-    "closed": false
-  },
-  "hok-bue-he-2026-03-13-game4": {
-    "endDate": "2026-03-13T18:10:00Z",
-    "closed": false
-  },
   "hok-bue-he-2026-03-13-total-games-3pt5": {
     "endDate": "2026-03-13T18:10:00Z",
     "closed": false
   },
   "hok-bue-he-2026-03-13-total-games-4pt5": {
-    "endDate": "2026-03-13T18:10:00Z",
-    "closed": false
-  },
-  "hok-bue-he-2026-03-13-game-handicap-away-1pt5": {
-    "endDate": "2026-03-13T18:10:00Z",
-    "closed": false
-  },
-  "hok-bue-he-2026-03-13-game-handicap-away-2pt5": {
     "endDate": "2026-03-13T18:10:00Z",
     "closed": false
   },
@@ -127382,10 +127174,6 @@
   },
   "cs2-ruby1-cs1-2026-03-13-game2-odd-even-total-kills": {
     "endDate": "2026-03-13T17:00:00Z",
-    "closed": false
-  },
-  "dota2-ic-vpp-2026-03-13-game2-both-teams-beat-roshan": {
-    "endDate": "2026-03-13T18:00:00Z",
     "closed": false
   },
   "cs2-ruby1-cs1-2026-03-13-game3-odd-even-total-kills": {
@@ -127886,6 +127674,10 @@
   },
   "sol-updown-15m-1773448200": {
     "endDate": "2026-03-14T00:45:00Z",
+    "closed": false
+  },
+  "left-wing-wave-in-french-mayoral-elections": {
+    "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
   "eth-updown-5m-1773448500": {
@@ -129404,10 +129196,6 @@
     "endDate": "2026-03-14T04:00:00Z",
     "closed": false
   },
-  "cbb-geows-stlou-2026-03-13-total-161pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
-    "closed": false
-  },
   "btc-updown-4h-1773460800": {
     "endDate": "2026-03-14T08:00:00Z",
     "closed": false
@@ -129618,6 +129406,34 @@
   },
   "btc-updown-5m-1773462000": {
     "endDate": "2026-03-14T04:25:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13": {
+    "endDate": "2026-03-14T05:00:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13-game1": {
+    "endDate": "2026-03-14T03:00:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13-game2": {
+    "endDate": "2026-03-14T03:00:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13-total-games-2pt5": {
+    "endDate": "2026-03-14T05:00:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13-map-handicap-home-1pt5": {
+    "endDate": "2026-03-14T05:00:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13-game1-odd-even-total-kills": {
+    "endDate": "2026-03-14T03:00:00Z",
+    "closed": false
+  },
+  "cs2-keyd-bhe-2026-03-13-game1-odd-even-total-rounds": {
+    "endDate": "2026-03-14T03:00:00Z",
     "closed": false
   },
   "cs2-keyd-bhe-2026-03-13-game2-odd-even-total-kills": {
@@ -131617,6 +131433,10 @@
     "closed": false
   },
   "nba-nyk-ind-2026-03-13-rebounds-og-anunoby-5pt5": {
+    "endDate": "2026-03-13T23:30:00Z",
+    "closed": false
+  },
+  "nba-nyk-ind-2026-03-13-rebounds-jarace-walker-5pt5": {
     "endDate": "2026-03-13T23:30:00Z",
     "closed": false
   },
@@ -135552,6 +135372,14 @@
     "endDate": "2026-03-14T13:25:00Z",
     "closed": false
   },
+  "will-trump-say-affair-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
+    "closed": false
+  },
+  "will-trump-say-golf-or-golfer-or-golfing-this-week-march-22": {
+    "endDate": "2026-03-22T00:00:00Z",
+    "closed": false
+  },
   "sol-updown-5m-1773494700": {
     "endDate": "2026-03-14T13:30:00Z",
     "closed": false
@@ -136512,10 +136340,6 @@
     "endDate": "2026-03-13T21:00:00Z",
     "closed": false
   },
-  "cbb-geows-stlou-2026-03-13-total-158pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773500100": {
     "endDate": "2026-03-14T15:00:00Z",
     "closed": false
@@ -137348,10 +137172,6 @@
     "endDate": "2026-03-13T15:30:00Z",
     "closed": false
   },
-  "cbb-geows-stlou-2026-03-13-total-159pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773502500": {
     "endDate": "2026-03-14T15:40:00Z",
     "closed": false
@@ -137366,10 +137186,6 @@
   },
   "xrp-updown-5m-1773502500": {
     "endDate": "2026-03-14T15:40:00Z",
-    "closed": false
-  },
-  "cbb-geows-stlou-2026-03-13-total-155pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
     "closed": false
   },
   "xrp-updown-5m-1773502800": {
@@ -137428,10 +137244,6 @@
     "endDate": "2026-03-14T16:00:00Z",
     "closed": false
   },
-  "cbb-geows-stlou-2026-03-13-total-157pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
-    "closed": false
-  },
   "cs2-mw-paina-2026-03-13-map-handicap-away-1pt5": {
     "endDate": "2026-03-13T22:00:00Z",
     "closed": false
@@ -137453,10 +137265,6 @@
     "closed": false
   },
   "cbb-geows-stlou-2026-03-13-spread-away-1pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
-    "closed": false
-  },
-  "cbb-geows-stlou-2026-03-13-total-160pt5": {
     "endDate": "2026-03-13T15:30:00Z",
     "closed": false
   },
@@ -137841,22 +137649,6 @@
     "closed": false
   },
   "will-the-price-of-solana-be-between-120-130-on-march-20": {
-    "endDate": "2026-03-20T16:00:00Z",
-    "closed": false
-  },
-  "will-the-price-of-solana-be-greater-than-130-on-march-20": {
-    "endDate": "2026-03-20T16:00:00Z",
-    "closed": false
-  },
-  "dogecoin-up-or-down-on-march-15-2026": {
-    "endDate": "2026-03-15T16:00:00Z",
-    "closed": false
-  },
-  "dogecoin-up-or-down-march-15-2026-12pm-et": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "will-the-price-of-xrp-be-less-than-1pt00-on-march-20": {
     "endDate": "2026-03-20T16:00:00Z",
     "closed": false
   },
@@ -138249,10 +138041,6 @@
     "closed": false
   },
   "cbb-geows-stlou-2026-03-13-spread-away-8pt5": {
-    "endDate": "2026-03-13T15:30:00Z",
-    "closed": false
-  },
-  "cbb-geows-stlou-2026-03-13-total-162pt5": {
     "endDate": "2026-03-13T15:30:00Z",
     "closed": false
   },
@@ -139588,6 +139376,26 @@
     "endDate": "2026-03-13T23:30:00Z",
     "closed": false
   },
+  "eth-updown-5m-1773511500": {
+    "endDate": "2026-03-14T18:10:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773511500": {
+    "endDate": "2026-03-14T18:10:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773511500": {
+    "endDate": "2026-03-14T18:10:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773511500": {
+    "endDate": "2026-03-14T18:10:00Z",
+    "closed": false
+  },
+  "cbb-charlt-uab-2026-03-13-total-141pt5": {
+    "endDate": "2026-03-13T17:00:00Z",
+    "closed": false
+  },
   "cbb-msrst-loutch-2026-03-13-spread-home-5pt5": {
     "endDate": "2026-03-13T16:30:00Z",
     "closed": false
@@ -140288,6 +140096,50 @@
     "endDate": "2026-03-16T12:00:00Z",
     "closed": false
   },
+  "highest-temperature-in-paris-on-march-16-2026-6corbelow": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-7c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-8c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-9c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-10c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-11c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-12c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-13c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-14c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-15c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-paris-on-march-16-2026-16corhigher": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
   "highest-temperature-in-sao-paulo-on-march-16-2026-24corbelow": {
     "endDate": "2026-03-16T12:00:00Z",
     "closed": false
@@ -140612,6 +140464,50 @@
     "endDate": "2026-03-13T18:00:00Z",
     "closed": false
   },
+  "highest-temperature-in-miami-on-march-16-2026-77forbelow": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-78-79f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-80-81f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-82-83f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-84-85f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-86-87f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-88-89f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-90-91f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-92-93f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-94-95f": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-16-2026-96forhigher": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
   "highest-temperature-in-ankara-on-march-16-2026-6corbelow": {
     "endDate": "2026-03-16T12:00:00Z",
     "closed": false
@@ -140716,6 +140612,234 @@
     "endDate": "2026-03-14T19:15:00Z",
     "closed": false
   },
+  "highest-temperature-in-munich-on-march-16-2026-3corbelow": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-4c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-5c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-6c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-7c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-8c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-9c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-10c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-11c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-12c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-16-2026-13corhigher": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-8corbelow": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-9c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-10c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-11c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-12c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-13c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-14c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-15c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-16c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-17c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-tokyo-on-march-16-2026-18corhigher": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-5corbelow": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-6c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-7c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-8c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-9c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-10c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-11c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-12c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-13c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-14c": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-16-2026-15corhigher": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-8corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-9c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-10c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-11c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-12c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-13c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-14c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-15c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-16c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-17c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-london-on-march-17-2026-18corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-23corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-24c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-25c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-26c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-27c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-28c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-29c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-30c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-31c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-32c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-sao-paulo-on-march-17-2026-33corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-toronto-on-march-17-2026-neg-11corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-toronto-on-march-17-2026-neg-10c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
   "highest-temperature-in-seattle-on-march-17-2026-41forbelow": {
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
@@ -140760,6 +140884,94 @@
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
   },
+  "highest-temperature-in-nyc-on-march-17-2026-31forbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-32-33f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-34-35f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-36-37f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-38-39f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-40-41f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-42-43f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-44-45f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-46-47f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-48-49f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-nyc-on-march-17-2026-50forhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-55forbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-56-57f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-58-59f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-60-61f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-62-63f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-64-65f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-66-67f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-68-69f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-70-71f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-72-73f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-dallas-on-march-17-2026-74forhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
   "highest-temperature-in-miami-on-march-17-2026-63forbelow": {
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
@@ -140789,6 +141001,18 @@
     "closed": false
   },
   "highest-temperature-in-miami-on-march-17-2026-76-77f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-17-2026-78-79f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-17-2026-80-81f": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-miami-on-march-17-2026-82forhigher": {
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
   },
@@ -140836,6 +141060,274 @@
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
   },
+  "cbb-kenest-smho-2026-03-13-spread-home-1pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-7corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-8c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-9c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-10c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-11c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-12c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-13c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-14c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-15c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-16c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-ankara-on-march-17-2026-17corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-13corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-14c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-15c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-16c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-17c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-18c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-19c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-20c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-21c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-22c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-wellington-on-march-17-2026-23corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-32corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-33c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-34c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-35c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-36c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-37c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-38c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-39c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-40c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-41c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-lucknow-on-march-17-2026-42corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-4corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-5c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-6c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-7c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-8c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-9c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-10c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-11c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-12c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-13c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-munich-on-march-17-2026-14corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-5corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-6c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-7c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-8c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-9c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-10c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-11c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-12c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-13c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-14c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-shanghai-on-march-17-2026-15corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-24corbelow": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-25c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-26c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-27c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-28c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-29c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-30c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-31c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-32c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-33c": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-singapore-on-march-17-2026-34corhigher": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
   "katana-fdv-above-150m-one-day-after-launch-199-696": {
     "endDate": "2028-01-01T05:00:00Z",
     "closed": false
@@ -140872,8 +141364,16 @@
     "endDate": "2026-03-14T19:30:00Z",
     "closed": false
   },
+  "cbb-kenest-smho-2026-03-13-spread-home-3pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
   "cbb-kenest-smho-2026-03-13-total-162pt5": {
     "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "cbb-wisc-ill-2026-03-13-total-153pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
     "closed": false
   },
   "cbb-kenest-smho-2026-03-13-spread-home-4pt5": {
@@ -140888,12 +141388,32 @@
     "endDate": "2026-03-13T18:00:00Z",
     "closed": false
   },
+  "dota2-ty-liquid-2026-03-13-game1-kill-over-38pt5": {
+    "endDate": "2026-03-14T00:30:00Z",
+    "closed": false
+  },
   "dota2-ty-liquid-2026-03-13-game1-kill-over-39pt5": {
     "endDate": "2026-03-14T00:30:00Z",
     "closed": false
   },
   "dota2-ty-liquid-2026-03-13-game1-kill-over-41pt5": {
     "endDate": "2026-03-14T00:30:00Z",
+    "closed": false
+  },
+  "dota2-ty-liquid-2026-03-13-game1-kill-over-40pt5": {
+    "endDate": "2026-03-14T00:30:00Z",
+    "closed": false
+  },
+  "cbb-kenest-smho-2026-03-13-total-160pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "cbb-wisc-ill-2026-03-13-total-151pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "cbb-pvam-alaam-2026-03-13-total-116pt5": {
+    "endDate": "2026-03-13T18:00:00Z",
     "closed": false
   },
   "sol-updown-5m-1773516000": {
@@ -140916,6 +141436,50 @@
     "endDate": "2026-03-13T19:00:00Z",
     "closed": false
   },
+  "cbb-pvam-alaam-2026-03-13-spread-away-13pt5": {
+    "endDate": "2026-03-13T18:00:00Z",
+    "closed": false
+  },
+  "cs2-pls-hwga-2026-03-13-map-handicap-home-1pt5": {
+    "endDate": "2026-03-14T01:15:00Z",
+    "closed": false
+  },
+  "spl-taa-kho-2026-04-10-taa": {
+    "endDate": "2026-04-10T16:00:00Z",
+    "closed": false
+  },
+  "spl-taa-kho-2026-04-10-draw": {
+    "endDate": "2026-04-10T16:00:00Z",
+    "closed": false
+  },
+  "spl-taa-kho-2026-04-10-kho": {
+    "endDate": "2026-04-10T16:00:00Z",
+    "closed": false
+  },
+  "spl-njm-neo-2026-04-10-njm": {
+    "endDate": "2026-04-10T16:00:00Z",
+    "closed": false
+  },
+  "spl-njm-neo-2026-04-10-draw": {
+    "endDate": "2026-04-10T16:00:00Z",
+    "closed": false
+  },
+  "spl-njm-neo-2026-04-10-neo": {
+    "endDate": "2026-04-10T16:00:00Z",
+    "closed": false
+  },
+  "spl-sha-ith-2026-04-10-sha": {
+    "endDate": "2026-04-10T18:00:00Z",
+    "closed": false
+  },
+  "spl-sha-ith-2026-04-10-draw": {
+    "endDate": "2026-04-10T18:00:00Z",
+    "closed": false
+  },
+  "spl-sha-ith-2026-04-10-ith": {
+    "endDate": "2026-04-10T18:00:00Z",
+    "closed": false
+  },
   "xrp-updown-5m-1773516300": {
     "endDate": "2026-03-14T19:30:00Z",
     "closed": false
@@ -140930,6 +141494,382 @@
   },
   "eth-updown-5m-1773516300": {
     "endDate": "2026-03-14T19:30:00Z",
+    "closed": false
+  },
+  "cbb-kenest-smho-2026-03-13-spread-home-5pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "cbb-kenest-smho-2026-03-13-total-163pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "cbb-wisc-ill-2026-03-13-total-148pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "cbb-kenest-smho-2026-03-13-spread-home-6pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "cbb-wisc-ill-2026-03-13-total-147pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "cbb-pvam-alaam-2026-03-13-total-112pt5": {
+    "endDate": "2026-03-13T18:00:00Z",
+    "closed": false
+  },
+  "billions-fdv-above-50m-one-day-after-launch": {
+    "endDate": "2028-01-01T05:00:00Z",
+    "closed": false
+  },
+  "billions-fdv-above-100m-one-day-after-launch": {
+    "endDate": "2028-01-01T05:00:00Z",
+    "closed": false
+  },
+  "billions-fdv-above-200m-one-day-after-launch": {
+    "endDate": "2028-01-01T05:00:00Z",
+    "closed": false
+  },
+  "billions-fdv-above-300m-one-day-after-launch": {
+    "endDate": "2028-01-01T05:00:00Z",
+    "closed": false
+  },
+  "billions-fdv-above-500m-one-day-after-launch": {
+    "endDate": "2028-01-01T05:00:00Z",
+    "closed": false
+  },
+  "billions-fdv-above-1b-one-day-after-launch": {
+    "endDate": "2028-01-01T05:00:00Z",
+    "closed": false
+  },
+  "cbb-pvam-alaam-2026-03-13-total-109pt5": {
+    "endDate": "2026-03-13T18:00:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773516600": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773516600": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773516600": {
+    "endDate": "2026-03-14T19:35:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773516600": {
+    "endDate": "2026-03-14T19:35:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773516600": {
+    "endDate": "2026-03-14T19:35:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773516600": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773516600": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773516600": {
+    "endDate": "2026-03-14T19:35:00Z",
+    "closed": false
+  },
+  "cbb-ntx-tulsa-2026-03-13-spread-home-2pt5": {
+    "endDate": "2026-03-13T19:30:00Z",
+    "closed": false
+  },
+  "cbb-wisc-ill-2026-03-13-total-149pt5": {
+    "endDate": "2026-03-13T18:30:00Z",
+    "closed": false
+  },
+  "cbb-ntx-tulsa-2026-03-13-total-142pt5": {
+    "endDate": "2026-03-13T19:30:00Z",
+    "closed": false
+  },
+  "cbb-kenest-smho-2026-03-13-spread-home-8pt5": {
+    "endDate": "2026-03-13T19:00:00Z",
+    "closed": false
+  },
+  "cbb-pvam-alaam-2026-03-13-total-113pt5": {
+    "endDate": "2026-03-13T18:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773516900": {
+    "endDate": "2026-03-14T19:40:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773516900": {
+    "endDate": "2026-03-14T19:40:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773516900": {
+    "endDate": "2026-03-14T19:40:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773516900": {
+    "endDate": "2026-03-14T19:40:00Z",
+    "closed": false
+  },
+  "cbb-ntx-tulsa-2026-03-13-spread-home-1pt5": {
+    "endDate": "2026-03-13T19:30:00Z",
+    "closed": false
+  },
+  "cbb-ntx-tulsa-2026-03-13-total-143pt5": {
+    "endDate": "2026-03-13T19:30:00Z",
+    "closed": false
+  },
+  "cbb-stbon-day-2026-03-13-spread-home-1pt5": {
+    "endDate": "2026-03-13T18:00:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773517200": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773517200": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773517200": {
+    "endDate": "2026-03-14T19:45:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773417600": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773431100": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773417600": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773431100": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773431700": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773417600": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773432900": {
+    "endDate": "2026-03-13T20:30:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773432000": {
+    "endDate": "2026-03-13T20:15:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773432000": {
+    "endDate": "2026-03-14T00:00:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773432900": {
+    "endDate": "2026-03-13T20:30:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773446400": {
+    "endDate": "2026-03-14T04:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773432000": {
+    "endDate": "2026-03-14T00:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773431100": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773431700": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773431700": {
+    "endDate": "2026-03-13T20:00:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773432900": {
+    "endDate": "2026-03-13T20:30:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773446400": {
+    "endDate": "2026-03-14T04:00:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773446400": {
+    "endDate": "2026-03-14T04:00:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773432000": {
+    "endDate": "2026-03-13T20:15:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773432000": {
+    "endDate": "2026-03-14T00:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773432000": {
+    "endDate": "2026-03-13T20:15:00Z",
+    "closed": false
+  },
+  "cbb-ntx-tulsa-2026-03-13-total-150pt5": {
+    "endDate": "2026-03-13T19:30:00Z",
+    "closed": false
+  },
+  "dota2-ty-liquid-2026-03-13-game2-kill-over-42pt5": {
+    "endDate": "2026-03-14T00:30:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773517500": {
+    "endDate": "2026-03-14T19:50:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773432300": {
+    "endDate": "2026-03-13T20:10:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773517500": {
+    "endDate": "2026-03-14T20:00:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773489600": {
+    "endDate": "2026-03-14T16:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773432300": {
+    "endDate": "2026-03-13T20:10:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773517500": {
+    "endDate": "2026-03-14T20:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773489600": {
+    "endDate": "2026-03-14T16:00:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773517500": {
+    "endDate": "2026-03-14T19:50:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773435600": {
+    "endDate": "2026-03-13T21:15:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773517500": {
+    "endDate": "2026-03-14T19:50:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773434700": {
+    "endDate": "2026-03-13T21:00:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773433800": {
+    "endDate": "2026-03-13T20:45:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773489600": {
+    "endDate": "2026-03-14T16:00:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773517500": {
+    "endDate": "2026-03-14T20:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773517500": {
+    "endDate": "2026-03-14T19:50:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773432000": {
+    "endDate": "2026-03-13T20:05:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773517500": {
+    "endDate": "2026-03-14T20:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773432000": {
+    "endDate": "2026-03-13T20:05:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773432300": {
+    "endDate": "2026-03-13T20:10:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773434700": {
+    "endDate": "2026-03-13T21:00:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773475200": {
+    "endDate": "2026-03-14T12:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773434700": {
+    "endDate": "2026-03-13T21:00:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773435600": {
+    "endDate": "2026-03-13T21:15:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773460800": {
+    "endDate": "2026-03-14T08:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773460800": {
+    "endDate": "2026-03-14T08:00:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773432600": {
+    "endDate": "2026-03-13T20:15:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773432600": {
+    "endDate": "2026-03-13T20:15:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773432000": {
+    "endDate": "2026-03-13T20:05:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773433800": {
+    "endDate": "2026-03-13T20:45:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773475200": {
+    "endDate": "2026-03-14T12:00:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773433800": {
+    "endDate": "2026-03-13T20:45:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773475200": {
+    "endDate": "2026-03-14T12:00:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773435600": {
+    "endDate": "2026-03-13T21:15:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773432600": {
+    "endDate": "2026-03-13T20:15:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773460800": {
+    "endDate": "2026-03-14T08:00:00Z",
     "closed": false
   }
 }
