@@ -41870,10 +41870,6 @@
     "endDate": "2026-03-14T07:30:00Z",
     "closed": false
   },
-  "kor-dae1-san-2026-03-14-draw": {
-    "endDate": "2026-03-14T07:30:00Z",
-    "closed": false
-  },
   "kor-dae1-san-2026-03-14-san": {
     "endDate": "2026-03-14T07:30:00Z",
     "closed": false
@@ -43703,14 +43699,6 @@
     "closed": false
   },
   "mls-ner-fcc-2026-03-15-total-3pt5": {
-    "endDate": "2026-03-15T18:30:00Z",
-    "closed": false
-  },
-  "mls-ner-fcc-2026-03-15-total-4pt5": {
-    "endDate": "2026-03-15T18:30:00Z",
-    "closed": false
-  },
-  "mls-ner-fcc-2026-03-15-btts": {
     "endDate": "2026-03-15T18:30:00Z",
     "closed": false
   },
@@ -63697,10 +63685,6 @@
     "endDate": "2026-03-27T19:45:00Z",
     "closed": false
   },
-  "j1-100-ssp-fag-2026-03-14-ssp": {
-    "endDate": "2026-03-14T05:00:00Z",
-    "closed": false
-  },
   "fif-che-ger-2026-03-27-spread-home-2pt5": {
     "endDate": "2026-03-27T19:45:00Z",
     "closed": false
@@ -71672,14 +71656,6 @@
     "closed": false
   },
   "scop-cel-mot-2026-03-14-total-1pt5": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "scop-cel-mot-2026-03-14-total-2pt5": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "scop-cel-mot-2026-03-14-total-3pt5": {
     "endDate": "2026-03-14T15:00:00Z",
     "closed": false
   },
@@ -83679,10 +83655,6 @@
     "endDate": "2026-04-01T21:10:00Z",
     "closed": false
   },
-  "col1-alf-adp-2026-04-01-total-3pt5": {
-    "endDate": "2026-04-01T21:10:00Z",
-    "closed": false
-  },
   "col1-alf-adp-2026-04-01-total-4pt5": {
     "endDate": "2026-04-01T21:10:00Z",
     "closed": false
@@ -85731,10 +85703,6 @@
     "endDate": "2026-03-20T19:00:00Z",
     "closed": false
   },
-  "bknbl-sou-ade-2026-03-13": {
-    "endDate": "2026-03-20T13:01:00Z",
-    "closed": false
-  },
   "ukr1-kud-pol-2026-03-18-kud": {
     "endDate": "2026-03-18T16:00:00Z",
     "closed": false
@@ -86079,16 +86047,8 @@
     "endDate": "2026-04-03T14:00:00Z",
     "closed": false
   },
-  "hok-wol-dyg-2026-03-14-game1": {
-    "endDate": "2026-03-14T15:10:00Z",
-    "closed": false
-  },
   "elc-lei-pne-2026-04-03-spread-away-1pt5": {
     "endDate": "2026-04-03T14:00:00Z",
-    "closed": false
-  },
-  "hok-wol-dyg-2026-03-14-game2": {
-    "endDate": "2026-03-14T15:10:00Z",
     "closed": false
   },
   "elc-lei-pne-2026-04-03-spread-home-2pt5": {
@@ -86152,7 +86112,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-spread-home-2pt5": {
@@ -86160,7 +86120,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game1": {
-    "endDate": "2026-03-14T16:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-spread-away-2pt5": {
@@ -86168,7 +86128,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game2": {
-    "endDate": "2026-03-14T16:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-total-1pt5": {
@@ -86176,7 +86136,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game3": {
-    "endDate": "2026-03-14T17:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-total-2pt5": {
@@ -86184,7 +86144,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game4": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-total-3pt5": {
@@ -86192,7 +86152,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-total-games-3pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-total-4pt5": {
@@ -86200,7 +86160,7 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-total-games-4pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-sot-ips-2026-04-03-btts": {
@@ -86208,11 +86168,11 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game-handicap-home-1pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game-handicap-home-2pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "elc-cov-der-2026-04-03-spread-home-1pt5": {
@@ -105681,14 +105641,6 @@
     "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
-  "will-solana-reach-110-march-9-15": {
-    "endDate": "2026-03-16T04:00:00Z",
-    "closed": false
-  },
-  "will-solana-reach-100-march-9-15": {
-    "endDate": "2026-03-16T04:00:00Z",
-    "closed": false
-  },
   "will-solana-dip-to-80-march-9-15": {
     "endDate": "2026-03-16T04:00:00Z",
     "closed": false
@@ -109886,47 +109838,47 @@
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game1": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game2": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-total-games-2pt5": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-map-handicap-away-1pt5": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game1-odd-even-total-kills": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game1-odd-even-total-rounds": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game2-odd-even-total-kills": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game3-odd-even-total-kills": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "cs2-navij1-aaa-2026-03-14-game3-odd-even-total-rounds": {
-    "endDate": "2026-03-14T17:40:00Z",
+    "endDate": "2026-03-14T17:50:00Z",
     "closed": false
   },
   "dogecoin-up-or-down-march-13-1am-et": {
@@ -109947,10 +109899,6 @@
   },
   "bkcl-pal-la-2026-03-17": {
     "endDate": "2026-03-24T19:30:00Z",
-    "closed": false
-  },
-  "bkkbl-dae-mob-2026-03-14": {
-    "endDate": "2026-03-21T07:30:00Z",
     "closed": false
   },
   "f1-chinese-grand-prix-winner-gasly-2026-03-15": {
@@ -110094,26 +110042,6 @@
     "closed": false
   },
   "f1-chinese-grand-prix-driver-pole-position-bortoleto-2026-03-13": {
-    "endDate": "2026-03-20T07:30:00Z",
-    "closed": false
-  },
-  "f1-chinese-grand-prix-driver-pole-position-perez-2026-03-13": {
-    "endDate": "2026-03-20T07:30:00Z",
-    "closed": false
-  },
-  "f1-chinese-grand-prix-driver-pole-position-leclerc-2026-03-13": {
-    "endDate": "2026-03-20T07:30:00Z",
-    "closed": false
-  },
-  "f1-chinese-grand-prix-driver-pole-position-ocon-2026-03-13": {
-    "endDate": "2026-03-20T07:30:00Z",
-    "closed": false
-  },
-  "f1-chinese-grand-prix-driver-pole-position-norris-2026-03-13": {
-    "endDate": "2026-03-20T07:30:00Z",
-    "closed": false
-  },
-  "f1-chinese-grand-prix-driver-pole-position-antonelli-2026-03-13": {
     "endDate": "2026-03-20T07:30:00Z",
     "closed": false
   },
@@ -113008,62 +112936,6 @@
     "endDate": "2026-03-13T21:10:00Z",
     "closed": false
   },
-  "hok-sygami-mtg-2026-03-14": {
-    "endDate": "2026-03-14T11:10:00Z",
-    "closed": false
-  },
-  "hok-sygami-mtg-2026-03-14-total-games-3pt5": {
-    "endDate": "2026-03-14T11:10:00Z",
-    "closed": false
-  },
-  "hok-sygami-mtg-2026-03-14-total-games-4pt5": {
-    "endDate": "2026-03-14T11:10:00Z",
-    "closed": false
-  },
-  "hok-sygami-mtg-2026-03-14-game-handicap-away-1pt5": {
-    "endDate": "2026-03-14T11:10:00Z",
-    "closed": false
-  },
-  "hok-sygami-mtg-2026-03-14-game-handicap-away-2pt5": {
-    "endDate": "2026-03-14T11:10:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game1": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game2": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game3": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game4": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-total-games-3pt5": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-total-games-4pt5": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game-handicap-away-1pt5": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game-handicap-away-2pt5": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
   "hok-wz-jly-2026-03-14": {
     "endDate": "2026-03-14T16:00:00Z",
     "closed": false
@@ -113101,39 +112973,39 @@
     "closed": false
   },
   "hok-wlt-uug-2026-03-14": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-game1": {
-    "endDate": "2026-03-14T16:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-game2": {
-    "endDate": "2026-03-14T16:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-game3": {
-    "endDate": "2026-03-14T17:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-game4": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-total-games-3pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-total-games-4pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-game-handicap-home-1pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wlt-uug-2026-03-14-game-handicap-home-2pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:30:00Z",
     "closed": false
   },
   "hok-wst-ltg-2026-03-15": {
@@ -113448,14 +113320,6 @@
     "endDate": "2026-03-22T07:30:00Z",
     "closed": false
   },
-  "bitcoin-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-london-on-march-14-2026-7c": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-london-on-march-14-2026-8c": {
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
@@ -113482,10 +113346,6 @@
   },
   "highest-temperature-in-london-on-march-14-2026-14corhigher": {
     "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "ethereum-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
     "closed": false
   },
   "highest-temperature-in-paris-on-march-14-2026-6c": {
@@ -113518,10 +113378,6 @@
   },
   "highest-temperature-in-paris-on-march-14-2026-13corhigher": {
     "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "solana-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
     "closed": false
   },
   "highest-temperature-in-sao-paulo-on-march-14-2026-24corbelow": {
@@ -113560,10 +113416,6 @@
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
   },
-  "xrp-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-buenos-aires-on-march-14-2026-27corbelow": {
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
@@ -113600,14 +113452,6 @@
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
   },
-  "dogecoin-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
-    "closed": false
-  },
-  "hype-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-toronto-on-march-14-2026-2c": {
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
@@ -113618,10 +113462,6 @@
   },
   "highest-temperature-in-toronto-on-march-14-2026-4corhigher": {
     "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "bnb-up-or-down-march-14-6am-et": {
-    "endDate": "2026-03-14T11:00:00Z",
     "closed": false
   },
   "highest-temperature-in-seattle-on-march-14-2026-37forbelow": {
@@ -113657,10 +113497,6 @@
     "closed": false
   },
   "highest-temperature-in-seattle-on-march-14-2026-52forhigher": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-nyc-on-march-14-2026-43forbelow": {
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
   },
@@ -113897,10 +113733,6 @@
     "closed": false
   },
   "highest-temperature-in-lucknow-on-march-14-2026-44corhigher": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "highest-temperature-in-munich-on-march-14-2026-11c": {
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
   },
@@ -114301,11 +114133,11 @@
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game-handicap-away-1pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "hok-agsp-ksg-2026-03-14-game-handicap-away-2pt5": {
-    "endDate": "2026-03-14T18:00:00Z",
+    "endDate": "2026-03-14T18:15:00Z",
     "closed": false
   },
   "will-aurora-gaming-win-esl-pro-league-season-23": {
@@ -115801,10 +115633,6 @@
     "closed": false
   },
   "will-google-be-1-free-app-in-the-us-apple-app-store-on-march-17": {
-    "endDate": "2026-03-17T00:00:00Z",
-    "closed": false
-  },
-  "will-threads-be-1-free-app-in-the-us-apple-app-store-on-march-17": {
     "endDate": "2026-03-17T00:00:00Z",
     "closed": false
   },
@@ -118400,10 +118228,6 @@
     "endDate": "2026-03-15T05:00:00Z",
     "closed": false
   },
-  "will-ethereum-dip-to-2050-on-march-13": {
-    "endDate": "2026-03-14T04:00:00Z",
-    "closed": false
-  },
   "solana-up-or-down-march-15-12am-et": {
     "endDate": "2026-03-15T05:00:00Z",
     "closed": false
@@ -118800,22 +118624,6 @@
     "endDate": "2026-03-15T09:00:00Z",
     "closed": false
   },
-  "xrp-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "sol-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "eth-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
   "bitcoin-up-or-down-march-15-2026-5am-et": {
     "endDate": "2026-03-15T10:00:00Z",
     "closed": false
@@ -118920,32 +118728,12 @@
     "endDate": "2026-03-15T12:00:00Z",
     "closed": false
   },
-  "r6siege-v7-sn-2026-03-13": {
-    "endDate": "2026-03-14T03:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-paris-on-march-15-2026-15c": {
     "endDate": "2026-03-15T12:00:00Z",
     "closed": false
   },
-  "r6siege-v7-sn-2026-03-13-game1": {
-    "endDate": "2026-03-14T01:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-paris-on-march-15-2026-16corhigher": {
     "endDate": "2026-03-15T12:00:00Z",
-    "closed": false
-  },
-  "r6siege-v7-sn-2026-03-13-game2": {
-    "endDate": "2026-03-14T01:00:00Z",
-    "closed": false
-  },
-  "r6siege-v7-sn-2026-03-13-total-games-2pt5": {
-    "endDate": "2026-03-14T03:00:00Z",
-    "closed": false
-  },
-  "r6siege-v7-sn-2026-03-13-game-handicap-away-1pt5": {
-    "endDate": "2026-03-14T03:00:00Z",
     "closed": false
   },
   "r6siege-intz-2game-2026-03-13": {
@@ -119716,38 +119504,6 @@
     "endDate": "2026-03-15T12:00:00Z",
     "closed": false
   },
-  "xrp-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
   "bitcoin-up-or-down-march-15-2026-8am-et": {
     "endDate": "2026-03-15T13:00:00Z",
     "closed": false
@@ -119869,14 +119625,6 @@
     "closed": false
   },
   "googl-up-or-down-on-march-16-2026": {
-    "endDate": "2026-03-16T20:00:00Z",
-    "closed": false
-  },
-  "xrp-up-or-down-march-15-2026-8am-et": {
-    "endDate": "2026-03-15T13:00:00Z",
-    "closed": false
-  },
-  "djia-up-or-down-on-march-16-2026": {
     "endDate": "2026-03-16T20:00:00Z",
     "closed": false
   },
@@ -120024,240 +119772,24 @@
     "endDate": "2026-03-16T20:00:00Z",
     "closed": false
   },
-  "xrp-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
   "sol-updown-4h-1773489600": {
     "endDate": "2026-03-14T16:00:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
     "closed": false
   },
   "btc-updown-4h-1773489600": {
     "endDate": "2026-03-14T16:00:00Z",
     "closed": false
   },
-  "sol-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
-    "closed": false
-  },
   "eth-updown-4h-1773489600": {
     "endDate": "2026-03-14T16:00:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
     "closed": false
   },
   "xrp-updown-4h-1773489600": {
     "endDate": "2026-03-14T16:00:00Z",
     "closed": false
   },
-  "btc-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
   "sol-updown-15m-1773492300": {
     "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773492300": {
-    "endDate": "2026-03-14T12:50:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773492300": {
-    "endDate": "2026-03-14T12:50:00Z",
     "closed": false
   },
   "eth-updown-15m-1773492300": {
@@ -120268,16 +119800,8 @@
     "endDate": "2026-03-14T13:00:00Z",
     "closed": false
   },
-  "btc-updown-5m-1773492300": {
-    "endDate": "2026-03-14T12:50:00Z",
-    "closed": false
-  },
   "btc-updown-15m-1773492300": {
     "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773492300": {
-    "endDate": "2026-03-14T12:50:00Z",
     "closed": false
   },
   "btc-updown-5m-1773492600": {
@@ -120982,34 +120506,6 @@
   },
   "ethereum-up-or-down-march-15-2026-11am-et": {
     "endDate": "2026-03-15T16:00:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14": {
-    "endDate": "2026-03-14T13:15:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14-game3": {
-    "endDate": "2026-03-14T13:15:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14-game4": {
-    "endDate": "2026-03-14T13:15:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14-total-games-3pt5": {
-    "endDate": "2026-03-14T13:15:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14-total-games-4pt5": {
-    "endDate": "2026-03-14T13:15:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14-game-handicap-away-1pt5": {
-    "endDate": "2026-03-14T13:15:00Z",
-    "closed": false
-  },
-  "hok-bmg-littea-2026-03-14-game-handicap-away-2pt5": {
-    "endDate": "2026-03-14T13:15:00Z",
     "closed": false
   },
   "solana-up-or-down-march-15-2026-11am-et": {
@@ -122008,20 +121504,12 @@
     "endDate": "2026-03-20T16:00:00Z",
     "closed": false
   },
-  "wta-kalinin-kawa-2026-03-14": {
-    "endDate": "2026-03-21T08:00:00Z",
-    "closed": false
-  },
   "will-the-price-of-bitcoin-be-between-66000-68000-on-march-20": {
     "endDate": "2026-03-20T16:00:00Z",
     "closed": false
   },
   "ethereum-above-2000-on-march-20": {
     "endDate": "2026-03-20T16:00:00Z",
-    "closed": false
-  },
-  "atp-cecchin-gea-2026-03-14": {
-    "endDate": "2026-03-21T08:30:00Z",
     "closed": false
   },
   "will-the-price-of-bitcoin-be-between-68000-70000-on-march-20": {
@@ -122090,10 +121578,6 @@
   },
   "wttwom-chen-odo-2026-03-14": {
     "endDate": "2026-03-21T10:30:00Z",
-    "closed": false
-  },
-  "atp-dostani-samuel-2026-03-14": {
-    "endDate": "2026-03-21T08:30:00Z",
     "closed": false
   },
   "wttmen-caldera-lebrun-2026-03-14": {
@@ -122804,56 +122288,8 @@
     "endDate": "2026-03-21T10:00:00Z",
     "closed": false
   },
-  "atp-cecchin-gea-2026-03-14-set-totals-2pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "atp-cecchin-gea-2026-03-14-match-total-21pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "atp-cecchin-gea-2026-03-14-match-total-22pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "atp-cecchin-gea-2026-03-14-match-total-23pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
   "ethereum-up-or-down-march-15-2026-1pm-et": {
     "endDate": "2026-03-15T18:00:00Z",
-    "closed": false
-  },
-  "atp-dostani-samuel-2026-03-14-match-total-21pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "atp-dostani-samuel-2026-03-14-set-totals-2pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "atp-dostani-samuel-2026-03-14-match-total-22pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "atp-dostani-samuel-2026-03-14-match-total-23pt5": {
-    "endDate": "2026-03-21T08:30:00Z",
-    "closed": false
-  },
-  "wta-kalinin-kawa-2026-03-14-match-total-21pt5": {
-    "endDate": "2026-03-21T08:00:00Z",
-    "closed": false
-  },
-  "wta-kalinin-kawa-2026-03-14-set-totals-2pt5": {
-    "endDate": "2026-03-21T08:00:00Z",
-    "closed": false
-  },
-  "wta-kalinin-kawa-2026-03-14-match-total-22pt5": {
-    "endDate": "2026-03-21T08:00:00Z",
-    "closed": false
-  },
-  "wta-kalinin-kawa-2026-03-14-match-total-23pt5": {
-    "endDate": "2026-03-21T08:00:00Z",
     "closed": false
   },
   "solana-up-or-down-march-15-2026-1pm-et": {
@@ -125608,18 +125044,6 @@
     "endDate": "2026-03-14T20:00:00Z",
     "closed": false
   },
-  "hype-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "bnb-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "doge-updown-4h-1773475200": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773517800": {
     "endDate": "2026-03-14T19:55:00Z",
     "closed": false
@@ -125646,6 +125070,38 @@
   },
   "eth-updown-5m-1773517800": {
     "endDate": "2026-03-14T19:55:00Z",
+    "closed": false
+  },
+  "bitcoin-up-or-down-march-15-2026-4pm-et": {
+    "endDate": "2026-03-15T21:00:00Z",
+    "closed": false
+  },
+  "den-agf-nor-2026-04-10-agf": {
+    "endDate": "2026-04-10T17:00:00Z",
+    "closed": false
+  },
+  "den-agf-nor-2026-04-10-draw": {
+    "endDate": "2026-04-10T17:00:00Z",
+    "closed": false
+  },
+  "den-agf-nor-2026-04-10-nor": {
+    "endDate": "2026-04-10T17:00:00Z",
+    "closed": false
+  },
+  "ethereum-up-or-down-march-15-2026-4pm-et": {
+    "endDate": "2026-03-15T21:00:00Z",
+    "closed": false
+  },
+  "solana-up-or-down-march-15-2026-4pm-et": {
+    "endDate": "2026-03-15T21:00:00Z",
+    "closed": false
+  },
+  "xrp-up-or-down-march-15-2026-4pm-et": {
+    "endDate": "2026-03-15T21:00:00Z",
+    "closed": false
+  },
+  "dogecoin-up-or-down-march-15-2026-4pm-et": {
+    "endDate": "2026-03-15T21:00:00Z",
     "closed": false
   },
   "hype-up-or-down-march-15-2026-4pm-et": {
@@ -126168,36 +125624,8 @@
     "endDate": "2026-03-14T21:30:00Z",
     "closed": false
   },
-  "hype-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
   "xrp-updown-5m-1773523500": {
     "endDate": "2026-03-14T21:30:00Z",
-    "closed": false
-  },
-  "bnb-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "bnb-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "doge-updown-15m-1773489600": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "hype-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "doge-updown-15m-1773488700": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "bnb-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
     "closed": false
   },
   "sol-updown-15m-1773523800": {
@@ -126220,10 +125648,6 @@
     "endDate": "2026-03-14T21:35:00Z",
     "closed": false
   },
-  "hype-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
   "xrp-updown-15m-1773523800": {
     "endDate": "2026-03-14T21:45:00Z",
     "closed": false
@@ -126244,24 +125668,8 @@
     "endDate": "2026-03-14T13:00:00Z",
     "closed": false
   },
-  "hype-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
-  "doge-updown-15m-1773491400": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
   "hype-updown-15m-1773492300": {
     "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
-  "bnb-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "doge-updown-15m-1773490500": {
-    "endDate": "2026-03-14T12:30:00Z",
     "closed": false
   },
   "eth-updown-5m-1773524100": {
@@ -126612,10 +126020,6 @@
     "endDate": "2026-03-14T20:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "lol-bce-hmble-2026-03-14-game1-any-player-quadra-kill": {
     "endDate": "2026-03-14T20:00:00Z",
     "closed": false
@@ -126628,24 +126032,12 @@
     "endDate": "2026-03-14T20:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game2": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
   "lol-bce-hmble-2026-03-14-game1-odd-even-total-kills": {
     "endDate": "2026-03-14T20:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-total-games-2pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "lol-bce-hmble-2026-03-14-game2-both-teams-slay-baron": {
     "endDate": "2026-03-14T20:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game-handicap-home-1pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "lol-bce-hmble-2026-03-14-game2-both-teams-slay-dragon": {
@@ -126720,28 +126112,8 @@
     "endDate": "2026-03-14T12:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game3-ends-in-daytime": {
-    "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game3-both-teams-beat-roshan": {
-    "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game3-both-teams-destroy-barracks": {
-    "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
   "ethereum-up-or-down-march-15-2026-6pm-et": {
     "endDate": "2026-03-15T23:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game3-any-player-ultra-kill": {
-    "endDate": "2026-03-14T13:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game3-any-player-rampage": {
-    "endDate": "2026-03-14T13:00:00Z",
     "closed": false
   },
   "lol-fec-s2g-2026-03-14": {
@@ -128232,30 +127604,6 @@
     "endDate": "2026-03-28T00:00:00Z",
     "closed": false
   },
-  "will-nebraska-advance-to-the-elite-eight": {
-    "endDate": "2026-03-28T00:00:00Z",
-    "closed": false
-  },
-  "will-iowa-state-advance-to-the-elite-eight": {
-    "endDate": "2026-03-28T00:00:00Z",
-    "closed": false
-  },
-  "will-virginia-advance-to-the-elite-eight": {
-    "endDate": "2026-03-28T00:00:00Z",
-    "closed": false
-  },
-  "will-alabama-advance-to-the-elite-eight": {
-    "endDate": "2026-03-28T00:00:00Z",
-    "closed": false
-  },
-  "will-kansas-advance-to-the-elite-eight": {
-    "endDate": "2026-03-28T00:00:00Z",
-    "closed": false
-  },
-  "will-purdue-advance-to-the-elite-eight": {
-    "endDate": "2026-03-28T00:00:00Z",
-    "closed": false
-  },
   "will-gonzaga-advance-to-the-elite-eight": {
     "endDate": "2026-03-28T00:00:00Z",
     "closed": false
@@ -129632,6 +128980,22 @@
     "endDate": "2026-04-06T00:00:00Z",
     "closed": false
   },
+  "will-illinois-advance-to-the-national-championship": {
+    "endDate": "2026-04-06T00:00:00Z",
+    "closed": false
+  },
+  "will-nebraska-advance-to-the-national-championship": {
+    "endDate": "2026-04-06T00:00:00Z",
+    "closed": false
+  },
+  "will-iowa-state-advance-to-the-national-championship": {
+    "endDate": "2026-04-06T00:00:00Z",
+    "closed": false
+  },
+  "will-virginia-advance-to-the-national-championship": {
+    "endDate": "2026-04-06T00:00:00Z",
+    "closed": false
+  },
   "will-alabama-advance-to-the-national-championship": {
     "endDate": "2026-04-06T00:00:00Z",
     "closed": false
@@ -130312,23 +129676,11 @@
     "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-46pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "dota2-tundra-ts8-2026-03-14-game2-kill-over-48pt5": {
     "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "dota2-tundra-ts8-2026-03-14-game2-kill-over-47pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-45pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-49pt5": {
     "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
@@ -130552,47 +129904,11 @@
     "endDate": "2026-03-16T02:00:00Z",
     "closed": false
   },
-  "cs2-nemi1-mouzn-2026-03-14": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-game1": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-game2": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-total-games-2pt5": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-map-handicap-away-1pt5": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
   "cs2-nemi1-mouzn-2026-03-14-game1-odd-even-total-kills": {
     "endDate": "2026-03-14T15:00:00Z",
     "closed": false
   },
-  "cs2-nemi1-mouzn-2026-03-14-game1-odd-even-total-rounds": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
   "cs2-nemi1-mouzn-2026-03-14-game2-odd-even-total-kills": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-game2-odd-even-total-rounds": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-game3-odd-even-total-kills": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-nemi1-mouzn-2026-03-14-game3-odd-even-total-rounds": {
     "endDate": "2026-03-14T15:00:00Z",
     "closed": false
   },
@@ -130956,14 +130272,6 @@
     "endDate": "2026-03-15T01:05:00Z",
     "closed": false
   },
-  "bnb-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
   "xrp-updown-15m-1773536400": {
     "endDate": "2026-03-15T01:15:00Z",
     "closed": false
@@ -130996,40 +130304,12 @@
     "endDate": "2026-03-15T01:05:00Z",
     "closed": false
   },
-  "hype-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773489000": {
-    "endDate": "2026-03-14T11:55:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773489300": {
-    "endDate": "2026-03-14T12:00:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
-    "closed": false
-  },
   "btc-updown-5m-1773536700": {
     "endDate": "2026-03-15T01:10:00Z",
     "closed": false
   },
   "eth-updown-5m-1773536700": {
     "endDate": "2026-03-15T01:10:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773489900": {
-    "endDate": "2026-03-14T12:10:00Z",
     "closed": false
   },
   "xrp-updown-5m-1773536700": {
@@ -131040,48 +130320,12 @@
     "endDate": "2026-03-15T01:10:00Z",
     "closed": false
   },
-  "bnb-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773490200": {
-    "endDate": "2026-03-14T12:15:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773489600": {
-    "endDate": "2026-03-14T12:05:00Z",
-    "closed": false
-  },
   "eth-updown-5m-1773537000": {
     "endDate": "2026-03-15T01:15:00Z",
     "closed": false
   },
-  "bnb-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
-    "closed": false
-  },
   "btc-updown-5m-1773537000": {
     "endDate": "2026-03-15T01:15:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773491100": {
-    "endDate": "2026-03-14T12:30:00Z",
     "closed": false
   },
   "sol-updown-5m-1773537000": {
@@ -131090,34 +130334,6 @@
   },
   "xrp-updown-5m-1773537000": {
     "endDate": "2026-03-15T01:15:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773490500": {
-    "endDate": "2026-03-14T12:20:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773490800": {
-    "endDate": "2026-03-14T12:25:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
     "closed": false
   },
   "xrp-updown-15m-1773537300": {
@@ -131148,10 +130364,6 @@
     "endDate": "2026-03-15T01:30:00Z",
     "closed": false
   },
-  "doge-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
-    "closed": false
-  },
   "hype-updown-15m-1773537300": {
     "endDate": "2026-03-15T01:30:00Z",
     "closed": false
@@ -131160,40 +130372,12 @@
     "endDate": "2026-03-15T01:30:00Z",
     "closed": false
   },
-  "hype-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
   "eth-updown-15m-1773537300": {
     "endDate": "2026-03-15T01:30:00Z",
     "closed": false
   },
   "eth-updown-5m-1773537300": {
     "endDate": "2026-03-15T01:20:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773491700": {
-    "endDate": "2026-03-14T12:40:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773491400": {
-    "endDate": "2026-03-14T12:35:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773492000": {
-    "endDate": "2026-03-14T12:45:00Z",
     "closed": false
   },
   "hype-updown-5m-1773492300": {
@@ -131629,6 +130813,10 @@
     "closed": false
   },
   "xrp-up-or-down-march-15-2026-10pm-et": {
+    "endDate": "2026-03-16T03:00:00Z",
+    "closed": false
+  },
+  "dogecoin-up-or-down-march-15-2026-10pm-et": {
     "endDate": "2026-03-16T03:00:00Z",
     "closed": false
   },
@@ -132392,15 +131580,7 @@
     "endDate": "2026-03-14T07:30:00Z",
     "closed": false
   },
-  "ethereum-up-or-down-march-15-2026-11pm-et": {
-    "endDate": "2026-03-16T04:00:00Z",
-    "closed": false
-  },
   "cs2-csdiil-msq-2026-03-14": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-csdiil-msq-2026-03-14-game1": {
     "endDate": "2026-03-14T15:00:00Z",
     "closed": false
   },
@@ -132417,10 +131597,6 @@
     "closed": false
   },
   "cs2-csdiil-msq-2026-03-14-game1-odd-even-total-kills": {
-    "endDate": "2026-03-14T15:00:00Z",
-    "closed": false
-  },
-  "cs2-csdiil-msq-2026-03-14-game1-odd-even-total-rounds": {
     "endDate": "2026-03-14T15:00:00Z",
     "closed": false
   },
@@ -133508,10 +132684,6 @@
     "endDate": "2026-03-21T15:30:00Z",
     "closed": false
   },
-  "will-bitcoin-dip-to-71k-on-march-14": {
-    "endDate": "2026-03-15T04:00:00Z",
-    "closed": false
-  },
   "will-bitcoin-dip-to-70k-on-march-14": {
     "endDate": "2026-03-15T04:00:00Z",
     "closed": false
@@ -133577,10 +132749,6 @@
     "closed": false
   },
   "will-ethereum-reach-2150-on-march-14": {
-    "endDate": "2026-03-15T04:00:00Z",
-    "closed": false
-  },
-  "will-ethereum-dip-to-2100-on-march-14": {
     "endDate": "2026-03-15T04:00:00Z",
     "closed": false
   },
@@ -133677,10 +132845,6 @@
     "closed": false
   },
   "will-xrp-reach-1pt45-on-march-14": {
-    "endDate": "2026-03-15T04:00:00Z",
-    "closed": false
-  },
-  "will-xrp-dip-to-1pt4-on-march-14": {
     "endDate": "2026-03-15T04:00:00Z",
     "closed": false
   },
@@ -136404,14 +135568,6 @@
     "endDate": "2026-03-15T00:30:00Z",
     "closed": false
   },
-  "nba-den-lal-2026-03-14-1h-moneyline": {
-    "endDate": "2026-03-15T00:30:00Z",
-    "closed": false
-  },
-  "nba-sac-lac-2026-03-14-total-230pt5": {
-    "endDate": "2026-03-15T02:30:00Z",
-    "closed": false
-  },
   "nba-sac-lac-2026-03-14-1h-spread-home-7pt5": {
     "endDate": "2026-03-15T02:30:00Z",
     "closed": false
@@ -137072,10 +136228,6 @@
     "endDate": "2026-03-15T05:00:00Z",
     "closed": false
   },
-  "hok-sygami-mtg-2026-03-14-game-handicap-home-1pt5": {
-    "endDate": "2026-03-14T11:10:00Z",
-    "closed": false
-  },
   "sol-updown-15m-1773557100": {
     "endDate": "2026-03-15T07:00:00Z",
     "closed": false
@@ -137302,14 +136454,6 @@
   },
   "doge-updown-5m-1773552900": {
     "endDate": "2026-03-15T05:40:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-43pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-44pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "eth-updown-5m-1773558000": {
@@ -138424,42 +137568,6 @@
     "endDate": "2026-03-15T08:35:00Z",
     "closed": false
   },
-  "eth-updown-15m-1773563400": {
-    "endDate": "2026-03-15T08:45:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773563400": {
-    "endDate": "2026-03-15T08:35:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773563400": {
-    "endDate": "2026-03-15T08:35:00Z",
-    "closed": false
-  },
-  "hype-updown-15m-1773563400": {
-    "endDate": "2026-03-15T08:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773563400": {
-    "endDate": "2026-03-15T08:35:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773563400": {
-    "endDate": "2026-03-15T08:35:00Z",
-    "closed": false
-  },
-  "bnb-updown-15m-1773563400": {
-    "endDate": "2026-03-15T08:45:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773563400": {
-    "endDate": "2026-03-15T08:35:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773563400": {
-    "endDate": "2026-03-15T08:45:00Z",
-    "closed": false
-  },
   "doge-updown-15m-1773563400": {
     "endDate": "2026-03-15T08:45:00Z",
     "closed": false
@@ -138474,14 +137582,6 @@
   },
   "sol-updown-15m-1773563400": {
     "endDate": "2026-03-15T08:45:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game-handicap-home-1pt5": {
-    "endDate": "2026-03-14T14:15:00Z",
-    "closed": false
-  },
-  "hok-xqg-tkl-2026-03-14-game-handicap-home-2pt5": {
-    "endDate": "2026-03-14T14:15:00Z",
     "closed": false
   },
   "hype-updown-5m-1773563700": {
@@ -138510,10 +137610,6 @@
   },
   "btc-updown-5m-1773563700": {
     "endDate": "2026-03-15T08:40:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game-handicap-away-1pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "dota2-tundra-ts8-2026-03-14-game1-kill-over-63pt5": {
@@ -138784,10 +137880,6 @@
     "endDate": "2026-03-15T09:10:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-50pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "eth-updown-5m-1773565800": {
     "endDate": "2026-03-15T09:15:00Z",
     "closed": false
@@ -138814,10 +137906,6 @@
   },
   "bnb-updown-5m-1773565800": {
     "endDate": "2026-03-15T09:15:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-51pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "sol-updown-15m-1773566100": {
@@ -139004,10 +138092,6 @@
     "endDate": "2026-03-16T03:30:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-52pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "cs2-mf-abyssa-2026-03-15": {
     "endDate": "2026-03-16T05:30:00Z",
     "closed": false
@@ -139070,10 +138154,6 @@
   },
   "sol-updown-5m-1773566700": {
     "endDate": "2026-03-15T09:30:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-42pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "eth-updown-5m-1773567000": {
@@ -139166,14 +138246,6 @@
   },
   "sol-updown-5m-1773567300": {
     "endDate": "2026-03-15T09:40:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-53pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-54pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
   "btc-updown-5m-1773567600": {
@@ -139420,10 +138492,6 @@
     "endDate": "2026-03-18T12:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-41pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-sao-paulo-on-march-18-2026-27c": {
     "endDate": "2026-03-18T12:00:00Z",
     "closed": false
@@ -139609,6 +138677,18 @@
     "closed": false
   },
   "highest-temperature-in-seattle-on-march-18-2026-52-53f": {
+    "endDate": "2026-03-18T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-seattle-on-march-18-2026-54-55f": {
+    "endDate": "2026-03-18T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-seattle-on-march-18-2026-56-57f": {
+    "endDate": "2026-03-18T12:00:00Z",
+    "closed": false
+  },
+  "highest-temperature-in-seattle-on-march-18-2026-58-59f": {
     "endDate": "2026-03-18T12:00:00Z",
     "closed": false
   },
@@ -140292,19 +139372,7 @@
     "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-64pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
   "dota2-tundra-ts8-2026-03-14-game2-kill-over-60pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-63pt5": {
-    "endDate": "2026-03-14T14:00:00Z",
-    "closed": false
-  },
-  "dota2-tundra-ts8-2026-03-14-game2-kill-over-61pt5": {
     "endDate": "2026-03-14T14:00:00Z",
     "closed": false
   },
@@ -141100,40 +140168,120 @@
     "endDate": "2026-04-19T15:00:00Z",
     "closed": false
   },
+  "f1-bahrain-grand-prix-winner-alonso-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-albon-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-bortoleto-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-perez-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-leclerc-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-ocon-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-norris-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-antonelli-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-verstappen-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
   "cs2-msc-ecs-2026-03-14": {
     "endDate": "2026-03-14T18:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-colapinto-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
     "closed": false
   },
   "cs2-msc-ecs-2026-03-14-game1": {
     "endDate": "2026-03-14T18:00:00Z",
     "closed": false
   },
+  "f1-bahrain-grand-prix-winner-jr-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
   "cs2-msc-ecs-2026-03-14-game2": {
     "endDate": "2026-03-14T18:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-hulkenberg-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
     "closed": false
   },
   "cs2-msc-ecs-2026-03-14-total-games-2pt5": {
     "endDate": "2026-03-14T18:00:00Z",
     "closed": false
   },
+  "f1-bahrain-grand-prix-winner-bottas-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-hamilton-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-bearman-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
   "cs2-msc-ecs-2026-03-14-map-handicap-home-1pt5": {
     "endDate": "2026-03-14T18:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-piastri-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
     "closed": false
   },
   "cs2-msc-ecs-2026-03-14-game1-odd-even-total-kills": {
     "endDate": "2026-03-14T18:00:00Z",
     "closed": false
   },
+  "f1-bahrain-grand-prix-winner-russell-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
   "cs2-msc-ecs-2026-03-14-game1-odd-even-total-rounds": {
     "endDate": "2026-03-14T18:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-lindblad-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
     "closed": false
   },
   "cs2-msc-ecs-2026-03-14-game2-odd-even-total-kills": {
     "endDate": "2026-03-14T18:00:00Z",
     "closed": false
   },
+  "f1-bahrain-grand-prix-winner-hadjar-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
+    "closed": false
+  },
   "cs2-msc-ecs-2026-03-14-game2-odd-even-total-rounds": {
     "endDate": "2026-03-14T18:00:00Z",
+    "closed": false
+  },
+  "f1-bahrain-grand-prix-winner-lawson-2026-04-12": {
+    "endDate": "2026-04-19T15:00:00Z",
     "closed": false
   },
   "cs2-msc-ecs-2026-03-14-game3-odd-even-total-kills": {
@@ -141908,6 +141056,14 @@
     "endDate": "2026-03-15T11:30:00Z",
     "closed": false
   },
+  "dota2-heroic-liquid-2026-03-14-game1-kill-over-63pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game1-kill-over-62pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
   "sol-updown-15m-1773574200": {
     "endDate": "2026-03-15T11:45:00Z",
     "closed": false
@@ -142008,6 +141164,10 @@
     "endDate": "2026-03-15T11:40:00Z",
     "closed": false
   },
+  "dota2-heroic-liquid-2026-03-14-game1-kill-over-68pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
   "dota2-heroic-liquid-2026-03-14-game2-kill-over-48pt5": {
     "endDate": "2026-03-14T16:30:00Z",
     "closed": false
@@ -142024,11 +141184,23 @@
     "endDate": "2026-03-14T16:30:00Z",
     "closed": false
   },
+  "dota2-heroic-liquid-2026-03-14-game1-kill-over-69pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
   "dota2-heroic-liquid-2026-03-14-game1-kill-over-72pt5": {
     "endDate": "2026-03-14T16:30:00Z",
     "closed": false
   },
+  "dota2-heroic-liquid-2026-03-14-game1-kill-over-75pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
   "dota2-heroic-liquid-2026-03-14-game1-kill-over-73pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game1-kill-over-74pt5": {
     "endDate": "2026-03-14T16:30:00Z",
     "closed": false
   },
@@ -142060,12 +141232,1228 @@
     "endDate": "2026-03-15T11:45:00Z",
     "closed": false
   },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-50pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
   "eth-updown-5m-1773575100": {
+    "endDate": "2026-03-15T11:50:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773575100": {
     "endDate": "2026-03-15T11:50:00Z",
     "closed": false
   },
   "eth-updown-15m-1773575100": {
     "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773575100": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773575100": {
+    "endDate": "2026-03-15T11:50:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773575100": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773575100": {
+    "endDate": "2026-03-15T11:50:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773575100": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773575100": {
+    "endDate": "2026-03-15T11:50:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773575100": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773575100": {
+    "endDate": "2026-03-15T11:50:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773575100": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773575100": {
+    "endDate": "2026-03-15T11:50:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773575100": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773575400": {
+    "endDate": "2026-03-15T11:55:00Z",
+    "closed": false
+  },
+  "bitcoin-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "sc2-maxpax-clem-2026-03-14": {
+    "endDate": "2026-03-14T18:15:00Z",
+    "closed": false
+  },
+  "sc2-maxpax-clem-2026-03-14-game1": {
+    "endDate": "2026-03-14T16:15:00Z",
+    "closed": false
+  },
+  "sc2-maxpax-clem-2026-03-14-game2": {
+    "endDate": "2026-03-14T16:15:00Z",
+    "closed": false
+  },
+  "sc2-maxpax-clem-2026-03-14-total-games-2pt5": {
+    "endDate": "2026-03-14T18:15:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "sc2-maxpax-clem-2026-03-14-map-handicap-home-1pt5": {
+    "endDate": "2026-03-14T18:15:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-game1": {
+    "endDate": "2026-03-15T09:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-game2": {
+    "endDate": "2026-03-15T09:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-game3": {
+    "endDate": "2026-03-15T10:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-game4": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-game-handicap-home-1pt5": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "hok-bac-fs-2026-03-15-game-handicap-home-2pt5": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-game1": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-game2": {
+    "endDate": "2026-03-15T11:00:00Z",
+    "closed": false
+  },
+  "ethereum-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-game3": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-game4": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-game-handicap-home-1pt5": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-hka-one-2026-03-15-game-handicap-home-2pt5": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-game1": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-game2": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-game3": {
+    "endDate": "2026-03-15T13:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-game4": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-game-handicap-home-1pt5": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-gc-ea-2026-03-15-game-handicap-home-2pt5": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-game1": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-game2": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-game3": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-game4": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "solana-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-game-handicap-away-1pt5": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ose-gam-2026-03-15-game-handicap-away-2pt5": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-game1": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-game2": {
+    "endDate": "2026-03-15T14:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-game3": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-game4": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-game-handicap-away-1pt5": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-ankgam-bmg-2026-03-15-game-handicap-away-2pt5": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15": {
+    "endDate": "2026-03-15T17:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-game1": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-game2": {
+    "endDate": "2026-03-15T15:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-game3": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-game4": {
+    "endDate": "2026-03-15T17:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T17:00:00Z",
+    "closed": false
+  },
+  "xrp-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T17:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-game-handicap-home-1pt5": {
+    "endDate": "2026-03-15T17:00:00Z",
+    "closed": false
+  },
+  "hok-he-kog-2026-03-15-game-handicap-home-2pt5": {
+    "endDate": "2026-03-15T17:00:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-game1": {
+    "endDate": "2026-03-15T16:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-game2": {
+    "endDate": "2026-03-15T16:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-game3": {
+    "endDate": "2026-03-15T17:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-game4": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-total-games-3pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-total-games-4pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-game-handicap-away-1pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "hok-box-sn-2026-03-15-game-handicap-away-2pt5": {
+    "endDate": "2026-03-15T18:30:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-game1": {
+    "endDate": "2026-03-16T09:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-game2": {
+    "endDate": "2026-03-16T09:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-game3": {
+    "endDate": "2026-03-16T10:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-game4": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-total-games-3pt5": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-total-games-4pt5": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "dogecoin-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-game-handicap-away-1pt5": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-wst-kailun-2026-03-16-game-handicap-away-2pt5": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-game1": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-game2": {
+    "endDate": "2026-03-16T11:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-game3": {
+    "endDate": "2026-03-16T12:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-game4": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-total-games-3pt5": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-total-games-4pt5": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-game-handicap-away-1pt5": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-mtg-jly-2026-03-16-game-handicap-away-2pt5": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-game1": {
+    "endDate": "2026-03-16T14:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-game2": {
+    "endDate": "2026-03-16T14:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-game3": {
+    "endDate": "2026-03-16T15:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-game4": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-total-games-3pt5": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-total-games-4pt5": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-game-handicap-home-1pt5": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hype-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-ltg-2026-03-16-game-handicap-home-2pt5": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16": {
+    "endDate": "2026-03-16T18:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-game1": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-game2": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-game3": {
+    "endDate": "2026-03-16T17:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-game4": {
+    "endDate": "2026-03-16T18:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-total-games-3pt5": {
+    "endDate": "2026-03-16T18:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-total-games-4pt5": {
+    "endDate": "2026-03-16T18:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-game-handicap-away-1pt5": {
+    "endDate": "2026-03-16T18:00:00Z",
+    "closed": false
+  },
+  "hok-xyg-tkl-2026-03-16-game-handicap-away-2pt5": {
+    "endDate": "2026-03-16T18:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-game1": {
+    "endDate": "2026-03-17T09:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-game2": {
+    "endDate": "2026-03-17T09:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-game3": {
+    "endDate": "2026-03-17T10:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-game4": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-total-games-3pt5": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-total-games-4pt5": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-game-handicap-home-1pt5": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-wlt-jly-2026-03-17-game-handicap-home-2pt5": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "bnb-up-or-down-march-16-2026-8am-et": {
+    "endDate": "2026-03-16T13:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17": {
+    "endDate": "2026-03-17T13:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-game1": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-game2": {
+    "endDate": "2026-03-17T11:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-game3": {
+    "endDate": "2026-03-17T12:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-game4": {
+    "endDate": "2026-03-17T13:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-total-games-3pt5": {
+    "endDate": "2026-03-17T13:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-total-games-4pt5": {
+    "endDate": "2026-03-17T13:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-game-handicap-away-1pt5": {
+    "endDate": "2026-03-17T13:00:00Z",
+    "closed": false
+  },
+  "hok-uug-mtg-2026-03-17-game-handicap-away-2pt5": {
+    "endDate": "2026-03-17T13:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-game1": {
+    "endDate": "2026-03-17T14:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-game2": {
+    "endDate": "2026-03-17T14:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-game3": {
+    "endDate": "2026-03-17T15:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-game4": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-total-games-3pt5": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-total-games-4pt5": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-game-handicap-home-1pt5": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-tkl-sygami-2026-03-17-game-handicap-home-2pt5": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17": {
+    "endDate": "2026-03-17T18:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-game1": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-game2": {
+    "endDate": "2026-03-17T16:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-game3": {
+    "endDate": "2026-03-17T17:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-game4": {
+    "endDate": "2026-03-17T18:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-total-games-3pt5": {
+    "endDate": "2026-03-17T18:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-total-games-4pt5": {
+    "endDate": "2026-03-17T18:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-game-handicap-home-1pt5": {
+    "endDate": "2026-03-17T18:00:00Z",
+    "closed": false
+  },
+  "hok-xqg-wz-2026-03-17-game-handicap-home-2pt5": {
+    "endDate": "2026-03-17T18:00:00Z",
+    "closed": false
+  },
+  "cbb-cornel-yale-2026-03-14-spread-home-4pt5": {
+    "endDate": "2026-03-14T15:00:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773575700": {
+    "endDate": "2026-03-15T12:00:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-52pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-51pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "btc-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "bnb-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "eth-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "sol-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "xrp-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773576000": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "doge-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "hype-updown-4h-1773576000": {
+    "endDate": "2026-03-15T16:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773576000": {
+    "endDate": "2026-03-15T12:05:00Z",
+    "closed": false
+  },
+  "nba-mil-atl-2026-03-14-1h-spread-home-5pt5": {
+    "endDate": "2026-03-14T19:00:00Z",
+    "closed": false
+  },
+  "nba-mil-atl-2026-03-14-spread-home-9pt5": {
+    "endDate": "2026-03-14T19:00:00Z",
+    "closed": false
+  },
+  "nba-was-bos-2026-03-14-total-230pt5": {
+    "endDate": "2026-03-14T22:00:00Z",
+    "closed": false
+  },
+  "nba-sac-lac-2026-03-14-total-231pt5": {
+    "endDate": "2026-03-15T02:30:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773576300": {
+    "endDate": "2026-03-15T12:10:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-53pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773576600": {
+    "endDate": "2026-03-15T12:15:00Z",
+    "closed": false
+  },
+  "cs2-sng2-lk-2026-03-14-map-handicap-home-1pt5": {
+    "endDate": "2026-03-14T18:00:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773576900": {
+    "endDate": "2026-03-15T12:20:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773576900": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-57pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-58pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-54pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-61pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-59pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-55pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-60pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "dota2-heroic-liquid-2026-03-14-game2-kill-over-56pt5": {
+    "endDate": "2026-03-14T16:30:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773577200": {
+    "endDate": "2026-03-15T12:25:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game1": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game2": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-total-games-2pt5": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-map-handicap-away-1pt5": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game1-odd-even-total-kills": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game1-odd-even-total-rounds": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game2-odd-even-total-kills": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game2-odd-even-total-rounds": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game3-odd-even-total-kills": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-tri9-for10-2026-03-14-game3-odd-even-total-rounds": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game1": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game2": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-total-games-2pt5": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-map-handicap-away-1pt5": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game1-odd-even-total-kills": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game1-odd-even-total-rounds": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game2-odd-even-total-kills": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game2-odd-even-total-rounds": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game3-odd-even-total-kills": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "cs2-str4-aab-2026-03-14-game3-odd-even-total-rounds": {
+    "endDate": "2026-03-14T18:35:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773577500": {
+    "endDate": "2026-03-15T12:30:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773577800": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773577800": {
+    "endDate": "2026-03-15T12:35:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773578100": {
+    "endDate": "2026-03-15T12:40:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773578400": {
+    "endDate": "2026-03-15T12:45:00Z",
     "closed": false
   }
 }
