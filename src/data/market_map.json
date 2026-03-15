@@ -42082,10 +42082,6 @@
     "endDate": "2026-03-15T18:30:00Z",
     "closed": false
   },
-  "mls-ner-fcc-2026-03-15-total-2pt5": {
-    "endDate": "2026-03-15T18:30:00Z",
-    "closed": false
-  },
   "mls-ner-fcc-2026-03-15-total-3pt5": {
     "endDate": "2026-03-15T18:30:00Z",
     "closed": false
@@ -52262,18 +52258,6 @@
     "endDate": "2026-03-16T21:00:00Z",
     "closed": false
   },
-  "cze1-asp-fcs-2026-03-15-asp": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "cze1-asp-fcs-2026-03-15-draw": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "cze1-asp-fcs-2026-03-15-fcs": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
   "per1-fbm-cag-2026-03-15-fbm": {
     "endDate": "2026-03-15T18:15:00Z",
     "closed": false
@@ -53958,10 +53942,6 @@
     "endDate": "2026-03-16T23:30:00Z",
     "closed": false
   },
-  "cze1-asp-fcs-2026-03-15-spread-away-1pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
   "per1-cuf-cs1-2026-03-15-spread-home-2pt5": {
     "endDate": "2026-03-15T23:00:00Z",
     "closed": false
@@ -53980,10 +53960,6 @@
   },
   "chi1-csc-cdh-2026-03-16-spread-home-2pt5": {
     "endDate": "2026-03-16T23:30:00Z",
-    "closed": false
-  },
-  "cze1-asp-fcs-2026-03-15-spread-away-2pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
     "closed": false
   },
   "per1-cuf-cs1-2026-03-15-total-1pt5": {
@@ -54426,10 +54402,6 @@
     "endDate": "2026-03-22T21:30:00Z",
     "closed": false
   },
-  "chi1-cu1-cdp-2026-03-15-spread-home-1pt5": {
-    "endDate": "2026-03-15T15:00:00Z",
-    "closed": false
-  },
   "col1-isf-inm-2026-03-23-spread-away-1pt5": {
     "endDate": "2026-03-23T21:10:00Z",
     "closed": false
@@ -54440,10 +54412,6 @@
   },
   "col1-isf-inm-2026-03-23-spread-home-2pt5": {
     "endDate": "2026-03-23T21:10:00Z",
-    "closed": false
-  },
-  "chi1-cu1-cdp-2026-03-15-spread-home-2pt5": {
-    "endDate": "2026-03-15T15:00:00Z",
     "closed": false
   },
   "col1-isf-inm-2026-03-23-spread-away-2pt5": {
@@ -56074,10 +56042,6 @@
     "endDate": "2026-03-15T19:00:00Z",
     "closed": false
   },
-  "bra-flu-cap-2026-03-15-total-1pt5": {
-    "endDate": "2026-03-15T19:00:00Z",
-    "closed": false
-  },
   "bra-flu-cap-2026-03-15-total-2pt5": {
     "endDate": "2026-03-15T19:00:00Z",
     "closed": false
@@ -56087,10 +56051,6 @@
     "closed": false
   },
   "bra-flu-cap-2026-03-15-total-4pt5": {
-    "endDate": "2026-03-15T19:00:00Z",
-    "closed": false
-  },
-  "bra-flu-cap-2026-03-15-btts": {
     "endDate": "2026-03-15T19:00:00Z",
     "closed": false
   },
@@ -65447,18 +65407,6 @@
     "endDate": "2026-03-15T19:45:00Z",
     "closed": false
   },
-  "es2-eib-bur-2026-03-15-eib": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-draw": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-bur": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
   "lal-bet-cel-2026-03-15-bet": {
     "endDate": "2026-03-15T17:30:00Z",
     "closed": false
@@ -66952,42 +66900,6 @@
     "closed": false
   },
   "es2-mal-hue-2026-03-15-total-4pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-spread-home-1pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-spread-away-1pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-spread-home-2pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-spread-away-2pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-total-1pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-total-2pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-total-3pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-total-4pt5": {
-    "endDate": "2026-03-15T17:30:00Z",
-    "closed": false
-  },
-  "es2-eib-bur-2026-03-15-btts": {
     "endDate": "2026-03-15T17:30:00Z",
     "closed": false
   },
@@ -83457,10 +83369,6 @@
     "endDate": "2026-03-21T12:00:00Z",
     "closed": false
   },
-  "nba-min-okc-2026-03-15": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "nba-dal-cle-2026-03-15": {
     "endDate": "2026-03-15T19:30:00Z",
     "closed": false
@@ -85141,11 +85049,11 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-game1": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "2026-the-players-championship-top5-ludvig-aberg": {
@@ -85153,7 +85061,7 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-game2": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "2026-the-players-championship-top5-zach-bauchou": {
@@ -85161,7 +85069,7 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-game3": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "2026-the-players-championship-top5-daniel-berger": {
@@ -85169,11 +85077,11 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-game4": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-total-games-3pt5": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "2026-the-players-championship-top5-akshay-bhatia": {
@@ -85181,7 +85089,7 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-total-games-4pt5": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "2026-the-players-championship-top5-keegan-bradley": {
@@ -85193,7 +85101,7 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-game-handicap-home-1pt5": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "2026-the-players-championship-top5-jacob-bridgeman": {
@@ -85201,7 +85109,7 @@
     "closed": false
   },
   "codmw-riyf-lat1-2026-03-15-game-handicap-home-2pt5": {
-    "endDate": "2026-03-16T04:30:00Z",
+    "endDate": "2026-03-16T04:00:00Z",
     "closed": false
   },
   "cs2-fa-crash-2026-03-09-game1-odd-even-total-kills": {
@@ -89753,10 +89661,6 @@
   },
   "will-open-dip-to-2-75-in-april": {
     "endDate": "2026-05-01T03:59:59.999Z",
-    "closed": false
-  },
-  "will-tsla-close-between-400-and-405-week-march-20-2026": {
-    "endDate": "2026-03-20T20:00:00Z",
     "closed": false
   },
   "meta-above-680-on-march-20-2026": {
@@ -95753,10 +95657,6 @@
     "endDate": "2026-03-22T14:30:00Z",
     "closed": false
   },
-  "sea-bol-laz-2026-03-22-spread-away-2pt5": {
-    "endDate": "2026-03-22T14:00:00Z",
-    "closed": false
-  },
   "fl1-ren-met-2026-03-22-btts": {
     "endDate": "2026-03-22T16:15:00Z",
     "closed": false
@@ -98774,10 +98674,6 @@
     "closed": false
   },
   "mlb-det-nyy-2026-03-15": {
-    "endDate": "2026-03-22T17:05:00Z",
-    "closed": false
-  },
-  "mlb-atl-phi-2026-03-15": {
     "endDate": "2026-03-22T17:05:00Z",
     "closed": false
   },
@@ -103756,10 +103652,6 @@
     "endDate": "2026-03-22T00:00:00Z",
     "closed": false
   },
-  "will-trump-say-khamenei-this-week-march-22": {
-    "endDate": "2026-03-22T00:00:00Z",
-    "closed": false
-  },
   "will-trump-say-no-no-no-this-week-march-22": {
     "endDate": "2026-03-22T00:00:00Z",
     "closed": false
@@ -107756,10 +107648,6 @@
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
   },
-  "highest-temperature-in-nyc-on-march-17-2026-34-35f": {
-    "endDate": "2026-03-17T12:00:00Z",
-    "closed": false
-  },
   "highest-temperature-in-nyc-on-march-17-2026-36-37f": {
     "endDate": "2026-03-17T12:00:00Z",
     "closed": false
@@ -109657,6 +109545,10 @@
     "closed": false
   },
   "will-uc-irvine-advance-to-the-national-championship": {
+    "endDate": "2026-04-06T00:00:00Z",
+    "closed": false
+  },
+  "will-furman-advance-to-the-national-championship": {
     "endDate": "2026-04-06T00:00:00Z",
     "closed": false
   },
@@ -113752,10 +113644,6 @@
     "endDate": "2026-04-11T14:00:00Z",
     "closed": false
   },
-  "isp-ben-ker-2026-04-11-total-2pt5": {
-    "endDate": "2026-04-11T14:00:00Z",
-    "closed": false
-  },
   "isp-ben-ker-2026-04-11-total-3pt5": {
     "endDate": "2026-04-11T14:00:00Z",
     "closed": false
@@ -114116,34 +114004,6 @@
     "endDate": "2026-07-01T04:00:00Z",
     "closed": false
   },
-  "bnb-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "doge-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "sol-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "btc-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "hype-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "eth-updown-15m-1773610200": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
   "j2-100-gif-fuj-2026-04-11-gif": {
     "endDate": "2026-04-11T05:00:00Z",
     "closed": false
@@ -114192,38 +114052,6 @@
     "endDate": "2026-04-11T10:00:00Z",
     "closed": false
   },
-  "doge-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773610800": {
-    "endDate": "2026-03-15T21:45:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
-    "closed": false
-  },
   "sol-updown-15m-1773611100": {
     "endDate": "2026-03-15T22:00:00Z",
     "closed": false
@@ -114240,32 +114068,8 @@
     "endDate": "2026-03-15T22:00:00Z",
     "closed": false
   },
-  "hype-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
-    "closed": false
-  },
   "hype-updown-15m-1773611100": {
     "endDate": "2026-03-15T22:00:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773611100": {
-    "endDate": "2026-03-15T21:50:00Z",
     "closed": false
   },
   "bnb-updown-15m-1773611100": {
@@ -114274,34 +114078,6 @@
   },
   "xrp-updown-15m-1773611100": {
     "endDate": "2026-03-15T22:00:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
-    "closed": false
-  },
-  "xrp-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773611400": {
-    "endDate": "2026-03-15T21:55:00Z",
     "closed": false
   },
   "bitcoin-up-or-down-march-16-2026-6pm-et": {
@@ -115348,10 +115124,6 @@
     "endDate": "2026-03-15T22:10:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "atp-canas-gaubas-2026-03-16-set-totals-2pt5": {
     "endDate": "2026-03-23T10:00:00Z",
     "closed": false
@@ -115654,6 +115426,10 @@
   },
   "lol-ps1-use1-2026-03-15-game2-both-teams-slay-dragon": {
     "endDate": "2026-03-15T22:00:00Z",
+    "closed": false
+  },
+  "atp-izquier-baena-2026-03-16-match-total-23pt5": {
+    "endDate": "2026-03-23T10:00:00Z",
     "closed": false
   },
   "atp-izquier-baena-2026-03-16-first-set-total-10pt5": {
@@ -116413,14 +116189,6 @@
     "closed": false
   },
   "nba-min-okc-2026-03-15-spread-home-9pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-225pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-spread-home-8pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
@@ -119864,18 +119632,6 @@
     "endDate": "2026-04-11T14:00:00Z",
     "closed": false
   },
-  "will-ethereum-reach-2150-on-march-15": {
-    "endDate": "2026-03-16T04:00:00Z",
-    "closed": false
-  },
-  "cs2-fa-pls-2026-03-20-game1-odd-even-total-kills": {
-    "endDate": "2026-03-21T02:00:00Z",
-    "closed": false
-  },
-  "elc-bir-wre-2026-04-11-draw": {
-    "endDate": "2026-04-11T14:00:00Z",
-    "closed": false
-  },
   "cs2-fa-pls-2026-03-20-game1-odd-even-total-rounds": {
     "endDate": "2026-03-21T02:00:00Z",
     "closed": false
@@ -120316,16 +120072,8 @@
     "endDate": "2026-03-15T19:30:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-2pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "cbb-pur-mich-2026-03-15-total-150pt5": {
     "endDate": "2026-03-15T19:30:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-139pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "sol-updown-5m-1773633300": {
@@ -120441,10 +120189,6 @@
     "closed": false
   },
   "nba-min-okc-2026-03-15-assists-anthony-edwards-4pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-224pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
@@ -123650,10 +123394,6 @@
   },
   "eth-updown-5m-1773644100": {
     "endDate": "2026-03-16T07:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-140pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "eth-updown-15m-1773644400": {
@@ -127080,10 +126820,6 @@
     "endDate": "2026-03-19T12:00:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-3pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "xrp-updown-5m-1773654900": {
     "endDate": "2026-03-16T10:00:00Z",
     "closed": false
@@ -127644,6 +127380,18 @@
     "endDate": "2026-04-11T14:00:00Z",
     "closed": false
   },
+  "hok-agsp-jdg-2026-03-18-total-games-4pt5": {
+    "endDate": "2026-03-18T18:00:00Z",
+    "closed": false
+  },
+  "elc-lei-swa-2026-04-11-spread-home-2pt5": {
+    "endDate": "2026-04-11T14:00:00Z",
+    "closed": false
+  },
+  "hok-agsp-jdg-2026-03-18-game-handicap-home-1pt5": {
+    "endDate": "2026-03-18T18:00:00Z",
+    "closed": false
+  },
   "elc-lei-swa-2026-04-11-spread-away-2pt5": {
     "endDate": "2026-04-11T14:00:00Z",
     "closed": false
@@ -127866,26 +127614,6 @@
   },
   "hok-hero-ttg-2026-03-20-game-handicap-home-2pt5": {
     "endDate": "2026-03-20T15:00:00Z",
-    "closed": false
-  },
-  "elc-cha-pne-2026-04-11-spread-away-2pt5": {
-    "endDate": "2026-04-11T14:00:00Z",
-    "closed": false
-  },
-  "elc-cha-pne-2026-04-11-total-1pt5": {
-    "endDate": "2026-04-11T14:00:00Z",
-    "closed": false
-  },
-  "elc-cha-pne-2026-04-11-total-2pt5": {
-    "endDate": "2026-04-11T14:00:00Z",
-    "closed": false
-  },
-  "elc-cha-pne-2026-04-11-total-3pt5": {
-    "endDate": "2026-04-11T14:00:00Z",
-    "closed": false
-  },
-  "elc-cha-pne-2026-04-11-total-4pt5": {
-    "endDate": "2026-04-11T14:00:00Z",
     "closed": false
   },
   "elc-cha-pne-2026-04-11-btts": {
@@ -129816,10 +129544,6 @@
     "endDate": "2026-03-15T19:30:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-total-138pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773665700": {
     "endDate": "2026-03-16T13:00:00Z",
     "closed": false
@@ -130545,14 +130269,6 @@
     "closed": false
   },
   "mlb-wsh-stl-2026-03-15-total-8pt5": {
-    "endDate": "2026-03-15T17:05:00Z",
-    "closed": false
-  },
-  "mlb-atl-phi-2026-03-15-spread-home-1pt5": {
-    "endDate": "2026-03-15T17:05:00Z",
-    "closed": false
-  },
-  "mlb-atl-phi-2026-03-15-total-9pt5": {
     "endDate": "2026-03-15T17:05:00Z",
     "closed": false
   },
@@ -131313,14 +131029,6 @@
     "closed": false
   },
   "mlb-pit-tb-2026-03-15-total-9pt5": {
-    "endDate": "2026-03-15T17:05:00Z",
-    "closed": false
-  },
-  "mlb-mia-hou-2026-03-15-spread-home-1pt5": {
-    "endDate": "2026-03-15T17:05:00Z",
-    "closed": false
-  },
-  "mlb-mia-hou-2026-03-15-total-8pt5": {
     "endDate": "2026-03-15T17:05:00Z",
     "closed": false
   },
@@ -133632,12 +133340,28 @@
     "endDate": "2026-03-16T16:00:00Z",
     "closed": false
   },
-  "cbb-wichst-sfl-2026-03-15-spread-home-5pt5": {
-    "endDate": "2026-03-15T19:15:00Z",
+  "xrp-updown-5m-1773676500": {
+    "endDate": "2026-03-16T16:00:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-total-137pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
+  "sol-updown-5m-1773676500": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773676500": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773676500": {
+    "endDate": "2026-03-16T16:00:00Z",
+    "closed": false
+  },
+  "criclcl-sou-ind-2026-03-22": {
+    "endDate": "2026-03-29T04:30:00Z",
+    "closed": false
+  },
+  "cbb-wichst-sfl-2026-03-15-spread-home-5pt5": {
+    "endDate": "2026-03-15T19:15:00Z",
     "closed": false
   },
   "cbb-wichst-sfl-2026-03-15-total-149pt5": {
@@ -133870,30 +133594,6 @@
   },
   "xrp-updown-5m-1773677100": {
     "endDate": "2026-03-16T16:10:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773677100": {
-    "endDate": "2026-03-16T16:10:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773677400": {
-    "endDate": "2026-03-16T16:15:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773677400": {
-    "endDate": "2026-03-16T16:15:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773677400": {
-    "endDate": "2026-03-16T16:15:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773677400": {
-    "endDate": "2026-03-16T16:15:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773677400": {
-    "endDate": "2026-03-16T16:15:00Z",
     "closed": false
   },
   "xrp-updown-5m-1773677400": {
@@ -135392,10 +135092,6 @@
     "endDate": "2026-03-16T17:05:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-5pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "nba-det-tor-2026-03-15-total-224pt5": {
     "endDate": "2026-03-15T19:30:00Z",
     "closed": false
@@ -135436,10 +135132,6 @@
     "endDate": "2026-03-16T17:10:00Z",
     "closed": false
   },
-  "nba-min-okc-2026-03-15-total-228pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "nba-min-okc-2026-03-15-spread-home-12pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
@@ -135473,14 +135165,6 @@
     "closed": false
   },
   "nba-min-okc-2026-03-15-total-222pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-136pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-spread-home-4pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
@@ -135573,10 +135257,6 @@
     "closed": false
   },
   "nba-min-okc-2026-03-15-spread-home-11pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-spread-home-6pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
@@ -135916,14 +135596,6 @@
     "endDate": "2026-03-26T16:00:00Z",
     "closed": false
   },
-  "cs2-all-rt1-2026-03-26-game3-odd-even-total-rounds": {
-    "endDate": "2026-03-26T16:00:00Z",
-    "closed": false
-  },
-  "cs2-eye-yn-2026-03-26": {
-    "endDate": "2026-03-26T17:00:00Z",
-    "closed": false
-  },
   "cs2-eye-yn-2026-03-26-game1": {
     "endDate": "2026-03-26T15:00:00Z",
     "closed": false
@@ -135996,10 +135668,6 @@
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
-  "cbb-vand-ark-2026-03-15-spread-home-4pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "bnb-updown-15m-1773682200": {
     "endDate": "2026-03-16T17:45:00Z",
     "closed": false
@@ -136056,14 +135724,6 @@
     "endDate": "2026-03-16T17:35:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-7pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-214pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773682500": {
     "endDate": "2026-03-16T17:40:00Z",
     "closed": false
@@ -136080,14 +135740,6 @@
     "endDate": "2026-03-16T17:40:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-8pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-141pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "btc-updown-5m-1773682500": {
     "endDate": "2026-03-16T17:40:00Z",
     "closed": false
@@ -136098,14 +135750,6 @@
   },
   "xrp-updown-5m-1773682500": {
     "endDate": "2026-03-16T17:40:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-213pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-210pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "xrp-updown-5m-1773682800": {
@@ -136134,18 +135778,6 @@
   },
   "doge-updown-5m-1773682800": {
     "endDate": "2026-03-16T17:45:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-spread-home-9pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-209pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-spread-home-12pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "xrp-updown-15m-1773683100": {
@@ -136204,10 +135836,6 @@
     "endDate": "2026-03-16T17:50:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-11pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "sol-updown-5m-1773683400": {
     "endDate": "2026-03-16T17:55:00Z",
     "closed": false
@@ -136238,10 +135866,6 @@
   },
   "bitcoin-up-or-down-march-17-2026-2pm-et": {
     "endDate": "2026-03-17T19:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-211pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "sc2-maru-zoun-2026-03-21": {
@@ -136444,10 +136068,6 @@
     "endDate": "2026-03-16T18:00:00Z",
     "closed": false
   },
-  "nba-min-okc-2026-03-15-spread-home-4pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "mlb-cin-sea-2026-03-15-spread-away-1pt5": {
     "endDate": "2026-03-15T20:10:00Z",
     "closed": false
@@ -136604,14 +136224,6 @@
     "endDate": "2026-03-16T18:10:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-spread-home-13pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-134pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "hype-updown-5m-1773684600": {
     "endDate": "2026-03-16T18:15:00Z",
     "closed": false
@@ -136638,10 +136250,6 @@
   },
   "sol-updown-5m-1773684600": {
     "endDate": "2026-03-16T18:15:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-spread-home-10pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "nhl-stl-wpg-2026-03-15-spread-away-1pt5": {
@@ -136704,10 +136312,6 @@
     "endDate": "2026-03-16T18:30:00Z",
     "closed": false
   },
-  "cbb-vand-ark-2026-03-15-spread-away-4pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "val-ns1-pr1-2026-03-15-map-handicap-away-2pt5": {
     "endDate": "2026-03-16T00:00:00Z",
     "closed": false
@@ -136741,10 +136345,6 @@
     "closed": false
   },
   "nba-min-okc-2026-03-15-spread-home-2pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-spread-home-14pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
@@ -136784,15 +136384,7 @@
     "endDate": "2026-03-16T18:30:00Z",
     "closed": false
   },
-  "cbb-day-vcu-2026-03-15-total-130pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "nba-min-okc-2026-03-15-spread-away-1pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-129pt5": {
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
@@ -136850,10 +136442,6 @@
   },
   "hype-updown-15m-1773685800": {
     "endDate": "2026-03-16T18:45:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-128pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "btc-updown-5m-1773686100": {
@@ -136918,14 +136506,6 @@
   },
   "sol-updown-5m-1773686400": {
     "endDate": "2026-03-16T18:45:00Z",
-    "closed": false
-  },
-  "cbb-day-vcu-2026-03-15-total-132pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
-  "nba-min-okc-2026-03-15-total-212pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
   "dota2-ty-liquid-2026-03-15-game4-kill-over-53pt5": {
@@ -137556,10 +137136,6 @@
     "endDate": "2026-03-15T17:00:00Z",
     "closed": false
   },
-  "nba-min-okc-2026-03-15-spread-home-13pt5": {
-    "endDate": "2026-03-15T17:00:00Z",
-    "closed": false
-  },
   "nba-dal-cle-2026-03-15-total-234pt5": {
     "endDate": "2026-03-15T19:30:00Z",
     "closed": false
@@ -137597,6 +137173,26 @@
     "closed": false
   },
   "xrp-updown-5m-1773687900": {
+    "endDate": "2026-03-16T19:10:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773687900": {
+    "endDate": "2026-03-16T19:10:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773687900": {
+    "endDate": "2026-03-16T19:10:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773687900": {
+    "endDate": "2026-03-16T19:10:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773687900": {
+    "endDate": "2026-03-16T19:10:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773687900": {
     "endDate": "2026-03-16T19:10:00Z",
     "closed": false
   },
@@ -137997,30 +137593,6 @@
     "closed": false
   },
   "xrp-updown-5m-1773690000": {
-    "endDate": "2026-03-16T19:45:00Z",
-    "closed": false
-  },
-  "hype-updown-5m-1773690000": {
-    "endDate": "2026-03-16T19:45:00Z",
-    "closed": false
-  },
-  "bnb-updown-5m-1773690000": {
-    "endDate": "2026-03-16T19:45:00Z",
-    "closed": false
-  },
-  "btc-updown-5m-1773690000": {
-    "endDate": "2026-03-16T19:45:00Z",
-    "closed": false
-  },
-  "sol-updown-5m-1773690000": {
-    "endDate": "2026-03-16T19:45:00Z",
-    "closed": false
-  },
-  "doge-updown-5m-1773690000": {
-    "endDate": "2026-03-16T19:45:00Z",
-    "closed": false
-  },
-  "eth-updown-5m-1773690000": {
     "endDate": "2026-03-16T19:45:00Z",
     "closed": false
   },
@@ -139600,6 +139172,26 @@
     "endDate": "2026-03-16T21:45:00Z",
     "closed": false
   },
+  "doge-updown-15m-1773696600": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773696600": {
+    "endDate": "2026-03-16T21:35:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773696600": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773696600": {
+    "endDate": "2026-03-16T21:35:00Z",
+    "closed": false
+  },
+  "nba-ind-mil-2026-03-15-spread-home-15pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
   "nba-ind-mil-2026-03-15-total-257pt5": {
     "endDate": "2026-03-15T19:30:00Z",
     "closed": false
@@ -139642,6 +139234,334 @@
   },
   "doge-updown-5m-1773696900": {
     "endDate": "2026-03-16T21:40:00Z",
+    "closed": false
+  },
+  "nba-ind-mil-2026-03-15-spread-home-12pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
+  "nba-ind-mil-2026-03-15-total-261pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
+  "j2-100-nag-jub-2026-04-12-nag": {
+    "endDate": "2026-04-12T04:00:00Z",
+    "closed": false
+  },
+  "j2-100-nag-jub-2026-04-12-draw": {
+    "endDate": "2026-04-12T04:00:00Z",
+    "closed": false
+  },
+  "j2-100-nag-jub-2026-04-12-jub": {
+    "endDate": "2026-04-12T04:00:00Z",
+    "closed": false
+  },
+  "j2-100-zwe-imb-2026-04-12-zwe": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-zwe-imb-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-zwe-imb-2026-04-12-imb": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-fuk-iwa-2026-04-12-fuk": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-fuk-iwa-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-fuk-iwa-2026-04-12-iwa": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-mat-omi-2026-04-12-mat": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-mat-omi-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-mat-omi-2026-04-12-omi": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-koc-alb-2026-04-12-koc": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-koc-alb-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-koc-alb-2026-04-12-alb": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-gir-st-2026-04-12-gir": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-gir-st-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-gir-st-2026-04-12-st": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-bla-sho-2026-04-12-bla": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-bla-sho-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-bla-sho-2026-04-12-sho": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-mon-yok-2026-04-12-mon": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-mon-yok-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-mon-yok-2026-04-12-yok": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-kam-tok-2026-04-12-kam": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-kam-tok-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-kam-tok-2026-04-12-tok": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-sag-veg-2026-04-12-sag": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-sag-veg-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-sag-veg-2026-04-12-veg": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-tsc-the-2026-04-12-tsc": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-tsc-the-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-tsc-the-2026-04-12-the": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-tct-van-2026-04-12-tct": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-tct-van-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-tct-van-2026-04-12-van": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-ehi-nar-2026-04-12-ehi": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-ehi-nar-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-ehi-nar-2026-04-12-nar": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-roa-teg-2026-04-12-roa": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-roa-teg-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-roa-teg-2026-04-12-teg": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-rei-ryu-2026-04-12-rei": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-rei-ryu-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-rei-ryu-2026-04-12-ryu": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-kag-gai-2026-04-12-kag": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-kag-gai-2026-04-12-draw": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "j2-100-kag-gai-2026-04-12-gai": {
+    "endDate": "2026-04-12T05:00:00Z",
+    "closed": false
+  },
+  "nba-dal-cle-2026-03-15-total-247pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773697200": {
+    "endDate": "2026-03-16T21:45:00Z",
+    "closed": false
+  },
+  "nba-dal-cle-2026-03-15-total-254pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
+  "doge-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "bnb-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "sol-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "eth-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "hype-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "btc-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "xrp-updown-15m-1773697500": {
+    "endDate": "2026-03-16T22:00:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773697500": {
+    "endDate": "2026-03-16T21:50:00Z",
+    "closed": false
+  },
+  "nba-det-tor-2026-03-15-spread-home-6pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
+  "nba-det-tor-2026-03-15-spread-home-5pt5": {
+    "endDate": "2026-03-15T19:30:00Z",
+    "closed": false
+  },
+  "xrp-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
+    "closed": false
+  },
+  "bnb-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
+    "closed": false
+  },
+  "doge-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
+    "closed": false
+  },
+  "btc-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
+    "closed": false
+  },
+  "hype-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
+    "closed": false
+  },
+  "eth-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
+    "closed": false
+  },
+  "sol-updown-5m-1773697800": {
+    "endDate": "2026-03-16T21:55:00Z",
     "closed": false
   }
 }
