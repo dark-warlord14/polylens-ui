@@ -150,6 +150,7 @@ body {
     color: var(--text-primary);
     line-height: 1.5;
     height: 100vh;
+    height: 100dvh;
     overflow: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -165,6 +166,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    height: 100dvh;
 }
 
 .main-content {
@@ -945,9 +947,10 @@ body {
     background: rgba(0, 0, 0, 0.55);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: grid;
+    place-items: center;
+    overflow-y: auto;
+    padding: 32px 0;
     z-index: 1000;
     opacity: 0;
     pointer-events: none;
@@ -966,6 +969,7 @@ body {
     padding: 48px 40px;
     max-width: 440px;
     width: 90%;
+    margin: auto;
     box-shadow: var(--shadow-xl), 0 0 0 1px var(--border);
     text-align: center;
     display: flex;
@@ -1103,9 +1107,22 @@ body {
     .stat-value { font-size: 1rem; }
     .nav-sep { margin: 0 10px; }
 
-    .discovery-toolbar { padding: 8px 16px 10px; gap: 12px; }
-    .filter-controls { padding: 3px; gap: 2px; }
-    .control-item { padding: 3px 7px; }
+    .discovery-toolbar { 
+        padding: 8px 16px 12px; 
+        gap: 12px; 
+        flex-direction: column; 
+        align-items: stretch;
+        height: auto;
+    }
+    .category-filters { width: 100%; padding-bottom: 4px; }
+    .filter-controls { 
+        width: 100%;
+        flex-wrap: wrap; 
+        justify-content: center;
+        gap: 6px;
+        padding: 6px;
+    }
+    .control-item { padding: 4px 8px; }
     .control-item label { font-size: 0.62rem; }
 
     .deals-grid { padding: 16px; gap: 12px; }
@@ -1113,7 +1130,11 @@ body {
 }
 
 @media (max-width: 480px) {
-    .stats-row { gap: 6px; }
-    .stat-pill { min-width: 60px; }
+    .header-main-row { height: auto; padding: 12px 0; gap: 10px; }
+    .search-info { width: 100%; justify-content: space-between; }
+    .stats-row { width: 100%; justify-content: space-between; gap: 8px; }
+    .stat-pill { flex: 1; min-width: 0; }
     .stat-label { display: none; }
+    .status-text { display: none; }
+    .nav-sep { display: none; }
 }
