@@ -42,6 +42,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
-            git commit -m "chore: sync latest data [skip ci]"
+            git commit -m "chore: sync latest data"
             git push origin main
           fi
