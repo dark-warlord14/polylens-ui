@@ -63,10 +63,6 @@
     "endDate": "2026-06-30T00:00:00Z",
     "closed": false
   },
-  "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup": {
-    "endDate": "2026-06-30T00:00:00Z",
-    "closed": false
-  },
   "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup": {
     "endDate": "2026-06-30T00:00:00Z",
     "closed": false
@@ -396,6 +392,10 @@
     "closed": false
   },
   "will-barack-obama-win-the-2028-democratic-presidential-nomination-265": {
+    "endDate": "2028-11-07T00:00:00Z",
+    "closed": false
+  },
+  "will-hillary-clinton-win-the-2028-democratic-presidential-nomination": {
     "endDate": "2028-11-07T00:00:00Z",
     "closed": false
   }
