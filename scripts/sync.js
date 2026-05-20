@@ -12,7 +12,10 @@ const MARKET_MAP_PATH = path.join(__dirname, '../src/data/market_map.json');
 const CORE_CATEGORIES = ["Politics", "Elections", "Sports", "Crypto", "Finance", "Economy", "Geopolitics", "Tech", "Culture", "Climate & Science"];
 
 async function fetchAllMarkets() {
-    const pageSize = 500;
+    // Gamma currently caps market list responses at 100 rows even when a larger
+    // limit is requested. Keep the requested page size aligned with the API cap
+    // so a full first page is not mistaken for the end of pagination.
+    const pageSize = 100;
     let offset = 0;
     let all = [];
     let hasMore = true;
@@ -24,7 +27,13 @@ async function fetchAllMarkets() {
         const url = `https://gamma-api.polymarket.com/markets?limit=${pageSize}&offset=${offset}&active=true&closed=false`;
         try {
             const res = await fetch(url);
-            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            if (!res.ok) {
+                if (res.status === 422 && all.length > 0) {
+                    console.log(`Reached Gamma pagination limit at offset ${offset}; stopping.`);
+                    break;
+                }
+                throw new Error(`HTTP ${res.status}`);
+            }
             const data = await res.json();
 
             if (data && Array.isArray(data) && data.length > 0) {

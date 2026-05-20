@@ -1,0 +1,7 @@
+interface:
+  display_name: "Polymarket Politics"
+  short_description: "Scan executable positive-EV global political markets"
+  default_prompt: "Use $polymarket-politics to find positive-EV global political Polymarket opportunities using executable entry prices, spread penalties, and ROI feedback."
+
+policy:
+  allow_implicit_invocation: true
