@@ -1,6 +1,6 @@
 {
-  "timestamp": 1779290163522,
-  "count": 10086,
+  "timestamp": 1779290272417,
+  "count": 10089,
   "deals": [
     {
       "title": "New Rihanna Album before GTA VI?",
@@ -214,7 +214,7 @@
     {
       "title": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
       "outcome": "No",
-      "probability": 89.3,
+      "probability": 89.2,
       "daysLeft": 40.4,
       "volume": 2788137.3590219975,
       "category": "Other",
@@ -293,7 +293,7 @@
       "outcome": "Yes",
       "probability": 37.9,
       "daysLeft": 41.4,
-      "volume": 28669290.92543962,
+      "volume": 28669528.21852562,
       "category": "Sports",
       "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
       "outcomeIdx": 0,
@@ -304,7 +304,7 @@
       "outcome": "No",
       "probability": 62.2,
       "daysLeft": 41.4,
-      "volume": 28669290.92543962,
+      "volume": 28669528.21852562,
       "category": "Sports",
       "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
       "outcomeIdx": 1,
@@ -359,7 +359,7 @@
       "outcome": "Yes",
       "probability": 17.9,
       "daysLeft": 60.4,
-      "volume": 28529690.20756583,
+      "volume": 28531356.874230828,
       "category": "Sports",
       "slug": "will-france-win-the-2026-fifa-world-cup-924",
       "outcomeIdx": 0,
@@ -370,7 +370,7 @@
       "outcome": "No",
       "probability": 82,
       "daysLeft": 60.4,
-      "volume": 28529690.20756583,
+      "volume": 28531356.874230828,
       "category": "Sports",
       "slug": "will-france-win-the-2026-fifa-world-cup-924",
       "outcomeIdx": 1,
@@ -403,7 +403,7 @@
       "outcome": "Yes",
       "probability": 8.5,
       "daysLeft": 60.4,
-      "volume": 19595052.197923157,
+      "volume": 19595053.376958158,
       "category": "Sports",
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcomeIdx": 0,
@@ -414,7 +414,7 @@
       "outcome": "No",
       "probability": 91.5,
       "daysLeft": 60.4,
-      "volume": 19595052.197923157,
+      "volume": 19595053.376958158,
       "category": "Sports",
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcomeIdx": 1,
@@ -535,7 +535,7 @@
       "outcome": "Yes",
       "probability": 1.1,
       "daysLeft": 60.4,
-      "volume": 20485197.93662043,
+      "volume": 20485349.03402043,
       "category": "Sports",
       "slug": "will-mexico-win-the-2026-fifa-world-cup-529",
       "outcomeIdx": 0,
@@ -546,7 +546,7 @@
       "outcome": "No",
       "probability": 99,
       "daysLeft": 60.4,
-      "volume": 20485197.93662043,
+      "volume": 20485349.03402043,
       "category": "Sports",
       "slug": "will-mexico-win-the-2026-fifa-world-cup-529",
       "outcomeIdx": 1,
@@ -2403,7 +2403,7 @@
     {
       "title": "Aaron Taylor-Johnson announced as next James Bond?",
       "outcome": "Yes",
-      "probability": 8.2,
+      "probability": 8.3,
       "daysLeft": 40.4,
       "volume": 152684.26304700001,
       "category": "Other",
@@ -2414,7 +2414,7 @@
     {
       "title": "Aaron Taylor-Johnson announced as next James Bond?",
       "outcome": "No",
-      "probability": 91.8,
+      "probability": 91.7,
       "daysLeft": 40.4,
       "volume": 152684.26304700001,
       "category": "Other",
@@ -2447,7 +2447,7 @@
     {
       "title": "Harris Dickinson announced as next James Bond?",
       "outcome": "Yes",
-      "probability": 4.7,
+      "probability": 4.8,
       "daysLeft": 40.4,
       "volume": 216162.62278899993,
       "category": "Other",
@@ -2491,7 +2491,7 @@
     {
       "title": "Theo James announced as next James Bond?",
       "outcome": "Yes",
-      "probability": 6.3,
+      "probability": 6.2,
       "daysLeft": 40.4,
       "volume": 51484.67982999998,
       "category": "Other",
@@ -3305,7 +3305,7 @@
     {
       "title": "Will Graham Platner be the Democratic nominee for Senate in Maine?",
       "outcome": "Yes",
-      "probability": 98.9,
+      "probability": 98.8,
       "daysLeft": 71.4,
       "volume": 1881221.6088360022,
       "category": "Politics",
@@ -3316,7 +3316,7 @@
     {
       "title": "Will Graham Platner be the Democratic nominee for Senate in Maine?",
       "outcome": "No",
-      "probability": 1.1,
+      "probability": 1.2,
       "daysLeft": 71.4,
       "volume": 1881221.6088360022,
       "category": "Politics",
@@ -3349,7 +3349,7 @@
     {
       "title": "Will Mark Lynch be the Republican nominee for Senate in South Carolina?",
       "outcome": "Yes",
-      "probability": 4.1,
+      "probability": 3.9,
       "daysLeft": 71.4,
       "volume": 15194.250761999996,
       "category": "Politics",
@@ -3360,7 +3360,7 @@
     {
       "title": "Will Mark Lynch be the Republican nominee for Senate in South Carolina?",
       "outcome": "No",
-      "probability": 95.9,
+      "probability": 96.2,
       "daysLeft": 71.4,
       "volume": 15194.250761999996,
       "category": "Politics",
@@ -3426,7 +3426,7 @@
     {
       "title": "Will Amazon acquire TikTok?",
       "outcome": "No",
-      "probability": 98.7,
+      "probability": 98.6,
       "daysLeft": 224.4,
       "volume": 67037.027185,
       "category": "Other",
@@ -3745,7 +3745,7 @@
     {
       "title": "Will Jair Bolsonaro qualify for Brazil's presidential runoff?",
       "outcome": "Yes",
-      "probability": 3.1,
+      "probability": 3,
       "daysLeft": 136.4,
       "volume": 12408.745661000004,
       "category": "Politics",
@@ -3756,7 +3756,7 @@
     {
       "title": "Will Jair Bolsonaro qualify for Brazil's presidential runoff?",
       "outcome": "No",
-      "probability": 96.9,
+      "probability": 97,
       "daysLeft": 136.4,
       "volume": 12408.745661000004,
       "category": "Politics",
@@ -3844,7 +3844,7 @@
     {
       "title": "Will OpenAI’s market cap be between $500B and $750B at market close on IPO day?",
       "outcome": "No",
-      "probability": 96.7,
+      "probability": 96.6,
       "daysLeft": 40.4,
       "volume": 146455.38141600028,
       "category": "Finance",
@@ -3932,7 +3932,7 @@
     {
       "title": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
       "outcome": "No",
-      "probability": 91,
+      "probability": 91.1,
       "daysLeft": 40.4,
       "volume": 101095.6371490003,
       "category": "Finance",
@@ -3965,7 +3965,7 @@
     {
       "title": "Will Fannie Mae’s market cap be less than $200B at market close on IPO day?",
       "outcome": "Yes",
-      "probability": 1.5,
+      "probability": 3,
       "daysLeft": 40.4,
       "volume": 45241.92586100001,
       "category": "Finance",
@@ -3976,7 +3976,7 @@
     {
       "title": "Will Fannie Mae’s market cap be less than $200B at market close on IPO day?",
       "outcome": "No",
-      "probability": 98.5,
+      "probability": 97,
       "daysLeft": 40.4,
       "volume": 45241.92586100001,
       "category": "Finance",
@@ -13975,7 +13975,7 @@
     {
       "title": "Will Park Heong-joon win the 2026 Busan Mayoral Election?",
       "outcome": "Yes",
-      "probability": 23,
+      "probability": 23.5,
       "daysLeft": 13.4,
       "volume": 54922.34584000001,
       "category": "Elections",
@@ -13986,7 +13986,7 @@
     {
       "title": "Will Park Heong-joon win the 2026 Busan Mayoral Election?",
       "outcome": "No",
-      "probability": 77,
+      "probability": 76.5,
       "daysLeft": 13.4,
       "volume": 54922.34584000001,
       "category": "Elections",
@@ -14063,7 +14063,7 @@
     {
       "title": "Will Ashley Hinson be the Republican nominee for Senate in Iowa?",
       "outcome": "Yes",
-      "probability": 98.3,
+      "probability": 98.4,
       "daysLeft": 12.4,
       "volume": 13793.021249999996,
       "category": "Politics",
@@ -14074,7 +14074,7 @@
     {
       "title": "Will Ashley Hinson be the Republican nominee for Senate in Iowa?",
       "outcome": "No",
-      "probability": 1.8,
+      "probability": 1.7,
       "daysLeft": 12.4,
       "volume": 13793.021249999996,
       "category": "Politics",
@@ -14217,7 +14217,7 @@
     {
       "title": "Will Janak Joshi be the Republican nominee for Senate in Colorado?",
       "outcome": "Yes",
-      "probability": 1.8,
+      "probability": 4.2,
       "daysLeft": 40.4,
       "volume": 3024.6483309999994,
       "category": "Politics",
@@ -14228,7 +14228,7 @@
     {
       "title": "Will Janak Joshi be the Republican nominee for Senate in Colorado?",
       "outcome": "No",
-      "probability": 98.2,
+      "probability": 95.8,
       "daysLeft": 40.4,
       "volume": 3024.6483309999994,
       "category": "Politics",
@@ -19035,7 +19035,7 @@
     {
       "title": "Will Alex Bores be the democratic nominee for NY-12?",
       "outcome": "Yes",
-      "probability": 43,
+      "probability": 43.5,
       "daysLeft": 33.4,
       "volume": 8334.054951000002,
       "category": "Politics",
@@ -19046,7 +19046,7 @@
     {
       "title": "Will Alex Bores be the democratic nominee for NY-12?",
       "outcome": "No",
-      "probability": 57,
+      "probability": 56.5,
       "daysLeft": 33.4,
       "volume": 8334.054951000002,
       "category": "Politics",
@@ -19145,7 +19145,7 @@
     {
       "title": "Will Carvana announce bankruptcy before 2027?",
       "outcome": "Yes",
-      "probability": 8.5,
+      "probability": 10.9,
       "daysLeft": 224.4,
       "volume": 4391.384989999999,
       "category": "Other",
@@ -19156,7 +19156,7 @@
     {
       "title": "Will Carvana announce bankruptcy before 2027?",
       "outcome": "No",
-      "probability": 91.5,
+      "probability": 89,
       "daysLeft": 224.4,
       "volume": 4391.384989999999,
       "category": "Other",
@@ -19310,7 +19310,7 @@
     {
       "title": "Will A.C. Toulme be the Republican nominee for Senate in Florida?",
       "outcome": "No",
-      "probability": 98.7,
+      "probability": 98.8,
       "daysLeft": 89.4,
       "volume": 1414.538433,
       "category": "Politics",
@@ -20135,7 +20135,7 @@
     {
       "title": "Will Solana reach $300 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 6,
+      "probability": 5.5,
       "daysLeft": 225.6,
       "volume": 20697.765764000003,
       "category": "Crypto",
@@ -20146,7 +20146,7 @@
     {
       "title": "Will Solana reach $300 by December 31, 2026?",
       "outcome": "No",
-      "probability": 94,
+      "probability": 94.5,
       "daysLeft": 225.6,
       "volume": 20697.765764000003,
       "category": "Crypto",
@@ -20223,7 +20223,7 @@
     {
       "title": "Will Solana reach $220 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 10,
+      "probability": 9.5,
       "daysLeft": 225.6,
       "volume": 16241.231278999996,
       "category": "Crypto",
@@ -20234,7 +20234,7 @@
     {
       "title": "Will Solana reach $220 by December 31, 2026?",
       "outcome": "No",
-      "probability": 90,
+      "probability": 90.5,
       "daysLeft": 225.6,
       "volume": 16241.231278999996,
       "category": "Crypto",
@@ -20399,7 +20399,7 @@
     {
       "title": "Will XRP reach $4.20 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 6.5,
+      "probability": 6.3,
       "daysLeft": 225.6,
       "volume": 12851.599268000004,
       "category": "Other",
@@ -20410,7 +20410,7 @@
     {
       "title": "Will XRP reach $4.20 by December 31, 2026?",
       "outcome": "No",
-      "probability": 93.5,
+      "probability": 93.8,
       "daysLeft": 225.6,
       "volume": 12851.599268000004,
       "category": "Other",
@@ -20509,7 +20509,7 @@
     {
       "title": "Will XRP reach $2.80 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 22.5,
+      "probability": 22,
       "daysLeft": 225.6,
       "volume": 3586.161030000001,
       "category": "Other",
@@ -20520,7 +20520,7 @@
     {
       "title": "Will XRP reach $2.80 by December 31, 2026?",
       "outcome": "No",
-      "probability": 77.5,
+      "probability": 78,
       "daysLeft": 225.6,
       "volume": 3586.161030000001,
       "category": "Other",
@@ -20619,7 +20619,7 @@
     {
       "title": "Will XRP dip to $0.40 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 18,
+      "probability": 17.5,
       "daysLeft": 225.6,
       "volume": 14654.791729000008,
       "category": "Other",
@@ -20630,7 +20630,7 @@
     {
       "title": "Will XRP dip to $0.40 by December 31, 2026?",
       "outcome": "No",
-      "probability": 82,
+      "probability": 82.5,
       "daysLeft": 225.6,
       "volume": 14654.791729000008,
       "category": "Other",
@@ -20707,7 +20707,7 @@
     {
       "title": "Will Dogecoin reach $0.48 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 8.9,
+      "probability": 8.8,
       "daysLeft": 225.6,
       "volume": 2398.6982459999995,
       "category": "Other",
@@ -20718,7 +20718,7 @@
     {
       "title": "Will Dogecoin reach $0.48 by December 31, 2026?",
       "outcome": "No",
-      "probability": 91,
+      "probability": 91.1,
       "daysLeft": 225.6,
       "volume": 2398.6982459999995,
       "category": "Other",
@@ -20751,7 +20751,7 @@
     {
       "title": "Will Dogecoin reach $0.32 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 9.5,
+      "probability": 9,
       "daysLeft": 225.6,
       "volume": 2090.404,
       "category": "Other",
@@ -20762,7 +20762,7 @@
     {
       "title": "Will Dogecoin reach $0.32 by December 31, 2026?",
       "outcome": "No",
-      "probability": 90.5,
+      "probability": 91,
       "daysLeft": 225.6,
       "volume": 2090.404,
       "category": "Other",
@@ -20795,7 +20795,7 @@
     {
       "title": "Will Dogecoin reach $0.24 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 22,
+      "probability": 21.5,
       "daysLeft": 225.6,
       "volume": 1212.1040169999997,
       "category": "Other",
@@ -20806,7 +20806,7 @@
     {
       "title": "Will Dogecoin reach $0.24 by December 31, 2026?",
       "outcome": "No",
-      "probability": 78,
+      "probability": 78.5,
       "daysLeft": 225.6,
       "volume": 1212.1040169999997,
       "category": "Other",
@@ -20817,7 +20817,7 @@
     {
       "title": "Will Dogecoin reach $0.16 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 44.7,
+      "probability": 44.5,
       "daysLeft": 225.6,
       "volume": 13731.408275999998,
       "category": "Other",
@@ -20828,7 +20828,7 @@
     {
       "title": "Will Dogecoin reach $0.16 by December 31, 2026?",
       "outcome": "No",
-      "probability": 55.3,
+      "probability": 55.5,
       "daysLeft": 225.6,
       "volume": 13731.408275999998,
       "category": "Other",
@@ -20839,7 +20839,7 @@
     {
       "title": "Will Dogecoin dip to $0.06 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 40,
+      "probability": 38.5,
       "daysLeft": 225.6,
       "volume": 24168.743449999998,
       "category": "Other",
@@ -20850,7 +20850,7 @@
     {
       "title": "Will Dogecoin dip to $0.06 by December 31, 2026?",
       "outcome": "No",
-      "probability": 60,
+      "probability": 61.5,
       "daysLeft": 225.6,
       "volume": 24168.743449999998,
       "category": "Other",
@@ -20971,7 +20971,7 @@
     {
       "title": "Will Hyperliquid reach $62 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 72.5,
+      "probability": 69.5,
       "daysLeft": 225.6,
       "volume": 10578.044741999998,
       "category": "Other",
@@ -20982,7 +20982,7 @@
     {
       "title": "Will Hyperliquid reach $62 by December 31, 2026?",
       "outcome": "No",
-      "probability": 27.5,
+      "probability": 30.5,
       "daysLeft": 225.6,
       "volume": 10578.044741999998,
       "category": "Other",
@@ -21323,7 +21323,7 @@
     {
       "title": "Will Ethena reach $1.20 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 7.4,
+      "probability": 7.9,
       "daysLeft": 225.6,
       "volume": 9900.322732999997,
       "category": "Other",
@@ -21334,7 +21334,7 @@
     {
       "title": "Will Ethena reach $1.20 by December 31, 2026?",
       "outcome": "No",
-      "probability": 92.5,
+      "probability": 92.1,
       "daysLeft": 225.6,
       "volume": 9900.322732999997,
       "category": "Other",
@@ -21367,7 +21367,7 @@
     {
       "title": "Will Chainlink reach $20 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 39.5,
+      "probability": 37.5,
       "daysLeft": 225.6,
       "volume": 7398.375149999999,
       "category": "Other",
@@ -21378,7 +21378,7 @@
     {
       "title": "Will Chainlink reach $20 by December 31, 2026?",
       "outcome": "No",
-      "probability": 60.5,
+      "probability": 62.5,
       "daysLeft": 225.6,
       "volume": 7398.375149999999,
       "category": "Other",
@@ -21477,7 +21477,7 @@
     {
       "title": "Will Zcash reach $1000 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 25.5,
+      "probability": 28,
       "daysLeft": 225.6,
       "volume": 33032.98008000001,
       "category": "Other",
@@ -21488,7 +21488,7 @@
     {
       "title": "Will Zcash reach $1000 by December 31, 2026?",
       "outcome": "No",
-      "probability": 74.5,
+      "probability": 72,
       "daysLeft": 225.6,
       "volume": 33032.98008000001,
       "category": "Other",
@@ -21565,7 +21565,7 @@
     {
       "title": "Will Zcash dip to $100 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 18.5,
+      "probability": 19,
       "daysLeft": 225.6,
       "volume": 18724.849147999998,
       "category": "Other",
@@ -21576,7 +21576,7 @@
     {
       "title": "Will Zcash dip to $100 by December 31, 2026?",
       "outcome": "No",
-      "probability": 81.5,
+      "probability": 81,
       "daysLeft": 225.6,
       "volume": 18724.849147999998,
       "category": "Other",
@@ -21697,7 +21697,7 @@
     {
       "title": "Will Pump.fun reach $0.0046 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 33,
+      "probability": 33.5,
       "daysLeft": 225.6,
       "volume": 1079.49,
       "category": "Other",
@@ -21708,7 +21708,7 @@
     {
       "title": "Will Pump.fun reach $0.0046 by December 31, 2026?",
       "outcome": "No",
-      "probability": 67,
+      "probability": 66.5,
       "daysLeft": 225.6,
       "volume": 1079.49,
       "category": "Other",
@@ -21719,7 +21719,7 @@
     {
       "title": "Will Pump.fun reach $0.0038 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 38,
+      "probability": 39,
       "daysLeft": 225.6,
       "volume": 3709.6,
       "category": "Other",
@@ -21730,7 +21730,7 @@
     {
       "title": "Will Pump.fun reach $0.0038 by December 31, 2026?",
       "outcome": "No",
-      "probability": 62,
+      "probability": 61,
       "daysLeft": 225.6,
       "volume": 3709.6,
       "category": "Other",
@@ -21741,7 +21741,7 @@
     {
       "title": "Will Pump.fun reach $0.0034 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 48,
+      "probability": 50.5,
       "daysLeft": 225.6,
       "volume": 1012.0387489999999,
       "category": "Other",
@@ -21752,7 +21752,7 @@
     {
       "title": "Will Pump.fun reach $0.0034 by December 31, 2026?",
       "outcome": "No",
-      "probability": 52,
+      "probability": 49.5,
       "daysLeft": 225.6,
       "volume": 1012.0387489999999,
       "category": "Other",
@@ -21807,7 +21807,7 @@
     {
       "title": "Will Aster reach $2.00 by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 9.5,
+      "probability": 9,
       "daysLeft": 225.6,
       "volume": 26166.048891000006,
       "category": "Other",
@@ -21818,7 +21818,7 @@
     {
       "title": "Will Aster reach $2.00 by December 31, 2026?",
       "outcome": "No",
-      "probability": 90.5,
+      "probability": 91,
       "daysLeft": 225.6,
       "volume": 26166.048891000006,
       "category": "Other",
@@ -22126,7 +22126,7 @@
     {
       "title": "Will the Republican Party win the CA-27 House seat?",
       "outcome": "No",
-      "probability": 92.4,
+      "probability": 92.3,
       "daysLeft": 167.4,
       "volume": 1510.3159699999999,
       "category": "Politics",
@@ -22137,7 +22137,7 @@
     {
       "title": "Will Antonio Reynoso be the Democratic nominee for NY-07?",
       "outcome": "Yes",
-      "probability": 30.5,
+      "probability": 31.5,
       "daysLeft": 33.4,
       "volume": 10398.910554999997,
       "category": "Politics",
@@ -22148,7 +22148,7 @@
     {
       "title": "Will Antonio Reynoso be the Democratic nominee for NY-07?",
       "outcome": "No",
-      "probability": 69.5,
+      "probability": 68.5,
       "daysLeft": 33.4,
       "volume": 10398.910554999997,
       "category": "Politics",
@@ -22159,7 +22159,7 @@
     {
       "title": "Will Claire Valdez be the Democratic nominee for NY-07?",
       "outcome": "Yes",
-      "probability": 69.5,
+      "probability": 68,
       "daysLeft": 33.4,
       "volume": 10536.134422000001,
       "category": "Politics",
@@ -22170,7 +22170,7 @@
     {
       "title": "Will Claire Valdez be the Democratic nominee for NY-07?",
       "outcome": "No",
-      "probability": 30.5,
+      "probability": 32,
       "daysLeft": 33.4,
       "volume": 10536.134422000001,
       "category": "Politics",
@@ -22269,7 +22269,7 @@
     {
       "title": "Will Dalourny Nemorin be the Democratic nominee for NY-15?",
       "outcome": "Yes",
-      "probability": 1.7,
+      "probability": 1.6,
       "daysLeft": 33.4,
       "volume": 14415.852851,
       "category": "Politics",
@@ -22357,7 +22357,7 @@
     {
       "title": "Will Effie Phillips-Staley be the Democratic nominee for NY-17?",
       "outcome": "Yes",
-      "probability": 19.5,
+      "probability": 19.4,
       "daysLeft": 33.4,
       "volume": 1449.239584,
       "category": "Politics",
@@ -22368,7 +22368,7 @@
     {
       "title": "Will Effie Phillips-Staley be the Democratic nominee for NY-17?",
       "outcome": "No",
-      "probability": 80.5,
+      "probability": 80.7,
       "daysLeft": 33.4,
       "volume": 1449.239584,
       "category": "Politics",
@@ -22423,7 +22423,7 @@
     {
       "title": "Will Joe Baldacci be the Democratic nominee for ME-02?",
       "outcome": "Yes",
-      "probability": 78,
+      "probability": 78.5,
       "daysLeft": 19.4,
       "volume": 4752.367467999999,
       "category": "Politics",
@@ -22434,7 +22434,7 @@
     {
       "title": "Will Joe Baldacci be the Democratic nominee for ME-02?",
       "outcome": "No",
-      "probability": 22,
+      "probability": 21.5,
       "daysLeft": 19.4,
       "volume": 4752.367467999999,
       "category": "Politics",
@@ -22555,7 +22555,7 @@
     {
       "title": "Will Mariah Lancaster be the Democratic nominee for MA-06?",
       "outcome": "Yes",
-      "probability": 1.8,
+      "probability": 2.2,
       "daysLeft": 117.4,
       "volume": 1896.4096429999997,
       "category": "Politics",
@@ -22566,7 +22566,7 @@
     {
       "title": "Will Mariah Lancaster be the Democratic nominee for MA-06?",
       "outcome": "No",
-      "probability": 98.2,
+      "probability": 97.8,
       "daysLeft": 117.4,
       "volume": 1896.4096429999997,
       "category": "Politics",
@@ -22621,7 +22621,7 @@
     {
       "title": "Will Rachel Creemers be the Democratic nominee for MA-06?",
       "outcome": "Yes",
-      "probability": 4,
+      "probability": 4.3,
       "daysLeft": 117.4,
       "volume": 2181.72,
       "category": "Politics",
@@ -22632,7 +22632,7 @@
     {
       "title": "Will Rachel Creemers be the Democratic nominee for MA-06?",
       "outcome": "No",
-      "probability": 96,
+      "probability": 95.8,
       "daysLeft": 117.4,
       "volume": 2181.72,
       "category": "Politics",
@@ -22709,7 +22709,7 @@
     {
       "title": "Will Manny Rutinel be the Democratic nominee for CO-08?",
       "outcome": "Yes",
-      "probability": 71,
+      "probability": 64.5,
       "daysLeft": 40.4,
       "volume": 13630.116606999998,
       "category": "Politics",
@@ -22720,7 +22720,7 @@
     {
       "title": "Will Manny Rutinel be the Democratic nominee for CO-08?",
       "outcome": "No",
-      "probability": 29,
+      "probability": 35.5,
       "daysLeft": 40.4,
       "volume": 13630.116606999998,
       "category": "Politics",
@@ -23006,7 +23006,7 @@
     {
       "title": "2k+ container ship transits of Suez Canal in H1 2026?",
       "outcome": "No",
-      "probability": 98.1,
+      "probability": 98,
       "daysLeft": 40.4,
       "volume": 138479.53136100003,
       "category": "Other",
@@ -23193,7 +23193,7 @@
     {
       "title": "Ostium FDV above $700M one day after launch?",
       "outcome": "Yes",
-      "probability": 10.7,
+      "probability": 12.3,
       "daysLeft": 225.6,
       "volume": 15043.864388000002,
       "category": "Other",
@@ -23204,7 +23204,7 @@
     {
       "title": "Ostium FDV above $700M one day after launch?",
       "outcome": "No",
-      "probability": 89.3,
+      "probability": 87.8,
       "daysLeft": 225.6,
       "volume": 15043.864388000002,
       "category": "Other",
@@ -42256,7 +42256,7 @@
     {
       "title": "Will there be between 8 and 10 earthquakes of magnitude 7.0 or higher worldwide in 2026?",
       "outcome": "No",
-      "probability": 91.9,
+      "probability": 92,
       "daysLeft": 224.4,
       "volume": 129672.67539399999,
       "category": "Climate & Science",
@@ -42311,7 +42311,7 @@
     {
       "title": "Will there be between 17 and 19 earthquakes of magnitude 7.0 or higher worldwide in 2026?",
       "outcome": "Yes",
-      "probability": 20,
+      "probability": 19.5,
       "daysLeft": 224.4,
       "volume": 206174.107036,
       "category": "Climate & Science",
@@ -42322,7 +42322,7 @@
     {
       "title": "Will there be between 17 and 19 earthquakes of magnitude 7.0 or higher worldwide in 2026?",
       "outcome": "No",
-      "probability": 80,
+      "probability": 80.5,
       "daysLeft": 224.4,
       "volume": 206174.107036,
       "category": "Climate & Science",
@@ -42333,7 +42333,7 @@
     {
       "title": "Will there be 20 or more earthquakes of magnitude 7.0 or higher worldwide in 2026?",
       "outcome": "Yes",
-      "probability": 10.5,
+      "probability": 10.2,
       "daysLeft": 224.4,
       "volume": 62194.50925199994,
       "category": "Climate & Science",
@@ -42344,7 +42344,7 @@
     {
       "title": "Will there be 20 or more earthquakes of magnitude 7.0 or higher worldwide in 2026?",
       "outcome": "No",
-      "probability": 89.5,
+      "probability": 89.8,
       "daysLeft": 224.4,
       "volume": 62194.50925199994,
       "category": "Climate & Science",
@@ -42443,7 +42443,7 @@
     {
       "title": "Will CryptoPunks floor price reach 50 ETH before 2027?",
       "outcome": "Yes",
-      "probability": 23.5,
+      "probability": 24,
       "daysLeft": 225.6,
       "volume": 2187.9802280000004,
       "category": "Crypto",
@@ -42454,7 +42454,7 @@
     {
       "title": "Will CryptoPunks floor price reach 50 ETH before 2027?",
       "outcome": "No",
-      "probability": 76.5,
+      "probability": 76,
       "daysLeft": 225.6,
       "volume": 2187.9802280000004,
       "category": "Crypto",
@@ -42487,7 +42487,7 @@
     {
       "title": "Will CryptoPunks floor price dip to 10 ETH before 2027?",
       "outcome": "Yes",
-      "probability": 12.5,
+      "probability": 11.5,
       "daysLeft": 225.6,
       "volume": 1855.14056,
       "category": "Crypto",
@@ -42498,7 +42498,7 @@
     {
       "title": "Will CryptoPunks floor price dip to 10 ETH before 2027?",
       "outcome": "No",
-      "probability": 87.5,
+      "probability": 88.5,
       "daysLeft": 225.6,
       "volume": 1855.14056,
       "category": "Crypto",
@@ -42531,7 +42531,7 @@
     {
       "title": "Will Somaliland join the Abraham Accords before 2027?",
       "outcome": "Yes",
-      "probability": 26,
+      "probability": 28,
       "daysLeft": 224.4,
       "volume": 62137.48017799998,
       "category": "Other",
@@ -42542,7 +42542,7 @@
     {
       "title": "Will Somaliland join the Abraham Accords before 2027?",
       "outcome": "No",
-      "probability": 74,
+      "probability": 72,
       "daysLeft": 224.4,
       "volume": 62137.48017799998,
       "category": "Other",
@@ -44841,7 +44841,7 @@
     {
       "title": "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026?",
       "outcome": "Yes",
-      "probability": 23.1,
+      "probability": 23.2,
       "daysLeft": 224.4,
       "volume": 9563.970080000001,
       "category": "Sports",
@@ -44852,7 +44852,7 @@
     {
       "title": "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026?",
       "outcome": "No",
-      "probability": 76.9,
+      "probability": 76.8,
       "daysLeft": 224.4,
       "volume": 9563.970080000001,
       "category": "Sports",
@@ -44863,7 +44863,7 @@
     {
       "title": "Will Sean Strickland be the UFC Middleweight Champion on December 31, 2026?",
       "outcome": "Yes",
-      "probability": 52.3,
+      "probability": 53.4,
       "daysLeft": 224.4,
       "volume": 23724.74478400001,
       "category": "Sports",
@@ -44874,7 +44874,7 @@
     {
       "title": "Will Sean Strickland be the UFC Middleweight Champion on December 31, 2026?",
       "outcome": "No",
-      "probability": 47.6,
+      "probability": 46.6,
       "daysLeft": 224.4,
       "volume": 23724.74478400001,
       "category": "Sports",
@@ -45182,7 +45182,7 @@
     {
       "title": "Will Alex Pereira be the next fighter to be ranked first in the UFC Pound-For-Pound Rankings in 2026?",
       "outcome": "No",
-      "probability": 80.8,
+      "probability": 80.9,
       "daysLeft": 224.4,
       "volume": 1787.3385150000004,
       "category": "Other",
@@ -46865,7 +46865,7 @@
     {
       "title": "Will Jacob Tsimerman win the 2026 Fields Medal?",
       "outcome": "Yes",
-      "probability": 76,
+      "probability": 75.5,
       "daysLeft": 70.4,
       "volume": 54117.580705999986,
       "category": "Other",
@@ -46876,7 +46876,7 @@
     {
       "title": "Will Jacob Tsimerman win the 2026 Fields Medal?",
       "outcome": "No",
-      "probability": 24,
+      "probability": 24.5,
       "daysLeft": 70.4,
       "volume": 54117.580705999986,
       "category": "Other",
@@ -46997,7 +46997,7 @@
     {
       "title": "Will Will Sawin win the 2026 Fields Medal?",
       "outcome": "Yes",
-      "probability": 18,
+      "probability": 17,
       "daysLeft": 70.4,
       "volume": 3947.3416720000014,
       "category": "Other",
@@ -47008,7 +47008,7 @@
     {
       "title": "Will Will Sawin win the 2026 Fields Medal?",
       "outcome": "No",
-      "probability": 82,
+      "probability": 83,
       "daysLeft": 70.4,
       "volume": 3947.3416720000014,
       "category": "Other",
@@ -47173,7 +47173,7 @@
     {
       "title": "Will the Eurozone's 2026 Annual Inflation be between 2.2% and 2.4%?",
       "outcome": "Yes",
-      "probability": 11.3,
+      "probability": 11.6,
       "daysLeft": 243.4,
       "volume": 1031.359341,
       "category": "Finance",
@@ -47184,7 +47184,7 @@
     {
       "title": "Will the Eurozone's 2026 Annual Inflation be between 2.2% and 2.4%?",
       "outcome": "No",
-      "probability": 88.7,
+      "probability": 88.4,
       "daysLeft": 243.4,
       "volume": 1031.359341,
       "category": "Finance",
@@ -47206,7 +47206,7 @@
     {
       "title": "Will the Eurozone's 2026 Annual Inflation be between 2.5% and 2.7%?",
       "outcome": "No",
-      "probability": 89.2,
+      "probability": 89.1,
       "daysLeft": 243.4,
       "volume": 1148.9226390000001,
       "category": "Finance",
@@ -47217,7 +47217,7 @@
     {
       "title": "Will the Eurozone's 2026 Annual Inflation be at least 3.1%?",
       "outcome": "Yes",
-      "probability": 62.9,
+      "probability": 63.1,
       "daysLeft": 243.4,
       "volume": 2205.990406000001,
       "category": "Finance",
@@ -47228,7 +47228,7 @@
     {
       "title": "Will the Eurozone's 2026 Annual Inflation be at least 3.1%?",
       "outcome": "No",
-      "probability": 37.1,
+      "probability": 36.9,
       "daysLeft": 243.4,
       "volume": 2205.990406000001,
       "category": "Finance",
@@ -47283,7 +47283,7 @@
     {
       "title": "Will Amal Movement win the most seats in the 2026 Lebanese parliamentary election?",
       "outcome": "Yes",
-      "probability": 5.1,
+      "probability": 6.9,
       "daysLeft": 10.4,
       "volume": 54094.96278099996,
       "category": "Elections",
@@ -47294,7 +47294,7 @@
     {
       "title": "Will Amal Movement win the most seats in the 2026 Lebanese parliamentary election?",
       "outcome": "No",
-      "probability": 94.8,
+      "probability": 93.1,
       "daysLeft": 10.4,
       "volume": 54094.96278099996,
       "category": "Elections",
@@ -47327,7 +47327,7 @@
     {
       "title": "Will Taqaddom Party win the most seats in the 2026 Lebanese parliamentary election?",
       "outcome": "Yes",
-      "probability": 2.1,
+      "probability": 1.9,
       "daysLeft": 10.4,
       "volume": 6699.843319000004,
       "category": "Elections",
@@ -47371,7 +47371,7 @@
     {
       "title": "Will National Dialogue Party win the most seats in the 2026 Lebanese parliamentary election?",
       "outcome": "Yes",
-      "probability": 1.6,
+      "probability": 1.9,
       "daysLeft": 10.4,
       "volume": 42492.59379499998,
       "category": "Elections",
@@ -47382,7 +47382,7 @@
     {
       "title": "Will National Dialogue Party win the most seats in the 2026 Lebanese parliamentary election?",
       "outcome": "No",
-      "probability": 98.4,
+      "probability": 98.1,
       "daysLeft": 10.4,
       "volume": 42492.59379499998,
       "category": "Elections",
@@ -47393,7 +47393,7 @@
     {
       "title": "Will Watani Alliance win the most seats in the 2026 Lebanese parliamentary election?",
       "outcome": "Yes",
-      "probability": 1.5,
+      "probability": 1.6,
       "daysLeft": 10.4,
       "volume": 4924.937172999999,
       "category": "Elections",
@@ -47547,7 +47547,7 @@
     {
       "title": "Will United Russia win between 295 and 309 seats in the next Russian State Duma election?",
       "outcome": "Yes",
-      "probability": 11.4,
+      "probability": 13.4,
       "daysLeft": 122.4,
       "volume": 1664.9697119999996,
       "category": "Elections",
@@ -47558,7 +47558,7 @@
     {
       "title": "Will United Russia win between 295 and 309 seats in the next Russian State Duma election?",
       "outcome": "No",
-      "probability": 88.6,
+      "probability": 86.6,
       "daysLeft": 122.4,
       "volume": 1664.9697119999996,
       "category": "Elections",
@@ -47679,7 +47679,7 @@
     {
       "title": "Will no player win a Calendar Grand Slam in 2026?",
       "outcome": "Yes",
-      "probability": 98,
+      "probability": 98.1,
       "daysLeft": 225.4,
       "volume": 1422068.1738480057,
       "category": "Other",
@@ -47723,7 +47723,7 @@
     {
       "title": "Will S&P 500 (SPX) hit $7,700 (HIGH) in June?",
       "outcome": "Yes",
-      "probability": 26.5,
+      "probability": 26.4,
       "daysLeft": 41.2,
       "volume": 15072.168339999998,
       "category": "Finance",
@@ -48031,7 +48031,7 @@
     {
       "title": "Will S&P 500 (SPX) close at $6,500-$7,000 in December?",
       "outcome": "Yes",
-      "probability": 13.5,
+      "probability": 15,
       "daysLeft": 225.2,
       "volume": 2827.377696000001,
       "category": "Finance",
@@ -48042,7 +48042,7 @@
     {
       "title": "Will S&P 500 (SPX) close at $6,500-$7,000 in December?",
       "outcome": "No",
-      "probability": 86.5,
+      "probability": 85,
       "daysLeft": 225.2,
       "volume": 2827.377696000001,
       "category": "Finance",
@@ -48163,7 +48163,7 @@
     {
       "title": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
       "outcome": "Yes",
-      "probability": 98,
+      "probability": 98.2,
       "daysLeft": 283.4,
       "volume": 14543.31841,
       "category": "Finance",
@@ -48174,7 +48174,7 @@
     {
       "title": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
       "outcome": "No",
-      "probability": 1.9,
+      "probability": 1.8,
       "daysLeft": 283.4,
       "volume": 14543.31841,
       "category": "Finance",
@@ -48207,7 +48207,7 @@
     {
       "title": "Will Venezuelan crude oil production reach 1.3m barrels per day in 2026?",
       "outcome": "Yes",
-      "probability": 40.5,
+      "probability": 37.5,
       "daysLeft": 283.4,
       "volume": 6900.110932999999,
       "category": "Finance",
@@ -48218,7 +48218,7 @@
     {
       "title": "Will Venezuelan crude oil production reach 1.3m barrels per day in 2026?",
       "outcome": "No",
-      "probability": 59.5,
+      "probability": 62.5,
       "daysLeft": 283.4,
       "volume": 6900.110932999999,
       "category": "Finance",
@@ -48229,7 +48229,7 @@
     {
       "title": "Will Venezuelan crude oil production reach 1.4m barrels per day in 2026?",
       "outcome": "Yes",
-      "probability": 15,
+      "probability": 14,
       "daysLeft": 283.4,
       "volume": 16884.912679,
       "category": "Finance",
@@ -48240,7 +48240,7 @@
     {
       "title": "Will Venezuelan crude oil production reach 1.4m barrels per day in 2026?",
       "outcome": "No",
-      "probability": 85,
+      "probability": 86,
       "daysLeft": 283.4,
       "volume": 16884.912679,
       "category": "Finance",
@@ -48317,7 +48317,7 @@
     {
       "title": "EU debt downgrade before 2027?",
       "outcome": "Yes",
-      "probability": 14.5,
+      "probability": 15,
       "daysLeft": 224.4,
       "volume": 1372.0053590000005,
       "category": "Other",
@@ -48328,7 +48328,7 @@
     {
       "title": "EU debt downgrade before 2027?",
       "outcome": "No",
-      "probability": 85.5,
+      "probability": 85,
       "daysLeft": 224.4,
       "volume": 1372.0053590000005,
       "category": "Other",
@@ -48581,7 +48581,7 @@
     {
       "title": "Will Sabrina Carpenter be the Billboard #1 top artist in 2026?",
       "outcome": "Yes",
-      "probability": 26.7,
+      "probability": 26.8,
       "daysLeft": 224.4,
       "volume": 57731.33798700006,
       "category": "Other",
@@ -48603,7 +48603,7 @@
     {
       "title": "Will SZA be the Billboard #1 top artist in 2026?",
       "outcome": "Yes",
-      "probability": 4.2,
+      "probability": 4.1,
       "daysLeft": 224.4,
       "volume": 3005.045899999999,
       "category": "Other",
@@ -48614,7 +48614,7 @@
     {
       "title": "Will SZA be the Billboard #1 top artist in 2026?",
       "outcome": "No",
-      "probability": 95.8,
+      "probability": 95.9,
       "daysLeft": 224.4,
       "volume": 3005.045899999999,
       "category": "Other",
@@ -48691,7 +48691,7 @@
     {
       "title": "Will Billie Eilish have a #1 song on the Billboard Hot 100 in 2026?",
       "outcome": "Yes",
-      "probability": 28.5,
+      "probability": 36.5,
       "daysLeft": 224.4,
       "volume": 39721.91085900001,
       "category": "Other",
@@ -48702,7 +48702,7 @@
     {
       "title": "Will Billie Eilish have a #1 song on the Billboard Hot 100 in 2026?",
       "outcome": "No",
-      "probability": 71.5,
+      "probability": 63.5,
       "daysLeft": 224.4,
       "volume": 39721.91085900001,
       "category": "Other",
@@ -48757,7 +48757,7 @@
     {
       "title": "Will Future have a #1 song on the Billboard Hot 100 in 2026?",
       "outcome": "Yes",
-      "probability": 47,
+      "probability": 46.9,
       "daysLeft": 224.4,
       "volume": 6770.745710000001,
       "category": "Other",
@@ -48768,7 +48768,7 @@
     {
       "title": "Will Future have a #1 song on the Billboard Hot 100 in 2026?",
       "outcome": "No",
-      "probability": 53,
+      "probability": 53.1,
       "daysLeft": 224.4,
       "volume": 6770.745710000001,
       "category": "Other",
@@ -48889,7 +48889,7 @@
     {
       "title": "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?",
       "outcome": "Yes",
-      "probability": 10.3,
+      "probability": 10,
       "daysLeft": 224.4,
       "volume": 8837.497639000001,
       "category": "Other",
@@ -48900,7 +48900,7 @@
     {
       "title": "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?",
       "outcome": "No",
-      "probability": 89.8,
+      "probability": 90,
       "daysLeft": 224.4,
       "volume": 8837.497639000001,
       "category": "Other",
@@ -49307,7 +49307,7 @@
     {
       "title": "Will China's annual inflation in 2026 be between -0.4% and 0.0%?",
       "outcome": "Yes",
-      "probability": 5,
+      "probability": 4.9,
       "daysLeft": 234.4,
       "volume": 3468.4341210000002,
       "category": "Geopolitics",
@@ -49318,7 +49318,7 @@
     {
       "title": "Will China's annual inflation in 2026 be between -0.4% and 0.0%?",
       "outcome": "No",
-      "probability": 95,
+      "probability": 95.1,
       "daysLeft": 234.4,
       "volume": 3468.4341210000002,
       "category": "Geopolitics",
@@ -49329,7 +49329,7 @@
     {
       "title": "Will China's annual inflation in 2026 be between 0.1% and 0.5%?",
       "outcome": "Yes",
-      "probability": 3,
+      "probability": 3.1,
       "daysLeft": 234.4,
       "volume": 2889.9044980000003,
       "category": "Geopolitics",
@@ -49340,7 +49340,7 @@
     {
       "title": "Will China's annual inflation in 2026 be between 0.1% and 0.5%?",
       "outcome": "No",
-      "probability": 97,
+      "probability": 96.9,
       "daysLeft": 234.4,
       "volume": 2889.9044980000003,
       "category": "Geopolitics",
@@ -49417,7 +49417,7 @@
     {
       "title": "Will China's annual inflation in 2026 be at least 2.5%?",
       "outcome": "Yes",
-      "probability": 6.6,
+      "probability": 9.3,
       "daysLeft": 234.4,
       "volume": 2550.344756,
       "category": "Geopolitics",
@@ -49428,7 +49428,7 @@
     {
       "title": "Will China's annual inflation in 2026 be at least 2.5%?",
       "outcome": "No",
-      "probability": 93.4,
+      "probability": 90.7,
       "daysLeft": 234.4,
       "volume": 2550.344756,
       "category": "Geopolitics",
@@ -49461,7 +49461,7 @@
     {
       "title": "Will Argentina’s annual inflation in 2026 be between 20% and 24.9%?",
       "outcome": "Yes",
-      "probability": 12.4,
+      "probability": 13,
       "daysLeft": 234.4,
       "volume": 1428.7935239999997,
       "category": "Finance",
@@ -49472,7 +49472,7 @@
     {
       "title": "Will Argentina’s annual inflation in 2026 be between 20% and 24.9%?",
       "outcome": "No",
-      "probability": 87.5,
+      "probability": 87,
       "daysLeft": 234.4,
       "volume": 1428.7935239999997,
       "category": "Finance",
@@ -49659,7 +49659,7 @@
     {
       "title": "Over $180B wagered on US sports betting in 2026?",
       "outcome": "Yes",
-      "probability": 60.5,
+      "probability": 59,
       "daysLeft": 225.6,
       "volume": 21091.159216000007,
       "category": "Other",
@@ -49670,7 +49670,7 @@
     {
       "title": "Over $180B wagered on US sports betting in 2026?",
       "outcome": "No",
-      "probability": 39.5,
+      "probability": 41,
       "daysLeft": 225.6,
       "volume": 21091.159216000007,
       "category": "Other",
@@ -49703,7 +49703,7 @@
     {
       "title": "Glencore and Rio Tinto sale/merger announced by June 30?",
       "outcome": "Yes",
-      "probability": 1.1,
+      "probability": 1.3,
       "daysLeft": 40.4,
       "volume": 40822.79301700003,
       "category": "Other",
@@ -49714,7 +49714,7 @@
     {
       "title": "Glencore and Rio Tinto sale/merger announced by June 30?",
       "outcome": "No",
-      "probability": 99,
+      "probability": 98.8,
       "daysLeft": 40.4,
       "volume": 40822.79301700003,
       "category": "Other",
@@ -50011,7 +50011,7 @@
     {
       "title": "Will the upper bound of the target federal funds rate be 3.75% at the end of 2026?",
       "outcome": "Yes",
-      "probability": 59.6,
+      "probability": 59.5,
       "daysLeft": 202.4,
       "volume": 518509.06314900046,
       "category": "Other",
@@ -50033,7 +50033,7 @@
     {
       "title": "Will the upper bound of the target federal funds rate be 4.0% at the end of 2026?",
       "outcome": "Yes",
-      "probability": 22.8,
+      "probability": 23.9,
       "daysLeft": 202.4,
       "volume": 1358764.0367139995,
       "category": "Other",
@@ -50044,7 +50044,7 @@
     {
       "title": "Will the upper bound of the target federal funds rate be 4.0% at the end of 2026?",
       "outcome": "No",
-      "probability": 77.3,
+      "probability": 76.1,
       "daysLeft": 202.4,
       "volume": 1358764.0367139995,
       "category": "Other",
@@ -50093,6 +50093,28 @@
       "volume": 2396135.1684840024,
       "category": "Other",
       "slug": "will-the-upper-bound-of-the-target-federal-funds-rate-be-4pt5-at-the-end-of-2026-139",
+      "outcomeIdx": 1,
+      "expiryDate": "2026-12-09T00:00:00Z"
+    },
+    {
+      "title": "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026?",
+      "outcome": "Yes",
+      "probability": 1.1,
+      "daysLeft": 202.4,
+      "volume": 134414.97567699992,
+      "category": "Other",
+      "slug": "will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt25-at-the-end-of-2026-681",
+      "outcomeIdx": 0,
+      "expiryDate": "2026-12-09T00:00:00Z"
+    },
+    {
+      "title": "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026?",
+      "outcome": "No",
+      "probability": 98.9,
+      "daysLeft": 202.4,
+      "volume": 134414.97567699992,
+      "category": "Other",
+      "slug": "will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt25-at-the-end-of-2026-681",
       "outcomeIdx": 1,
       "expiryDate": "2026-12-09T00:00:00Z"
     },
@@ -50165,7 +50187,7 @@
     {
       "title": "Blue tsunami in 2026?",
       "outcome": "Yes",
-      "probability": 45,
+      "probability": 45.5,
       "daysLeft": 193.4,
       "volume": 28717.566204000017,
       "category": "Other",
@@ -50176,7 +50198,7 @@
     {
       "title": "Blue tsunami in 2026?",
       "outcome": "No",
-      "probability": 55,
+      "probability": 54.5,
       "daysLeft": 193.4,
       "volume": 28717.566204000017,
       "category": "Other",
@@ -50233,7 +50255,7 @@
       "outcome": "Yes",
       "probability": 5,
       "daysLeft": 40.4,
-      "volume": 736610.1019050018,
+      "volume": 736744.3019050017,
       "category": "Geopolitics",
       "slug": "nato-x-russia-military-clash-by-june-30-2026",
       "outcomeIdx": 0,
@@ -50244,7 +50266,7 @@
       "outcome": "No",
       "probability": 95,
       "daysLeft": 40.4,
-      "volume": 736610.1019050018,
+      "volume": 736744.3019050017,
       "category": "Geopolitics",
       "slug": "nato-x-russia-military-clash-by-june-30-2026",
       "outcomeIdx": 1,
@@ -50627,7 +50649,7 @@
     {
       "title": "Will Strava’s market cap be between $4B and $5B at market close on IPO day?",
       "outcome": "Yes",
-      "probability": 17,
+      "probability": 31.5,
       "daysLeft": 589.4,
       "volume": 1077.38535,
       "category": "Finance",
@@ -50638,7 +50660,7 @@
     {
       "title": "Will Strava’s market cap be between $4B and $5B at market close on IPO day?",
       "outcome": "No",
-      "probability": 83,
+      "probability": 70,
       "daysLeft": 589.4,
       "volume": 1077.38535,
       "category": "Finance",
@@ -50649,7 +50671,7 @@
     {
       "title": "Will Strava’s market cap be between $10B and $15B at market close on IPO day?",
       "outcome": "Yes",
-      "probability": 4.9,
+      "probability": 6.3,
       "daysLeft": 589.4,
       "volume": 1538.804808,
       "category": "Finance",
@@ -50660,7 +50682,7 @@
     {
       "title": "Will Strava’s market cap be between $10B and $15B at market close on IPO day?",
       "outcome": "No",
-      "probability": 95.2,
+      "probability": 93.7,
       "daysLeft": 589.4,
       "volume": 1538.804808,
       "category": "Finance",
@@ -50935,7 +50957,7 @@
     {
       "title": "Will Eurozone annual GDP growth in 2026 be between 6.0% and 7.0%?",
       "outcome": "Yes",
-      "probability": 27.2,
+      "probability": 28.5,
       "daysLeft": 255.4,
       "volume": 1328.4823740000002,
       "category": "Economy",
@@ -50946,7 +50968,7 @@
     {
       "title": "Will Eurozone annual GDP growth in 2026 be between 6.0% and 7.0%?",
       "outcome": "No",
-      "probability": 72.9,
+      "probability": 71.5,
       "daysLeft": 255.4,
       "volume": 1328.4823740000002,
       "category": "Economy",
@@ -51045,7 +51067,7 @@
     {
       "title": "Will Blagomir Kotsev win the next Bulgarian presidential election?",
       "outcome": "Yes",
-      "probability": 1.4,
+      "probability": 1.5,
       "daysLeft": 193.4,
       "volume": 6668.947292999998,
       "category": "Elections",
@@ -51309,7 +51331,7 @@
     {
       "title": "Will Rue Bennett die in Euphoria: Season 3?",
       "outcome": "Yes",
-      "probability": 47,
+      "probability": 48.5,
       "daysLeft": 10.4,
       "volume": 25091.097600999994,
       "category": "Other",
@@ -51320,7 +51342,7 @@
     {
       "title": "Will Rue Bennett die in Euphoria: Season 3?",
       "outcome": "No",
-      "probability": 53,
+      "probability": 51.5,
       "daysLeft": 10.4,
       "volume": 25091.097600999994,
       "category": "Other",
@@ -51331,7 +51353,7 @@
     {
       "title": "Will Jules Vaughn die in Euphoria: Season 3?",
       "outcome": "Yes",
-      "probability": 13.5,
+      "probability": 11,
       "daysLeft": 10.4,
       "volume": 6615.791315,
       "category": "Other",
@@ -51342,7 +51364,7 @@
     {
       "title": "Will Jules Vaughn die in Euphoria: Season 3?",
       "outcome": "No",
-      "probability": 86.5,
+      "probability": 89,
       "daysLeft": 10.4,
       "volume": 6615.791315,
       "category": "Other",
@@ -51375,7 +51397,7 @@
     {
       "title": "Will Cassie Howard die in Euphoria: Season 3?",
       "outcome": "Yes",
-      "probability": 5.4,
+      "probability": 5.7,
       "daysLeft": 10.4,
       "volume": 6742.138597000004,
       "category": "Geopolitics",
@@ -51386,7 +51408,7 @@
     {
       "title": "Will Cassie Howard die in Euphoria: Season 3?",
       "outcome": "No",
-      "probability": 94.6,
+      "probability": 94.3,
       "daysLeft": 10.4,
       "volume": 6742.138597000004,
       "category": "Geopolitics",
@@ -51419,7 +51441,7 @@
     {
       "title": "Will Nate Jacobs die in Euphoria: Season 3?",
       "outcome": "Yes",
-      "probability": 78,
+      "probability": 79,
       "daysLeft": 10.4,
       "volume": 23884.625182,
       "category": "Other",
@@ -51430,7 +51452,7 @@
     {
       "title": "Will Nate Jacobs die in Euphoria: Season 3?",
       "outcome": "No",
-      "probability": 22,
+      "probability": 21,
       "daysLeft": 10.4,
       "volume": 23884.625182,
       "category": "Other",
@@ -51661,7 +51683,7 @@
     {
       "title": "Will Kevin Warsh be confirmed as Fed Chair and will rates hit 2.5% or lower in 2026?",
       "outcome": "Yes",
-      "probability": 9.3,
+      "probability": 9.4,
       "daysLeft": 224.4,
       "volume": 5699.580459999998,
       "category": "Geopolitics",
@@ -51837,7 +51859,7 @@
     {
       "title": "Justin & Hailey Bieber split in 2026?",
       "outcome": "Yes",
-      "probability": 10,
+      "probability": 9.5,
       "daysLeft": 224.4,
       "volume": 9055.082967999999,
       "category": "Other",
@@ -51848,7 +51870,7 @@
     {
       "title": "Justin & Hailey Bieber split in 2026?",
       "outcome": "No",
-      "probability": 90,
+      "probability": 90.5,
       "daysLeft": 224.4,
       "volume": 9055.082967999999,
       "category": "Other",
@@ -51903,7 +51925,7 @@
     {
       "title": "Will the official USD to ARS exchange rate be 1600.00 or higher at the end of December 2026?",
       "outcome": "Yes",
-      "probability": 44.5,
+      "probability": 44,
       "daysLeft": 224.4,
       "volume": 1623.4898259999998,
       "category": "Other",
@@ -51914,7 +51936,7 @@
     {
       "title": "Will the official USD to ARS exchange rate be 1600.00 or higher at the end of December 2026?",
       "outcome": "No",
-      "probability": 55.5,
+      "probability": 56,
       "daysLeft": 224.4,
       "volume": 1623.4898259999998,
       "category": "Other",
@@ -52002,7 +52024,7 @@
     {
       "title": "Will the Baltimore Orioles win the 2026 World Series?",
       "outcome": "No",
-      "probability": 96.7,
+      "probability": 96.6,
       "daysLeft": 164.4,
       "volume": 1201480.9779029998,
       "category": "Other",
@@ -52321,7 +52343,7 @@
     {
       "title": "Will Canada’s 2026 inflation be between 3.0% and 3.4%?",
       "outcome": "Yes",
-      "probability": 43.3,
+      "probability": 43.4,
       "daysLeft": 242.4,
       "volume": 13464.90886599999,
       "category": "Finance",
@@ -52332,7 +52354,7 @@
     {
       "title": "Will Canada’s 2026 inflation be between 3.0% and 3.4%?",
       "outcome": "No",
-      "probability": 56.8,
+      "probability": 56.6,
       "daysLeft": 242.4,
       "volume": 13464.90886599999,
       "category": "Finance",
@@ -52519,7 +52541,7 @@
     {
       "title": "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?",
       "outcome": "Yes",
-      "probability": 20.8,
+      "probability": 20.9,
       "daysLeft": 236.4,
       "volume": 5726.525893000002,
       "category": "Finance",
@@ -52607,7 +52629,7 @@
     {
       "title": "Will world GDP growth be ≤2.9% in 2026?",
       "outcome": "Yes",
-      "probability": 33.5,
+      "probability": 34.5,
       "daysLeft": 239.4,
       "volume": 3766.0222350000004,
       "category": "Economy",
@@ -52618,7 +52640,7 @@
     {
       "title": "Will world GDP growth be ≤2.9% in 2026?",
       "outcome": "No",
-      "probability": 66.5,
+      "probability": 65.5,
       "daysLeft": 239.4,
       "volume": 3766.0222350000004,
       "category": "Economy",
@@ -52629,7 +52651,7 @@
     {
       "title": "Will world GDP growth be 3.2% in 2026?",
       "outcome": "Yes",
-      "probability": 40.6,
+      "probability": 40.5,
       "daysLeft": 239.4,
       "volume": 1690.775469,
       "category": "Economy",
@@ -52695,7 +52717,7 @@
     {
       "title": "Will world GDP growth be 3.5% in 2026?",
       "outcome": "Yes",
-      "probability": 29.7,
+      "probability": 29.8,
       "daysLeft": 239.4,
       "volume": 3053.057753999998,
       "category": "Economy",
@@ -52783,7 +52805,7 @@
     {
       "title": "Ledger IPO closing market cap above $5B?",
       "outcome": "Yes",
-      "probability": 31.5,
+      "probability": 32,
       "daysLeft": 590.6,
       "volume": 3735.000250999999,
       "category": "Finance",
@@ -52794,7 +52816,7 @@
     {
       "title": "Ledger IPO closing market cap above $5B?",
       "outcome": "No",
-      "probability": 68.5,
+      "probability": 68,
       "daysLeft": 590.6,
       "volume": 3735.000250999999,
       "category": "Finance",
@@ -52816,7 +52838,7 @@
     {
       "title": "Will South African inflation be greater than 5.0% in 2026?",
       "outcome": "No",
-      "probability": 83.5,
+      "probability": 83.4,
       "daysLeft": 244.4,
       "volume": 5948.082235999998,
       "category": "Finance",
@@ -53201,7 +53223,7 @@
     {
       "title": "Will Dreamcash launch a token by September 30, 2026?",
       "outcome": "Yes",
-      "probability": 37,
+      "probability": 36.5,
       "daysLeft": 225.6,
       "volume": 3826.015929999999,
       "category": "Other",
@@ -53212,7 +53234,7 @@
     {
       "title": "Will Dreamcash launch a token by September 30, 2026?",
       "outcome": "No",
-      "probability": 63,
+      "probability": 63.5,
       "daysLeft": 225.6,
       "volume": 3826.015929999999,
       "category": "Other",
@@ -53223,7 +53245,7 @@
     {
       "title": "Will Dreamcash launch a token by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 47.5,
+      "probability": 47,
       "daysLeft": 225.6,
       "volume": 3857.893571,
       "category": "Other",
@@ -53234,7 +53256,7 @@
     {
       "title": "Will Dreamcash launch a token by December 31, 2026?",
       "outcome": "No",
-      "probability": 52.5,
+      "probability": 53,
       "daysLeft": 225.6,
       "volume": 3857.893571,
       "category": "Other",
@@ -53289,7 +53311,7 @@
     {
       "title": "Will OpenSea launch a token by December 31, 2026?",
       "outcome": "Yes",
-      "probability": 58.8,
+      "probability": 58.7,
       "daysLeft": 225.6,
       "volume": 114612.96650800009,
       "category": "Other",
@@ -53388,7 +53410,7 @@
     {
       "title": "Will Gold (GC) hit (HIGH) $5,700 by end of June?",
       "outcome": "No",
-      "probability": 97.9,
+      "probability": 98,
       "daysLeft": 41.1,
       "volume": 103658.14697100008,
       "category": "Other",
@@ -53421,7 +53443,7 @@
     {
       "title": "Will the Ethereum Volatility Index dip to 50 in 2026?",
       "outcome": "Yes",
-      "probability": 65,
+      "probability": 63,
       "daysLeft": 225.6,
       "volume": 4737.998250000001,
       "category": "Crypto",
@@ -53432,7 +53454,7 @@
     {
       "title": "Will the Ethereum Volatility Index dip to 50 in 2026?",
       "outcome": "No",
-      "probability": 35,
+      "probability": 37,
       "daysLeft": 225.6,
       "volume": 4737.998250000001,
       "category": "Crypto",
@@ -53465,7 +53487,7 @@
     {
       "title": "Will the official USD to ARS exchange rate be between 1600.00 and 1699.99 at the end of December 2026?",
       "outcome": "Yes",
-      "probability": 21.5,
+      "probability": 22.5,
       "daysLeft": 224.4,
       "volume": 1465.250937,
       "category": "Other",
@@ -53476,7 +53498,7 @@
     {
       "title": "Will the official USD to ARS exchange rate be between 1600.00 and 1699.99 at the end of December 2026?",
       "outcome": "No",
-      "probability": 78.5,
+      "probability": 77.5,
       "daysLeft": 224.4,
       "volume": 1465.250937,
       "category": "Other",
@@ -53575,7 +53597,7 @@
     {
       "title": "Will Bitcoin kimchi premium hit 8% in 2026?",
       "outcome": "Yes",
-      "probability": 39.5,
+      "probability": 40,
       "daysLeft": 225.6,
       "volume": 1501.6976860000002,
       "category": "Crypto",
@@ -53586,7 +53608,7 @@
     {
       "title": "Will Bitcoin kimchi premium hit 8% in 2026?",
       "outcome": "No",
-      "probability": 60.5,
+      "probability": 60,
       "daysLeft": 225.6,
       "volume": 1501.6976860000002,
       "category": "Crypto",
@@ -53663,7 +53685,7 @@
     {
       "title": "Dreamcash FDV above $100M one day after launch?",
       "outcome": "Yes",
-      "probability": 67.5,
+      "probability": 69.5,
       "daysLeft": 590.6,
       "volume": 2611.461836000001,
       "category": "Other",
@@ -53674,7 +53696,7 @@
     {
       "title": "Dreamcash FDV above $100M one day after launch?",
       "outcome": "No",
-      "probability": 32.5,
+      "probability": 30.5,
       "daysLeft": 590.6,
       "volume": 2611.461836000001,
       "category": "Other",
@@ -53751,7 +53773,7 @@
     {
       "title": "Unit FDV above $800M one day after launch?",
       "outcome": "Yes",
-      "probability": 39,
+      "probability": 38.5,
       "daysLeft": 590.6,
       "volume": 5652.509156,
       "category": "Other",
@@ -53762,7 +53784,7 @@
     {
       "title": "Unit FDV above $800M one day after launch?",
       "outcome": "No",
-      "probability": 61,
+      "probability": 61.5,
       "daysLeft": 590.6,
       "volume": 5652.509156,
       "category": "Other",
@@ -53839,7 +53861,7 @@
     {
       "title": "Unit FDV above $3B one day after launch?",
       "outcome": "Yes",
-      "probability": 30.5,
+      "probability": 33,
       "daysLeft": 590.6,
       "volume": 4741.665372,
       "category": "Other",
@@ -53850,7 +53872,7 @@
     {
       "title": "Unit FDV above $3B one day after launch?",
       "outcome": "No",
-      "probability": 69.5,
+      "probability": 67,
       "daysLeft": 590.6,
       "volume": 4741.665372,
       "category": "Other",
@@ -54741,7 +54763,7 @@
     {
       "title": "Will the Republican Party win the CA-03 House seat?",
       "outcome": "Yes",
-      "probability": 5,
+      "probability": 4.5,
       "daysLeft": 166.4,
       "volume": 12056.371822000006,
       "category": "Politics",
@@ -54752,7 +54774,7 @@
     {
       "title": "Will the Republican Party win the CA-03 House seat?",
       "outcome": "No",
-      "probability": 95,
+      "probability": 95.5,
       "daysLeft": 166.4,
       "volume": 12056.371822000006,
       "category": "Politics",
@@ -55269,7 +55291,7 @@
     {
       "title": "Will the Democratic Party win the CA-18 House seat?",
       "outcome": "Yes",
-      "probability": 94.8,
+      "probability": 94.6,
       "daysLeft": 166.4,
       "volume": 16688.223389999996,
       "category": "Politics",
@@ -55280,7 +55302,7 @@
     {
       "title": "Will the Democratic Party win the CA-18 House seat?",
       "outcome": "No",
-      "probability": 5.3,
+      "probability": 5.4,
       "daysLeft": 166.4,
       "volume": 16688.223389999996,
       "category": "Politics",
@@ -56941,7 +56963,7 @@
     {
       "title": "Will the Republican Party win the FL-03 House seat?",
       "outcome": "Yes",
-      "probability": 88,
+      "probability": 88.5,
       "daysLeft": 166.4,
       "volume": 7095.602747000001,
       "category": "Politics",
@@ -56952,7 +56974,7 @@
     {
       "title": "Will the Republican Party win the FL-03 House seat?",
       "outcome": "No",
-      "probability": 12,
+      "probability": 11.5,
       "daysLeft": 166.4,
       "volume": 7095.602747000001,
       "category": "Politics",
@@ -57205,7 +57227,7 @@
     {
       "title": "Will the Republican Party win the FL-10 House seat?",
       "outcome": "Yes",
-      "probability": 7,
+      "probability": 7.5,
       "daysLeft": 166.4,
       "volume": 6640.76,
       "category": "Politics",
@@ -57216,7 +57238,7 @@
     {
       "title": "Will the Republican Party win the FL-10 House seat?",
       "outcome": "No",
-      "probability": 93,
+      "probability": 92.5,
       "daysLeft": 166.4,
       "volume": 6640.76,
       "category": "Politics",
@@ -57425,7 +57447,7 @@
     {
       "title": "Will the Republican Party win the FL-16 House seat?",
       "outcome": "Yes",
-      "probability": 70,
+      "probability": 69,
       "daysLeft": 166.4,
       "volume": 5752.108273000001,
       "category": "Politics",
@@ -57436,7 +57458,7 @@
     {
       "title": "Will the Republican Party win the FL-16 House seat?",
       "outcome": "No",
-      "probability": 30,
+      "probability": 31,
       "daysLeft": 166.4,
       "volume": 5752.108273000001,
       "category": "Politics",
@@ -57777,7 +57799,7 @@
     {
       "title": "Will the Democratic Party win the FL-25 House seat?",
       "outcome": "Yes",
-      "probability": 64,
+      "probability": 58,
       "daysLeft": 166.4,
       "volume": 4520.692210999998,
       "category": "Politics",
@@ -57788,7 +57810,7 @@
     {
       "title": "Will the Democratic Party win the FL-25 House seat?",
       "outcome": "No",
-      "probability": 36,
+      "probability": 42,
       "daysLeft": 166.4,
       "volume": 4520.692210999998,
       "category": "Politics",
@@ -58877,7 +58899,7 @@
     {
       "title": "Will the Democratic Party win the IL-03 House seat?",
       "outcome": "Yes",
-      "probability": 93.7,
+      "probability": 93.8,
       "daysLeft": 166.4,
       "volume": 14813.539317000002,
       "category": "Politics",
@@ -59979,7 +60001,7 @@
       "outcome": "Yes",
       "probability": 92.5,
       "daysLeft": 166.4,
-      "volume": 19482.401369,
+      "volume": 19482.681368999998,
       "category": "Politics",
       "slug": "will-the-republican-party-win-the-ky-04-house-seat",
       "outcomeIdx": 0,
@@ -59990,7 +60012,7 @@
       "outcome": "No",
       "probability": 7.5,
       "daysLeft": 166.4,
-      "volume": 19482.401369,
+      "volume": 19482.681368999998,
       "category": "Politics",
       "slug": "will-the-republican-party-win-the-ky-04-house-seat",
       "outcomeIdx": 1,
@@ -60153,7 +60175,7 @@
     {
       "title": "Will the Republican Party win the LA-02 House seat?",
       "outcome": "Yes",
-      "probability": 6.7,
+      "probability": 6,
       "daysLeft": 166.4,
       "volume": 19868.000853,
       "category": "Politics",
@@ -60164,7 +60186,7 @@
     {
       "title": "Will the Republican Party win the LA-02 House seat?",
       "outcome": "No",
-      "probability": 93.3,
+      "probability": 94,
       "daysLeft": 166.4,
       "volume": 19868.000853,
       "category": "Politics",
@@ -60307,7 +60329,7 @@
     {
       "title": "Will the Democratic Party win the LA-06 House seat?",
       "outcome": "Yes",
-      "probability": 14,
+      "probability": 14.5,
       "daysLeft": 166.4,
       "volume": 26485.126491,
       "category": "Politics",
@@ -60318,7 +60340,7 @@
     {
       "title": "Will the Democratic Party win the LA-06 House seat?",
       "outcome": "No",
-      "probability": 86,
+      "probability": 85.5,
       "daysLeft": 166.4,
       "volume": 26485.126491,
       "category": "Politics",
@@ -60747,9 +60769,9 @@
     {
       "title": "Will the Democratic Party win the MD-01 House seat?",
       "outcome": "Yes",
-      "probability": 35.5,
+      "probability": 37.5,
       "daysLeft": 166.4,
-      "volume": 3481.5959960000014,
+      "volume": 3481.7059960000015,
       "category": "Politics",
       "slug": "will-the-democratic-party-win-the-md-01-house-seat",
       "outcomeIdx": 0,
@@ -60758,9 +60780,9 @@
     {
       "title": "Will the Democratic Party win the MD-01 House seat?",
       "outcome": "No",
-      "probability": 64.5,
+      "probability": 62.5,
       "daysLeft": 166.4,
-      "volume": 3481.5959960000014,
+      "volume": 3481.7059960000015,
       "category": "Politics",
       "slug": "will-the-democratic-party-win-the-md-01-house-seat",
       "outcomeIdx": 1,
@@ -86443,7 +86465,7 @@
     {
       "title": "Opensea FDV above $100M one day after launch?",
       "outcome": "Yes",
-      "probability": 65.5,
+      "probability": 65.2,
       "daysLeft": 225.6,
       "volume": 74757.84758399994,
       "category": "Other",
@@ -86454,7 +86476,7 @@
     {
       "title": "Opensea FDV above $100M one day after launch?",
       "outcome": "No",
-      "probability": 34.4,
+      "probability": 34.8,
       "daysLeft": 225.6,
       "volume": 74757.84758399994,
       "category": "Other",
@@ -86575,7 +86597,7 @@
     {
       "title": "Ethereal FDV above $500M one day after launch?",
       "outcome": "Yes",
-      "probability": 22.5,
+      "probability": 23,
       "daysLeft": 590.6,
       "volume": 5317.931981999999,
       "category": "Other",
@@ -86586,7 +86608,7 @@
     {
       "title": "Ethereal FDV above $500M one day after launch?",
       "outcome": "No",
-      "probability": 77.5,
+      "probability": 77,
       "daysLeft": 590.6,
       "volume": 5317.931981999999,
       "category": "Other",
@@ -86729,7 +86751,7 @@
     {
       "title": "Alexandre de Moraes out as Brazil Supreme Court Justice?",
       "outcome": "Yes",
-      "probability": 13,
+      "probability": 17,
       "daysLeft": 224.4,
       "volume": 28246.612741000004,
       "category": "Other",
@@ -86740,7 +86762,7 @@
     {
       "title": "Alexandre de Moraes out as Brazil Supreme Court Justice?",
       "outcome": "No",
-      "probability": 87,
+      "probability": 83,
       "daysLeft": 224.4,
       "volume": 28246.612741000004,
       "category": "Other",
@@ -86773,7 +86795,7 @@
     {
       "title": "Will AfD win the second most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
       "outcome": "Yes",
-      "probability": 3.5,
+      "probability": 3.1,
       "daysLeft": 108.4,
       "volume": 1045.47778,
       "category": "Elections",
@@ -86784,7 +86806,7 @@
     {
       "title": "Will AfD win the second most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
       "outcome": "No",
-      "probability": 96.5,
+      "probability": 96.9,
       "daysLeft": 108.4,
       "volume": 1045.47778,
       "category": "Elections",
@@ -86806,7 +86828,7 @@
     {
       "title": "Will FDP win the second most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
       "outcome": "No",
-      "probability": 98.7,
+      "probability": 98.8,
       "daysLeft": 108.4,
       "volume": 1924.1864770000004,
       "category": "Elections",
@@ -86901,6 +86923,50 @@
       "slug": "cuban-regime-falls-in-2026",
       "outcomeIdx": 1,
       "expiryDate": "2026-12-31T00:00:00Z"
+    },
+    {
+      "title": "Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81",
+      "outcome": "Yes",
+      "probability": 49.5,
+      "daysLeft": 225.6,
+      "volume": 201819.48060899985,
+      "category": "Crypto",
+      "slug": "will-microstrategy-announce-holding-1m-btc-by-december-31-2026-bv81",
+      "outcomeIdx": 0,
+      "expiryDate": "2027-01-01T05:00:00Z"
+    },
+    {
+      "title": "Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81",
+      "outcome": "No",
+      "probability": 50.5,
+      "daysLeft": 225.6,
+      "volume": 201819.48060899985,
+      "category": "Crypto",
+      "slug": "will-microstrategy-announce-holding-1m-btc-by-december-31-2026-bv81",
+      "outcomeIdx": 1,
+      "expiryDate": "2027-01-01T05:00:00Z"
+    },
+    {
+      "title": "o1 FDV above $100M one day after launch?",
+      "outcome": "Yes",
+      "probability": 77,
+      "daysLeft": 590.6,
+      "volume": 72963.12620400003,
+      "category": "Other",
+      "slug": "o1-fdv-above-100m-one-day-after-launch-167",
+      "outcomeIdx": 0,
+      "expiryDate": "2028-01-01T05:00:00Z"
+    },
+    {
+      "title": "o1 FDV above $100M one day after launch?",
+      "outcome": "No",
+      "probability": 23,
+      "daysLeft": 590.6,
+      "volume": 72963.12620400003,
+      "category": "Other",
+      "slug": "o1-fdv-above-100m-one-day-after-launch-167",
+      "outcomeIdx": 1,
+      "expiryDate": "2028-01-01T05:00:00Z"
     },
     {
       "title": "o1 FDV above $200M one day after launch?",
@@ -90973,28 +91039,6 @@
       "expiryDate": "2026-12-31T00:00:00Z"
     },
     {
-      "title": "Naim Qassem out as Hezbollah’s secretary-general by June 30, 2026?",
-      "outcome": "Yes",
-      "probability": 11,
-      "daysLeft": 40.4,
-      "volume": 125525.08678999933,
-      "category": "Other",
-      "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-june-30-2026",
-      "outcomeIdx": 0,
-      "expiryDate": "2026-06-30T00:00:00Z"
-    },
-    {
-      "title": "Naim Qassem out as Hezbollah’s secretary-general by June 30, 2026?",
-      "outcome": "No",
-      "probability": 89,
-      "daysLeft": 40.4,
-      "volume": 125525.08678999933,
-      "category": "Other",
-      "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-june-30-2026",
-      "outcomeIdx": 1,
-      "expiryDate": "2026-06-30T00:00:00Z"
-    },
-    {
       "title": "Will Trump meet with Delcy Rodríguez by June 30?",
       "outcome": "Yes",
       "probability": 16,
@@ -91063,7 +91107,7 @@
     {
       "title": "Will Russia test a nuclear weapon by June 30 2026?",
       "outcome": "Yes",
-      "probability": 2.9,
+      "probability": 2.8,
       "daysLeft": 40.4,
       "volume": 12666.044236999998,
       "category": "Geopolitics",
@@ -91195,7 +91239,7 @@
     {
       "title": "Nikita Bier out as Head of Product at X by June 30?",
       "outcome": "Yes",
-      "probability": 6.5,
+      "probability": 6,
       "daysLeft": 40.4,
       "volume": 3507.3714359999994,
       "category": "Other",
@@ -91206,7 +91250,7 @@
     {
       "title": "Nikita Bier out as Head of Product at X by June 30?",
       "outcome": "No",
-      "probability": 93.5,
+      "probability": 94,
       "daysLeft": 40.4,
       "volume": 3507.3714359999994,
       "category": "Other",
@@ -91217,7 +91261,7 @@
     {
       "title": "Will Polymarket mindshare hit 90% by June 30?",
       "outcome": "Yes",
-      "probability": 10.5,
+      "probability": 10,
       "daysLeft": 40.4,
       "volume": 24960.88490399997,
       "category": "Other",
@@ -91228,7 +91272,7 @@
     {
       "title": "Will Polymarket mindshare hit 90% by June 30?",
       "outcome": "No",
-      "probability": 89.5,
+      "probability": 90,
       "daysLeft": 40.4,
       "volume": 24960.88490399997,
       "category": "Other",
@@ -91459,7 +91503,7 @@
     {
       "title": "Fed Rate Hike by July 2026 Meeting?",
       "outcome": "Yes",
-      "probability": 5.4,
+      "probability": 5.3,
       "daysLeft": 202.4,
       "volume": 1185.1688229999997,
       "category": "Finance",
@@ -91470,7 +91514,7 @@
     {
       "title": "Fed Rate Hike by July 2026 Meeting?",
       "outcome": "No",
-      "probability": 94.6,
+      "probability": 94.7,
       "daysLeft": 202.4,
       "volume": 1185.1688229999997,
       "category": "Finance",
@@ -91591,7 +91635,7 @@
     {
       "title": "Strait of Hormuz traffic returns to normal by end of May?",
       "outcome": "Yes",
-      "probability": 6.6,
+      "probability": 6.5,
       "daysLeft": 10.4,
       "volume": 16826241.045642257,
       "category": "Other",
@@ -91602,7 +91646,7 @@
     {
       "title": "Strait of Hormuz traffic returns to normal by end of May?",
       "outcome": "No",
-      "probability": 93.4,
+      "probability": 93.5,
       "daysLeft": 10.4,
       "volume": 16826241.045642257,
       "category": "Other",
@@ -91657,7 +91701,7 @@
     {
       "title": "Will Polymarket mindshare hit 80% by June 30?",
       "outcome": "Yes",
-      "probability": 49.5,
+      "probability": 49,
       "daysLeft": 40.4,
       "volume": 36228.14319600001,
       "category": "Other",
@@ -91668,7 +91712,7 @@
     {
       "title": "Will Polymarket mindshare hit 80% by June 30?",
       "outcome": "No",
-      "probability": 50.5,
+      "probability": 51,
       "daysLeft": 40.4,
       "volume": 36228.14319600001,
       "category": "Other",
@@ -91679,7 +91723,7 @@
     {
       "title": "Will a new country join the Abraham Accords by June 30?",
       "outcome": "Yes",
-      "probability": 11,
+      "probability": 10,
       "daysLeft": 40.9,
       "volume": 24880.08701800007,
       "category": "Other",
@@ -91690,7 +91734,7 @@
     {
       "title": "Will a new country join the Abraham Accords by June 30?",
       "outcome": "No",
-      "probability": 89,
+      "probability": 90,
       "daysLeft": 40.9,
       "volume": 24880.08701800007,
       "category": "Other",
@@ -91701,7 +91745,7 @@
     {
       "title": "Will any country join the Board of Peace by June 30?",
       "outcome": "Yes",
-      "probability": 30,
+      "probability": 39,
       "daysLeft": 40.4,
       "volume": 14028.522822000004,
       "category": "Other",
@@ -91712,7 +91756,7 @@
     {
       "title": "Will any country join the Board of Peace by June 30?",
       "outcome": "No",
-      "probability": 70,
+      "probability": 61,
       "daysLeft": 40.4,
       "volume": 14028.522822000004,
       "category": "Other",
@@ -92075,7 +92119,7 @@
     {
       "title": "Mark Ruffalo as Hulk?",
       "outcome": "Yes",
-      "probability": 52.5,
+      "probability": 52,
       "daysLeft": 211.4,
       "volume": 2246.639962,
       "category": "Other",
@@ -92086,7 +92130,7 @@
     {
       "title": "Mark Ruffalo as Hulk?",
       "outcome": "No",
-      "probability": 47.5,
+      "probability": 48,
       "daysLeft": 211.4,
       "volume": 2246.639962,
       "category": "Other",
@@ -92163,7 +92207,7 @@
     {
       "title": "Jon Favreau as Happy Hogan?",
       "outcome": "Yes",
-      "probability": 37,
+      "probability": 29.5,
       "daysLeft": 211.4,
       "volume": 1846.8417329999995,
       "category": "Other",
@@ -92174,7 +92218,7 @@
     {
       "title": "Jon Favreau as Happy Hogan?",
       "outcome": "No",
-      "probability": 63,
+      "probability": 70.5,
       "daysLeft": 211.4,
       "volume": 1846.8417329999995,
       "category": "Other",
@@ -92251,7 +92295,7 @@
     {
       "title": "Will Railbird self-certify sports event contracts by June 30, 2026?",
       "outcome": "Yes",
-      "probability": 67,
+      "probability": 67.5,
       "daysLeft": 40.4,
       "volume": 11721.990222000002,
       "category": "Other",
@@ -92262,7 +92306,7 @@
     {
       "title": "Will Railbird self-certify sports event contracts by June 30, 2026?",
       "outcome": "No",
-      "probability": 33,
+      "probability": 32.5,
       "daysLeft": 40.4,
       "volume": 11721.990222000002,
       "category": "Other",
@@ -92449,7 +92493,7 @@
     {
       "title": "Will the Central Bank of Colombia announce no change at the June meeting?",
       "outcome": "Yes",
-      "probability": 54,
+      "probability": 54.5,
       "daysLeft": 40.4,
       "volume": 1408.2313609999997,
       "category": "Other",
@@ -92460,7 +92504,7 @@
     {
       "title": "Will the Central Bank of Colombia announce no change at the June meeting?",
       "outcome": "No",
-      "probability": 46,
+      "probability": 45.5,
       "daysLeft": 40.4,
       "volume": 1408.2313609999997,
       "category": "Other",
@@ -92471,7 +92515,7 @@
     {
       "title": "Will the Central Bank of Colombia announce an increase at the June meeting?",
       "outcome": "Yes",
-      "probability": 51.5,
+      "probability": 50.5,
       "daysLeft": 40.4,
       "volume": 1077.536916,
       "category": "Other",
@@ -92482,7 +92526,7 @@
     {
       "title": "Will the Central Bank of Colombia announce an increase at the June meeting?",
       "outcome": "No",
-      "probability": 48.5,
+      "probability": 49.5,
       "daysLeft": 40.4,
       "volume": 1077.536916,
       "category": "Other",
@@ -92713,7 +92757,7 @@
     {
       "title": "Will there be exactly 9 earthquake of magnitude 7.0 or higher worldwide by June 30?",
       "outcome": "Yes",
-      "probability": 20.5,
+      "probability": 21,
       "daysLeft": 40.4,
       "volume": 17587.434843000014,
       "category": "Climate & Science",
@@ -92724,7 +92768,7 @@
     {
       "title": "Will there be exactly 9 earthquake of magnitude 7.0 or higher worldwide by June 30?",
       "outcome": "No",
-      "probability": 79.5,
+      "probability": 79,
       "daysLeft": 40.4,
       "volume": 17587.434843000014,
       "category": "Climate & Science",
@@ -92812,7 +92856,7 @@
     {
       "title": "Will there be 14 or more earthquakes of magnitude 7.0 or higher worldwide by June 30?",
       "outcome": "No",
-      "probability": 97.6,
+      "probability": 97.7,
       "daysLeft": 40.4,
       "volume": 3734.7001080000014,
       "category": "Climate & Science",
@@ -92845,7 +92889,7 @@
     {
       "title": "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?",
       "outcome": "Yes",
-      "probability": 55.5,
+      "probability": 56,
       "daysLeft": 89.4,
       "volume": 2411.3299999999995,
       "category": "Elections",
@@ -92856,7 +92900,7 @@
     {
       "title": "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?",
       "outcome": "No",
-      "probability": 44.5,
+      "probability": 44,
       "daysLeft": 89.4,
       "volume": 2411.3299999999995,
       "category": "Elections",
@@ -92999,7 +93043,7 @@
     {
       "title": "Will Lens win Coupe de France?",
       "outcome": "Yes",
-      "probability": 77.5,
+      "probability": 78,
       "daysLeft": 15.5,
       "volume": 6836.074283999999,
       "category": "Other",
@@ -93010,7 +93054,7 @@
     {
       "title": "Will Lens win Coupe de France?",
       "outcome": "No",
-      "probability": 22.5,
+      "probability": 22,
       "daysLeft": 15.5,
       "volume": 6836.074283999999,
       "category": "Other",
@@ -93021,7 +93065,7 @@
     {
       "title": "Will Nice win Coupe de France?",
       "outcome": "Yes",
-      "probability": 22.5,
+      "probability": 22,
       "daysLeft": 15.5,
       "volume": 3393.1987890000005,
       "category": "Other",
@@ -93032,7 +93076,7 @@
     {
       "title": "Will Nice win Coupe de France?",
       "outcome": "No",
-      "probability": 77.5,
+      "probability": 78,
       "daysLeft": 15.5,
       "volume": 3393.1987890000005,
       "category": "Other",
@@ -93087,7 +93131,7 @@
     {
       "title": "Will any AI model reach 1530 Overall Arena Score by June 30, 2026?",
       "outcome": "Yes",
-      "probability": 11.5,
+      "probability": 12,
       "daysLeft": 40.4,
       "volume": 7510.634658000004,
       "category": "Other",
@@ -93098,7 +93142,7 @@
     {
       "title": "Will any AI model reach 1530 Overall Arena Score by June 30, 2026?",
       "outcome": "No",
-      "probability": 88.5,
+      "probability": 88,
       "daysLeft": 40.4,
       "volume": 7510.634658000004,
       "category": "Other",
@@ -93109,7 +93153,7 @@
     {
       "title": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
       "outcome": "Yes",
-      "probability": 65,
+      "probability": 64.5,
       "daysLeft": 132.4,
       "volume": 12012.762999000004,
       "category": "Other",
@@ -93120,7 +93164,7 @@
     {
       "title": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
       "outcome": "No",
-      "probability": 35,
+      "probability": 35.5,
       "daysLeft": 132.4,
       "volume": 12012.762999000004,
       "category": "Other",
@@ -93147,6 +93191,50 @@
       "volume": 3267.030775999999,
       "category": "Other",
       "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
+      "outcomeIdx": 1,
+      "expiryDate": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "Will any AI model reach 1530 Overall Arena Score by September 30, 2026?",
+      "outcome": "Yes",
+      "probability": 29,
+      "daysLeft": 132.4,
+      "volume": 5525.298106,
+      "category": "Other",
+      "slug": "will-any-ai-model-reach-1530-overall-arena-score-by-september-30-2026",
+      "outcomeIdx": 0,
+      "expiryDate": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "Will any AI model reach 1530 Overall Arena Score by September 30, 2026?",
+      "outcome": "No",
+      "probability": 71,
+      "daysLeft": 132.4,
+      "volume": 5525.298106,
+      "category": "Other",
+      "slug": "will-any-ai-model-reach-1530-overall-arena-score-by-september-30-2026",
+      "outcomeIdx": 1,
+      "expiryDate": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?",
+      "outcome": "Yes",
+      "probability": 23,
+      "daysLeft": 132.4,
+      "volume": 2030.762254,
+      "category": "Other",
+      "slug": "will-any-ai-model-reach-1540-overall-arena-score-by-september-30-2026",
+      "outcomeIdx": 0,
+      "expiryDate": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?",
+      "outcome": "No",
+      "probability": 77,
+      "daysLeft": 132.4,
+      "volume": 2030.762254,
+      "category": "Other",
+      "slug": "will-any-ai-model-reach-1540-overall-arena-score-by-september-30-2026",
       "outcomeIdx": 1,
       "expiryDate": "2026-09-30T00:00:00Z"
     },
@@ -94077,7 +94165,7 @@
     {
       "title": "Will \"Gachiakuta\" win Best Animation at the 2026 Crunchyroll Anime Awards?",
       "outcome": "Yes",
-      "probability": 4,
+      "probability": 4.1,
       "daysLeft": 2.4,
       "volume": 8002.324825,
       "category": "Geopolitics",
@@ -94088,7 +94176,7 @@
     {
       "title": "Will \"Gachiakuta\" win Best Animation at the 2026 Crunchyroll Anime Awards?",
       "outcome": "No",
-      "probability": 96,
+      "probability": 95.9,
       "daysLeft": 2.4,
       "volume": 8002.324825,
       "category": "Geopolitics",
@@ -94099,7 +94187,7 @@
     {
       "title": "Will \"Gachiakuta\" win Best Character Design at the 2026 Crunchyroll Anime Awards?",
       "outcome": "Yes",
-      "probability": 80.5,
+      "probability": 79,
       "daysLeft": 2.4,
       "volume": 1050.094067,
       "category": "Geopolitics",
@@ -94110,7 +94198,7 @@
     {
       "title": "Will \"Gachiakuta\" win Best Character Design at the 2026 Crunchyroll Anime Awards?",
       "outcome": "No",
-      "probability": 19.5,
+      "probability": 21,
       "daysLeft": 2.4,
       "volume": 1050.094067,
       "category": "Geopolitics",
@@ -94143,7 +94231,7 @@
     {
       "title": "Will \"DAN DA DAN Season 2\" win Best Comedy Anime at the 2026 Crunchyroll Anime Awards?",
       "outcome": "Yes",
-      "probability": 65.5,
+      "probability": 60,
       "daysLeft": 2.4,
       "volume": 1470.5675170000002,
       "category": "Geopolitics",
@@ -94154,11 +94242,33 @@
     {
       "title": "Will \"DAN DA DAN Season 2\" win Best Comedy Anime at the 2026 Crunchyroll Anime Awards?",
       "outcome": "No",
-      "probability": 34.5,
+      "probability": 40,
       "daysLeft": 2.4,
       "volume": 1470.5675170000002,
       "category": "Geopolitics",
       "slug": "will-dan-da-dan-season-2-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards",
+      "outcomeIdx": 1,
+      "expiryDate": "2026-05-23T00:00:00Z"
+    },
+    {
+      "title": "Will \"SPY x FAMILY Season 3\" win Best Comedy Anime at the 2026 Crunchyroll Anime Awards?",
+      "outcome": "Yes",
+      "probability": 20,
+      "daysLeft": 2.4,
+      "volume": 2052.3698560000003,
+      "category": "Geopolitics",
+      "slug": "will-spy-x-family-season-3-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards",
+      "outcomeIdx": 0,
+      "expiryDate": "2026-05-23T00:00:00Z"
+    },
+    {
+      "title": "Will \"SPY x FAMILY Season 3\" win Best Comedy Anime at the 2026 Crunchyroll Anime Awards?",
+      "outcome": "No",
+      "probability": 80,
+      "daysLeft": 2.4,
+      "volume": 2052.3698560000003,
+      "category": "Geopolitics",
+      "slug": "will-spy-x-family-season-3-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards",
       "outcomeIdx": 1,
       "expiryDate": "2026-05-23T00:00:00Z"
     },
@@ -94405,28 +94515,6 @@
       "expiryDate": "2026-05-23T00:00:00Z"
     },
     {
-      "title": "Will Bruno Sangregório as Levi Ackerman (Attack on Titan: THE LAST ATTACK) win Best Anime Voice Artist Performance (Brazilian Portuguese) at the 2026 Crunchyroll Anime Awards?",
-      "outcome": "Yes",
-      "probability": 52.5,
-      "daysLeft": 2.4,
-      "volume": 13415.271263,
-      "category": "Geopolitics",
-      "slug": "will-bruno-sangregrio-as-levi-ackerman-attack-on-titan-the-last-attack-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards",
-      "outcomeIdx": 0,
-      "expiryDate": "2026-05-23T00:00:00Z"
-    },
-    {
-      "title": "Will Bruno Sangregório as Levi Ackerman (Attack on Titan: THE LAST ATTACK) win Best Anime Voice Artist Performance (Brazilian Portuguese) at the 2026 Crunchyroll Anime Awards?",
-      "outcome": "No",
-      "probability": 47.5,
-      "daysLeft": 2.4,
-      "volume": 13415.271263,
-      "category": "Geopolitics",
-      "slug": "will-bruno-sangregrio-as-levi-ackerman-attack-on-titan-the-last-attack-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards",
-      "outcomeIdx": 1,
-      "expiryDate": "2026-05-23T00:00:00Z"
-    },
-    {
       "title": "Will Ursula Bezerra as Son Goku (Dragon Ball DAIMA) win Best Anime Voice Artist Performance (Brazilian Portuguese) at the 2026 Crunchyroll Anime Awards?",
       "outcome": "Yes",
       "probability": 8,
@@ -94451,7 +94539,7 @@
     {
       "title": "Will Marta Barbará as Kaoruko Waguri (The Fragrant Flower Blooms With Dignity) win Best Anime Voice Artist Performance (Castilian Spanish) at the 2026 Crunchyroll Anime Awards?",
       "outcome": "Yes",
-      "probability": 23,
+      "probability": 23.5,
       "daysLeft": 2.4,
       "volume": 6290.860967,
       "category": "Geopolitics",
@@ -94462,7 +94550,7 @@
     {
       "title": "Will Marta Barbará as Kaoruko Waguri (The Fragrant Flower Blooms With Dignity) win Best Anime Voice Artist Performance (Castilian Spanish) at the 2026 Crunchyroll Anime Awards?",
       "outcome": "No",
-      "probability": 77,
+      "probability": 76.5,
       "daysLeft": 2.4,
       "volume": 6290.860967,
       "category": "Geopolitics",
@@ -94561,7 +94649,7 @@
     {
       "title": "Will Martina Tamburello as Kikoru Shinomiya (Kaiju No. 8 Season 2) win Best Anime Voice Artist Performance (Italian) at the 2026 Crunchyroll Anime Awards?",
       "outcome": "Yes",
-      "probability": 15,
+      "probability": 11,
       "daysLeft": 2.4,
       "volume": 3100.3035900000004,
       "category": "Geopolitics",
@@ -94572,7 +94660,7 @@
     {
       "title": "Will Martina Tamburello as Kikoru Shinomiya (Kaiju No. 8 Season 2) win Best Anime Voice Artist Performance (Italian) at the 2026 Crunchyroll Anime Awards?",
       "outcome": "No",
-      "probability": 85,
+      "probability": 89,
       "daysLeft": 2.4,
       "volume": 3100.3035900000004,
       "category": "Geopolitics",
@@ -94737,7 +94825,7 @@
     {
       "title": "Will ground beef hit $8 per pound in 2026?",
       "outcome": "Yes",
-      "probability": 51.5,
+      "probability": 55,
       "daysLeft": 224.4,
       "volume": 1518.1963150000004,
       "category": "Other",
@@ -94748,7 +94836,7 @@
     {
       "title": "Will ground beef hit $8 per pound in 2026?",
       "outcome": "No",
-      "probability": 48.5,
+      "probability": 45,
       "daysLeft": 224.4,
       "volume": 1518.1963150000004,
       "category": "Other",
@@ -94847,7 +94935,7 @@
     {
       "title": "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026",
       "outcome": "Yes",
-      "probability": 14,
+      "probability": 14.1,
       "daysLeft": 40.4,
       "volume": 7930.926584000003,
       "category": "Tech",
@@ -94913,7 +95001,7 @@
     {
       "title": "Will Tesla deliver between 425000 and 450000 vehicles in Q2 2026",
       "outcome": "Yes",
-      "probability": 24.5,
+      "probability": 26.5,
       "daysLeft": 40.4,
       "volume": 4705.637782000003,
       "category": "Tech",
@@ -94924,7 +95012,7 @@
     {
       "title": "Will Tesla deliver between 425000 and 450000 vehicles in Q2 2026",
       "outcome": "No",
-      "probability": 75.5,
+      "probability": 73.5,
       "daysLeft": 40.4,
       "volume": 4705.637782000003,
       "category": "Tech",
@@ -94957,7 +95045,7 @@
     {
       "title": "Will Tesla deliver 475000 or more vehicles in Q2 2026",
       "outcome": "Yes",
-      "probability": 11.1,
+      "probability": 11.2,
       "daysLeft": 40.4,
       "volume": 3998.721885000001,
       "category": "Tech",
@@ -94968,7 +95056,7 @@
     {
       "title": "Will Tesla deliver 475000 or more vehicles in Q2 2026",
       "outcome": "No",
-      "probability": 88.9,
+      "probability": 88.8,
       "daysLeft": 40.4,
       "volume": 3998.721885000001,
       "category": "Tech",
@@ -95001,7 +95089,7 @@
     {
       "title": "Will the Philadelphia Phillies clinch a spot in the 2026 MLB Postseason?",
       "outcome": "Yes",
-      "probability": 44.5,
+      "probability": 42,
       "daysLeft": 130.4,
       "volume": 1635.8323259999997,
       "category": "Sports",
@@ -95012,7 +95100,7 @@
     {
       "title": "Will the Philadelphia Phillies clinch a spot in the 2026 MLB Postseason?",
       "outcome": "No",
-      "probability": 55.5,
+      "probability": 58,
       "daysLeft": 130.4,
       "volume": 1635.8323259999997,
       "category": "Sports",
@@ -95056,7 +95144,7 @@
     {
       "title": "Variational FDV above $100M one day after launch?",
       "outcome": "No",
-      "probability": 4.2,
+      "probability": 4.1,
       "daysLeft": 590.6,
       "volume": 5278.022520999998,
       "category": "Other",
@@ -95562,7 +95650,7 @@
     {
       "title": "Will Dexter Lawrence play for the Baltimore Ravens in Week 1 of the 2026-27 NFL regular season?",
       "outcome": "No",
-      "probability": 98.2,
+      "probability": 98.3,
       "daysLeft": 117.4,
       "volume": 2029,
       "category": "Sports",
@@ -95771,7 +95859,7 @@
     {
       "title": "Will Qatar win on 2026-06-13?",
       "outcome": "Yes",
-      "probability": 10,
+      "probability": 10.3,
       "daysLeft": 24.2,
       "volume": 16114.66210600001,
       "category": "Other",
@@ -95782,7 +95870,7 @@
     {
       "title": "Will Qatar win on 2026-06-13?",
       "outcome": "No",
-      "probability": 90,
+      "probability": 89.6,
       "daysLeft": 24.2,
       "volume": 16114.66210600001,
       "category": "Other",
@@ -96992,7 +97080,7 @@
     {
       "title": "Will Team Liquid win LCS 2026 Spring?",
       "outcome": "No",
-      "probability": 69.7,
+      "probability": 69.8,
       "daysLeft": 24.4,
       "volume": 1072.385272,
       "category": "Other",
@@ -97223,7 +97311,7 @@
     {
       "title": "Will T1 Esports Academy win LCK CL 2026?",
       "outcome": "Yes",
-      "probability": 31.5,
+      "probability": 31.4,
       "daysLeft": 115.4,
       "volume": 1374.2971199999993,
       "category": "Other",
@@ -97245,7 +97333,7 @@
     {
       "title": "Will paiN Gaming Academy win CD 2026 Split 1?",
       "outcome": "Yes",
-      "probability": 21.4,
+      "probability": 23.3,
       "daysLeft": 17.4,
       "volume": 1033.2729439999998,
       "category": "Other",
@@ -97256,7 +97344,7 @@
     {
       "title": "Will paiN Gaming Academy win CD 2026 Split 1?",
       "outcome": "No",
-      "probability": 78.5,
+      "probability": 76.7,
       "daysLeft": 17.4,
       "volume": 1033.2729439999998,
       "category": "Other",
@@ -97443,7 +97531,7 @@
     {
       "title": "Will Anyone's Legend win LPL 2026 Split 2?",
       "outcome": "Yes",
-      "probability": 12.4,
+      "probability": 12.5,
       "daysLeft": 40.4,
       "volume": 1318.221629,
       "category": "Other",
@@ -97795,7 +97883,7 @@
     {
       "title": "Will Trump attend NATO Summit?",
       "outcome": "Yes",
-      "probability": 63,
+      "probability": 62.5,
       "daysLeft": 48.4,
       "volume": 10384.471065000034,
       "category": "Politics",
@@ -97806,7 +97894,7 @@
     {
       "title": "Will Trump attend NATO Summit?",
       "outcome": "No",
-      "probability": 37,
+      "probability": 37.5,
       "daysLeft": 48.4,
       "volume": 10384.471065000034,
       "category": "Politics",
@@ -97993,7 +98081,7 @@
     {
       "title": "Will the Reserve Bank of New Zealand increase the official cash rate after the July decision?",
       "outcome": "Yes",
-      "probability": 59,
+      "probability": 58,
       "daysLeft": 47.4,
       "volume": 2383.9428239999993,
       "category": "Other",
@@ -98004,7 +98092,7 @@
     {
       "title": "Will the Reserve Bank of New Zealand increase the official cash rate after the July decision?",
       "outcome": "No",
-      "probability": 41,
+      "probability": 42,
       "daysLeft": 47.4,
       "volume": 2383.9428239999993,
       "category": "Other",
@@ -98224,7 +98312,7 @@
     {
       "title": "Will Andrey Rublev win the 2026 Roland Garros Men's Singles?",
       "outcome": "No",
-      "probability": 98.7,
+      "probability": 98.6,
       "daysLeft": 18.4,
       "volume": 3704.17,
       "category": "Other",
@@ -98565,7 +98653,7 @@
     {
       "title": "Pam Bondi testifies before congress by May 31?",
       "outcome": "Yes",
-      "probability": 81,
+      "probability": 84,
       "daysLeft": 10.4,
       "volume": 1565.6202190000004,
       "category": "Politics",
@@ -98576,7 +98664,7 @@
     {
       "title": "Pam Bondi testifies before congress by May 31?",
       "outcome": "No",
-      "probability": 19,
+      "probability": 16,
       "daysLeft": 10.4,
       "volume": 1565.6202190000004,
       "category": "Politics",
@@ -98631,9 +98719,9 @@
     {
       "title": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
       "outcome": "Yes",
-      "probability": 31.4,
+      "probability": 32.6,
       "daysLeft": 40.4,
-      "volume": 872344.5271200004,
+      "volume": 872381.9171200005,
       "category": "Geopolitics",
       "slug": "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-june-30-2026-673",
       "outcomeIdx": 0,
@@ -98642,9 +98730,9 @@
     {
       "title": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
       "outcome": "No",
-      "probability": 68.5,
+      "probability": 67.3,
       "daysLeft": 40.4,
-      "volume": 872344.5271200004,
+      "volume": 872381.9171200005,
       "category": "Geopolitics",
       "slug": "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-june-30-2026-673",
       "outcomeIdx": 1,
@@ -98761,6 +98849,28 @@
       "expiryDate": "2026-06-30T00:00:00Z"
     },
     {
+      "title": "Will the next diplomatic US-Iran meeting be in the United States?",
+      "outcome": "Yes",
+      "probability": 5,
+      "daysLeft": 40.4,
+      "volume": 205695.41717499995,
+      "category": "Geopolitics",
+      "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-the-united-states-744",
+      "outcomeIdx": 0,
+      "expiryDate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "title": "Will the next diplomatic US-Iran meeting be in the United States?",
+      "outcome": "No",
+      "probability": 95,
+      "daysLeft": 40.4,
+      "volume": 205695.41717499995,
+      "category": "Geopolitics",
+      "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-the-united-states-744",
+      "outcomeIdx": 1,
+      "expiryDate": "2026-06-30T00:00:00Z"
+    },
+    {
       "title": "Will the next diplomatic US-Iran meeting be in Pakistan?",
       "outcome": "Yes",
       "probability": 43.3,
@@ -98851,7 +98961,7 @@
     {
       "title": "Cory Mills out as US Rep by May 31?",
       "outcome": "Yes",
-      "probability": 10.6,
+      "probability": 12.1,
       "daysLeft": 10.4,
       "volume": 9037.648131999998,
       "category": "Other",
@@ -98862,7 +98972,7 @@
     {
       "title": "Cory Mills out as US Rep by May 31?",
       "outcome": "No",
-      "probability": 89.4,
+      "probability": 87.9,
       "daysLeft": 10.4,
       "volume": 9037.648131999998,
       "category": "Other",
@@ -99115,7 +99225,7 @@
     {
       "title": "Will Karl-Anthony Towns win the 2026 Eastern Conference Finals MVP?",
       "outcome": "Yes",
-      "probability": 2.8,
+      "probability": 2.9,
       "daysLeft": 16.4,
       "volume": 3587.7227900000003,
       "category": "Other",
