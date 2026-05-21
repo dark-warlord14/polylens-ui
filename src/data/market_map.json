@@ -38619,14 +38619,6 @@
     "endDate": "2026-06-30T00:00:00Z",
     "closed": false
   },
-  "bitcoin-etf-flows-on-april-13": {
-    "endDate": "2026-04-13T22:00:00Z",
-    "closed": false
-  },
-  "ethereum-etf-flows-on-april-13": {
-    "endDate": "2026-04-13T22:00:00Z",
-    "closed": false
-  },
   "will-satoshis-identity-be-revealed-by-june-30": {
     "endDate": "2026-12-31T00:00:00Z",
     "closed": false
@@ -40072,6 +40064,14 @@
     "closed": false
   },
   "will-deni-avdija-win-the-2026-nba-finals-mvp": {
+    "endDate": "2026-06-17T00:00:00Z",
+    "closed": false
+  },
+  "will-cade-cunningham-win-the-2026-nba-finals-mvp": {
+    "endDate": "2026-06-17T00:00:00Z",
+    "closed": false
+  },
+  "will-jalen-duren-win-the-2026-nba-finals-mvp": {
     "endDate": "2026-06-17T00:00:00Z",
     "closed": false
   }
