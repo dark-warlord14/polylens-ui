@@ -1,7 +1,7 @@
 interface:
   display_name: "Polymarket Scan"
-  short_description: "Find executable positive-EV near-expiry Polymarket bets"
-  default_prompt: "Use $polymarket-scan to scan near-expiry positive-EV Polymarket opportunities using executable entry prices, spread penalties, and ROI feedback."
+  short_description: "Find executable Polymarket bets by EV, yield, and time value"
+  default_prompt: "Use $polymarket-scan to scan Polymarket opportunities, including global politics when requested, using executable entry prices, spread penalties, realistic capital horizons, EV yield, EV/day, and ROI feedback."
 
 policy:
   allow_implicit_invocation: true

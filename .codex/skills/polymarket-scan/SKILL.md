@@ -1,17 +1,19 @@
 ---
 name: polymarket-scan
-description: Scan Polymarket data for the best bets expiring within 3 days in the 70-90% probability range. Pulls latest data, fetches user's active positions to avoid duplicates, filters sweet-spot markets, validates with live news from multiple sources, and ranks by ROI vs. risk. Use this skill whenever the user mentions scanning markets, finding best bets, polymarket opportunities, analyzing open markets, or runs /polymarket-scan — even if they phrase it casually like "what should I bet on" or "any good markets today".
+description: Unified Polymarket scanner for near-expiry best bets and global politics/geopolitics markets. Pulls latest data, fetches user's active positions to avoid duplicates, filters sweet-spot markets, validates with live sources, computes executable entry price, capital horizon, profit yield, EV yield, EV/day, and ranks by risk-adjusted time value. Use this skill whenever the user mentions scanning markets, finding best bets, Polymarket opportunities, analyzing open markets, politics/election/geopolitics bets, or runs /polymarket-scan or $polymarket-politics.
 ---
 
-# Polymarket Scan — Best Bets (70–90% Probability Range)
+# Polymarket Scan — Unified Best Bets
 
 ## Purpose
 
-Find the highest ROI, lowest-risk open markets expiring within 3 days where:
-- Probability sits in the **70–90% sweet spot** (ROI: 11–43%)
+Find the highest risk-adjusted, time-adjusted open markets where:
+- Generic mode: probability sits in the **70–90% sweet spot** (ROI: 11–43%), default listed horizon ≤ 3 days
+- Politics mode: probability sits in the **55–80% sweet spot** (ROI: 25–82%), default listed horizon ≤ 14 days, and category is **Politics**, **Elections**, **Geopolitics**, **World**, **International Affairs**, or **Society**
 - Volume is meaningful (≥ $5,000 by default)
 - News/facts from **multiple independent sources** support the market's current pricing — or reveal a misprice
 - Independent fair probability exceeds the live Polymarket price by enough margin to produce positive expected value after uncertainty
+- The finance case is realistic: output must state capital horizon, gross profit yield, EV yield, EV/day, spread/depth, and whether the ranking is driven by edge, speed, or liquidity
 - The user does **not already hold** a position in this market
 
 ## Arguments
@@ -20,8 +22,11 @@ Parse optional flags from the user's request:
 - `--days N` → filter daysLeft ≤ N (default: 3)
 - `--min-vol N` → minimum volume in USD (default: 5000)
 - `--category X` → restrict to one category (default: all)
+- `--mode politics` → use politics categories, 55–80% probability range, 14-day max listed horizon unless `--days` is provided
+- `--prob-min N`, `--prob-max N` → override probability band
 - `--min-edge N` → minimum fair-probability edge in percentage points (default: dynamic by risk/price)
 - `--bankroll N` → optional bankroll in USD for suggested sizing; if omitted, report stake as bankroll percentage only
+- `--max-capital-days N` → optional maximum days until likely resolution/capital release; if omitted, keep longer-resolution candidates but penalize them through EV/day
 
 ---
 
@@ -75,7 +80,13 @@ Report the result (markets fetched, opportunities saved, or error). If sync fail
 
 ### STEP 2 — Extract & Score Markets
 
-Run the bundled script with arguments parsed above. Resolve `SKILL_DIR` to this skill's directory. In this repo, use `SKILL_DIR=".codex/skills/polymarket-scan"`; after global installation, use `SKILL_DIR="${CODEX_HOME:-$HOME/.codex}/skills/polymarket-scan"`:
+Run the bundled script with arguments parsed above. This is the single repo-local Polymarket skill; do not use home-directory/global Polymarket skill paths.
+
+```bash
+SKILL_DIR=".codex/skills/polymarket-scan"
+```
+
+For generic scans:
 
 ```bash
 node "$SKILL_DIR/scripts/extract_markets.js" \
@@ -85,7 +96,26 @@ node "$SKILL_DIR/scripts/extract_markets.js" \
   [--category CATEGORY]
 ```
 
+For politics/geopolitics scans:
+
+```bash
+node "$SKILL_DIR/scripts/extract_markets.js" \
+  --mode politics \
+  --days MAX_DAYS \
+  --min-vol MIN_VOL \
+  --prob-min 55 \
+  --prob-max 80 \
+  --now ANCHORED_NOW_ISO
+```
+
 The script recomputes `daysLeft` from anchored time (not the stale value baked into the cache at sync time) and drops anything with `daysLeft < 0`.
+
+The script also emits preliminary finance fields:
+- `questionDeadline` when the title has an explicit date like `by June 30, 2026`
+- `capitalDaysLeft`, using the explicit title deadline when it conflicts with Gamma `endDate`
+- `grossProfitPerDay`, a preliminary gross yield/day for candidate ordering
+
+These fields are only a first pass. Later steps must verify the actual live question, description, trading status, and resolution deadline from Gamma and the market page.
 
 Parse the JSON lines to get the top 30 candidates. Cross-reference against `userPositions` from STEP 0.5 — silently drop any slug that matches an active user position or overlaps semantically (see STEP 0.5 overlap rules).
 
@@ -106,8 +136,9 @@ From the response:
 - `outcomes` — JSON string array of outcome labels (to match prices to outcomes)
 - `clobTokenIds` — JSON string array of CLOB outcome token IDs, in the same order as `outcomes`
 - `events[0].slug` — parent event slug → build URL as `https://polymarket.com/event/{events[0].slug}`
+- `question`, `description`, `endDate`, `endDateIso`, `active`, `closed`, `acceptingOrders`, `events[0].endDate` — use these to verify the real trading/resolution horizon
 
-Store `liveProb` and `eventUrl` per candidate. Drop any candidate where the live price has shifted outside 70–90%.
+Store `liveProb` and `eventUrl` per candidate. Drop any candidate where the live price has shifted outside the active probability range: generic mode `70–90%`, politics mode `55–80%`, unless explicit probability flags were supplied.
 
 Fetch the executable CLOB order book for the candidate outcome token:
 
@@ -118,6 +149,38 @@ curl "https://clob.polymarket.com/book?token_id=OUTCOME_TOKEN_ID"
 Use the best ask as `entryProb` when available. If no order book is available, use Gamma `outcomePrices` only as a fallback and require an extra 2 pp of edge. Record best bid, best ask, spread, best ask size, and approximate ask depth within +2 pp.
 
 Treat `entryProb` as the **entry price**, not as evidence. A market being 80% likely is not enough; it is only actionable if independent research supports an adjusted fair probability high enough above the executable entry price to create expected value.
+
+#### Horizon and finance sanity check
+
+Before researching a candidate, determine:
+
+```text
+listedEndDate       = Gamma market endDate, if present
+eventEndDate        = Gamma parent event endDate, if present
+questionDeadline    = explicit deadline parsed from live question/title, e.g. "by June 30, 2026"
+descriptionDeadline = explicit deadline or resolution date in the description, if present
+resolutionDeadline  = best available actual outcome deadline:
+  1. explicit date in the live question/title
+  2. explicit date in the description
+  3. market endDate
+  4. event endDate
+capitalHorizonDays = max(1, (resolutionDeadline - ANCHORED_NOW) / 86400000)
+```
+
+If `listedEndDate` conflicts with an explicit date in the question, trust the question/description for `resolutionDeadline` and note the mismatch internally. Do **not** call the listed date "expiry" in the final output unless it is also the resolution deadline. Confirm `active=false`, `closed=true`, or `acceptingOrders=false` before saying trading is closed.
+
+Compute finance terms:
+
+```text
+grossProfitYield = (1 / entryProb) - 1
+EV_yield = (adjustedFairProb / entryProb) - 1
+grossProfitPerDay = grossProfitYield / capitalHorizonDays
+EV_per_day = EV_yield / capitalHorizonDays
+breakEvenProb = entryProb
+fairOdds = 1 / adjustedFairProb
+```
+
+Annualized return is usually misleading for binary event risk. If mentioned, label it as a rough simple annualized comparison only; do not use it as the main ranking metric.
 
 ---
 
@@ -131,6 +194,9 @@ Before spawning research subagents, classify each surviving candidate into one o
 | **Verifiable facts** | Outcome depends on a live-checkable number (price, index level, count, stat) |
 | **Event-pending** | Outcome depends on something happening in the next 1–3 days (game, vote, launch, decision) |
 | **Structurally stable** | Long-arc outcome (capture, release, leadership change) very unlikely to flip in the remaining window |
+| **Political/election** | Election, primary, runoff, referendum, parliamentary seats, party/nominee outcome |
+| **Political/geopolitical** | Ceasefire, sanctions, treaty, peace deal, military action, state conflict |
+| **Political decision/status** | Appointment, resignation, leadership status, bill/signature/official decision |
 
 ---
 
@@ -142,10 +208,11 @@ First, generate one prompt per surviving candidate using the helper script. This
 node "$SKILL_DIR/scripts/build_research_prompts.js" \
   --candidates /tmp/polymarket-scan-candidates.jsonl \
   --positions /tmp/polymarket-scan-positions.json \
+  [--mode politics --prob-min 55 --prob-max 80] \
   > /tmp/polymarket-scan-prompts.txt
 ```
 
-Where the candidates file is the JSON-lines output of `extract_markets.js` and the positions file is the raw response from STEP 0.5. The script applies the user-positions overlap filter, fetches live prices via Gamma, classifies the bucket (STEP 4), and emits one ready-to-paste subagent prompt per surviving candidate, separated by `===CANDIDATE n===` markers.
+Where the candidates file is the JSON-lines output of `extract_markets.js` and the positions file is the raw response from STEP 0.5. The script applies the user-positions overlap filter, fetches live prices via Gamma, verifies the live probability band, computes capital-horizon/yield fields, classifies the bucket (STEP 4), and emits one ready-to-paste subagent prompt per surviving candidate, separated by `===CANDIDATE n===` markers.
 
 Then **spawn one subagent per emitted prompt — all in a single message, all in parallel**. There is no cap: every candidate the script emits gets its own subagent. Research is the bottleneck, not the count, and parallel subagents make it cheap. If the script emits 22 prompts, dispatch 22 Agent calls. Do not skip any.
 
@@ -180,6 +247,10 @@ Compute:
 edge_pp = adjustedFairProb - entryProb
 EV_per_$ = adjustedFairProb / entryProb - 1
 max_entry_price = adjustedFairProb - required_edge_pp
+grossProfitYield = 1 / entryProb - 1
+capitalHorizonDays = days until the actual resolution deadline, not merely Gamma endDate
+EV_per_day = EV_per_$ / capitalHorizonDays
+grossProfitPerDay = grossProfitYield / capitalHorizonDays
 ```
 
 Default required edge:
@@ -221,6 +292,12 @@ Execution penalties:
 - Search: `"[topic] [month year]"` + `"[topic] latest news"`
 - Require at least one wire service (Reuters/AP/AFP) + one regional or government source
 - If sources conflict, do not recommend — contested narratives mean the market is genuinely uncertain
+
+Politics mode source requirements:
+- Election markets: if the vote is complete, require 2 sources reporting the certified or projected winner; if upcoming, check latest polling/aggregators and structural factors such as incumbency, turnout, runoff dynamics, or fragmented fields.
+- Political decisions: look for official statements, legislative records, credible journalist sourcing, leaked drafts, and scheduled votes/deadlines.
+- Geopolitical/conflict markets: require a wire service plus a regional/official source published within the last 24h for active conflict zones; check whether one actor or multiple parties must agree.
+- Leadership/status markets: confirm current status first, then search for active legal, health, coalition, or scandal risks in the next window.
 
 **Sports markets:**
 - Confirm full team context before recommending — odds are set by people with good data, so you need to know what they know:
@@ -284,9 +361,11 @@ Silent drop criteria (never mention in output):
 - fairProb cannot be justified from concrete evidence
 - edge_pp below the required edge for the risk/price bucket
 - EV_per_$ ≤ 0 after fair-probability estimate
+- EV_per_day is unattractive versus available shorter-duration picks with comparable or lower risk
 - live price exceeds max_entry_price
 - Order book/spread appears too thin to enter near the quoted live price
 - adjustedFairProb after evidence-reliability shrinkage no longer clears the edge threshold
+- resolutionDeadline cannot be determined from the live market question, description, or official resolution source
 
 Each subagent returns its result to the main agent as either:
 - A **graded pick** (passed all 3 grilling rounds + risk tier assigned + fairProb/edge/EV/maxEntry reported), or
@@ -309,6 +388,14 @@ adjustedFairProb
 edge_pp = adjustedFairProb - entryProb
 EV_per_$ = adjustedFairProb / entryProb - 1
 max_entry_price
+grossProfitYield = 1 / entryProb - 1
+resolutionDeadline
+capitalHorizonDays
+EV_per_day = EV_per_$ / capitalHorizonDays
+grossProfitPerDay = grossProfitYield / capitalHorizonDays
+riskMultiplier = LOW 1.00, MEDIUM 0.70, HIGH 0.40
+liquidityMultiplier = 1.00 if spread <= 1pp and intended stake fits within +2pp depth; 0.75 if spread <= 3pp; 0.50 if spread <= 4pp or depth is thin
+financeScore = EV_per_day * riskMultiplier * liquidityMultiplier
 riskTier
 ```
 
@@ -321,7 +408,7 @@ suggested_fraction = 0.25 * kelly_fraction
 
 Cap suggested size at 3% bankroll for LOW, 1.5% for MEDIUM, and 0.5% for HIGH. If `--bankroll` was provided, convert the capped percentage to USD. Otherwise report the capped percentage only.
 
-Proceed to STEP 7 with only positive-EV surviving picks.
+Proceed to STEP 7 with only positive-EV surviving picks. Rank by `financeScore desc → EV_per_day desc → EV_per_$ desc → edge_pp desc`. Risk gates still apply first: do not let a fast high-risk market outrank a lower-risk market unless its risk-adjusted daily EV is materially better and the evidence is current. Never rank by raw probability alone.
 
 ---
 
@@ -356,7 +443,7 @@ node "$SKILL_DIR/scripts/roi_ledger.js" add \
 
 ### STEP 7 — Final Ranked Output
 
-Print a clean ranked list of the **top 10 actionable picks**, sorted by: `risk tier (LOW first) → EV_per_$ desc → edge_pp desc`.
+Print a clean ranked list of the **top 10 actionable picks**, sorted by the STEP 6.5 finance ranking.
 
 Format each pick as:
 
@@ -364,8 +451,9 @@ Format each pick as:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #N  [RISK TIER EMOJI]  CATEGORY
 TITLE
-Bet: OUTCOME  |  Entry: XX%  |  Raw fair: XX%  |  Adj fair: XX%  |  Edge: +X.Xpp  |  EV: +X.X%/$
-Max entry: XX%  |  Stake: X.X% bankroll  |  Volume: $XXX,XXX  |  Expires: X.Xd
+Bet: OUTCOME  |  Entry: XX%  |  Raw fair: XX%  |  Adj fair: XX%  |  Edge: +X.Xpp  |  EV yield: +X.X%
+Max profit yield: +X.X%  |  EV/day: +X.XX%  |  Max entry: XX%  |  Stake: X.X% bankroll
+Capital horizon: X.Xd to RESOLUTION_DATE  |  Volume: $XXX,XXX  |  Book: BID/ASK, spread X.Xpp, +2pp depth $XXX
 Score: XXXX  |  https://polymarket.com/event/{event-slug}
 
 RESEARCH:
@@ -374,6 +462,7 @@ RESEARCH:
 • [TA/Team note: technical or team context — e.g. "RSI 42, below 50d MA, no scheduled catalyst" or "Sabres -130 at books, 4-game win streak, Islanders missing Horvat/Palmieri/Romanov"]
 • Bear case: [one line — the most likely way this bet loses]
 • Misprice thesis: [one line — why Polymarket is underpricing this outcome]
+• Finance verdict: [one line — why the yield/time/liquidity justify tying up capital]
 • Verdict: [one line — why bear case is outweighed, citing the evidence]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -386,7 +475,9 @@ PORTFOLIO SUMMARY (equal-weight)
 Markets selected:   N
 Avg probability:    XX%
 Avg edge:           +X.Xpp
-Avg EV per $:       +X.X%
+Avg EV yield:       +X.X%
+Avg EV/day:         +X.XX%
+Avg capital horizon: X.Xd
 Expected return:    +X.X% on suggested sizing over ~Xd
 Positions excluded:  N exact holds + N overlapping markets
 Researched:         R / S surviving candidates (XX%)
@@ -402,12 +493,13 @@ If `Researched` is below 80%, append a one-line warning: `⚠ Coverage incomplet
 These apply across all steps — they exist because edge cases here have historically caused bad picks:
 
 - **Output is recommendations only** — never mention markets that were dropped, skipped, or disqualified.
-- **Positive EV beats high win probability** — a 90% market with fair probability 91% is usually worse than a 76% market with fair probability 84%.
-- **No edge, no bet** — every final pick needs executable entry price, raw fair probability, adjusted fair probability, edge, EV, and max entry. Missing fields mean the pick is not actionable.
+- **Positive EV and time value beat high win probability** — a 90% market with fair probability 91% is usually worse than a 76% market with fair probability 84%, and a long capital lockup can make an otherwise positive-EV bet less attractive than a faster one.
+- **No finance case, no bet** — every final pick needs executable entry price, raw fair probability, adjusted fair probability, edge, EV yield, max profit yield, EV/day, capital horizon, max entry, and suggested size. Missing fields mean the pick is not actionable.
 - **Never chase above max entry** — if the price moves past max_entry_price while writing the answer, remove the pick or mark it as stale, not actionable.
 - **Size by edge and uncertainty** — use the fractional-Kelly cap in STEP 6.5; do not equal-weight HIGH and LOW risk picks.
 - **Crypto is excluded at the scoring stage** — apply the filter in STEP 2 so they never enter the pipeline at all.
 - **Executable prices override display prices** — use CLOB best ask when available, then Gamma `outcomePrices` only as fallback. Stale cache probabilities can be many hours old.
+- **Question deadline overrides misleading API endDate** — if the title says "by June 30" and `endDate` says May 31, compute capital horizon from June 30 and keep `acceptingOrders`/book data separate from resolution timing.
 - **daysLeft ≤ 0** — include only if 2+ sources confirm the outcome is already locked; otherwise drop.
 - **Geopolitical markets** (Israel, Iran, Houthi, Yemen, Russia, Gaza): verify with wire service + regional source — conflict state changes hourly.
 - **Commodity price markets within 8% of strike during active conflict**: drop — too much tail risk from sudden moves.

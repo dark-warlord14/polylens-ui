@@ -5,7 +5,7 @@
 // is not a JSON object on its own line is ignored), reads the user's open positions
 // (raw response from data-api.polymarket.com/positions), drops exact-slug overlaps
 // and obvious semantic overlaps, fetches LIVE prices via Gamma for each survivor,
-// drops anything outside 70-90%, fetches the CLOB order book when possible so
+// drops anything outside the configured probability range, fetches the CLOB order book when possible so
 // entry price is based on executable best ask instead of displayed probability,
 // classifies into a research bucket, and emits one ready-to-paste subagent
 // prompt per surviving candidate to stdout, separated by `===CANDIDATE n===`
@@ -26,6 +26,9 @@ const get = (flag, def) => {
 const candidatesPath = get('--candidates', null);
 const positionsPath  = get('--positions', null);
 const MAX = parseInt(get('--max', '30'), 10);
+const MODE = get('--mode', 'all');
+const PROB_MIN = parseFloat(get('--prob-min', MODE === 'politics' ? '55' : '70'));
+const PROB_MAX = parseFloat(get('--prob-max', MODE === 'politics' ? '80' : '90'));
 if (!candidatesPath) {
   console.error('Missing --candidates <path>');
   process.exit(1);
@@ -132,6 +135,32 @@ function parseJsonArray(value) {
   }
 }
 
+const MONTHS = {
+  january: 0, jan: 0,
+  february: 1, feb: 1,
+  march: 2, mar: 2,
+  april: 3, apr: 3,
+  may: 4,
+  june: 5, jun: 5,
+  july: 6, jul: 6,
+  august: 7, aug: 7,
+  september: 8, sep: 8,
+  october: 9, oct: 9,
+  november: 10, nov: 10,
+  december: 11, dec: 11,
+};
+
+function parseQuestionDeadline(text) {
+  const match = String(text || '').match(/\bby\s+([A-Za-z]+)\s+(\d{1,2}),\s*(20\d{2})\b/i);
+  if (!match) return null;
+  const month = MONTHS[match[1].toLowerCase()];
+  const day = parseInt(match[2], 10);
+  const year = parseInt(match[3], 10);
+  if (!Number.isInteger(month) || !Number.isInteger(day) || !Number.isInteger(year)) return null;
+  const deadline = new Date(Date.UTC(year, month, day + 1, 3, 59, 0));
+  return Number.isNaN(deadline.getTime()) ? null : deadline.toISOString();
+}
+
 function normalizeBookSide(side, direction) {
   const rows = Array.isArray(side) ? side : [];
   const sorted = rows
@@ -177,6 +206,11 @@ function summarizeExecution(book, displayProb, tokenId) {
 function classify(c, liveExpiryMs) {
   const title = (c.title || '').toLowerCase();
   const now = Date.now();
+  if (MODE === 'politics' || ['Politics', 'Elections', 'Geopolitics', 'World', 'International Affairs', 'Society'].includes(c.category)) {
+    if (/\belection|primary|runoff|vote|referendum|parliament|mayor|senate|governor|nominee|seats?\b/.test(title)) return 'Political/election';
+    if (/\bceasefire|peace|sanction|treaty|military|strike|war|hostilities|iran|gaza|ukraine|russia\b/.test(title)) return 'Political/geopolitical';
+    return 'Political decision/status';
+  }
   if (liveExpiryMs && liveExpiryMs < now) return 'Already-occurred';
   if (/\b(price|index|level|spx|nasdaq|btc|eth|stock|usd|eur|yield|cpi|inflation|count|tweets|posts|temperature|°c|degrees)\b/.test(title)) {
     return 'Verifiable facts';
@@ -213,7 +247,11 @@ Best ask size: ${Number.isFinite(live.bestAskSize) ? live.bestAskSize.toFixed(2)
 Ask depth within +2pp: $${Number.isFinite(live.askDepth2ppUsd) ? live.askDepth2ppUsd.toFixed(0) : 'UNKNOWN'}
 Outcome token ID: ${live.tokenId || 'UNKNOWN'}
 ROI: ${c.roi}%
-Days left (live): ${live.liveDaysLeft.toFixed(2)}
+Listed/cache days left: ${live.liveDaysLeft.toFixed(2)}
+Capital horizon days: ${fmt2(live.capitalHorizonDays)}
+Resolution deadline: ${live.resolutionDeadline || 'UNKNOWN'}
+Gross max profit yield: ${fmt2(live.grossProfitYield * 100)}%
+Gross max profit/day: ${fmt2(live.grossProfitPerDay * 100)}%
 Volume: $${(c.volume || 0).toLocaleString()}
 Category: ${c.category}
 Bucket: ${live.bucket}
@@ -228,12 +266,14 @@ ROI discipline:
 - Compute edge_pp = adjusted_fair_probability - ${fmt(entryProb)}.
 - Require minimum edge of ${minEdge.toFixed(1)} percentage points (${baseMinEdge} pp base + ${fmt2(live.executionPenaltyPp)} pp execution/spread penalty). If edge_pp is lower, return DROP even if the bet is likely to win.
 - Compute EV_per_$ = adjusted_fair_probability / ${fmt(entryProb)} - 1.
+- Compute EV_per_day = EV_per_$ / ${fmt2(live.capitalHorizonDays)}. Use the actual capital horizon, not only Gamma endDate.
 - Provide max_entry_price = adjusted_fair_probability - ${minEdge.toFixed(1)} percentage points. If live price is already above max_entry_price, return DROP.
 - If spread > 4 pp, return DROP unless the edge is at least 2x the spread and ask depth supports the intended stake.
+- If Gamma endDate conflicts with an explicit title/description deadline, trust the title/description for resolution timing and report the mismatch only if the pick is recommended.
 - Sanity check: a pick priced at ${fmt(entryProb)}% needs adjusted fair probability above ${(entryProb + minEdge).toFixed(1)}%; a max entry around ${maxEntryHint}% is not enough unless your fair probability supports it.
 
 Return ONE of:
-- GRADED PICK: risk tier + raw fair probability + evidence_reliability + adjusted fair probability + edge_pp + EV_per_$ + max_entry_price + 3 sourced bullets + bear case + verdict, ≤240 words
+- GRADED PICK: risk tier + raw fair probability + evidence_reliability + adjusted fair probability + edge_pp + EV_per_$ + EV_per_day + max_entry_price + capital horizon + finance verdict + 3 sourced bullets + bear case + verdict, ≤260 words
 - DROP: one-line reason
 
 Do not skip the web research.`;
@@ -262,10 +302,17 @@ Do not skip the web research.`;
     const tokenId = tokenIds[idx];
     const book = await clobBookFetch(tokenId);
     const execution = summarizeExecution(book, displayProb, tokenId);
-    if (!Number.isFinite(execution.entryProb) || execution.entryProb < 70 || execution.entryProb > 90) return null;
+    if (!Number.isFinite(execution.entryProb) || execution.entryProb < PROB_MIN || execution.entryProb > PROB_MAX) return null;
+    const questionDeadline = parseQuestionDeadline(m.question || c.title) || parseQuestionDeadline(m.description);
+    const resolutionDeadline = questionDeadline || m.endDate || c.expiryDate || (m.events && m.events[0] && m.events[0].endDate);
     const expiryMs = Date.parse(m.endDate || c.expiryDate);
+    const resolutionMs = Date.parse(resolutionDeadline);
     const liveDaysLeft = (expiryMs - Date.now()) / 86400000;
     if (liveDaysLeft < 0) return null;
+    const capitalHorizonDays = Number.isFinite(resolutionMs)
+      ? Math.max(1 / 24, (resolutionMs - Date.now()) / 86400000)
+      : Math.max(1 / 24, liveDaysLeft);
+    const grossProfitYield = (1 / (execution.entryProb / 100)) - 1;
     const eventSlug = m.events && m.events[0] && m.events[0].slug;
     return {
       c,
@@ -282,6 +329,10 @@ Do not skip the web research.`;
         executionPenaltyPp: execution.executionPenaltyPp,
         tokenId: execution.tokenId,
         liveDaysLeft,
+        capitalHorizonDays,
+        resolutionDeadline,
+        grossProfitYield,
+        grossProfitPerDay: grossProfitYield / Math.max(1, capitalHorizonDays),
         eventUrl: eventSlug ? `https://polymarket.com/event/${eventSlug}` : null,
         bucket: classify(c, expiryMs),
       },
