@@ -36007,16 +36007,6 @@
     "eventSlug": "tim-walz-in-jail-by-march-31",
     "negRisk": false
   },
-  "will-carlos-alcaraz-win-the-2026-mens-french-open": {
-    "id": "1087512",
-    "conditionId": "0x930c1ae0fdb23f71821c92e5dea1e6bd2b30b4d28ff5112a659c9f8b3871a1a5",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-jannik-sinner-win-the-2026-mens-french-open": {
     "id": "1087513",
     "conditionId": "0x23e817f30871533d3bd7da01e68b802c5fccb8f44f053ef4ea5789c8a28563fe",
@@ -40866,26 +40856,6 @@
     "acceptingOrders": true,
     "eventSlug": "who-will-win-the-2026-fields-medal",
     "negRisk": false
-  },
-  "will-carlos-alcaraz-win-a-calendar-grand-slam-in-2026-441": {
-    "id": "1122726",
-    "conditionId": "0xe0ed2f6e2b644f9a1fb3b1afd368a95706fb2356b2dd12a98c77c55e7836fbc3",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-win-a-calendar-grand-slam-in-2026",
-    "negRisk": true
-  },
-  "will-no-male-player-win-a-calendar-grand-slam-in-2026": {
-    "id": "1122734",
-    "conditionId": "0x13899385b89f58be96d16b68e4dba51608162dc9749702206505929f1faf7d45",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-win-a-calendar-grand-slam-in-2026",
-    "negRisk": true
   },
   "will-the-uks-2026-inflation-be-less-than-1pt0": {
     "id": "1123353",
@@ -84020,16 +83990,6 @@
     "eventSlug": "2026-soccer-japan-j-league-winner",
     "negRisk": true
   },
-  "2026-soccer-j2-league-winner-hokkaido-consadole-sapporo": {
-    "id": "1830401",
-    "conditionId": "0x8df67098a5b1321e7fa57f8a3c097cc0bdd063c222c464c1a638df73b1ec1573",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-j2-league-winner",
-    "negRisk": true
-  },
   "2026-soccer-j2-league-winner-vegalta-sendai": {
     "id": "1830403",
     "conditionId": "0xadab500bf6fdb66858297271ed6c096f5440499ca7ec971b8fb822b6a43ec03e",
@@ -86260,66 +86220,6 @@
     "eventSlug": "anime-awards-best-continuing-series-winner",
     "negRisk": true
   },
-  "will-clevatess-win-best-new-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833902",
-    "conditionId": "0xd7d76e3341ea381980d30c7669075bc8f2e3e31abb980d31f5b7ceb832349fd3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-new-series-winner",
-    "negRisk": true
-  },
-  "will-the-fragrant-flower-blooms-with-dignity-win-best-new-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833903",
-    "conditionId": "0x8d024da4ceee3edec77a88406ce5285cf0732f6eac813cd14154be9cc1b03f77",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-new-series-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-win-best-new-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833904",
-    "conditionId": "0x3406fbbeb077c689d3aad53f7806f070b46e0a9ac669ba8be460b3a19d296ce5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-new-series-winner",
-    "negRisk": true
-  },
-  "will-sakamoto-days-win-best-new-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833905",
-    "conditionId": "0x63447bb4a54dc1b7882294183f2c5f9de88cfe54d51e2e00bcd6a99d3a36fb33",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-new-series-winner",
-    "negRisk": true
-  },
-  "will-the-summer-hikaru-died-win-best-new-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833906",
-    "conditionId": "0x6d6994c779b291e6d8370e4ce32cf7997004ce033c33c34be6f31807646c6dd6",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-new-series-winner",
-    "negRisk": true
-  },
-  "will-takopis-original-sin-win-best-new-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833907",
-    "conditionId": "0xa81d4c6897f3d4b60daac0b5f34899dbb9e68ab32482d00eea9d1cb27f720c16",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-new-series-winner",
-    "negRisk": true
-  },
   "2026-basketball-cba-winner-shanghai-dongfang": {
     "id": "1833956",
     "conditionId": "0x8cb0ebc49f0531ee83193f90e7a8bc5963b33affc8d4795c361e62abb442eeef",
@@ -87100,126 +87000,6 @@
     "eventSlug": "2026-basketball-aba-league-winner",
     "negRisk": true
   },
-  "will-dan-da-dan-season-2-win-best-animation-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834348",
-    "conditionId": "0x384675ee254a6707f44a591ed7054ae480296dbb29fc7d8e5d0757b8786639e3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-animation-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-win-best-animation-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834349",
-    "conditionId": "0xf8fee5391348152f26f41b4f6ecb311ed0758a9bdef934413828dfb87717a414",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-animation-winner",
-    "negRisk": true
-  },
-  "will-my-hero-academia-final-season-win-best-animation-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834350",
-    "conditionId": "0x66e48ab4857e6410d4fdbdd026d0060bdcc0135986d91a05c40bc77be1c18470",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-animation-winner",
-    "negRisk": true
-  },
-  "will-one-piece-win-best-animation-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834351",
-    "conditionId": "0xbb94c9f55ee4b583e1d3437c070995ffde132a6a89f602f7a8e28fcc1297a3e0",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-animation-winner",
-    "negRisk": true
-  },
-  "will-solo-leveling-season-2-arise-from-the-shadow-win-best-animation-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834352",
-    "conditionId": "0x564eebe3d2d3797d0bf110a8352fc7ad83bcafe2fc96f72fc6365e1e766abd06",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-animation-winner",
-    "negRisk": true
-  },
-  "will-takopis-original-sin-win-best-animation-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834353",
-    "conditionId": "0xb4563c861c061cc38a1ac28b6f7f570ac95d3f98715c4e982e88e364d3a3f68e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-animation-winner",
-    "negRisk": true
-  },
-  "will-the-apothecary-diaries-season-2-win-best-character-design-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834459",
-    "conditionId": "0xe572efb764d3fd0724bf710a6d362629fa7dd7ece85b3b829c3143f2c3dbb15f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-character-design-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-best-character-design-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834461",
-    "conditionId": "0x37d2df397ba51fedf3c856f8e28ab18e6cfa44594ee36fb6975ed7726fce8981",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-character-design-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-win-best-character-design-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834463",
-    "conditionId": "0x99afeb17c401a46213b47e85900e6f12fb7efe057d438d756592f3334edc5c2b",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-character-design-winner",
-    "negRisk": true
-  },
-  "will-my-dress-up-darling-season-2-win-best-character-design-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834464",
-    "conditionId": "0x9f73618129bea9035b2f6c1d0d526b08579cde6f08c960fe2fc134964633cf94",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-character-design-winner",
-    "negRisk": true
-  },
-  "will-one-piece-win-best-character-design-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834465",
-    "conditionId": "0x03fc2506b824a08451d185695cf3249031ec0331f0764b150a1a8332056e5122",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-character-design-winner",
-    "negRisk": true
-  },
-  "will-takopis-original-sin-win-best-character-design-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834467",
-    "conditionId": "0x2e1abac1f9d66fdaae961b35f2ff12390da5e2652d26d402113fe1b51f191d2b",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-character-design-winner",
-    "negRisk": true
-  },
   "will-akinori-fudesaka-norihiro-naganuma-the-apothecary-diaries-season-2-win-best-director-at-the-2026-crunchyroll-anime-awards": {
     "id": "1834529",
     "conditionId": "0x29f7b564dcf9052c2306878ba8df29ff767b4aa8c72a5acfe8ccb4d972d90858",
@@ -87278,246 +87058,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
-  "will-the-apothecary-diaries-season-2-win-best-background-art-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834557",
-    "conditionId": "0xd723220b2650d001754499d9e5ffac9ef0e2fa8f38502f5dcf50e4cd51e2336e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-background-art-winner",
-    "negRisk": true
-  },
-  "will-city-the-animation-win-best-background-art-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834558",
-    "conditionId": "0xb0f27ceac3a9aeb53dfa1de603c66819dfa4ee178211e4b4eb08784db3cb7ed5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-background-art-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-best-background-art-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834559",
-    "conditionId": "0x1567a290d3be207f35bcca35d46bf4708f81adde75b151d39d6a6a0c6d594eb7",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-background-art-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-win-best-background-art-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834560",
-    "conditionId": "0x3ea1547f0f7e9202672d614970c37e2e1937a2bdde9f968d128f8f5e8521e2ef",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-background-art-winner",
-    "negRisk": true
-  },
-  "will-kowloon-generic-romance-win-best-background-art-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834561",
-    "conditionId": "0x5eb09c26b3cb0ad4f0872dca38c5a73e2ef90d506ca3de54461fd9b191eeb92f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-background-art-winner",
-    "negRisk": true
-  },
-  "will-the-summer-hikaru-died-win-best-background-art-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834562",
-    "conditionId": "0x9a6fff79f4b46c8c2ee424c67eaa442f612327d04efc8c5e30a56f4672347a7d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-background-art-winner",
-    "negRisk": true
-  },
-  "will-blue-box-win-best-romance-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834575",
-    "conditionId": "0x3c2a54ad56c1f359da68c0027a02b120af4711d54b9e52b3863c80e505a86cfb",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-romance-anime-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-best-romance-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834576",
-    "conditionId": "0xce8786c6657bdc38d1a8f8ccf685d6d7f5c0172ccbaa852704a62a253cb4641c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-romance-anime-winner",
-    "negRisk": true
-  },
-  "will-the-fragrant-flower-blooms-with-dignity-win-best-romance-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834577",
-    "conditionId": "0x45072fe47f0d9e6888bf8094654675f1c98d4ac6ec2f7878c472ac583dd6deba",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-romance-anime-winner",
-    "negRisk": true
-  },
-  "will-honey-lemon-soda-win-best-romance-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834578",
-    "conditionId": "0x0cf7947a70c542dbf6a185358e9664ba08cf8127d1ccae4804a06100af4ced1e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-romance-anime-winner",
-    "negRisk": true
-  },
-  "will-my-dress-up-darling-season-2-win-best-romance-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834579",
-    "conditionId": "0x3473a6834a272c616635c7a006ecb9fbad9dc54d9b64e57a1f934901d2637ddc",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-romance-anime-winner",
-    "negRisk": true
-  },
-  "will-ranma-12-season-2-win-best-romance-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834580",
-    "conditionId": "0xf72ad2a30fa49a1f49f1583c34b7335794b2dcbd2434e6248892519cae0f224f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-romance-anime-winner",
-    "negRisk": true
-  },
-  "will-city-the-animation-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834593",
-    "conditionId": "0x4439598d3ce1cfea5700d8509609467a7eaf5392653dca7debb3f82afd9f1997",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-comedy-anime-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834594",
-    "conditionId": "0xce76d33c234a8a8bce6f8692c901aebbfc33fb104c3e23a93454ee1508a304b9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-comedy-anime-winner",
-    "negRisk": true
-  },
-  "will-my-dress-up-darling-season-2-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834595",
-    "conditionId": "0xc45feeffa2e8515e1e758df66ecb804c9a2df9ef1c462b2f5c60790a4790e804",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-comedy-anime-winner",
-    "negRisk": true
-  },
-  "will-ranma-12-season-2-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834596",
-    "conditionId": "0xad9ddedf7bfa34cb8c43fed00d4cce2982cda7fd03c4280e014e0a4b0cc4d8a1",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-comedy-anime-winner",
-    "negRisk": true
-  },
-  "will-spy-x-family-season-3-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834597",
-    "conditionId": "0xe43bc3276b5fd20005d0762a8a75d9b414403861061273d51be0fbf99bfaa3e7",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-comedy-anime-winner",
-    "negRisk": true
-  },
-  "will-witch-watch-win-best-comedy-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834598",
-    "conditionId": "0x5b4dffe57a51f0fd44244e7fe0f5287dd63637ce425fb78d2780bfbeaf66a582",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-comedy-anime-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-best-action-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834618",
-    "conditionId": "0xb7fe33254feb103285831ffbf313b55bbecd6f321743d08a5d0fc34233a7fadb",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-action-anime-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-win-best-action-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834619",
-    "conditionId": "0xdef69946ba12458d7f0c340358a85a3693856233f21967403e23d8596808b48d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-action-anime-winner",
-    "negRisk": true
-  },
-  "will-kaiju-no-8-season-2-win-best-action-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834620",
-    "conditionId": "0x518bf67fc18e1620bad5a51096ea794c5536390cd94ecf1dd8e9efd83cb517c8",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-action-anime-winner",
-    "negRisk": true
-  },
-  "will-my-hero-academia-final-season-win-best-action-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834621",
-    "conditionId": "0xaac836b88de8a6b85a0e6a42a7f90b2f6d3a80d606a30e7f08e3c63058da07ca",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-action-anime-winner",
-    "negRisk": true
-  },
-  "will-one-piece-win-best-action-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834622",
-    "conditionId": "0xc73a2a8638ba122209a8308ba5a2b01582b186782ef627fd88a5652ef38d405e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-action-anime-winner",
-    "negRisk": true
-  },
-  "will-solo-leveling-season-2-arise-from-the-shadow-win-best-action-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834623",
-    "conditionId": "0x38728aa011f093df185525138f259e92f15b94aa40e541fa8c2f64e7e7053277",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-action-anime-winner",
     "negRisk": true
   },
   "will-celta-vigo-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
@@ -87770,306 +87310,6 @@
     "eventSlug": "laliga-relegation-survivor",
     "negRisk": true
   },
-  "will-anne-shirley-win-best-drama-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835488",
-    "conditionId": "0x982ab71dac82547e418373a6cbb084a8df3ed144ac9ec4c8b261d2eaa096ab82",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-drama-anime-winner",
-    "negRisk": true
-  },
-  "will-the-apothecary-diaries-season-2-win-best-drama-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835489",
-    "conditionId": "0x997f05b06a42ab46c2ff8d42afd3c63fe9b10da5f54288fba5ad5953afb478fe",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-drama-anime-winner",
-    "negRisk": true
-  },
-  "will-blue-box-win-best-drama-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835490",
-    "conditionId": "0x2be0471662fb67857bddc37d31ed6369259fb1106ea443a8c8eb8dece22a1401",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-drama-anime-winner",
-    "negRisk": true
-  },
-  "will-orb-on-the-movements-of-the-earth-win-best-drama-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835491",
-    "conditionId": "0x0e23b988d572569cd8b553d93b250a48c5a4ba4f9c925c939cbeb3e244fc76a0",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-drama-anime-winner",
-    "negRisk": true
-  },
-  "will-the-summer-hikaru-died-win-best-drama-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835492",
-    "conditionId": "0x6dc392d2a4292c47256ebb93ee799e735994dcfccf902e0d196622690dabf33e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-drama-anime-winner",
-    "negRisk": true
-  },
-  "will-takopis-original-sin-win-best-drama-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835493",
-    "conditionId": "0xf5bf8dbd38e7732dad95578195911a7d3cb57167dd5690f8d46a42ce18f6bc9a",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-drama-anime-winner",
-    "negRisk": true
-  },
-  "will-anne-shirley-win-best-slice-of-life-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835524",
-    "conditionId": "0xad36c12f9ff815c68a7338ccfe1eaf8bef3cd9167556fff256a0ede847ebef64",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-slice-of-life-anime-winner",
-    "negRisk": true
-  },
-  "will-blue-box-win-best-slice-of-life-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835525",
-    "conditionId": "0xce8567066342474980bce5c32b656578895f1024293f6642eeb4dd4ff6cad0e4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-slice-of-life-anime-winner",
-    "negRisk": true
-  },
-  "will-city-the-animation-win-best-slice-of-life-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835526",
-    "conditionId": "0xd791926659d494bfd12e95120111662311ef2161525f50741bc9e6cc27c29ad0",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-slice-of-life-anime-winner",
-    "negRisk": true
-  },
-  "will-the-fragrant-flower-blooms-with-dignity-win-best-slice-of-life-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835527",
-    "conditionId": "0x8ee4489702b59f42eeca96daca44a6a0b22305fcdcc7218e153bd7d6475f8813",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-slice-of-life-anime-winner",
-    "negRisk": true
-  },
-  "will-my-dress-up-darling-season-2-win-best-slice-of-life-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835528",
-    "conditionId": "0xcea67042b3d7d35ca077cd28c77ee30adeb1f66d890afe10a4e22d97b8038426",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-slice-of-life-anime-winner",
-    "negRisk": true
-  },
-  "will-spy-x-family-season-3-win-best-slice-of-life-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835529",
-    "conditionId": "0xd79827bfadfb1991fb3b046bc439ebee23f5b93432d83d930ae36e03388831d6",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-slice-of-life-anime-winner",
-    "negRisk": true
-  },
-  "will-izuku-midoriya-my-hero-academia-final-season-win-best-anime-main-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835549",
-    "conditionId": "0x33835c1a54548b3008c73efde665fa4c35b96822b072fb017dbc5915d4f2be6a",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-main-character-winner",
-    "negRisk": true
-  },
-  "will-maomao-the-apothecary-diaries-season-2-win-best-anime-main-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835550",
-    "conditionId": "0xda36ee5e5232c245931352222d78a195a6d34dbb8e2e1b4a25f20153768223a5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-main-character-winner",
-    "negRisk": true
-  },
-  "will-momo-dan-da-dan-season-2-win-best-anime-main-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835551",
-    "conditionId": "0x30065986126ef8d831e7005b9dc8d2768026e4281e69ef0d57792c83e54539ba",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-main-character-winner",
-    "negRisk": true
-  },
-  "will-okarun-dan-da-dan-season-2-win-best-anime-main-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835552",
-    "conditionId": "0x16c401230f538ef1bb58907a0e4a4a6a59fcbf25b1be306530abe0e3c0c79af4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-main-character-winner",
-    "negRisk": true
-  },
-  "will-rudo-gachiakuta-win-best-anime-main-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835553",
-    "conditionId": "0x6c04ba1f5a23d05bb01180da408f7aa24ee0a3c3f1372822905dd4e443a597d1",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-main-character-winner",
-    "negRisk": true
-  },
-  "will-sung-jinwoo-solo-leveling-season-2-arise-from-the-shadow-win-best-anime-main-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835554",
-    "conditionId": "0x773547d9d4748416aca958f3fa7e134b15b055b1be4ba6cd1c3e14350abe3d83",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-main-character-winner",
-    "negRisk": true
-  },
-  "will-enjin-gachiakuta-win-best-anime-supporting-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835567",
-    "conditionId": "0x16677ea488ccb028b79d493cb54edf27493cd6c9f204a7a69ee6d295ea281e7c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-supporting-character-winner",
-    "negRisk": true
-  },
-  "will-jin-enjoji-jiji-dan-da-dan-season-2-win-best-anime-supporting-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835568",
-    "conditionId": "0x2762b17968936bb38564b4b7737293645184243b11ee9bed76625c77a959fc6c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-supporting-character-winner",
-    "negRisk": true
-  },
-  "will-jinshi-the-apothecary-diaries-season-2-win-best-anime-supporting-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835569",
-    "conditionId": "0x044d82f1fa5181a730258645f22f8afc3693594ec4d9e452b9c1d3a90d34560e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-supporting-character-winner",
-    "negRisk": true
-  },
-  "will-katsuki-bakugo-my-hero-academia-final-season-win-best-anime-supporting-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835570",
-    "conditionId": "0xeab1aa2eaf021e1e0c53b6c93c0caf45813ea05fc2fd1cdfc6ece2976e364f97",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-supporting-character-winner",
-    "negRisk": true
-  },
-  "will-loulanshisui-the-apothecary-diaries-season-2-win-best-anime-supporting-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835571",
-    "conditionId": "0x8687e23e7230fc7678a87ddcadb34ef768fd54148dcf6a1e18cd45d8b49fc0f4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-supporting-character-winner",
-    "negRisk": true
-  },
-  "will-turbo-granny-dan-da-dan-season-2-win-best-anime-supporting-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835572",
-    "conditionId": "0xdcb35bc2e30385ec712cccf6bdcd9936740deebb2fec962583001ad724d6890a",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-supporting-character-winner",
-    "negRisk": true
-  },
-  "will-anya-forger-spy-x-family-season-3-win-best-anime-must-protect-at-all-costs-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835610",
-    "conditionId": "0x0886e35e1ba6c1d159d17fdd97b0ade368ed16f53f5ee1398b45cbb7a80b9f4e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-must-protect-at-all-costs-character-winner",
-    "negRisk": true
-  },
-  "will-izuku-midoriya-my-hero-academia-final-season-win-best-anime-must-protect-at-all-costs-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835611",
-    "conditionId": "0xd3aaf02ea21b03e8753263021d3ba660092c20522a35f66fef2678add0d1be09",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-must-protect-at-all-costs-character-winner",
-    "negRisk": true
-  },
-  "will-kaoruko-waguri-the-fragrant-flower-blooms-with-dignity-win-best-anime-must-protect-at-all-costs-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835612",
-    "conditionId": "0x5dd9f23a24c0e01ba1556affd2caff88b194e0cd5f981762895504c881e380c9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-must-protect-at-all-costs-character-winner",
-    "negRisk": true
-  },
-  "will-maomao-the-apothecary-diaries-season-2-win-best-anime-must-protect-at-all-costs-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835613",
-    "conditionId": "0xa74451ebd8916f02306ddbb62a8beae859ca73ea9a5ccadc3875bca0e9399f3f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-must-protect-at-all-costs-character-winner",
-    "negRisk": true
-  },
-  "will-suika-dr-stone-science-future-win-best-anime-must-protect-at-all-costs-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835614",
-    "conditionId": "0x4c3129d4d92f2bb8785b744d4025ac889f03819433ad9952aa559d404e02ff19",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-must-protect-at-all-costs-character-winner",
-    "negRisk": true
-  },
-  "will-takopi-takopis-original-sin-win-best-anime-must-protect-at-all-costs-character-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835615",
-    "conditionId": "0xe865184aa2bcdb1e5adb44d18ddfe5ada9faea7e4ada28c59a95458d3391cb31",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-must-protect-at-all-costs-character-winner",
-    "negRisk": true
-  },
   "will-in-bloom-by-lilas-ikuta-the-apothecary-diaries-season-2-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
     "id": "1835642",
     "conditionId": "0xb99080b1300acd60bae4d894a3f1eee7b02c3c645a4704e62ccce3587531c697",
@@ -88200,96 +87440,6 @@
     "eventSlug": "bundesliga-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
   },
-  "will-hugs-by-paledusk-gachiakuta-win-best-anime-opening-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835745",
-    "conditionId": "0xe53312ee47bec5ad5be994373a53b3880396d02cc517c18ed3bc2d9b6cad0237",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-opening-sequence-winner",
-    "negRisk": true
-  },
-  "will-mirage-by-creepy-nuts-call-of-the-night-season-2-win-best-anime-opening-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835746",
-    "conditionId": "0x25fd5c0bee30b6bbe7419c34ba7fb69eeb368efd1edea9dfce72153a12dfc0cc",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-opening-sequence-winner",
-    "negRisk": true
-  },
-  "will-on-the-way-by-aina-the-end-dan-da-dan-season-2-win-best-anime-opening-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835747",
-    "conditionId": "0x05d1013ed0dfee72dae1f9dcb6a938529c52fb1ccd88d70a18282f35e2642548",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-opening-sequence-winner",
-    "negRisk": true
-  },
-  "will-reawaker-feat-felix-of-stray-kids-by-lisa-solo-leveling-season-2-arise-from-the-shadow-win-best-anime-opening-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835748",
-    "conditionId": "0xab3f588a65afd2d8e408a89575f02b0e7775267f3bb619faf43b11ae7c2f79e8",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-opening-sequence-winner",
-    "negRisk": true
-  },
-  "will-the-revo-by-pornograffitti-my-hero-academia-final-season-win-best-anime-opening-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835749",
-    "conditionId": "0xa8f8782b8b0e133b1f1a70d5908901794aae07ce50a0e0876f706f55087f66d0",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-opening-sequence-winner",
-    "negRisk": true
-  },
-  "will-watch-me-by-yoasobi-witch-watch-win-best-anime-opening-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835750",
-    "conditionId": "0xd20b0621ab19d4a27a1418fac27fe9d0c44d2afbf4e2c7024a0705d42d9f6730",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-opening-sequence-winner",
-    "negRisk": true
-  },
-  "will-actor-by-lilas-ikuta-spy-x-family-season-3-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835782",
-    "conditionId": "0x706bbf89315e2679ec5ab4984afe48f9262fa73ce6e9059d10412e97fb77b44d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
-  },
-  "will-beautiful-colors-by-onerepublic-kaiju-no-8-season-2-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835783",
-    "conditionId": "0x3c0b96c08561b8bf888d66e40eeaeba658055e539c98b6a1788cb8e8ebda75eb",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
-  },
-  "will-doukashiteru-by-wurts-dan-da-dan-season-2-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835784",
-    "conditionId": "0xc8e06e7bd19a766ba4d72574661a1f96fae1bed1397a0c9078dc61d251510472",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
-  },
   "will-i-by-bump-of-chicken-my-hero-academia-final-season-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
     "id": "1835785",
     "conditionId": "0x8208a6072d6e03b6e63c3845b292ef21ee8ad1a165869176de8c2c9c17ca7eed",
@@ -88298,326 +87448,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
-  },
-  "will-kawaii-kaiwai-by-piki-my-dress-up-darling-season-2-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835786",
-    "conditionId": "0x384d733881483f249a2dba41f4be80f1d2d0bafce97274a699ad4d5f8e2d4297",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
-  },
-  "will-un-apex-by-tk-from-ling-tosite-sigure-solo-leveling-season-2-arise-from-the-shadow-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835787",
-    "conditionId": "0xcbf922ad91858f27604a17eb027e3b0d12da07a8a397762c4da03d8679b9f4ed",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
-  },
-  "will-aoi-yuki-as-maomao-the-apothecary-diaries-season-2-win-best-anime-voice-artist-performance-japanese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835807",
-    "conditionId": "0x8013bbafed4814aeb6399e59348284ce8cfcbe177eb698ff4c66bffa499f6ea7",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-japanese-winner",
-    "negRisk": true
-  },
-  "will-chiaki-kobayashi-as-yoshiki-tsujinaka-the-summer-hikaru-died-win-best-anime-voice-artist-performance-japanese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835808",
-    "conditionId": "0x0dc60c16a47134145d1a71a8c44576ea41aa311767a50440343a9b4bb4d677cf",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-japanese-winner",
-    "negRisk": true
-  },
-  "will-daiki-yamashita-as-izuku-midoriya-my-hero-academia-final-season-win-best-anime-voice-artist-performance-japanese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835809",
-    "conditionId": "0xe06043ee6cc74178bf11d23455ac0d79dd6c97d233dd29e6354786952c2e68c3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-japanese-winner",
-    "negRisk": true
-  },
-  "will-kikunosuke-toya-as-denji-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-japanese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835810",
-    "conditionId": "0xb702f82745481d026cf52001a5040617fd04c1d066730a839e8218bb450c9f67",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-japanese-winner",
-    "negRisk": true
-  },
-  "will-mayumi-tanaka-as-monkey-d-luffy-one-piece-win-best-anime-voice-artist-performance-japanese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835811",
-    "conditionId": "0x001ee2d63d5a0771403422afca3def78d2f275e08591fab8b55521c511f579b4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-japanese-winner",
-    "negRisk": true
-  },
-  "will-reina-ueda-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-japanese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835812",
-    "conditionId": "0x5d846ae07dca35f5c8bef26d9d2e915cd0ff673f29d8e0865779b65c550446e4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-japanese-winner",
-    "negRisk": true
-  },
-  "will-hamoud-abu-hassoun-as-loid-forger-childhood-spy-x-family-season-3-win-best-anime-voice-artist-performance-arabic-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835826",
-    "conditionId": "0xc86350acd1420fbc2d02f66ff28f1191e1bfb8daaa7713e81ac5871facec9fdf",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-arabic-winner",
-    "negRisk": true
-  },
-  "will-tariq-obaid-as-taro-sakamoto-sakamoto-days-win-best-anime-voice-artist-performance-arabic-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835827",
-    "conditionId": "0xf5cd5e7240bd75524e87c9e3a1389633b2162e70f779a538299c51e4dbc40357",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-arabic-winner",
-    "negRisk": true
-  },
-  "will-moataz-elshazly-as-heisuke-mashimo-sakamoto-days-win-best-anime-voice-artist-performance-arabic-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835828",
-    "conditionId": "0x88a9c58a0f81675b06f06ab22d20c13bad7b83ed69a6412f46889852663dcd69",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-arabic-winner",
-    "negRisk": true
-  },
-  "will-raafat-bazo-as-yuri-briar-spy-x-family-season-3-win-best-anime-voice-artist-performance-arabic-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835829",
-    "conditionId": "0x8b9b8621f7f68d4e273e441b57a585b919de6250db05e91b18dc97248aad48fa",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-arabic-winner",
-    "negRisk": true
-  },
-  "will-fatima-zakaria-as-osaragi-sakamoto-days-win-best-anime-voice-artist-performance-arabic-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835830",
-    "conditionId": "0xfceb2b92ef8c282fba1df6d81b71effacee6d6fadbd1a6c46447ffb0938e6725",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-arabic-winner",
-    "negRisk": true
-  },
-  "will-ghada-omar-as-yor-forger-spy-x-family-season-3-win-best-anime-voice-artist-performance-arabic-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835831",
-    "conditionId": "0xfe60da1f5c0befe8794560fa629b54f13c3feadd02876810e84dd014fd3298bf",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-arabic-winner",
-    "negRisk": true
-  },
-  "will-bruno-sangregrio-as-levi-ackerman-attack-on-titan-the-last-attack-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835858",
-    "conditionId": "0x7edd33a370f6c8eac0d5a0b76749de207a1bd37915dc62c3c0159be0d100d28a",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-brazilian-portuguese-winner",
-    "negRisk": true
-  },
-  "will-charles-emmanuel-as-akaza-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835859",
-    "conditionId": "0x02589a495bec6f59fcd636b48992231aabe1d4eb9a36120e7fa3c721d0e285fb",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-brazilian-portuguese-winner",
-    "negRisk": true
-  },
-  "will-erick-bougleux-as-zanka-nijiku-gachiakuta-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835860",
-    "conditionId": "0xd0cc800bda5f2970d3c377bd9e8609ef698f68b139abf010f67dc1d9351cb677",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-brazilian-portuguese-winner",
-    "negRisk": true
-  },
-  "will-fabio-lucindo-as-katsuki-bakugo-my-hero-academia-final-season-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835861",
-    "conditionId": "0x52556d7436d38d33d6e0e74362ca13d389ec3a0e676a39cf36b8a4edd051a475",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-brazilian-portuguese-winner",
-    "negRisk": true
-  },
-  "will-gigi-patta-as-maomao-the-apothecary-diaries-season-2-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835862",
-    "conditionId": "0xf145a55e2c7f4a4f759dd6d0587a1546017d733f331bd3576e1204c2696d982c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-brazilian-portuguese-winner",
-    "negRisk": true
-  },
-  "will-ursula-bezerra-as-son-goku-dragon-ball-daima-win-best-anime-voice-artist-performance-brazilian-portuguese-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835863",
-    "conditionId": "0x1bea7230158c312bd936f33ee182c7abc2832ce574e41106206477929a4e96c2",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-brazilian-portuguese-winner",
-    "negRisk": true
-  },
-  "will-adrin-pineda-as-rudo-gachiakuta-win-best-anime-voice-artist-performance-castilian-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835876",
-    "conditionId": "0x6c7fba078572023b455e1e0292c36cfe4ce46ca5a619d481b5ed99a8434c53dd",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-castilian-spanish-winner",
-    "negRisk": true
-  },
-  "will-carles-teruel-as-akaza-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-best-anime-voice-artist-performance-castilian-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835877",
-    "conditionId": "0xd92e4646b695e6633794259ddd2858626f9b3d61a1c1337578ada6e6e2280930",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-castilian-spanish-winner",
-    "negRisk": true
-  },
-  "will-cristina-pea-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-castilian-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835878",
-    "conditionId": "0x09b5e4979f6305999412eeccffee67a1945da0d0001d7ac3d1b2880a61722c63",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-castilian-spanish-winner",
-    "negRisk": true
-  },
-  "will-joel-gmez-jimnez-as-okarun-dan-da-dan-season-2-win-best-anime-voice-artist-performance-castilian-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835879",
-    "conditionId": "0x6bd947ab57dafff5885f9e39a0fe75fb030590a6d81029f42b1dc00f9166f672",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-castilian-spanish-winner",
-    "negRisk": true
-  },
-  "will-marisa-marciel-as-nami-one-piece-win-best-anime-voice-artist-performance-castilian-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835880",
-    "conditionId": "0x1c01d51c70d4820583f504a44c3a8e301d76352cb4ed292416da0b61f9c35060",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-castilian-spanish-winner",
-    "negRisk": true
-  },
-  "will-marta-barbar-as-kaoruko-waguri-the-fragrant-flower-blooms-with-dignity-win-best-anime-voice-artist-performance-castilian-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835881",
-    "conditionId": "0x63096b85dccd6f73b55bed5ad8fc8a1c4c3df2b40f47366d95ff14d60ba718a8",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-castilian-spanish-winner",
-    "negRisk": true
-  },
-  "will-alexis-tipton-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-english-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835894",
-    "conditionId": "0xc915c452b3b34ad3c78a7c3966cbe14406569ed3759aaf52e6947f365936d0c2",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-english-winner",
-    "negRisk": true
-  },
-  "will-emi-lo-as-maomao-the-apothecary-diaries-season-2-win-best-anime-voice-artist-performance-english-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835895",
-    "conditionId": "0xfc3119cb67f0b45abae0ede8be5a9b8242646cf6cd67600eefa9c9a71c9b55c3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-english-winner",
-    "negRisk": true
-  },
-  "will-justin-briner-as-izuku-midoriya-my-hero-academia-final-season-win-best-anime-voice-artist-performance-english-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835896",
-    "conditionId": "0x5d9222f0110d1ae4269c8e1fc8e5d24bfb930c2afd260e8c9f86f19a27426d59",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-english-winner",
-    "negRisk": true
-  },
-  "will-lucien-dodge-as-akaza-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-best-anime-voice-artist-performance-english-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835897",
-    "conditionId": "0xad7234ea06b25c2d98aa2e675f0d3cff8671edd88b8f1747170abc2bdb00a54d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-english-winner",
-    "negRisk": true
-  },
-  "will-morgan-berry-as-shiori-fuyumura-sanda-win-best-anime-voice-artist-performance-english-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835898",
-    "conditionId": "0x3446f0fb8e1d260b7479f1e1e5e15127c0420efc5510c7414763517b44c11fa8",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-english-winner",
-    "negRisk": true
-  },
-  "will-paul-castro-jr-as-hikaru-indou-the-summer-hikaru-died-win-best-anime-voice-artist-performance-english-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835899",
-    "conditionId": "0xafd119c725434e87411d407f3f521e9949dfc02cecafc8c68d91b2a0e38f901c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-english-winner",
     "negRisk": true
   },
   "will-ac-milan-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
@@ -88660,66 +87490,6 @@
     "eventSlug": "serie-a-team-to-qualify-for-uefa-champions-league",
     "negRisk": false
   },
-  "will-bastien-bourl-as-izuku-midoriya-my-hero-academia-final-season-win-best-anime-voice-artist-performance-french-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835939",
-    "conditionId": "0xedd30f03b56d1e7d422d50885fd0f78947b355fc84f2c68a49c585612cd7448d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-french-winner",
-    "negRisk": true
-  },
-  "will-bruno-mullenaerts-as-enjin-gachiakuta-win-best-anime-voice-artist-performance-french-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835940",
-    "conditionId": "0x207a535d3dd4f3b02102b4cdabe22d88ad6873743aafed71f2ee300be1bb9417",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-french-winner",
-    "negRisk": true
-  },
-  "will-catherine-hanotiau-as-nico-wakatsuki-witch-watch-win-best-anime-voice-artist-performance-french-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835941",
-    "conditionId": "0x4d760a9229914250eaee2b41ed2774889e83c7c7eefc9a0a8415a2f912b2c090",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-french-winner",
-    "negRisk": true
-  },
-  "will-clara-soares-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-french-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835942",
-    "conditionId": "0x50b8c649242620f478dd7e39d42ec8dbaa8f6b179f8020507c48602ee3041eec",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-french-winner",
-    "negRisk": true
-  },
-  "will-jonathan-gimbord-as-hikaru-the-summer-hikaru-died-win-best-anime-voice-artist-performance-french-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835943",
-    "conditionId": "0x486b0fa4724f684209a9824f97acf7e5bb9b661d777707192f33798dd9c6cbad",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-french-winner",
-    "negRisk": true
-  },
-  "will-vronique-augereau-as-seiko-dan-da-dan-season-2-win-best-anime-voice-artist-performance-french-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835944",
-    "conditionId": "0xb7965bd25f0eceda710029364fd851905832f5993e189cd8634b1323a99e1210",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-french-winner",
-    "negRisk": true
-  },
   "will-ac-milan-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1835994",
     "conditionId": "0x8a8ead8ae3f8e0c851116b864951eac3a07db2b586d950574917b4f49ef49e82",
@@ -88760,126 +87530,6 @@
     "eventSlug": "serie-a-team-to-qualify-for-uefa-europa-league",
     "negRisk": false
   },
-  "will-dirk-bublies-as-kogoro-mori-detective-conan-oneeyed-flashback-win-best-anime-voice-artist-performance-german-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836014",
-    "conditionId": "0xa68dd7a01c7feebe0913cdcea9fd0cc77e1a4579e4248c247a163a0a22490819",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-german-winner",
-    "negRisk": true
-  },
-  "will-gerrit-schmidtfo-as-akaza-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-best-anime-voice-artist-performance-german-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836015",
-    "conditionId": "0x794d1bf3cb7f25a0e6f46c451e0d654923f235e6fabfbf4f8257702a0a9adc12",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-german-winner",
-    "negRisk": true
-  },
-  "will-laurine-betz-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-german-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836016",
-    "conditionId": "0x70eb1f6002cff62193480fb0ee133b1ba44a81e8fab277415e833613b78739dc",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-german-winner",
-    "negRisk": true
-  },
-  "will-magdalena-hfner-as-kiui-watase-jellyfish-cant-swim-in-the-night-win-best-anime-voice-artist-performance-german-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836017",
-    "conditionId": "0xc3b0bb477c183a70f607ff9ee261e026ba3efdd5e3ac4e3d614a87f1277750b7",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-german-winner",
-    "negRisk": true
-  },
-  "will-markus-feustel-as-rudo-gachiakuta-win-best-anime-voice-artist-performance-german-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836018",
-    "conditionId": "0xa58189fdc2642f9133a70e9b4c16f10d06baf5e2c50f17e1063fa6b80fe39d0c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-german-winner",
-    "negRisk": true
-  },
-  "will-patricia-strasburger-as-nico-wakatsuki-witch-watch-win-best-anime-voice-artist-performance-german-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836019",
-    "conditionId": "0xc354ba5375f2df450ac34a97f27bd8f7bb6908426c36351ffaa4b19fcedb29ee",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-german-winner",
-    "negRisk": true
-  },
-  "will-abhishek-sharma-as-jinshi-the-apothecary-diaries-season-2-win-best-anime-voice-artist-performance-hindi-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836039",
-    "conditionId": "0x9194c9ab86019ed79747b9718170580c802df30d750420f63bb8d17d3ebf2aa2",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-hindi-winner",
-    "negRisk": true
-  },
-  "will-akshita-mishra-as-koyuki-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-best-anime-voice-artist-performance-hindi-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836040",
-    "conditionId": "0x807f431074b4440d666dade2c2670f6a6975a97f8c0a141b7a288cf1bc9344f4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-hindi-winner",
-    "negRisk": true
-  },
-  "will-heena-malik-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-hindi-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836041",
-    "conditionId": "0x98772efa2d68876be65420bacab8095c7a2e9ad5f6ce8158a70d8ffc82ae834c",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-hindi-winner",
-    "negRisk": true
-  },
-  "will-merlyn-james-as-anya-forger-spy-x-family-season-3-win-best-anime-voice-artist-performance-hindi-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836042",
-    "conditionId": "0x58555276fb1d51c68b6f7e8e9e2bb36e309c4fd9ee66d3dd512f2f69440b9b2e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-hindi-winner",
-    "negRisk": true
-  },
-  "will-rajesh-shukla-as-sung-jinwoo-solo-leveling-season-2-arise-from-the-shadow-win-best-anime-voice-artist-performance-hindi-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836043",
-    "conditionId": "0x735d5e04468712ff6e21431a33960f572c3a48b37ee37bcfada40685be55391d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-hindi-winner",
-    "negRisk": true
-  },
-  "will-shilpie-pandey-as-lufas-maphaahl-a-wild-last-boss-appeared-win-best-anime-voice-artist-performance-hindi-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836044",
-    "conditionId": "0x3a1b76f42a24c17172f85de52bd43ca765dd37e28c4d51849736c10467338114",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-hindi-winner",
-    "negRisk": true
-  },
   "will-atalanta-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1836058",
     "conditionId": "0x8a0615b436f772be0d6cfa88b5ca677ce4dd7964130941819d2e3f0a83f63758",
@@ -88889,126 +87539,6 @@
     "acceptingOrders": true,
     "eventSlug": "serie-a-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
-  },
-  "will-katia-sorrentino-as-momo-dan-da-dan-season-2-win-best-anime-voice-artist-performance-italian-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836209",
-    "conditionId": "0x6a33a118fdf69377e46a44c30e0ee984ad338c9b42b2e77282fc88be42cdb3c9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-italian-winner",
-    "negRisk": true
-  },
-  "will-leonardo-graziano-as-naruto-uzumaki-boruto-naruto-the-movie-win-best-anime-voice-artist-performance-italian-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836210",
-    "conditionId": "0x0e0a1c60e99c973bdb051b2b64b4631ed877c3c7185d9cade74244e53ccee80d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-italian-winner",
-    "negRisk": true
-  },
-  "will-luna-fogu-as-maomao-the-apothecary-diaries-season-2-win-best-anime-voice-artist-performance-italian-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836211",
-    "conditionId": "0xae3d7dea055f7a8f7b5a668138427b0cdcce87832e32ee155f5b3ad27a3661a3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-italian-winner",
-    "negRisk": true
-  },
-  "will-martina-tamburello-as-kikoru-shinomiya-kaiju-no-8-season-2-win-best-anime-voice-artist-performance-italian-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836212",
-    "conditionId": "0xe5931567aee7efdd5deeaba97f624477b18b787507d8ddb6ae89a46a219c9fbc",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-italian-winner",
-    "negRisk": true
-  },
-  "will-mos-singh-as-denji-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-italian-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836213",
-    "conditionId": "0x1982c6d6dd6d4e36d1f1d96f934271ba86a413e75da570c99cd52ffb95a7e165",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-italian-winner",
-    "negRisk": true
-  },
-  "will-simone-lupinacci-as-izuku-midoriya-my-hero-academia-final-season-win-best-anime-voice-artist-performance-italian-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836214",
-    "conditionId": "0x6daec47b64b0ff955dd7eb689e01a9ff0595d74c52a6297b2553fca2551aee87",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-italian-winner",
-    "negRisk": true
-  },
-  "will-desire-gonzlez-as-maomao-the-apothecary-diaries-season-2-win-best-anime-voice-artist-performance-latin-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836241",
-    "conditionId": "0x0047b79bde0b22d1fcb8940dab56a03b05f723d72d0e9e32192913b213344656",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-latin-spanish-winner",
-    "negRisk": true
-  },
-  "will-dion-gonzlez-as-rudo-gachiakuta-win-best-anime-voice-artist-performance-latin-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836242",
-    "conditionId": "0x749e57a26e2f35b8ec4d1839cf6426a958ed739a11b6d34a950313bab85d5533",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-latin-spanish-winner",
-    "negRisk": true
-  },
-  "will-erika-langarica-as-marin-kitagawa-my-dress-up-darling-season-2-win-best-anime-voice-artist-performance-latin-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836243",
-    "conditionId": "0x67d8fdc9fd059f86e981cb4c527b18b09004d3e26e077cb8f9e1a51fd3ab03a5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-latin-spanish-winner",
-    "negRisk": true
-  },
-  "will-fernando-moctezuma-as-sung-jinwoo-solo-leveling-season-2-arise-from-the-shadow-win-best-anime-voice-artist-performance-latin-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836244",
-    "conditionId": "0x7b7526fc12556945bf8bb8bdcff43b05e1ca8189045796c43d0a9fe6342921ae",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-latin-spanish-winner",
-    "negRisk": true
-  },
-  "will-jessica-ngeles-as-reze-chainsaw-man-the-movie-reze-arc-win-best-anime-voice-artist-performance-latin-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836245",
-    "conditionId": "0x8a0d10eaa905f2d95116e9483272e5f90a731a0403fc4f269932cabff897dfd9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-latin-spanish-winner",
-    "negRisk": true
-  },
-  "will-jose-antonio-toledano-as-akaza-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-best-anime-voice-artist-performance-latin-spanish-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1836246",
-    "conditionId": "0x69ed964590a082c83cf0be716669ed5cdb8712605268d8d7e191b1ab908462fd",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-voice-artist-performance-latin-spanish-winner",
-    "negRisk": true
   },
   "will-lecce-place-17th-for-the-2025-26-serie-a-season": {
     "id": "1836272",
@@ -119600,5 +118130,1475 @@
     "acceptingOrders": true,
     "eventSlug": "2026-fifa-world-cup-top-goalscorer",
     "negRisk": true
+  },
+  "will-noah-okafor-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069643",
+    "conditionId": "0xbfabd0d5b1aadbc22c9b115d0471591b2f512003a3fba918eb132d425a983a18",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-edin-deko-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069644",
+    "conditionId": "0xa8aae4584658fae4462008318929564159f44385f37f01e758d31714c00b95fa",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-scott-mctominay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069645",
+    "conditionId": "0x16b5e52abaa4e619c8bd46dd86bac1822077459c4674a5f42376730c79eb446b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069646",
+    "conditionId": "0x4264ed4b4c8c98a6da4aaf3a4eaaa6c9d1b6b67055e47f77997802979698602d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-rodrygo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069647",
+    "conditionId": "0xacf12709f9401864eefaf79ea3c85b649db1b05faf131ac0d9ac7c215ede0dfa",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-igor-thiago-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069648",
+    "conditionId": "0x9b21cf64d79319aa8f7cfdd480bec7356190354da2f581383245ace71d940e69",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-deniz-undav-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069649",
+    "conditionId": "0x0606faf1617005ffacd7776b75c0fa81e251ad5f1f0bcc040acef4c9725d72d4",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-serge-gnabry-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069650",
+    "conditionId": "0x0c03f45ca5053de6a7bb9716cdd24376a8953154b788519a3d26b09b711c0365",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-amad-diallo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069651",
+    "conditionId": "0xe838b6a44d5ecaa2605ddc5d516679119a1a557b115d930bf73eea2d341fa973",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-viktor-gykeres-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069652",
+    "conditionId": "0xb6194e4c7ea15433c5f892b38397cd437e6a0a95056e38d9a3ef268f9662f101",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-depay-memphis-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069653",
+    "conditionId": "0x61c25d5a2b125ef85a6e45d0b0ba533d9721f04608f55f82f9c21f705ce638c7",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-cody-gakpo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069654",
+    "conditionId": "0x4bcc3bab5a77e2d377e5e1f96c87361b8a875d1c71a474c1b81ef1827683d2e4",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-mohamed-salah-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069655",
+    "conditionId": "0xdf60bb828711c7a9b60c7aea232d981959b461165844819cfca5312dd9689a33",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-ferran-torres-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069656",
+    "conditionId": "0x4a6fd3438ea67c71c56d1fb2613b83d617e0ae5c6496550c0a90cbf780297728",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-dani-olmo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069657",
+    "conditionId": "0xa7bcd5ac728b7f8afe40fc3e08b65c799d661122243b861110297765084d8731",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-marcus-thuram-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069658",
+    "conditionId": "0xb7b8304ad637aba0995ba75b3230086d86f9fcb7a6b5f3ae96a75e73eacfd309",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-desire-doue-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069659",
+    "conditionId": "0x96b3985a648e790f3a6bcdf544f92fe490c29944f06711a2fae35cfb3760e5a3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-ousmane-dembele-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069660",
+    "conditionId": "0x624517215cc5c73eec1ff74db2ef92bf798fac6b61cd00d11a05418520290f69",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-bradley-barcola-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069661",
+    "conditionId": "0x7fe6ad9149fc7092f5ee6fc6290b852293706dcbb42963299a188a688603653e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-michael-olise-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069662",
+    "conditionId": "0x8a743d2c48a6ffc5763e2209d4cf1053ccbae1a6eb80cc33bd702a3fe4b10156",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-sadio-mane-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069663",
+    "conditionId": "0x546ddee37dde18e958c08d88048743208989c741b22b8c329fcaf9ccccc7efc6",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-luis-diaz-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069664",
+    "conditionId": "0x74cff4f2fa829c29f677232157c2793bb8b1ee836c9978ffe9e426182cc7244f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-rafael-leao-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069665",
+    "conditionId": "0x673660084bc702185ae9537b0cfbbc2800c033a22b08bca758be4a144aed6652",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-ivan-perii-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069666",
+    "conditionId": "0xe54b91e41bd3a69f05260ef18e9007802dca9511e7ef91219468e7f7ee769454",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-julian-alvarez-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069667",
+    "conditionId": "0xff8763ee77aec9cc4223cd429c726d35877ddcc47da679d6428510a929286ad1",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-andrej-kramari-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069668",
+    "conditionId": "0xc298bd5e28bbd966289856250ded91c8faf40abbce1e1ecc254f5c4217ec7d62",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-bukayo-saka-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069669",
+    "conditionId": "0x628b31594cadce2e57764e779fd7ecaf8fc754ddf971064b505e3eabdde71e11",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-harry-kane-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069670",
+    "conditionId": "0xb9caf777115e4f38eb4e2de7fab3e88052b92a78f161f91db232be31a93d1e3e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-antoine-semenyo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069672",
+    "conditionId": "0x7c2301a75d9041d4b25eca0d80970cf8216619ee38e6a8a506e9ca6a6cfecc7b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-lautaro-martinez-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069673",
+    "conditionId": "0xd2828d51d403c9317a50226752257eb5f4e9f85bb49ad6a191e5fba6eceb781c",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-mikel-oyarzabal-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069674",
+    "conditionId": "0xeefef4320deec275a7191ad901469eec59544dc1fd53fed93f6d3b97c33787a5",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-bruno-fernandes-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069675",
+    "conditionId": "0xc6c32760ae1745e223794ba2bacf00db770e31705f9b93766b5b11dcf67d43c8",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069676",
+    "conditionId": "0xa80c60c7d6bc7e5beb94f095e2ad56afc96e54bd267395ccaf61ee89168821fd",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-pedri-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069677",
+    "conditionId": "0xc670e80dbb80ba2d33afcfa51d8ec385a3ffaadebdcaf8187e6eb5d14f2289bb",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-dion-beljo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069678",
+    "conditionId": "0xf885ba5bda0faa612e38f1326d1865cbdd6ea2d2059727c90ff891095d140061",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-luis-javier-surez-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069679",
+    "conditionId": "0x8a6249766ee1744e1f2bb84b2a04f4b0c041414f4049532c3747068ada9eff5e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-top-goalscorer",
+    "negRisk": true
+  },
+  "will-the-us-economy-be-in-a-soft-landing-at-the-end-of-2026": {
+    "id": "2069847",
+    "conditionId": "0x50e3ee8f93a464d04ea2cea6efff45c902f43642aedbf43f7afdc899e10f71d8",
+    "endDate": "2027-01-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-economic-state-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-the-us-economy-be-in-stagflation-at-the-end-of-2026": {
+    "id": "2069848",
+    "conditionId": "0x9b1804352d6246bc8b609bc05a3021134269c133bda15e76e05f844539b59774",
+    "endDate": "2027-01-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-economic-state-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-the-us-economy-be-overheating-at-the-end-of-2026": {
+    "id": "2069849",
+    "conditionId": "0x4e54fc57fcd566b9c7a25fe7a6ed9596ffe1eb95489ba25575b1c4af0ac798f6",
+    "endDate": "2027-01-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-economic-state-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-the-us-economy-have-slack-at-the-end-of-2026": {
+    "id": "2069850",
+    "conditionId": "0x53ba15f24a0194c2ef422cc023d26e86ab03a7fd36a62cb8c0eacf5c2a22cae0",
+    "endDate": "2027-01-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-economic-state-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-nathalie-arthaud-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2069953",
+    "conditionId": "0x1c15916bb5d6edf0b8356181002ed964cd4e50da6a1a87b77d46f29ce73d4b63",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-delphine-batho-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2069961",
+    "conditionId": "0xe2cdfffbca06f511f8f485e79e70994f91234c4d2de5a74bcb6cef8e4a72edaa",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-ronaldo-play-with-ronaldo-jr-before-the-end-of-2026": {
+    "id": "2069962",
+    "conditionId": "0x5594f3e20eafe1539e71409989ca9cbf30acd7b07a6f779cc13f99b2e1be2583",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ronaldo-play-with-ronaldo-jr-before-the-end-of-2026",
+    "negRisk": false
+  },
+  "will-jrme-guedj-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2069963",
+    "conditionId": "0xf68b70ff2188b785d49fb999046a72d1071c38fb279ed31a3cb3dcee87306b27",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-karim-bouamrane-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2069978",
+    "conditionId": "0xe2dc926b0f11206e7eb2b5983a408ffac49ccc02cc4484afc7437dad55b001c7",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-michel-edouard-leclerc-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2069984",
+    "conditionId": "0xedc7ce7e9c2afd7160dfa81e799c687e5ac1e3e53005025c7522f2111672cd69",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-manuel-valls-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2070028",
+    "conditionId": "0xd327d806157611cd81f511f331501f4ab1ec66c9c3f55484987f9ce89262224d",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-teddy-riner-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2070036",
+    "conditionId": "0x4a467cd0e45358dfc86a1be7e9a7ecf1c0a563e3535f8cf6690bfa358a1cbf6f",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-matthieu-pigasse-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2070037",
+    "conditionId": "0x719d9b3624af598ee62c011430d36ab69a70e620342a3b7ef57f3bc245d91b0a",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-juan-branco-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2070038",
+    "conditionId": "0xd48be361d89a841204a05da851cdcfe66699d7fd813fbc1e24c8ba6deffba7cb",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-philippe-de-villiers-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2070039",
+    "conditionId": "0x6988d0084ffd4bf8a7af5f8ffaa39bd18951a946875e5173d84342ac8520aab3",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-bally-bagayoko-be-on-the-ballot-for-the-2027-french-presidential-election": {
+    "id": "2070047",
+    "conditionId": "0x0a85a041438ba6373149862bcac7af4f42f1702fa9dfc8c14134880a0c951a69",
+    "endDate": "2027-04-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+    "negRisk": false
+  },
+  "will-alibaba-have-the-best-ai-model-at-the-end-of-may-2026-246": {
+    "id": "2070087",
+    "conditionId": "0xef2bd56ef760e2ef54bfa47bfe99347db9be6bf7586501c1fde233385d0b1f6a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-bytedance-have-the-best-ai-model-at-the-end-of-may-2026-463": {
+    "id": "2070088",
+    "conditionId": "0x370670e9a47a793c3d41b0fa80625b3e32b085d6a3460db389b7e82a9530d700",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-baidu-have-the-best-ai-model-at-the-end-of-may-2026-171": {
+    "id": "2070089",
+    "conditionId": "0xdd1c5c73140f0e2c4421ce87768749283ccf47ef162ae01a63614ebfc8c426d5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-moonshot-have-the-best-ai-model-at-the-end-of-may-2026-919": {
+    "id": "2070090",
+    "conditionId": "0xe011a6e7f20812b27f1353860148fb20af6ba889c6dacf0bee7a6e5925e31cbe",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-zai-have-the-best-ai-model-at-the-end-of-may-2026-481": {
+    "id": "2070091",
+    "conditionId": "0x5dc25e6569aaf980f2ba0972fbb3cd862c22c6dad363b1e0cb150e6250fc480f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-deepseek-have-the-best-ai-model-at-the-end-of-may-2026-853": {
+    "id": "2070092",
+    "conditionId": "0x9bfc3cfdfeb5959d703df4544d7d15bdb779febb102dff5a4b731e28c7e0f307",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-meituan-have-the-best-ai-model-at-the-end-of-may-2026-276": {
+    "id": "2070093",
+    "conditionId": "0x2ae21222651ad412af93fb908e9a4b02471d4a9074d4f5dc1dd869175dd3d5af",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-xiaomi-have-the-best-ai-model-at-the-end-of-may-2026": {
+    "id": "2070094",
+    "conditionId": "0xdbef16e38bc711be4cd624988bb77dfd3ca1961ca00caa930e4f97a10a774664",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-stepfun-have-the-best-ai-model-at-the-end-of-may-2026": {
+    "id": "2070096",
+    "conditionId": "0xea07bd440faa9dddc675a46e81b503d588a082ecf64de06ca3360164a4747174",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-tencent-have-the-best-ai-model-at-the-end-of-may-2026": {
+    "id": "2070097",
+    "conditionId": "0xc565e24bb040b2932ff2afa53dbb1ad95a82f2639856e5c1f2d78fb945c1e33d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-minimax-have-the-best-ai-model-at-the-end-of-may-2026": {
+    "id": "2070098",
+    "conditionId": "0xd3d49787699eccf221e0b6408ce2915f742d40723b35bfd7363b64c6aa9a3d20",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "best-chinese-ai-company-end-of-may",
+    "negRisk": true
+  },
+  "will-anthropic-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070206",
+    "conditionId": "0x19f7792ca8455d2c005b26d10053428001a8bc888d792d1a43d4fa77654fa900",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-google-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070207",
+    "conditionId": "0xac2d17e58ae62e554f182b21b193eb324abe7fd3840f1b9a84387eda65c8f179",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-openai-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070208",
+    "conditionId": "0x1e25af09977c289b206fc692fe3360543ab801755239585266d41764cea99b90",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-alibaba-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070209",
+    "conditionId": "0x355ef18c45bdfff620de30cfe319b7c66cf97beee92ee47979bd1d3b776fb9e5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-xai-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070210",
+    "conditionId": "0x2ac5c0b8aa2384ae1c9e6292e78e011b6c3ce255e9a2019177a3cb5bd7ea7614",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-bytedance-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070211",
+    "conditionId": "0xc1c6cb04f90ab0ec2bbdd442b07f57cc95808e853b473bb91e2a8b9da94c1ed8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-baidu-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070212",
+    "conditionId": "0x1f26128487f62adfa31a918471d4a9136b706ea0c1ebca00d2cda9d82b2ab8b5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-moonshot-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070213",
+    "conditionId": "0x393ec7221e9bfb0ac4b27557a59f6950bf851ee4431cabe4726476b20a95d091",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-amazon-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070214",
+    "conditionId": "0x9f23be8be1306c74d6cf0db5614947ddbae97b6065fef5ac6134f50ccce0f1b5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-zai-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070215",
+    "conditionId": "0x5ee1228e2eb4f59e6d7f28addd190ff9f527e33866f2615d7c61158277ca83f8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-mistral-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070216",
+    "conditionId": "0x645d5c4bf5ffe1de180be62917e3ddae46f884331b4d998f086dec7e22a1f845",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-deepseek-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070217",
+    "conditionId": "0x6e6f81f800723193bd42259663f1e8e2b2a535175a57ef2aa9ce3fb151e4ed35",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-meituan-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070218",
+    "conditionId": "0x9ee347b589e3c59171c91c5c7053589c1e5ea61cf71f8cf42b6e5eae11cbda70",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-meta-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070219",
+    "conditionId": "0x449da294332aab63365f580d226f192abb1e5db9e5f754f14094c81fce9ff141",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-microsoft-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070220",
+    "conditionId": "0x56ee1390311bb13a1775cf8fb2c273d790566837b1037b72f0f013bb00dd3268",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-anthropic-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070249",
+    "conditionId": "0x934401f3221133fba197037b50d33ea264a4b166ce58690bce39554abdcceed9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-google-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070250",
+    "conditionId": "0x379c41d83a0e8cf23265fee3314386117094e464643a1cccfb9c3d67fca681b8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-openai-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070251",
+    "conditionId": "0x9285f33233b75dde8b2e109c0f3e32ffbb8c863260988c395322ab3e249a879e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-alibaba-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070252",
+    "conditionId": "0x554b7c5817b68846e14a4cc609b0b0e297edc9cdcf89d64bb0c76865363ec65a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-xai-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070253",
+    "conditionId": "0xf20ac95702d52b38d90818cb81cca643831dfcfe244dd201a3ba8a62810fd7b4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-bytedance-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070254",
+    "conditionId": "0x12769a1940e97ae47319323d32fff7f3e1d2eaefcffbe351fb0a4437e9fd4586",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-baidu-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070255",
+    "conditionId": "0xdfab5df483ad14e914c3d371fb9a14736bcbdeaeb17d07f2869ca7efb2ebd9a8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-moonshot-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070256",
+    "conditionId": "0x156cfadce96510455e6e1b37a770806ab5bc8afe665dc5d4aaa42379d59d743d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-amazon-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070257",
+    "conditionId": "0xc3d47dde691ab6f5043d3ea64b3a5847c94158a39f96b7a20c3bb10aacc9ba1f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-zai-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070258",
+    "conditionId": "0xc22b83a7a50b040fcc20d8847c3be1ef2b31252f3ddf0fa9967fe9a350030096",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-mistral-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070259",
+    "conditionId": "0x4fb449414edacdc96e9256794d947241c45d9205c9c0e5b2a3a6920ad23ee70d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-deepseek-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070260",
+    "conditionId": "0x0f9cbde9628509238afdfec1bb67f7ac37a80ecfe21b6fb9c5e87073ca8d5bfb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-meituan-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070261",
+    "conditionId": "0xe7fccca4410cc3289e2196e4470d80ff67746c615af65ff6fee58d9a4205d5af",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-meta-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070262",
+    "conditionId": "0x55356b779ac1f904a00290247318cdcb327daa54d4253c1470d3dbbe46706e56",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-microsoft-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
+    "id": "2070263",
+    "conditionId": "0x9480797e9f46e7f289885b96f18900b4e3d685ae631c3df2e40aadf1e28dd8bf",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-anthropic-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070336",
+    "conditionId": "0xf5eed5d402c85807bede0e4b9169173e48c5ba42879da524cc03ad35092c7995",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-google-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070337",
+    "conditionId": "0xb45bcc8c4580c1c015f6e17c5bd13e2fa31c27920cafe3ddbf59b4b5fbd526f2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-openai-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070338",
+    "conditionId": "0xb833e3aba09dc39808c66bbac2ddea4345d0d44b6d9595f35b549f51aaf40a5d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-alibaba-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070339",
+    "conditionId": "0xfcd7d9e6a602041813f2f56c467f174959d0068c22f6147e122a941ad30fdbc6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-xai-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070340",
+    "conditionId": "0x195640b227530d45ec159b0645310bcbd4659f8c23009ec7ecd23fdb434aa44b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-bytedance-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070341",
+    "conditionId": "0x0b278cab227996b9b3275551a858e85c648e5d9a0ddc767a5af2688ca58857f7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-baidu-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070342",
+    "conditionId": "0xc3e00fab310b79b397823f987eb4ab0496c25cbcbbc3b5e4ec66eb3a1d24a8b9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-moonshot-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070343",
+    "conditionId": "0xb08cb465b8edd44c08c5c66193a4b37366d9a5c5eb27188a5cb4c8a6082769b0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-amazon-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070344",
+    "conditionId": "0x54b0a235bcce3a030828a9d9133fef93143347f8a0e4316bc343342b1138a5ae",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-zai-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070345",
+    "conditionId": "0xa40e927b4adb3ad4c73c02b4f164658ebd3d57be14d57dcc2fd468811dbf09db",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-mistral-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070346",
+    "conditionId": "0xffaad2035d665d2e9682dc1452a6f48bc580b6f7c34de27286329a5fe5d5795e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-deepseek-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070347",
+    "conditionId": "0xf0a628bb898828c183e1e378075457c8ed2563b3b50803851cfe947318820df5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-meituan-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070348",
+    "conditionId": "0xa5d9e160d91440a62fdbb5d3009de19d1f5ead4c7a13e48e949b4585ad0b5b33",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-meta-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070349",
+    "conditionId": "0xa7a944727c0d1a45e6b3b8afd7b39e9ac1f8e6d9ac453903cf9e0622b3be29a3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "will-microsoft-have-the-best-math-ai-model-at-the-end-of-may-2026": {
+    "id": "2070350",
+    "conditionId": "0x465bf31114d5b992cafbc0b7b5f2dab6aefba9d214d1cf945ddee5f17b0d582f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
+    "negRisk": true
+  },
+  "critical-discord-incident-by-may-31": {
+    "id": "2070431",
+    "conditionId": "0x534416d066d87af2749f669173847635cc7b812035d0398cc063a153fee251d0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "critical-discord-incident-by-may-31",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-ant": {
+    "id": "2070543",
+    "conditionId": "0xb502f4db59beae49cc508e267b7a92bb52881bf5ed8070b4cc70f1a5ce4f27e1",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-draw": {
+    "id": "2070544",
+    "conditionId": "0xc592417931d9ce730562627de4a1bd651ce582098fa9ec4b7e371c9de9511498",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-abb": {
+    "id": "2070545",
+    "conditionId": "0x64ec54c25a8cbb58877a6616a79583349b764105aa788ec33dddb1e81b0eb438",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22",
+    "negRisk": true
+  },
+  "will-there-be-at-least-2000-measles-cases-in-the-us-by-may-31-2026-483-684-323-237": {
+    "id": "2070602",
+    "conditionId": "0x0d2c9b8bbc81ef294b72a82db21b85dafaab1dbf9f7c1e3aebe531ad7bfc8e2e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "measles-cases-in-us-by-may-31",
+    "negRisk": false
+  },
+  "will-there-be-at-least-2200-measles-cases-in-the-us-by-may-31-2026-286-756-975-169": {
+    "id": "2070603",
+    "conditionId": "0x4099154492fe263d61daf66377d25f9a260aa70d00b7aae48d2b2a4463baa29c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "measles-cases-in-us-by-may-31",
+    "negRisk": false
+  },
+  "will-there-be-at-least-2400-measles-cases-in-the-us-by-may-31-2026-186-721-474-844": {
+    "id": "2070604",
+    "conditionId": "0xf810fcc5fef5ecce25c9b73a7bff33c3344f211446d50871f2a97eec53106104",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "measles-cases-in-us-by-may-31",
+    "negRisk": false
+  },
+  "will-there-be-fewer-than-2-days-on-which-north-korea-launches-missiles-in-may-2026": {
+    "id": "2070666",
+    "conditionId": "0x1a075af3720a6c2254646b99d1317b7b20c29d428c1ccba26bad9894da0d716c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "number-of-north-korea-missile-tests-in-may-2026",
+    "negRisk": true
+  },
+  "will-there-be-23-days-on-which-north-korea-launches-missiles-in-may-2026": {
+    "id": "2070667",
+    "conditionId": "0xee82580f50223bb0f6389da8638f4ffcde6ce0f0128f05e3eb7abe21d1bf0b06",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "number-of-north-korea-missile-tests-in-may-2026",
+    "negRisk": true
+  },
+  "will-there-be-4-or-more-days-on-which-north-korea-launches-missiles-in-may-2026": {
+    "id": "2070668",
+    "conditionId": "0xbbe13153c4a840fecbefbe7db00bfd281ed3a484010d4c21673f6b50fe813913",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "number-of-north-korea-missile-tests-in-may-2026",
+    "negRisk": true
+  },
+  "will-mexico-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070731",
+    "conditionId": "0x765c607f355d16dcab5ac2cdd29a37779d1428a071b866bf767badc62346ec6c",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-south-korea-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070732",
+    "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-south-africa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070733",
+    "conditionId": "0x601d0d0b6e93e27832d2ecf4482e4fe9fed604cd0a29e7962b09a1d764fb4250",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-czechia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070734",
+    "conditionId": "0x390b496499262807b909b58a9aaa95f6ae0b322d4a324531a3e97b2937904eda",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-canada-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070735",
+    "conditionId": "0x655712b319987805e573590082fbe8bd688f64fb5fc53b8516d397763e6b3cf4",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-switzerland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070736",
+    "conditionId": "0xeea6fafcf500f582bf1999d504b769befcceb645a7ed46c29aeb901d0ea29baf",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-qatar-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070737",
+    "conditionId": "0x3a6c34249d718a5bff78608e20b5cddefe722b73d5515524779747afb9c2a068",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-bosnia-and-herzegovina-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070738",
+    "conditionId": "0x9a2b2aeccf873af12a6171722d70d86e458492424a7adb700b011ca3b7cc28e7",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-brazil-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070739",
+    "conditionId": "0xbc94d393aa6c0c1a3c8c23f0ab2f45e95d05cfd50266a993c582e84c5117d984",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-morocco-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070740",
+    "conditionId": "0x6ad7d53bc2a42daa2b9625eebf9651fd3aac1286078697182a3d1dc3bbd70173",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-scotland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070741",
+    "conditionId": "0x73f6028060ff88ff0369307f2c45dde79a5e7d7c437c4987638def21d065bac7",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-haiti-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070742",
+    "conditionId": "0x5ea45b0916e7ff547035047d0bd72502c1d1431c6196215f532741e14f997317",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-usa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070743",
+    "conditionId": "0x6bac5bbce7d0ef0a0e036fea1eb9ec66835c9795a553e766fa305b3a8b065d93",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-australia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070744",
+    "conditionId": "0x38f5caccf3b53ef5abeb0056838e4e5df3f000e97a4fad7eb55431781b427d2c",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-paraguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070745",
+    "conditionId": "0x0cbb73759bb6ad83040cc6edb908a7dbd51855618082d2f5dd3b58937a79b306",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-turkiye-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070746",
+    "conditionId": "0x8c28874af6349a7e58f30909eecac5197bfdaa033b03ad98510853958ee41558",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-germany-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070747",
+    "conditionId": "0xb8316d5b3cbd3a92e130a27a93c8eaf8faa29a09b3b3287787b621686889f9f5",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-ecuador-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070748",
+    "conditionId": "0x8d84206ebda85fe26ac0f413f463c7029887a95c5bbc344e266bf4f0a0c2659d",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-ivory-coast-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070749",
+    "conditionId": "0xf1b5eddb0ee3c3398c161f731d21f170342feb192f7c0263d9baa7cbb6c1c31b",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-curacao-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070750",
+    "conditionId": "0x62623e36db475ec25adf71f602ec64dab863e906365e7b27804f8e72a85e7dbe",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-netherlands-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070751",
+    "conditionId": "0x2deac4e9149d7933e977be2a572b46d427b5b52308553e385a42c8e9855ba536",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-japan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070752",
+    "conditionId": "0x9e91380150cd0739da220168cfc99a129a7b6f7dd89e28ae48ae60e5749ca699",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-tunisia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070753",
+    "conditionId": "0xebbdac391050303b03d01e3f53ee84050698d01a04dbeace9ecda45daef6fb4d",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-sweden-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070754",
+    "conditionId": "0xbea8b7504ec86c42abb39512b385c4dc695ba6c1d3f4d3aa9dd0ceddb0957338",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-belgium-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070755",
+    "conditionId": "0xc0d63027b98472e48bacae3726cb9cd1929f0c31f91a791b6d5e773b390a3238",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-iran-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070756",
+    "conditionId": "0xc2fcce9165ac160807304db5dc0ec730dfd6d17c02a23c0dafce10a471833725",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-egypt-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070757",
+    "conditionId": "0x19eff468ad0ffce9ade9f41d3d323c42e48981a28772b47618d4ef77c7333c55",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-new-zealand-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070758",
+    "conditionId": "0x46d7512f30ec5b01e8194cf42457a041ca9bf675e4f58b32edcde8b3c431d18a",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-spain-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070759",
+    "conditionId": "0xbdb9f8af2767fa217f65b2a970a9ec46f88fcf3a96e94421a3b51bc8cda1e12a",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
   }
 }
