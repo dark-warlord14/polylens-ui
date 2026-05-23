@@ -2,7 +2,7 @@
 // Track recommendation quality over time.
 //
 // Usage:
-//   node roi_ledger.js add --slug SLUG --bet Yes --entry 0.78 --fair 0.86 --risk LOW [--close 0.82] [--resolved 1]
+//   node roi_ledger.js add --slug SLUG --bet Yes --entry 0.78 --fair 0.86 --risk LOW [--capital-days 2] [--ev-day 0.03] [--close 0.82] [--resolved 1]
 //   node roi_ledger.js report
 
 const fs = require('fs');
@@ -27,7 +27,7 @@ function num(flag) {
 
 function usage(exitCode = 1) {
   console.error(`Usage:
-  node roi_ledger.js add --slug SLUG --bet OUTCOME --entry 0.78 --fair 0.86 --risk LOW [--title TEXT] [--category TEXT] [--url URL] [--close 0.82] [--resolved 1]
+  node roi_ledger.js add --slug SLUG --bet OUTCOME --entry 0.78 --fair 0.86 --risk LOW [--title TEXT] [--category TEXT] [--capital-days 2] [--ev-day 0.03] [--url URL] [--close 0.82] [--resolved 1]
   node roi_ledger.js report`);
   process.exit(exitCode);
 }
@@ -63,9 +63,12 @@ function addRow() {
     fair,
     edge_pp: (fair - entry) * 100,
     ev_per_dollar: fair / entry - 1,
+    capital_horizon_days: num('--capital-days'),
+    ev_per_day: num('--ev-day'),
     close: num('--close'),
     resolved: num('--resolved'),
     url: get('--url'),
+    strategy: get('--strategy', 'capital-roi'),
     source: get('--source', 'skill-recommendation'),
   };
 
@@ -84,6 +87,8 @@ function average(values) {
 function summarize(name, rows) {
   const avgEdge = average(rows.map(r => r.edge_pp));
   const avgEv = average(rows.map(r => r.ev_per_dollar));
+  const avgEvDay = average(rows.map(r => r.ev_per_day));
+  const avgCapitalDays = average(rows.map(r => r.capital_horizon_days));
   const withClose = rows.filter(r => Number.isFinite(r.close));
   const avgClv = average(withClose.map(r => (r.close - r.entry) * 100));
   const resolved = rows.filter(r => Number.isFinite(r.resolved));
@@ -93,6 +98,8 @@ function summarize(name, rows) {
     `n=${String(rows.length).padStart(3)}`,
     `edge=${avgEdge === null ? 'NA' : `${avgEdge.toFixed(2)}pp`}`.padStart(14),
     `ev=${avgEv === null ? 'NA' : `${(avgEv * 100).toFixed(2)}%`}`.padStart(12),
+    `ev/d=${avgEvDay === null ? 'NA' : `${(avgEvDay * 100).toFixed(2)}%`}`.padStart(14),
+    `days=${avgCapitalDays === null ? 'NA' : avgCapitalDays.toFixed(1)}`.padStart(10),
     `clv=${avgClv === null ? 'NA' : `${avgClv.toFixed(2)}pp`}`.padStart(13),
     `roi=${avgRoi === null ? 'NA' : `${(avgRoi * 100).toFixed(2)}%`}`.padStart(13),
   ].join('  '));
@@ -107,7 +114,7 @@ function report() {
   }
   summarize('ALL', rows);
 
-  for (const field of ['risk', 'category', 'source']) {
+  for (const field of ['risk', 'category', 'strategy', 'source']) {
     const groups = new Map();
     for (const row of rows) {
       const key = row[field] || 'UNKNOWN';
