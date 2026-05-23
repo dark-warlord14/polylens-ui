@@ -84190,26 +84190,6 @@
     "eventSlug": "2026-soccer-norway-eliteserien-winner",
     "negRisk": true
   },
-  "2026-soccer-a-league-soccer-winner-auckland-fc": {
-    "id": "1830442",
-    "conditionId": "0x60c3399ba8e76e130982d1c45121f4bdfb10503f4a37c5557c1d067e71961b37",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-a-league-soccer-winner",
-    "negRisk": true
-  },
-  "2026-soccer-a-league-soccer-winner-sydney-fc": {
-    "id": "1830446",
-    "conditionId": "0xa2214b125504c4ccf55e54de28b1bd87d917436f56d4c2ffad3f831fd4e44c7e",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-a-league-soccer-winner",
-    "negRisk": true
-  },
   "2026-soccer-k-league-winner-fc-seoul": {
     "id": "1830469",
     "conditionId": "0x9ed8d15b7ecb4746c9cec5aaec51c89469e6560889724331fa2ba993ef3a5c7e",
@@ -86040,186 +86020,6 @@
     "eventSlug": "will-taylor-swift-release-taylor-swift-taylors-version-in-2026",
     "negRisk": false
   },
-  "will-the-apothecary-diaries-season-2-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833823",
-    "conditionId": "0xb348b62a9bf279c858b350c5f6d7719e3a956540ea0edcc235d4f1ab0467ec3a",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-anime-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833824",
-    "conditionId": "0xfb5c2321eaca0f029d9ef8ea806f732ba9166d53852b56620dfcee849291b04d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-anime-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833825",
-    "conditionId": "0xcf92860b2243fec4be6f1a01bb489d77a5ba710c592c56f99c37e142f088a7ba",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-anime-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-my-hero-academia-final-season-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833826",
-    "conditionId": "0x4b93dc2f9fb0cd0d4e4a1adfaa24e185e6945b7842eaffec9ff641654ab41b4b",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-anime-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-the-summer-hikaru-died-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833827",
-    "conditionId": "0xac2adfa9c04a8e2c08039f35faa8cc8a273bc111494d0aefd03af20346797797",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-anime-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-takopis-original-sin-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833828",
-    "conditionId": "0xd0304260dec6cb0ef1454b6af9a7ce5f52aa2544b6c303404ef7e73b17a29497",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-anime-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-100-meters-win-film-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833844",
-    "conditionId": "0xa0453cc14391b862e69acd649cc9266b87241db93316a49d635efc22ba5cf6e4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-film-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-chainsaw-man-the-movie-reze-arc-win-film-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833845",
-    "conditionId": "0x980766b078cbc1a272ed89231b021a1ff8cc5ef37543aa852717597555f48665",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-film-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-demon-slayer-kimetsu-no-yaiba-infinity-castle-win-film-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833846",
-    "conditionId": "0x9c5467da2bc04960439e2479ed5ac6f97790dbbcb326512b3af232a376f4a811",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-film-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-mononoke-the-movie-chapter-ii-the-ashes-of-rage-win-film-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833847",
-    "conditionId": "0x4c2e79b62e7f81f58c89fa9f306fc9a631a8d5304d2172420d6bf6607c652d00",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-film-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-the-rose-of-versailles-win-film-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833848",
-    "conditionId": "0xe6bf500e628002c24ba6f2ede1717a374343349e99f4386eca8fae5eb773fb9b",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-film-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-scarlet-win-film-of-the-year-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833849",
-    "conditionId": "0x395cc617ce304649f3c4b6cf6ae9c2ec06ec29567918d998284550eff53b0f8d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-film-of-the-year-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-win-best-continuing-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833870",
-    "conditionId": "0x01417b2aae4d4520817e38132ee48c3623eb39683a051ba01998879d09c82454",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-continuing-series-winner",
-    "negRisk": true
-  },
-  "will-kaiju-no-8-season-2-win-best-continuing-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833871",
-    "conditionId": "0xd00ee1dd35b0c6d8c41051bb7f3a14cb12fd9218ee2e63321259f38d1432d8d9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-continuing-series-winner",
-    "negRisk": true
-  },
-  "will-my-hero-academia-final-season-win-best-continuing-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833872",
-    "conditionId": "0x0077b27ce8dd049638c2029a55d7f97dc80263d154f9eb71d6a27ae14ed00e36",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-continuing-series-winner",
-    "negRisk": true
-  },
-  "will-one-piece-win-best-continuing-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833873",
-    "conditionId": "0x1eab2f21f424f8c3308ae17b95e5bd50810e4e64b3c85ea1f9c928a8ea623f7e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-continuing-series-winner",
-    "negRisk": true
-  },
-  "will-solo-leveling-season-2-arise-from-the-shadow-win-best-continuing-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833874",
-    "conditionId": "0xe194a5ccf57f98245c96b55b898519599b642bbe6a8ca4e56a9f9438361986b4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-continuing-series-winner",
-    "negRisk": true
-  },
-  "will-spy-x-family-season-3-win-best-continuing-series-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833875",
-    "conditionId": "0xdc2bac0ce5b2f759830d0e6c6a651302c34c0089b145353dfbfc1a46402b0fbf",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-continuing-series-winner",
-    "negRisk": true
-  },
   "2026-basketball-cba-winner-shanghai-dongfang": {
     "id": "1833956",
     "conditionId": "0x8cb0ebc49f0531ee83193f90e7a8bc5963b33affc8d4795c361e62abb442eeef",
@@ -86248,66 +86048,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "2026-basketball-cba-winner",
-    "negRisk": true
-  },
-  "will-apocalypse-hotel-win-best-original-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833966",
-    "conditionId": "0x184af4a0a85db4ffca2a702f12b858bda60984c2461b21f20dbd42561082371d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-original-anime-winner",
-    "negRisk": true
-  },
-  "will-digimon-beatbreak-win-best-original-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833967",
-    "conditionId": "0x13842b9e3772c14f0b05b49e58b9f3d496cb8cfe986ed5fdc9183837b0c713e8",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-original-anime-winner",
-    "negRisk": true
-  },
-  "will-lazarus-win-best-original-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833968",
-    "conditionId": "0x2e8542600f46e8bc7980f1bd658d85dbed5d4b26cdf14afdf356a8c02a4a649a",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-original-anime-winner",
-    "negRisk": true
-  },
-  "will-mobile-suit-gundam-gquuuuuux-win-best-original-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833969",
-    "conditionId": "0x8bf77259c69dcb0ffea773a323ee1b4e5afa8688cad38104a79a3efcce182d86",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-original-anime-winner",
-    "negRisk": true
-  },
-  "will-moonrise-win-best-original-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833970",
-    "conditionId": "0x9d0af71f30ef3696408ca684e7e4704bf5c7f84ee7c37638d9d8cc720a4ca62f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-original-anime-winner",
-    "negRisk": true
-  },
-  "will-zenshu-win-best-original-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1833971",
-    "conditionId": "0x0b8dc5694f96b35c078f2b844e2642de51a7877e3767e80fc1201c181ea47004",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-original-anime-winner",
     "negRisk": true
   },
   "2026-hockey-american-hockey-league-winner-chicago-wolves": {
@@ -87000,66 +86740,6 @@
     "eventSlug": "2026-basketball-aba-league-winner",
     "negRisk": true
   },
-  "will-akinori-fudesaka-norihiro-naganuma-the-apothecary-diaries-season-2-win-best-director-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834529",
-    "conditionId": "0x29f7b564dcf9052c2306878ba8df29ff767b4aa8c72a5acfe8ccb4d972d90858",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
-  "will-fuga-yamashiro-and-abel-gngora-dan-da-dan-season-2-win-best-director-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834530",
-    "conditionId": "0xb6c453a101bfdee77b27b5db8a8e054dace2d5f7cb1ef54eab62113866ec1796",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
-  "will-fumihiko-suganuma-gachiakuta-win-best-director-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834531",
-    "conditionId": "0xc027a6d7346133c935702efd328f81db3bf7b79a36e6f67089314f1dddad73d9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
-  "will-kenji-nagasaki-naomi-nakayama-my-hero-academia-final-season-win-best-director-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834532",
-    "conditionId": "0x9ca544576326378e3e62afb9115aba69a0898e76b7ea5e8f96087a36728907a5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
-  "will-ryohei-takeshita-the-summer-hikaru-died-win-best-director-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834533",
-    "conditionId": "0xf5bd0e1d2205fe15a8afa6a869f2197bc95d1a3bc6620ae8fdab1d9e3fb1de59",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
-  "will-shinya-iino-takopis-original-sin-win-best-director-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1834534",
-    "conditionId": "0x72f79b89bf88c5d219b2b9d5682adfe86531265876a168350cf7cda307276b9e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-director-winner",
-    "negRisk": true
-  },
   "will-celta-vigo-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1834936",
     "conditionId": "0x46b75b7cf1575f887a3fc5ef82a1716f54817feb759610a848c53719ad69caa3",
@@ -87149,66 +86829,6 @@
     "acceptingOrders": true,
     "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
-  },
-  "will-campfire-cooking-in-another-world-with-my-absurd-skill-season-2-win-best-isekai-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835002",
-    "conditionId": "0xb283c13722d74e8c5eb69e938f8bb4938ae4fab2c34dfe19b07f04d4947bc230",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-isekai-anime-winner",
-    "negRisk": true
-  },
-  "will-disney-twisted-wonderland-the-animation-season-1-episode-of-heartslabyul-win-best-isekai-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835003",
-    "conditionId": "0xa6e90b856d21fca73d3efaf7c4f9d10ffe42a23c399bf1ad9d1f958260cccad5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-isekai-anime-winner",
-    "negRisk": true
-  },
-  "will-from-bureaucrat-to-villainess-dads-been-reincarnated-win-best-isekai-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835004",
-    "conditionId": "0x4c9f77555ed9b973154941761ea075a6892fe0350ade7e41f5e69fe24094154f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-isekai-anime-winner",
-    "negRisk": true
-  },
-  "will-konosuba-gods-blessing-on-this-wonderful-world-3-bonus-stage-win-best-isekai-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835005",
-    "conditionId": "0x863dcbf036d6474cbe6e54c0c5edc3b89fd2ce4688fc2fc5c0b94730a7e06514",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-isekai-anime-winner",
-    "negRisk": true
-  },
-  "will-rezero-starting-life-in-another-world-season-3-win-best-isekai-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835006",
-    "conditionId": "0x4c839295479784ffaed5bb406137b47f7ff8628a0ebb16f874487440236c72da",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-isekai-anime-winner",
-    "negRisk": true
-  },
-  "will-zenshu-win-best-isekai-anime-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835007",
-    "conditionId": "0x29047ea3c64e2dcacc5e9738251a6c0467ff5ccceb936aac93a0c70191394ad2",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-isekai-anime-winner",
-    "negRisk": true
   },
   "will-athletic-bilbao-place-17th-for-the-2025-26-laliga-season": {
     "id": "1835081",
@@ -87310,126 +86930,6 @@
     "eventSlug": "laliga-relegation-survivor",
     "negRisk": true
   },
-  "will-in-bloom-by-lilas-ikuta-the-apothecary-diaries-season-2-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835642",
-    "conditionId": "0xb99080b1300acd60bae4d894a3f1eee7b02c3c645a4704e62ccce3587531c697",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-song-winner",
-    "negRisk": true
-  },
-  "will-iris-out-by-kenshi-yonezu-chainsaw-man-the-movie-reze-arc-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835643",
-    "conditionId": "0x831c1c8a28259153d3e83976bb8009ef0179e49baa630a0f29159cc8de95f2ac",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-song-winner",
-    "negRisk": true
-  },
-  "will-jane-doe-by-kenshi-yonezu-and-hikaru-utada-chainsaw-man-the-movie-reze-arc-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835644",
-    "conditionId": "0x6bd7c654027ec8086394ec4654c05b3bb9accd40fa8cf523d103d8accc46b267",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-song-winner",
-    "negRisk": true
-  },
-  "will-on-the-way-by-aina-the-end-dan-da-dan-season-2-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835645",
-    "conditionId": "0x66c68e7db57098f5813dcbb66ca0a97c002982346af47ee1d4b00a53d8cf2612",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-song-winner",
-    "negRisk": true
-  },
-  "will-reawaker-feat-felix-of-stray-kids-by-lisa-solo-leveling-season-2-arise-from-the-shadow-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835646",
-    "conditionId": "0x20891d67fde2bae26ab2f96345e78c1007e3aee9792eab560aa48a16b5d78cc9",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-song-winner",
-    "negRisk": true
-  },
-  "will-watch-me-by-yoasobi-witch-watch-win-best-anime-song-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835647",
-    "conditionId": "0x8613a164317c93991a6d240d01cb951b9451947f48b9ca460f24e7466f46cb9b",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-song-winner",
-    "negRisk": true
-  },
-  "will-the-apothecary-diaries-season-2-satoru-kosaki-kevin-penkin-alisa-okehazama-win-best-anime-score-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835702",
-    "conditionId": "0x573d77149b3c11b461ec01cac0f523421374da9066ce2d380419260606da3dc4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-score-winner",
-    "negRisk": true
-  },
-  "will-chainsaw-man-the-movie-reze-arc-kensuke-ushio-win-best-anime-score-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835703",
-    "conditionId": "0x7d2d205686fc05ab424c0d6daa0068706885d4cd28ce5db4a626e01b75ceff09",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-score-winner",
-    "negRisk": true
-  },
-  "will-dan-da-dan-season-2-kensuke-ushio-win-best-anime-score-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835704",
-    "conditionId": "0xc1464abc8c01c354b513c530cb1866de45a5f5d1ededc5630d072010c292747b",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-score-winner",
-    "negRisk": true
-  },
-  "will-demon-slayer-kimetsu-no-yaiba-infinity-castle-yuki-kajiura-go-shiina-win-best-anime-score-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835705",
-    "conditionId": "0x267a0124b45d58b250581cee9bbfffa5dbda652f02410c1155aa7ed515a5eafe",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-score-winner",
-    "negRisk": true
-  },
-  "will-gachiakuta-taku-iwasaki-win-best-anime-score-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835706",
-    "conditionId": "0xa1bda7b783713a0e0e335a354e77a808e560e4e52b641a6c5c07b1f4f7c265c5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-score-winner",
-    "negRisk": true
-  },
-  "will-solo-leveling-season-2-arise-from-the-shadow-hiroyuki-sawano-win-best-anime-score-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835707",
-    "conditionId": "0x6800d1979495f92676a777addc49a70b6cc120e8ed23204a9eb2be2c41e6f8f0",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-score-winner",
-    "negRisk": true
-  },
   "will-sc-freiburg-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1835727",
     "conditionId": "0x6d2da797c528c0de88bb545398f0ed9ee1ccf393b5ccebff55d883424bce44d9",
@@ -87439,16 +86939,6 @@
     "acceptingOrders": true,
     "eventSlug": "bundesliga-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
-  },
-  "will-i-by-bump-of-chicken-my-hero-academia-final-season-win-best-anime-ending-sequence-at-the-2026-crunchyroll-anime-awards": {
-    "id": "1835785",
-    "conditionId": "0x8208a6072d6e03b6e63c3845b292ef21ee8ad1a165869176de8c2c9c17ca7eed",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anime-awards-best-anime-ending-sequence-winner",
-    "negRisk": true
   },
   "will-ac-milan-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
     "id": "1835919",
@@ -119600,5 +119090,515 @@
     "acceptingOrders": true,
     "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
+  },
+  "will-uruguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070760",
+    "conditionId": "0xbafadf181195da28073877849e2a4601a2f4a99371bf94e24e8a6380c7baa072",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-saudi-arabia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070761",
+    "conditionId": "0xe28714396c63822d0c1293f2aad16aaca02a143a32f20b71fd7fb58f078d6602",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-cape-verde-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070762",
+    "conditionId": "0xf75a1084ea00a19ec34957397ea4d0a33258395ba6b50a2d4186ee0f77910c25",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-france-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070763",
+    "conditionId": "0x6f814a95b780d7e8b14e9a8ce9d34f7afa1b25be62830aefb3781a6aa9afbf16",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-senegal-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070764",
+    "conditionId": "0x59ffd52a92c4afe5257997bbb6ecb38a260eb2ef4f8da31f0271fe48d35b8622",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-norway-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070765",
+    "conditionId": "0x35e0edf13c676c05379882d01980fb360b7885884d56c57f228cd306018efb3d",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-iraq-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070766",
+    "conditionId": "0xcb1bcc07313aefb781b5e6426625e525d4071c93d2115a558808ef4495da50a4",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-argentina-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070767",
+    "conditionId": "0x8e534d6f28c124e3d7414561be384e79c4b108420d1c43a9a965289e2ec25576",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-austria-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070768",
+    "conditionId": "0xbd0d83e891497ded91678ee5a6d58dede9b8f1adad52fa3e0b534359b737302c",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-algeria-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070769",
+    "conditionId": "0xa8cc82d418a2a52f1a8af46d00f8b87353b1926b1e59add939946c195e8f541f",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-jordan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070770",
+    "conditionId": "0xb2ddb90e1715deedf1fb1a1422aed272d2a1141f8e5e0ca6f1accb3a21a5eb77",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-portugal-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070771",
+    "conditionId": "0x94cac3a7ff4e968e68674c8dff21d74df39c9519291db5e4628486f977b1cad5",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-colombia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070772",
+    "conditionId": "0x260688608f7d98c9cc5755228dbf4a04eb72c13308e603ba697b5f1ff4e8fe68",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-uzbekistan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070773",
+    "conditionId": "0x77cdf10e0cbddb64775d735d882925631edcdbf84f23316e23d0d4be83636b30",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-dr-congo-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070774",
+    "conditionId": "0xf53b6c5f8c269fb2c6fe8547a8356b6d57084a5d15502672165be922d58c46d6",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-england-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070775",
+    "conditionId": "0x1b37d3e123b994a315fc445ab4fdbb94bb2fa111437b6305a44a7fcd18c3d217",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-croatia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070776",
+    "conditionId": "0x339817a52eeb97cc6cf99afee47a61dbc83244a4266a947d19f9b21aa9d7bbd3",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-panama-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070777",
+    "conditionId": "0x71c3fec5d09820f4bc86f4c3c0c4c750190fcdcd3009d3454629073c8f7e02ec",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-ghana-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
+    "id": "2070778",
+    "conditionId": "0x2d93d3f277602a22f90c8ddcfd775945542d6b4a99449db03489de13609f3290",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fifa-world-cup-team-to-advance-to-knockout-stages",
+    "negRisk": false
+  },
+  "will-a-player-representing-mexico-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070951",
+    "conditionId": "0x48b93b20ce0397bdea3f3984c25459c19d3bfcd1f44fdc64bddb72544fb1db6b",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-south-korea-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070952",
+    "conditionId": "0x1e2ff2eff677b915dbbe4e06186cea961cf795f2b3b04acd954232f6ffb7353b",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-south-africa-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070953",
+    "conditionId": "0x2649673f9d62649a68a43e198c50476cd5f2528473e4ad93838e0b66848a2be8",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-czechia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070954",
+    "conditionId": "0x3a379b96fc186cebd73d3c63cf6f500676ebe10d5b26ab6cba2a60f4b87ac228",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-canada-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070955",
+    "conditionId": "0xd2f697fa8bfd2d6e7b6413b44ae408f53f789cbb9a6a7c448462af78acc916f1",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-switzerland-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070956",
+    "conditionId": "0x66135710406fb193043ec2b40faf6c48e4b3327552b366c4f67e6d4d8d35c7b0",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-qatar-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070957",
+    "conditionId": "0x88e6091a485e586de333b909ceb8a07a1a4ab43834c22bf838237f30a963d6b5",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-bosnia-and-herzegovina-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070958",
+    "conditionId": "0x0755c52cd2566c57be7045ec61813b0b9f346408674da631adca1578961ce556",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-brazil-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070959",
+    "conditionId": "0xd5ea1b47165a65b05db0687c45c0bd21d326dad75235f5a64d43fe5a4726a635",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-morocco-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070960",
+    "conditionId": "0xabe572cb5aa6814e99f71822fb0b5aea9f02d89c4ab74b16c0e636a24adf692f",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-scotland-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070961",
+    "conditionId": "0x72d077e7101351d9392e694e2078f7803e24ba5815c22259b2ded966c85f0671",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-haiti-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070962",
+    "conditionId": "0x2add8f72da72fec3b2c01fb746e16243dd5d7c996430122eddf850af293c34a2",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-usa-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070963",
+    "conditionId": "0x0790ce67a4858b9b52bb8f933524256633c0c5bca573e23e5bb35732727f209a",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-australia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070964",
+    "conditionId": "0x42ac4497829e67ce41b41d3da1a95e6b45a0d1d6ccd68187ce645d2a71a3749a",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-paraguay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070965",
+    "conditionId": "0x849d78ce700bddefef90891afc90f48a934d98db27cb250cc2622bada6a00b4e",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-turkiye-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070966",
+    "conditionId": "0x99769f8989d029d2f8f7d248acb5f7b6e50324c917acb27a48c01c6ab8c1183a",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-germany-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070967",
+    "conditionId": "0xba0f8490d016437941e5660fa2a8cd5eb4fc5ab1e4ba079786387c8eb544749c",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-ecuador-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070968",
+    "conditionId": "0x0a29e91f7355edfdfd6e77a0fd4ee6b4848a008c854628ade0aa4d397a20a9d8",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-ivory-coast-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070969",
+    "conditionId": "0x49bd37f92179cf3a89278e0f8434225bc7fdeedb4bbc6cf84a6fd7e365848999",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-curacao-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070970",
+    "conditionId": "0xcf3050a8a80c4754f70fb79f6df9c2e4d4d4b906030437f54dc0d279def5020d",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-netherlands-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070971",
+    "conditionId": "0xc35fa9b5a406c9efc4f1ddecb8c7ac098daf509f6a3a65de9549e4e485f5fa6a",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-japan-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070972",
+    "conditionId": "0x5671824d6c5b3c26ee63897295a00b57adbece307b63ba53405fce44198cc282",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-tunisia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070973",
+    "conditionId": "0x2bb3534669145fcb81df2bab8a1e6367f39aa3677743cb30e3afb3d512d38a88",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-sweden-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070974",
+    "conditionId": "0x48648b9400c3150b3f9e789bb8228238aacb2a81f3e1b5695f02850fa6be7565",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-belgium-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070975",
+    "conditionId": "0x4c611e1630deb215b73ddaf5f75416bd30f5a6e7e47d3df3ceb07d340ed8ffff",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-iran-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070976",
+    "conditionId": "0xd15196f30f746ff5f1ea706a41293da6467b4737a2ee71587911189fef07a7e4",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-egypt-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070977",
+    "conditionId": "0x4e0f5532f5126f3766e1bb00831303812f63c6b7dc9b95b63c43eca5f6c5c7de",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-new-zealand-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070978",
+    "conditionId": "0x7c54beb4a8be7279d13adbb494ff7e5c0d7b3c3c8db52fd8708a1ecdded76ff2",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-spain-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070979",
+    "conditionId": "0xd201108be9753b5ee8b6069ce9f9287d2931a5174bb4ef6c2daccbe3f005826b",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-uruguay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070980",
+    "conditionId": "0x179e8fa540b1547f01efec62ca6afc73f847c13c21812327c1087aa35ea4c987",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-saudi-arabia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070981",
+    "conditionId": "0x83c7e5566edc355211013c83d57295c0ff296d098ad4eb9e82d6841c812ab98c",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-cape-verde-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070982",
+    "conditionId": "0x9008ebaff086836f91178cff0a9c830af5b7f63c80bb47e9ac3eaf6b2d63d369",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
   }
 }
