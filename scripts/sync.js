@@ -40,7 +40,9 @@ function categoryForMarket(m) {
 
 async function fetchAllMarkets() {
   const pageSize = 100;
-  const maxPages = parseInt(process.env.POLYMARKET_SYNC_MAX_PAGES || '0', 10);
+  // Keep generated cache files below GitHub's 100 MB hard file limit by
+  // default. Set POLYMARKET_SYNC_MAX_PAGES=0 only for local full-universe scans.
+  const maxPages = parseInt(process.env.POLYMARKET_SYNC_MAX_PAGES || '120', 10);
   let afterCursor = null;
   let all = [];
   let page = 0;
