@@ -2779,16 +2779,6 @@
     "eventSlug": "laliga-which-clubs-get-relegated",
     "negRisk": false
   },
-  "will-alavs-be-relegated-from-la-liga-after-the-202526-season": {
-    "id": "576812",
-    "conditionId": "0xb6d6734aa01582fec53a872e6e38c3e783a5f4578f8d4bea739ccf4058e207ea",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-which-clubs-get-relegated",
-    "negRisk": false
-  },
   "will-sevilla-be-relegated-from-la-liga-after-the-202526-season": {
     "id": "576815",
     "conditionId": "0x42ac3eb50ff077cdd7a7483795f2b9ff1eb5132ab07ae2d7b8dd06482a4ace3f",
@@ -36820,16 +36810,6 @@
   "will-karolna-plkov-win-the-2026-womens-french-open": {
     "id": "1087800",
     "conditionId": "0x81666ac08b14252b7f258434c1d051eeee037f77385b3b83e3bd37a861ca4375",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-danielle-collins-win-the-2026-womens-french-open": {
-    "id": "1087801",
-    "conditionId": "0xa1e3a879f18222c1b7dc6ba3dc3aecdd69bc6428e728fc7e62d23b9fd9d9f66b",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -92298,16 +92278,6 @@
     "eventSlug": "lol-lpl-2026-split-2-winner",
     "negRisk": true
   },
-  "will-invictus-gaming-win-lpl-2026-split-2": {
-    "id": "1901257",
-    "conditionId": "0xea45811b5f7e4e487a76e3c2b7e90db0b5cfea3f377b0ca51e703668745f06b5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-ninjas-in-pyjamas-win-lpl-2026-split-2": {
     "id": "1901258",
     "conditionId": "0x2dfb5ad158aeff5b3051765c91b72ecccc553c8015ca73144d24dee55f6eec0d",
@@ -92321,16 +92291,6 @@
   "will-team-we-win-lpl-2026-split-2": {
     "id": "1901259",
     "conditionId": "0x6dd82fd9ac84082a0dce524d8e5dd7c4ee8cdd5e1d2418c6b04895977361ccd5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-lng-esports-win-lpl-2026-split-2": {
-    "id": "1901260",
-    "conditionId": "0xf7a45ccacc3987340455078585e36befe50e6ba4763866b4a72acd4ebb2e5c46",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -114507,16 +114467,6 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-someone-on-may-23-2026": {
-    "id": "2060676",
-    "conditionId": "0x3342a12e8a9e6d9718f3cf008ed1080b317cda49d1cdfe799cefbff910496b20",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-publicly-insult-someone-on-312",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-someone-on-may-24-2026": {
     "id": "2060677",
     "conditionId": "0x8ecef5c7294c61ca15ffd49c8d8ce104d1bc7c336bb8f353c0e6249c7d52e3ca",
@@ -114896,26 +114846,6 @@
     "acceptingOrders": true,
     "eventSlug": "next-first-minister-of-scotland-313",
     "negRisk": true
-  },
-  "will-hull-city-achieve-promotion-from-the-efl-championship-to-the-english-premier-league-for-the-2026-27-season": {
-    "id": "2062370",
-    "conditionId": "0xcbdfb5d4c3ec0706d6e1fddd16307ed1732c7d8146d3e20958264a29031d10c3",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "efl-championship-team-promoted-to-epl",
-    "negRisk": false
-  },
-  "will-middlesbrough-achieve-promotion-from-the-efl-championship-to-the-english-premier-league-for-the-2026-27-season": {
-    "id": "2062373",
-    "conditionId": "0xe1d0615e596ffce06ea7047d9cbbb035c85cb9a6fd598fd5145b2dfede7f03d2",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "efl-championship-team-promoted-to-epl",
-    "negRisk": false
   },
   "will-min-hyung-bae-win-the-2026-jeonnamgwangju-mayoral-election": {
     "id": "2062414",
@@ -119594,6 +119524,76 @@
   "will-a-player-representing-cape-verde-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070982",
     "conditionId": "0x9008ebaff086836f91178cff0a9c830af5b7f63c80bb47e9ac3eaf6b2d63d369",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-france-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070983",
+    "conditionId": "0x919c3aa6286d165c579ccaa3c17ffafd47d851d692f47d46192c3a71c85e22c3",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-senegal-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070984",
+    "conditionId": "0x2332d9c0e94d7968cb27dd4150ff786a3a115079a9e5a147e1cac04fa823eeae",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-norway-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070985",
+    "conditionId": "0x13769b3c9e8daf0052d90385dcebb80bf28a570a8193bd5576ac73aa82909111",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-iraq-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070986",
+    "conditionId": "0x22b556f20f92db2a56096c461e400270148e02b909fedd38b408730814c77756",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-argentina-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070987",
+    "conditionId": "0xb258d0370d1d409b3fe03ba0d6e0ae88a55b0a179edf8b4a6b0e386542ca0b9c",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-austria-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070988",
+    "conditionId": "0xa6ca3daaad416d61a334654001c633ee2852d91ffc868ba954cbd37ce6cad4f4",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-algeria-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070989",
+    "conditionId": "0x5c682eb124d7d80d39eb33b00b68d5829085476646c16f3222cdc4ac554f6a18",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
