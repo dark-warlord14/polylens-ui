@@ -2769,36 +2769,6 @@
     "eventSlug": "when-will-bitcoin-hit-150k",
     "negRisk": false
   },
-  "will-osasuna-be-relegated-from-la-liga-after-the-202526-season": {
-    "id": "576811",
-    "conditionId": "0xfe239a1e3ea08839af257fe778718cc0ae3552fe0b5e9031695b0250f95db008",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-which-clubs-get-relegated",
-    "negRisk": false
-  },
-  "will-sevilla-be-relegated-from-la-liga-after-the-202526-season": {
-    "id": "576815",
-    "conditionId": "0x42ac3eb50ff077cdd7a7483795f2b9ff1eb5132ab07ae2d7b8dd06482a4ace3f",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-which-clubs-get-relegated",
-    "negRisk": false
-  },
-  "will-mallorca-be-relegated-from-la-liga-after-the-202526-season": {
-    "id": "576816",
-    "conditionId": "0x888113c876895557b698436f6ca0d640b661c1474d995c3448ae39b542b71362",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-which-clubs-get-relegated",
-    "negRisk": false
-  },
   "will-erling-haaland-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
     "id": "577160",
     "conditionId": "0xd175d5454046b2a54c76de7ea2f91f3f179ee2460159ea70139c75c1092ab181",
@@ -3139,39 +3109,9 @@
     "eventSlug": "laliga-top-goalscorer",
     "negRisk": true
   },
-  "will-robert-lewandowski-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577219",
-    "conditionId": "0x34629a8e04da66f61bad2b4de18d370ca551faf79f810e04e403b841163f0e47",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
   "will-alexander-sorloth-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
     "id": "577220",
     "conditionId": "0x82bd65f09e2428042a5ac204f60f34e1b40f7a4a2d008fc0b92afd0aca450607",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-raphinha-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577221",
-    "conditionId": "0xe84c744708601de931a3934348a03daacbee47d7544833fbfaee03cebf2ce671",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-ante-budimir-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577222",
-    "conditionId": "0x2c405b766a5952a1ee121519845541e3f363bbbb691748d38d596e900827333f",
     "endDate": "2026-05-30",
     "closed": false,
     "active": true,
@@ -3189,209 +3129,9 @@
     "eventSlug": "laliga-top-goalscorer",
     "negRisk": true
   },
-  "will-gonzalo-garcia-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577224",
-    "conditionId": "0x5bc6ce968259b72cf129f3420b74591165b2daed5681c945a550d3479a6cd29f",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-oihan-sancet-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577225",
-    "conditionId": "0xa8524b512abdab06087228a6a567e74d174e934c7663fc90a7d1327eb2c788d9",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-ferran-torres-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577226",
-    "conditionId": "0xfb1f550759909794c23b00af18fca4c280055b5f9d8486be98e3d060c33ca90c",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-lamine-yamal-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577227",
-    "conditionId": "0x6a6c33f325ff0074fb8e5c03bd6791d9d773a2473388ca79aa2066bcc96202c8",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-marcus-rashford-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577228",
-    "conditionId": "0xd7a1f81c476ac55cf008314b61c8df2ca862024a29b6069a9b947c31d00fb164",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-broja-iglesias-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577229",
-    "conditionId": "0x00787f50b9466db23a1899abc108b5609a77cbaa159c1b35822f45e9c14a940b",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-vinicius-junior-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577230",
-    "conditionId": "0xd2b7235e5c612ce49ad0252420d713280ded4e346bd24dd50f941e901e9daec2",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-mikel-oyarzabal-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577231",
-    "conditionId": "0x7996c5de13ddf3131cebe81e14fa25bc93e6d83383e9311fb4444d054b02bb6c",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-hugo-duro-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577232",
-    "conditionId": "0xcdc395263072e4727246bd28d628c79de9ef6024b9c78ae6d230fb542300d783",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
   "will-ayoze-perez-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
     "id": "577233",
     "conditionId": "0x936a5e78fd5963c717e49661a593fa3353241f6fb3c69b6615e9041e6b6f0973",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-vedat-muriqi-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577234",
-    "conditionId": "0xe819c3fd02eec251efec7d90a1801554ec14fef336932c7342b333d4ae64d0a8",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-dodi-lukebakio-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577235",
-    "conditionId": "0x3ab6710aff85c354a3d99e0f3c972903263189ce32b1a5b13ed58cb68762b243",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-gorka-guruzeta-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577236",
-    "conditionId": "0xc5a5599959ff15ca3533656c16dd441304b8721162ef770db59a1d2b4862e2b8",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-javi-puado-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577237",
-    "conditionId": "0x1dcc183b4cca17ebd95af1b94209ce345233d13a8157c1b1761b6d82722614aa",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-dani-olmo-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577238",
-    "conditionId": "0xbba1c02a186676782fae38b63af5333da443c8a16d86274ba1b045324ec989c7",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-daniel-raba-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577239",
-    "conditionId": "0x208c0100d3c9b2e1cfe6acd453a461a2db052ea6de69345e20ba97bd80b24a32",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-iago-aspas-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577240",
-    "conditionId": "0xeb60a53b5ca38150c07cc30ef0f5570b292f3e43722512cc55d0cff666ac1077",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-cristhian-stuani-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577241",
-    "conditionId": "0xff54852cf4cb9c3568f795b983bc494d2e13d3f9cad41ba872a4ffd3ccb2101e",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-cyle-larin-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577242",
-    "conditionId": "0xc901b7ee5f6776feee0bc75349ddf15b3f1473c42e9c23fbd2c286129db2314b",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-abel-ruiz-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577243",
-    "conditionId": "0x4fc188ab7b8337089312087777af8a703757466dda919e1de85e148394c40090",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-inaki-williams-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577244",
-    "conditionId": "0xc8ef5adf237853872e232fc6d66b334ea04092b9623d2c2549ab5f7edd9aeab4",
     "endDate": "2026-05-30",
     "closed": false,
     "active": true,
@@ -3412,26 +3152,6 @@
   "will-antoine-griezmann-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
     "id": "577246",
     "conditionId": "0xaefc28d462f0824bbb9c694d3511beaaf8b21af8eba30d8e524ed05d0431e712",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-jude-bellingham-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577247",
-    "conditionId": "0x5882bfbb3333c4425fe5f17d7177d0155935ab218532e30abb3ebc29e09b0d15",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-roberto-fernandez-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577248",
-    "conditionId": "0x813140d27e876be7b8b57a9f5932f560426e5dd02370e1a6d815ce416d3c1a1e",
     "endDate": "2026-05-30",
     "closed": false,
     "active": true,
@@ -3569,39 +3289,9 @@
     "eventSlug": "serie-a-top-goalscorer",
     "negRisk": true
   },
-  "will-moise-kean-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579378",
-    "conditionId": "0xc7a4ec41e7e55d9b9c3fcbc06df32f7083196fb23e2fcfbfd9e8d927cc01b299",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
   "will-jonathan-david-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
     "id": "579379",
     "conditionId": "0x8d6dad52bdc7f34ae33fd466b00308116110b724f0a203c5d4723faa94a96c55",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-marcus-thuram-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579380",
-    "conditionId": "0x0008043c3ed513ecff7ee64380fc943dc73eb3dfb6674f281149efe4769f7515",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-ademola-lookman-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579381",
-    "conditionId": "0x238ae01b45c52c7f64b26741ab9a29b6677fd2ad99ad01353faef452b98fe416",
     "endDate": "2026-05-28",
     "closed": false,
     "active": true,
@@ -3639,16 +3329,6 @@
     "eventSlug": "serie-a-top-goalscorer",
     "negRisk": true
   },
-  "will-ciro-immobile-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579385",
-    "conditionId": "0x185c89be77581bd93513ba86350e325dddfc002a47a8e52351b507de0c309e61",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
   "will-evan-ferguson-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
     "id": "579386",
     "conditionId": "0x8ba6d9effe52c68e848f9464d58b438ad0d61dd8a24fef577eb7db981cfc8d7b",
@@ -3662,36 +3342,6 @@
   "will-lorenzo-lucca-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
     "id": "579387",
     "conditionId": "0xa69e31a8af960e3917a37b525baf7710146a63ba0c4eea99606e5ba205cc28e1",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-gianluca-scamacca-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579388",
-    "conditionId": "0xcb68aa46ed02b4f574284359a2e4dbf740bc709ddaee502aeafa7f08893e780a",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-valentin-castellanos-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579389",
-    "conditionId": "0xe12d797d92721c1ca0d01764ba5a050d92be60efa44c8665a4144261295ff3d4",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-riccardo-orsolini-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579390",
-    "conditionId": "0x24debb61da3f123efc67af2a72ea22ef941c68d6af197c65d0bc6c613bc0f527",
     "endDate": "2026-05-28",
     "closed": false,
     "active": true,
@@ -3749,26 +3399,6 @@
     "eventSlug": "serie-a-top-goalscorer",
     "negRisk": true
   },
-  "will-mehdi-taremi-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579396",
-    "conditionId": "0xe7ce4f0b430d3a1d8bc38141c1ac325c608f7e4c5d9ad70d59801fc20715b757",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-edin-dzeko-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579397",
-    "conditionId": "0xe92a8e019546ef8afec1df5c31af4be091877e6894246a71b853ee852f8d1cb9",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
   "will-paulo-dybala-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
     "id": "579398",
     "conditionId": "0x725982c37ddaa59021493b72d51d68096c74a54ee5775488931ed0f57a5c35af",
@@ -3802,16 +3432,6 @@
   "will-andrea-pinamonti-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
     "id": "579401",
     "conditionId": "0x081dac4ed789a5cdaca603aaa9c98dbc772a3577fb0494d2c92491783a3f4d97",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-santiago-castro-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579402",
-    "conditionId": "0x4ab23019e9b71980424384a7a7cdb3d7a5d63b811880b08946372ca2a566c79c",
     "endDate": "2026-05-28",
     "closed": false,
     "active": true,
@@ -32671,16 +32291,6 @@
     "eventSlug": "which-cities-will-russia-enter-by-june-30",
     "negRisk": false
   },
-  "will-delhi-capitals-win-the-2026-indian-premier-league": {
-    "id": "1012312",
-    "conditionId": "0x02f714ae24b4eca3cd42a4eacbb3f1c9383c3ad754cac44df5c8cd28c739c0e1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-ipl-champion",
-    "negRisk": true
-  },
   "will-gujarat-titans-win-the-2026-indian-premier-league": {
     "id": "1012313",
     "conditionId": "0x6b75b60e7370dc8666313812971cafcb930988acdfa2ea0f5439910658e0feb2",
@@ -32814,16 +32424,6 @@
   "will-morgan-stanley-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-299": {
     "id": "1021152",
     "conditionId": "0x6ea4b7cf33492834f4a026ffbdfd6724837fa452b07965589cda96d78ae381d4",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-goldman-sachs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-197": {
-    "id": "1021153",
-    "conditionId": "0x5a4a06d086c9b4dae7bb5037cf8610dc50a045b7eedc056d2d3435dbfd684bed",
     "endDate": "2027-12-31",
     "closed": false,
     "active": true,
@@ -66584,126 +66184,6 @@
     "eventSlug": "uefa-champions-league-most-goal-contributions",
     "negRisk": true
   },
-  "will-daniel-ennis-win-the-2026-dublin-central-by-election": {
-    "id": "1400463",
-    "conditionId": "0xc160ac2b2b5f9a500cc4893611c65e45f50c4b8dbd204a2e8675329261373b0a",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-janet-horner-win-the-2026-dublin-central-by-election": {
-    "id": "1400464",
-    "conditionId": "0x1c559b452c2a451b170f5d209b3c46e81b2d3379e27ecb91a8331475a4625e8c",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-gerry-hutch-win-the-2026-dublin-central-by-election": {
-    "id": "1400465",
-    "conditionId": "0xbddb91830ef5d16ab6d4282d58fda2df4886f5978e476399b40040b786e526fa",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-malachy-steenson-win-the-2026-dublin-central-by-election": {
-    "id": "1400466",
-    "conditionId": "0x7aaa3b65947713a2de8c84da098fed1072fdd2be6db8a0d1d905323f027d753c",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-eoghan-ceannabhin-win-the-2026-dublin-central-by-election": {
-    "id": "1400467",
-    "conditionId": "0xeccd56699ee56764545aa1192b4efa17f540b7c0d8c409b6ede1c6f3c7054bdd",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-ian-noel-smyth-win-the-2026-dublin-central-by-election": {
-    "id": "1400468",
-    "conditionId": "0x05ce43fb8fc6b2f2b418f773bdac67bdf26f88806b158f0dbdfdedfd536398c2",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-gillian-sherratt-win-the-2026-dublin-central-by-election": {
-    "id": "1400469",
-    "conditionId": "0x744e180f08a452abb2917dba5be6a915ea7079994fd9006e19aed0f5ac88a52f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-janice-boylan-win-the-2026-dublin-central-by-election": {
-    "id": "1400470",
-    "conditionId": "0xc5c7e75579ebc7dd442e3a0bc40e47cbfcb641666ad3f8ea0bea24ae51d7523a",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-samas-mcgrattan-win-the-2026-dublin-central-by-election": {
-    "id": "1400471",
-    "conditionId": "0xce9e1f6eaad809a6ceb725d6afb29fe533a037abaaf91051360e6a478b22aba3",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-john-stephens-win-the-2026-dublin-central-by-election": {
-    "id": "1400472",
-    "conditionId": "0xbce03e14c6874e6dee01715a572c2dc995e2ca235b7b09fd39aa90b9cb63ee2b",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-mary-fitzpatrick-win-the-2026-dublin-central-by-election": {
-    "id": "1400473",
-    "conditionId": "0xa3f4b6e12e18b52b3f5450ce9ea8e05dc205d3add7469d76716d52bdce9f548a",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
-  "will-ray-mcadam-win-the-2026-dublin-central-by-election": {
-    "id": "1400474",
-    "conditionId": "0x961e13143b5f31ba9ac5db5e846230eb4e5ba59510f27b76dc6335dbaf9bd700",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dublin-central-by-election-winner",
-    "negRisk": true
-  },
   "les-wexner-charged-by-june-30": {
     "id": "1402896",
     "conditionId": "0xc2150d5d58c957816dcf137776a3ab002b038c582acfc36510f59547ddbb5f58",
@@ -81106,86 +80586,6 @@
     "eventSlug": "laliga-most-assists",
     "negRisk": true
   },
-  "will-luis-milla-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792258",
-    "conditionId": "0xe91b55ff589d544449c64272918b7c4546744299c626e67c0c11b607437f161f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-fermn-lpez-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792259",
-    "conditionId": "0xffeb14744575ff60e792ef4c3e91c4384a07d354ef84cad86165f0b963b3ac5c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-arda-gler-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792260",
-    "conditionId": "0xa86de20cd2898214738a6d54291fe94768f9f103e19486ea5de650917ae54900",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-pedri-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792261",
-    "conditionId": "0x1378f67b0793538bf7efca99c75116f089d5ad3266fc4d52a3438389149bd1e4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-federico-valverde-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792262",
-    "conditionId": "0xd1ec196d86234f618d79d145f71e013c55b69f384dbc941d84ce39b7e6d71ee2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-marcus-rashford-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792263",
-    "conditionId": "0x34a5bbcc677db98082dc64f747500a3b3ef2e37306d57a8a342e5d2525f3c873",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-dani-olmo-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792264",
-    "conditionId": "0x51eaaa49f79e23192bdd153dcd26b2e3d008e0e219254d72026c6492d0cbd029",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-edu-expsito-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792265",
-    "conditionId": "0xa77c273a27b6394daae995fd15edc8da410a2d403f9f1297e41e496c8e607ac6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
   "will-giuliano-simeone-lead-laliga-in-assists-for-the-2025-26-season": {
     "id": "1792266",
     "conditionId": "0x22de5f6af33158a64eeaae4ca81dd566d9310daad9e4572ca8a6683ba304324d",
@@ -81206,59 +80606,9 @@
     "eventSlug": "laliga-most-assists",
     "negRisk": true
   },
-  "will-luis-rioja-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792268",
-    "conditionId": "0xa9b28b46e317fd1e33a71e21f6e9eb6a167d8ed006d85f26bd1e5816caf868e7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-rubn-garca-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792269",
-    "conditionId": "0x7aedb214c452379aab2af47720dbb56cce96fb96d0d625a1179cb989075d3d29",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-vincius-jr-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792270",
-    "conditionId": "0xfa31b8230c2deaf4d60f7ba176e44ec80dddf0b9ead0c2e568d496c42c3f1f3e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-antony-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792271",
-    "conditionId": "0x53dc26d9c10e3691e3fe85349193d553c2d6d783aa5859ab6469c83c8371f3a5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
   "will-georges-mikautadze-lead-laliga-in-assists-for-the-2025-26-season": {
     "id": "1792272",
     "conditionId": "0x5d267c5d700deb90be6fbeaaba66d7122d17ba0a9a1a2691fff99d542b422ce4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-martim-neto-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792273",
-    "conditionId": "0xbe1ddfaccde215d2c3b5d1e1c2c999306474446e811f2849ee4134ffbcb99576",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -81309,16 +80659,6 @@
   "will-armand-gaetan-laurient-lead-serie-a-in-assists-during-the-2025-26-season": {
     "id": "1793686",
     "conditionId": "0xe9a0893b38f3e1021a47bfb1b8175129721d8800c10807c328a1190617c9a862",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-nicol-barella-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793690",
-    "conditionId": "0x9ccda68a19b40571b1f95d481c368917db8209d11c96602dcf9317d42c986df8",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -85400,26 +84740,6 @@
     "eventSlug": "2026-soccer-bolivia-lfpb-winner",
     "negRisk": true
   },
-  "2026-soccer-dfb-pokal-winner-bayern-munich": {
-    "id": "1830746",
-    "conditionId": "0x7032a5907745e38682c15889d0220f59e3a2833a2d291b8212221347bb360a19",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-dfb-pokal-winner",
-    "negRisk": true
-  },
-  "2026-soccer-dfb-pokal-winner-vfb-stuttgart": {
-    "id": "1830747",
-    "conditionId": "0x0b56bb6a30f7bcf2350e6f2594a87ca140a2aed147e09bef7ed1f16e6a7859b2",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-dfb-pokal-winner",
-    "negRisk": true
-  },
   "will-any-ai-model-reach-1510-overall-arena-score-by-june-30-2026": {
     "id": "1831317",
     "conditionId": "0x126633028f9a939c9ff28c9d05baf3ac5c6016fb9fb4f10d78e846fb30005799",
@@ -86720,29 +86040,9 @@
     "eventSlug": "2026-basketball-aba-league-winner",
     "negRisk": true
   },
-  "will-celta-vigo-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1834936",
-    "conditionId": "0x46b75b7cf1575f887a3fc5ef82a1716f54817feb759610a848c53719ad69caa3",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
   "will-rayo-vallecano-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1834939",
     "conditionId": "0x971edda3b86ace2151c7b359cdc0468e0249cf977bdf2107cb33a987e65104e4",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
-  "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1834940",
-    "conditionId": "0xf5409ad17bdbae0a01f248f99b36c498fca0bdc5108750e2d06360f0b7cdabcb",
     "endDate": "2026-09-01",
     "closed": false,
     "active": true,
@@ -86809,106 +86109,6 @@
     "acceptingOrders": true,
     "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
-  },
-  "will-athletic-bilbao-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835081",
-    "conditionId": "0xc05c4b20eca56a59acfdefec50c6e634c2f5778a4f2f262f275107472630490a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-real-sociedad-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835083",
-    "conditionId": "0xfaf822009c04b19e3e8a85010c7caf73456829ae1e626274c4808a6dc0e3e182",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-mallorca-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835084",
-    "conditionId": "0x75b69a10ba7de061b21031261e5d3abca437d435f807070b83da0287a788052a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-osasuna-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835085",
-    "conditionId": "0xed3d4c323e89362e82c72c2d65985d9b991a99eb6672f00d45bd698bc8399f82",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-girona-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835087",
-    "conditionId": "0x2ac7776e261e0821060e9b273d6e3f763191822560e0fa2fc18030a4b3c5d578",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-sevilla-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835090",
-    "conditionId": "0xd92706ae364fef168239a669e44d07ea399d60e7db17d3ad014dfb100479aa45",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-espanyol-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835092",
-    "conditionId": "0xf37459c16ffc2d8ecfcbb0208558da82ca463d0dc51833e2546f1085ab659a85",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-deportivo-alaves-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835093",
-    "conditionId": "0x0b53ae86b6c7f07952a8459cf7b7b53478dfe7de43d99672285609e88fdc7656",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-levante-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835095",
-    "conditionId": "0x1c5e716a1485d91f6d463474a0b5eb4aa5a459daa2ee7e5ffb637d934fc58e50",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
-  },
-  "will-elche-place-17th-for-the-2025-26-laliga-season": {
-    "id": "1835096",
-    "conditionId": "0x638001e5c8eb38819f57401ba7ad02195012ec2219c281ada58e7023c81b48b4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-relegation-survivor",
-    "negRisk": true
   },
   "will-sc-freiburg-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1835727",
@@ -88027,26 +87227,6 @@
     "acceptingOrders": true,
     "eventSlug": "mlb-team-to-make-postseason",
     "negRisk": false
-  },
-  "will-barcelona-win-the-2025-26-uefa-womens-champions-league": {
-    "id": "1848065",
-    "conditionId": "0x75a458c6fcc93f68dfa31d6a82867ee6cceb6523af95f0de7e28dab3ffba1d58",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-womens-ucl-winner",
-    "negRisk": true
-  },
-  "will-ol-lyonnes-win-the-2025-26-uefa-womens-champions-league": {
-    "id": "1848067",
-    "conditionId": "0x0ddf063902309e9b4e2e143d343ceb64abba5d5ad6a08c7f8d13dc60e01f4975",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-womens-ucl-winner",
-    "negRisk": true
   },
   "will-encore-medicals-market-cap-be-less-than-45m-at-market-close-on-ipo-day": {
     "id": "1849301",
@@ -91788,16 +90968,6 @@
     "eventSlug": "lol-cblol-2026-split-1-winner",
     "negRisk": true
   },
-  "will-keyd-stars-win-cblol-2026-split-1": {
-    "id": "1901138",
-    "conditionId": "0x880adf690872257a73e9436ae626c859eb3b884de21e968631fe2b8b2c09e19c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-loud-win-cblol-2026-split-1": {
     "id": "1901139",
     "conditionId": "0x6c45d0711dcd7b202e36d29ae17e8152fe3c4e112950d09ca559e7f45206c88a",
@@ -91826,16 +90996,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
-  "will-ctbc-flying-oyster-win-lcp-2026-split-2": {
-    "id": "1901170",
-    "conditionId": "0xe972436802b0722fdfd1cbe2e03407c2f81611b77dd9a384dfda2a0207256f1a",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcp-2026-split-2-winner",
     "negRisk": true
   },
   "will-fukuoka-softbank-hawks-gaming-win-lcp-2026-split-2": {
@@ -93376,16 +92536,6 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-mis-lph-2026-04-10",
     "negRisk": false
-  },
-  "will-carlos-alcaraz-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920453",
-    "conditionId": "0x4ed7f762e08bbe3889e816d4709bbdd665329781d9c5f1c1fb394e4c010a845c",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
   },
   "will-jannik-sinner-win-the-2026-roland-garros-mens-singles": {
     "id": "1920454",
@@ -101637,226 +100787,6 @@
     "eventSlug": "ca-14-special-election-winner",
     "negRisk": true
   },
-  "will-amarga-navidad-by-pedro-almodvar-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993166",
-    "conditionId": "0x6d664798c7c0e1c80b96cf796f2bf054be43d843598e71e88235aad35a0a61e2",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-parallel-tales-by-asghar-farhadi-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993167",
-    "conditionId": "0xb4ead6a07e44ddc4af881ccb3dbda1c50347617be69a0a8afdbb09aa18399994",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-a-womans-life-by-charline-bourgeois-tacquet-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993168",
-    "conditionId": "0x054947b70e63da9ff61332b6c5c3eb10d43c14f136476cad736292e01765819e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-la-bola-negra-by-javier-calvo-javier-ambrossi-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993169",
-    "conditionId": "0x0870fd2456996da2ec54fe09cc75f616a4a5dbf6241da7d5953aa0087e9b46b7",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-coward-by-lukas-dhont-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993170",
-    "conditionId": "0xbe8bb88e288d9cc7fde7862f72ba6aab59dbd37f2ff9c0d28f8653625b321cfe",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-das-getrumte-abenteuer-by-valeska-grisebach-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993171",
-    "conditionId": "0x5112d74db988dd7b6c50abd58ced005254ded278e0164e93a98416702d151532",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-all-of-a-sudden-by-hamaguchi-ryusuke-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993172",
-    "conditionId": "0x017c11efc5e718698db5e8137ce125495a7d60f81a532f62df4c7b2c2cf33af4",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-the-unknown-by-arthur-harari-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993173",
-    "conditionId": "0xe4c10f2aacfa409408bfc0320c9ce832d40c8240c87f7f345abb1fb8ddc430ef",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-another-day-by-jeanne-herry-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993174",
-    "conditionId": "0xe9f0439e3973a7ce420d1437badfc8a3350598db72aa8e6e2652a99932f648d3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-sheep-in-the-box-by-kore-eda-hirokazu-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993175",
-    "conditionId": "0x3ec21df3f56f1b9109c969c3a32c1795adc7c5b983bf2d752f2db3b9824d2ac1",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-hope-by-na-hong-jin-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993176",
-    "conditionId": "0xf3125ec8969ad69cc5b8609f39d1ff8236b9938bb02698cbc9d4aaea42106135",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-nagi-notes-by-fukada-koji-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993177",
-    "conditionId": "0x1c8c609baa7e6e5c37b3e226d725e3f284c152e8048f61000831579a53258ac6",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-gentle-monster-by-marie-kreutzer-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993178",
-    "conditionId": "0xe2f2cb784d51fcbae6c9b3f714a19368d1d0015d945960e2490b6bd47bd0e614",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-notre-salut-by-emmanuel-marre-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993179",
-    "conditionId": "0x17e2d8fbd31eeada73e3876cbe21667e6b5a19c576b870234f5d91873b3e85b3",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-fjord-by-cristian-mungiu-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993180",
-    "conditionId": "0xf0ecfbeb8c37a3a6e7a9ee400495a96e4630827a1a24009758f8ce63e051b86f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-the-birthday-party-by-la-mysius-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993181",
-    "conditionId": "0xccc272b9bd720afa89f29a37823b35ed4a2ea37b28642e2db0d45de69713b636",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-moulin-by-lszl-nemes-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993182",
-    "conditionId": "0x6098dd1a663113ac57e430ebb92d09ef8608857b58776ed3ed70f6f94e6b779f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-fatherland-by-pawel-pawlikowski-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993183",
-    "conditionId": "0x665a03f2fa0f1e8ebb595d107b6b79059ab74231b4b3aea44bc873bc78e042b5",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-the-man-i-love-by-ira-sachs-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993184",
-    "conditionId": "0xfd9cc85e7820de6b36f6cf75cbd99a2c2c83dac9c3271b87c51619be4123bb53",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-el-ser-querido-by-rodrigo-sorogoyen-the-beloved-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993185",
-    "conditionId": "0x76f4adc19276cf2f3c03aeffd98213ef0e9ade7cd9f3ceab80343c6579321c5e",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-minotaur-by-andrey-zvyagintsev-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993186",
-    "conditionId": "0x4a5721cb581749201696b269a2f4af5d6c0fdf44d1e2d236606df912c39d17f2",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
-  "will-film-a-win-palme-dor-at-the-2026-cannes-film-festival": {
-    "id": "1993187",
-    "conditionId": "0x4cebcb9b034c4dc77f6a5ad1bf772f88229ef7e2ca6ff3bfb12415580f9b8f73",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cannes-film-festival-palme-dor-winner",
-    "negRisk": true
-  },
   "will-derek-grasty-finish-first-in-the-2026-california-governor-primary-election": {
     "id": "1993461",
     "conditionId": "0xc7e94e134f454e2baeb6b6675ea22d2c2a58f3af37cf8807069e53b883342e4c",
@@ -109946,16 +108876,6 @@
     "acceptingOrders": true,
     "eventSlug": "mo-06-republican-primary-winner",
     "negRisk": true
-  },
-  "lazio-53-points-in-serie-a": {
-    "id": "2044075",
-    "conditionId": "0x9c13677dd27c3e7e8120d82538f1de060d8969ed7bd0ae229bcebe99c3d09c53",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lazio-53-points-in-serie-a",
-    "negRisk": false
   },
   "will-nathan-butterfield-be-the-republican-nominee-for-ok-01": {
     "id": "2044101",
@@ -119600,5 +118520,1085 @@
     "acceptingOrders": true,
     "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
     "negRisk": true
+  },
+  "will-a-player-representing-jordan-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070990",
+    "conditionId": "0x5ea07327595583f3f5bc63fd098769ca7f3f893aa66ee8109acdb9bef2c6e716",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-portugal-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070991",
+    "conditionId": "0xc28a6b9da9a853118901950ccffb69caffe21982678be46236b420a42f105ad6",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-colombia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070992",
+    "conditionId": "0x42d914519f9636b4216d91a3cc90a55507fb334dd08e23930dc165b64a7851c8",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-uzbekistan-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070993",
+    "conditionId": "0x28864e2c8f77312e79a34bc106c40e2ad73e33a07cbb2324d8f8c48ef79fed2f",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-dr-congo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070994",
+    "conditionId": "0xca259b336810125e17e15874e77ddeed818e961e7214d6eed1d567564c6450ad",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-england-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070995",
+    "conditionId": "0x412b0b69c2ebff68001118b6a72e85994d47fd5a237c75536b3c11f8f70389ca",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-croatia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070996",
+    "conditionId": "0x2859351d3ada522e16bc2e6bd5e83c74ea2699836335babb4431f4857e23e6a8",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-panama-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070997",
+    "conditionId": "0xaf952eedfbcee3c8711ba90550ae79e1bfd2e6d00ac93ca7e86e74f6bd85ec2d",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "will-a-player-representing-ghana-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2070998",
+    "conditionId": "0x61a3a5404f788237d6049d8f578799dc50cdbcb14e48f2ad8000316c504a72c0",
+    "endDate": "2026-08-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
+    "negRisk": true
+  },
+  "dota2-re-lynx-2026-04-26-game2-both-teams-beat-roshan": {
+    "id": "2071212",
+    "conditionId": "0x1a81f7a220e19b45201dac1843d64d2304e4386c48081e8b6226c5b3cc33449a",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-re-lynx-2026-04-26",
+    "negRisk": false
+  },
+  "dota2-re-lynx-2026-04-26-game3-both-teams-beat-roshan": {
+    "id": "2071217",
+    "conditionId": "0xb74cd15511d1feef0e979083dce99bdc431268ca4aeeaf2411f7cf73a6b8f62c",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-re-lynx-2026-04-26",
+    "negRisk": false
+  },
+  "dota2-sar1-ave-2026-04-26-game2-both-teams-beat-roshan": {
+    "id": "2071232",
+    "conditionId": "0x1286b0390fad0c650783cac60289f48c790dfda39ef2a12dc80d48c4c26afa0d",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-sar1-ave-2026-04-26",
+    "negRisk": false
+  },
+  "dota2-1win-pr1-2026-04-27-game3-both-teams-beat-roshan": {
+    "id": "2071257",
+    "conditionId": "0x3c87ced9e19dcb4c2baf84a174a382e9d4cb1f0555c3863545553e29e8e1f533",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-1win-pr1-2026-04-27",
+    "negRisk": false
+  },
+  "will-italy-replace-iran-in-the-2026-fifa-world-cup-298": {
+    "id": "2071285",
+    "conditionId": "0x69d02de291243190dc83c79bf52d38b3bd62d96c04646918d3faa24059b450fa",
+    "endDate": "2026-08-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-team-will-replace-iran-at-fifa-world-cup",
+    "negRisk": true
+  },
+  "will-uae-replace-iran-in-the-2026-fifa-world-cup-822": {
+    "id": "2071286",
+    "conditionId": "0x5b3622a357683cac6e331f6777a1b4954c73ef4f6cd870af751cd86985592893",
+    "endDate": "2026-08-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-team-will-replace-iran-at-fifa-world-cup",
+    "negRisk": true
+  },
+  "will-no-country-replace-iran-in-the-2026-fifa-world-cup": {
+    "id": "2071287",
+    "conditionId": "0x0e77b1ad3dc69c6fcdf5d68f2bf0871453684237f5509d3eb7bbba23a8e990a7",
+    "endDate": "2026-08-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-team-will-replace-iran-at-fifa-world-cup",
+    "negRisk": true
+  },
+  "will-another-country-replace-iran-in-the-2026-fifa-world-cup": {
+    "id": "2071288",
+    "conditionId": "0xce74e7469281bf9ecbd73d2798a445117e199dda9269b6d47e43628462e4040d",
+    "endDate": "2026-08-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-team-will-replace-iran-at-fifa-world-cup",
+    "negRisk": true
+  },
+  "will-bolivia-replace-iran-in-the-2026-fifa-world-cup-579": {
+    "id": "2071289",
+    "conditionId": "0xd57732b457f10aaa8fb07b15da41c50ded7abb0d0080e5f74c47e171090086bf",
+    "endDate": "2026-08-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-team-will-replace-iran-at-fifa-world-cup",
+    "negRisk": true
+  },
+  "2026-fifa-world-cup-unbeaten-champion": {
+    "id": "2071432",
+    "conditionId": "0x00406e85288b97f3d587f259f15c557f61bdaa235124d82fe956c65974949ee8",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-unbeaten-champion",
+    "negRisk": false
+  },
+  "dota2-aur1-bb4-2026-04-25-game2-both-teams-beat-roshan": {
+    "id": "2071475",
+    "conditionId": "0xc7b9df33419f2260ca53792c7aa0238051024a895e02fb8476922f8a19eae752",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-aur1-bb4-2026-04-25",
+    "negRisk": false
+  },
+  "2026-fifa-world-cup-winless-team": {
+    "id": "2071510",
+    "conditionId": "0xa806643e78624d6f9ba6e52b55a949a208a8c42156de06373d43037ea5adbdd5",
+    "endDate": "2026-06-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-winless-team",
+    "negRisk": false
+  },
+  "will-mexico-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071518",
+    "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-south-korea-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071519",
+    "conditionId": "0x50aa90e1d6657519c4f9f931e9374cfb6d1dd24dc6bb8d3c9680dba6efd9c9e3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-south-africa-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071520",
+    "conditionId": "0x631a7b9f9d7649360f6873024da6a1d2cd1db1f2a2a72e99c41da90e26eb8ce0",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-czechia-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071521",
+    "conditionId": "0xf9da5b6b2668d0e9015d68f29f8ca5af6ebd1c9c1655a4b121db7da89232394f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-canada-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071522",
+    "conditionId": "0x058f64dd02b0d5cf0662d577f9b8d46cb27a4e1bdffa13eff06d94d3298b46b6",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-switzerland-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071523",
+    "conditionId": "0xf812cd60daad3492c2bbf7a0f1e8ca5574c2d72a5602f6ed8e65547508cd86e2",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-qatar-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071524",
+    "conditionId": "0x42ade71493164079529663adbf3568532f6329749a4ed2675f66ebf1757c1cdd",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-bosnia-and-herzegovina-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071525",
+    "conditionId": "0x9584c542d5d74a257a673ff1c5b4e324ca45f54f3dff4d231cd45016cec4319e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-brazil-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071526",
+    "conditionId": "0xf61d3e40d7048b817257fe8348f5df9304233d57510ccba11434f45eb96093d7",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-morocco-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071527",
+    "conditionId": "0xaeef597d962f131d0ae56979d8697a81b670e2cfc22bcc7fe24f40ea9d2b430a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-scotland-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071528",
+    "conditionId": "0x691ab9d1e155569f27803beb23f36bf8de726d30156f211b6d4f2e64fe637827",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-haiti-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071529",
+    "conditionId": "0x60b474a2554a4e230d4a13a8617e8a23ed44ffc88edb0c3e58f1a6a7afc5f81a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-usa-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071530",
+    "conditionId": "0xf0da2d17e6a966439fdb10c3623972da50825e6dbec55bf43ce651fbb8952bca",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-australia-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071531",
+    "conditionId": "0x4b9a5727f0548b796840ec252855b4042df9908e24ad64dfe6315feb9fb5f213",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-paraguay-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071532",
+    "conditionId": "0x5cf5dfd0b0ac6109c41cc61ee492368d95d7989be09b0854ca322974c9f86435",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-turkiye-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071533",
+    "conditionId": "0x19f232d352d8c07eb72f982713c7d026a9e216f55fcd1982417ad720b8eaa53a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-germany-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071534",
+    "conditionId": "0xbbadf26acbae24eb7aef799d679c761efb5748855813ca237fefac798e5fbf68",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-ecuador-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071535",
+    "conditionId": "0x55289adcf5edb69c864cdd5c58cc1819c98862165ec24039ac33146d3f35c061",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-ivory-coast-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071536",
+    "conditionId": "0x2bc3f9f83239d0cf320c156a456ccef2a627b0648e8c859b2b0548b47f38500f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-curacao-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071537",
+    "conditionId": "0x73faa4237a04fc75911879d5bbda19e5d834fc8604880d4c35fbdf55b2b37efc",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-netherlands-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071538",
+    "conditionId": "0xb3cd6f2687376e2fc50563b4c48213b87bee8af5b8f047a6b1b136b7d9fbc90a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-japan-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071539",
+    "conditionId": "0xdb7f8c5d178965b491474fdd6f18b25d2cb7042c5e300d405bffba04e8e4ea6c",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-tunisia-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071540",
+    "conditionId": "0x40e39f6d58df031bfa795e8cf2798a6c16fc89f3a9f4b4ec80ba1ec63a4c1861",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-sweden-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071541",
+    "conditionId": "0x8e508ebc36dcff88883ca4134648726032a04f83eac62cb7e9e90dcf9cd91ddd",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-belgium-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071542",
+    "conditionId": "0xbf329eebe5d2d310f099fd9628f1c77a47646f5ce177239e03cb208c37c88137",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-iran-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071543",
+    "conditionId": "0xea49f13c399b5fb91cbf90a52a0798b9bb5c26d72935ae6d35a9a2cf521d16df",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-egypt-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071544",
+    "conditionId": "0x4b28dd865163ffc0f1901a7b547c4c40b3d17d14fdd67f90ef13ad38bdecba01",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-new-zealand-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071545",
+    "conditionId": "0x9ed11c0b247e8dd7b111579643812925d7ec40f02064b259a952eef9b8759147",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-spain-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071546",
+    "conditionId": "0x8bdf55664cb17a543fef1f43bd6aeb0aa7b7849cb31620808ce258b3e2ab136d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-uruguay-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071547",
+    "conditionId": "0xb8fdd2a20096f85bd146bf1a862ff711eca18c6d6bc972f57a9ffea60295d962",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-saudi-arabia-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071548",
+    "conditionId": "0x55d6c922866a4c1e00b80eec1dca2444d9d08321deee555b0b5d3f2ca9c676cd",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-cape-verde-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071549",
+    "conditionId": "0xc6d38645c9f5b3dd8546786efcdaa6713c7ca4ee29c90870add6e7efa14a62bb",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-france-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071550",
+    "conditionId": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-senegal-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071551",
+    "conditionId": "0xc85c74ebc2faa04616e18e317f5691046f831552329778891a1879d01c8ae414",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-norway-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071552",
+    "conditionId": "0x224488d5b8e4e454c6f7ed545bd56d3d5768b582eee6bbddf286ad5ccd8adadf",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-iraq-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071553",
+    "conditionId": "0x5e36639856ef01717c489cee6dea2e732908aec877d4b166c9cf4be1f9d175d3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-argentina-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071554",
+    "conditionId": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-austria-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071555",
+    "conditionId": "0x0a6b2fa9419bf25818035efdacf1c48c206d68f6df2f8b5aee641f3d1780341b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-algeria-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071556",
+    "conditionId": "0x0f249191f4ea8283d6ce045431ac27dfc9ff98a597dfe0feb805a28b82adfba4",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-jordan-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071557",
+    "conditionId": "0x522fd0f8c21e522828a660252df7cd99459fdcaf790ca058fd5f7df1a459fe5b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-portugal-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071558",
+    "conditionId": "0x0ad867208540846e9cc09dc722daff9dfba753afc985e145c81edbb82fb500e5",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-colombia-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071559",
+    "conditionId": "0x275d4fd1c7422fedb53dff0a97bf422a0255d289e527105cdef3357b83f64e29",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-uzbekistan-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071560",
+    "conditionId": "0x5a59b33ae24f5549ad3711071a4764e279f4d7fb488190ad4495d5b573b4f116",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-dr-congo-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071561",
+    "conditionId": "0x286b584db2685580d4297e4d98c8ddfa900cd8765f62d8e546c3edbdfb8a60c6",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-england-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071562",
+    "conditionId": "0x2bf419aa66753cd95324dfe102ad2d0d5bdb0205cf52735a389134b78f2b2139",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-croatia-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071563",
+    "conditionId": "0xf66f166ef5b30b74fdcd4a5be870393e05b874074ba5c9c2180b1b9d781706d7",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-panama-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071564",
+    "conditionId": "0x8f29ecb911257a128b7f7234ac9e8a8ac6390ff9f5329d4797c50c44c9ae97f4",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "will-ghana-reach-the-2026-fifa-world-cup-final": {
+    "id": "2071565",
+    "conditionId": "0xf10e7756cd1cdfc69d747008d79481dbc260f99bcbaaa7bba2c32670af194372",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-nation-to-reach-final",
+    "negRisk": false
+  },
+  "bang-si-hyuk-charged-in-2026": {
+    "id": "2071611",
+    "conditionId": "0x49e0660b4b603a7dfb7ba42921c798c35778e8b519012b32e1441c9141c37c87",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bang-si-hyuk-charged-in-2026",
+    "negRisk": false
+  },
+  "will-there-be-fewer-than-2-chatgpt-outages-in-may-2026": {
+    "id": "2071646",
+    "conditionId": "0x041781e51fba4cc3eca81511d2035d699b30386eae5351d5eff86b1de2ea0347",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
+    "negRisk": true
+  },
+  "will-there-be-exactly-2-chatgpt-outages-in-may-2026": {
+    "id": "2071647",
+    "conditionId": "0x7b4a83b28d0fadab36f70f723c7b688181689b69b7e6033380bfa7826a876ada",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
+    "negRisk": true
+  },
+  "will-there-be-exactly-3-chatgpt-outages-in-may-2026": {
+    "id": "2071648",
+    "conditionId": "0x59944772e1875c4d05436badbdef34b8ae3ee9b024f6ca12134b482cac77455e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
+    "negRisk": true
+  },
+  "will-there-be-4-or-more-chatgpt-outages-in-may-2026": {
+    "id": "2071649",
+    "conditionId": "0x001fec0f90da1fdc6c3d4d6bf626e41815b40e7b19eef85a745a29ef47ff925c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
+    "negRisk": true
+  },
+  "lee-jae-myung-out-as-president-of-south-korea-in-2026": {
+    "id": "2071657",
+    "conditionId": "0xf4c72ff42c3f1ee9f25e835e62ca52d71a9cafbcc11f93c01af709af8ee5ff09",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lee-jae-myung-out-as-president-of-south-korea-in-2026",
+    "negRisk": false
+  },
+  "will-aapl-reach-320-in-may-2026-416": {
+    "id": "2073759",
+    "conditionId": "0x6c36fb0298a81377c1bbdb6a1ebe255bef1ca46773574680833c4123698bdfcb",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-reach-312-in-may-2026-659": {
+    "id": "2073771",
+    "conditionId": "0x495d472e596c8e70f6023738a08ec22f9a3e0d1992d038b182fde2bfea3396d3",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-264-in-may-2026-269-177-213": {
+    "id": "2073828",
+    "conditionId": "0xdbd4d8e50898f6ded3f6938dcad50d3a56ee60749024d987ec28ca1f29556385",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-256-in-may-2026-458-846-331-137": {
+    "id": "2073832",
+    "conditionId": "0xedb2590e00181c5b372e1c30a6c50b6409158ec9015f3830743e26a334afb630",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-248-in-may-2026-297-114-425": {
+    "id": "2073835",
+    "conditionId": "0x295dff52f9d587a7dc7cc027c1e54f3d09b0500d5fd76864e59f351bf69cc0ab",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-240-in-may-2026-918-466-732": {
+    "id": "2073838",
+    "conditionId": "0x7b90555e9c22610bb4959ef04279775812bbb74ec9611eb71bf6a552bcc38242",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-232-in-may-2026-558-816-918": {
+    "id": "2073843",
+    "conditionId": "0x89e602ad9d23e3366db345ccb3f6a475d6f15a4885db6e3caee45a115272db6f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-224-in-may-2026-771-581-614-269": {
+    "id": "2073846",
+    "conditionId": "0xa3d90d3d0812573b12a90a5259c62eba62c4158c1eb1dda0ffa17e5373a5bf3e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-aapl-dip-to-216-in-may-2026-968-734-939": {
+    "id": "2073850",
+    "conditionId": "0xe5f13499c85466b528790e42617428f2fc01a90437333f04087b5bceace9ca1d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-525-in-may-2026": {
+    "id": "2073880",
+    "conditionId": "0x75fa1cf3d1cfb9b2e2f6fdf0cfaf754659002d61a6e3f67d9a6a17f1dd1f7ddb",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-510-in-may-2026": {
+    "id": "2073883",
+    "conditionId": "0x608a423ee30894d8a725780d773dec4576312d51c2b4d5536d7d166367b05c5a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-495-in-may-2026": {
+    "id": "2073886",
+    "conditionId": "0x8177109138a45f9888cf559c20cd01009626053b748c7fc11814d677be577331",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-480-in-may-2026": {
+    "id": "2073888",
+    "conditionId": "0x09fc9ebdc6deb11d31b5fb948765e644b406c1dfefa03867ebe70f9d12cca5f2",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-465-in-may-2026": {
+    "id": "2073890",
+    "conditionId": "0x6c5d76a313f3b2095bf8ce773a0a57b33fd8b5f16b97135913c245e997a9cb1e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-450-in-may-2026": {
+    "id": "2073892",
+    "conditionId": "0xb1d7ede4557e92bf49cec9c4f34c7a209eb08966456fbde6e82b6f58c20f6c78",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-reach-435-in-may-2026": {
+    "id": "2073895",
+    "conditionId": "0x0e131b5a4b67a53575c7ac9cbfda9bf2556a810ea4121118eb2c5158917c5115",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-dip-to-390-in-may-2026": {
+    "id": "2073901",
+    "conditionId": "0x9e540f819568e50d41ce608b391c5369f304d037b46be5d49bc678856920eecf",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-dip-to-375-in-may-2026": {
+    "id": "2073905",
+    "conditionId": "0xb65c9342f8446039ce6f4a66263bb968cd63aac5aec507dc75b59ae94ed785b9",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-dip-to-360-in-may-2026": {
+    "id": "2073907",
+    "conditionId": "0x9f915dbbfa0fb87dbfbe6814b82d7ab2dd94ed9526784c6691b71c2b8304e940",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-dip-to-345-in-may-2026": {
+    "id": "2073909",
+    "conditionId": "0xa15269434368272f3a108d31ffd1c3cffd94d99028e0d5605cf6ecc6cd6f52fe",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-msft-dip-to-330-in-may-2026": {
+    "id": "2073911",
+    "conditionId": "0x1a36cf8c66d47d0a2edc1987fa9327dd876901e86e8363e3862e5355a8d0742a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-msft-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-reach-320-in-may-2026": {
+    "id": "2073927",
+    "conditionId": "0xab48230f40d42f02192148c872ed477f1e30553bb287780f6301bfb55a52f14e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-reach-312-in-may-2026": {
+    "id": "2073930",
+    "conditionId": "0x5f7b704bb293f5bab820f0f7426e8cc5d4f6a5d9d7305a333885e0439537b68b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-reach-304-in-may-2026": {
+    "id": "2073934",
+    "conditionId": "0xa966f6045c1e38f42ae5041dfaee61f90d50ccc84ba0cbd7152c138c72978589",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-reach-296-in-may-2026": {
+    "id": "2073937",
+    "conditionId": "0xffbcc9337373bf3733267b5504dbea3590aa6fe2c4be2e74946200ef90e52f74",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-reach-288-in-may-2026": {
+    "id": "2073940",
+    "conditionId": "0x282d1456769e594c26558ced06a7684dd75af85c05a5f5e111ae5bbd20775e24",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-reach-280-in-may-2026": {
+    "id": "2073943",
+    "conditionId": "0x552a1017b5c8f574da1b269d0eb265701ce80becdb07bd0285b7370cc9f209c3",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-dip-to-248-in-may-2026": {
+    "id": "2073953",
+    "conditionId": "0x7d5f6a9dce5016f7940c7faf0397427cf7984de5fc74a862e7bc9f509699de22",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-dip-to-240-in-may-2026": {
+    "id": "2073954",
+    "conditionId": "0x7f9c0c2e922366b19b55f9032e548a27c84caca90476cdf6aa8357c7e41c6f91",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-dip-to-232-in-may-2026": {
+    "id": "2073957",
+    "conditionId": "0xaefa292e1a2334666762e5d175749331656fc59931767802ef9b7470a93b50cf",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-dip-to-224-in-may-2026": {
+    "id": "2073958",
+    "conditionId": "0x65908a3343f5dae79f5d4503eaa598e446a095a05e7b3fed31e77e71192867fd",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-amzn-dip-to-216-in-may-2026": {
+    "id": "2073959",
+    "conditionId": "0x6045d6fe104cf7526be2d6bb3ed05617c76713eb19f0ceb713e4402e17750cb5",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-high-410-in-may": {
+    "id": "2073979",
+    "conditionId": "0x9def76550076528b77ee731423b5ec7f11fa631ffaf8181841ab51320ecac53b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
   }
 }
