@@ -35557,36 +35557,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-arthur-fils-win-the-2026-mens-french-open": {
-    "id": "1087517",
-    "conditionId": "0xe3e8b373d68c1c839f0075df953135e8c84937d6e0f661db72f9b6b33ac057b7",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-jack-draper-win-the-2026-mens-french-open": {
-    "id": "1087518",
-    "conditionId": "0x79374d6a42bc73c84efa2d7097607b544792b4e9dcc3e06de32f1d4677c4a474",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-lorenzo-musetti-win-the-2026-mens-french-open": {
-    "id": "1087519",
-    "conditionId": "0x99783ea5344cd6535f671ed6642006a66157cd8a2398aca295f1ab99aaf50e34",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-casper-ruud-win-the-2026-mens-french-open": {
     "id": "1087520",
     "conditionId": "0x018b3300ac367451ac9282425942e775f1015bb3c72b8a483153593bdb550b6e",
@@ -36167,16 +36137,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-markta-vondrouov-win-the-2026-womens-french-open": {
-    "id": "1087784",
-    "conditionId": "0x6f9279326012798eadd8c63d41b38651867dae8490d18b9284ab1585dbb38cd8",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-beatriz-haddad-maia-win-the-2026-womens-french-open": {
     "id": "1087785",
     "conditionId": "0x458d017554da30e4f1364cbef92418a249db7b9c4f85264f6cb2b65350fc38bb",
@@ -36240,16 +36200,6 @@
   "will-leylah-fernandez-win-the-2026-womens-french-open": {
     "id": "1087791",
     "conditionId": "0xa6745164be396b6756f5214f81338a44d44e273958c8ea122012bf389c02e33e",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-victoria-azarenka-win-the-2026-womens-french-open": {
-    "id": "1087792",
-    "conditionId": "0x408b347a821d3297683bd281c7578e8c9669d9013ed03aaf4937082e3d5d21a5",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -36327,29 +36277,9 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-karolna-plkov-win-the-2026-womens-french-open": {
-    "id": "1087800",
-    "conditionId": "0x81666ac08b14252b7f258434c1d051eeee037f77385b3b83e3bd37a861ca4375",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-katie-boulter-win-the-2026-womens-french-open": {
     "id": "1087802",
     "conditionId": "0xe2692b8b9cf4f2773fe59434b30f0fcac76ff5a9db8915efca9b4b7e82944be6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-veronika-kudermetova-win-the-2026-womens-french-open": {
-    "id": "1087804",
-    "conditionId": "0x22b8b968931b86b2c2c8bade237172bdb22935767179bfdfbad8cbeddaa46282",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -92357,16 +92287,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-lorenzo-musetti-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920457",
-    "conditionId": "0x44f72e37abd66db6f98e31a301d917bf185038cc6efdb9c71fe05b9188ce341d",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-alex-de-minaur-win-the-2026-roland-garros-mens-singles": {
     "id": "1920458",
     "conditionId": "0x833f23acc07af612d8c6ce0514ef77b8f0eb7689e79f98cf0cff549df8c99d4e",
@@ -119599,6 +119519,86 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-315-in-may-2026-611-343": {
+    "id": "2074055",
+    "conditionId": "0x865050bea14c40a53de081954b55fe7d1c4bb3089097400a2619f27d39a86d55",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-300-in-may-2026-571-535": {
+    "id": "2074056",
+    "conditionId": "0x473faa5b3622fbf8b96557d01e735442ed44274e9b11b951b2eea18dd47c18b8",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-285-in-may-2026-828-997": {
+    "id": "2074057",
+    "conditionId": "0xe777d06761dd921bc087c014057c445c305f68a5e2e2652a7e26a2b8c85ea7db",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-reach-264-in-may-2026": {
+    "id": "2074058",
+    "conditionId": "0x3b1607fcd9d94b2a58d3dd5e35df995b7be5737c51a02b8c1aad4f0adbe3acb3",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-reach-256-in-may-2026": {
+    "id": "2074059",
+    "conditionId": "0x19e35290ff27d3b5ac00fbf6bbfd4e726c33414ab99ae558a6b5ad5aa34042a1",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-reach-248-in-may-2026": {
+    "id": "2074060",
+    "conditionId": "0x76e08e9528154ddbc7397c51733462752088bbbb1cd062f4cb284f2c4a7c20c0",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-reach-240-in-may-2026": {
+    "id": "2074061",
+    "conditionId": "0x61556e531bfb9566b66991d160a7605ae7de38276f0ff05dee4a6abae3d4fd6f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-dip-to-192-in-may-2026": {
+    "id": "2074067",
+    "conditionId": "0x1cc9ecbc8458e31c1d46b1eef10dee917985c96dfc60b90d62ea6604acae7316",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
     "negRisk": false
   }
 }
