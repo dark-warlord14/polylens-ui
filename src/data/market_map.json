@@ -212,7 +212,7 @@
   "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254": {
     "id": "556108",
     "conditionId": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
-    "endDate": "2026-02-01",
+    "endDate": "2026-07-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -34992,7 +34992,7 @@
   "will-usdt-market-cap-hit-200b-before-2027": {
     "id": "1068728",
     "conditionId": "0x16fcfe6c4bc8bf2fd210f1e3b5b0d55a2115a437923dc5730d63acb62c3366c9",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -35130,7 +35130,7 @@
   "will-rwas-hit-50b-by-december-31-2026": {
     "id": "1068768",
     "conditionId": "0x661fa34d88495f4ce0b90f8993610a86809940059089ccf1ed2c8a9a37e43971",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -35637,16 +35637,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-sebastian-korda-win-the-2026-mens-french-open": {
-    "id": "1087528",
-    "conditionId": "0x4363ac052ddeefcf5033fc1058ec4f35e3954c314285d99398602d9828bf2f1a",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-hubert-hurkacz-win-the-2026-mens-french-open": {
     "id": "1087529",
     "conditionId": "0x0eeeb4d04b12f8e2b937dfa6563a89b6cc08d69e8ab918c51185e3752a334030",
@@ -35700,16 +35690,6 @@
   "will-tommy-paul-win-the-2026-mens-french-open": {
     "id": "1087534",
     "conditionId": "0x45d819d9d731db09185dcd4d60522c46485a205eea4dcf3443515e91c8e63ac4",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-grigor-dimitrov-win-the-2026-mens-french-open": {
-    "id": "1087535",
-    "conditionId": "0x974b8c1c84376fb5d58ec1fca05f0977c599693e5ce5ea401f697b17b4c7fd5f",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -36110,16 +36090,6 @@
   "will-anastasia-potapova-win-the-2026-womens-french-open": {
     "id": "1087781",
     "conditionId": "0xc261d9ca51d2ec442a3eb9e19801adc7da18a4229dbab057ca7e7566163ed082",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-bianca-andreescu-win-the-2026-womens-french-open": {
-    "id": "1087782",
-    "conditionId": "0x4f22b95b46e09d09d78b57511dc27111c5b02a1b60a5c4599c29641ac40b4013",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -54712,7 +54682,7 @@
   "microstrategy-delisted-from-msci-index-by-june-30": {
     "id": "1320795",
     "conditionId": "0xfab9157577726222d03cbd0e886c749e852a877d3e8ee92900ea3f180b79d778",
-    "endDate": "2026-04-01",
+    "endDate": "2026-07-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -54722,7 +54692,7 @@
   "microstrategy-delisted-from-msci-index-by-december-31": {
     "id": "1320796",
     "conditionId": "0x1f2f8b7de407213b780d16021977b90cea238c9787d07957133569ac83aa0b3b",
-    "endDate": "2026-04-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -119594,6 +119564,36 @@
   "will-nvda-dip-to-192-in-may-2026": {
     "id": "2074067",
     "conditionId": "0x1cc9ecbc8458e31c1d46b1eef10dee917985c96dfc60b90d62ea6604acae7316",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-dip-to-184-in-may-2026": {
+    "id": "2074068",
+    "conditionId": "0xde34cbad736260920729f35fce137732116abcf32cd6c218ced4d6f962c60b23",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-dip-to-176-in-may-2026": {
+    "id": "2074069",
+    "conditionId": "0x47cf428977a08103354f15764aa7c4e3c3fdf5898af0aac74c8b0d65da1eccf3",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-nvda-dip-to-168-in-may-2026": {
+    "id": "2074070",
+    "conditionId": "0x2db4d326c3bcb63f598798d95ef549d638594dc7ee0652af84c9b5b99461e967",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
