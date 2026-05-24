@@ -32421,86 +32421,6 @@
     "eventSlug": "which-artists-will-release-new-albums-in-2026",
     "negRisk": false
   },
-  "will-morgan-stanley-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-299": {
-    "id": "1021152",
-    "conditionId": "0x6ea4b7cf33492834f4a026ffbdfd6724837fa452b07965589cda96d78ae381d4",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-jpmorgan-chase-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-471": {
-    "id": "1021154",
-    "conditionId": "0x85b7ad683d84915d10fab8e8313764a2918d6f33a40c965030ff829cd9d8dbd1",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-bank-of-america-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-433": {
-    "id": "1021155",
-    "conditionId": "0xa7d8fc08e52e2850f7cc0e28b17b56ec89d84b4aee2c3f8fad1bf8dae1449d88",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-citigroup-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-719": {
-    "id": "1021156",
-    "conditionId": "0xbac1d26ff52af7fecbafe75cc5abbb88b2801868501f9ec22984d0fcea609e9e",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-barclays-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-115": {
-    "id": "1021157",
-    "conditionId": "0x46d416bf1d1248df0d711f806df13504db457e46c62c6108c2e7b6c599f88d76",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-884": {
-    "id": "1021158",
-    "conditionId": "0xebb28e489f1e628998be9c3796d33b349ee1e6bb46c2ed1ec43c88a8dbdfb08c",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-deutsche-bank-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-824": {
-    "id": "1021159",
-    "conditionId": "0x7592804e82c5a16c3e697c49647ae9b26fe3eeb14ea6de6d7832544a993e578e",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
-  "will-wells-fargo-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-174": {
-    "id": "1021160",
-    "conditionId": "0xbad86ba21807056824d037b1f9a6051aa235a29722b2f3694409f97ca6c20328",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lead-bank-in-spacexs-ipo-836",
-    "negRisk": true
-  },
   "variational-fdv-above-500m-one-day-after-launch-547-272": {
     "id": "1028586",
     "conditionId": "0x76e7f72aef4e8533e5f3e6672f223899682d52849e022cac8592a7a4f56cb1a7",
@@ -36420,16 +36340,6 @@
   "will-katie-boulter-win-the-2026-womens-french-open": {
     "id": "1087802",
     "conditionId": "0xe2692b8b9cf4f2773fe59434b30f0fcac76ff5a9db8915efca9b4b7e82944be6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-ons-jabeur-win-the-2026-womens-french-open": {
-    "id": "1087803",
-    "conditionId": "0xf12af0d26cc2ee9b0d2442c7a4b1dbb020d3f07338f9fd13de7c9ee93dc780d9",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -76258,16 +76168,6 @@
     "eventSlug": "bank-of-brazil-decision-in-june",
     "negRisk": true
   },
-  "elon-musk-of-tweets-may-2026-640-659": {
-    "id": "1698891",
-    "conditionId": "0xab086d9aa51ae37e419c8f221f864efec092c0b795957da0b1e9562a46392878",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
   "elon-musk-of-tweets-may-2026-660-679": {
     "id": "1698893",
     "conditionId": "0x9e9870ea4af5f0cb8a225aecfdec5f36b7fc9823391aef66fe07a2267e2eb6fa",
@@ -93990,16 +93890,6 @@
   "will-leviatn-win-vct-2026-americas-league-stage-1": {
     "id": "1931446",
     "conditionId": "0xfd8bfacccc75c304644bbcf3399eb83f02e4e07f9b007aa4c238fce95f4ed5a9",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "vct-2026-americas-league-stage-1-winner",
-    "negRisk": true
-  },
-  "will-nrg-win-vct-2026-americas-league-stage-1": {
-    "id": "1931449",
-    "conditionId": "0xa9a47603064fe859e60d5e82622832ad464aea5aef955b1dda8f97e747b493dd",
     "endDate": "2026-05-24",
     "closed": false,
     "active": true,
@@ -119599,6 +119489,116 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-340-in-may": {
+    "id": "2073989",
+    "conditionId": "0x430254f6e3a05bd2ca19c304b6d6e4364a0a70ba97e34685fc5d2f6be65d503c",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-330-in-may": {
+    "id": "2073990",
+    "conditionId": "0x72c9b7e04d5c443ba92fcf92e434700417e23f30d28b6368e7d8e598c9a0216a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-320-in-may": {
+    "id": "2073991",
+    "conditionId": "0xc0cc4cff1d70dc3369ea838ed3aae1cf1e80c1d4bad6545e53755b7ec89652dd",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-310-in-may": {
+    "id": "2073992",
+    "conditionId": "0x4c8c062512be9d7636be72d0f9815ac903004fe557c24e61c6e0744a2f94db7b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-300-in-may": {
+    "id": "2073993",
+    "conditionId": "0xb5fc34ccaf712e6ada723228b50e302447af878c55ebc299d3af1cffcb682610",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-290-in-may": {
+    "id": "2073994",
+    "conditionId": "0xf925af92212e687c2fe8d868c7c627802caaafebc8f2ba033fd3415e30825b67",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-alphabet-inc-googl-hit-low-280-in-may": {
+    "id": "2073996",
+    "conditionId": "0x634e2a5cf68c9453a6ff46b3b0a1afa8f780279867dd428a44d71480ad5064ef",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-googl-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-800-in-may-2026": {
+    "id": "2074008",
+    "conditionId": "0x8ac6de8801a114c29ebc247b136f4be001a9e33994fb72df2d4cf7e4ebf00736",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-780-in-may-2026": {
+    "id": "2074009",
+    "conditionId": "0xd0ec0c52ca8c89be10880ae60b7d3cb4e6db771a806b2e4458916d65242fdb85",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-760-in-may-2026": {
+    "id": "2074011",
+    "conditionId": "0xba02477c990119b384263110fb6c4dfdcc22e8a4d3be698dea31504a0497f8ae",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-740-in-may-2026": {
+    "id": "2074014",
+    "conditionId": "0xae0809754db41543307607e200f6f83ef928c94deaf917ee183795fbc1689634",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
     "negRisk": false
   }
 }
