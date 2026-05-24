@@ -1,6 +1,6 @@
 # PolyLens
 
-PolyLens is a professional-grade market discovery dashboard for [Polymarket](https://polymarket.com). It filters thousands of active markets in real-time to surface high-probability opportunities with deep liquidity and imminent resolution.
+PolyLens is a professional-grade market discovery dashboard for [Polymarket](https://polymarket.com). It filters thousands of active markets in real-time to surface high-probability opportunities with deep liquidity and imminent resolution. Maintained as part of Shantanu Ghumade's professional project network.
 
 **🌐 Live App:** [polylens.aivault.securityjunky.com](https://polylens.aivault.securityjunky.com/)
 
