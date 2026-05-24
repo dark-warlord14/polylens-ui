@@ -85530,16 +85530,6 @@
     "eventSlug": "2026-basketball-germany-bbl-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-endesa-winner-bsquet-girona": {
-    "id": "1834173",
-    "conditionId": "0x75e8b5ee70298b21ef80f3dad96a9bca3e2d082b175fffe2c737094a7e6a4d2b",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-endesa-winner-baxi-manresa": {
     "id": "1834174",
     "conditionId": "0x66486b2a838078877387bce604311458bb6ce11a7007ad465193948a93751177",
@@ -90721,56 +90711,6 @@
   "will-hanwha-life-esports-qualify-for-ewc-2026-813": {
     "id": "1900943",
     "conditionId": "0x120d3dd3e9029fbd5603fdd0ef2ea733f5786b41af716b7242814b284dafe690",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
-  "will-drx-qualify-for-ewc-2026-335": {
-    "id": "1900944",
-    "conditionId": "0xf7d372ec35a87c93311feacde2adb45c02a15cad8ee135c4d4e9db6afb5ca583",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
-  "will-fearx-qualify-for-ewc-2026-745": {
-    "id": "1900945",
-    "conditionId": "0xb49965fa3a6fe20d35b55be6603a16e7bb125afc6e4b8bcc4d324264c25c6e69",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
-  "will-kt-rolster-qualify-for-ewc-2026-334": {
-    "id": "1900946",
-    "conditionId": "0xd4286c6eff6fec79599c4392a351874307e189c2d6f8a6dbea3170b717691e4e",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
-  "will-brion-qualify-for-ewc-2026-877": {
-    "id": "1900947",
-    "conditionId": "0xcf36a7ede58a7565b85ac63985544474afefd6516b81bfb8cc8e825b23075f80",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
-  "will-soopers-qualify-for-ewc-2026-416": {
-    "id": "1900948",
-    "conditionId": "0x37df59afa66d15276a19099d64bf8c5d5f3b5c80fefd50c51df7ae7efdcfbfd0",
     "endDate": "2026-05-26",
     "closed": false,
     "active": true,
@@ -119599,6 +119539,66 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-reach-480-in-may-2026-622": {
+    "id": "2074044",
+    "conditionId": "0xe8ce884fa32e568da10d1624933165be830bce50a3625531ccffe09ef20e780d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-reach-465-in-may-2026-613": {
+    "id": "2074045",
+    "conditionId": "0x85b4261ae86d638eb3c91b112d852e3a23e3b2491120bb788a0c26ea2e9e9032",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-375-in-may-2026-942-123": {
+    "id": "2074051",
+    "conditionId": "0x8ce17c1ccd83e0875670da6604d58a4cb7a32a106962739a95327026fa0e1a37",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-360-in-may-2026-554-154": {
+    "id": "2074052",
+    "conditionId": "0xdac370f567734c8449a90d55241b58c78b3d05849b8d9151e1c0a298b214f751",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-345-in-may-2026-497-546": {
+    "id": "2074053",
+    "conditionId": "0x4fb4e71b60e1c24855ea3321aa45774b28c4d84261bcf114779e43ffbb556b0f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-tsla-dip-to-330-in-may-2026-796-132": {
+    "id": "2074054",
+    "conditionId": "0x74d1c90199c7df25270851313600615a1542c84ed119b3b178d7338cf54dc047",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
     "negRisk": false
   }
 }
