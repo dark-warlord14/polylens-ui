@@ -85950,59 +85950,9 @@
     "eventSlug": "laliga-team-to-qualify-for-uefa-europa-league",
     "negRisk": false
   },
-  "will-athletic-club-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1834965",
-    "conditionId": "0x7f3cdccfdf2059cd27cb1d33f2868c16f4a684daf7d71ec4c88634e090638d0a",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-celta-vigo-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1834970",
-    "conditionId": "0x6c0717622d90e2fff36f0c3e7d13ad69f80da8567ca558575f2bb508f0435b7b",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-rayo-vallecano-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1834973",
-    "conditionId": "0xe41daef1fe89d09238b947ad3b35afec291248d53e7e4655d13cb9e9a6a985d3",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
   "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1834974",
     "conditionId": "0x654f819503e93e6d936c2b304d69e3594ef16d09c26f54740c61b8934102dff2",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-espanyol-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1834978",
-    "conditionId": "0xc4a49c004e92ec56d249119942f59818fc39310ac7942731e56d2ceb532cbb76",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-valencia-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1834981",
-    "conditionId": "0xf711a5d6c946a520152580b6e1959d0df6a12924cb0e69ac4f11c92a8f1d6771",
     "endDate": "2026-08-31",
     "closed": false,
     "active": true,
@@ -111847,16 +111797,6 @@
     "eventSlug": "will-russia-enter-vasylivka-by",
     "negRisk": false
   },
-  "will-russia-enter-huliaipilske-by-may-31": {
-    "id": "2053698",
-    "conditionId": "0x896165a108f6d61a105bcd0509c5bdf3d6c1ebcd07664e42afb002482c86a25c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-huliaipilske-by-april-30",
-    "negRisk": false
-  },
   "jacob-elordi-and-kendall-jenner-confirmed-relationship-by-june-30": {
     "id": "2053699",
     "conditionId": "0xbd90f7771986193f2705528da38e7de246fdeab07ce9b69c272e287cd2445c1f",
@@ -119594,6 +119534,66 @@
   "will-meta-reach-740-in-may-2026": {
     "id": "2074014",
     "conditionId": "0xae0809754db41543307607e200f6f83ef928c94deaf917ee183795fbc1689634",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-720-in-may-2026": {
+    "id": "2074016",
+    "conditionId": "0x56407d5eb1b46f754c2770260e4733715a977a98f2449b361b062abe581f721d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-700-in-may-2026": {
+    "id": "2074018",
+    "conditionId": "0x9cf79a5995d8bc3664bfd4b8cb7408ed54059e4fcf5c0c30f8748e408f79cd96",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-reach-680-in-may-2026": {
+    "id": "2074020",
+    "conditionId": "0x532aa68d792300d294501b8c437391ad61d6c417780645891bca0f7fa5933435",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-dip-to-580-in-may-2026-388": {
+    "id": "2074029",
+    "conditionId": "0xa50765187b820d28d720a57e6569e11420a80a9f4dc773002efecdb21a2a0c12",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-dip-to-560-in-may-2026-281-471": {
+    "id": "2074031",
+    "conditionId": "0xe6c23a1a643d53c5b55843c4bccb6bbd8608cc004b31e5a7cda62a317c632d7b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-meta-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-meta-dip-to-540-in-may-2026-184-589": {
+    "id": "2074032",
+    "conditionId": "0xc64a6bb4de4169698783b9d86ac9d30e5659959f7ba8635ec02eb2c56c8ba5d5",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
