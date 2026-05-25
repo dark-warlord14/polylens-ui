@@ -41423,16 +41423,6 @@
     "eventSlug": "will-tread-launch-a-token-by",
     "negRisk": false
   },
-  "fr2-fca-clf-2026-01-23-total-3pt5": {
-    "id": "1155162",
-    "conditionId": "0xcc1ebe3fd340a649257b90458fdb397a467ec2670da23becb03e52d635596062",
-    "endDate": "2026-01-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fr2-fca-clf-2026-01-23-more-markets",
-    "negRisk": false
-  },
   "fda-approves-retatrutide-this-year": {
     "id": "1162139",
     "conditionId": "0xa9e844555c3aeac59e6104f266bee4ce930b6941fbea4053eb1ab440cdc4ea8e",
@@ -72972,16 +72962,6 @@
     "eventSlug": "ufc-who-will-kevin-vallejos-fight-next",
     "negRisk": true
   },
-  "j1100-vis-ngr-2026-04-11-spread-home-2pt5": {
-    "id": "1598606",
-    "conditionId": "0xeb5fc3679c32a2a7f8d649fed18958660dd6e08c34e77eb12d48243ed9d799df",
-    "endDate": "2026-04-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "j1100-vis-ngr-2026-04-11-more-markets",
-    "negRisk": false
-  },
   "crint-afg-lka-2026-03-22": {
     "id": "1598935",
     "conditionId": "0x3252de8578436a6aeb9ba44aca1be9405805c5538a51d60d9a2bd7084a360065",
@@ -74918,16 +74898,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bank-of-brazil-decision-in-june",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-680-699": {
-    "id": "1698895",
-    "conditionId": "0xd825250ce2c6446b5537befa6b7e1cde94b5d0bda86b0951463e7c948bdeb1e5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
     "negRisk": true
   },
   "elon-musk-of-tweets-may-2026-700-719": {
@@ -78112,16 +78082,6 @@
     "eventSlug": "mlb-al-platinum-glove-winner",
     "negRisk": true
   },
-  "gtm-aur-mrq-2026-04-15-total-2pt5": {
-    "id": "1737212",
-    "conditionId": "0xeeece7b734910aeb8a562f79dbf5ea302fc5b36919db9ca6c8576169431667ee",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gtm-aur-mrq-2026-04-15-more-markets",
-    "negRisk": false
-  },
   "meek-mill-gets-y-combinator-funding-by-june-30": {
     "id": "1738071",
     "conditionId": "0x6a2a3b719a5f5548945a4dc5a017b1977970fc32da969bdf66c07f63ebd1c236",
@@ -78856,16 +78816,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "claude-5-released-by",
-    "negRisk": false
-  },
-  "atp-nava-navone-2026-03-30-first-set-total-10pt5": {
-    "id": "1763238",
-    "conditionId": "0x91ea0c28f62de6e4ae78608cb77802b6362e922c8a06c02eb4d2339991797b45",
-    "endDate": "2026-04-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "atp-nava-navone-2026-03-30",
     "negRisk": false
   },
   "lol-wb-ig1-2026-03-30-game1-first-blood": {
@@ -92264,26 +92214,6 @@
     "eventSlug": "atp-zhou-kotov-2026-04-12",
     "negRisk": false
   },
-  "atp-galarne-uchida-2026-04-12-first-set-winner-Galarneau-vs-Uchida": {
-    "id": "1948572",
-    "conditionId": "0x1fe1f4746a7ac6666be60fb2eb7727937404df82c8db1304ce47ce8e2c807674",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "atp-galarne-uchida-2026-04-12",
-    "negRisk": false
-  },
-  "atp-galarne-uchida-2026-04-12-first-set-total-8pt5": {
-    "id": "1948573",
-    "conditionId": "0x4d1be156a43dc6b7cef44e21926295dd93700730596e8be0dc178e0bf5d7a11d",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "atp-galarne-uchida-2026-04-12",
-    "negRisk": false
-  },
   "bol1-nap-aur-2026-05-08-nap": {
     "id": "1949403",
     "conditionId": "0xc9791cbcae4986e22407fa41bb9cb2d5f64e6de616ac0a7d54b23d79ac625171",
@@ -97353,16 +97283,6 @@
     "acceptingOrders": true,
     "eventSlug": "republican-vp-nominee-2028",
     "negRisk": true
-  },
-  "r6siege-secret-fnc-2026-04-15-total-games-2pt5": {
-    "id": "1982227",
-    "conditionId": "0xa36be190abfdf3d3c076016b75dd74acb89d86bc0c25759aeaaa30400e48d1dc",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "r6siege-secret-fnc-2026-04-15",
-    "negRisk": false
   },
   "will-tmz-be-granted-a-white-house-press-badge": {
     "id": "1984166",
@@ -119601,6 +119521,86 @@
   "will-partido-liberal-pl-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
     "id": "2087972",
     "conditionId": "0xf5ecb2721c35e4f94fdeab3a4c79fce590a2275301c35843f83cfb14cbb57f14",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-federao-unio-progressista-upb-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087973",
+    "conditionId": "0xf2370dfdc94d70a4e503ac3e2cf2f4c0e8de1aeebf98e872a55200cdddfe8dfc",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-partido-social-democrtico-psd-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087974",
+    "conditionId": "0xe56334d6e73505c43b985217811e0638ebc47f291ebf85906076f1c7139177a4",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-federao-brasil-da-esperana-fe-brasil-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087975",
+    "conditionId": "0x3d81562952da44c31bb18c5827d2158cd6ca26703877fcc64932fc49e4c8841d",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-republicanos-republicanos-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087976",
+    "conditionId": "0x968dce52b9ced4250ad5b815481dc030c78fbac2f0aab1654717703cbf5f2d58",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-movimento-democrtico-brasileiro-mdb-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087977",
+    "conditionId": "0xdfb5854e47001c3e156e9de4494b82a9b3155b8d45d213711ba91328e0051153",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-federao-psdb-cidadania-psdb-cidadania-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087978",
+    "conditionId": "0x20d05d7b7222085a66b4bd952938acb96b528f9c30bbd7ffc6d4c93363957158",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-podemos-pode-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087979",
+    "conditionId": "0x328343aa58e0879b186f4b187aaaa3159e1910e778ab30225bd1b781075885ed",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-partido-democrtico-trabalhista-pdt-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087980",
+    "conditionId": "0x1b58838e59beeab4c644f42ff15e88fb340704b7bed27f2e0bec123cace79973",
     "endDate": "2026-10-04",
     "closed": false,
     "active": true,
