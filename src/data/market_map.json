@@ -35097,16 +35097,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-qinwen-zheng-win-the-2026-womens-french-open": {
-    "id": "1087764",
-    "conditionId": "0x0a1abbecf10958bac71250802458ec4691d10e323da1c12fd268ccd5ace49269",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-madison-keys-win-the-2026-womens-french-open": {
     "id": "1087765",
     "conditionId": "0x1e903aa958d3b4e58f60e3117f244a2d93a77d9acde7b56a74fcad68bf6ec87e",
@@ -35277,16 +35267,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-liudmila-samsonova-win-the-2026-womens-french-open": {
-    "id": "1087786",
-    "conditionId": "0x53ab6e31d430839f794f838ecc86c1a2ebe6f4bb9a8ebbebf935621ed158b214",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-alexandra-eala-win-the-2026-womens-french-open": {
     "id": "1087787",
     "conditionId": "0xd627848ffe5c9b54d4a02d000e832a3f3614bfd21d97f125e3a9e57049b1c3ed",
@@ -35367,16 +35347,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-dayana-yastremska-win-the-2026-womens-french-open": {
-    "id": "1087799",
-    "conditionId": "0x86d9e46e177fa3d6de0fcceb97b3eb528aadb3b95f9d8a53270914e9f4835948",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-katie-boulter-win-the-2026-womens-french-open": {
     "id": "1087802",
     "conditionId": "0xe2692b8b9cf4f2773fe59434b30f0fcac76ff5a9db8915efca9b4b7e82944be6",
@@ -35400,16 +35370,6 @@
   "will-jannik-sinner-be-the-2026-mens-wimbledon-winner": {
     "id": "1087890",
     "conditionId": "0x16b3e96fc29f37ff8a5309e82e1ebd11b6658b171dd788104d9a88c12cceebb6",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-wimbledon-winner",
-    "negRisk": true
-  },
-  "will-carlos-alcaraz-be-the-2026-mens-wimbledon-winner": {
-    "id": "1087891",
-    "conditionId": "0xc9f42ba0fe54183b6c253201b62d09a21807d79e0461a03505133039de37a9c3",
     "endDate": "2026-07-12",
     "closed": false,
     "active": true,
@@ -40390,16 +40350,6 @@
     "acceptingOrders": true,
     "eventSlug": "russia-parliamentary-election-winner",
     "negRisk": true
-  },
-  "will-the-wnba-and-wnbpa-sign-a-new-cba-by-june-30-2026": {
-    "id": "1129970",
-    "conditionId": "0x737afe0f3f066b3680d27206f026452c4cfab0b2de1cdeac02ab16fdb252be22",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-wnba-cba-agreement-by",
-    "negRisk": false
   },
   "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election": {
     "id": "1130012",
@@ -83685,16 +83635,6 @@
     "eventSlug": "2026-basketball-cba-winner",
     "negRisk": true
   },
-  "2026-basketball-cba-winner-shenzhen-leopards": {
-    "id": "1833958",
-    "conditionId": "0x0c29a8664fd25a281796c2e698bbc2ed9689e6531b4c4366f08d0f746f47da01",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-cba-winner",
-    "negRisk": true
-  },
   "2026-basketball-cba-winner-zhejiang-guangsha-lions": {
     "id": "1833963",
     "conditionId": "0x187e214cb429a34574f80432147c80399f556b97899e0b7dab83fd111133ae23",
@@ -83708,16 +83648,6 @@
   "2026-hockey-american-hockey-league-winner-chicago-wolves": {
     "id": "1834045",
     "conditionId": "0x8563ed56efbb24acc5efdc00ba79e88e8019af7ce602994a78a581dcfced137c",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-hockey-american-hockey-league-winner",
-    "negRisk": true
-  },
-  "2026-hockey-american-hockey-league-winner-cleveland-monsters": {
-    "id": "1834046",
-    "conditionId": "0x41b3a1221251a4a3fa8502aa31a2fe18f9d01448ed700977c828fad4665b1bfc",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -83945,29 +83875,9 @@
     "eventSlug": "2026-basketball-germany-bbl-winner",
     "negRisk": true
   },
-  "2026-basketball-germany-bbl-winner-ratiopharm-ulm": {
-    "id": "1834163",
-    "conditionId": "0x783a121f596458cb9e158a2a8adae4e39dd648fc7bbb05c0ff0b2c3aa37aa24d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
   "2026-basketball-germany-bbl-winner-telekom-baskets-bonn": {
     "id": "1834168",
     "conditionId": "0xf29260f64f5145a2a72e31dadc3777ece88745b2a8d6330186b97fb63121108d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
-  "2026-basketball-germany-bbl-winner-vet-concept-gladiators-trier": {
-    "id": "1834169",
-    "conditionId": "0xe63158b0ff94c0caee32b0be690cc5db9e12ffc66e4c7b51cd8cbb6aea633a62",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -89033,16 +88943,6 @@
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
   },
-  "will-t1-qualify-for-ewc-2026-788": {
-    "id": "1900942",
-    "conditionId": "0x00161225e24382f0b8f2856f1e9d59a7a5839a9a231b3a33d52dd28ba89205bf",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
   "will-hanwha-life-esports-qualify-for-ewc-2026-813": {
     "id": "1900943",
     "conditionId": "0x120d3dd3e9029fbd5603fdd0ef2ea733f5786b41af716b7242814b284dafe690",
@@ -89121,16 +89021,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
-  "will-fukuoka-softbank-hawks-gaming-win-lcp-2026-split-2": {
-    "id": "1901171",
-    "conditionId": "0x4d8998402f0691abdde92b7a407e6da05b90716694f2e3caaa08dda8df02ffeb",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcp-2026-split-2-winner",
     "negRisk": true
   },
   "will-gam-esports-win-lcp-2026-split-2": {
@@ -90725,16 +90615,6 @@
   "will-casper-ruud-win-the-2026-roland-garros-mens-singles": {
     "id": "1920464",
     "conditionId": "0x431588150ce3babe78d8d03e8eb68fdd5924d33ec011effe30e9ed5237d140c7",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-jiri-lehecka-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920465",
-    "conditionId": "0xbe6fba66cb7cb10086b11f64cf20bc26cf0adfc87b5475d5e831fb296c856e6e",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -92812,16 +92692,6 @@
     "eventSlug": "bol1-nap-aur-2026-05-08-more-markets",
     "negRisk": false
   },
-  "will-bob-menery-enter-the-ring-against-johnny-manziel": {
-    "id": "1958784",
-    "conditionId": "0xddc7dd67902d34fbf49564ad8231002f4c7efd4ce0d685e01659dc5cdcdd416a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-bob-menery-enter-the-ring-against-johnny-manziel",
-    "negRisk": false
-  },
   "dota2-vp-z10-2026-04-12-game1-kill-over-41pt5": {
     "id": "1959075",
     "conditionId": "0x8e786424957408e673f20c30730941c80c75ffe8e65f43cce87f04a1e99cf53a",
@@ -93410,16 +93280,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-zotix-fcf-2026-04-13",
-    "negRisk": false
-  },
-  "lol-bw-su-2026-04-16-game1-odd-even-total-kills": {
-    "id": "1967151",
-    "conditionId": "0xf5e85636d4424bbffe430887305aa21834a418c8736f622245bc2808b4a8f309",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-bw-su-2026-04-16",
     "negRisk": false
   },
   "lol-bw-su-2026-04-16-game2-any-player-quadra-kill": {
@@ -112242,69 +112102,9 @@
     "eventSlug": "daegu-mayoral-election-winner",
     "negRisk": true
   },
-  "will-unai-simn-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062928",
-    "conditionId": "0x05cb975113f4a21fc1e96b4d52e357351cc42b8bb3572fbf215068cb68396e07",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-david-raya-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062929",
-    "conditionId": "0xc4b84c7fafe1f5ef858f23d7fbb7c351b0c15280de6e6bf92715590d3d9a9c51",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
   "will-lex-remiro-be-included-in-spains-official-2026-world-cup-squad-list": {
     "id": "2062930",
     "conditionId": "0x43cc945b9b72faf60ae18e0ea43544e44b6aa1d441cfa423531ebe6a602375aa",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-joan-garca-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062931",
-    "conditionId": "0xc2d862c625392647ace70bcdc05a2b2d3fc2c36d58d352437d57fa0989d8aeb0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-pedro-porro-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062932",
-    "conditionId": "0x901dbc90e11f36e0ece53109a8d00c386243c31228b19e1dab6cfe7bb0783b63",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-marcos-llorente-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062933",
-    "conditionId": "0x49abb2031fcaa255cb8119110ef102263a13bcec94f2c2536e42da0b9ebd7113",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-aymeric-laporte-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062934",
-    "conditionId": "0x9bc67b7e4648b19038b4a67d2cd4204bf56d1b3a04ed4f8aa4f75d2808236d0a",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -112332,66 +112132,6 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
     "negRisk": false
   },
-  "will-pau-cubars-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062937",
-    "conditionId": "0x6431d4d751675a1b66697a5b101ad101edd10b865ce464249d2807e33232bc33",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-marc-cucurella-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062938",
-    "conditionId": "0x79b2d0ea5502fbfaeeedd51f8e30310035d01c9608cd51d3e7b44f238b6c9d86",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-lex-grimaldo-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062939",
-    "conditionId": "0x97fafd0e9dd726fab71dbf352143f4734c0a98914f5b27f4b11b1d029a05205f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-rodri-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062940",
-    "conditionId": "0x59a13ea1018f4644ec846c51c623d2e82492c9edaf6e034ae3ef41218592393c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-pedri-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062941",
-    "conditionId": "0x414bfcfccb3363d09cec130fba0d419e55012d18ed543601a350c07c1c14a2f7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-martn-zubimendi-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062942",
-    "conditionId": "0xe91629ffaa10b946a40e547643c2b849409e70b065da6a9a89e967a2ccced972",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
   "will-carlos-soler-be-included-in-spains-official-2026-world-cup-squad-list": {
     "id": "2062943",
     "conditionId": "0x43f6fa4e494322aa12769f4297d6ff8d5cb2bf2feda6a46458d47d97ba30f717",
@@ -112412,89 +112152,9 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
     "negRisk": false
   },
-  "will-dani-olmo-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062945",
-    "conditionId": "0xa6769d3260751d84c27fa45c21154e82bdea35e776f4ba2f43125c1a1b2640b3",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
   "will-pablo-fornals-be-included-in-spains-official-2026-world-cup-squad-list": {
     "id": "2062946",
     "conditionId": "0x46d46153f39ef18dd497721d9a8fa4f508171229e06d6f5b71bc09ecd64cf1da",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-lamine-yamal-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062947",
-    "conditionId": "0xad0768713506377f0a0f40e41695ccb602226fa07da08003737424a59356e704",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-mikel-oyarzbal-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062948",
-    "conditionId": "0xa45641f95dbf6302aa63d323c0bf17c57358e9eef2afd219dd404b80f0f8ee88",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-ferran-torres-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062949",
-    "conditionId": "0x9315ffb1b90a1bbd2572222348ee0e619b4e0e1eac8781ded601c466168aef1e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-lex-baena-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062950",
-    "conditionId": "0xcc60111132142111588a1e1f7535ecb8f84805bb9c91cd55ac78f4cf20f75a8a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-yeremy-pino-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062951",
-    "conditionId": "0x4ef08927f81c77f4bcc9935a5985befd52e5f2c37d10943e5d341071002465a0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-borja-iglesias-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062952",
-    "conditionId": "0x8517ab9d96b41e10d923ad6e4252bdd8e424ea5acf0a65af9eeff738a8529c17",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-vctor-muoz-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062953",
-    "conditionId": "0xacf076315ed1006c322c8d8d26ea374cbfe38e886da1f7af55561b5e27c79d5a",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -119604,6 +119264,346 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-lph-33-2026-04-26",
+    "negRisk": false
+  },
+  "cs2-lph-33-2026-04-26-game2-odd-even-total-kills": {
+    "id": "2083668",
+    "conditionId": "0x1c158e0462ba893291f72cc27b9fe6bebc0f52def021ba9a11f043c8f595f6f4",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-33-2026-04-26",
+    "negRisk": false
+  },
+  "bkligend-jov-uni-2026-05-02": {
+    "id": "2083946",
+    "conditionId": "0xcf8d289b9ed8c040c5d26ff833116645502390298ff89476f814696f402df00b",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bkligend-jov-uni-2026-05-02",
+    "negRisk": false
+  },
+  "bkbsl-fen-bes-2026-05-02": {
+    "id": "2083977",
+    "conditionId": "0x471d3b164127cbd731b490cbc84247096238467f31c6a5a017e50b6214116515",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bkbsl-fen-bes-2026-05-02",
+    "negRisk": false
+  },
+  "cs2-sinqu-tmvg-2026-04-26-game1-odd-even-total-kills": {
+    "id": "2084432",
+    "conditionId": "0xe155dc37743825b4bc18b35048fba4b2fdb427efa3f416853b90813b18a13363",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-tmvg-2026-04-26",
+    "negRisk": false
+  },
+  "cs2-sinqu-tmvg-2026-04-26-game2-odd-even-total-kills": {
+    "id": "2084434",
+    "conditionId": "0x83fc579858fa8205dc0036d58e27ecce2be9de0e2af2b8885146f899190b6ca4",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-tmvg-2026-04-26",
+    "negRisk": false
+  },
+  "cs2-kajo-ksm-2026-04-26-game1-odd-even-total-kills": {
+    "id": "2084444",
+    "conditionId": "0xcaeeb552379473645dcf1c9def209431f695e66cf73b075b5694b3df45d49b0d",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kajo-ksm-2026-04-26",
+    "negRisk": false
+  },
+  "cs2-kajo-ksm-2026-04-26-game2-odd-even-total-kills": {
+    "id": "2084446",
+    "conditionId": "0x9dfebe4bbfe958644437f0225ab406aa8335b1cd334335578c3877db8135ea65",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kajo-ksm-2026-04-26",
+    "negRisk": false
+  },
+  "cs2-waz-aabb-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2084456",
+    "conditionId": "0xb3139c134ea63fbc0c1a9612ceaadb3d54882080d6cb19e041c5434eddd30c4b",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-waz-aabb-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-waz-aabb-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2084458",
+    "conditionId": "0x2a1a3ed56d3d382c7ece67c83e772aeb9720086304e3ff95405bc2ec9d0a6d71",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-waz-aabb-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-sashia-en2-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2084468",
+    "conditionId": "0x7c9990676daa7e067390ffcb7aef5ca340ce6e9ef5e891982d31d9ea317b1b27",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sashia-en2-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-sashia-en2-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2084470",
+    "conditionId": "0x42e20f8001757a0eb3a9e761f6121ba122b3dcfe2ac8485a5fa185921a3d70ae",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sashia-en2-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game1": {
+    "id": "2084941",
+    "conditionId": "0x2973e7774486ea42266bfa0b97db4f1856b1ca2af7c8280ec3247fc7571af681",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game2": {
+    "id": "2084942",
+    "conditionId": "0xc122fea326b916dae858a1cfab61201bd6cbd6ecbe40fe2b5f523d9d577b71dd",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game1-odd-even-total-kills": {
+    "id": "2084944",
+    "conditionId": "0x744aec781379bbe0268ec8ba6e055e4ce3b0ac87da92612f346b04b16df6dcd2",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game1-odd-even-total-rounds": {
+    "id": "2084945",
+    "conditionId": "0xd2275ce15959d55f71dd899ccc48f46a9ed0813b235010868c48d53337a8d66c",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game2-odd-even-total-kills": {
+    "id": "2084946",
+    "conditionId": "0xdb4ead06188fdfe714c7d11394543796ed213999ae5668a35da2b596bcfaea44",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game2-odd-even-total-rounds": {
+    "id": "2084947",
+    "conditionId": "0x0de05133707586985e30147e1aaec006c0269e68ca9dc3596011ea27df2e14f9",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game3-odd-even-total-kills": {
+    "id": "2084948",
+    "conditionId": "0xcb683d4ff954bd15a141189eae23764df28545a2406e6db19eab86246f5d252d",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-furiaf-mw-2026-04-28-game3-odd-even-total-rounds": {
+    "id": "2084949",
+    "conditionId": "0x489d27f1e55b218a0366036a9d7ad1c21eb1f840c57a55da4e31f5aec5804689",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-furiaf-mw-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-reda-red7-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2084954",
+    "conditionId": "0x406fd3c1bb37e7fcd8ef432684b4f70701c63c63f5d3b5242d6833716c2217bd",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-red7-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-reda-red7-2026-04-29-game1-odd-even-total-rounds": {
+    "id": "2084955",
+    "conditionId": "0xf0b86c347d70d9117cccde68f43c7d6d3c9d844b242b76657d426d5ccf9ff8d8",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-red7-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-reda-red7-2026-04-29-game2-odd-even-total-kills": {
+    "id": "2084956",
+    "conditionId": "0x8b9ee60fc96b93a7388678ac734b3a271d1285864953eb168e13a2a605bddb25",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-red7-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-reda-red7-2026-04-29-game2-odd-even-total-rounds": {
+    "id": "2084957",
+    "conditionId": "0xb3cf41ae44a9a631c2906dc187b81a60fd0a54119840749f0fa4f6a974104b53",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-red7-2026-04-29",
+    "negRisk": false
+  },
+  "lol-tt-lng-2026-05-03-game2-any-player-penta-kill": {
+    "id": "2085269",
+    "conditionId": "0x866b37e9929eb5ad692782726a90f690acf800ede78e013ae0fd30499063a470",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tt-lng-2026-05-03",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-spread-home-1pt5": {
+    "id": "2085551",
+    "conditionId": "0xa152be4aa15b29c1886d622dd6acb77cf54a705470f9b34e1c5d3f8fa111369f",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-spread-away-1pt5": {
+    "id": "2085553",
+    "conditionId": "0x7ba31b24ed84ac7e582ea97f1bc63bf8e9a45c94d72077e6f4b9725c8c8da1da",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-spread-home-2pt5": {
+    "id": "2085556",
+    "conditionId": "0x6c073551e0f93894d6d4e26c00057e41a4718df2ce1b2e08ccb5b7420017a58d",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-spread-away-2pt5": {
+    "id": "2085559",
+    "conditionId": "0xddbdb9565bfd380835104bc5a74dfb640b1acbfe8bc6d5e561da6f67224c8cdc",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-total-1pt5": {
+    "id": "2085562",
+    "conditionId": "0x6ca64a256750d6cca8a5ca3f001b9114956d93f30e5a627d1de43ac887c9d168",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-total-2pt5": {
+    "id": "2085566",
+    "conditionId": "0x81d22141ca16f7ff382e38bdf2fedd8c98c3190d11986148808ad2c2e446e339",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-total-3pt5": {
+    "id": "2085569",
+    "conditionId": "0x53488d972f2525b999b5ebf0aa496bd8ede78291dc0ab9c994c4134c1ff7bd03",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-total-4pt5": {
+    "id": "2085572",
+    "conditionId": "0x1a09bd3eaeec5fd826a3a0aa39b7eb99e80c69b0d5a8f04a643cad601fd6ed42",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-uvi-2026-05-23-btts": {
+    "id": "2085576",
+    "conditionId": "0x0e1b743be5a8f50d1c59f6fb4c38a1050fd0e2c1840b0e9259f37a0869319c2b",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-spread-home-1pt5": {
+    "id": "2085578",
+    "conditionId": "0x7fa537eb3083438414f67dc79d9a8587a19fb1f3834c5a12a26dcbcc0dcd04d5",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
     "negRisk": false
   }
 }
