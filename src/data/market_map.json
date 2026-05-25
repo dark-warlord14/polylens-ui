@@ -19523,24 +19523,6 @@
     "eventSlug": "will-theo-launch-a-token-by",
     "negRisk": false
   },
-  "will-solstice-launch-a-token-by-june-30-2026": {
-    "id": "707031",
-    "conditionId": "0xc5b108011e6e24e1dd4c07f96134e88bf75034dc16a6783a67a10d36a98e8bb8",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-solstice-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-solstice-launch-a-token-by-september-30-2026": {
-    "id": "707033",
-    "conditionId": "0x116cffa74f783bc4c7b435619fe4b3a69583316feb1f4eb29d0d67e7f0c7eded",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-solstice-launch-a-token-by",
-    "negRisk": false
-  },
   "will-solstice-launch-a-token-by-december-31-2026": {
     "id": "707034",
     "conditionId": "0x6e5bfb1db28eb587f9afda68f671aff0b5ea115dd24caad57dc889d4e5d9055f",
@@ -34910,16 +34892,6 @@
   "will-alexander-bublik-win-the-2026-mens-french-open": {
     "id": "1087539",
     "conditionId": "0x04238573543c97eef6924e541656baf479f4844d6c0b843d721cf43ac4a5f03f",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-jiri-lehecka-win-the-2026-mens-french-open": {
-    "id": "1087540",
-    "conditionId": "0x10faf6eb3ecc89650e56feb6d51a26d4d848780e9c6fbb0fa0065b1d19321275",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -65304,36 +65276,6 @@
     "eventSlug": "uefa-europa-league-most-goal-contributions",
     "negRisk": true
   },
-  "will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-may-decision": {
-    "id": "1420730",
-    "conditionId": "0x47381a493e81772f69e695d4de92695602eb353caa4a7a3bbf3b5df2ffa7ec74",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-israel-decision-in-may",
-    "negRisk": true
-  },
-  "will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-may-decision": {
-    "id": "1420731",
-    "conditionId": "0x430c82b739789b90fd5f95929d03223f332808122327c8b69424793a5bad3daf",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-israel-decision-in-may",
-    "negRisk": true
-  },
-  "will-the-bank-of-israel-increase-the-bank-of-israel-interest-rate-after-the-may-decision": {
-    "id": "1420732",
-    "conditionId": "0x612771bf9aad18aca14d3013e05a51011493a5a740e8f744b4967c7462fb5b81",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-israel-decision-in-may",
-    "negRisk": true
-  },
   "nor-bog-ham-2026-03-22-bog": {
     "id": "1421001",
     "conditionId": "0xe603ca52476e24561db2298a00a84b2a981501b413706a1d80164e0ad46d6344",
@@ -83885,16 +83827,6 @@
     "eventSlug": "2026-basketball-germany-bbl-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-endesa-winner-baxi-manresa": {
-    "id": "1834174",
-    "conditionId": "0x66486b2a838078877387bce604311458bb6ce11a7007ad465193948a93751177",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-endesa-winner-fc-barcelona": {
     "id": "1834178",
     "conditionId": "0xc0a906a04e7538c3c936e116798eaa51d49eb8c7f59cb3d477955a23bbf1392e",
@@ -83938,16 +83870,6 @@
   "2026-basketball-liga-endesa-winner-real-madrid": {
     "id": "1834184",
     "conditionId": "0xffafb190900ed8f2e2ccdaea1892a66ac287ba70b25e2d98d2ee3ee452718e29",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
-  "2026-basketball-liga-endesa-winner-ro-breogn": {
-    "id": "1834186",
-    "conditionId": "0x438c426e1e64d2987a29ae705dbf31c6bfcb156b86719e073dde2bfa44a72a13",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -84373,29 +84295,9 @@
     "eventSlug": "ligue-1-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
   },
-  "will-sporting-cp-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
-    "id": "1836672",
-    "conditionId": "0x430cc88f7928ec4876162e3cc3baff9e3722f0a9b520dec29231d13776c25f06",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "primeira-liga-team-to-qualify-for-uefa-champions-league",
-    "negRisk": false
-  },
   "will-benfica-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1836692",
     "conditionId": "0x3b37c22b919f6ed4f9b1d84f4a6e0f3c7035933ee9605656d46b95034f955fd4",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "primeira-liga-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
-  "will-sporting-cp-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1836704",
-    "conditionId": "0x6b9ee8cd58ace6bc11d6092932e966454e671dee20718d6e1fe4451e985844db",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -88963,16 +88865,6 @@
     "eventSlug": "ewc-2026-korea-qualifiers",
     "negRisk": false
   },
-  "will-nongshim-redforce-qualify-for-ewc-2026-316": {
-    "id": "1900950",
-    "conditionId": "0x4129e61f0a9d1f21baf05968580b40d54af84db84a66c7a04acbd3238928c1f8",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
   "will-fluxo-w7m-win-cblol-2026-split-1": {
     "id": "1901136",
     "conditionId": "0x966e6012d4f89326890850e2115f5034bbaad16dea8d8b6923a799578a5b6e9f",
@@ -93532,7 +93424,7 @@
     "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
     "negRisk": false
   },
-  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459-589": {
+  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459-589-533": {
     "id": "1972137",
     "conditionId": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
     "endDate": "2026-05-31",
@@ -100882,7 +100774,7 @@
     "eventSlug": "cs2-bsta-red7-2026-04-20",
     "negRisk": false
   },
-  "us-obtains-iranian-enriched-uranium-by-december-31-725": {
+  "us-obtains-iranian-enriched-uranium-by-december-31-725-733": {
     "id": "2006983",
     "conditionId": "0x58998da8fa20593cf07618032acd580344a79279a8bcc3ed128b668d793c3d6f",
     "endDate": "2026-12-31",
@@ -119605,5 +119497,115 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
     "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-spread-away-1pt5": {
+    "id": "2085580",
+    "conditionId": "0x5cb9204f7aa569517d197bd8e60715f757ea47a58ba0e44eaffebff77af532ba",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-spread-home-2pt5": {
+    "id": "2085583",
+    "conditionId": "0xee566436fc4bd0d5199956ea313503777dd404f3597099039605b475258711fd",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-spread-away-2pt5": {
+    "id": "2085586",
+    "conditionId": "0x4d54280bbaf315b0170c6115f083b658abed306a233301d74c16cdfd495a5cd1",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-total-1pt5": {
+    "id": "2085590",
+    "conditionId": "0x21ebc2c336bfb05c4faa8ee53cf2512aaf53a7012a634003f2928c3b0c3c7615",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-total-2pt5": {
+    "id": "2085593",
+    "conditionId": "0xe1c03a97bf12ef217b95ea717fa40440d20a86985f8f4ef73f2197991a58ce6a",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-total-3pt5": {
+    "id": "2085595",
+    "conditionId": "0xaad664ddfe86c5ac0574189c4cb7a37c35a57802a09686632ed96d8d72eb6b60",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-total-4pt5": {
+    "id": "2085598",
+    "conditionId": "0xa505e189419fecda17e7437558eec80e42017a1ae85a58a98210164ce88cb156",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-btts": {
+    "id": "2085602",
+    "conditionId": "0x5cfbeefff49010c63de30341c97bc378bb53435ef5f2604b7bb4d946e64c9864",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "cs2-tsa-33-2026-04-26-game1-odd-even-total-kills": {
+    "id": "2087150",
+    "conditionId": "0xe12646d688cea681b1c85ec567f9c56f149d19e5892e4218c54dab451e47e048",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tsa-33-2026-04-26",
+    "negRisk": false
+  },
+  "cs2-tsa-33-2026-04-26-game2-odd-even-total-kills": {
+    "id": "2087152",
+    "conditionId": "0x37fba14e0f0e1ee8770dee026ab7b0b950037fcdd3dd1c019d1afc06e5c9151c",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tsa-33-2026-04-26",
+    "negRisk": false
+  },
+  "will-partido-liberal-pl-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087972",
+    "conditionId": "0xf5ecb2721c35e4f94fdeab3a4c79fce590a2275301c35843f83cfb14cbb57f14",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
   }
 }
