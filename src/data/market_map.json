@@ -55059,16 +55059,6 @@
     "eventSlug": "gpt-6-released-by",
     "negRisk": false
   },
-  "will-theunitedstrand-get-a-haircut-by-2025-26-season-end": {
-    "id": "1333874",
-    "conditionId": "0xe354455967af6981882359d57fce88b00952f21da007ece90a374bfc464b331d",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-theunitedstrand-get-a-haircut-by-2025-26-season-end",
-    "negRisk": false
-  },
   "will-trump-nationalize-elections": {
     "id": "1334156",
     "conditionId": "0xe6522d64f35a6843ebdbccab2e3d4a1385350be6d40a3de766330e207b71a8ba",
@@ -81525,26 +81515,6 @@
     "eventSlug": "2026-soccer-colombia-primera-a-winner",
     "negRisk": true
   },
-  "2026-soccer-liga-mx-winner-cruz-azul": {
-    "id": "1830324",
-    "conditionId": "0xabb43b06e7395ba64710440c817ba9a0d9f2e060bf79c3b852b758e0c68d0d0a",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-liga-mx-winner",
-    "negRisk": true
-  },
-  "2026-soccer-liga-mx-winner-pumas-unam": {
-    "id": "1830326",
-    "conditionId": "0x48763eee044da3652a5e4e3185874fbbc97f41ec0b10c1eeff77b355b610380a",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-liga-mx-winner",
-    "negRisk": true
-  },
   "2026-soccer-chinese-super-league-winner-chengdu-rongcheng": {
     "id": "1830343",
     "conditionId": "0xbf0b2d2b4ef3625734af0650b0bbb8ac0253e316dcdf87a27d3c3ea37769135e",
@@ -84435,26 +84405,6 @@
     "eventSlug": "bundesliga-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
   },
-  "will-como-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1835998",
-    "conditionId": "0xb7687b6f060d502fb1c77a555e844bd2b2db27f1d864c0f963d969c858567d79",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
-  "will-juventus-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1836003",
-    "conditionId": "0x9e6ec823762ce8cdaf0b6be046741e3740a47c9f7091281c7ddb91bda46aeb3c",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
   "will-atalanta-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1836058",
     "conditionId": "0x8a0615b436f772be0d6cfa88b5ca677ce4dd7964130941819d2e3f0a83f63758",
@@ -84556,16 +84506,6 @@
   "will-braga-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1836711",
     "conditionId": "0x9a5885c91b9301e81288b0596a342408673f7b80978f17d8df0429884e0e7ac3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "primeira-liga-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-famalico-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1836715",
-    "conditionId": "0x18012c1528c694e540b84354658c2d5d1b23465cdfa90499943a92c37410e173",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -92111,26 +92051,6 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-imperi-brute-2026-04-12",
     "negRisk": false
-  },
-  "will-g2-esports-win-vct-2026-americas-league-stage-1": {
-    "id": "1931444",
-    "conditionId": "0xcaacc662db927db594e3a918953161e92b4eda844c4b8752fa66163fa44af4f4",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "vct-2026-americas-league-stage-1-winner",
-    "negRisk": true
-  },
-  "will-leviatn-win-vct-2026-americas-league-stage-1": {
-    "id": "1931446",
-    "conditionId": "0xfd8bfacccc75c304644bbcf3399eb83f02e4e07f9b007aa4c238fce95f4ed5a9",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "vct-2026-americas-league-stage-1-winner",
-    "negRisk": true
   },
   "will-us-crude-oil-reserves-fall-to-350m-by-june-5": {
     "id": "1931709",
@@ -119456,154 +119376,234 @@
     "eventSlug": "dota2-1win-pr1-2026-04-27",
     "negRisk": false
   },
-  "f1-canadian-grand-prix-winner-gasly-2026-05-24": {
-    "id": "2076820",
-    "conditionId": "0x95665fe43a7a6d2b52b498015812c88954b9e1d5f26cf5440ab6eaf7054e696f",
+  "f1-canadian-grand-prix-constructor-scores-1st-ferrari-2026-05-24": {
+    "id": "2076853",
+    "conditionId": "0x06b232b5aafb20a1de6b7530021a04d234732875e898549f0a98e65292c6c199",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "f1-canadian-grand-prix-constructor-scores-1st-2026-05-24",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-alonso-2026-05-24": {
-    "id": "2076821",
-    "conditionId": "0xa73184cbfaf2fad5b536952998c754cc9eddf69eabcecf2f70a545a6c9dcfc54",
+  "f1-canadian-grand-prix-constructor-scores-1st-mercedes-2026-05-24": {
+    "id": "2076856",
+    "conditionId": "0x40ddb936f9575820b4fda760ad7b8bf5ed3196fd48cfd1b3d5516ab7804927a0",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "f1-canadian-grand-prix-constructor-scores-1st-2026-05-24",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-albon-2026-05-24": {
-    "id": "2076822",
-    "conditionId": "0x96d625985039a89c90e65428f3637f6ca9007117277eaa62441f4c5546f83091",
-    "endDate": "2026-05-31",
+  "bol1-ant-abb-2026-05-22-spread-home-1pt5": {
+    "id": "2077191",
+    "conditionId": "0x03a01fc4e99a0b597820aa46f3455be8d20b8045c828b6b50a4358c9dd2eec7d",
+    "endDate": "2026-05-22",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-spread-away-1pt5": {
+    "id": "2077192",
+    "conditionId": "0xff546c3568973748c6cd9e9cf285bb55f6ef8481913af44d7e62a2040b144abf",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-spread-home-2pt5": {
+    "id": "2077193",
+    "conditionId": "0xb2ff971ca29d18584604f7d113f81cda90575cddf63edd79cf1566e5d298833c",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-spread-away-2pt5": {
+    "id": "2077194",
+    "conditionId": "0x95dac14e1cef69df1bf6a5fc9a20639d919a0eb5bf4b6499a2e60745c212bbdb",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-total-1pt5": {
+    "id": "2077195",
+    "conditionId": "0xbd5d5528f828e4fc597fef17462314d33de7e6e7175f611dcfa3591e6b5197c6",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-total-2pt5": {
+    "id": "2077196",
+    "conditionId": "0x2e18da5b42fa95c2feec0206814f8b5d6fc0279b1e9d678113d3d22d7c649bc0",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-total-3pt5": {
+    "id": "2077197",
+    "conditionId": "0xeaf7b9d10ac4a4568a17414561981fe5feec33d5979c566c9ad4da29a959a156",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-total-4pt5": {
+    "id": "2077198",
+    "conditionId": "0xb5d27c1ece8e5c9b97e8a3f9086a6bbdc97eec22aa079c8d1fd5ed09fafdbf26",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "bol1-ant-abb-2026-05-22-btts": {
+    "id": "2077199",
+    "conditionId": "0x82d6c6ad193ecbc1f9813d29330554079c05b63fc14ea3b5f6378b0078836b26",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
+    "negRisk": false
+  },
+  "dota2-nemiga-l1ga-2026-04-25-game1-both-teams-beat-roshan": {
+    "id": "2077588",
+    "conditionId": "0xd24b958e7794c929d6a797875126d950985bd40300bfed02d238d018ba9de749",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-nemiga-l1ga-2026-04-25",
+    "negRisk": false
+  },
+  "dota2-nemiga-l1ga-2026-04-25-game3-both-teams-beat-roshan": {
+    "id": "2077603",
+    "conditionId": "0x39fb1efb5324ae3e7cb1201aeffde16cae9eba19620366981e61892805a547d9",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-nemiga-l1ga-2026-04-25",
+    "negRisk": false
+  },
+  "bol1-gvs-str-2026-05-22-gvs": {
+    "id": "2079278",
+    "conditionId": "0x045463d5e9a3ebc599abd6d6f389b1271e97afa72b58be1c7248cd32ecffd5b5",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-bortoleto-2026-05-24": {
-    "id": "2076823",
-    "conditionId": "0xca55017166c83b6629ec67b8cc269f0980b180cf999820366d406a61bea57113",
-    "endDate": "2026-05-31",
+  "bol1-gvs-str-2026-05-22-draw": {
+    "id": "2079280",
+    "conditionId": "0xbfb4253f1f7de8a3921455d569b2c174ae0cd39b422d304b15a4ee9b92a2a92f",
+    "endDate": "2026-05-23",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "bol1-gvs-str-2026-05-22",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-perez-2026-05-24": {
-    "id": "2076824",
-    "conditionId": "0x349583fb88b07f5ef1d6ac3420dba1876c49f9f4a4f0a3d033be8236590a79f9",
-    "endDate": "2026-05-31",
+  "bol1-gvs-str-2026-05-22-str": {
+    "id": "2079283",
+    "conditionId": "0xf02d9ebfad29e3be9dc19f5d55ca9b33c409fc7a0216730e01f839f59ee8d1b4",
+    "endDate": "2026-05-23",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "bol1-gvs-str-2026-05-22",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-leclerc-2026-05-24": {
-    "id": "2076825",
-    "conditionId": "0x8dc119f994fdc4d8a122ad4c0694064c468c816afa851abe71a984ee4762ac23",
-    "endDate": "2026-05-31",
+  "bol1-alw-uvi-2026-05-23-alw": {
+    "id": "2079287",
+    "conditionId": "0x8cbd0acc9021b7b24d582010851adb4ad2f01c7990f349db8e34bb966a6e063d",
+    "endDate": "2026-05-23",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "bol1-alw-uvi-2026-05-23",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-ocon-2026-05-24": {
-    "id": "2076826",
-    "conditionId": "0x5be35fc5d9c86a05a8455aea24cb2e6e189c478e5cbc1f736b5fd42ca3d354b9",
-    "endDate": "2026-05-31",
+  "bol1-alw-uvi-2026-05-23-draw": {
+    "id": "2079288",
+    "conditionId": "0x30235b8629ff41ab694462d34a87183a88c6c3340485291f7ff45c8706b3f591",
+    "endDate": "2026-05-23",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "bol1-alw-uvi-2026-05-23",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-norris-2026-05-24": {
-    "id": "2076827",
-    "conditionId": "0x2e02b9a5ae52309ae2feaf2d8b06e6c755a20d6e450ddfa694bd28c71bf3ce22",
-    "endDate": "2026-05-31",
+  "bol1-alw-uvi-2026-05-23-uvi": {
+    "id": "2079293",
+    "conditionId": "0xbdb7e73882698316cf1dfc793e3dc2b4ccf4e2db07b92f21d0b6934db9e50f8d",
+    "endDate": "2026-05-23",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "eventSlug": "bol1-alw-uvi-2026-05-23",
     "negRisk": true
   },
-  "f1-canadian-grand-prix-winner-antonelli-2026-05-24": {
-    "id": "2076828",
-    "conditionId": "0x9eedeb932613962b660f2cd627c8dc62055d3d3752fff4353f75fda37004543c",
-    "endDate": "2026-05-31",
+  "dota2-aur1-flc-2026-04-26-game1-both-teams-beat-roshan": {
+    "id": "2079682",
+    "conditionId": "0x929779e61d88e3b5310c4eb3e9ed23cb155a9b1d55d66d71cf586fa155b3ec66",
+    "endDate": "2026-04-26",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
+    "eventSlug": "dota2-aur1-flc-2026-04-26",
+    "negRisk": false
   },
-  "f1-canadian-grand-prix-winner-verstappen-2026-05-24": {
-    "id": "2076829",
-    "conditionId": "0x521f04be4ef32d5a5d7c6218ee448ceb4db1bb1c35c3f49ecb8b5f3822a0c803",
-    "endDate": "2026-05-31",
+  "pro-football-will-obj-sign-with-a-team-in-2026": {
+    "id": "2080565",
+    "conditionId": "0xf2c4d5abcc25ca31ea6244000d0403692461917d2624ea959257caa0d22fcc3f",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
+    "eventSlug": "pro-football-will-obj-sign-with-a-team-in-2026",
+    "negRisk": false
   },
-  "f1-canadian-grand-prix-winner-colapinto-2026-05-24": {
-    "id": "2076830",
-    "conditionId": "0x68c71898991424f978e6c9b39c7d848a31c9d1b73f4db09fb43089af4a37d2f3",
-    "endDate": "2026-05-31",
+  "dota2-cb3-l1ga-2026-04-27-game1-both-teams-beat-roshan": {
+    "id": "2081111",
+    "conditionId": "0xc4ec3fb59a8cfda21bee71abb85496096ea6c64fb5f6f3afa5076277143081e9",
+    "endDate": "2026-04-27",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
+    "eventSlug": "dota2-cb3-l1ga-2026-04-27",
+    "negRisk": false
   },
-  "f1-canadian-grand-prix-winner-jr-2026-05-24": {
-    "id": "2076831",
-    "conditionId": "0x39294816d1337c91dd856bab0055d3ebe30bce4322565bb0b126e28488da37f5",
-    "endDate": "2026-05-31",
+  "cs2-lph-33-2026-04-26-game1-odd-even-total-kills": {
+    "id": "2083666",
+    "conditionId": "0x34dc3cc13e4473ab725dc25dd470375002cd366dc06587189d53aeceadded566",
+    "endDate": "2026-04-26",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
-  },
-  "f1-canadian-grand-prix-winner-hulkenberg-2026-05-24": {
-    "id": "2076832",
-    "conditionId": "0x0f5e0f2ac9cf2e5bcda18ce9ee7049a53ffa6e8c3a99f1b274857833f5bdc3eb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
-  },
-  "f1-canadian-grand-prix-winner-bottas-2026-05-24": {
-    "id": "2076833",
-    "conditionId": "0x56ebf300e79d418c494e4b1064b5f816c2b03e0d8845354dccdbee180a1557bd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
-  },
-  "f1-canadian-grand-prix-winner-hamilton-2026-05-24": {
-    "id": "2076834",
-    "conditionId": "0x8a1eeb981075fa48acd539263d947c6ef586ee3d911a0e7624def290b2b2a970",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
-    "negRisk": true
+    "eventSlug": "cs2-lph-33-2026-04-26",
+    "negRisk": false
   }
 }
