@@ -2699,26 +2699,6 @@
     "eventSlug": "next-james-bond-actor-635",
     "negRisk": true
   },
-  "will-wolves-finish-in-last-place-in-the-2025-26-english-premier-league": {
-    "id": "572833",
-    "conditionId": "0x338e9d7c4c73cb4c028038d194211c37ca077566b63c42e6756bd1441b586bff",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-last-place",
-    "negRisk": true
-  },
-  "will-burnley-finish-in-last-place-in-the-2025-26-english-premier-league": {
-    "id": "572834",
-    "conditionId": "0x1c9d92ea554458840d40ccd780c98e369b6a144d27245110896f79a8f9fe7d1c",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-last-place",
-    "negRisk": true
-  },
   "will-gpt-6-be-released": {
     "id": "573647",
     "conditionId": "0x0ea8005efbc460378340a2f28a6d97b0d1d9d9d7fba4d16f529b8a415dca77a2",
@@ -2749,276 +2729,6 @@
     "eventSlug": "when-will-bitcoin-hit-150k",
     "negRisk": false
   },
-  "will-erling-haaland-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577160",
-    "conditionId": "0xd175d5454046b2a54c76de7ea2f91f3f179ee2460159ea70139c75c1092ab181",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-mohamed-salah-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577161",
-    "conditionId": "0x0b4d4807d9ada3da32f66bd906f7c79b931e836338ea9127840a22357dc80d6b",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-alexander-isak-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577163",
-    "conditionId": "0xce465bdf15fd274b3d6bd5e4c543fb047f5bc09e306d9a70dd9cf3b207f7a547",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-joao-pedro-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577164",
-    "conditionId": "0x06c4ac6a22e3c924d72a461148ebb4240ebb55e8ddeb962a7059927b985fc08f",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-hugo-ekitike-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577165",
-    "conditionId": "0x0efaf81024bc4cefd1c35a5b53ebe9f441fa1b7774c1d086374fc5dcc35be042",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-cole-palmer-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577166",
-    "conditionId": "0x98fa184a1a88bad52827716102f6a24a9f0c8b1af5db07bd620eb8dfa55ee28c",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-ollie-watkins-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577168",
-    "conditionId": "0xb3f0b0a92040f41a6aca44e3f909e0236c2687ad29ca77cfd3710c83071b74c9",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-richarlison-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577169",
-    "conditionId": "0x586628fe04202ef38a5a82a52d66bdc6aae569e848df204f712a8decfe39ca27",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-dominic-solanke-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577170",
-    "conditionId": "0x20e3bf2810db76a48bb4b915bf85ec43070a54da46f7ee9f123bde8b95add82c",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-omar-marmoush-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577171",
-    "conditionId": "0x71eb9d9a28332fd88fd5a6fbf5b2e6bb771c195a23f2c94eca1f0e89f1ef16c2",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-liam-delap-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577175",
-    "conditionId": "0x9ac58d2c51678463b45389b8d11d398a35f98bb9d99cd0a00e7994bf3d3bc106",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-evanilson-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577179",
-    "conditionId": "0x180cad29950aab8a08730c47e904416559aad814321d73854151be137756ad23",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-chris-wood-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577182",
-    "conditionId": "0xfc84b2b625589cc280cd7cde401696c99505639812c83bb28b0824fbb297b06f",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-morgan-rogers-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577183",
-    "conditionId": "0x4e397280306caef347fb1d7331440558273d102a4c71053f66a316a070efba45",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-thierno-barry-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577184",
-    "conditionId": "0xb498db5296d2aaa4d26db3c6b6dc3a80c5924a9ea83b6b4f2f18c6f12726d747",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-mohammed-kudus-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577185",
-    "conditionId": "0x0a6e6898385eade04759a401ab28ee8fa1ced611645ca1e06eb2328411c93850",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-nicolas-jackson-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577186",
-    "conditionId": "0x60576953f8f7ecb78bf8c5a7d287d89de0dd4b9c4085a7d7eea7732e710c17ad",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-cody-gakpo-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577188",
-    "conditionId": "0x7499cb05b10df8f07a0cd31417e9f48ece68ef3bd13a8197c12487a3630d5017",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-florian-wirtz-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577190",
-    "conditionId": "0xfdc15849e7bfbe9776d666108c2174047134547db0a014ec08605ca19b2c23c6",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-antoine-semenyo-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577192",
-    "conditionId": "0x0e00597946d70fe57f7d8f173d2b2deb219f3db373029e8caa5c6d0ebb48de20",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-igor-thiago-be-the-top-goal-scorer-in-the-202526-english-premier-league-season": {
-    "id": "577193",
-    "conditionId": "0xb9a9479df4f4bcae2e22da7197d8c40c4d497b4c2f7517788ccfa56163397ef3",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-top-goalscorer",
-    "negRisk": true
-  },
-  "will-kylian-mbappe-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577218",
-    "conditionId": "0xa449cd8346b6deda561828355ae92b88bd47d989859d2d287ce7e42a42b556c7",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-alexander-sorloth-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577220",
-    "conditionId": "0x82bd65f09e2428042a5ac204f60f34e1b40f7a4a2d008fc0b92afd0aca450607",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-julian-alvarez-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577223",
-    "conditionId": "0xad8e9885ec2473d0ba49c38449dfd4d18ad7c0f7a14625a24865857e18a94850",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-ayoze-perez-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577233",
-    "conditionId": "0x936a5e78fd5963c717e49661a593fa3353241f6fb3c69b6615e9041e6b6f0973",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-alex-baena-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577245",
-    "conditionId": "0x584caca7a7536029bef854652fa5fdd861631edbc01a217069341b85030edd6f",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
-  "will-antoine-griezmann-be-the-top-goal-scorer-in-the-202526-la-liga-season": {
-    "id": "577246",
-    "conditionId": "0xaefc28d462f0824bbb9c694d3511beaaf8b21af8eba30d8e524ed05d0431e712",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-top-goalscorer",
-    "negRisk": true
-  },
   "will-any-2026-fifa-world-cup-game-scheduled-in-the-us-be-relocated-abroad": {
     "id": "578157",
     "conditionId": "0xe82058477cc3af4be561d02ef984ebfa8581f56b07d1ed037829074cf1a0cd57",
@@ -3027,26 +2737,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-any-2026-fifa-world-cup-game-scheduled-in-the-us-be-relocated-abroad",
-    "negRisk": false
-  },
-  "will-cremonese-be-relegated-from-serie-a-after-the-2025-26-season": {
-    "id": "578398",
-    "conditionId": "0xa0224dd1786eab161adafee1168cb48cc9ecbf80e938b74d7ae2ab1d097485a7",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-which-clubs-get-relegated",
-    "negRisk": false
-  },
-  "will-lecce-be-relegated-from-serie-a-after-the-2025-26-season": {
-    "id": "578401",
-    "conditionId": "0x1f27bc2e8ba7d49c159a30d8b5acbf262e37b7bfce49faaa83d97e1230ff85b2",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-which-clubs-get-relegated",
     "negRisk": false
   },
   "will-matthis-abline-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season": {
@@ -3097,196 +2787,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ligue-1-top-goalscorer",
-    "negRisk": true
-  },
-  "will-ac-milan-finish-in-the-top-4-in-the-2025-26-serie-a-season": {
-    "id": "579359",
-    "conditionId": "0x1ae30298f1671c0514386f0469b3fa0441c3334a05796e3e3e2db6031033600c",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-4-finish",
-    "negRisk": false
-  },
-  "will-juventus-finish-in-the-top-4-in-the-2025-26-serie-a-season": {
-    "id": "579360",
-    "conditionId": "0x9a03ddc0d2d1433bd1d20738546294260eb3556b6902d54e8b5ec35244f5224b",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-4-finish",
-    "negRisk": false
-  },
-  "will-roma-finish-in-the-top-4-in-the-2025-26-serie-a-season": {
-    "id": "579361",
-    "conditionId": "0xc08d2c4adafae24cb956c6baee9c0ed5ebb2d95656ad51aa61ba4e54878758cf",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-4-finish",
-    "negRisk": false
-  },
-  "will-como-finish-in-the-top-4-in-the-2025-26-serie-a-season": {
-    "id": "579366",
-    "conditionId": "0xfef5db00966a292a4dc0325bc2706d480e2ea800d6499863998aecfc1e9ca319",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-4-finish",
-    "negRisk": false
-  },
-  "will-lautaro-martinez-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579377",
-    "conditionId": "0x13b62587b14c1c63a6dc344fdd162024a41bafa57c9703a23b5fc8687fd97b1c",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-jonathan-david-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579379",
-    "conditionId": "0x8d6dad52bdc7f34ae33fd466b00308116110b724f0a203c5d4723faa94a96c55",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-dusan-vlahovic-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579382",
-    "conditionId": "0xc8dc4518e3e88aaa4d3854d547e9a703760cd0992fe4596e05b068a34f17dea8",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-santiago-gimenez-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579383",
-    "conditionId": "0x8e44b959278bec5e8c11d17a127a1508840907784d82e526ec0771352496f449",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-artem-dovbyk-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579384",
-    "conditionId": "0x8b27ec8fb2a9a4f0839a78a0ca3440421efc00647b0769df8d0810f32cd298fa",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-evan-ferguson-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579386",
-    "conditionId": "0x8ba6d9effe52c68e848f9464d58b438ad0d61dd8a24fef577eb7db981cfc8d7b",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-lorenzo-lucca-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579387",
-    "conditionId": "0xa69e31a8af960e3917a37b525baf7710146a63ba0c4eea99606e5ba205cc28e1",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-romelu-lukaku-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579391",
-    "conditionId": "0x7af6dcb1a2c1ce8a9818aa65cc89a8982e5108a63d208a221073803c44143b61",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-kenan-yildiz-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579392",
-    "conditionId": "0x86a9ead7ca5c6ce56f970e621a3d5de55297fc02ad0c8e125a05f242df6c6f38",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-christian-pulisic-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579393",
-    "conditionId": "0x5e8417426dfa0e11e44513e0faaa66a08a0b86fbc86d0e1ccdd9babaa5dfa551",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-kevin-de-bruyne-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579394",
-    "conditionId": "0x65ab3121ad8ef428364cf471581c5266427a0a559061b7834adf60ac6e749d57",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-assane-diao-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579395",
-    "conditionId": "0xf269308a412340583f7f0abcfd77b45ddc2d4714d370bac7ddd7b888e5943098",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-paulo-dybala-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579398",
-    "conditionId": "0x725982c37ddaa59021493b72d51d68096c74a54ee5775488931ed0f57a5c35af",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-francesco-camarda-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579399",
-    "conditionId": "0xb3a815b23c932f5f89b42d6c4a4407e5de176bc413c8ac30a05b7b40b615bb56",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
-    "negRisk": true
-  },
-  "will-rafael-leao-be-the-top-goal-scorer-in-the-2025-26-serie-a-season": {
-    "id": "579400",
-    "conditionId": "0x54f493df10354cddf64976e2b9e96ee21385ab61109019e12af9388d3d6627cf",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-top-goalscorer",
     "negRisk": true
   },
   "taylor-swift-pregnant-before-marriage": {
@@ -13207,106 +12707,6 @@
     "acceptingOrders": true,
     "eventSlug": "how-high-will-inflation-get-in-2026",
     "negRisk": false
-  },
-  "will-disy-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681018",
-    "conditionId": "0x090297e9749a22d41c5c6d2572cc7a15b283fdce882d62b7172a1456ed68200c",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-akel-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681019",
-    "conditionId": "0xb64cbeac97926a55659d6473c000b819e156ff3b27e52fe88c459cb437aa9d77",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-diko-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681020",
-    "conditionId": "0x01d03c0beb51281408f5209c72a0f56fcfc00fd46485a9ca4a2374e21736316e",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-elam-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681021",
-    "conditionId": "0xf185135e851db7f7b77413c3477fb51a30733d009a3f07875fe8505640d81fc2",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-edek-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681022",
-    "conditionId": "0xaf68398ee29f2d2f4841d5718fdec3b7532e25ed2ec3ff7c2fbd084b85e7634d",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-dipa-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681023",
-    "conditionId": "0xd45dd359fab0d5e00721fcf28944ed1ed87f4a8124eb6019f2496db549ef9d21",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-kosp-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681024",
-    "conditionId": "0x494911fe6744e05bdd006058a3f053f89572557d96490aa80bff3f60a7e583d5",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-volt-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681025",
-    "conditionId": "0x7e9d21b3d4047a886b21a316b2de708bb851266ab1ed806b0749e390d9be19bc",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-dnm-dek-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681026",
-    "conditionId": "0xe8aed51f929f10af487768fea45450e2fae3f1e258686b80627dee3ef9e7e000",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
-  },
-  "will-adk-win-the-most-seats-at-the-cyprus-house-of-representatives-election": {
-    "id": "681027",
-    "conditionId": "0xdd6ee758b1aefe20f6589bd8dfd01211cfd6b069e007fc5b096071b98d3b2512",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cyprus-house-of-representatives-election-winner",
-    "negRisk": true
   },
   "will-ukraine-agree-to-cede-territory-to-russia-before-2027": {
     "id": "681144",
@@ -35387,16 +34787,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-taylor-fritz-win-the-2026-mens-french-open": {
-    "id": "1087523",
-    "conditionId": "0xedd6c9ec70b42535f2f611a4e834447002e7d08210cb962ae15fde991c592090",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-ben-shelton-win-the-2026-mens-french-open": {
     "id": "1087524",
     "conditionId": "0x2dba5d6bcf0ad364a444985f07286ebf2dc5bc0ee7989ef1227d14c245e301fb",
@@ -35947,39 +35337,9 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-emma-raducanu-win-the-2026-womens-french-open": {
-    "id": "1087793",
-    "conditionId": "0x5849ebf1f6d0acca578ab1715ae323b30a3687ec1c0d1891d191a293536abc9f",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-yulia-putintseva-win-the-2026-womens-french-open": {
     "id": "1087794",
     "conditionId": "0x3784d4428d9b4ae3b83a9d89c07c2ca6d476a720f5018be3a8e2768f80b0718d",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-clara-tauson-win-the-2026-womens-french-open": {
-    "id": "1087795",
-    "conditionId": "0x557c825185dac7d5fd85a4bbdbe012442fa4872067d95ab373c9093bd3cc4b35",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-sofia-kenin-win-the-2026-womens-french-open": {
-    "id": "1087796",
-    "conditionId": "0xb251b276e3f914cb39ec6f4ecf5dadbf48fced8ea9fc8f81b3b3a203410fcd2c",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -43900,56 +43260,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-zendaya-and-tom-holland-get-married-by-december-31",
     "negRisk": false
-  },
-  "will-bruno-fernandes-be-the-player-with-the-most-assists-in-the-202526-english-premier-league-season": {
-    "id": "1222854",
-    "conditionId": "0xe74d6ad3f44ad47d478affe787cb2e22e622a3e4bf6a213da57b6dbf02cad5df",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-most-assists",
-    "negRisk": true
-  },
-  "will-rayan-cherki-be-the-player-with-the-most-assists-in-the-202526-english-premier-league-season": {
-    "id": "1222855",
-    "conditionId": "0xbda501f6dae303671a0877a0f20f3b65b08eab77f9b5564b2ed4ac1802f212ee",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-most-assists",
-    "negRisk": true
-  },
-  "will-jack-grealish-be-the-player-with-the-most-assists-in-the-202526-english-premier-league-season": {
-    "id": "1222856",
-    "conditionId": "0xc7f9f1ec246104205e21d7af9ec2163bfaa85322c4f76bffd002462fcf449733",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-most-assists",
-    "negRisk": true
-  },
-  "will-granit-xhaka-be-the-player-with-the-most-assists-in-the-202526-english-premier-league-season": {
-    "id": "1222857",
-    "conditionId": "0x9987f76ba31a5361a802119790978ccc8b49e4c99238ef4d34f5f26132add226",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-most-assists",
-    "negRisk": true
-  },
-  "will-mohammed-kudus-be-the-player-with-the-most-assists-in-the-202526-english-premier-league-season": {
-    "id": "1222858",
-    "conditionId": "0xc284ad8ec870f84fe755acd0aaaf91c5e3ba81174a8bf75db2dd0c02e39cc9ba",
-    "endDate": "2026-05-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "english-premier-league-most-assists",
-    "negRisk": true
   },
   "new-mlb-cba-by-dec-1": {
     "id": "1222896",
@@ -67274,116 +66584,6 @@
     "eventSlug": "us-x-cuba-military-clash-in-2026",
     "negRisk": false
   },
-  "will-sheila-garrity-win-the-2026-galway-west-by-election": {
-    "id": "1439439",
-    "conditionId": "0xa46d2b031e0c57fb04888e3747747f955a71369881f5460b2fc23e923f878ecc",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-sen-kyne-win-the-2026-galway-west-by-election": {
-    "id": "1439440",
-    "conditionId": "0x341d6a969d9243889772ba5c8889db5fad54fc1b9cd8fd14f264742e6e97973b",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-niall-murphy-win-the-2026-galway-west-by-election": {
-    "id": "1439441",
-    "conditionId": "0x8c33e9363ac336d6ace62f64e10999b5014ea5936cae96d6f8c932b2757a6800",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-mde-nic-fhionnlaoich-win-the-2026-galway-west-by-election": {
-    "id": "1439442",
-    "conditionId": "0x7f97e93d37e5e207984d9f68b3dff3013025f9b2ecf9f25e64c690f2f88a0c56",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-orla-nugent-win-the-2026-galway-west-by-election": {
-    "id": "1439443",
-    "conditionId": "0xe81314deb37ff5c17002bdadbc31ee3e2aefce1159630590ec57838513a457a0",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-helen-ogbu-win-the-2026-galway-west-by-election": {
-    "id": "1439444",
-    "conditionId": "0xb83b8f5249532d56fa9a5e4b6973f273d04de16804c6e35a4de81c72806b2d8e",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-denman-rooke-win-the-2026-galway-west-by-election": {
-    "id": "1439445",
-    "conditionId": "0x6123ac6f7291638159d8079ed8de1627cd782be26db6b0c51855e82cc538c76a",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-noel-thomas-win-the-2026-galway-west-by-election": {
-    "id": "1439446",
-    "conditionId": "0x338e693bdb81d0cb315284ac319a051eb9d7fd8f58ca94580369093828162c92",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-thomas-welby-win-the-2026-galway-west-by-election": {
-    "id": "1439447",
-    "conditionId": "0xf02705eaed652d019fa4c373402e13c8136df70d9e14a1df869cc41678513049",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-mike-cubbard-win-the-2026-galway-west-by-election": {
-    "id": "1439448",
-    "conditionId": "0x4884312a9e0c3fe05be1ca8b872f7e7818affbd20b10c047ac1a74bac9b92797",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
-  "will-mark-lohan-win-the-2026-galway-west-by-election": {
-    "id": "1439465",
-    "conditionId": "0x8b2b903ff76adf60a562841cac343151da1d2e4f5f9b9243ca802179511d236b",
-    "endDate": "2027-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "galway-west-by-election-winner",
-    "negRisk": true
-  },
   "fed-rate-cut-by-july-2026-meeting-577": {
     "id": "1439536",
     "conditionId": "0x02507350fc2b81c3af36c659a805adbda9b0a81e63a27b29cb273cdd7dbc072e",
@@ -75838,16 +75038,6 @@
     "eventSlug": "bank-of-brazil-decision-in-june",
     "negRisk": true
   },
-  "elon-musk-of-tweets-may-2026-660-679": {
-    "id": "1698893",
-    "conditionId": "0x9e9870ea4af5f0cb8a225aecfdec5f36b7fc9823391aef66fe07a2267e2eb6fa",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
   "elon-musk-of-tweets-may-2026-680-699": {
     "id": "1698895",
     "conditionId": "0xd825250ce2c6446b5537befa6b7e1cde94b5d0bda86b0951463e7c948bdeb1e5",
@@ -80136,46 +79326,6 @@
     "eventSlug": "ng-up-or-down-on-march-31-2026",
     "negRisk": false
   },
-  "will-lamine-yamal-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792257",
-    "conditionId": "0x737a8cfa06fcb8aa400a5cb6b83c49ce960806efe6d99452a7886c35533e05b7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-giuliano-simeone-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792266",
-    "conditionId": "0x22de5f6af33158a64eeaae4ca81dd566d9310daad9e4572ca8a6683ba304324d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-santi-comesaa-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792267",
-    "conditionId": "0x620569f074882b841ba9f0533a01e834ccbba5ca812f6d1f85e2147dabec5151",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
-  "will-georges-mikautadze-lead-laliga-in-assists-for-the-2025-26-season": {
-    "id": "1792272",
-    "conditionId": "0x5d267c5d700deb90be6fbeaaba66d7122d17ba0a9a1a2691fff99d542b422ce4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-most-assists",
-    "negRisk": true
-  },
   "will-adrien-thomasson-lead-ligue-1-in-assists-during-the-2025-26-season": {
     "id": "1792365",
     "conditionId": "0xd0df11b7727cf9659ecdf7af039d21208a02773964742505c31e5bbfa99c7017",
@@ -80194,96 +79344,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ligue-1-most-assists",
-    "negRisk": true
-  },
-  "will-federico-dimarco-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793684",
-    "conditionId": "0xfcdcae5ff81d2fdfc27f9abb9ec051d7e1d0640a55a2cd383444a66d9266c029",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-rodriguez-caraballo-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793685",
-    "conditionId": "0x8189648854aeaef46345740b69927e7599cd6cf3c47ea2721bfb0d5d9eb62c38",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-kenan-yildiz-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793694",
-    "conditionId": "0x847699f54b2354e2322943a61a5cbc4c50d28453303c24689461345e63d1c0b5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-nico-paz-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793696",
-    "conditionId": "0xd14181ab54a3103b404eee48b6faaacbe28528e21b2893aa4b032b2c3a296657",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-giovane-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793697",
-    "conditionId": "0x838192511f2a4cdfcbd182c29c040d1f8c8dfdfccc7639d753d6c613cf662cfb",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-matteo-politano-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793698",
-    "conditionId": "0x871d40f406e1a3a4ab49f93e6880ae37d26f680d61fe5c808933d4c456cfa7af",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-aarn-caricol-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793699",
-    "conditionId": "0x1a91a428f270832360581a6b6fcd0a361e18643112759aef04a5c006cd107ffd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-sebastiano-esposito-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793700",
-    "conditionId": "0xa23e3a1f2543c7406027d4324c7b46010717564ce3461e21cce46c23727dc6dd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
-    "negRisk": true
-  },
-  "will-emil-alfons-holm-lead-serie-a-in-assists-during-the-2025-26-season": {
-    "id": "1793701",
-    "conditionId": "0xce8baa54076229c63176ec02b6f120259d1daf86c99e11ae503b3f2901706f26",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-most-assists",
     "negRisk": true
   },
   "yom-fdv-above-20m-one-day-after-launch": {
@@ -80365,36 +79425,6 @@
     "acceptingOrders": true,
     "eventSlug": "clavicular-banned-from-kick-by",
     "negRisk": false
-  },
-  "will-ac-milan-place-2nd-for-the-2025-26-serie-a-season": {
-    "id": "1794953",
-    "conditionId": "0xc9de413e24a4818310b62a09d7ed9d10d48dc2ff699c0340dcab69f699e7cdbb",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-2nd-place-finish",
-    "negRisk": true
-  },
-  "will-napoli-place-2nd-for-the-2025-26-serie-a-season": {
-    "id": "1794966",
-    "conditionId": "0x14de4d64f2619c2ae1e131892fc216d46ce0f759bf34eab5f7c88550a5fd48dd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-2nd-place-finish",
-    "negRisk": true
-  },
-  "will-roma-place-2nd-for-the-2025-26-serie-a-season": {
-    "id": "1794968",
-    "conditionId": "0xd7734ee683f6bf22ac54687af8f7c942e383bf71ade46dfdff64f8fdabfca10a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-2nd-place-finish",
-    "negRisk": true
   },
   "doug-ford-out-as-pc-party-leader-by-december-31": {
     "id": "1795346",
@@ -81406,26 +80436,6 @@
     "eventSlug": "aligned-layer-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "will-brentford-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1818322",
-    "conditionId": "0xd4f0671b9aa749e26a299ccd9e6d9691726685bef6be226845c93c62adfc0eb9",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
-  "will-brighton-hove-albion-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1818323",
-    "conditionId": "0x178ea175f3108a69b495ba9260b12597c2277b074b865b097536eae29edaf693",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
   "will-crystal-palace-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1818325",
     "conditionId": "0x9fc5a1d4cf0bff91ecce95862a4a265ef57fff7182b3e823a523de7e5b2e74bf",
@@ -81436,54 +80446,9 @@
     "eventSlug": "epl-team-to-qualify-for-uefa-europa-league",
     "negRisk": false
   },
-  "will-brentford-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1818370",
-    "conditionId": "0x0389abffb5ab63bd6aa4c5a51d9d3aa9448f20cd4ce3aa635fefd2f2349c3a31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
   "will-brighton-hove-albion-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1818371",
     "conditionId": "0x4e11ad07550e879b771bb74aa2ac543182c0b555f4fd86aaa8c9818d64b91f25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-chelsea-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1818372",
-    "conditionId": "0xa0a419e4b455bbeb1ac06050bf572bbf636c70dc688f201eda6beb257e0ecccf",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-everton-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1818374",
-    "conditionId": "0xc2d06ea1b36aa2af374778802062278b37c0681e80b8b30d440eea8c89c69efa",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-fulham-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1818375",
-    "conditionId": "0xa9c80d9e6d42b63441eb65788fa6715dd14e46e84e92ab0af524aa71de00e9fe",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-conference-league",
-    "negRisk": false
-  },
-  "will-newcastle-united-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
-    "id": "1818381",
-    "conditionId": "0xb0716d2b36fd90dd54c600a9e7647616490002987e3eb1ecb3d10ead4d62d33c",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -84630,26 +83595,6 @@
     "eventSlug": "who-will-trump-announce-as-next-ag",
     "negRisk": true
   },
-  "will-olympiacos-win-the-2025-26-euroleague": {
-    "id": "1832835",
-    "conditionId": "0x21cfb32adc16173740e0840243610fbfe153331e2318dc0a431e958ffa88c76b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2025-266-euroleague-winner",
-    "negRisk": true
-  },
-  "will-real-madrid-win-the-2025-26-euroleague": {
-    "id": "1832839",
-    "conditionId": "0x593c3d41ee0b38ed91c2eca8c739f4f966bea075577886d5cda7417a274e782c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2025-266-euroleague-winner",
-    "negRisk": true
-  },
   "will-there-be-1-no-hitters-thrown-during-the-2026-mlb-season": {
     "id": "1833097",
     "conditionId": "0xaf89f2c235c29ecfe7d8735aded0b34188ea3223f1e32f7388b773eefaa1c47d",
@@ -84750,26 +83695,6 @@
     "eventSlug": "mlb-number-of-no-hitters-thrown-in-2026",
     "negRisk": false
   },
-  "will-olympiacos-win-the-2025-26-euroleague-621": {
-    "id": "1833146",
-    "conditionId": "0x2a8cf18614b88c6312a83f4c734b095863e37436d5edf29ff206432379158081",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-euroleague-winner-141",
-    "negRisk": true
-  },
-  "will-real-madrid-win-the-2025-26-euroleague-787": {
-    "id": "1833150",
-    "conditionId": "0x4bd92aa403a426542752bfe9042bb98b2c7a148e66ba7fcf2903f9480dc84c0e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-euroleague-winner-141",
-    "negRisk": true
-  },
   "will-taylor-swift-release-taylor-swift-taylors-version-in-2026": {
     "id": "1833504",
     "conditionId": "0xc5c6b04f17dd3844b3abc609d0a9bcbf2f0fc377122ff73244695cf6966cca03",
@@ -84833,16 +83758,6 @@
   "2026-hockey-american-hockey-league-winner-colorado-eagles": {
     "id": "1834048",
     "conditionId": "0x441391cef755a71cd771d8262b6f7970ac527dfcc1924c5eb2cea290646cbae9",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-hockey-american-hockey-league-winner",
-    "negRisk": true
-  },
-  "2026-hockey-american-hockey-league-winner-springfield-thunderbirds": {
-    "id": "1834064",
-    "conditionId": "0x4f6be21e41d0d2bf9b44af124411b7d59be4a718cc99fa579cbbbb0cd2848cf9",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -85520,56 +84435,6 @@
     "eventSlug": "bundesliga-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
   },
-  "will-ac-milan-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
-    "id": "1835919",
-    "conditionId": "0x75956a46a67d28ec17a759700e5deb406be57a51e7dfc648182be748a0fd4584",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-champions-league",
-    "negRisk": false
-  },
-  "will-como-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
-    "id": "1835923",
-    "conditionId": "0x679109d8ec1fb712d7fe606dd203dffca28fabf2d19c48e793081550612c946a",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-champions-league",
-    "negRisk": false
-  },
-  "will-juventus-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
-    "id": "1835928",
-    "conditionId": "0xfad2d9f1364693aa94f8050c73f98674f35415997290ccb1605f5967e7739fff",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-champions-league",
-    "negRisk": false
-  },
-  "will-roma-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
-    "id": "1835934",
-    "conditionId": "0x5eac21157558aad7fdb852b13eb660550632ce1be6ec0efea2890c005cb53375",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-champions-league",
-    "negRisk": false
-  },
-  "will-ac-milan-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1835994",
-    "conditionId": "0x8a8ead8ae3f8e0c851116b864951eac3a07db2b586d950574917b4f49ef49e82",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
   "will-como-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1835998",
     "conditionId": "0xb7687b6f060d502fb1c77a555e844bd2b2db27f1d864c0f963d969c858567d79",
@@ -85590,16 +84455,6 @@
     "eventSlug": "serie-a-team-to-qualify-for-uefa-europa-league",
     "negRisk": false
   },
-  "will-roma-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1836009",
-    "conditionId": "0xbf34851ed7631d286df20bdea1a6555d079ff19b72f46ca75b65b40bfc07bf0c",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
   "will-atalanta-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1836058",
     "conditionId": "0x8a0615b436f772be0d6cfa88b5ca677ce4dd7964130941819d2e3f0a83f63758",
@@ -85609,26 +84464,6 @@
     "acceptingOrders": true,
     "eventSlug": "serie-a-team-to-qualify-for-uefa-conference-league",
     "negRisk": false
-  },
-  "will-lecce-place-17th-for-the-2025-26-serie-a-season": {
-    "id": "1836272",
-    "conditionId": "0x195645c9f40ac1fec345740a812e6a555d6af59c93bddf089acc0c62e234e99e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-relegation-survivor",
-    "negRisk": true
-  },
-  "will-cremonese-place-17th-for-the-2025-26-serie-a-season": {
-    "id": "1836282",
-    "conditionId": "0xb5a9af18271a42854ca350c25b9a0c80e0eda5515de232de9773cc293d0c5b9b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-a-relegation-survivor",
-    "negRisk": true
   },
   "will-lyon-qualify-for-the-league-phase-of-the-2026-27-uefa-champions-league": {
     "id": "1836305",
@@ -91927,16 +90762,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-taylor-fritz-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920461",
-    "conditionId": "0xe789a1dae3b1da80c08b4d6c31569829e510f5b41d45833f48fd8b776734bc9e",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-daniil-medvedev-win-the-2026-roland-garros-mens-singles": {
     "id": "1920462",
     "conditionId": "0x8534778f3d68aab7953b8c7a1750a1e668cbd92b8acebe384a52f0a3c5b041b1",
@@ -92190,16 +91015,6 @@
   "will-iva-jovic-win-the-2026-roland-garros-womens-singles": {
     "id": "1920820",
     "conditionId": "0xc9588b4adf301dd3cdd33a5597539dd684aebfcb765872c2f7511cd7db603295",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-clara-tauson-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920821",
-    "conditionId": "0x85881a2837b8f84392725c708b92e6f6df85ae1f0afc60da39e5a1064747632c",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -106716,6 +105531,16 @@
     "eventSlug": "mlb-batting-average-leader",
     "negRisk": true
   },
+  "will-riley-greene-have-the-highest-batting-average-in-the-2026-mlb-regular-season": {
+    "id": "2037692",
+    "conditionId": "0xc69e2e9785829920315e818cbeb547370424b90a4bfe6e580e64f10c9192b174",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-batting-average-leader",
+    "negRisk": true
+  },
   "antnio-guterres-out-by-december-31": {
     "id": "2037740",
     "conditionId": "0x71733f025716e8c132b9f1e76610f2b7cadd7e5948f6a87a72f669f1e68823ab",
@@ -113130,26 +111955,6 @@
   "will-cd-castellon-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
     "id": "2062460",
     "conditionId": "0x085c594f88dbb90554bf3e88de4a49d34626d734ffd56729c55a47831b406058",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
-  "will-cordoba-cf-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062465",
-    "conditionId": "0x8410f39704ca03944c29a75f1109e1ff1f09a0a0f9fb76da9bf2326f449a6d16",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
-  "will-rc-deportivo-de-la-coruna-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062472",
-    "conditionId": "0xfbf61679c3dd65e338eef4d7c8ad66cf9d9386da151dc0f6ae2611dfc98101b9",
     "endDate": "2026-05-25",
     "closed": false,
     "active": true,
@@ -119600,5 +118405,1205 @@
     "acceptingOrders": true,
     "eventSlug": "what-price-will-rklb-hit-in-may-2026",
     "negRisk": false
+  },
+  "will-rklb-dip-to-72-in-may-2026-912": {
+    "id": "2074122",
+    "conditionId": "0x41fa765479c0a0dfb9d2187b757818f9dbfc329e5ab12ec9d93b3a0159e12c16",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-rklb-dip-to-68-in-may-2026-154": {
+    "id": "2074123",
+    "conditionId": "0x792f930bfd3fa62b12856e2d3fad2e44b3d9d6b5c698e31093ba7f326fc6286e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-rklb-dip-to-64-in-may-2026-822": {
+    "id": "2074124",
+    "conditionId": "0x52ed697648da41802aefb9d71a989a0fe9a3c470ff379f65c162275d993f9aa1",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-rklb-dip-to-60-in-may-2026-822": {
+    "id": "2074125",
+    "conditionId": "0xddf8a27585cf9769f7e1ab9a406053432c561416a4be830eeca2fa11fc8bec98",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-rklb-dip-to-56-in-may-2026-557": {
+    "id": "2074126",
+    "conditionId": "0x2d9485a106414d7119179ddbd7f1ff7abcd6a03e6759a772fe73556db1899b57",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-rklb-dip-to-52-in-may-2026-241": {
+    "id": "2074127",
+    "conditionId": "0x9f992d767604ac3780359f3a87bed15e2161217e2a7be55a881cb9d486dcc862",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-reach-168-in-may-2026": {
+    "id": "2074128",
+    "conditionId": "0x3fb64c182b73876bdd3bacb492e2a3c854a1878e7812c8234726e32b1ef40b6f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-reach-164-in-may-2026": {
+    "id": "2074129",
+    "conditionId": "0xa7c3f528af9d163d2b38dbe048f01b97a474ac8d0ea023c37e03d268f100cfa6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-reach-160-in-may-2026": {
+    "id": "2074130",
+    "conditionId": "0x3c3ee395f4a73676d86a40d8933a5df46197d8e47a348d44f574602254bf041b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-reach-156-in-may-2026": {
+    "id": "2074131",
+    "conditionId": "0x5c12556488baeb91ce51cecb7928dad6dacbaafc8591f1a25a0123a6e2dc7720",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-reach-152-in-may-2026": {
+    "id": "2074132",
+    "conditionId": "0x9e79d263df8ed24a16c22dc936726c9192a86616af02bccd1b4009b903b573d3",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-reach-148-in-may-2026": {
+    "id": "2074133",
+    "conditionId": "0x938883032dd48072f83123b2cc037ff21a61a72579f2e937bda4b5e815b521e2",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-dip-to-128-in-may-2026-452": {
+    "id": "2074138",
+    "conditionId": "0x9bbfaa26217ae3acfd02c8e840a8260cda685de57e95e1be6486978a8608f444",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-dip-to-124-in-may-2026-289": {
+    "id": "2074139",
+    "conditionId": "0x7eb0b2bc6a6fe62151514cb938a40531f46e21674a6b97819bfc76368f0c81e1",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-dip-to-120-in-may-2026-228": {
+    "id": "2074140",
+    "conditionId": "0x7cac75e2c2888938a3526731a09ebc63b4dab60efca4fdf81a4687b62575794f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-abnb-dip-to-116-in-may-2026-686": {
+    "id": "2074141",
+    "conditionId": "0x96f2a22c3d2a643362667822b1cfc2e285c2bad2a87053a5e88ddc08ecfddace",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-coin-reach-230-in-may-2026": {
+    "id": "2074142",
+    "conditionId": "0xaeec126e2ef4dec645ef2721e04e5a1690955afe9a95dbff1269a02cf107ba1b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-coin-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-coin-reach-225-in-may-2026": {
+    "id": "2074143",
+    "conditionId": "0x1aafc90a5133cd9108377f4e02ddbbdd0044742ab259c021e6772025942dc2df",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-coin-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-coin-dip-to-180-in-may-2026": {
+    "id": "2074152",
+    "conditionId": "0x0bb0c5e9d740346f3173f97ad462221fb4521b35ccc1bb3ae199d34ce31d3e93",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-coin-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-coin-dip-to-175-in-may-2026": {
+    "id": "2074153",
+    "conditionId": "0x98cfdefbad363360a623e5e67594591af4ccdbba8d04680babff2f1d6391c26d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-coin-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-coin-dip-to-170-in-may-2026": {
+    "id": "2074154",
+    "conditionId": "0x4d7fcc6a91681dd66bd86b86243bea42fd79af4374c9cfe1b83992f26d1480c6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-coin-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-coin-dip-to-165-in-may-2026": {
+    "id": "2074155",
+    "conditionId": "0xc24d84d05d413f3281df7b789287c378182bf363fba02db7b6878938876b81af",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-coin-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-115-in-may-2026": {
+    "id": "2074156",
+    "conditionId": "0x7a7182a0ee7d6182fe22b13d28d47247118aae8a0b31c4cc0af88368c8f1f5e4",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-110-in-may-2026": {
+    "id": "2074157",
+    "conditionId": "0x3b37069389b1211f723e27ad3739da1b1f1f4455f432b84dad7b1c538f7b7a99",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-105-in-may-2026": {
+    "id": "2074158",
+    "conditionId": "0x9470711902da3f973c13f6408a1e50515dca8266c34feef719eb5f8398ff029a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-100-in-may-2026": {
+    "id": "2074159",
+    "conditionId": "0xa58541b0c5460f6e36fbb764e2a9073bfd2650abbc0371c7553a31e7f81388fa",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-95-in-may-2026": {
+    "id": "2074160",
+    "conditionId": "0xf7737945d140c8113c188e4abaf1b75249afccebc594bb90196fc32a95f69b67",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-90-in-may-2026": {
+    "id": "2074161",
+    "conditionId": "0xbc7d6755993254ddae096b6ffd382aa74d989677f6634051bc821a38d49a96af",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-reach-85-in-may-2026": {
+    "id": "2074162",
+    "conditionId": "0x272d6493c52eba0ace2a9227aecc12ec1652865551d247fe19ef53f2ee440420",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-dip-to-70-in-may-2026": {
+    "id": "2074165",
+    "conditionId": "0x72843b20808ee4b5c1e07458b86ca15b9760344904a9c6464692bde7125a15f6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-dip-to-65-in-may-2026": {
+    "id": "2074166",
+    "conditionId": "0x5a92ba0697427837046ad0eb822c20db3942b107a05b6d42b0fc4ca74253cb35",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-dip-to-60-in-may-2026": {
+    "id": "2074167",
+    "conditionId": "0xe2665380b9a2facff7576446eb7ba83d9d0399d59a09cc354ca7ae4c1c948fa9",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-dip-to-55-in-may-2026": {
+    "id": "2074168",
+    "conditionId": "0x92c629dec506c3d85b2b31374178046bbe898423090311cab1da8003374f58ab",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-hood-dip-to-50-in-may-2026": {
+    "id": "2074169",
+    "conditionId": "0x7ac8faa4a9a6d3e5f6a47c1aee6d929e45c3ecc15776252daaf0be4b2e35b360",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-hood-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-high-780-in-may": {
+    "id": "2074170",
+    "conditionId": "0xc2be196489e59d7e29c031b546265b53a01daa9c1ab723ff040b193d81214e04",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-high-770-in-may": {
+    "id": "2074171",
+    "conditionId": "0x407b881f35126fd4e5136bb5068257173dbc23f020560cec894f6509111276af",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-high-760-in-may": {
+    "id": "2074172",
+    "conditionId": "0x1bc5558aa2f7d16a74827e2f4099c549cd68b8caf3c9077c12e37e3b634017a8",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-high-750-in-may": {
+    "id": "2074173",
+    "conditionId": "0x10f33df25b6b8214c0048e3dc9e0e08afbc05f18c05c8e06e151eb040f12adbe",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-710-in-may": {
+    "id": "2074177",
+    "conditionId": "0xc5d3907b0683a70aa04d1f1373b72ba006a10e8a6abe3a22fab319ae53e47c39",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-700-in-may": {
+    "id": "2074178",
+    "conditionId": "0x2a3a051ebcc0579d5b320a610e037eae5faa5eaa9119e8bb3f87b2973f59d852",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-690-in-may": {
+    "id": "2074179",
+    "conditionId": "0xef92c7494549fdc2843259babf31008970e1fbd60d2686260d1251274944c3fd",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-680-in-may": {
+    "id": "2074180",
+    "conditionId": "0x1237613bbde80c8a51b0d47081883aae9c18bc08df8eb3d76c3a6e0ba7a35df3",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-670-in-may": {
+    "id": "2074181",
+    "conditionId": "0xca072d376fbc7f802d35e2487679ca6ae741121fbc387a9ed01617362a1e07e4",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-660-in-may": {
+    "id": "2074182",
+    "conditionId": "0x7d046ecdaee54da0732bf7fc06bf7215ce2360ae44b283244d6dfda0b6af63a0",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spy-hit-low-650-in-may": {
+    "id": "2074183",
+    "conditionId": "0x3b6e66f8815d3bb2a49e5e259c1df9becbb89e9ce292e7feaa799e66851c0a35",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-spy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-152-in-may-2026-585": {
+    "id": "2074191",
+    "conditionId": "0x3c63121366aec059fe2c242739b1336aa580e14af8e228be6c8c2f1b47b95039",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-150-in-may-2026-123": {
+    "id": "2074192",
+    "conditionId": "0x33658b1c82c98fd3b3859ade077b530430deb3e2af8809c52b68b8726f2eb6c2",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-148-in-may-2026-567": {
+    "id": "2074193",
+    "conditionId": "0xb8b0436cc44403a93abd1d8cd89e9e62c87d9af424c61f68786ff5ea7d964bcc",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-146-in-may-2026-923": {
+    "id": "2074194",
+    "conditionId": "0xc67204d7f8165e7115b708f2c49e97c2f56ffb0ad32130ed4df2c7d5847e5eec",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-144-in-may-2026-538": {
+    "id": "2074195",
+    "conditionId": "0xe2d2f0d362d4da3a9cb30fcff36049d9be37bbcb584fb94065731e690f643581",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-142-in-may-2026-964": {
+    "id": "2074196",
+    "conditionId": "0x41c23a84f512c184f3e1e35572e53c0ddd82409a6164c98fa950b240c4706c44",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ewy-dip-to-140-in-may-2026-899": {
+    "id": "2074197",
+    "conditionId": "0x7391661893a7a513f7955d73e80f2098795c4cd4121dc0511397127c62503b6b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-5400-in-may-2026": {
+    "id": "2074198",
+    "conditionId": "0xd6980bdb520c0fed40d140625d61d347960b176ddf7f122f1daaabae5afd5469",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-5300-in-may-2026": {
+    "id": "2074199",
+    "conditionId": "0xffa8c8f6c22e70389676da3006df43be9dc1efa80fd452008bf457c6d2526e02",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-5200-in-may-2026": {
+    "id": "2074200",
+    "conditionId": "0x69458b6d778fe2ed8190ce4752754270a8ce6445a45c2c0fcb96d280cddb1d50",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-5100-in-may-2026": {
+    "id": "2074201",
+    "conditionId": "0x170726b00f764694d3b0478bab4c89722adae31cd17ca19bf30cd940fc5904e8",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-5000-in-may-2026": {
+    "id": "2074202",
+    "conditionId": "0xb0b6ce555a817b462f5d76b2b57408bc853a18406f919528fbdb20d1e709403e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-4900-in-may-2026": {
+    "id": "2074203",
+    "conditionId": "0xa9e762800da14030767069cd499cb03e6f117cf36a1477c034e0085a6d1aef50",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-reach-4800-in-may-2026-564": {
+    "id": "2074204",
+    "conditionId": "0x0a0a25b8d835aa470b1f936be1a65b0c1f7ef4bec07071423b3f4f23993339c6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-dip-to-4400-in-may-2026-443-472": {
+    "id": "2074208",
+    "conditionId": "0xc007be1ec183081a5148e2cb7fbb3ffa7e949606e0a5651751701d7bf15ca86f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-dip-to-4300-in-may-2026-365-198": {
+    "id": "2074209",
+    "conditionId": "0x21109896dd6e5dd409b601a0a3b898c1de5c9937879099c86d642d00490acef0",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-dip-to-4200-in-may-2026-994": {
+    "id": "2074210",
+    "conditionId": "0x3a34bdcdb5332b8edb76fca831e2a48f9a43374f67cfa1dd0f6ee584a62479de",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-xauusd-dip-to-4100-in-may-2026-467-835": {
+    "id": "2074211",
+    "conditionId": "0xa51be928689f9301d259929815983315610448e6bd0bc7ef3c46989f1ccaf28e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-silver-xagusd-hit-low-72-in-may-536-179-557-938-755": {
+    "id": "2074220",
+    "conditionId": "0xb3bad95956d5159f02b1f4f111a5599d0640aa3922519a163463d92ed957e294",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-silver-xagusd-hit-low-70-in-may-751-468": {
+    "id": "2074221",
+    "conditionId": "0xde02f529a5879d58084bff055813e6d16ff8af852220eeec3573947cf9cbf617",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-silver-xagusd-hit-low-68-in-may-355-444-413-297-245": {
+    "id": "2074222",
+    "conditionId": "0xefeccfd4c7d7aec05e3abe8dcdd95a6b394171cf877ca7457190d30bd970e505",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-silver-xagusd-hit-low-66-in-may-316-638-336": {
+    "id": "2074223",
+    "conditionId": "0x1166cb8576d8d3fbb2cf116229248a83210abc0858db0861a7eaac35667d4690",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-silver-xagusd-hit-low-64-in-may-953-849": {
+    "id": "2074224",
+    "conditionId": "0x11451e99f5325af0344f05b05b6818602dff8c5200dcd9ae56753e05e3f60774",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-silver-xagusd-hit-low-62-in-may-117": {
+    "id": "2074225",
+    "conditionId": "0xf02f6b1868f472a8b794a7192d04b15aefb56f7f9899b8d7227d938e960d9ffd",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-reach-150-in-may-2026-196-364": {
+    "id": "2074233",
+    "conditionId": "0x1591b72dc504383d8fa2024e72a585c520b3c673614100d2e167507485e17e38",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-reach-140-in-may-2026-916": {
+    "id": "2074234",
+    "conditionId": "0xd86177011df25e467bdfa1c25481edaf1006e88da184965173e03c8d1cc4f2d6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-reach-130-in-may-2026-733": {
+    "id": "2074235",
+    "conditionId": "0x828aaec481308550a867fff3bd1e497ca1ebb5998fcf1fb40aaa4abfeb85db26",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-reach-120-in-may-2026-592-217": {
+    "id": "2074236",
+    "conditionId": "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-reach-110-in-may-2026-116-472": {
+    "id": "2074237",
+    "conditionId": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876": {
+    "id": "2074240",
+    "conditionId": "0xa96e71186507bf493bd1fb8101418c369c6296a29b49514fdec3f7bfe7197909",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-70-in-may-2026-155-395-333-182-889-988-959-341-883-234-375-347": {
+    "id": "2074241",
+    "conditionId": "0x4f7f1f84cc0497e3f21b76628b6ed9ac9abab9893b6d23f1af6108db64c0d34c",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-60-in-may-2026-285-377-185-843-116-432-329-688-168-228-339-524": {
+    "id": "2074242",
+    "conditionId": "0x8b0a049df1acdbb9df107f826f0b9e49c25de067be4086cdaab2a844dffcc38f",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-50-in-may-2026-693-355-551-137-237-293-116-333-615-711-387-644": {
+    "id": "2074243",
+    "conditionId": "0x37f597ed1feb50f08f7f269185fafed9c16148b9f1a05aea8be0bdd7e32a46d6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-40-in-may-2026-286-341-192-757-961-613-811-817-951-378-218-432": {
+    "id": "2074244",
+    "conditionId": "0xd22fc2cfc3f2796842baeba8fcb1ff6a0a469118a2f6599e0c09c591836c04a6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-30-in-may-2026-668-273-232-424-957-651-726-496-699-125-667-922": {
+    "id": "2074245",
+    "conditionId": "0x23ae45193d9f3719f63e7630ad0767a9a2ef92c9f7c9dd9398d3d359c7632a69",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-wti-dip-to-20-in-may-2026-865-174-115-863-197-663-536-962-219-163-329": {
+    "id": "2074246",
+    "conditionId": "0xe49f349793edda9b05753be5256eeaa70bc4ef67f5579fe8ac16493dbc642901",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-wti-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ng-reach-4-20-in-may-2026": {
+    "id": "2074248",
+    "conditionId": "0xec594b84a715a38dbb022321db6eeb83da9e931ff8f820c02f733f8e54606a1c",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ng-reach-4-00-in-may-2026": {
+    "id": "2074249",
+    "conditionId": "0xcb0845c2cab884f7a3bf94e6c9b1dc666c31b8c02aec8559ef5e225e18911a54",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ng-reach-3-80-in-may-2026": {
+    "id": "2074250",
+    "conditionId": "0x8baf89e4b852c0512a04d0977fb9150592ce4a64eba98a19090c39e4050514b2",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-ng-reach-3-60-in-may-2026": {
+    "id": "2074251",
+    "conditionId": "0x84088f419b8e99803f21da8c185dc806795457dcfa3f20823bced66599aa566d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-high-3pt40-in-may": {
+    "id": "2074252",
+    "conditionId": "0x44ef43c4a2239e78b9893852cdcb9e18a4f9c966d026da72b3ccfa1f6647b235",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-high-3pt20-in-may": {
+    "id": "2074253",
+    "conditionId": "0xc571f73e2935ae4f6468c7b86989dce5114c7da821b597651278d81814961040",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-low-2pt60-in-may-561-919": {
+    "id": "2074256",
+    "conditionId": "0x23003281a6d2ddbc4d1c28f3fe6aec701f3e0d1328de7cc323b839be489632f0",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-low-2pt40-in-may-449-683": {
+    "id": "2074257",
+    "conditionId": "0x4b1096447b0e7fc0bb71f2797be2c20d481d3b51d4c80552f969e66805eea9fa",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-low-2pt20-in-may-979-931": {
+    "id": "2074258",
+    "conditionId": "0x7010d321dc0949cc035600b0acd6acd2c6e39db6a745c29a43344fa5b9fef831",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-low-2pt00-in-may-558-597": {
+    "id": "2074259",
+    "conditionId": "0xb72c4c2e13f3956b0010d58386f722858f31b750f634073976658048f985ef84",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-low-1pt80-in-may-123-837": {
+    "id": "2074260",
+    "conditionId": "0xfa3531e7cf8a3cb10a1668ce6be37e34be10ed7e3b792202fe1c15555ff65d70",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "will-natural-gas-ng-hit-low-1pt60-in-may-469-743": {
+    "id": "2074261",
+    "conditionId": "0x4696f9a0c596b593172bad82efaded794cda93b83bd8b8e301016aba7edd4edd",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-ng-hit-in-may-2026",
+    "negRisk": false
+  },
+  "cs2-lavked-tsa-2026-04-25-game1-odd-even-total-kills": {
+    "id": "2075110",
+    "conditionId": "0xc23cae229895ec54c05020ce210363810f665d0090b0dd2f9b3736c0cf106e4e",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-tsa-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-lavked-tsa-2026-04-25-game1-odd-even-total-rounds": {
+    "id": "2075111",
+    "conditionId": "0x51975ec364bce6df4a1295265cdbeae5dfdc7f011e1905e8d3e71ed755a52d9a",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-tsa-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-lavked-tsa-2026-04-25-game2-odd-even-total-kills": {
+    "id": "2075112",
+    "conditionId": "0xbbc2742c9302f8ab4bd82209c37b522e83db6af3b9b68b3d731c15cbfed927af",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-tsa-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-lavked-tsa-2026-04-25-game2-odd-even-total-rounds": {
+    "id": "2075113",
+    "conditionId": "0x14bdf0105559d655b2fb1d9d33c9ed44ff081ef3114c7342b49e2ebea42ab5b3",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-tsa-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-lavked-tsa-2026-04-25-game3-odd-even-total-kills": {
+    "id": "2075114",
+    "conditionId": "0x5694f258ee930bab2c7eb1c8cc9b61857a789faba30ceaa497da78cbd856e61e",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-tsa-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-lavked-tsa-2026-04-25-game3-odd-even-total-rounds": {
+    "id": "2075115",
+    "conditionId": "0xf3af286f488502b694fb798bee763b1ae8fe1eadb7d460eb0a01e71fd20bac89",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-tsa-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-arc4-lph-2026-04-25-game1-odd-even-total-kills": {
+    "id": "2075122",
+    "conditionId": "0x6dd0434b0531801200669daf16dfa5500072e28314e79fa75ba6a341eeac9e63",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-arc4-lph-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-arc4-lph-2026-04-25-game2-odd-even-total-kills": {
+    "id": "2075124",
+    "conditionId": "0x25e811617f77efee0fdfb8bcf5c09d9e233df230b4022ea78d30787042909f3a",
+    "endDate": "2026-04-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-arc4-lph-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-33-par3-2026-04-25-game1-odd-even-total-kills": {
+    "id": "2075133",
+    "conditionId": "0x1d20896c8e6f10965a6183aeca73d8199f86e4c7203f2001bfa032f54f143198",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-33-par3-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-33-par3-2026-04-25-game2-odd-even-total-kills": {
+    "id": "2075135",
+    "conditionId": "0xd71311af0a4b386301acc5d527d4714ac9d166cbf060c8952bf59c79be0887fa",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-33-par3-2026-04-25",
+    "negRisk": false
+  },
+  "cs2-33-par3-2026-04-25-game3-odd-even-total-kills": {
+    "id": "2075137",
+    "conditionId": "0x8e4f4a51f8f9e9d20cbb0a49835864fc240511bad08528be58e9591176cf2f8f",
+    "endDate": "2026-04-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-33-par3-2026-04-25",
+    "negRisk": false
+  },
+  "dota2-1win-pr1-2026-04-27-game1-first-blood": {
+    "id": "2076192",
+    "conditionId": "0x08b84105acdb627cf10b9893a36b7366c77ae05614f5e5eb1fd213eefa84bbe6",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-1win-pr1-2026-04-27",
+    "negRisk": false
+  },
+  "f1-canadian-grand-prix-winner-gasly-2026-05-24": {
+    "id": "2076820",
+    "conditionId": "0x95665fe43a7a6d2b52b498015812c88954b9e1d5f26cf5440ab6eaf7054e696f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-alonso-2026-05-24": {
+    "id": "2076821",
+    "conditionId": "0xa73184cbfaf2fad5b536952998c754cc9eddf69eabcecf2f70a545a6c9dcfc54",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-albon-2026-05-24": {
+    "id": "2076822",
+    "conditionId": "0x96d625985039a89c90e65428f3637f6ca9007117277eaa62441f4c5546f83091",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-bortoleto-2026-05-24": {
+    "id": "2076823",
+    "conditionId": "0xca55017166c83b6629ec67b8cc269f0980b180cf999820366d406a61bea57113",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-perez-2026-05-24": {
+    "id": "2076824",
+    "conditionId": "0x349583fb88b07f5ef1d6ac3420dba1876c49f9f4a4f0a3d033be8236590a79f9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-leclerc-2026-05-24": {
+    "id": "2076825",
+    "conditionId": "0x8dc119f994fdc4d8a122ad4c0694064c468c816afa851abe71a984ee4762ac23",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-ocon-2026-05-24": {
+    "id": "2076826",
+    "conditionId": "0x5be35fc5d9c86a05a8455aea24cb2e6e189c478e5cbc1f736b5fd42ca3d354b9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-norris-2026-05-24": {
+    "id": "2076827",
+    "conditionId": "0x2e02b9a5ae52309ae2feaf2d8b06e6c755a20d6e450ddfa694bd28c71bf3ce22",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-antonelli-2026-05-24": {
+    "id": "2076828",
+    "conditionId": "0x9eedeb932613962b660f2cd627c8dc62055d3d3752fff4353f75fda37004543c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-verstappen-2026-05-24": {
+    "id": "2076829",
+    "conditionId": "0x521f04be4ef32d5a5d7c6218ee448ceb4db1bb1c35c3f49ecb8b5f3822a0c803",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-colapinto-2026-05-24": {
+    "id": "2076830",
+    "conditionId": "0x68c71898991424f978e6c9b39c7d848a31c9d1b73f4db09fb43089af4a37d2f3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-jr-2026-05-24": {
+    "id": "2076831",
+    "conditionId": "0x39294816d1337c91dd856bab0055d3ebe30bce4322565bb0b126e28488da37f5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-hulkenberg-2026-05-24": {
+    "id": "2076832",
+    "conditionId": "0x0f5e0f2ac9cf2e5bcda18ce9ee7049a53ffa6e8c3a99f1b274857833f5bdc3eb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-bottas-2026-05-24": {
+    "id": "2076833",
+    "conditionId": "0x56ebf300e79d418c494e4b1064b5f816c2b03e0d8845354dccdbee180a1557bd",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
+  },
+  "f1-canadian-grand-prix-winner-hamilton-2026-05-24": {
+    "id": "2076834",
+    "conditionId": "0x8a1eeb981075fa48acd539263d947c6ef586ee3d911a0e7624def290b2b2a970",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "f1-canadian-grand-prix-winner-2026-05-24",
+    "negRisk": true
   }
 }
