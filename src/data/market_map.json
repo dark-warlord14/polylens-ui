@@ -2859,7 +2859,7 @@
     "eventSlug": "macron-out-in-2025",
     "negRisk": false
   },
-  "starmer-out-by-june-30-2026-862-594-548-219": {
+  "starmer-out-by-june-30-2026-862-594-548-219-739": {
     "id": "597967",
     "conditionId": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
     "endDate": "2026-06-30",
@@ -8910,7 +8910,7 @@
     "eventSlug": "who-will-trump-meet-with-in-2026",
     "negRisk": false
   },
-  "starmer-out-by-december-31-2026-936-416-977-234-134-475": {
+  "starmer-out-by-december-31-2026-936-416-977-234-134-475-773": {
     "id": "666655",
     "conditionId": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
     "endDate": "2026-12-31",
@@ -34752,16 +34752,6 @@
   "will-francisco-cerundolo-win-the-2026-mens-french-open": {
     "id": "1087525",
     "conditionId": "0xe81351003837800d495a43eab50a2739701dab05142cccb901fbf4ee339fd4fd",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-cameron-norrie-win-the-2026-mens-french-open": {
-    "id": "1087526",
-    "conditionId": "0xb89d09654da4af4d7fbc917b17627aec8a24f4bb9809ea3399623292a58d9102",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -110324,16 +110314,6 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-someone-on-may-26-2026": {
-    "id": "2060679",
-    "conditionId": "0x930cbe0d958f1c39ee130de7cb7f7543b37036573ac392e7269d146a7e9c6c1f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-publicly-insult-someone-on-312",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-someone-on-may-27-2026": {
     "id": "2060680",
     "conditionId": "0x74b6a639f8b15aa4c5b4cf1c1e353cea32293de30f327ea8b0f3f53209505276",
@@ -118278,16 +118258,6 @@
     "eventSlug": "cs2-lph-33-2026-04-26",
     "negRisk": false
   },
-  "bkligend-jov-uni-2026-05-02": {
-    "id": "2083946",
-    "conditionId": "0xcf8d289b9ed8c040c5d26ff833116645502390298ff89476f814696f402df00b",
-    "endDate": "2026-05-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkligend-jov-uni-2026-05-02",
-    "negRisk": false
-  },
   "bkbsl-fen-bes-2026-05-02": {
     "id": "2083977",
     "conditionId": "0x471d3b164127cbd731b490cbc84247096238467f31c6a5a017e50b6214116515",
@@ -119606,6 +119576,36 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-ence-bojong-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-ence-bojong-2026-04-27-game3-odd-even-total-kills": {
+    "id": "2093138",
+    "conditionId": "0x1a6aa5e3a511ba00005445619034ee1a51c296b1f6c65da10c9fb32231e5f1cd",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-bojong-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-ence-boyban-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2093149",
+    "conditionId": "0x32e2179649afe9d14d55656a442aad107f50511b3c05f4ff7c4d8f49f13e2f29",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-boyban-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-ence-boyban-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2093151",
+    "conditionId": "0x5b6eecfb1aece0852b30b649a852d590ab4528b4099e673d1c47eef79b452194",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-boyban-2026-04-27",
     "negRisk": false
   }
 }
