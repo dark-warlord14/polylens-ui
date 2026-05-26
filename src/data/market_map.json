@@ -179,16 +179,6 @@
     "eventSlug": "2026-nba-champion",
     "negRisk": true
   },
-  "will-the-cleveland-cavaliers-win-the-2026-nba-finals": {
-    "id": "553857",
-    "conditionId": "0x6b44bd667fad6cb5b3b68d8bd1055a038c77d9176dbd51f123879797cc3368a7",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-champion",
-    "negRisk": true
-  },
   "will-the-new-york-knicks-win-the-2026-nba-finals": {
     "id": "553858",
     "conditionId": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
@@ -2028,26 +2018,6 @@
     "acceptingOrders": true,
     "eventSlug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
     "negRisk": false
-  },
-  "will-the-cleveland-cavaliers-win-the-nba-eastern-conference-finals": {
-    "id": "564194",
-    "conditionId": "0x85f3e001ffe2a24f985b939460d0cc22041d47107ed8c681f75abb6a5bd1d1d7",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-champion",
-    "negRisk": true
-  },
-  "will-the-new-york-knicks-win-the-nba-eastern-conference-finals": {
-    "id": "564195",
-    "conditionId": "0x1c60f9adb1d786b6fe78d63fd9f82dbb293fa06241532fb5ba43f8d8411cde1e",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-champion",
-    "negRisk": true
   },
   "will-the-oklahoma-city-thunder-win-the-nba-western-conference-finals": {
     "id": "564210",
@@ -83377,16 +83347,6 @@
     "eventSlug": "who-will-trump-announce-as-next-ag",
     "negRisk": true
   },
-  "will-there-be-1-no-hitters-thrown-during-the-2026-mlb-season": {
-    "id": "1833097",
-    "conditionId": "0xaf89f2c235c29ecfe7d8735aded0b34188ea3223f1e32f7388b773eefaa1c47d",
-    "endDate": "2026-09-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mlb-number-of-no-hitters-thrown-in-2026",
-    "negRisk": false
-  },
   "will-there-be-2-no-hitters-thrown-during-the-2026-mlb-season": {
     "id": "1833098",
     "conditionId": "0x33880e806142d7609df45717e096ba179835d9f167cb360c811c9bbcf157d173",
@@ -84244,56 +84204,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-trump-pardon-tiger-woods-by-june-30",
     "negRisk": false
-  },
-  "will-andrea-martella-win-the-2026-venice-mayoral-election": {
-    "id": "1839862",
-    "conditionId": "0x02031465497d820bbdcc2a75d3c93d39e0ff7cbfa50d314707d71c6952f2db3a",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "venice-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-simone-venturini-win-the-2026-venice-mayoral-election": {
-    "id": "1839863",
-    "conditionId": "0x6d6088a604e583b280cfea2ab4a646d0f89b446f2e13cf440694735da7e697f8",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "venice-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-michele-boldrin-win-the-2026-venice-mayoral-election": {
-    "id": "1839864",
-    "conditionId": "0xd898c319d09f4bfbb037f401a7cf34e7952e1d782af75dc3e2ff00e2de1fef3a",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "venice-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-pierangelo-del-zotto-win-the-2026-venice-mayoral-election": {
-    "id": "1839865",
-    "conditionId": "0xaf5138f6d75fd49033ec9ce59c3dbe8604d1ae33ec2fcc655534d4fb53e07a57",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "venice-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-giovanni-andrea-martini-win-the-2026-venice-mayoral-election": {
-    "id": "1839866",
-    "conditionId": "0xff61591ab12aae5a43f4cde687ee3a810ec811e2832306dab0d3a139586cdda4",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "venice-mayoral-election-winner",
-    "negRisk": true
   },
   "cs2-isg-hachae-2026-04-03-game1-odd-even-total-kills": {
     "id": "1842560",
@@ -88795,16 +88705,6 @@
     "eventSlug": "lol-cblol-2026-split-1-winner",
     "negRisk": true
   },
-  "will-loud-win-cblol-2026-split-1": {
-    "id": "1901139",
-    "conditionId": "0x6c45d0711dcd7b202e36d29ae17e8152fe3c4e112950d09ca559e7f45206c88a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-red-canids-win-cblol-2026-split-1": {
     "id": "1901141",
     "conditionId": "0x962437fa39d544a8877cfd1495a5fd4253e42a6a1680b5d1575de2af61bccaf3",
@@ -92804,7 +92704,7 @@
     "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
     "negRisk": true
   },
-  "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537": {
+  "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597": {
     "id": "1962237",
     "conditionId": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
     "endDate": "2026-05-31",
@@ -93124,26 +93024,6 @@
     "eventSlug": "spacex-ipo-by",
     "negRisk": false
   },
-  "will-new-york-knicks-advance-to-the-2026-nba-finals": {
-    "id": "1971145",
-    "conditionId": "0x03542eec254654f9d34b07d97fc0450e82647c1f1029b4f0c789cf048103c3b6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-team-to-advance-to-nba-finals",
-    "negRisk": false
-  },
-  "will-cleveland-cavaliers-advance-to-the-2026-nba-finals": {
-    "id": "1971146",
-    "conditionId": "0x61839e75149c9db58320ed2ffb34db6bab38a6fcfef98ab14012530600edc999",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-team-to-advance-to-nba-finals",
-    "negRisk": false
-  },
   "will-oklahoma-city-thunder-advance-to-the-2026-nba-finals": {
     "id": "1971153",
     "conditionId": "0x30559e31f290dec39d89428f4b1588798726929453ddce71b5f79c4992357c5a",
@@ -93323,426 +93203,6 @@
     "acceptingOrders": true,
     "eventSlug": "which-companies-will-be-acquired-before-2027",
     "negRisk": false
-  },
-  "will-cade-cunningham-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972375",
-    "conditionId": "0xea4ed05df3a2137a38fa1568ce90d1d31015f5bcae3132f6900776d18456ff3e",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jalen-duren-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972376",
-    "conditionId": "0x9703963806c5ea98e91012aea48d76468882496596771ea05dbdbf70c76e3186",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-donovan-mitchell-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972377",
-    "conditionId": "0xe0d6145539366ea9e3daf6312ed7f772018151e5200b1b282752d5614d5e3d59",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-james-harden-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972378",
-    "conditionId": "0x08f67d24e0e76727115947a16dcdecbe75c160d6adfe77b7acf4730bb147f768",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-evan-mobley-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972379",
-    "conditionId": "0x941d06c022de16948a89a6d9035b364826aa93b95c9d62b012a657f2e6600ba4",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-scottie-barnes-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972380",
-    "conditionId": "0xbad0c61e4e0ed7d92a2972c1f01b36b1789e56568ab1265899d72a920a22453b",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-brandon-ingram-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972381",
-    "conditionId": "0xe5fd77a07b21e66efd89b20907be0e3d9917394ab85b9342b39420f76ab01f74",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jalen-brunson-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972382",
-    "conditionId": "0xdc4e61e6015587a6761f415e083c2dd58bad04ba4abd5539aa37d2d1ed25abac",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-karl-anthony-towns-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972383",
-    "conditionId": "0x8aca35dbeb4a792c34948b9063d75e9aebcb95de20b7038457e0f817c2dfd5ba",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jalen-johnson-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972384",
-    "conditionId": "0x78b52d390bb57ade53c2d398e389bd36239b12acf5d605f9893b863d0bacc913",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-nickeil-alexander-walker-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972385",
-    "conditionId": "0x80026fc482e9826bd3713846f317a231b62896b3ce8ec23235f1e86dbdcc9e40",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jaylen-brown-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972386",
-    "conditionId": "0x053297c1441bd521ca1ab7ddb97a0dac8be703797438caef61d33750c85e1a50",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jason-tatum-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972387",
-    "conditionId": "0xd8fb8c73cf31dd7d21673b34fe5ccee363528196a536731789b757d35cf708a3",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-lamelo-ball-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972388",
-    "conditionId": "0xad3c4b11d568ef781670888df9ecb053d61b6e79db804b76ff3f2c348905a81f",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-brandon-miller-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972389",
-    "conditionId": "0x08e505651eb5e8e4084345dfbf8ccb8e1e4d1aaa9d267d8ad7b1a0ae912995a0",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-bam-adebayo-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972390",
-    "conditionId": "0x9c55c87f198592f705ee7495917941a84ec11eea3d4dca26c455e86600b7b338",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-tyrese-maxey-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972391",
-    "conditionId": "0xf35ad77a81dfa46bd8680b1b693937915b34314fd7c81b62905e69187403394f",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-paolo-banchero-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972392",
-    "conditionId": "0xa3d52b8176605b5128830a9c3e252de8395d6dad3ccf9163df5874b702462d46",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-desmond-bane-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972393",
-    "conditionId": "0xea7b863ae38fec92bf0a5863039c929c32b2aa27a9f65612462cd864037c5e12",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-og-anunoby-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972394",
-    "conditionId": "0xf427c8b5b243aad3ebf5c2f1e238c97ac249fc2ab06ba09a624b1f3fa9ad7bde",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-josh-hart-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972395",
-    "conditionId": "0x2e0a2e0df478b1b4a6d8ae7c7a95d683d4102b5b574225e06845f6017456499c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-mikal-bridges-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972396",
-    "conditionId": "0x9db4a96e41fa3698b5f10320a1a7312d3ba873f6b249f5e94ba91462d41330de",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-miles-mcbride-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972397",
-    "conditionId": "0x4b3bee0c5399ed9e81099c989197b9336470e0139b65f358d1c2a8a6550c7909",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-mitchell-robinson-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972398",
-    "conditionId": "0x2d33ce60e7840cfeb5135ce093f8a66014c158b99fe9764db39f483cd7466a5a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jordan-clarkson-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972399",
-    "conditionId": "0x82f4b29d80f84c937e4dfad486ea436aa56ed352aa04cd0f2d03d4032bed5716",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-landry-shamet-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972400",
-    "conditionId": "0x1a43a836a49e9f0dc0c1cf75c3a0c9966ef3187cc7b8d14641ec9166aed3c456",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jose-alvarado-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972401",
-    "conditionId": "0x76b8fe7ae6994c9e25ede6aea4243e41284c78f9860bc41f1d0b1adad90c2e21",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-ariel-hukporti-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972402",
-    "conditionId": "0xe34ec7757dca955589450d57d76b4eee70458cc984da514ff4315331d1ac4728",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-tyler-kolek-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972403",
-    "conditionId": "0x8923055291d5b27c31f50749f0f5ded87da978eb30690d4f2df162243b589dc2",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-mohamed-diawara-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972404",
-    "conditionId": "0x379dcadf4e99d051770a3f1169caae54af3a29016b6314b61c75b06d5ca9a7a5",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-pacme-dadiet-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972405",
-    "conditionId": "0x08df3f19c2001ab0403bd0fa9e79c536af38b79d2543f1707cba21eb0a83a685",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jeremy-sochan-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972406",
-    "conditionId": "0xd7e79452cf5531117540d93915d739475afe58cd4cb4aba9971b786c2086340c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-evan-mobley-win-the-2026-eastern-conference-finals-mvp-265": {
-    "id": "1972407",
-    "conditionId": "0x0d85a781063b5bc99431785e5a8262ad7f5a339b05ac53ed2b7ca67b7b90441d",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jarrett-allen-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972408",
-    "conditionId": "0x016c1f86e3e5a68d86af985240cf3eb81e7af001459ea138811486adbd0bd15b",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-max-strus-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972409",
-    "conditionId": "0x12d410a546ac140a4d767b8d8e75f7b8a2ec5d0b2960b33e999b3df13e32de9c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-dean-wade-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972410",
-    "conditionId": "0xdc1e7bae4260a3c8e20ef42722e0e3b6601df4df90d74ef5707c26b84e4499c3",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-sam-merrill-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972411",
-    "conditionId": "0xedb3e283f72285eefd74c24d883238a8b3b98827d9a6f31ed0128bdcf922c079",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-dennis-schrder-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972412",
-    "conditionId": "0x4709ffd9fbde81fdbae4e2c8fa5c720f951e29dba01919fd079806f757e07283",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jaylon-tyson-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972413",
-    "conditionId": "0x9d4fff2fe1906f19d5fa26fe7f8213172c55832ce61ec423778e695e4a4297e8",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-keon-ellis-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972414",
-    "conditionId": "0x26334637999950f66831a5f2d4006d600bec057e722a60ea50430afc25bc7b64",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-thomas-bryant-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972415",
-    "conditionId": "0xc38f274268ca4121212deaf3f3f03243195d40b130f0a87437811f0b7ff4b3a5",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-larry-nance-jr-win-the-2026-eastern-conference-finals-mvp": {
-    "id": "1972416",
-    "conditionId": "0x2dbddb81c0ce54124514ab1298875654613e5c47624e022e87846e9ef53fc7e6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-eastern-conference-finals-mvp",
-    "negRisk": true
   },
   "will-the-bank-of-korea-decrease-the-base-rate-after-the-july-meeting": {
     "id": "1972628",
@@ -111034,16 +110494,6 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-nicols-maduro-by-may-31-2026": {
-    "id": "2060645",
-    "conditionId": "0x2baca6fac6c44449b27442aab6b33e9f4f8c8370681a1852441a22e3aaf6f653",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-zohran-mamdani-by-may-31-2026": {
     "id": "2060646",
     "conditionId": "0xd2e561294020ff472c1135a546e58f4758db56a678c946c08e019d5ac39312db",
@@ -119607,5 +119057,555 @@
     "acceptingOrders": true,
     "eventSlug": "chi1-cud-ohf-2026-05-23",
     "negRisk": true
+  },
+  "chi1-cud-ohf-2026-05-23-draw": {
+    "id": "2088054",
+    "conditionId": "0x62ed44d8182b0227104bad16ee23110d845cf967276d5f573292b52cdea6dced",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-05-23",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-05-23-ohf": {
+    "id": "2088056",
+    "conditionId": "0x1e0779c9f9a8c1ccfd949b7a0d015118f2f84af5a71187137aa3cf846ff5c2fa",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-idp-pot-2026-05-23-idp": {
+    "id": "2088058",
+    "conditionId": "0xcb60aa069e76f5680bc2a71577aef21e979e6ff7a50b4dcb08655036c5800241",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-pot-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-idp-pot-2026-05-23-draw": {
+    "id": "2088061",
+    "conditionId": "0xfe01be910bd11aea291d2ead72a8816f4d450e1709dd8aa93c7cf517ea0d24b1",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-pot-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-idp-pot-2026-05-23-pot": {
+    "id": "2088064",
+    "conditionId": "0x37a12b1d7038b7a8b5732b834ef6c30426ebc5a7bafac9c63551cdbe3ee1e84a",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-pot-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-blo": {
+    "id": "2088070",
+    "conditionId": "0x50236c9b9a3f233feb9b4daf633bfc45a5ae8b73e3bfd1510505513949c187f8",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-draw": {
+    "id": "2088075",
+    "conditionId": "0x3a27756997533fd56dd6a84c093d6b89b68fd1da8092d1276ef91a7239330feb",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-tom": {
+    "id": "2088079",
+    "conditionId": "0x5f981e85ccbdb8d9a94a763d4f15f58bd2172d1728ef2ba7d3c72e54301381bc",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-nap": {
+    "id": "2088093",
+    "conditionId": "0xec43fe71b7e21006222d97d4c849b00395ccab94c42a3a25bb193641f8b6c64b",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-draw": {
+    "id": "2088097",
+    "conditionId": "0xd59ef68d465acffe7da7581a168f9c59f00187e655b2a1c2ac030f491fb5373e",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-oru": {
+    "id": "2088101",
+    "conditionId": "0xf98ccf194c9702c260526a2f8631447dca4f4913dc9ea043770e8a5fbc7b6454",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24",
+    "negRisk": true
+  },
+  "will-tarcsio-de-freitas-win-the-2026-so-paulo-gubernatorial-election": {
+    "id": "2088352",
+    "conditionId": "0x7fad7ba14804a90a2c45352bd52689be4703013123772044badbcf688b79bcee",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "so-paulo-governor-election-winner",
+    "negRisk": true
+  },
+  "will-fernando-haddad-win-the-2026-so-paulo-gubernatorial-election": {
+    "id": "2088353",
+    "conditionId": "0xf86b558bbb9954ccdd5c72841d33336a6a7ff690908df00a9240decc04d4baa9",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "so-paulo-governor-election-winner",
+    "negRisk": true
+  },
+  "will-mrcio-frana-win-the-2026-so-paulo-gubernatorial-election": {
+    "id": "2088354",
+    "conditionId": "0x923a43381c223736db972fb20e8e6e4954d2c1713e3ba729530abaf51accbc1a",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "so-paulo-governor-election-winner",
+    "negRisk": true
+  },
+  "will-erika-hilton-win-the-2026-so-paulo-gubernatorial-election": {
+    "id": "2088355",
+    "conditionId": "0xa7f3c548fc9f4c4a57ed02c04609692cbff3f67c0b76d076de67dd822e0ebc6f",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "so-paulo-governor-election-winner",
+    "negRisk": true
+  },
+  "will-kim-kataguiri-win-the-2026-so-paulo-gubernatorial-election": {
+    "id": "2088357",
+    "conditionId": "0x3b4b2049e1850b8a9a94bef61984a4779e2b5403c65cf87dfa0198847bef02a9",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "so-paulo-governor-election-winner",
+    "negRisk": true
+  },
+  "dota2-lynx-sar1-2026-04-28-game3-both-teams-beat-roshan": {
+    "id": "2088433",
+    "conditionId": "0x3061cf7a34f1fd7aff883610e4a4168318b3fcaaba553098c5b32bcee46c1248",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-lynx-sar1-2026-04-28",
+    "negRisk": false
+  },
+  "will-cleitinho-azevedo-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088926",
+    "conditionId": "0xbb9450c639a6cff45852a72f736ad87bd7937bb6c32a5188951c384044db7a3e",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-rodrigo-pacheco-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088927",
+    "conditionId": "0x60d4510ffef708d0e486ee66341f806a3cca97db49345908be76a428b52b9cf9",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-nikolas-ferreira-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088928",
+    "conditionId": "0xafd374f99fd26254797689157bb66ea715d30b15bfbcfa3e17ee171dd832c5c8",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-alexandre-kalil-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088929",
+    "conditionId": "0x2153374302d7d3fec49657493f076e49f3235c3b69a3b5ce4e8bb86c9e2e47d8",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-mateus-simes-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088930",
+    "conditionId": "0xfa9f31ee9de9bdd91bc6d4729487a7facbc13cb8ca346d8228e8baf231ba6aa5",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-tadeu-leite-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088931",
+    "conditionId": "0x6834d1effcd90e61b30ccf588682a91842f37c477909f36d44e7cf1748f4cb2b",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-acio-neves-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088932",
+    "conditionId": "0xdc49f28c8383f254a9c899818fd28f059f750d571d766a253b6d5c66147a9b21",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-alexandre-silveira-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088933",
+    "conditionId": "0x7b62e26f2751f109f964497c75e3becee09f74d3993a6779a21eefe923ca7625",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-gabriel-azevedo-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088934",
+    "conditionId": "0x8cf6dcc31f5f65f4fb329fe4d24fcac0ae56e824253937fa4861c450a0c0f1e6",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "will-benoni-mendes-win-the-2026-minas-gerais-gubernatorial-election": {
+    "id": "2088936",
+    "conditionId": "0xece404da200641ebfc6ae4e60a558e1ec6a1716d379ac7f48e288da6e3604c3b",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "minas-gerais-governor-election-winner",
+    "negRisk": true
+  },
+  "over-3m-committed-to-the-printr-public-sale": {
+    "id": "2088989",
+    "conditionId": "0x3e0dc6c075e14c66526923f2139b1d5c54fafd43b51e0abe5075739e6ac1cf3b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-4m-committed-to-the-printr-public-sale": {
+    "id": "2088990",
+    "conditionId": "0x13c0edf4f2f2f0957f196f1e51f8e64520ea193f5003714d423c7d386d078c2a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-6m-committed-to-the-printr-public-sale": {
+    "id": "2088991",
+    "conditionId": "0xa1bb6c583e24ea1872e041c746da54c249548e136681cc19968b51a3b4a0f3aa",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-8m-committed-to-the-printr-public-sale": {
+    "id": "2088992",
+    "conditionId": "0xf03529a209d7dc8d9bf461a1960804d793d4a6262b94a20c36e3199bef042767",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-10m-committed-to-the-printr-public-sale": {
+    "id": "2088993",
+    "conditionId": "0x561e400fc730dd5d6d580c04e7ce626caab7277fb3cec60f78879e2228b6da9b",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-15m-committed-to-the-printr-public-sale": {
+    "id": "2088994",
+    "conditionId": "0xd9c3cba9982e6d16440808b0aebcf8ab3d0e67ad58d0e8acad2d1d1801f9a252",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-20m-committed-to-the-printr-public-sale": {
+    "id": "2088995",
+    "conditionId": "0xcacdc005e7d722cd3adc3ae690f368f26c50fae9b50c7427e48db7e61f84219e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-30m-committed-to-the-printr-public-sale": {
+    "id": "2088996",
+    "conditionId": "0x26baf6b25267437104fc84c01a1356eee49e447c1ab1c6e20860554d5c116ffe",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-40m-committed-to-the-printr-public-sale": {
+    "id": "2088997",
+    "conditionId": "0x68c52c3ca0a5111ead1947cb69dab74da6395a3c810020174637fabe5820df18",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-60m-committed-to-the-printr-public-sale": {
+    "id": "2088998",
+    "conditionId": "0x43ef9188afe6df1ad2ae69a67ceb9077bb930a5d924d804e45b28c5eec058dd4",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-100m-committed-to-the-printr-public-sale": {
+    "id": "2088999",
+    "conditionId": "0x7932ce4b3846082cfed5f25deab2d78181adada1ecb2e3873ed98f6cc9b185cc",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "will-jernimo-rodrigues-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089025",
+    "conditionId": "0xc7dd27f1b8db1d7d9ea88ed4b56fb4c495c20a9313cf77f17b03904ade03c573",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-acm-neto-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089026",
+    "conditionId": "0x707ca13ce9038662dcea98e2b87ffceb55c7dbe6c73a864a3ad04c1d6716f5ee",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-joo-roma-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089027",
+    "conditionId": "0x43a7132c0b61fa58d466f60242ee2bb438cb05a84596249a5a360ae5a242d91b",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-jos-carlos-aleluia-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089028",
+    "conditionId": "0x66983c2f9b6bb2bd0655c174e49369d7b088e23c098b2cb9186281778d5d2ed8",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-kleber-rosa-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089029",
+    "conditionId": "0x21aedb38af912388ea2e29e347d7e5f74cef866fc5f9b7c4a144b1b8b9f725e7",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-rui-costa-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089030",
+    "conditionId": "0xf4d93cca92f955e774a3be75ba5b2ceed5eee2eed99f3a1385b5d9cbff00310a",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-bruno-soares-reis-win-the-2026-bahia-gubernatorial-election": {
+    "id": "2089031",
+    "conditionId": "0x392940d160dc73d30874c1b8c755597a276be18db3162dea8d6d57b47c26cd88",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bahia-governor-election-winner",
+    "negRisk": true
+  },
+  "will-elmano-de-freitas-win-the-2026-cear-gubernatorial-election": {
+    "id": "2089110",
+    "conditionId": "0x0098859230696a9dcaa04f3bddea2ec8c154a4ae5e21de56d99ea2ebd5430755",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cear-governor-election-winner",
+    "negRisk": true
+  },
+  "will-ciro-gomes-win-the-2026-cear-gubernatorial-election": {
+    "id": "2089111",
+    "conditionId": "0x927d2b026c8cbd96e5a9cb7a3f2457bc06725d145f4913c1931d8cbf8464aee7",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cear-governor-election-winner",
+    "negRisk": true
+  },
+  "will-eduardo-giro-win-the-2026-cear-gubernatorial-election": {
+    "id": "2089112",
+    "conditionId": "0xa4508f8fb7960ab7c1aa16f0480e3156d43245e8cba647ab89699ba2513ec21c",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cear-governor-election-winner",
+    "negRisk": true
+  },
+  "will-capito-wagner-win-the-2026-cear-gubernatorial-election": {
+    "id": "2089113",
+    "conditionId": "0x4dc3f73d4e21634aaef2f2e183f94e8a970c38cefc7721553eba954b06e0c177",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cear-governor-election-winner",
+    "negRisk": true
+  },
+  "will-roberto-cludio-win-the-2026-cear-gubernatorial-election": {
+    "id": "2089114",
+    "conditionId": "0x4ab02e9673ead5ff7a42373b39c05f8442078872f47372d1348913531d7404f2",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cear-governor-election-winner",
+    "negRisk": true
+  },
+  "will-camilo-santana-win-the-2026-cear-gubernatorial-election": {
+    "id": "2089116",
+    "conditionId": "0xca6c691779e26d5971b8093def659d93c92b12f1d863def474f039cf03c0f7e3",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cear-governor-election-winner",
+    "negRisk": true
+  },
+  "printr-fdv-above-50m-one-day-after-launch": {
+    "id": "2090554",
+    "conditionId": "0x58c56d5318f8685d7fa334a8daf8f1cf7f5cdc285c8d9a3f33583424995043fc",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-80m-one-day-after-launch": {
+    "id": "2090555",
+    "conditionId": "0x9a1c8207ab0c7fb50d79706d5b8bdf986dfd25bed8dcc54b472628391c5044d0",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-100m-one-day-after-launch": {
+    "id": "2090556",
+    "conditionId": "0x961be2a838df85be6e2fca3436a306c42b7bd43232281930b29058723882450e",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-150m-one-day-after-launch": {
+    "id": "2090557",
+    "conditionId": "0xc422b3790aa1fc39f3c47156f98f52efcb697da8bd9b4311e98b2c76d399ce4d",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
   }
 }
