@@ -34789,16 +34789,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-daniil-medvedev-win-the-2026-mens-french-open": {
-    "id": "1087530",
-    "conditionId": "0x5f5bb674f7976e7357d14b6e6798e8353f9aef40cb59cda1cb1a0c13d86ba2b9",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-alex-de-minaur-win-the-2026-mens-french-open": {
     "id": "1087531",
     "conditionId": "0x4786c0fc83466a567a3269de1ae6fd8270b93cff2c952dd4c63a3f483853a175",
@@ -34879,16 +34869,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-marin-cilic-win-the-2026-mens-french-open": {
-    "id": "1087542",
-    "conditionId": "0x4c7d88cebb3d96bf71fd025b12c230148a90448acd82d1b43e13fe22406f36b9",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-learner-tien-win-the-2026-mens-french-open": {
     "id": "1087543",
     "conditionId": "0x2d8ddd9ea670f9992c03353c033062a0014ca09166d8b15b9489ae9e4e0b6ca4",
@@ -34942,16 +34922,6 @@
   "will-denis-shapovalov-win-the-2026-mens-french-open": {
     "id": "1087548",
     "conditionId": "0x9b4b14a0bb1c004de148cd2bd483b4124e1598b030af072d4265dad26880967b",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-alexei-popyrin-win-the-2026-mens-french-open": {
-    "id": "1087549",
-    "conditionId": "0x634def7827304b73fcf1e6b63ccb8ca2230e0d3eeec9254d87319313dde0ac30",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -35179,29 +35149,9 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-linda-noskov-win-the-2026-womens-french-open": {
-    "id": "1087780",
-    "conditionId": "0x055ed7282ced4939bdb10778104f2e0e5934e507ad42f2221183ae1d283319de",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-anastasia-potapova-win-the-2026-womens-french-open": {
     "id": "1087781",
     "conditionId": "0xc261d9ca51d2ec442a3eb9e19801adc7da18a4229dbab057ca7e7566163ed082",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-alexandra-eala-win-the-2026-womens-french-open": {
-    "id": "1087787",
-    "conditionId": "0xd627848ffe5c9b54d4a02d000e832a3f3614bfd21d97f125e3a9e57049b1c3ed",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -69606,16 +69556,6 @@
     "eventSlug": "which-teams-will-qualify-to-msi-2026",
     "negRisk": false
   },
-  "will-weibo-gaming-qualify-to-msi-2026": {
-    "id": "1494628",
-    "conditionId": "0x09d04da7561de3d71a086c5de06ed6eb457517c8bd784d3412726b68521f16a6",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-jd-gaming-qualify-to-msi-2026": {
     "id": "1494629",
     "conditionId": "0x8d89ef34320d8d3799c1645eac4435eafa6d9cca308032f247b8333c20b3a090",
@@ -83497,26 +83437,6 @@
     "eventSlug": "2026-basketball-liga-nacional-de-bsquetbol-winner",
     "negRisk": true
   },
-  "2026-basketball-japan-b-league-winner-nagasaki-velca": {
-    "id": "1834123",
-    "conditionId": "0xafdeb4b2d0ffeabc46a1761142ea2c0ce53ecefb0652c25f05e359ca43ae4d20",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-japan-b-league-winner",
-    "negRisk": true
-  },
-  "2026-basketball-japan-b-league-winner-ryukyu-golden-kings": {
-    "id": "1834126",
-    "conditionId": "0x2980bbf25af81e2af7c3ce7f6f1be07c377e062c61bef77db5b8e979a1f6ecb6",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-japan-b-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-turkey-bsl-winner-anadolu-efes": {
     "id": "1834135",
     "conditionId": "0x697aba32720ee8cbe6c8b1c3ca9870ec96bacea700dc652ba5cd3644c83c0c93",
@@ -90407,16 +90327,6 @@
   "will-belinda-bencic-win-the-2026-roland-garros-womens-singles": {
     "id": "1920816",
     "conditionId": "0x52f25c3c71ceffa306d89b7506a7224b1d5d8814e95ddf650fa2eb5c2c995a18",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-linda-noskova-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920818",
-    "conditionId": "0xa65f2b4e4d68742e03cbeeb83a52d9e44d7d8c8eedea28f54c0099c2331a61d1",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -117458,16 +117368,6 @@
     "eventSlug": "what-price-will-spy-hit-in-may-2026",
     "negRisk": false
   },
-  "will-sp-500-spy-hit-high-750-in-may": {
-    "id": "2074173",
-    "conditionId": "0x10f33df25b6b8214c0048e3dc9e0e08afbc05f18c05c8e06e151eb040f12adbe",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-sp-500-spy-hit-low-710-in-may": {
     "id": "2074177",
     "conditionId": "0xc5d3907b0683a70aa04d1f1373b72ba006a10e8a6abe3a22fab319ae53e47c39",
@@ -117828,7 +117728,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876": {
+  "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876-832": {
     "id": "2074240",
     "conditionId": "0xa96e71186507bf493bd1fb8101418c369c6296a29b49514fdec3f7bfe7197909",
     "endDate": "2026-06-01",
@@ -117838,7 +117738,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-70-in-may-2026-155-395-333-182-889-988-959-341-883-234-375-347": {
+  "will-wti-dip-to-70-in-may-2026-155-395-333-182-889-988-959-341-883-234-375-347-135": {
     "id": "2074241",
     "conditionId": "0x4f7f1f84cc0497e3f21b76628b6ed9ac9abab9893b6d23f1af6108db64c0d34c",
     "endDate": "2026-06-01",
@@ -117848,7 +117748,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-60-in-may-2026-285-377-185-843-116-432-329-688-168-228-339-524": {
+  "will-wti-dip-to-60-in-may-2026-285-377-185-843-116-432-329-688-168-228-339-524-431": {
     "id": "2074242",
     "conditionId": "0x8b0a049df1acdbb9df107f826f0b9e49c25de067be4086cdaab2a844dffcc38f",
     "endDate": "2026-06-01",
@@ -117858,7 +117758,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-50-in-may-2026-693-355-551-137-237-293-116-333-615-711-387-644": {
+  "will-wti-dip-to-50-in-may-2026-693-355-551-137-237-293-116-333-615-711-387-644-146": {
     "id": "2074243",
     "conditionId": "0x37f597ed1feb50f08f7f269185fafed9c16148b9f1a05aea8be0bdd7e32a46d6",
     "endDate": "2026-06-01",
@@ -117868,7 +117768,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-40-in-may-2026-286-341-192-757-961-613-811-817-951-378-218-432": {
+  "will-wti-dip-to-40-in-may-2026-286-341-192-757-961-613-811-817-951-378-218-432-375": {
     "id": "2074244",
     "conditionId": "0xd22fc2cfc3f2796842baeba8fcb1ff6a0a469118a2f6599e0c09c591836c04a6",
     "endDate": "2026-06-01",
@@ -117878,7 +117778,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-30-in-may-2026-668-273-232-424-957-651-726-496-699-125-667-922": {
+  "will-wti-dip-to-30-in-may-2026-668-273-232-424-957-651-726-496-699-125-667-922-317": {
     "id": "2074245",
     "conditionId": "0x23ae45193d9f3719f63e7630ad0767a9a2ef92c9f7c9dd9398d3d359c7632a69",
     "endDate": "2026-06-01",
@@ -117888,7 +117788,7 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-20-in-may-2026-865-174-115-863-197-663-536-962-219-163-329": {
+  "will-wti-dip-to-20-in-may-2026-865-174-115-863-197-663-536-962-219-163-329-638": {
     "id": "2074246",
     "conditionId": "0xe49f349793edda9b05753be5256eeaa70bc4ef67f5579fe8ac16493dbc642901",
     "endDate": "2026-06-01",
@@ -119606,6 +119506,106 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-algo1-aab-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-imperi-lph-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2092868",
+    "conditionId": "0xe3663aacc253e22bc2c65837814dca63cdb4c21eb58b93d9c0ac5d6cf6c695ab",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-imperi-lph-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-imperi-lph-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2092871",
+    "conditionId": "0x06ac810cd9e4093271ee9047023aa63b17fd16a51f872dde5ad6dcaf54ae6588",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-imperi-lph-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-imperi-lph-2026-04-27-game3-odd-even-total-kills": {
+    "id": "2092873",
+    "conditionId": "0x0e4ca6734d5467ddcd4b9fed63b0fae4e4c41041a32b58b39c2fa159123ec380",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-imperi-lph-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-vpp-brawls-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2093076",
+    "conditionId": "0x79a4c194ebf0940788dee8aad807442a0c58b0720e2a79d8876af6811a78b5d3",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vpp-brawls-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-vpp-brawls-2026-04-27-game1-odd-even-total-rounds": {
+    "id": "2093077",
+    "conditionId": "0xc655bd31f21095ff0db4f32db86b6060e5a1ddb6f8594b3186d8e7dc7b5b7ca1",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vpp-brawls-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-vpp-rt1-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2093079",
+    "conditionId": "0xfc194d269a428ad5496e01b9afb5d51ef830d157ea220e909d96f7ae14eba2c5",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vpp-rt1-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-dia-brawls-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2093083",
+    "conditionId": "0xe56b6fbf7e9480fe8be21110f5380ea6b738b41ae50f6e611dbfcc41faec2fb6",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-dia-brawls-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-dia-brawls-2026-04-27-game1-odd-even-total-rounds": {
+    "id": "2093084",
+    "conditionId": "0x82c28c9704bf1791f5ef7f31ec10b905cd65bbadf0722ee9829115545f63df03",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-dia-brawls-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-ence-bojong-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2093133",
+    "conditionId": "0x1d949e3518020396e0bee6d3edfbf99944d9abcc9f6c83630fb856de9b043b90",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-bojong-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-ence-bojong-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2093135",
+    "conditionId": "0x48e3829f6d030fce0ad4e8a2dea1e9e249070cc2c22026a831f2e969330d3234",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-bojong-2026-04-27",
     "negRisk": false
   }
 }
