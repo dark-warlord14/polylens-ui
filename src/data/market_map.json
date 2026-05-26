@@ -35229,16 +35229,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-ekaterina-alexandrova-win-the-2026-womens-french-open": {
-    "id": "1087783",
-    "conditionId": "0xa31552e6636ba966681f1e2af0351b288c157e5f5748f1edcda182b91286fbfb",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-alexandra-eala-win-the-2026-womens-french-open": {
     "id": "1087787",
     "conditionId": "0xd627848ffe5c9b54d4a02d000e832a3f3614bfd21d97f125e3a9e57049b1c3ed",
@@ -35272,16 +35262,6 @@
   "will-maria-sakkari-win-the-2026-womens-french-open": {
     "id": "1087790",
     "conditionId": "0x59865f8beef11a253eafcbcf2369ad9978f6c7e601e7119f603af0e14575775e",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-leylah-fernandez-win-the-2026-womens-french-open": {
-    "id": "1087791",
-    "conditionId": "0xa6745164be396b6756f5214f81338a44d44e273958c8ea122012bf389c02e33e",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -44761,16 +44741,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-will-the-bitcoin-volatility-index-hit-in-2026",
-    "negRisk": false
-  },
-  "will-the-ethereum-volatility-index-dip-to-50-in-2026-944": {
-    "id": "1273017",
-    "conditionId": "0x5545e8d332e92d96cfb9cfb787b0e207c0dae53299021bcd098f7ee59b761e80",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-ethereum-volatility-index-hit-in-2026",
     "negRisk": false
   },
   "will-the-official-usd-to-ars-exchange-rate-be-less-than-1600pt00-at-the-end-of-december-2026": {
@@ -84147,16 +84117,6 @@
     "eventSlug": "2026-basketball-aba-league-winner",
     "negRisk": true
   },
-  "2026-basketball-aba-league-winner-crvena-zvezda-meridianbet": {
-    "id": "1834270",
-    "conditionId": "0xc2183214c7a25c49be63cd7ef380a08d9e678c81e697b9a48bfdbd702e59bc2f",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-aba-league-winner",
-    "negRisk": true
-  },
   "will-rayo-vallecano-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
     "id": "1834939",
     "conditionId": "0x971edda3b86ace2151c7b359cdc0468e0249cf977bdf2107cb33a987e65104e4",
@@ -90637,16 +90597,6 @@
   "will-belinda-bencic-win-the-2026-roland-garros-womens-singles": {
     "id": "1920816",
     "conditionId": "0x52f25c3c71ceffa306d89b7506a7224b1d5d8814e95ddf650fa2eb5c2c995a18",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-ekaterina-alexandrova-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920817",
-    "conditionId": "0x596bdb9a264826b35ba2cbb29aec82b223e86505c44861c1f087326d10ebc8cb",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -111104,16 +111054,6 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-someone-on-may-25-2026": {
-    "id": "2060678",
-    "conditionId": "0x73172d27439422ab7d3575a6f04f53ff26eab39761a1dd1c78751e09f56fcdc7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-publicly-insult-someone-on-312",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-someone-on-may-26-2026": {
     "id": "2060679",
     "conditionId": "0x930cbe0d958f1c39ee130de7cb7f7543b37036573ac392e7269d146a7e9c6c1f",
@@ -111773,16 +111713,6 @@
     "acceptingOrders": true,
     "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
     "negRisk": true
-  },
-  "will-sc-paderborn-achieve-promotion-from-bundesliga-2-to-the-bundesliga-for-the-2026-27-season": {
-    "id": "2062767",
-    "conditionId": "0x1ab6b1a95ecc958c4e84d435092cf6c7d802e9ac695e84ded414388190357cae",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bundesliga-2-team-promoted-to-bundesliga",
-    "negRisk": false
   },
   "will-as-saint-etienne-achieve-promotion-from-ligue-2-to-ligue-1-for-the-2026-27-season": {
     "id": "2062823",
@@ -119606,6 +119536,76 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-partido-socialista-brasileiro-psb-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087981",
+    "conditionId": "0x52ae7bdd15e592741a219a4fa0a8d6679a41fc7e06a375d39196e3747f5afa46",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-federao-psol-rede-psol-rede-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087982",
+    "conditionId": "0x5918d6de7d47b182804c6b32fb6010d17621d2c5ce3e988775da8c71b25da577",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-federao-renovao-solidria-prd-solidariedade-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087983",
+    "conditionId": "0xf788a3d11a418421fac96c86e02f27351b14a23c3f201df6f73d68f10cc4965b",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-avante-avante-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087984",
+    "conditionId": "0x08401649de7ab712dab4690a6932947ae48a66a7f0bda86e31487db41e5132d3",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-partido-novo-novo-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087985",
+    "conditionId": "0x3feaee9df96ce59eebefd7c76ea57d2d93c5c715ea8cafb86ad4ac1b0a06b1eb",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "will-partido-misso-misso-hold-the-most-seats-in-the-brazilian-chamber-of-deputies-after-the-2026-election": {
+    "id": "2087986",
+    "conditionId": "0x715845c48d7eb9501f6c5c092f6cb27a79b346eaf5eba6c2dc3c2bc87fa05e97",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "brazil-chamber-of-deputies-election-winner",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-05-23-cud": {
+    "id": "2088053",
+    "conditionId": "0xbaff21af85eb531a666027aeb396c4b5a2024f5d5bdcc8b63535b6a5d57cca78",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-05-23",
     "negRisk": true
   }
 }
