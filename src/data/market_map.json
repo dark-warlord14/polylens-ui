@@ -69556,26 +69556,6 @@
     "eventSlug": "which-teams-will-qualify-to-msi-2026",
     "negRisk": false
   },
-  "will-loud-qualify-to-msi-2026": {
-    "id": "1494621",
-    "conditionId": "0x7170dd6cf9fd1132e01fc26431540f64250b0d9cdfc2f3495e7b52efa9ab1c66",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
-  "will-g2-esports-qualify-to-msi-2026": {
-    "id": "1494622",
-    "conditionId": "0x17b8945a45fafd947c8dce21a8cfc5638a1c029d0e9346ec3bb762803cca3ef4",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-karmine-corp-qualify-to-msi-2026": {
     "id": "1494623",
     "conditionId": "0xc2833723941ad131b976638eb40baa5fa05e9c08499e6a05b28901a2513fd9ce",
@@ -70664,16 +70644,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "mcdonalds-ceo-out-by-june-30",
-    "negRisk": false
-  },
-  "will-ken-paxton-drop-out": {
-    "id": "1517370",
-    "conditionId": "0x4a97117e52d79b855de34962239fdb20cb627c24de5f639b9601c908c1d73999",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ken-paxton-drop-out",
     "negRisk": false
   },
   "will-united-stables-hit-4b-in-2026": {
@@ -74838,16 +74808,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bank-of-brazil-decision-in-june",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-700-719": {
-    "id": "1698897",
-    "conditionId": "0x75592d2622130664344647231e5b8c103893438631c39b5340161240df8940d2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
     "negRisk": true
   },
   "elon-musk-of-tweets-may-2026-720-739": {
@@ -79916,16 +79876,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-blg-jdg-2026-04-14",
-    "negRisk": false
-  },
-  "will-polymarket-mindshare-hit-80-by-june-30": {
-    "id": "1811191",
-    "conditionId": "0xb7a1b28cb65a04d03ec66047dba56d05a4b101bae51222ae82f82febeb5c7411",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-high-will-polymarkets-mindshare-go-by-june-30",
     "negRisk": false
   },
   "will-a-new-country-join-the-abraham-accords-by-june-30": {
@@ -85435,16 +85385,6 @@
     "eventSlug": "trsk-gal-tra-2026-05-01-more-markets",
     "negRisk": false
   },
-  "cs2-ta-o49-2026-04-05-map-handicap-away-1pt5": {
-    "id": "1874181",
-    "conditionId": "0x0c95afb35093150754f99192084cf6ce84a1c012ed99d6d18d5f26f29bccb99c",
-    "endDate": "2026-04-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ta-o49-2026-04-05",
-    "negRisk": false
-  },
   "bkvtb-sam-niz-2026-04-11": {
     "id": "1874228",
     "conditionId": "0x017b4f2c1572418c4fa4af3dd50eb81639a3783f9036e838801b80637c5f7c31",
@@ -88665,26 +88605,6 @@
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
   },
-  "will-hanwha-life-esports-qualify-for-ewc-2026-813": {
-    "id": "1900943",
-    "conditionId": "0x120d3dd3e9029fbd5603fdd0ef2ea733f5786b41af716b7242814b284dafe690",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
-  "will-dplus-qualify-for-ewc-2026-642": {
-    "id": "1900949",
-    "conditionId": "0xa86ca63103c1a60a7adea3c1956bbd5d5c7ec299df82034b15ef2e474e8ca2e9",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ewc-2026-korea-qualifiers",
-    "negRisk": false
-  },
   "will-fluxo-w7m-win-cblol-2026-split-1": {
     "id": "1901136",
     "conditionId": "0x966e6012d4f89326890850e2115f5034bbaad16dea8d8b6923a799578a5b6e9f",
@@ -90287,16 +90207,6 @@
   "will-ben-shelton-win-the-2026-roland-garros-mens-singles": {
     "id": "1920460",
     "conditionId": "0xf456fa929d0fc9b1eaf97f2793f5700d1be7709904b5109171e9fdd65def2ae2",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-daniil-medvedev-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920462",
-    "conditionId": "0x8534778f3d68aab7953b8c7a1750a1e668cbd92b8acebe384a52f0a3c5b041b1",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -119606,6 +119516,96 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-200m-one-day-after-launch": {
+    "id": "2090558",
+    "conditionId": "0x0e427d7c453da1a25a2b99a11775eac776a5bd7081c58df4d005414c2cbb8601",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-300m-one-day-after-launch": {
+    "id": "2090559",
+    "conditionId": "0x0a92d7cbea599ab59cecc6ad156eff6d2604e543abacd162daf45d2e3a577f94",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-400m-one-day-after-launch": {
+    "id": "2090560",
+    "conditionId": "0x78b2c5a3d7a8899e978044bed0a35f1a59656d88707bd31048b7d2784559fc0c",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-500m-one-day-after-launch": {
+    "id": "2090561",
+    "conditionId": "0x0f637c48fde8491c69465e10634bb808f0475b87a756f90e28084cf5558c9ba4",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-800m-one-day-after-launch": {
+    "id": "2090562",
+    "conditionId": "0xbd8a335eeabb756e676d09191d03298816fffda88554fcfccf0926dc51c06a06",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "printr-fdv-above-1b-one-day-after-launch": {
+    "id": "2090563",
+    "conditionId": "0x1d51f00264c9494a20a2670641747708f7e6d1a0acb55c3eb5048338248878c8",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "printr-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "cs2-bige-sinqu-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2092632",
+    "conditionId": "0x34340d80a05cb487ac58fd6094ab428135f52d1734ee6a1a69d23267fe46fac8",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bige-sinqu-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-algo1-aab-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2092857",
+    "conditionId": "0x954eb92014f59e31a7c9fe12bb635637fcf4cb2a006709216cf7c69a0c3b04b1",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-aab-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-algo1-aab-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2092859",
+    "conditionId": "0xf3262ca831c58a2de45c443c2f9ba7cc503294fa06731831021dda39ab228434",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-aab-2026-04-27",
     "negRisk": false
   }
 }
