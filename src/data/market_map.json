@@ -34709,16 +34709,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-alejandro-davidovich-fokina-win-the-2026-mens-french-open": {
-    "id": "1087551",
-    "conditionId": "0x90c7cb6fa207b4984f933eb2ad7b07e309f7e5f017e926b251d5f2b3d989e443",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-rafael-jodar-win-the-2026-mens-french-open": {
     "id": "1087553",
     "conditionId": "0x3e166e94d38707543b2e951c325eb9b917468b99e75294d11cd853587364d934",
@@ -89524,16 +89514,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-alejandro-davidovich-fokina-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920469",
-    "conditionId": "0x2e7f3cf66fa6e7973cd2262be9759000b455b8f88a54d893978ecd94b01d791d",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-tommy-paul-win-the-2026-roland-garros-mens-singles": {
     "id": "1920470",
     "conditionId": "0x1346b679b30b7648e741d7fa191aba0e1564ee942068a79844ebb6143a1ac715",
@@ -100313,16 +100293,6 @@
     "eventSlug": "cricpsl-lah-hyd-2026-04-25-team-top-batter",
     "negRisk": true
   },
-  "lol-g2-sk-2026-04-18-game1-kill-over-34pt5": {
-    "id": "2015940",
-    "conditionId": "0x9e4bd4f9f0758d7955fa2db397105c02d85d4f2ddae5c1030670699b63190364",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-g2-sk-2026-04-18",
-    "negRisk": false
-  },
   "cs2-psna-sng-2026-04-19-game1-odd-even-total-kills": {
     "id": "2020804",
     "conditionId": "0x3913bb2ca44994207a7525e150f16fc27bfd097381fca94cc7abf07edb4d444a",
@@ -109714,16 +109684,6 @@
     "eventSlug": "will-iran-play-in-the-2026-fifa-world-cup",
     "negRisk": false
   },
-  "dota2-sar1-1win-2026-04-25-game3-both-teams-beat-roshan": {
-    "id": "2061452",
-    "conditionId": "0xce98c764662636983bb8b18dc5f91ef3e96886f296c16d71b3c8bc09ef72f73a",
-    "endDate": "2026-04-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-sar1-1win-2026-04-25",
-    "negRisk": false
-  },
   "will-marine-le-pen-be-the-national-rallys-candidate-for-the-2027-french-presidential-election": {
     "id": "2061468",
     "conditionId": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
@@ -115920,16 +115880,6 @@
     "eventSlug": "what-price-will-coin-hit-in-may-2026",
     "negRisk": false
   },
-  "will-coin-dip-to-175-in-may-2026": {
-    "id": "2074153",
-    "conditionId": "0x98cfdefbad363360a623e5e67594591af4ccdbba8d04680babff2f1d6391c26d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-coin-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-coin-dip-to-170-in-may-2026": {
     "id": "2074154",
     "conditionId": "0x4d7fcc6a91681dd66bd86b86243bea42fd79af4374c9cfe1b83992f26d1480c6",
@@ -117720,16 +117670,6 @@
     "eventSlug": "so-paulo-governor-election-winner",
     "negRisk": true
   },
-  "dota2-lynx-sar1-2026-04-28-game3-both-teams-beat-roshan": {
-    "id": "2088433",
-    "conditionId": "0x3061cf7a34f1fd7aff883610e4a4168318b3fcaaba553098c5b32bcee46c1248",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-lynx-sar1-2026-04-28",
-    "negRisk": false
-  },
   "will-cleitinho-azevedo-win-the-2026-minas-gerais-gubernatorial-election": {
     "id": "2088926",
     "conditionId": "0xbb9450c639a6cff45852a72f736ad87bd7937bb6c32a5188951c384044db7a3e",
@@ -118900,16 +118840,6 @@
     "eventSlug": "cs2-cirahv-ksm-2026-04-28",
     "negRisk": false
   },
-  "lol-fnc-shft-2026-04-28-game2-odd-even-total-kills": {
-    "id": "2096397",
-    "conditionId": "0x369dd768d20c5840c3cdea008f0887e8a2908a12ffaec45eb7c561ba47c628a8",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-fnc-shft-2026-04-28",
-    "negRisk": false
-  },
   "trump-out-as-president-by-may-31": {
     "id": "2097472",
     "conditionId": "0x3ded5a5738cdcb0a0c5cbaf2023a4aed7e837a20bbe0a57accc4abd04ad63809",
@@ -119623,6 +119553,76 @@
   "will-trump-say-prediction-market-in-may": {
     "id": "2099236",
     "conditionId": "0xab997db257c2ba058fde98f3022b9d24ecba96cc658a11b81c425b27e3720094",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-discombobulator-or-discombobulated-in-may": {
+    "id": "2099237",
+    "conditionId": "0xb5e5eb3a7bb9a0b66cfef919fb5322d34c155e1d49719134596300d6817061d3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-braggadocious-in-may": {
+    "id": "2099238",
+    "conditionId": "0x12ee56fddc580c8b35058e5b1b466c53c1c34554d1dac209b11a12ad2bae0d37",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-bitcoin-in-may": {
+    "id": "2099239",
+    "conditionId": "0x4c9f02ab9dbced0fae73a56ef51d9bd60894afbc0250790997ffb32562dc6d4b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-epstein-in-may": {
+    "id": "2099240",
+    "conditionId": "0x1370bc457e501465c15c52e4c6037472142e06671e71fcf6e5c8c432e34c8521",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-asshole-in-may": {
+    "id": "2099241",
+    "conditionId": "0x7cb5a1fa16179792b29c30bfda0c75fcdada2750e1942c821ad8cfdd7f7c930b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-buy-dell-computer-or-buy-a-dell-computer-in-may": {
+    "id": "2099242",
+    "conditionId": "0xaf25ac07d103857daa07a2545578978f5927d0d93d185f7620c0184080c017c6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-favorite-chart-in-may": {
+    "id": "2099244",
+    "conditionId": "0xfb8a80e6a08cd0ef6bc41cd832b45cac94171da998620218dd594f7c4d405e37",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
