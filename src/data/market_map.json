@@ -74120,16 +74120,6 @@
     "eventSlug": "bank-of-brazil-decision-in-june",
     "negRisk": true
   },
-  "elon-musk-of-tweets-may-2026-720-739": {
-    "id": "1698898",
-    "conditionId": "0xe4320a403538a2781ec2115bc866d9d2522075c80be111d822fed779121901c7",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
   "elon-musk-of-tweets-may-2026-740-759": {
     "id": "1698900",
     "conditionId": "0x187cacb4f8c5fa9431b8abafe271db19a3f064fe6fa32e3b0d894170b09d1c2d",
@@ -111661,16 +111651,6 @@
     "eventSlug": "cs2-ksm-xi-2026-04-26",
     "negRisk": false
   },
-  "dota2-cb3-modus-2026-04-25-game3-both-teams-beat-roshan": {
-    "id": "2067286",
-    "conditionId": "0xd3de251c84d0afe33ae0833b66723c3c3d65cee2587fe9e1c9a6375ea4c63cbd",
-    "endDate": "2026-04-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-cb3-modus-2026-04-25",
-    "negRisk": false
-  },
   "cs2-bsta-quin-2026-04-24-game1": {
     "id": "2068022",
     "conditionId": "0x668831bfdefc8d264363554983b87f4b8cbba046465cb2b04f31e143a387404c",
@@ -114100,26 +114080,6 @@
     "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "dota2-re-lynx-2026-04-26-game2-both-teams-beat-roshan": {
-    "id": "2071212",
-    "conditionId": "0x1a81f7a220e19b45201dac1843d64d2304e4386c48081e8b6226c5b3cc33449a",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-re-lynx-2026-04-26",
-    "negRisk": false
-  },
-  "dota2-re-lynx-2026-04-26-game3-both-teams-beat-roshan": {
-    "id": "2071217",
-    "conditionId": "0xb74cd15511d1feef0e979083dce99bdc431268ca4aeeaf2411f7cf73a6b8f62c",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-re-lynx-2026-04-26",
-    "negRisk": false
-  },
   "dota2-sar1-ave-2026-04-26-game2-both-teams-beat-roshan": {
     "id": "2071232",
     "conditionId": "0x1286b0390fad0c650783cac60289f48c790dfda39ef2a12dc80d48c4c26afa0d",
@@ -114753,16 +114713,6 @@
   "will-aapl-reach-320-in-may-2026-416": {
     "id": "2073759",
     "conditionId": "0x6c36fb0298a81377c1bbdb6a1ebe255bef1ca46773574680833c4123698bdfcb",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-reach-312-in-may-2026-659": {
-    "id": "2073771",
-    "conditionId": "0x495d472e596c8e70f6023738a08ec22f9a3e0d1992d038b182fde2bfea3396d3",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -116928,26 +116878,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-ant-abb-2026-05-22-more-markets",
-    "negRisk": false
-  },
-  "dota2-nemiga-l1ga-2026-04-25-game1-both-teams-beat-roshan": {
-    "id": "2077588",
-    "conditionId": "0xd24b958e7794c929d6a797875126d950985bd40300bfed02d238d018ba9de749",
-    "endDate": "2026-04-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-nemiga-l1ga-2026-04-25",
-    "negRisk": false
-  },
-  "dota2-nemiga-l1ga-2026-04-25-game3-both-teams-beat-roshan": {
-    "id": "2077603",
-    "conditionId": "0x39fb1efb5324ae3e7cb1201aeffde16cae9eba19620366981e61892805a547d9",
-    "endDate": "2026-04-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-nemiga-l1ga-2026-04-25",
     "negRisk": false
   },
   "bol1-gvs-str-2026-05-22-gvs": {
@@ -119628,6 +119558,76 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "steve-bannon-exonerated-by-april-30",
+    "negRisk": false
+  },
+  "will-trump-say-barack-hussein-obamacare-in-may": {
+    "id": "2099226",
+    "conditionId": "0x9a6e40b9ded8f3b71d84bb6d09bfa7f0e0f7f3e00c445a90f2f842b9857db744",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-egghead-in-may": {
+    "id": "2099228",
+    "conditionId": "0x64d2173d0afbc0da4671b439314b7495c51810b94c0484a8e92ed28c3893a7d5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-iwo-jima-in-may": {
+    "id": "2099229",
+    "conditionId": "0x5957671fa6d0cb7e71bb3cebd0715a73872210b02baad4ddf11a6b601f532fbf",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-golden-dome-in-may": {
+    "id": "2099232",
+    "conditionId": "0x682d9f1f32aaf02f49152a418b3d6f760cc1bbc715a94395da902a82e5140865",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-skedaddle-in-may": {
+    "id": "2099233",
+    "conditionId": "0x0bfd969a99f03edc62b8e2a5833f11d4989244caf939fbdc8954c10d03958e97",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-pizza-in-may": {
+    "id": "2099235",
+    "conditionId": "0x8b47dbafe7e5ad0ee6ec568bfac9f40cdf9a06c8b757286f8531f06b767a126a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-prediction-market-in-may": {
+    "id": "2099236",
+    "conditionId": "0xab997db257c2ba058fde98f3022b9d24ecba96cc658a11b81c425b27e3720094",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
     "negRisk": false
   }
 }
