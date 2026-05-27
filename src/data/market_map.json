@@ -7223,7 +7223,7 @@
     "eventSlug": "ink-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ink-fdv-above-1b-one-day-after-launch-289-587": {
+  "ink-fdv-above-1b-one-day-after-launch-289-587-241": {
     "id": "637457",
     "conditionId": "0x5a9f7345715079de0aec1d9ec2f119c6ba2861aa9054f5b0134ec79834a861fe",
     "endDate": "2027-01-01",
@@ -18567,7 +18567,7 @@
     "eventSlug": "mo-01-democratic-primary-winner",
     "negRisk": true
   },
-  "ostium-fdv-above-700m-one-day-after-launch-515-395": {
+  "ostium-fdv-above-700m-one-day-after-launch-515-395-926": {
     "id": "704274",
     "conditionId": "0x80fb75d000c46c405142fa9b8a985cd994ff9b1c3fff58ea081e82d20da0808f",
     "endDate": "2027-01-01",
@@ -18577,7 +18577,7 @@
     "eventSlug": "ostium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ostium-fdv-above-1b-one-day-after-launch-133-944": {
+  "ostium-fdv-above-1b-one-day-after-launch-133-944-452": {
     "id": "704275",
     "conditionId": "0x4e93883693040259955d34c1a8e773a44558276ce315d483a8657509aab1b3ac",
     "endDate": "2027-01-01",
@@ -18587,7 +18587,7 @@
     "eventSlug": "ostium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ostium-fdv-above-2b-one-day-after-launch-284-572": {
+  "ostium-fdv-above-2b-one-day-after-launch-284-572-681": {
     "id": "704276",
     "conditionId": "0xc7f1aa8a77940d87b0fe3cda70d735ee2ce3a5137c7535bb9f70b9bde8dff3a4",
     "endDate": "2027-01-01",
@@ -18597,7 +18597,7 @@
     "eventSlug": "ostium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ostium-fdv-above-3b-one-day-after-launch-987-535": {
+  "ostium-fdv-above-3b-one-day-after-launch-987-535-683": {
     "id": "704277",
     "conditionId": "0xbfcaba7c57b54c19d8592d05041862bbc45ea81ecc76cdd5503b23abba88541e",
     "endDate": "2027-01-01",
@@ -18607,7 +18607,7 @@
     "eventSlug": "ostium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ostium-fdv-above-4b-one-day-after-launch-739-685": {
+  "ostium-fdv-above-4b-one-day-after-launch-739-685-752": {
     "id": "704278",
     "conditionId": "0x1d1df6668334cf9430e53b6b0cad9617174abc955cb89a9e050e081b95671ab2",
     "endDate": "2027-01-01",
@@ -23324,7 +23324,7 @@
     "eventSlug": "which-countries-will-donald-trump-visit-in-2026",
     "negRisk": false
   },
-  "tabi-fdv-above-500m-one-day-after-launch": {
+  "tabi-fdv-above-500m-one-day-after-launch-531": {
     "id": "897228",
     "conditionId": "0xf7fbeee415a4c341bbeb81e0fe8c2891a608f26c9f9a4e492e7fbb2e395a7008",
     "endDate": "2027-01-01",
@@ -23334,7 +23334,7 @@
     "eventSlug": "tabi-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "tabi-fdv-above-1b-one-day-after-launch": {
+  "tabi-fdv-above-1b-one-day-after-launch-431-445": {
     "id": "897229",
     "conditionId": "0x1f0d3a2760b4705b056bf800aa852675e7b1f835742b22dbd8da4aab91afc809",
     "endDate": "2027-01-01",
@@ -23344,7 +23344,7 @@
     "eventSlug": "tabi-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "tabi-fdv-above-2b-one-day-after-launch": {
+  "tabi-fdv-above-2b-one-day-after-launch-122-197": {
     "id": "897230",
     "conditionId": "0xb4509c2f63d4a35dc28a849e56ea65a11cec739322c07934377997c21696e05d",
     "endDate": "2027-01-01",
@@ -23354,7 +23354,7 @@
     "eventSlug": "tabi-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "tabi-fdv-above-3b-one-day-after-launch": {
+  "tabi-fdv-above-3b-one-day-after-launch-336": {
     "id": "897231",
     "conditionId": "0x707b240bef0f4f92b07f4b61f071e2a272649414c21ce4aa53689e1849dd1add",
     "endDate": "2027-01-01",
@@ -25984,56 +25984,6 @@
     "eventSlug": "spacex-ipo-closing-market-cap-above",
     "negRisk": false
   },
-  "solstice-fdv-above-50m-one-day-after-launch": {
-    "id": "909765",
-    "conditionId": "0xbd55722dfa97cf72e6853a23e96e950578324c2cc95b86b1024358792224efa0",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "solstice-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "solstice-fdv-above-100m-one-day-after-launch": {
-    "id": "909766",
-    "conditionId": "0x42ddf5ef540070c0c7a44011d7b66d252edb2162d68a72d9dd429d5b93c6736b",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "solstice-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "solstice-fdv-above-200m-one-day-after-launch-819": {
-    "id": "909767",
-    "conditionId": "0x4b885b84d42eee16005c09c4d37822b6ed3dd7261b9e04686c08e3f71e4f66c0",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "solstice-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "solstice-fdv-above-300m-one-day-after-launch-827-437-121": {
-    "id": "909768",
-    "conditionId": "0x878e3ae35633f0ae769971fcf78817a30cac68a668f31fadf3394be2dd253ca3",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "solstice-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "solstice-fdv-above-400m-one-day-after-launch-776": {
-    "id": "909769",
-    "conditionId": "0x23d6498682e9ab4f6d21fa2b2a762dc72507473a1fd08991202ee4b432c1911b",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "solstice-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
   "will-david-choquehuanca-be-the-next-secretary-general-of-the-united-nations": {
     "id": "910093",
     "conditionId": "0x9a098205ec65aa3bbeaba7b888e39bdf67cd89e769c0c0f707f6c787cd1bb585",
@@ -26334,7 +26284,7 @@
     "eventSlug": "how-high-will-trumps-approval-rating-go-in-2026",
     "negRisk": false
   },
-  "ink-fdv-above-2b-one-day-after-launch-664-291": {
+  "ink-fdv-above-2b-one-day-after-launch-664-291-334": {
     "id": "916390",
     "conditionId": "0xaa45535cb562715b92811f9563704ae852954a708511caf9435fd77acf141b57",
     "endDate": "2027-01-01",
@@ -26344,7 +26294,7 @@
     "eventSlug": "ink-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ink-fdv-above-3b-one-day-after-launch-699-259": {
+  "ink-fdv-above-3b-one-day-after-launch-699-259-755": {
     "id": "916437",
     "conditionId": "0x1d9eb6b75059a61f74c65384e23993cb35c3415479c778bf35c6a880f7469831",
     "endDate": "2027-01-01",
@@ -34839,16 +34789,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-alexander-bublik-win-the-2026-mens-french-open": {
-    "id": "1087539",
-    "conditionId": "0x04238573543c97eef6924e541656baf479f4844d6c0b843d721cf43ac4a5f03f",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-matteo-berrettini-win-the-2026-mens-french-open": {
     "id": "1087541",
     "conditionId": "0x46fd91a9d61d35516cb18b81abe7f16f648be4e41061a174fa4243e9495df5f7",
@@ -34902,16 +34842,6 @@
   "will-ugo-humbert-win-the-2026-mens-french-open": {
     "id": "1087547",
     "conditionId": "0x3147400b450a1e74020a305969df9053fa2f782960ebe2608a8809ea113fcf73",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-denis-shapovalov-win-the-2026-mens-french-open": {
-    "id": "1087548",
-    "conditionId": "0x9b4b14a0bb1c004de148cd2bd483b4124e1598b030af072d4265dad26880967b",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -35152,16 +35082,6 @@
   "will-belinda-bencic-win-the-2026-womens-french-open": {
     "id": "1087788",
     "conditionId": "0x11a09311e3bf0ac61315c930c8aaf28cedb2eed441ba89656d7eb940c27b3d1e",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-los-boisson-win-the-2026-womens-french-open": {
-    "id": "1087789",
-    "conditionId": "0xe16b446b0351f1dfa74945cdab967334176f87edf01e5c7fed4aa05be3840187",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -38719,7 +38639,7 @@
     "eventSlug": "will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026",
     "negRisk": false
   },
-  "ostium-fdv-above-500m-one-day-after-launch-834": {
+  "ostium-fdv-above-500m-one-day-after-launch-834-581": {
     "id": "1113919",
     "conditionId": "0xd09e776661872b9af66a8cb34d38211196d03710bcd9eb376ee5ff02bfe0e43e",
     "endDate": "2027-01-01",
@@ -38729,7 +38649,7 @@
     "eventSlug": "ostium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "ostium-fdv-above-300m-one-day-after-launch": {
+  "ostium-fdv-above-300m-one-day-after-launch-722": {
     "id": "1113920",
     "conditionId": "0x1295f32dd594927e3a46dcf6f041233d2e762b5e3eb6d900235ce0a5ebf2364c",
     "endDate": "2027-01-01",
@@ -61186,7 +61106,7 @@
     "eventSlug": "i-beat-bush-epstein-email-sender-confirmed-as-in-2026",
     "negRisk": true
   },
-  "ink-fdv-above-250m-one-day-after-launch-949": {
+  "ink-fdv-above-250m-one-day-after-launch-949-437": {
     "id": "1373645",
     "conditionId": "0xad257f63905baaec310fc3fe86385ede38c80415354fafbb5b3f035a8239a6f0",
     "endDate": "2027-01-01",
@@ -71094,7 +71014,7 @@
     "eventSlug": "ethereal-fdv-above-one-day-after-launch-774",
     "negRisk": false
   },
-  "ethereal-fdv-above-500m-one-day-after-launch-597": {
+  "ethereal-fdv-above-500m-one-day-after-launch-597-871": {
     "id": "1541327",
     "conditionId": "0xa164172b7cee74420cfce554c3a265b2553cb80e48b36e286e67f302b6574712",
     "endDate": "2028-01-01",
@@ -71104,7 +71024,7 @@
     "eventSlug": "ethereal-fdv-above-one-day-after-launch-774",
     "negRisk": false
   },
-  "ethereal-fdv-above-600m-one-day-after-launch-816": {
+  "ethereal-fdv-above-600m-one-day-after-launch-816-344": {
     "id": "1541328",
     "conditionId": "0x22781a6f2893cd8544f16ced1e0309ebdc4a910ada6b085fd8566482acb0ef81",
     "endDate": "2028-01-01",
@@ -71124,7 +71044,7 @@
     "eventSlug": "ethereal-fdv-above-one-day-after-launch-774",
     "negRisk": false
   },
-  "ethereal-fdv-above-1b-one-day-after-launch-775": {
+  "ethereal-fdv-above-1b-one-day-after-launch-775-524": {
     "id": "1541330",
     "conditionId": "0x72863a4738cca108fcc921776061aaa3ef2eebe39eb71b3693d5816aecb03e0f",
     "endDate": "2028-01-01",
@@ -71134,7 +71054,7 @@
     "eventSlug": "ethereal-fdv-above-one-day-after-launch-774",
     "negRisk": false
   },
-  "ethereal-fdv-above-2b-one-day-after-launch-725": {
+  "ethereal-fdv-above-2b-one-day-after-launch-725-784": {
     "id": "1541331",
     "conditionId": "0xdb949c29645f4964b6ff22c0f37a6e3c400bb7ec1124bb44b3be8f28d25608d8",
     "endDate": "2028-01-01",
@@ -90124,16 +90044,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-alexander-bublik-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920463",
-    "conditionId": "0x186d51ccbe3184ba411513646591d42d7d7b41c95e2842e795d73f093cb6b03d",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-casper-ruud-win-the-2026-roland-garros-mens-singles": {
     "id": "1920464",
     "conditionId": "0x431588150ce3babe78d8d03e8eb68fdd5924d33ec011effe30e9ed5237d140c7",
@@ -90237,16 +90147,6 @@
   "will-iga-swiatek-win-the-2026-roland-garros-womens-singles": {
     "id": "1920808",
     "conditionId": "0x8f580b7fbf0c5b771adbf8afb84cfc77d97d70537d62d4e6d89c6915d4fd89d6",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-jessica-pegula-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920809",
-    "conditionId": "0xd3f226af16156905a5331d378703496f1ce228e204c79222102ff8bf15ef63b0",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -110304,6 +110204,16 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
+  "will-donald-trump-publicly-insult-nicols-maduro-by-may-31-2026": {
+    "id": "2060645",
+    "conditionId": "0x2baca6fac6c44449b27442aab6b33e9f4f8c8370681a1852441a22e3aaf6f653",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
+    "negRisk": false
+  },
   "will-donald-trump-publicly-insult-zohran-mamdani-by-may-31-2026": {
     "id": "2060646",
     "conditionId": "0xd2e561294020ff472c1135a546e58f4758db56a678c946c08e019d5ac39312db",
@@ -110312,6 +110222,36 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
+    "negRisk": false
+  },
+  "will-donald-trump-publicly-insult-someone-on-may-24-2026": {
+    "id": "2060677",
+    "conditionId": "0x8ecef5c7294c61ca15ffd49c8d8ce104d1bc7c336bb8f353c0e6249c7d52e3ca",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-publicly-insult-someone-on-312",
+    "negRisk": false
+  },
+  "will-donald-trump-publicly-insult-someone-on-may-25-2026": {
+    "id": "2060678",
+    "conditionId": "0x73172d27439422ab7d3575a6f04f53ff26eab39761a1dd1c78751e09f56fcdc7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-publicly-insult-someone-on-312",
+    "negRisk": false
+  },
+  "will-donald-trump-publicly-insult-someone-on-may-26-2026": {
+    "id": "2060679",
+    "conditionId": "0x930cbe0d958f1c39ee130de7cb7f7543b37036573ac392e7269d146a7e9c6c1f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-publicly-insult-someone-on-312",
     "negRisk": false
   },
   "will-donald-trump-publicly-insult-someone-on-may-27-2026": {
@@ -110744,6 +110684,26 @@
     "eventSlug": "laliga-2-team-promoted-to-laliga",
     "negRisk": false
   },
+  "will-cordoba-cf-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
+    "id": "2062465",
+    "conditionId": "0x8410f39704ca03944c29a75f1109e1ff1f09a0a0f9fb76da9bf2326f449a6d16",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "laliga-2-team-promoted-to-laliga",
+    "negRisk": false
+  },
+  "will-rc-deportivo-de-la-coruna-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
+    "id": "2062472",
+    "conditionId": "0xfbf61679c3dd65e338eef4d7c8ad66cf9d9386da151dc0f6ae2611dfc98101b9",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "laliga-2-team-promoted-to-laliga",
+    "negRisk": false
+  },
   "will-sd-eibar-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
     "id": "2062474",
     "conditionId": "0x4dd12f4927b2238cc662278415a09a5db569ca0cffbe109b6d73691012d4ea06",
@@ -110964,6 +110924,16 @@
     "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
     "negRisk": true
   },
+  "will-sc-paderborn-achieve-promotion-from-bundesliga-2-to-the-bundesliga-for-the-2026-27-season": {
+    "id": "2062767",
+    "conditionId": "0x1ab6b1a95ecc958c4e84d435092cf6c7d802e9ac695e84ded414388190357cae",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bundesliga-2-team-promoted-to-bundesliga",
+    "negRisk": false
+  },
   "will-as-saint-etienne-achieve-promotion-from-ligue-2-to-ligue-1-for-the-2026-27-season": {
     "id": "2062823",
     "conditionId": "0x686dcd67a6359196a223b767a669201fff7f4df3c8ed33ba2d62feb719378618",
@@ -111094,9 +111064,69 @@
     "eventSlug": "daegu-mayoral-election-winner",
     "negRisk": true
   },
+  "will-unai-simn-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062928",
+    "conditionId": "0x05cb975113f4a21fc1e96b4d52e357351cc42b8bb3572fbf215068cb68396e07",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-david-raya-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062929",
+    "conditionId": "0xc4b84c7fafe1f5ef858f23d7fbb7c351b0c15280de6e6bf92715590d3d9a9c51",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
   "will-lex-remiro-be-included-in-spains-official-2026-world-cup-squad-list": {
     "id": "2062930",
     "conditionId": "0x43cc945b9b72faf60ae18e0ea43544e44b6aa1d441cfa423531ebe6a602375aa",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-joan-garca-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062931",
+    "conditionId": "0xc2d862c625392647ace70bcdc05a2b2d3fc2c36d58d352437d57fa0989d8aeb0",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-pedro-porro-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062932",
+    "conditionId": "0x901dbc90e11f36e0ece53109a8d00c386243c31228b19e1dab6cfe7bb0783b63",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-marcos-llorente-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062933",
+    "conditionId": "0x49abb2031fcaa255cb8119110ef102263a13bcec94f2c2536e42da0b9ebd7113",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-aymeric-laporte-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062934",
+    "conditionId": "0x9bc67b7e4648b19038b4a67d2cd4204bf56d1b3a04ed4f8aa4f75d2808236d0a",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -111124,6 +111154,66 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
     "negRisk": false
   },
+  "will-pau-cubars-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062937",
+    "conditionId": "0x6431d4d751675a1b66697a5b101ad101edd10b865ce464249d2807e33232bc33",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-marc-cucurella-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062938",
+    "conditionId": "0x79b2d0ea5502fbfaeeedd51f8e30310035d01c9608cd51d3e7b44f238b6c9d86",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-lex-grimaldo-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062939",
+    "conditionId": "0x97fafd0e9dd726fab71dbf352143f4734c0a98914f5b27f4b11b1d029a05205f",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-rodri-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062940",
+    "conditionId": "0x59a13ea1018f4644ec846c51c623d2e82492c9edaf6e034ae3ef41218592393c",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-pedri-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062941",
+    "conditionId": "0x414bfcfccb3363d09cec130fba0d419e55012d18ed543601a350c07c1c14a2f7",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-martn-zubimendi-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062942",
+    "conditionId": "0xe91629ffaa10b946a40e547643c2b849409e70b065da6a9a89e967a2ccced972",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
   "will-carlos-soler-be-included-in-spains-official-2026-world-cup-squad-list": {
     "id": "2062943",
     "conditionId": "0x43f6fa4e494322aa12769f4297d6ff8d5cb2bf2feda6a46458d47d97ba30f717",
@@ -111144,9 +111234,89 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
     "negRisk": false
   },
+  "will-dani-olmo-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062945",
+    "conditionId": "0xa6769d3260751d84c27fa45c21154e82bdea35e776f4ba2f43125c1a1b2640b3",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
   "will-pablo-fornals-be-included-in-spains-official-2026-world-cup-squad-list": {
     "id": "2062946",
     "conditionId": "0x46d46153f39ef18dd497721d9a8fa4f508171229e06d6f5b71bc09ecd64cf1da",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-lamine-yamal-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062947",
+    "conditionId": "0xad0768713506377f0a0f40e41695ccb602226fa07da08003737424a59356e704",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-mikel-oyarzbal-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062948",
+    "conditionId": "0xa45641f95dbf6302aa63d323c0bf17c57358e9eef2afd219dd404b80f0f8ee88",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-ferran-torres-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062949",
+    "conditionId": "0x9315ffb1b90a1bbd2572222348ee0e619b4e0e1eac8781ded601c466168aef1e",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-lex-baena-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062950",
+    "conditionId": "0xcc60111132142111588a1e1f7535ecb8f84805bb9c91cd55ac78f4cf20f75a8a",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-yeremy-pino-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062951",
+    "conditionId": "0x4ef08927f81c77f4bcc9935a5985befd52e5f2c37d10943e5d341071002465a0",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-borja-iglesias-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062952",
+    "conditionId": "0x8517ab9d96b41e10d923ad6e4252bdd8e424ea5acf0a65af9eeff738a8529c17",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
+    "negRisk": false
+  },
+  "will-vctor-muoz-be-included-in-spains-official-2026-world-cup-squad-list": {
+    "id": "2062953",
+    "conditionId": "0xacf076315ed1006c322c8d8d26ea374cbfe38e886da1f7af55561b5e27c79d5a",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -111884,139 +112054,9 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-argentina-squad",
     "negRisk": false
   },
-  "will-chris-brady-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063287",
-    "conditionId": "0x76a54720f1f51fe7efd1ecf4239b4b5a8ae01c34d3cb24f4474543eab91b769c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-matt-freese-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063288",
-    "conditionId": "0xd1a1ea4a3a3899988ab1baf042caab9e04b95e5f2cdbf4a3ff887c3821140cb3",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
   "will-patrick-schulte-be-included-in-the-usas-official-2026-world-cup-squad-list": {
     "id": "2063289",
     "conditionId": "0x9230efe895053360c4adfbc230dd7312c9968956c624fb38491f70f11049ebf1",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-matt-turner-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063290",
-    "conditionId": "0x43686df8aae4b5274f80b7a81f6afa74ff9035509546f7610c94b1b7bf1b125d",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-max-arfsten-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063291",
-    "conditionId": "0x33a5a4edd5ce5260c0c6772da8506fc17014bcd11e9fb652167a0d148725a42e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-alex-freeman-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063292",
-    "conditionId": "0x0c82da013aa942a48f0fdaa6af3794013e7c4d845437a7e7156edea422d16c64",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-mark-mckenzie-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063293",
-    "conditionId": "0xe750d117fd9071a3c3c380eafb3044721f946831c0a5fdeb66bec3e30c680d25",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-tim-ream-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063294",
-    "conditionId": "0x161f146d7084d85be920de2da2ba74612037c991e13347eb0d4ba6e5c748ff26",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-chris-richards-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063295",
-    "conditionId": "0xd47209599d0eab775d6628aece688efe84313babf54d46374c590740fb28890e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-antonee-robinson-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063296",
-    "conditionId": "0x20b36df02b282ea041c4f2a8d2f80b1986f9ac6266f8a9901772d97397f23595",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-miles-robinson-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063297",
-    "conditionId": "0x5d8a938603f11b4a923ce8c04df565d9d6ffee28aed88476a17679f18151142f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-joe-scally-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063298",
-    "conditionId": "0x6ad6a85234d043c62f06e1143df9e83368423943ef8025c46ef510bb128d980c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-auston-trusty-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063299",
-    "conditionId": "0x73796aacc73658ce919bde1a606913b374e1a9fc15b9048ceea305c87f9f9934",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-sebastian-berhalter-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063300",
-    "conditionId": "0xb1cde7cc80e6887ad65d8239b4917b1923a0821ee86fb240c2dad68bdcd17510",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -112034,39 +112074,9 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
     "negRisk": false
   },
-  "will-weston-mckennie-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063302",
-    "conditionId": "0x7118d7fcdbd4765d390668e82fd4549fdf990ecddd3723dbc01e6f1fdd268f18",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
   "will-aidan-morris-be-included-in-the-usas-official-2026-world-cup-squad-list": {
     "id": "2063303",
     "conditionId": "0xfcc1cbda546a8b54c862a26347f7c5fe63f7c7e68d8aaa7fea5b8dfb8688cfec",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-gio-reyna-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063304",
-    "conditionId": "0x4a58ffc4c1a0698ccd43d05c8d678e7a70e7e9ff14cfcd4e85931c884f287351",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-cristian-roldan-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063305",
-    "conditionId": "0x3b8f94faa51fcdba6d8af51aa69433f805acc63253459824638560b1e86a9395",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -112084,89 +112094,9 @@
     "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
     "negRisk": false
   },
-  "will-malik-tillman-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063307",
-    "conditionId": "0x19cac593709c38cc95fea11235811ece39db124788252980526c52827c1b126c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-brenden-aaronson-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063308",
-    "conditionId": "0x5bae6b05883f989b68e4e7a92b73ce9fe1d699898471b58e3d25ee2ebb0d19b6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
   "will-patrick-agyemang-be-included-in-the-usas-official-2026-world-cup-squad-list": {
     "id": "2063309",
     "conditionId": "0xdeb46ce53d279b0ee4c2910b817ae07234decc7b2a039d5bb14f50715d2875f4",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-folarin-balogun-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063310",
-    "conditionId": "0x1ce5785bc8572f410f74280e59f9e63f2a14b7a4b58dbd4b7ea52187d33d5d29",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-ricardo-pepi-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063311",
-    "conditionId": "0x6d6db4a17f2959106f0e7362a946fb6ec3bc8b1a953403372ccfa8cb303f04ea",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-christian-pulisic-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063312",
-    "conditionId": "0x722e3cc0c8b59aabbe3c8e075bbf32996445270128cdd9aca97f59d63374f3dd",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-tim-weah-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063313",
-    "conditionId": "0x717ecb83c2f632b7c2a7630b37253ac5d01e9e1bcf56b2e68222e86fc5af6a4c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-tyler-adams-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063314",
-    "conditionId": "0x4c2df1906532bc03d6dde83e621cd410af039c0b095782537d0b475de4a750c4",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-sergio-dest-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063315",
-    "conditionId": "0xbb9c6e81a2b7813a3fb2a12825bbba3032932be0fe9695914842d8e772abf803",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -117158,16 +117088,6 @@
     "eventSlug": "what-price-will-coin-hit-in-may-2026",
     "negRisk": false
   },
-  "will-coin-dip-to-180-in-may-2026": {
-    "id": "2074152",
-    "conditionId": "0x0bb0c5e9d740346f3173f97ad462221fb4521b35ccc1bb3ae199d34ce31d3e93",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-coin-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-coin-dip-to-175-in-may-2026": {
     "id": "2074153",
     "conditionId": "0x98cfdefbad363360a623e5e67594591af4ccdbba8d04680babff2f1d6391c26d",
@@ -119606,6 +119526,86 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-ence-boyban-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-ence-boyban-2026-04-27-game3-odd-even-total-kills": {
+    "id": "2093153",
+    "conditionId": "0xca801cd81cac0d315f76b9a8e20ee567d59a3fe6897498669cfd4b5262c1e11e",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-boyban-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-navij1-pre-2026-04-28-game1-odd-even-total-kills": {
+    "id": "2093186",
+    "conditionId": "0xd9b5f494cbfeb355ce7f054adfffdbf083d226fb3626d09a5b0f58c2cdfc0eb3",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-pre-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-navij1-pre-2026-04-28-game2-odd-even-total-kills": {
+    "id": "2093188",
+    "conditionId": "0xacbb7c6100f5d77a19d9580c51c772ca8642f5e48bc3364d32974387e5e943c8",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-pre-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-biga-rt1-2026-04-28-game1-odd-even-total-kills": {
+    "id": "2093206",
+    "conditionId": "0x17bb2b8ac8526da6760c80ea01069efcffbe0d157c1d0b65617f80f6a2b51f67",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-rt1-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-biga-rt1-2026-04-28-game2-odd-even-total-kills": {
+    "id": "2093208",
+    "conditionId": "0x766a0eee5d72e5cba67cf5adba1d1617350310604a0b091d458e8cf18a83aa5a",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-rt1-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-for10-flod-2026-04-27-game1-odd-even-total-kills": {
+    "id": "2094166",
+    "conditionId": "0xe9f8df9cfbd180df4d47e904f0d26183d75372e71051bd0ce59c28b3984658af",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-for10-flod-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-for10-flod-2026-04-27-game2-odd-even-total-kills": {
+    "id": "2094170",
+    "conditionId": "0x04a8959d021f4245c0466ef83e4dc6add7fa9a5fc5d70a787daf87cafbbe1171",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-for10-flod-2026-04-27",
+    "negRisk": false
+  },
+  "cs2-for10-flod-2026-04-27-game3-odd-even-total-kills": {
+    "id": "2094174",
+    "conditionId": "0x3e04ce237e1b3dba2d23569e12d00bffd2e0885e049d4435dd03ab04bc89f49c",
+    "endDate": "2026-04-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-for10-flod-2026-04-27",
     "negRisk": false
   }
 }
