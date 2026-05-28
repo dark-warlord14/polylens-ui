@@ -2649,56 +2649,6 @@
     "eventSlug": "will-any-2026-fifa-world-cup-game-scheduled-in-the-us-be-relocated-abroad",
     "negRisk": false
   },
-  "will-matthis-abline-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season": {
-    "id": "578426",
-    "conditionId": "0x0ae3b711b593c62c3c59941be53622c1b8cb92d95123eb7e43ec108a10542b9a",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-top-goalscorer",
-    "negRisk": true
-  },
-  "will-mostafa-mohamed-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season": {
-    "id": "578430",
-    "conditionId": "0x5fbfc9e5813cb48771cf397e3bdc80efc9314ee70f99401269f17f0dda2e66c7",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-top-goalscorer",
-    "negRisk": true
-  },
-  "will-esteban-lepaul-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season": {
-    "id": "578432",
-    "conditionId": "0xec1254e7ce833a8d75773d42d126f62a32fa986cae4c75bc3959ba13b3233eb1",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-top-goalscorer",
-    "negRisk": true
-  },
-  "will-frank-magri-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season": {
-    "id": "578434",
-    "conditionId": "0x64356bc75fb4a4f4daa5b72aab4fc903a606ba115e4ff7adac0ecbb5a08c343d",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-top-goalscorer",
-    "negRisk": true
-  },
-  "will-santiago-hidalgo-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season": {
-    "id": "578442",
-    "conditionId": "0xbeefc87a03b502feacd2953323b2d8b6de21c275c72a908d51d6357865c18ea6",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-top-goalscorer",
-    "negRisk": true
-  },
   "taylor-swift-pregnant-before-marriage": {
     "id": "582717",
     "conditionId": "0xfcde7eec764a4e3dd2c43e92efec3cd23d8df64cceff357914a31d2c7820a6ea",
@@ -31303,16 +31253,6 @@
     "eventSlug": "2026-ipl-champion",
     "negRisk": true
   },
-  "will-sunrisers-hyderabad-win-the-2026-indian-premier-league": {
-    "id": "1012320",
-    "conditionId": "0x413d8be6a418638d402c2eeb8f6f4aa0b299776d448188138cf0d4e63c3dd0a0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-ipl-champion",
-    "negRisk": true
-  },
   "will-playboi-carti-release-an-album-in-2026": {
     "id": "1013240",
     "conditionId": "0x9d4b05bf105b6ac1b67427e5b336680507aee28753ac0930333ebb3215eb1ce0",
@@ -34619,16 +34559,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-tomas-machac-win-the-2026-mens-french-open": {
-    "id": "1087537",
-    "conditionId": "0xa08a75596b59321f9dd905a411d4e7cd6b37e59b7540abf6846fde9c1a47bbd7",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-flavio-cobolli-win-the-2026-mens-french-open": {
     "id": "1087538",
     "conditionId": "0x9eaadf490bf58eb7e2d00fb257711ff462ae99197dc339b2a5cd93a577c7a2e2",
@@ -34762,16 +34692,6 @@
   "will-amanda-anisimova-win-the-2026-womens-french-open": {
     "id": "1087766",
     "conditionId": "0xaf57b538d751df7c32f1007f160800bd14b58a5ff946ed52c9765adec205e1ff",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-jasmine-paolini-win-the-2026-womens-french-open": {
-    "id": "1087767",
-    "conditionId": "0xd9d6ba92e4fe230e2faf265460970133274972a8af65736488fc225a8e482102",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -64566,16 +64486,6 @@
     "eventSlug": "mi-10-democratic-primary-winner-185",
     "negRisk": true
   },
-  "will-ismala-sarr-score-the-most-goals-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1421059",
-    "conditionId": "0x703b0fc9fc7f2a2d0f3a162a5129a1e8818cc00192cfbdd349920cc927769b2a",
-    "endDate": "2026-05-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-top-scorer",
-    "negRisk": true
-  },
   "christine-lagarde-out-as-ecb-president-in-2026": {
     "id": "1421651",
     "conditionId": "0x47a99f8df527cbf1e19395681e761d3b8e720402eeb103037be35f78b4141517",
@@ -65156,106 +65066,6 @@
     "eventSlug": "bachelorette-season-22-winner",
     "negRisk": true
   },
-  "will-carlo-holse-record-the-most-assists-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429096",
-    "conditionId": "0x5ce53a4eb1a29628fd6c837e7b5f1338d4b27f0ad3a57f9dff1cae60ed28e618",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-assists",
-    "negRisk": true
-  },
-  "will-kees-smit-record-the-most-assists-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429102",
-    "conditionId": "0x26204ee6e57dd702ce575ec6187e753b47504cd950968bb86744bd9af1ae39a7",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-assists",
-    "negRisk": true
-  },
-  "will-yremy-pino-record-the-most-assists-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429103",
-    "conditionId": "0xadbe360913777c7b83745cc3103c386e602b0f9b51900bcc0f0702169e6a23f4",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-assists",
-    "negRisk": true
-  },
-  "will-lvaro-garca-record-the-most-assists-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429104",
-    "conditionId": "0x96597ccce94fb0edfd81db616532cbb07cc838833db1978795b2998d7fb6a341",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-assists",
-    "negRisk": true
-  },
-  "will-jean-philippe-mateta-record-the-most-assists-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429107",
-    "conditionId": "0x9c7c235b3bd3a4b061b030a5b84d7201189fd07f35199ef8d68115ee3c2b57a2",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-assists",
-    "negRisk": true
-  },
-  "will-marius-mouandilmadji-record-the-most-goal-contributions-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429270",
-    "conditionId": "0x8840b9ee7fb7b338f976f3e0312ea8aa0ca271233ab4ff413a24c72182bbcdf4",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-lvaro-garca-record-the-most-goal-contributions-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429278",
-    "conditionId": "0x040307faf5552c219792af2c2bf3b23abc285151b303fa3465fa6cb05d0c3e4b",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-ismala-sarr-record-the-most-goal-contributions-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429286",
-    "conditionId": "0x440fc359d33c663b6917da1b350e374c781229971dc60104548ae02f0441d4c9",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-path-ismal-ciss-record-the-most-yellow-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429471",
-    "conditionId": "0xe64702f90c4891ace872d4c638eb4275da7a29a7275122d5060204c145e5c17a",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-yellow-cards",
-    "negRisk": true
-  },
-  "will-cher-ndour-record-the-most-yellow-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429472",
-    "conditionId": "0x92c45361cb647bc831401b62a8e692e7b0e5a414575033f05c921f89b4eca934",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-yellow-cards",
-    "negRisk": true
-  },
   "will-stripe-acquire-paypal-in-2026": {
     "id": "1429663",
     "conditionId": "0x74681cc13dc54fa347507d7ab57b66ea8c0e8c4ff9fb5a589583239c774f65aa",
@@ -65266,36 +65076,6 @@
     "eventSlug": "will-stripe-acquire-paypal-in-2026",
     "negRisk": false
   },
-  "will-borna-sosa-record-the-most-red-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429672",
-    "conditionId": "0x7a1190ac38d1631a2b80d34ab6d30fea3753496d736ebe0405c2ee968fabd40f",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-pep-chavarra-record-the-most-red-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429675",
-    "conditionId": "0xdd306dca064d34ca5b361d3e52d94a98b184c26014ed5eed49b4a24d71b8c98c",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-joseph-mbong-record-the-most-red-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429705",
-    "conditionId": "0x6e6477d97db8fa3f07ff26279fc554421e5b9232d13f047a17d9360225f4e91e",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-red-cards",
-    "negRisk": true
-  },
   "will-stripe-acquire-any-part-of-paypal-in-2026": {
     "id": "1429755",
     "conditionId": "0x57eb29c8fc0e9bbb8b988d80a38276492e2ae412bca9a62af7da55fc59d993e0",
@@ -65305,46 +65085,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-stripe-acquire-any-part-of-paypal-in-2026",
     "negRisk": false
-  },
-  "will-borna-sosa-record-the-most-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429830",
-    "conditionId": "0xce0cfea76838efaf06bb7ed89639f111f12c2abb3a5c462c8b241f92112d5b22",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-cards",
-    "negRisk": true
-  },
-  "will-pep-chavarra-record-the-most-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429831",
-    "conditionId": "0xa3049d4792417856ef77456b3fe98383d663f10493e2ce3b191930b4d8104853",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-cards",
-    "negRisk": true
-  },
-  "will-path-ismal-ciss-record-the-most-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429834",
-    "conditionId": "0x59d6d6b683d843e37c046d33dda4199cf18c238d9ffd8a1e10a6e71593c65e6f",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-cards",
-    "negRisk": true
-  },
-  "will-cher-ndour-record-the-most-cards-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1429835",
-    "conditionId": "0x0d87dc525bb6e0cadb4739f90abfe2b97c43d4f3f5256736468d17d99733e9c0",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-most-cards",
-    "negRisk": true
   },
   "epstein-storage-units-raided-in-2026": {
     "id": "1430498",
@@ -65365,26 +65105,6 @@
     "acceptingOrders": true,
     "eventSlug": "claudia-sheinbaum-out-as-president-of-mexico-by-june-30",
     "negRisk": false
-  },
-  "will-rayo-vallecano-score-the-most-goals-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1431317",
-    "conditionId": "0x96293f539c47b8956c665cb507346b1ce835810d6aaac16644ca6f7aa8b724a1",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-top-scorer-club",
-    "negRisk": true
-  },
-  "will-crystal-palace-score-the-most-goals-in-the-2025-26-uefa-europa-conference-league": {
-    "id": "1431322",
-    "conditionId": "0xa5861fd9873ccf8532f24c2e3374e3062c7b03954a9b0c0bb7b4ef8a3c55f752",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-conference-league-top-scorer-club",
-    "negRisk": true
   },
   "tony-gonzalez-charged-by-june-30": {
     "id": "1431354",
@@ -66564,16 +66284,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-rayo-vallecano-win-the-2025-26-uefa-europa-conference-league": {
-    "id": "1455915",
-    "conditionId": "0x1adaded007dd7aef3c0d6cbd779c92eb6019aedffea2080a2b2c3cbe88edec4e",
-    "endDate": "2026-05-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-league-winner-262",
     "negRisk": true
   },
   "will-george-pickens-play-for-arizona-cardinals-in-2026-27": {
@@ -69614,26 +69324,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "uefa-champions-league-home-country-of-champion",
-    "negRisk": true
-  },
-  "will-a-team-from-england-be-the-2026-conference-league-winner": {
-    "id": "1510220",
-    "conditionId": "0x57a6cbfb18f28e7b31c48f8708431730cc170b4b18e5616e543d4595b032ac76",
-    "endDate": "2026-05-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-conference-league-home-country-of-champion",
-    "negRisk": true
-  },
-  "will-a-team-from-spain-be-the-2026-conference-league-winner": {
-    "id": "1510228",
-    "conditionId": "0xc2d735089b392e2809d17dfe2ff08f7aacd4b9dbb7fd01f1a4b74a2eb4f246c9",
-    "endDate": "2026-05-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-conference-league-home-country-of-champion",
     "negRisk": true
   },
   "will-markwayne-mullin-be-the-republican-nominee-for-senate-in-oklahoma": {
@@ -78288,26 +77978,6 @@
     "eventSlug": "ng-up-or-down-on-march-31-2026",
     "negRisk": false
   },
-  "will-adrien-thomasson-lead-ligue-1-in-assists-during-the-2025-26-season": {
-    "id": "1792365",
-    "conditionId": "0xd0df11b7727cf9659ecdf7af039d21208a02773964742505c31e5bbfa99c7017",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-most-assists",
-    "negRisk": true
-  },
-  "will-aron-donnum-lead-ligue-1-in-assists-during-the-2025-26-season": {
-    "id": "1792373",
-    "conditionId": "0x29de25076b926e339cb0670be46430f2ec4a0d4b3ed1453e1807eac6f1d2db75",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-1-most-assists",
-    "negRisk": true
-  },
   "yom-fdv-above-20m-one-day-after-launch": {
     "id": "1794611",
     "conditionId": "0x5e89c548691d4fc6138c7351cdafb6bcfbd3f991b9cf0f709a8585acc3ea4aea",
@@ -82827,26 +82497,6 @@
     "eventSlug": "2026-basketball-germany-bbl-winner",
     "negRisk": true
   },
-  "2026-basketball-germany-bbl-winner-fitness-first-wrzburg-baskets": {
-    "id": "1834157",
-    "conditionId": "0x193249eb049af313884d1d004a9393c7211b8070a94dbdba156b6e4fd10083e7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
-  "2026-basketball-germany-bbl-winner-rasta-vechta": {
-    "id": "1834162",
-    "conditionId": "0x881e4445eaae339dd29623b1607d04e1c4fab696154b2f0e588af5c70ee80d74",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
   "2026-basketball-germany-bbl-winner-telekom-baskets-bonn": {
     "id": "1834168",
     "conditionId": "0xf29260f64f5145a2a72e31dadc3777ece88745b2a8d6330186b97fb63121108d",
@@ -83077,16 +82727,6 @@
     "eventSlug": "2026-basketball-greek-basketball-league-winner",
     "negRisk": true
   },
-  "2026-basketball-greek-basketball-league-winner-aris-thessaloniki": {
-    "id": "1834225",
-    "conditionId": "0xc3f6635e28c7eb15a505076d5b215c4aa9896e17acd84de87b7b0aedc6f7223e",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-greek-basketball-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-greek-basketball-league-winner-olympiacos-piraeus": {
     "id": "1834231",
     "conditionId": "0x13212acf840bb47569df75589a467686a7ceab085a5d19ff9a737c5c0b17c82b",
@@ -83140,26 +82780,6 @@
   "2026-basketball-pro-a-winner-cholet-basket": {
     "id": "1834243",
     "conditionId": "0x784ca8f434e082b238696e6316d9b275c922b1d3ef98cc2c637196419f2b533a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-pro-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-pro-a-winner-jl-bourg-basket": {
-    "id": "1834247",
-    "conditionId": "0xd120adba010a481116007e8435008387cb74504ab672b6a6dd4b6b0ba6e531bd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-pro-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-pro-a-winner-le-mans-sarthe-basket": {
-    "id": "1834248",
-    "conditionId": "0x27a975156ead473bb083c945054d8d100dfcce9ebb10939b132efb02d871beb5",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -109954,116 +109574,6 @@
     "eventSlug": "sejong-mayoral-election-winner",
     "negRisk": true
   },
-  "will-drake-have-exactly-0-songs-in-the-billboard-top-10": {
-    "id": "2062740",
-    "conditionId": "0xa7f5c8d8a76a47b5a186e2a870ab08f37267d91a80d2943cd42ece15b650b788",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-1-song-in-the-billboard-top-10": {
-    "id": "2062741",
-    "conditionId": "0x5d0d299bcff343c0443ef852dfa083d22a73d6caefb76fbed10af6ae1540f983",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-2-songs-in-the-billboard-top-10": {
-    "id": "2062742",
-    "conditionId": "0x72564eed2e0f00531e24e869ce2d20d0c65d6391b0f77aa342887a780f4c67eb",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-3-songs-in-the-billboard-top-10": {
-    "id": "2062743",
-    "conditionId": "0xa45de4471fdaf3db6b1303e7783aad5f23d7bef2aed500cbb0cc3cd42a51fb9d",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-4-songs-in-the-billboard-top-10": {
-    "id": "2062744",
-    "conditionId": "0x82b14107e82335310bcadfeedbf73eeb733d8381dd8101c8ac32436a8792cfc6",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-5-songs-in-the-billboard-top-10": {
-    "id": "2062745",
-    "conditionId": "0xfaf304c3da61ba7dbd4eff0a5b5075cc34dbb4c6b16c92a2ce44e00e3f9b0f00",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-6-songs-in-the-billboard-top-10": {
-    "id": "2062746",
-    "conditionId": "0x72a4126fc16420ea3ffb677b654aecbc3b37ef89f07ffe2a5bd9f120cfaef9e9",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-7-songs-in-the-billboard-top-10": {
-    "id": "2062747",
-    "conditionId": "0xae3d7605fc4ef605c094debcf4d981d98fba36e61db7c5d5c2a4204bb093f83b",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-8-songs-in-the-billboard-top-10": {
-    "id": "2062748",
-    "conditionId": "0x0e7a50076d5a169c985f6efb4f2fc39b348f18e4223869d86ab267fc28731f74",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-9-songs-in-the-billboard-top-10": {
-    "id": "2062749",
-    "conditionId": "0x126d0b85207cb7924f27a7e88465487f5c6cb2450edfcc343cf01fcb5264ad9a",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
-  "will-drake-have-exactly-10-songs-in-the-billboard-top-10": {
-    "id": "2062750",
-    "conditionId": "0x067c990fdaf8810f1153718f2de32909ec08f08b32b405852e52f7ad7b699057",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spots-will-drake-have-in-the-billboard-top-10",
-    "negRisk": true
-  },
   "will-as-saint-etienne-achieve-promotion-from-ligue-2-to-ligue-1-for-the-2026-27-season": {
     "id": "2062823",
     "conditionId": "0x686dcd67a6359196a223b767a669201fff7f4df3c8ed33ba2d62feb719378618",
@@ -110263,16 +109773,6 @@
     "acceptingOrders": true,
     "eventSlug": "2026-fifa-world-cup-player-to-make-spain-squad",
     "negRisk": false
-  },
-  "will-iceman-be-no1-for-0-weeks-489": {
-    "id": "2062963",
-    "conditionId": "0xb44a765f56ee77c94114582c89654a9080155696d5038aec950d9713956d532b",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-weeks-will-iceman-be-no1-on-the-billboard-200-866",
-    "negRisk": true
   },
   "will-iceman-be-no1-for-1-week-131": {
     "id": "2062964",
@@ -116130,16 +115630,6 @@
     "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
     "negRisk": false
   },
-  "will-xauusd-dip-to-4400-in-may-2026-443-472": {
-    "id": "2074208",
-    "conditionId": "0xc007be1ec183081a5148e2cb7fbb3ffa7e949606e0a5651751701d7bf15ca86f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-xauusd-dip-to-4300-in-may-2026-365-198": {
     "id": "2074209",
     "conditionId": "0x21109896dd6e5dd409b601a0a3b898c1de5c9937879099c86d642d00490acef0",
@@ -119130,16 +118620,6 @@
     "eventSlug": "jimmy-kimmel-firedresigns-by-may-31",
     "negRisk": false
   },
-  "trump-re-sues-wsj-by-may-31": {
-    "id": "2099104",
-    "conditionId": "0xba290fa28ce59e8efabb82c80bc7b4023907367221c604d2e3a33481650c469e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-re-sues-wsj-by-april-27",
-    "negRisk": false
-  },
   "will-trump-talk-to-mojtaba-khamenei-by-may-31": {
     "id": "2099105",
     "conditionId": "0xe1d074e4fbfe7ee469d6ad7a51190c4a94e2f310fbf84b084b680ecf2ddf97e0",
@@ -119629,5 +119109,525 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-aur-ori-2026-05-24",
     "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-ori": {
+    "id": "2099479",
+    "conditionId": "0x90964f519dde1337875cb7ac5c13a62c7c4870b0ed41be47c9fe2300891dc5bb",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24",
+    "negRisk": true
+  },
+  "will-mrbeast-hit-126-billion-views-by-june-30": {
+    "id": "2099540",
+    "conditionId": "0xada697d0caa3d6b29470b56bab3d35b902df2bf06db744760f6131c211b97c45",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
+    "negRisk": false
+  },
+  "will-mrbeast-hit-127-billion-views-by-june-30": {
+    "id": "2099541",
+    "conditionId": "0x689a24ea74bae5e84c3d3be87856c4ca399b7af5de2563a50c8a6681eca754bd",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
+    "negRisk": false
+  },
+  "will-mrbeast-hit-128-billion-views-by-june-30": {
+    "id": "2099542",
+    "conditionId": "0x6f51fc8a277dd2aeea8368dc927d46015e2868865c1e9fa10d844a0ebbfd6820",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
+    "negRisk": false
+  },
+  "will-mrbeast-hit-129-billion-views-by-june-30": {
+    "id": "2099543",
+    "conditionId": "0x518301a471c1e86c7b11d8eea58be6936f57c6a7d5f8b7f0fbefa6c87f145d31",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
+    "negRisk": false
+  },
+  "uk-announces-transfer-of-falklands-to-argentina-in-2026": {
+    "id": "2099544",
+    "conditionId": "0x32ed010ef587b84b343f976ddbae69e370fa2f47c5ddd9c88097f73e0e026708",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-announces-transfer-of-falklands-to-argentina-in-2026",
+    "negRisk": false
+  },
+  "will-mrbeast-hit-494-million-subscribers-by-june-30": {
+    "id": "2099562",
+    "conditionId": "0x6f4dfac5a6a193e6290ce4c7e0c84365c3edd0b43cd8deb08a4a36fbbad23a15",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-million-subscribers-by-june-30",
+    "negRisk": false
+  },
+  "will-mrbeast-hit-497-million-subscribers-by-june-30": {
+    "id": "2099563",
+    "conditionId": "0x4a608ee36394674e0322f233f8313f33c357a5af181bdf8a11751b52e4dddb60",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-million-subscribers-by-june-30",
+    "negRisk": false
+  },
+  "will-mrbeast-hit-500-million-subscribers-by-june-30": {
+    "id": "2099564",
+    "conditionId": "0x766713c2dce11a8b4e3b2e4afb4a96f94338a77ae00bf16370cd5251cc45872a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mrbeast-hit-million-subscribers-by-june-30",
+    "negRisk": false
+  },
+  "will-emmanuel-macron-be-the-next-leader-out-before-2027-767": {
+    "id": "2099572",
+    "conditionId": "0x2da5c3a8740d8b942d6052a34af61fe521053b348cbedda22821fb11e7fdedad",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-recep-tayyip-erdoan-be-the-next-leader-out-before-2027-126": {
+    "id": "2099573",
+    "conditionId": "0x765ef48156d3cf6c52562cc2b59def66c7137fa569cadbe4d8653c6d82319379",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-kim-jong-un-be-the-next-leader-out-before-2027-275": {
+    "id": "2099574",
+    "conditionId": "0xa8e9566651e959f6b5807a45d8e89f2eb1238be4fe9ee63100f9be29a326d56a",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-xi-jinping-be-the-next-leader-out-before-2027-962": {
+    "id": "2099575",
+    "conditionId": "0xd258e86f18ad706cd4d8f9a33b764eddaba8b71b55d83a4ec36e0396c4089578",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-benjamin-netanyahu-be-the-next-leader-out-before-2027-423": {
+    "id": "2099576",
+    "conditionId": "0x1cd1a66943b214de90027ce888621fc4e53f5c46351809e51dbad0635b7fe9b7",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-anthony-albanese-be-the-next-leader-out-before-2027-466": {
+    "id": "2099577",
+    "conditionId": "0xe2dd4a3d22deb920bcd4ce558d9bdb5272ac025202d98dca8b4a0bbf9de4154e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-gavin-newsom-be-the-next-leader-out-before-2027-478": {
+    "id": "2099578",
+    "conditionId": "0x65f8da252e6c6e3572794e3b583c8c18d6a8e012a137cb641df63cd97dc45cc9",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-javier-milei-be-the-next-leader-out-before-2027-767": {
+    "id": "2099579",
+    "conditionId": "0x2a598263abf5b0818a17d403d38193d11d64cbf08e3af4805ce08c23b3729670",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-keir-starmer-be-the-next-leader-out-before-2027-565": {
+    "id": "2099580",
+    "conditionId": "0xc8aaa82e283d68aba57ce829af58ce6ed3d5e94e23e9395b50dd579b2c657708",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-donald-trump-be-the-next-leader-out-before-2027-191": {
+    "id": "2099581",
+    "conditionId": "0x55118d53d1c381e96f9d9c47cd11db5f1987449f9a69aec43eef49ff99276f52",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-volodymyr-zelenskyy-be-the-next-leader-out-before-2027-397": {
+    "id": "2099582",
+    "conditionId": "0xa1b9197a70166b28f64766c468da80dbfced6e64efac9b80d87cac9c0e1540aa",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-vladimir-putin-be-the-next-leader-out-before-2027-417": {
+    "id": "2099583",
+    "conditionId": "0xed2b27cf6f1dc265a4889b2b68be11b8cf85c40de0d755e1b88fd3299cc542a4",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-luiz-incio-lula-da-silva-be-the-next-leader-out-before-2027-695": {
+    "id": "2099584",
+    "conditionId": "0x8c3334704624545380abd862f7199c52a918084cc7037c614d4d543d10d2c9a4",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-sbastien-lecornu-be-the-next-leader-out-before-2027-482": {
+    "id": "2099585",
+    "conditionId": "0xa922643c642c7d0a8541a60bbd70f11e97dc16b3dfb4cf98c46217f7bfa3e916",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-sanae-takaichi-be-the-next-leader-out-before-2027-599": {
+    "id": "2099586",
+    "conditionId": "0x53f01b1d1a475a1cd8c1657d97b699dfefe632870b0ef898b5212b64304a7ce3",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-mahmoud-abbas-be-the-next-leader-out-before-2027-981": {
+    "id": "2099587",
+    "conditionId": "0xaffa29d449f3b5a46d933bc412f7ae823e9f5216257c8c6e5bd695a9e2c0392b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-friedrich-merz-be-the-next-leader-out-before-2027-375": {
+    "id": "2099588",
+    "conditionId": "0x4900c24ab5b8d075cf1cab89436155d98c9e9999327cb769b038528dad705943",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-pedro-snchez-be-the-next-leader-out-before-2027-512": {
+    "id": "2099589",
+    "conditionId": "0x0aa3336f2f0d980a34b07b6eb39dcf1fe9ba543c01b06eb2150e9aab507ef84a",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-claudia-sheinbaum-be-the-next-leader-out-before-2027-717": {
+    "id": "2099590",
+    "conditionId": "0x2e396a95e62ab942c0ed58ab5c7841c8dc42f4a471f78f66830158670112881b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-miguel-daz-canel-be-the-next-leader-out-before-2027-767": {
+    "id": "2099591",
+    "conditionId": "0x068b8f7779e1f0a778778cd4e4add33b6c5076fc7350c32f11785bae56c4cd7b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-gustavo-petro-be-the-next-leader-out-before-2027-576": {
+    "id": "2099592",
+    "conditionId": "0x45bdbc00baf989a4b8a51c20ada82148e1e1a43a05ab8767f4fd145eae418d57",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-delcy-rodrguez-be-the-next-leader-out-before-2027-323": {
+    "id": "2099593",
+    "conditionId": "0xeca3670f936b53e463f84080e0c579ac3d8d4dccf13ae4a6a72c2bd051584530",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-ahmed-al-sharaa-be-the-next-leader-out-before-2027-926": {
+    "id": "2099594",
+    "conditionId": "0x416c70456b7ab567631cf4d691a48f020f0e0e68c9bbfbce0303ae26c7d7253b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "will-no-listed-leader-be-out-before-2027-147": {
+    "id": "2099595",
+    "conditionId": "0x84a45609bfdb644a15be71d679fbb4f115dea9109d9bac96e1bc049853e002f6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
+    "negRisk": true
+  },
+  "trump-sues-jimmy-kimmel-by-may-31": {
+    "id": "2099603",
+    "conditionId": "0xf2f446bd91126ce509875ecd03a1b32c63294fe92f30469a8b8fb4412fe3392d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "trump-sues-jimmy-kimmel-by-may-31",
+    "negRisk": false
+  },
+  "rotisserie-chicken-act-becomes-law-by-june-30": {
+    "id": "2099663",
+    "conditionId": "0xf4d5146abb808a5645a34a902c15154711f202e933b6db07e24af38fca6d0466",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "rotisserie-chicken-act-becomes-law-by-june-30",
+    "negRisk": false
+  },
+  "will-spacex-have-exactly-10-launches-in-may": {
+    "id": "2099666",
+    "conditionId": "0x2f2b7f2b9fe84ad017847e4384599f0ee6fe5aef037c29a0ebe4bca887e69420",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-spacex-launches-in-may",
+    "negRisk": true
+  },
+  "will-spacex-have-exactly-11-launches-in-may": {
+    "id": "2099667",
+    "conditionId": "0xf8fd77bd21e39c2316e501cd98b3c7e7ee0dbcadc1d1bc38abaa58e15541788d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-spacex-launches-in-may",
+    "negRisk": true
+  },
+  "will-spacex-have-exactly-12-launches-in-may": {
+    "id": "2099668",
+    "conditionId": "0x991909e37e6a096158fac5d56b812ad4108f42d306ee73d3c6afe31a99af337f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-spacex-launches-in-may",
+    "negRisk": true
+  },
+  "will-spacex-have-exactly-13-launches-in-may": {
+    "id": "2099669",
+    "conditionId": "0x9b5cb09f31cfd62edf281ecb83326b7cedfd76ed71009242a8763f60b1072c15",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-spacex-launches-in-may",
+    "negRisk": true
+  },
+  "will-spacex-have-14-or-more-launches-in-may": {
+    "id": "2099670",
+    "conditionId": "0x697dab73a0fb095c2e16b64f1b40a5ab7df69a344c6eed1a54539ba63f16784a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-spacex-launches-in-may",
+    "negRisk": true
+  },
+  "will-the-arizona-diamondbacks-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099751",
+    "conditionId": "0x75df5128f5b495ac3ca7f79d9200d98e35fc65c81ea07d0e0ee24d5806b2fcda",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-atlanta-braves-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099752",
+    "conditionId": "0x02ad218ef246d057761415505e75c79e1aba206843beeb8010acc5d6c3106967",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-baltimore-orioles-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099753",
+    "conditionId": "0x7b83315e0fed558513499f2b5a9b9ca53b42af476c72756484796f42044ccad8",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-boston-red-sox-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099754",
+    "conditionId": "0x0e28a6d331a0a433971f43c0eb4a4abc32d96fa26c8af2b5741d89077ea75e6b",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-chicago-cubs-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099755",
+    "conditionId": "0x2ab6efabc9f7847a4947e8761e265df47c6eebed22b9465d7878d374ea80e9b4",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-chicago-white-sox-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099756",
+    "conditionId": "0xb580c8555d3a85118abc80a1952738df1a6a899555f9b874b7dc96fc17aca641",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-cincinnati-reds-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099757",
+    "conditionId": "0x9cc4ae6bd5ad5ff27a38089c78ad74b420e6ae6c2532392389471110f98bed72",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-cleveland-guardians-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099758",
+    "conditionId": "0x426b19790fc9f1ed466ffed7804c643a24d9782b722cac9b62ffb6c6f8daebdc",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-colorado-rockies-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099759",
+    "conditionId": "0x240398e6a91b57c69d3aa749f0d45f58e6ba6e8888ecd47cd84ff7d3e1b08339",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-detroit-tigers-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099760",
+    "conditionId": "0x84a2706ca89194930fdca774f0d0a7099e3b08ec4387087e864757eb7a739d72",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-houston-astros-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099761",
+    "conditionId": "0x17046856cab8470196702aec03005ac97392ed1d0414e235104d0aa28831b290",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-kansas-city-royals-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099762",
+    "conditionId": "0x562f32d4eb4b67cce662ceb410f913a3e8cc30ce16f73f04019630e5071a2f66",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
   }
 }
