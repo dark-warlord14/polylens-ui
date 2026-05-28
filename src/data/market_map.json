@@ -34689,16 +34689,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-ugo-humbert-win-the-2026-mens-french-open": {
-    "id": "1087547",
-    "conditionId": "0x3147400b450a1e74020a305969df9053fa2f782960ebe2608a8809ea113fcf73",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-alejandro-tabilo-win-the-2026-mens-french-open": {
     "id": "1087550",
     "conditionId": "0x42cb3a3ece95132c54127ce8c12ecde9ec586d3df6f8e0b7e850ca68366f6384",
@@ -34752,16 +34742,6 @@
   "will-mirra-andreeva-win-the-2026-womens-french-open": {
     "id": "1087762",
     "conditionId": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-elena-rybakina-win-the-2026-womens-french-open": {
-    "id": "1087763",
-    "conditionId": "0xc8e467fbf7e96bd9bdf64ced89bbc8f6ad0ecf2c78391ee8e778b6f6e6194ee7",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -34842,16 +34822,6 @@
   "will-marta-kostyuk-win-the-2026-womens-french-open": {
     "id": "1087773",
     "conditionId": "0xc13d428b3a4ef1581d1d8c7fefd431b085bb3e3fd51a74f699b7ba5b62aa4972",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-jelena-ostapenko-win-the-2026-womens-french-open": {
-    "id": "1087775",
-    "conditionId": "0x38ec479c88abcd972330f7e77a794ec5abf9c6bd7f0231197e69fdbde22491e5",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -39511,26 +39481,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "how-many-seats-will-united-russia-win-in-the-next-russian-legislative-election",
-    "negRisk": true
-  },
-  "will-elena-rybakina-win-a-calendar-grand-slam-in-2026": {
-    "id": "1125325",
-    "conditionId": "0xd8ef66018cbe758e49061435f6ca3c53777e9c90bade045a80a5b06ad9ef8d50",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-win-a-womens-calendar-grand-slam-in-2026",
-    "negRisk": true
-  },
-  "will-no-player-win-a-calendar-grand-slam-in-2026": {
-    "id": "1125338",
-    "conditionId": "0x46d3e7c392e525406f6180ad27995260786943bb1975856654ec962f151a1ddb",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-win-a-womens-calendar-grand-slam-in-2026",
     "negRisk": true
   },
   "spx-hit-8000-high-jun-2026": {
@@ -66626,16 +66576,6 @@
     "eventSlug": "uefa-europa-league-winner-262",
     "negRisk": true
   },
-  "will-crystal-palace-win-the-2025-26-uefa-europa-conference-league": {
-    "id": "1455919",
-    "conditionId": "0x34b2d318f7329958cc6368064fe04a69769b527fb8fc39b66a23b41d68d66355",
-    "endDate": "2026-05-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-league-winner-262",
-    "negRisk": true
-  },
   "will-george-pickens-play-for-arizona-cardinals-in-2026-27": {
     "id": "1459607",
     "conditionId": "0x597b3ad51ff34247a71be135ecf59c871ebccc1beaed1e80f7bfa6dffb3cd1dc",
@@ -78478,16 +78418,6 @@
     "eventSlug": "us-nuclear-test-by",
     "negRisk": false
   },
-  "will-claude-go-down-6-8-times-in-may": {
-    "id": "1795593",
-    "conditionId": "0xa706b892ed5901f70094d16eaa3be6460566fab72451c115dacbc6f972e53e71",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-claude-go-down-on-days-in-may",
-    "negRisk": true
-  },
   "will-claude-go-down-9-11-times-in-may": {
     "id": "1795594",
     "conditionId": "0x088ee3251a1a2513b105a463c84d0834028012689c80b9c76f44277a737a4894",
@@ -83296,16 +83226,6 @@
     "acceptingOrders": true,
     "eventSlug": "2026-basketball-aba-league-winner",
     "negRisk": true
-  },
-  "will-rayo-vallecano-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1834939",
-    "conditionId": "0x971edda3b86ace2151c7b359cdc0468e0249cf977bdf2107cb33a987e65104e4",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
   },
   "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1834974",
@@ -89544,16 +89464,6 @@
     "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-elena-rybakina-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920806",
-    "conditionId": "0x137fdd28602bbe19f85827b247496ce42ddd8ed72081139d89c735b6d28eb5c1",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-coco-gauff-win-the-2026-roland-garros-womens-singles": {
     "id": "1920807",
     "conditionId": "0x2ba42d3231d4494e2b1c6571a341994e9eb962059877e3094cabbb7b1116b410",
@@ -89587,16 +89497,6 @@
   "will-elina-svitolina-win-the-2026-roland-garros-womens-singles": {
     "id": "1920811",
     "conditionId": "0x28851daf6e4e9f497e352aa631908abda6a2579273a4b622ae7989669fc8d47c",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-jasmine-paolini-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920812",
-    "conditionId": "0x0098361d86b8d8c0a3e7c4a3ae25d4445af4055b00441220c0c934eadc9b2e73",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -108164,16 +108064,6 @@
     "eventSlug": "will-russia-enter-novooleksandrivka-by",
     "negRisk": false
   },
-  "will-iceman-debut-no1-on-billboard-200": {
-    "id": "2053627",
-    "conditionId": "0x7ff420b5b41646ed814664888b2120b0df7e651b08996dafd9a73a5b93c9b263",
-    "endDate": "2026-05-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-iceman-debut-no1-on-billboard-200",
-    "negRisk": false
-  },
   "will-russia-capture-all-of-hryshyne-by-may-31": {
     "id": "2053635",
     "conditionId": "0x45c18bb127c2727a967eb657248b98bc530389e38348fff050e2a4ab60e53392",
@@ -114040,26 +113930,6 @@
     "eventSlug": "2026-fifa-world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "dota2-sar1-ave-2026-04-26-game2-both-teams-beat-roshan": {
-    "id": "2071232",
-    "conditionId": "0x1286b0390fad0c650783cac60289f48c790dfda39ef2a12dc80d48c4c26afa0d",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-sar1-ave-2026-04-26",
-    "negRisk": false
-  },
-  "dota2-1win-pr1-2026-04-27-game3-both-teams-beat-roshan": {
-    "id": "2071257",
-    "conditionId": "0x3c87ced9e19dcb4c2baf84a174a382e9d4cb1f0555c3863545553e29e8e1f533",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-1win-pr1-2026-04-27",
-    "negRisk": false
-  },
   "will-italy-replace-iran-in-the-2026-fifa-world-cup-298": {
     "id": "2071285",
     "conditionId": "0x69d02de291243190dc83c79bf52d38b3bd62d96c04646918d3faa24059b450fa",
@@ -116900,16 +116770,6 @@
     "eventSlug": "pro-football-will-obj-sign-with-a-team-in-2026",
     "negRisk": false
   },
-  "dota2-cb3-l1ga-2026-04-27-game1-both-teams-beat-roshan": {
-    "id": "2081111",
-    "conditionId": "0xc4ec3fb59a8cfda21bee71abb85496096ea6c64fb5f6f3afa5076277143081e9",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-cb3-l1ga-2026-04-27",
-    "negRisk": false
-  },
   "cs2-lph-33-2026-04-26-game1-odd-even-total-kills": {
     "id": "2083666",
     "conditionId": "0x34dc3cc13e4473ab725dc25dd470375002cd366dc06587189d53aeceadded566",
@@ -119629,5 +119489,145 @@
     "acceptingOrders": true,
     "eventSlug": "what-will-trump-say-in-may",
     "negRisk": false
+  },
+  "will-trump-say-big-bang-in-may": {
+    "id": "2099245",
+    "conditionId": "0xeea7a80c5ad65ff26eba7100dfeae3c3db2cf4120ddd6ae5af2da07684ed15ce",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-darth-vader-in-may": {
+    "id": "2099246",
+    "conditionId": "0x659e535b62ce1ad84ab93739708a922a26e189c5e9a44b823233b8170704e63e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-white-house-faith-office-in-may": {
+    "id": "2099252",
+    "conditionId": "0xb98157ed4b861e3663a1b657c36e38e68625a529811e9ea8c4843e39c074cded",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-christmas-in-may": {
+    "id": "2099253",
+    "conditionId": "0x063110a916f8d4c25f7f1ecb7522b20064735c03273ab1c3d8867522e5a07d41",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-nuke-in-may": {
+    "id": "2099260",
+    "conditionId": "0xd17239d94f2af2f6bda410d56c82ca651851c6fd8360359d2021bf665a63cc52",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-cat-in-may": {
+    "id": "2099266",
+    "conditionId": "0xf867694a419cd8ef9c8633c4dcc39df8f3aa0ae953c973408596408922492e80",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-america-last-in-may": {
+    "id": "2099267",
+    "conditionId": "0xa007fdf5551e16a4f22b084146bbfd5ce58af3bb1af2869ff14fc7a5065db55d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-neville-or-chamberlain-in-may": {
+    "id": "2099268",
+    "conditionId": "0x49088a21f034788c5c53a9302d87ebd55548b53a59cdb1af88f42f4b25c12c65",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "50m-views-on-a-mrbeast-video-in-the-first-day-by-may-31": {
+    "id": "2099337",
+    "conditionId": "0x6537e930ae517c3874fde483e4911d8e4559d71002b8d386085511e422dabd09",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "50m-views-on-a-mrbeast-video-in-the-first-day-by-may-31",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-bol": {
+    "id": "2099451",
+    "conditionId": "0x4c5d88de7109cf387ede447b09f2079719e63302060f7541d4356f5bfbd4cb2a",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-draw": {
+    "id": "2099454",
+    "conditionId": "0x9615608fbdda3f6e52c722f285af54259ec263c71ee99748d93b06af7bb9e81f",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-gua": {
+    "id": "2099458",
+    "conditionId": "0xf1842d8f740738c08a372cfe40ffe04bdeeb00e3743892242b6afd2c726079e1",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-aur": {
+    "id": "2099472",
+    "conditionId": "0xa256df91d56dac2e8d2df254fe7699ff2effb2744c35529eb9f57da2c5f8363a",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-draw": {
+    "id": "2099476",
+    "conditionId": "0x2f48c9980711dfb8724fe86f6391fbb35567d877c6e9426fec3619a0f500b83c",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24",
+    "negRisk": true
   }
 }
