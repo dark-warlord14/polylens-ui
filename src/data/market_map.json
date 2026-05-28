@@ -2019,16 +2019,6 @@
     "eventSlug": "uefa-champions-league-winner",
     "negRisk": true
   },
-  "will-club-brugge-win-the-202526-champions-league": {
-    "id": "566170",
-    "conditionId": "0xe06c8e9546be61e4ba8b03ad431dfff590fc6b21a5b746e71f62ae85f1dcad6a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-winner",
-    "negRisk": true
-  },
   "will-trump-pardon-ghislaine-maxwell": {
     "id": "566760",
     "conditionId": "0x0dc45815251ab7d5c3cbde5d7eee5bc96eac3d924c0a4c4f10175049e068fe20",
@@ -76862,7 +76852,7 @@
     "eventSlug": "meek-mill-gets-y-combinator-funding-by-june-30",
     "negRisk": false
   },
-  "will-a-claude-mythos-model-be-released-by-june-30-2026-684": {
+  "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583": {
     "id": "1744124",
     "conditionId": "0xcfd48c874ae1760c1ec3c87a8c46c221af6a4f2be3b56618ba261bef4c92e768",
     "endDate": "2026-04-30",
@@ -88873,16 +88863,6 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-mis-lph-2026-04-10",
     "negRisk": false
-  },
-  "will-jannik-sinner-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920454",
-    "conditionId": "0xe5a8f34117c2e467a0a1b3f3735c7b3ce5b696c55f40b8b4fa9013de57fd86e5",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
   },
   "will-alexander-zverev-win-the-2026-roland-garros-mens-singles": {
     "id": "1920455",
@@ -115560,16 +115540,6 @@
     "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
     "negRisk": false
   },
-  "will-silver-xagusd-hit-low-72-in-may-536-179-557-938-755": {
-    "id": "2074220",
-    "conditionId": "0xb3bad95956d5159f02b1f4f111a5599d0640aa3922519a163463d92ed957e294",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-silver-xagusd-hit-low-70-in-may-751-468": {
     "id": "2074221",
     "conditionId": "0xde02f529a5879d58084bff055813e6d16ff8af852220eeec3573947cf9cbf617",
@@ -115783,16 +115753,6 @@
   "will-natural-gas-ng-hit-high-3pt40-in-may": {
     "id": "2074252",
     "conditionId": "0x44ef43c4a2239e78b9893852cdcb9e18a4f9c966d026da72b3ccfa1f6647b235",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-high-3pt20-in-may": {
-    "id": "2074253",
-    "conditionId": "0xc571f73e2935ae4f6468c7b86989dce5114c7da821b597651278d81814961040",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -119623,6 +119583,46 @@
   "will-the-pittsburgh-pirates-win-100-or-more-games-during-the-2026-mlb-regular-season": {
     "id": "2099772",
     "conditionId": "0x48fd8423b18cbdbdef44654d05fbb693f055f1446292a05f4ce4d678451ceb46",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-san-diego-padres-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099773",
+    "conditionId": "0xa8cf401712e28bb251d973373619467dbfedbd9be9f6206d76ece838c16f045d",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-san-francisco-giants-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099774",
+    "conditionId": "0xd6b0ca1485f98ccd9fc465b24616894a7684fbff0789ef8d629d85d091dc4829",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-seattle-mariners-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099775",
+    "conditionId": "0x2683ba2f962a0e3aa883032bc955961b8a7dac6abe978c40c1c3c11a44329318",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-st-louis-cardinals-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099776",
+    "conditionId": "0x901e4f7bb3222eca23ac47847e83c71951b276ab944df37cce7117eb83cdbbc3",
     "endDate": "2026-09-28",
     "closed": false,
     "active": true,
