@@ -79048,16 +79048,6 @@
     "eventSlug": "aligned-layer-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "will-crystal-palace-qualify-for-the-league-phase-of-the-2026-27-uefa-europa-league": {
-    "id": "1818325",
-    "conditionId": "0x9fc5a1d4cf0bff91ecce95862a4a265ef57fff7182b3e823a523de7e5b2e74bf",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-team-to-qualify-for-uefa-europa-league",
-    "negRisk": false
-  },
   "will-brighton-hove-albion-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1818371",
     "conditionId": "0x4e11ad07550e879b771bb74aa2ac543182c0b555f4fd86aaa8c9818d64b91f25",
@@ -87755,16 +87745,6 @@
     "eventSlug": "lol-lck-cl-2026-winner",
     "negRisk": true
   },
-  "will-pain-gaming-academy-win-cd-2026-split-1": {
-    "id": "1901230",
-    "conditionId": "0x104eeb4d86e0dbdac01199beb34062d718f7d57d4570f2aa4dac0331139051d7",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cd-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-kabum-idl-win-cd-2026-split-1": {
     "id": "1901236",
     "conditionId": "0x33b0fa7114d6bf720305907e2c2b209d11b9815ae88e6859b7019fa2fb746cb6",
@@ -87788,16 +87768,6 @@
   "will-nrg-win-nacl-2026-spring": {
     "id": "1901245",
     "conditionId": "0xfb173babb840921f43a122e2809e388e65fa75929668d31c0719afcdf475dde3",
-    "endDate": "2026-06-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-nacl-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-supernova-win-nacl-2026-spring": {
-    "id": "1901246",
-    "conditionId": "0x21c1a3fa3b7bb45b88dede1be26d7c44799b3f225b83c5b6c2e2916e2d8f9b21",
     "endDate": "2026-06-05",
     "closed": false,
     "active": true,
@@ -98197,16 +98167,6 @@
   "will-gold-gc-hit-low-4300-by-end-of-june-786-418-284-459-592-615-611-319-993-231-689-345": {
     "id": "2001188",
     "conditionId": "0x29a63e3c3163446dfe747e94e41109b5f4061f708e6ac91cd3c715649bf7b76c",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gc-hit-jun-2026",
-    "negRisk": false
-  },
-  "will-gold-gc-hit-low-4500-by-end-of-june-715-672-886-563-443-997-489-988-375-232-994": {
-    "id": "2001189",
-    "conditionId": "0x84f92ff1f6113091642502836b5a06b66079597ebbb8d5514eadd330d07fe555",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -119623,6 +119583,46 @@
   "will-the-kansas-city-royals-win-100-or-more-games-during-the-2026-mlb-regular-season": {
     "id": "2099762",
     "conditionId": "0x562f32d4eb4b67cce662ceb410f913a3e8cc30ce16f73f04019630e5071a2f66",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-los-angeles-angels-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099763",
+    "conditionId": "0x7111f524929effcb51fe475837674796bb3b8369c6b473118b1682926a6b308d",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-los-angeles-dodgers-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099764",
+    "conditionId": "0x298b73b51eddad6e9c04df6ef51424067fe5d3287450e473244313cad8b3eb68",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-miami-marlins-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099765",
+    "conditionId": "0x188124d5231eb9958223a9f29a0da0a3642cf8d656972a3675d4cabdf3f8b726",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-milwaukee-brewers-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099766",
+    "conditionId": "0xaa45db093e4196724e4e35c3758cb66267ab940a313567e35bf3c9212c648671",
     "endDate": "2026-09-28",
     "closed": false,
     "active": true,
