@@ -2019,6 +2019,16 @@
     "eventSlug": "uefa-champions-league-winner",
     "negRisk": true
   },
+  "will-club-brugge-win-the-202526-champions-league": {
+    "id": "566170",
+    "conditionId": "0xe06c8e9546be61e4ba8b03ad431dfff590fc6b21a5b746e71f62ae85f1dcad6a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uefa-champions-league-winner",
+    "negRisk": true
+  },
   "will-trump-pardon-ghislaine-maxwell": {
     "id": "566760",
     "conditionId": "0x0dc45815251ab7d5c3cbde5d7eee5bc96eac3d924c0a4c4f10175049e068fe20",
@@ -58921,16 +58931,6 @@
     "eventSlug": "relay-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "bkarg-obr-san2-2026-02-12": {
-    "id": "1362380",
-    "conditionId": "0x3b242d0d2a2f1023adc4a6b04d4384d328696923e053b429da146a5edfcc2731",
-    "endDate": "2026-02-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkarg-obr-san2-2026-02-12",
-    "negRisk": false
-  },
   "will-100-thieves-qualify-to-a-s-tier-tournament-by-june-1": {
     "id": "1362913",
     "conditionId": "0x3c8cfd10ca70703a9dc5c9f3bdaceb168c160ccf426f56f9a84576752ace8081",
@@ -65906,36 +65906,6 @@
     "eventSlug": "pro-football-nfc-west-champion",
     "negRisk": true
   },
-  "will-the-bank-of-korea-decrease-the-base-rate-after-the-may-meeting": {
-    "id": "1448044",
-    "conditionId": "0x610d7b0ea9a73f5701960593b976554b39da176a5ed8e094cde95c23b1b24657",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-korea-decision-in-may",
-    "negRisk": true
-  },
-  "will-the-bank-of-korea-make-no-change-to-the-base-rate-after-the-may-meeting": {
-    "id": "1448045",
-    "conditionId": "0x31d7a76e9bd1ad98cd5b16e7605169720d5ea7df577e2ceef6b9dc533b19b0fe",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-korea-decision-in-may",
-    "negRisk": true
-  },
-  "will-the-bank-of-korea-increase-the-base-rate-after-the-may-meeting": {
-    "id": "1448046",
-    "conditionId": "0xb29a004bf7b5e37ea9763bc4583313d4619f8bfe9f88cd57c34556313c7c6933",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-korea-decision-in-may",
-    "negRisk": true
-  },
   "will-matthew-adams-be-the-democratic-nominee-for-nj-12": {
     "id": "1448086",
     "conditionId": "0xe7aea28dd5a66d96cb1ac49e96c9a889cf69eefd94cab808358abd4b83252d1e",
@@ -71112,16 +71082,6 @@
     "eventSlug": "will-solana-hit-60-or-140-first",
     "negRisk": false
   },
-  "will-caesars-entertainment-inc-be-acquired-before-2027-448": {
-    "id": "1560646",
-    "conditionId": "0xb8e9e1c93dbc5e2af5bcf4d857ea73a204196303e2bbd9be7955c27d55d7fc56",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-companies-will-be-acquired-before-2027",
-    "negRisk": false
-  },
   "will-jake-paul-announce-a-run-for-public-office-in-2026": {
     "id": "1562758",
     "conditionId": "0x20bcdd8a07d8d64a99d4ac5b66d273dfb82728d76e8035c56909382fda38a8d7",
@@ -73738,16 +73698,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bank-of-brazil-decision-in-june",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-740-759": {
-    "id": "1698900",
-    "conditionId": "0x187cacb4f8c5fa9431b8abafe271db19a3f064fe6fa32e3b0d894170b09d1c2d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
     "negRisk": true
   },
   "elon-musk-of-tweets-may-2026-760-779": {
@@ -89044,6 +88994,16 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
+  "will-rafael-jodar-win-the-2026-roland-garros-mens-singles": {
+    "id": "1920472",
+    "conditionId": "0x79c0db8c09b6cd7e8e7265f3eb3f4cd8055844bdc730cbab4d22d9d0479fe7e2",
+    "endDate": "2026-06-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-mens-singles-roland-garros-winner",
+    "negRisk": true
+  },
   "will-aryna-sabalenka-win-the-2026-roland-garros-womens-singles": {
     "id": "1920805",
     "conditionId": "0xa88a6caf5bd983b56ba477458a481104f2c11da592e49f4ae9ffe480797ab867",
@@ -99561,16 +99521,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-biga-xi-2026-04-21",
-    "negRisk": false
-  },
-  "bkaba-bor-meg-2026-04-24": {
-    "id": "2012431",
-    "conditionId": "0xe496db88e2bab3d9f80c24341949dec0c85e7c99827a4b916557f276ed34b31b",
-    "endDate": "2026-05-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkaba-bor-meg-2026-04-24",
     "negRisk": false
   },
   "bol1-pot-abb-2026-05-14-spread-home-1pt5": {
@@ -115210,16 +115160,6 @@
     "eventSlug": "what-price-will-coin-hit-in-may-2026",
     "negRisk": false
   },
-  "will-coin-dip-to-170-in-may-2026": {
-    "id": "2074154",
-    "conditionId": "0x4d7fcc6a91681dd66bd86b86243bea42fd79af4374c9cfe1b83992f26d1480c6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-coin-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-coin-dip-to-165-in-may-2026": {
     "id": "2074155",
     "conditionId": "0xc24d84d05d413f3281df7b789287c378182bf363fba02db7b6878938876b81af",
@@ -119623,6 +119563,66 @@
   "will-the-milwaukee-brewers-win-100-or-more-games-during-the-2026-mlb-regular-season": {
     "id": "2099766",
     "conditionId": "0xaa45db093e4196724e4e35c3758cb66267ab940a313567e35bf3c9212c648671",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-minnesota-twins-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099767",
+    "conditionId": "0x33fee6caae8a2ea6237e4d6500efa00260da47d418b33d74565405f4bfec8c1d",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-new-york-mets-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099768",
+    "conditionId": "0xdbf9e8a4b3b0d335df92d3b6d22b298a94e0fbcbee0e97c43b9667901c2c18fc",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-new-york-yankees-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099769",
+    "conditionId": "0xb6969a16cfbdd3848fa67b3e6b9119dce97ac0271c6a4a1af6fcaf7bc4e6707a",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-athletics-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099770",
+    "conditionId": "0x0426903514ccab542a031838d088bd0e72731e576986bb9816ef3e7d4e338f1c",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-philadelphia-phillies-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099771",
+    "conditionId": "0xf2028a6abf40583ef0011afd841043ad99ba2e22ad987d0d50ebcb95c82f4fcc",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-pittsburgh-pirates-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099772",
+    "conditionId": "0x48fd8423b18cbdbdef44654d05fbb693f055f1446292a05f4ce4d678451ceb46",
     "endDate": "2026-09-28",
     "closed": false,
     "active": true,
