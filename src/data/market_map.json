@@ -9439,14 +9439,14 @@
     "eventSlug": "guinea-bissau-national-peoples-assembly-election-winner",
     "negRisk": true
   },
-  "will-lionel-messi-play-in-the-2026-fifa-world-cup": {
+  "will-lionel-messi-play-in-the-world-cup": {
     "id": "669799",
     "conditionId": "0x160dbfb768f10eedc79d21400546975778e2d0f1ae7f53777a1edabd5baecf81",
     "endDate": "2026-07-19",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
+    "eventSlug": "will-lionel-messi-play-in-the-world-cup",
     "negRisk": false
   },
   "nyse-marketwide-circuit-breaker-before-2027": {
@@ -34539,16 +34539,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-jan-lennard-struff-win-the-2026-mens-french-open": {
-    "id": "1087533",
-    "conditionId": "0x4d56cde1e4708a8fdb4096e986a36d0d3d6a7cabcd68e994e7545a1b307164c7",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-tommy-paul-win-the-2026-mens-french-open": {
     "id": "1087534",
     "conditionId": "0x45d819d9d731db09185dcd4d60522c46485a205eea4dcf3443515e91c8e63ac4",
@@ -34632,6 +34622,16 @@
   "will-rafael-jodar-win-the-2026-mens-french-open": {
     "id": "1087553",
     "conditionId": "0x3e166e94d38707543b2e951c325eb9b917468b99e75294d11cd853587364d934",
+    "endDate": "2026-06-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-mens-french-open-winner",
+    "negRisk": true
+  },
+  "will-martin-landaluce-win-the-2026-mens-french-open": {
+    "id": "1087554",
+    "conditionId": "0x64c45f4a2fff5e9e9810631beef71fd70597830dbcb2e5301805c9064915c2a9",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -34759,16 +34759,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-emma-navarro-win-the-2026-womens-french-open": {
-    "id": "1087777",
-    "conditionId": "0x609418df65427152aa99dd20420622c42f7ba9a2df58a111d5cfdfbb98c1e0f1",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-diana-shnaider-win-the-2026-womens-french-open": {
     "id": "1087778",
     "conditionId": "0xf0ab6a841f34737f9ba144a596720d20bc56bc5c91bce018dc7526c43d7679f5",
@@ -34822,16 +34812,6 @@
   "will-yulia-putintseva-win-the-2026-womens-french-open": {
     "id": "1087794",
     "conditionId": "0x3784d4428d9b4ae3b83a9d89c07c2ca6d476a720f5018be3a8e2768f80b0718d",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-donna-veki-win-the-2026-womens-french-open": {
-    "id": "1087797",
-    "conditionId": "0xef800d5dd90a330704746be34bb167a09ee670b1b39f077a51759b625496ab02",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -52313,16 +52293,6 @@
     "eventSlug": "openai-1t-valuation-in-2026",
     "negRisk": false
   },
-  "anthropic-500b-valuation-in-2026": {
-    "id": "1294391",
-    "conditionId": "0x99d6a3a8470ef464a5be2afe6872b97a22f5935f60c0303e0365d6a7e96e5605",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anthropic-500b-valuation-in-2026",
-    "negRisk": false
-  },
   "will-canada-have-the-highest-unemployment-rate-since-2016-this-year": {
     "id": "1294672",
     "conditionId": "0x132a28d477e53645301b847d71fd1ab73655bf54c72b0d759fdd351480781d6c",
@@ -52805,16 +52775,6 @@
   "will-the-south-african-reserve-bank-make-no-change-to-the-repo-rate-after-the-may-meeting": {
     "id": "1301524",
     "conditionId": "0xaefa1b3071d946da2c02fde8ad680e5f85e3bf02c84348ff45505ed3a6e2f83c",
-    "endDate": "2026-05-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-african-reserve-bank-decision-in-may",
-    "negRisk": true
-  },
-  "will-the-south-african-reserve-bank-increase-the-repo-rate-after-the-may-meeting": {
-    "id": "1301525",
-    "conditionId": "0xd37d3800cab12ece646729232fc27c6b94d5aca8dc219c47f18b0eb2cdf9b7a9",
     "endDate": "2026-05-28",
     "closed": false,
     "active": true,
@@ -81767,26 +81727,6 @@
     "eventSlug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
     "negRisk": false
   },
-  "internet-access-restored-in-iran-by-may-31-2026": {
-    "id": "1831356",
-    "conditionId": "0x5b4be999538e689a0f20055c215e5df11df4da7a6ca7a4bcd8b913ae922d6efb",
-    "endDate": "2026-03-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "internet-access-restored-in-iran-by",
-    "negRisk": false
-  },
-  "internet-access-restored-in-iran-by-june-30-2026": {
-    "id": "1831357",
-    "conditionId": "0xb582fa41361aa4c9faea522e821cf0ec09783594fca42ef6c8aceb14445eafec",
-    "endDate": "2026-03-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "internet-access-restored-in-iran-by",
-    "negRisk": false
-  },
   "will-any-ai-model-reach-1530-math-arena-score-by-june-30-2026": {
     "id": "1831516",
     "conditionId": "0x1908eac5ccb58e70cd26384d230bade8ba3543d05d97a0e6abdc0218a40f8d90",
@@ -88984,6 +88924,16 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
+  "will-martin-landaluce-win-the-2026-roland-garros-mens-singles": {
+    "id": "1920473",
+    "conditionId": "0xaffb42641df45609bf966e08625b30af5a59a77c8dfeaacf6fc75d03598dab08",
+    "endDate": "2026-06-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-mens-singles-roland-garros-winner",
+    "negRisk": true
+  },
   "will-aryna-sabalenka-win-the-2026-roland-garros-womens-singles": {
     "id": "1920805",
     "conditionId": "0xa88a6caf5bd983b56ba477458a481104f2c11da592e49f4ae9ffe480797ab867",
@@ -89107,16 +89057,6 @@
   "will-diana-shnaider-win-the-2026-roland-garros-womens-singles": {
     "id": "1920823",
     "conditionId": "0x478659297fc6b14c30ff751a4fbc083c1615b1113dacedb297c292f92c494898",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-elise-mertens-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920824",
-    "conditionId": "0x3753a61d56f8e12dcfb77a69767e62d8d8f96e818575d714611b64e7bcb6e85d",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -95274,16 +95214,6 @@
     "eventSlug": "eric-swalwell-arrested-by-may-31",
     "negRisk": false
   },
-  "anthropic-valued-higher-than-openai-in-2026": {
-    "id": "1985079",
-    "conditionId": "0xcd4d54b18c84e172b7d066c12bc0460e066814ce12a7402d01f7df73960efece",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anthropic-valued-higher-than-openai-in-2026",
-    "negRisk": false
-  },
   "united-x-american-airlines-merger-announced-in-2026": {
     "id": "1985178",
     "conditionId": "0xaf62da76bbaea9f83a75e4f96ee8df0e8956634f17f3190f3f1e32a9eb81d714",
@@ -97002,26 +96932,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-tom-2026-05-12-more-markets",
-    "negRisk": false
-  },
-  "will-anthropic-have-closed-its-next-funding-round-by-june-30-2026": {
-    "id": "1999089",
-    "conditionId": "0xa0914c9926194563c22b768a6eaa08a2e8e6e5d9ca3e487a9689b2ffc58dc754",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anthropic-next-funding-round-closed-by",
-    "negRisk": false
-  },
-  "will-anthropic-have-closed-its-next-funding-round-by-december-31-2026-561": {
-    "id": "1999091",
-    "conditionId": "0x06aa268f43e4784baa22bdafb461409bd0dd3fd106e50bf41b3213b0e5218748",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anthropic-next-funding-round-closed-by",
     "negRisk": false
   },
   "will-the-workers-party-nominate-lula-for-president-of-brazil-by-august-15": {
@@ -119628,6 +119538,96 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-tampa-bay-rays-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099777",
+    "conditionId": "0xe9f1c36da332f14de58766471f4ffcad2a37693b1d0f1a36f6adb2fe35ab79e7",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-texas-rangers-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099778",
+    "conditionId": "0x56f9d35e68ffb3cd16ab98f2c4900619f8cda27ba0fc0457e9ac20801064e858",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-toronto-blue-jays-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099779",
+    "conditionId": "0x45c2a4d69beb1ac99708051a5df4781f8924a3ba26b3869301c71f97d1f61b0b",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "will-the-washington-nationals-win-100-or-more-games-during-the-2026-mlb-regular-season": {
+    "id": "2099780",
+    "conditionId": "0x3560714f60b2ee32ae1c9dc1fcd8c0606b2612a404f6319d9775d35351d28047",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-win-100-games",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-ik": {
+    "id": "2099781",
+    "conditionId": "0x31d05be8442c93ce84db2e5d62953de4d0cca233604ebc45bf0d4fb93497d1d7",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25",
+    "negRisk": true
+  },
+  "nor-ik-vif-2026-05-25-draw": {
+    "id": "2099782",
+    "conditionId": "0x4ecb35ac39b770dd8b12a4568e173293e3a9c6608b4f1237fea17a34e6c76197",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25",
+    "negRisk": true
+  },
+  "us-fertility-rate-up-in-q1-2026": {
+    "id": "2099906",
+    "conditionId": "0x9903e1a6d90a15c1eb83271ad3afefa7cbd798cf7493881676eee2bbaa516dd6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-fertility-rate-up-in-q1-2026",
+    "negRisk": false
+  },
+  "gpt-5pt6-released-by-june-30-2026-522-692-467": {
+    "id": "2100069",
+    "conditionId": "0xe69b388ee2691abc5a2b4d66d9212053782c88f30e26f3b791111e562d327224",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "gpt-5pt6-released-by",
+    "negRisk": false
+  },
+  "gpt-5pt6-released-by-july-31-2026-454-326-913": {
+    "id": "2100070",
+    "conditionId": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "gpt-5pt6-released-by",
     "negRisk": false
   }
 }
