@@ -16679,16 +16679,6 @@
     "eventSlug": "what-price-will-hyperliquid-hit-before-2027",
     "negRisk": false
   },
-  "will-hyperliquid-reach-66-by-december-31-2026": {
-    "id": "701729",
-    "conditionId": "0xda041e02c4a9a6d935a85c0c81663a20561859e4de0d3f53a29864b4eb577e27",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hyperliquid-hit-before-2027",
-    "negRisk": false
-  },
   "will-hyperliquid-dip-to-20-by-december-31-2026": {
     "id": "701741",
     "conditionId": "0xa4cab194f7487ecbe058aa8278a45a51487afe828af6c3c2eed5b096639c23e9",
@@ -99253,26 +99243,6 @@
     "eventSlug": "bol1-pot-abb-2026-05-14-more-markets",
     "negRisk": false
   },
-  "dota2-aur1-sar1-2026-04-18-game2-kill-over-30pt5": {
-    "id": "2013957",
-    "conditionId": "0xb6cb2e63101f3f4a251440abcb8fd413c8ff0cc90619de13d09da0c814705a63",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-aur1-sar1-2026-04-18",
-    "negRisk": false
-  },
-  "dota2-pari-mouz-2026-04-18-game1-kill-over-40pt5": {
-    "id": "2014474",
-    "conditionId": "0x20468b0dacc87d650b6dc91d420eafb4d222200c685ecc2daeee73aafa3256df",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-pari-mouz-2026-04-18",
-    "negRisk": false
-  },
   "cricpsl-lah-hyd-2026-04-25-toss-match-double-lah": {
     "id": "2015259",
     "conditionId": "0xbf7d34a8f75c2545177e2aeb30ad0faf9ac1cce0fb07204d1ce90e336ed7d798",
@@ -99493,16 +99463,6 @@
     "eventSlug": "cs2-hec-ep-2026-04-19",
     "negRisk": false
   },
-  "dota2-ts8-flc-2026-04-19-game1-kill-over-56pt5": {
-    "id": "2022916",
-    "conditionId": "0x873e4d22dce3454241510cc604d3d0c56f7215fcc76174d435d6a51a3e62fec6",
-    "endDate": "2026-04-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-ts8-flc-2026-04-19",
-    "negRisk": false
-  },
   "cricpsl-raw-pes-2026-04-26-toss-match-double-pes": {
     "id": "2024096",
     "conditionId": "0x09004e195661bc71963b706addd3ceea7afb3da927239afcbd945bdd6edbbb41",
@@ -99532,16 +99492,6 @@
     "acceptingOrders": true,
     "eventSlug": "cricpsl-raw-pes-2026-04-26-most-sixes",
     "negRisk": true
-  },
-  "dota2-pari-heroic-2026-04-19-game1-kill-over-40pt5": {
-    "id": "2024261",
-    "conditionId": "0xc9649de28e6b5e0739e875a8e3422e36e0fd4785d467d3403643ca20ee6743aa",
-    "endDate": "2026-04-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-pari-heroic-2026-04-19",
-    "negRisk": false
   },
   "bol1-oru-alw-2026-05-16-oru": {
     "id": "2025055",
@@ -113470,16 +113420,6 @@
     "eventSlug": "what-price-will-msft-hit-in-may-2026",
     "negRisk": false
   },
-  "will-msft-reach-435-in-may-2026": {
-    "id": "2073895",
-    "conditionId": "0x0e131b5a4b67a53575c7ac9cbfda9bf2556a810ea4121118eb2c5158917c5115",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-msft-dip-to-390-in-may-2026": {
     "id": "2073901",
     "conditionId": "0x9e540f819568e50d41ce608b391c5369f304d037b46be5d49bc678856920eecf",
@@ -114170,26 +114110,6 @@
     "eventSlug": "what-price-will-pltr-hit-in-may-2026",
     "negRisk": false
   },
-  "will-pltr-reach-156-in-may-2026": {
-    "id": "2074090",
-    "conditionId": "0x0f8af2d932c0b34780b7749fa2ceaba819cdbbabbb845fc11c4b794096d3478d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-reach-150-in-may-2026": {
-    "id": "2074091",
-    "conditionId": "0x6f8135e74fc6da95fc8ed2407c3129f18918e0859b216f3c7babb421c1a3131a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-pltr-dip-to-126-in-may-2026": {
     "id": "2074095",
     "conditionId": "0x2ec4547d95ac1aa7a9ef1a75b53422f627cf072ac39413f0d5458182e04f4d2a",
@@ -114593,26 +114513,6 @@
   "will-hood-reach-95-in-may-2026": {
     "id": "2074160",
     "conditionId": "0xf7737945d140c8113c188e4abaf1b75249afccebc594bb90196fc32a95f69b67",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-90-in-may-2026": {
-    "id": "2074161",
-    "conditionId": "0xbc7d6755993254ddae096b6ffd382aa74d989677f6634051bc821a38d49a96af",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-85-in-may-2026": {
-    "id": "2074162",
-    "conditionId": "0x272d6493c52eba0ace2a9227aecc12ec1652865551d247fe19ef53f2ee440420",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -119628,6 +119528,106 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-spread-away-2pt5": {
+    "id": "2104814",
+    "conditionId": "0xeacf84860df096444a9f806db0e80e81a90165176cb68d00308b38eb1bf24f62",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-total-1pt5": {
+    "id": "2104817",
+    "conditionId": "0x6466bdc658757ff51c81a330e89e710255e3cb3eaaf8b1240eebd1b2f915e428",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-total-2pt5": {
+    "id": "2104820",
+    "conditionId": "0xaeffbad623efc0676eaad028f7b2ac38b795309423ba2a960919d2105bf4d0c3",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-total-3pt5": {
+    "id": "2104824",
+    "conditionId": "0xeea31ea5e4adc295e054b108313e6f86b40829b3fa0a15921dd53cdf06aa4ba9",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-total-4pt5": {
+    "id": "2104827",
+    "conditionId": "0xa3a1df41bea54c4b32eb2521e968fa53c22f1f20a5ca8753272438c9aeeb3df5",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-btts": {
+    "id": "2104830",
+    "conditionId": "0x85d3ecc043756274c83017056fb29bb1d0aec685466f228913592a7e90a1aa9e",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "cs2-tlr-vtb-2026-04-30-game1-odd-even-total-kills": {
+    "id": "2105461",
+    "conditionId": "0xb4a7dedd5e36e0c709c3e0788ecfa2862f974657da3f6345db565f1f970354a7",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tlr-vtb-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-tlr-vtb-2026-04-30-game1-odd-even-total-rounds": {
+    "id": "2105463",
+    "conditionId": "0x6af180afcfd724dfd9dee02f7a881bdd72631b298e2e87f91dc205bce67da7d1",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tlr-vtb-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-tlr-vtb-2026-04-30-game2-odd-even-total-kills": {
+    "id": "2105464",
+    "conditionId": "0x77cd56506baf6f7c89c8894f4fd64019f68a19258e2550dfefc5af6cff74d63d",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tlr-vtb-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-tlr-vtb-2026-04-30-game2-odd-even-total-rounds": {
+    "id": "2105465",
+    "conditionId": "0xcf63df3dd9074024cd5a4ec74bca7ca93d8ce67793f54e7d8ae94ca938ee3f4c",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tlr-vtb-2026-04-30",
     "negRisk": false
   }
 }
