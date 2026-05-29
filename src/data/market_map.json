@@ -9459,16 +9459,6 @@
     "eventSlug": "nyse-marketwide-circuit-breaker-before-2027",
     "negRisk": false
   },
-  "canada-recession-before-2027": {
-    "id": "670098",
-    "conditionId": "0x01677ae80095732d69ef484b859460b69d21714dd370b9e4f377469c35fac05d",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "canada-recession-before-2027",
-    "negRisk": false
-  },
   "openai-receives-federal-backstop-for-infrastructure-before-july": {
     "id": "670370",
     "conditionId": "0x388459f1cfd0d310154e13f16f49d31fd301e5e3502072c8b09d3a0697b2823f",
@@ -90614,16 +90604,6 @@
     "eventSlug": "bol1-nap-aur-2026-05-08-more-markets",
     "negRisk": false
   },
-  "dota2-vp-z10-2026-04-12-game1-kill-over-41pt5": {
-    "id": "1959075",
-    "conditionId": "0x8e786424957408e673f20c30730941c80c75ffe8e65f43cce87f04a1e99cf53a",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-vp-z10-2026-04-12",
-    "negRisk": false
-  },
   "will-magomed-ankalaev-fight-carlos-ulberg-next": {
     "id": "1959424",
     "conditionId": "0x267de1156f571d8da9c4caada261a17ca7a44a8c6f518c1f6e9a395b17c577d4",
@@ -119628,6 +119608,26 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-tlr-vtb-2026-04-30",
+    "negRisk": false
+  },
+  "uae-x-saudi-arabia-sever-diplomatic-relations-in-2026": {
+    "id": "2105920",
+    "conditionId": "0x8e9e11eabbad794acde6b941f89b7f76cf9a02b88da4d606cc9dcdb998374035",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uae-x-saudi-arabia-sever-diplomatic-relations-in-2026",
+    "negRisk": false
+  },
+  "uae-x-qatar-sever-diplomatic-relations-in-2026": {
+    "id": "2105921",
+    "conditionId": "0x2b72841d7ddf283c9364cad78288ecc0c4a57822cc742865e7927960d938d6b0",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uae-x-qatar-sever-diplomatic-relations-in-2026",
     "negRisk": false
   }
 }
