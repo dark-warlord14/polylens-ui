@@ -73570,16 +73570,6 @@
     "eventSlug": "bank-of-brazil-decision-in-june",
     "negRisk": true
   },
-  "elon-musk-of-tweets-may-2026-760-779": {
-    "id": "1698902",
-    "conditionId": "0xf2b24f5d11c1e419de1405d295b6d383eef9d432d6609c9e69113aadde709b37",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
   "elon-musk-of-tweets-may-2026-780-799": {
     "id": "1698905",
     "conditionId": "0x204594f80ea51049f285bf770c43864b1f966d12c308cefa4d26c2a8f9f64196",
@@ -81157,49 +81147,9 @@
     "eventSlug": "2026-soccer-copa-libertadores-winner",
     "negRisk": true
   },
-  "2026-soccer-copa-libertadores-winner-lans": {
-    "id": "1830622",
-    "conditionId": "0xaeb591922273e36d6779a74852a64d39743cac0a3ee4ecb17bc6a41091decc29",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-junior": {
-    "id": "1830623",
-    "conditionId": "0xa045c3975e2a47c6e9dbc278fe311b7a608332b58a19f6290555c97c79f60805",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-universidad-central": {
-    "id": "1830624",
-    "conditionId": "0x4a2d3d974ec9329b28a42ebf244b730f8ee67e2302270be490bf5152a6576e22",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
   "2026-soccer-copa-libertadores-winner-palmeiras": {
     "id": "1830625",
     "conditionId": "0xdb8e90cf84e7d99aba6b997383b52b61a41abf11d55105433284771054878848",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-libertad": {
-    "id": "1830626",
-    "conditionId": "0xd8dd5144ecef71505ccbbd3830a73cdab499044eb9cd27a144f889ae17f2aa4b",
     "endDate": "2026-12-12",
     "closed": false,
     "active": true,
@@ -81220,16 +81170,6 @@
   "2026-soccer-copa-libertadores-winner-platense": {
     "id": "1830628",
     "conditionId": "0x53abb3a500757b6360135005b8de8a4b52cb80a87d27e8378ea2d348c15d4b40",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-boca-juniors": {
-    "id": "1830629",
-    "conditionId": "0xb9154c4712bc63e68c6acd37a207efa07adcd69bd78653d159c079a115f339b9",
     "endDate": "2026-12-12",
     "closed": false,
     "active": true,
@@ -81267,29 +81207,9 @@
     "eventSlug": "2026-soccer-copa-libertadores-winner",
     "negRisk": true
   },
-  "2026-soccer-copa-libertadores-winner-pearol": {
-    "id": "1830633",
-    "conditionId": "0x6cff84860f636a1d11955461bef14d689fcf36121b5359547e280843e7065a94",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
   "2026-soccer-copa-libertadores-winner-estudiantes-lp": {
     "id": "1830634",
     "conditionId": "0x728bcf227110da1e57b770506451ad7dd72adfd7c11fd7bae3c38ff716f1382b",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-santa-fe": {
-    "id": "1830635",
-    "conditionId": "0x94c49b989c59016b466e25ac33dd0a0724150472b0129badcaf85449c79c62ec",
     "endDate": "2026-12-12",
     "closed": false,
     "active": true,
@@ -81307,16 +81227,6 @@
     "eventSlug": "2026-soccer-copa-libertadores-winner",
     "negRisk": true
   },
-  "2026-soccer-copa-libertadores-winner-nacional": {
-    "id": "1830637",
-    "conditionId": "0xf8c7175a4b3cafa2bdcbc6c93d49392eef0faa78b03bdc3f9911019afabe5933",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
   "2026-soccer-copa-libertadores-winner-corinthians": {
     "id": "1830638",
     "conditionId": "0x25ba1fbeffd5927afa520ced0db5a5cdc0b48aa95dd25d3f6f3f3022e81dc600",
@@ -81327,39 +81237,9 @@
     "eventSlug": "2026-soccer-copa-libertadores-winner",
     "negRisk": true
   },
-  "2026-soccer-copa-libertadores-winner-always-ready": {
-    "id": "1830639",
-    "conditionId": "0xd58e7b1f52cad7506fedc813908d83114358e251ba4a0adf0c84f232f8397f39",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-independiente-medelln": {
-    "id": "1830640",
-    "conditionId": "0x1f4ba47e64ada540c7dfaed5351a56ccdc138777fbe4827d476b2f21e0edb8c2",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
   "2026-soccer-copa-libertadores-winner-ldu-quito": {
     "id": "1830641",
     "conditionId": "0x9fc621af2c1b0bd58725a7b4e05b7309c3239d935a9e4683ac46637fc0256e6f",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-copa-libertadores-winner",
-    "negRisk": true
-  },
-  "2026-soccer-copa-libertadores-winner-bolvar": {
-    "id": "1830642",
-    "conditionId": "0xc9cb4c4e079a06fe68392e5ba26e91e7183f8e5556b2ac7482b8c41fd680eca0",
     "endDate": "2026-12-12",
     "closed": false,
     "active": true,
@@ -108814,16 +108694,6 @@
     "eventSlug": "will-trump-publicly-insult-someone-on-312",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-someone-on-may-29-2026": {
-    "id": "2060682",
-    "conditionId": "0xc12f336bfc3dd24975e0a9b0917f772aa804987ded738e1a14cec374906bd395",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-publicly-insult-someone-on-312",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-someone-on-may-30-2026": {
     "id": "2060683",
     "conditionId": "0x9e3d66e0123602a25bf937da55caa0f7092899cdbd5ba08f777b0e8b97670b12",
@@ -119628,6 +119498,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-wlg-tpx-2026-04-28",
+    "negRisk": false
+  },
+  "lol-wlg-tpx-2026-04-28-game2-both-teams-slay-dragon": {
+    "id": "2104727",
+    "conditionId": "0xb71b02e856ed793ed35c5308cc375afcc31a6d50f4b65b74c90c59a3c7f60a6d",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-wlg-tpx-2026-04-28",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-spread-home-1pt5": {
+    "id": "2104770",
+    "conditionId": "0xdb5320b623d41d44ae582506049cfb19e8025914bfc656d20f2452d2057356bb",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-spread-away-1pt5": {
+    "id": "2104775",
+    "conditionId": "0x8589288fad77c8789c5ec8dbab151a3d44fa9050139ca8022c26d5cf55f9bc29",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-spread-home-2pt5": {
+    "id": "2104779",
+    "conditionId": "0xbf7505d8399881f1a4ca5cacdbc7d4044e1bfc2002cae48d907c99f2dbd018d5",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-spread-away-2pt5": {
+    "id": "2104783",
+    "conditionId": "0x4924d3cf070b856dcc229ad552aed2cc90fbb6287ab4c61e5c7ec89fff72cb72",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-total-1pt5": {
+    "id": "2104787",
+    "conditionId": "0xe703e6330d13139148613eeb0145f38d7b4c0d8cbb4c22dafa500d9925fd7838",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-total-2pt5": {
+    "id": "2104791",
+    "conditionId": "0xd773685e4861b27204575c984f3bf0bb3c02b68f6167ddd82775bb9349f694f4",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-total-3pt5": {
+    "id": "2104795",
+    "conditionId": "0x7374727cbb0241b3e00002192be03c47cf9aca5d7840331fbd88e332462e82c7",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-total-4pt5": {
+    "id": "2104799",
+    "conditionId": "0x9c75947ca2da99ca3f51c9e8c5551eb57719ec5d6bf8eb9e546b1b876df89491",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-ori-2026-05-24-btts": {
+    "id": "2104802",
+    "conditionId": "0x3805db72582f4ccdd015d9da65013bfeb479ba2b23a6c6046748a90f7095e19c",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-spread-home-1pt5": {
+    "id": "2104805",
+    "conditionId": "0xb2a32d583b38cc1cb6c17b3b48e29f06c02775e2094c70a847e20e8fececb9ee",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-spread-away-1pt5": {
+    "id": "2104808",
+    "conditionId": "0xb5d9a6c6998192f00560c8ef86edd6be9914db633be5588f7cc6f81c831fe834",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-gua-2026-05-24-spread-home-2pt5": {
+    "id": "2104811",
+    "conditionId": "0x87571674780ec5206f34040d44d7d0808e0c2bdfc4a20944d2353bd0a30d3906",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-more-markets",
     "negRisk": false
   }
 }
