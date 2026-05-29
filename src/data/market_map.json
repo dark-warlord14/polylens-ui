@@ -34459,26 +34459,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-stefanos-tsitsipas-win-the-2026-mens-french-open": {
-    "id": "1087522",
-    "conditionId": "0xd70618488dccc0e829e236a7212014752d9981c44f723295648c7fa63c22a1c3",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-ben-shelton-win-the-2026-mens-french-open": {
-    "id": "1087524",
-    "conditionId": "0x2dba5d6bcf0ad364a444985f07286ebf2dc5bc0ee7989ef1227d14c245e301fb",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-francisco-cerundolo-win-the-2026-mens-french-open": {
     "id": "1087525",
     "conditionId": "0xe81351003837800d495a43eab50a2739701dab05142cccb901fbf4ee339fd4fd",
@@ -34802,16 +34782,6 @@
   "will-anna-kalinskaya-win-the-2026-womens-french-open": {
     "id": "1087798",
     "conditionId": "0xbacfd7a02f0b4a70ab12110fbc47c54296f5597a641547f45998f8dabeccb3eb",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-katie-boulter-win-the-2026-womens-french-open": {
-    "id": "1087802",
-    "conditionId": "0xe2692b8b9cf4f2773fe59434b30f0fcac76ff5a9db8915efca9b4b7e82944be6",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -82417,16 +82387,6 @@
     "eventSlug": "2026-basketball-vtb-united-league-winner",
     "negRisk": true
   },
-  "2026-basketball-vtb-united-league-winner-lokomotiv-kuban": {
-    "id": "1834196",
-    "conditionId": "0x58815e26dd4b429cc8fa3abbfc02ac1a678160949fe5e6a3dcb78577625f165e",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-vtb-united-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-vtb-united-league-winner-unics-kazan": {
     "id": "1834200",
     "conditionId": "0x72d2281eff506ff78feeeb97eef0ebb40457ea91d031ffcd50a91517943ec60f",
@@ -82630,16 +82590,6 @@
   "2026-basketball-aba-league-winner-partizan-mozzart-bet": {
     "id": "1834262",
     "conditionId": "0x4cfed7bbc09bb7e6a8b2d5f3cb4e9a47f6b238196d14cca1fb51108e416f8799",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-aba-league-winner",
-    "negRisk": true
-  },
-  "2026-basketball-aba-league-winner-budunost-voli": {
-    "id": "1834268",
-    "conditionId": "0x04ccc838ec3b7afad77130d9b95f50ce10873dc1017d75f02ef986f09558bb0b",
     "endDate": "2026-12-20",
     "closed": false,
     "active": true,
@@ -87575,16 +87525,6 @@
     "eventSlug": "lol-nacl-2026-spring-winner",
     "negRisk": true
   },
-  "will-nrg-win-nacl-2026-spring": {
-    "id": "1901245",
-    "conditionId": "0xfb173babb840921f43a122e2809e388e65fa75929668d31c0719afcdf475dde3",
-    "endDate": "2026-06-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-nacl-2026-spring-winner",
-    "negRisk": true
-  },
   "will-winthrop-university-win-nacl-2026-spring": {
     "id": "1901247",
     "conditionId": "0x4cc0fe70113f670ad72884b0ee8b5139a0748b053b648a6c08b65448517f152f",
@@ -88767,16 +88707,6 @@
   "will-felix-auger-aliassime-win-the-2026-roland-garros-mens-singles": {
     "id": "1920459",
     "conditionId": "0x197b5701a4dda923783016fff3302e7cdcb9f3895bbb17f3b75c83414ace97c6",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-ben-shelton-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920460",
-    "conditionId": "0xf456fa929d0fc9b1eaf97f2793f5700d1be7709904b5109171e9fdd65def2ae2",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -115740,16 +115670,6 @@
     "eventSlug": "cs2-lph-33-2026-04-26",
     "negRisk": false
   },
-  "bkbsl-fen-bes-2026-05-02": {
-    "id": "2083977",
-    "conditionId": "0x471d3b164127cbd731b490cbc84247096238467f31c6a5a017e50b6214116515",
-    "endDate": "2026-05-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkbsl-fen-bes-2026-05-02",
-    "negRisk": false
-  },
   "cs2-sinqu-tmvg-2026-04-26-game1-odd-even-total-kills": {
     "id": "2084432",
     "conditionId": "0xe155dc37743825b4bc18b35048fba4b2fdb427efa3f416853b90813b18a13363",
@@ -119628,6 +119548,86 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-imperi-aab-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-mes1-sss1-2026-04-28-game1-odd-even-total-kills": {
+    "id": "2104694",
+    "conditionId": "0x3ee50ad891b55db78bb6ade1d12aeae71bf3b15b18d81e1f90597bac318e8b19",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mes1-sss1-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-mes1-sss1-2026-04-28-game1-odd-even-total-rounds": {
+    "id": "2104696",
+    "conditionId": "0x2cfef4c0a3508bfe3bd00778ac77348bcbf46e9e2801e579a9fef40268f0b03d",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mes1-sss1-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-mes1-sss1-2026-04-28-game2-odd-even-total-kills": {
+    "id": "2104698",
+    "conditionId": "0xead835fe98c52d0d3bcb8bf183d37b8e54032717de58e6718cc23ef41382595d",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mes1-sss1-2026-04-28",
+    "negRisk": false
+  },
+  "cs2-mes1-sss1-2026-04-28-game3-odd-even-total-kills": {
+    "id": "2104702",
+    "conditionId": "0xd52ab76635c26d37ff3b1e6866912abfa21bec50b29dfa905f9fa24b05828ffb",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mes1-sss1-2026-04-28",
+    "negRisk": false
+  },
+  "lol-goal-tp2-2026-04-28-game2-any-player-quadra-kill": {
+    "id": "2104703",
+    "conditionId": "0xa08b6abbb13bf147dad804605cf170d99a196303b881aa0be2bde98b2b95e7fd",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-goal-tp2-2026-04-28",
+    "negRisk": false
+  },
+  "lol-goal-tp2-2026-04-28-game2-any-player-penta-kill": {
+    "id": "2104705",
+    "conditionId": "0xccead70a251ab09b41f624a601687b52bf2b8f60b523801ec421294f21a63da2",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-goal-tp2-2026-04-28",
+    "negRisk": false
+  },
+  "lol-wlg-tpx-2026-04-28-game1-both-teams-slay-dragon": {
+    "id": "2104715",
+    "conditionId": "0x6b6a2337bfd0bf744aff6f737bb12385346b12738e5bdd4242b603a2cabb83d6",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-wlg-tpx-2026-04-28",
+    "negRisk": false
+  },
+  "lol-wlg-tpx-2026-04-28-game2-both-teams-slay-baron": {
+    "id": "2104725",
+    "conditionId": "0x700dcef86b34e9440ee5c16fdb6c5a6ce863fd9a07a3e428d1b30f0259f60531",
+    "endDate": "2026-04-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-wlg-tpx-2026-04-28",
     "negRisk": false
   }
 }
