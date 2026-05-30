@@ -34519,16 +34519,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-alex-michelsen-win-the-2026-mens-french-open": {
-    "id": "1087544",
-    "conditionId": "0xe83a29b010b0c4d583dc9f7b6a852537ba18a53096536c96378d778ddc0ae1d5",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-felix-auger-aliassime-win-the-2026-mens-french-open": {
     "id": "1087545",
     "conditionId": "0x90d0f0f57e38136c7ae56743e682c1eb29aa4e9f17faa4b4fdbcf94d2d6ea787",
@@ -34662,16 +34652,6 @@
   "will-elina-svitolina-win-the-2026-womens-french-open": {
     "id": "1087768",
     "conditionId": "0xa3879b3a8991b8335f3da24e98a15b90e72eb2e68b9f506fca224dabf45d3af6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-karolna-muchov-win-the-2026-womens-french-open": {
-    "id": "1087769",
-    "conditionId": "0xa7ebf71bded5eba99e7fa49e81a271063466c49fb1f0b02a2b5f5987916d9558",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -88744,16 +88724,6 @@
     "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-karolina-muchova-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920815",
-    "conditionId": "0x96590ead56eea1243257820c8c5b0c25dc48e82418c9a4840feacd38db00f07d",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-belinda-bencic-win-the-2026-roland-garros-womens-singles": {
     "id": "1920816",
     "conditionId": "0x52f25c3c71ceffa306d89b7506a7224b1d5d8814e95ddf650fa2eb5c2c995a18",
@@ -107164,16 +107134,6 @@
     "eventSlug": "will-russia-enter-novooleksandrivka-by",
     "negRisk": false
   },
-  "will-russia-capture-all-of-hryshyne-by-may-31": {
-    "id": "2053635",
-    "conditionId": "0x45c18bb127c2727a967eb657248b98bc530389e38348fff050e2a4ab60e53392",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-hryshyne-by-april-30",
-    "negRisk": false
-  },
   "will-russia-enter-dobropillia-by-may-31": {
     "id": "2053675",
     "conditionId": "0x3d75d9d770daa68c07e758c47f67eb03f54d6172c42355628568e8ff02b26384",
@@ -108244,26 +108204,6 @@
     "eventSlug": "ben-pasternak-in-jail",
     "negRisk": false
   },
-  "will-catanzaro-achieve-promotion-from-serie-b-to-serie-a-for-the-2026-27-season": {
-    "id": "2056514",
-    "conditionId": "0xe8a26743c0b6508035e3b258d0c69852783641525ca4f26c15efa169a00cde90",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-b-team-promoted-to-serie-a",
-    "negRisk": false
-  },
-  "will-monza-achieve-promotion-from-serie-b-to-serie-a-for-the-2026-27-season": {
-    "id": "2056521",
-    "conditionId": "0x67b695d74cb7c82ec7c1e5123194bc584faa8fe0b5f2dbc9f27f10f0739038be",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "serie-b-team-promoted-to-serie-a",
-    "negRisk": false
-  },
   "cs2-lph-drama-2026-04-23-game1-odd-even-total-kills": {
     "id": "2057649",
     "conditionId": "0x73a85726e33a28dbf2d718755636ef6a9e54d1a242dbb6674741f533554afdf1",
@@ -109043,16 +108983,6 @@
     "acceptingOrders": true,
     "eventSlug": "sejong-mayoral-election-winner",
     "negRisk": true
-  },
-  "will-as-saint-etienne-achieve-promotion-from-ligue-2-to-ligue-1-for-the-2026-27-season": {
-    "id": "2062823",
-    "conditionId": "0x686dcd67a6359196a223b767a669201fff7f4df3c8ed33ba2d62feb719378618",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ligue-2-team-promoted-to-ligue-1",
-    "negRisk": false
   },
   "will-kim-boo-kyum-win-the-2026-daegu-mayoral-election": {
     "id": "2062827",
@@ -113380,16 +113310,6 @@
     "eventSlug": "what-price-will-msft-hit-in-may-2026",
     "negRisk": false
   },
-  "will-msft-reach-465-in-may-2026": {
-    "id": "2073890",
-    "conditionId": "0x6c5d76a313f3b2095bf8ce773a0a57b33fd8b5f16b97135913c245e997a9cb1e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-msft-reach-450-in-may-2026": {
     "id": "2073892",
     "conditionId": "0xb1d7ede4557e92bf49cec9c4f34c7a209eb08966456fbde6e82b6f58c20f6c78",
@@ -113403,16 +113323,6 @@
   "will-msft-dip-to-390-in-may-2026": {
     "id": "2073901",
     "conditionId": "0x9e540f819568e50d41ce608b391c5369f304d037b46be5d49bc678856920eecf",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-dip-to-375-in-may-2026": {
-    "id": "2073905",
-    "conditionId": "0xb65c9342f8446039ce6f4a66263bb968cd63aac5aec507dc75b59ae94ed785b9",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -113440,16 +113350,6 @@
     "eventSlug": "what-price-will-msft-hit-in-may-2026",
     "negRisk": false
   },
-  "will-msft-dip-to-330-in-may-2026": {
-    "id": "2073911",
-    "conditionId": "0x1a36cf8c66d47d0a2edc1987fa9327dd876901e86e8363e3862e5355a8d0742a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-amzn-reach-320-in-may-2026": {
     "id": "2073927",
     "conditionId": "0xab48230f40d42f02192148c872ed477f1e30553bb287780f6301bfb55a52f14e",
@@ -113463,16 +113363,6 @@
   "will-amzn-reach-312-in-may-2026": {
     "id": "2073930",
     "conditionId": "0x5f7b704bb293f5bab820f0f7426e8cc5d4f6a5d9d7305a333885e0439537b68b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-reach-304-in-may-2026": {
-    "id": "2073934",
-    "conditionId": "0xa966f6045c1e38f42ae5041dfaee61f90d50ccc84ba0cbd7152c138c72978589",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -113500,16 +113390,6 @@
     "eventSlug": "what-price-will-amzn-hit-in-may-2026",
     "negRisk": false
   },
-  "will-amzn-reach-280-in-may-2026": {
-    "id": "2073943",
-    "conditionId": "0x552a1017b5c8f574da1b269d0eb265701ce80becdb07bd0285b7370cc9f209c3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-amzn-dip-to-248-in-may-2026": {
     "id": "2073953",
     "conditionId": "0x7d5f6a9dce5016f7940c7faf0397427cf7984de5fc74a862e7bc9f509699de22",
@@ -113518,1156 +113398,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-dip-to-240-in-may-2026": {
-    "id": "2073954",
-    "conditionId": "0x7f9c0c2e922366b19b55f9032e548a27c84caca90476cdf6aa8357c7e41c6f91",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-dip-to-232-in-may-2026": {
-    "id": "2073957",
-    "conditionId": "0xaefa292e1a2334666762e5d175749331656fc59931767802ef9b7470a93b50cf",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-dip-to-224-in-may-2026": {
-    "id": "2073958",
-    "conditionId": "0x65908a3343f5dae79f5d4503eaa598e446a095a05e7b3fed31e77e71192867fd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-dip-to-216-in-may-2026": {
-    "id": "2073959",
-    "conditionId": "0x6045d6fe104cf7526be2d6bb3ed05617c76713eb19f0ceb713e4402e17750cb5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-high-410-in-may": {
-    "id": "2073979",
-    "conditionId": "0x9def76550076528b77ee731423b5ec7f11fa631ffaf8181841ab51320ecac53b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-340-in-may": {
-    "id": "2073989",
-    "conditionId": "0x430254f6e3a05bd2ca19c304b6d6e4364a0a70ba97e34685fc5d2f6be65d503c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-330-in-may": {
-    "id": "2073990",
-    "conditionId": "0x72c9b7e04d5c443ba92fcf92e434700417e23f30d28b6368e7d8e598c9a0216a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-320-in-may": {
-    "id": "2073991",
-    "conditionId": "0xc0cc4cff1d70dc3369ea838ed3aae1cf1e80c1d4bad6545e53755b7ec89652dd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-310-in-may": {
-    "id": "2073992",
-    "conditionId": "0x4c8c062512be9d7636be72d0f9815ac903004fe557c24e61c6e0744a2f94db7b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-300-in-may": {
-    "id": "2073993",
-    "conditionId": "0xb5fc34ccaf712e6ada723228b50e302447af878c55ebc299d3af1cffcb682610",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-290-in-may": {
-    "id": "2073994",
-    "conditionId": "0xf925af92212e687c2fe8d868c7c627802caaafebc8f2ba033fd3415e30825b67",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-alphabet-inc-googl-hit-low-280-in-may": {
-    "id": "2073996",
-    "conditionId": "0x634e2a5cf68c9453a6ff46b3b0a1afa8f780279867dd428a44d71480ad5064ef",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-googl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-800-in-may-2026": {
-    "id": "2074008",
-    "conditionId": "0x8ac6de8801a114c29ebc247b136f4be001a9e33994fb72df2d4cf7e4ebf00736",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-780-in-may-2026": {
-    "id": "2074009",
-    "conditionId": "0xd0ec0c52ca8c89be10880ae60b7d3cb4e6db771a806b2e4458916d65242fdb85",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-760-in-may-2026": {
-    "id": "2074011",
-    "conditionId": "0xba02477c990119b384263110fb6c4dfdcc22e8a4d3be698dea31504a0497f8ae",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-740-in-may-2026": {
-    "id": "2074014",
-    "conditionId": "0xae0809754db41543307607e200f6f83ef928c94deaf917ee183795fbc1689634",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-720-in-may-2026": {
-    "id": "2074016",
-    "conditionId": "0x56407d5eb1b46f754c2770260e4733715a977a98f2449b361b062abe581f721d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-700-in-may-2026": {
-    "id": "2074018",
-    "conditionId": "0x9cf79a5995d8bc3664bfd4b8cb7408ed54059e4fcf5c0c30f8748e408f79cd96",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-reach-680-in-may-2026": {
-    "id": "2074020",
-    "conditionId": "0x532aa68d792300d294501b8c437391ad61d6c417780645891bca0f7fa5933435",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-dip-to-580-in-may-2026-388": {
-    "id": "2074029",
-    "conditionId": "0xa50765187b820d28d720a57e6569e11420a80a9f4dc773002efecdb21a2a0c12",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-dip-to-560-in-may-2026-281-471": {
-    "id": "2074031",
-    "conditionId": "0xe6c23a1a643d53c5b55843c4bccb6bbd8608cc004b31e5a7cda62a317c632d7b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-meta-dip-to-540-in-may-2026-184-589": {
-    "id": "2074032",
-    "conditionId": "0xc64a6bb4de4169698783b9d86ac9d30e5659959f7ba8635ec02eb2c56c8ba5d5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-meta-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-reach-480-in-may-2026-622": {
-    "id": "2074044",
-    "conditionId": "0xe8ce884fa32e568da10d1624933165be830bce50a3625531ccffe09ef20e780d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-reach-465-in-may-2026-613": {
-    "id": "2074045",
-    "conditionId": "0x85b4261ae86d638eb3c91b112d852e3a23e3b2491120bb788a0c26ea2e9e9032",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-375-in-may-2026-942-123": {
-    "id": "2074051",
-    "conditionId": "0x8ce17c1ccd83e0875670da6604d58a4cb7a32a106962739a95327026fa0e1a37",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-360-in-may-2026-554-154": {
-    "id": "2074052",
-    "conditionId": "0xdac370f567734c8449a90d55241b58c78b3d05849b8d9151e1c0a298b214f751",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-345-in-may-2026-497-546": {
-    "id": "2074053",
-    "conditionId": "0x4fb4e71b60e1c24855ea3321aa45774b28c4d84261bcf114779e43ffbb556b0f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-330-in-may-2026-796-132": {
-    "id": "2074054",
-    "conditionId": "0x74d1c90199c7df25270851313600615a1542c84ed119b3b178d7338cf54dc047",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-315-in-may-2026-611-343": {
-    "id": "2074055",
-    "conditionId": "0x865050bea14c40a53de081954b55fe7d1c4bb3089097400a2619f27d39a86d55",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-300-in-may-2026-571-535": {
-    "id": "2074056",
-    "conditionId": "0x473faa5b3622fbf8b96557d01e735442ed44274e9b11b951b2eea18dd47c18b8",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-tsla-dip-to-285-in-may-2026-828-997": {
-    "id": "2074057",
-    "conditionId": "0xe777d06761dd921bc087c014057c445c305f68a5e2e2652a7e26a2b8c85ea7db",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-tsla-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-reach-264-in-may-2026": {
-    "id": "2074058",
-    "conditionId": "0x3b1607fcd9d94b2a58d3dd5e35df995b7be5737c51a02b8c1aad4f0adbe3acb3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-reach-256-in-may-2026": {
-    "id": "2074059",
-    "conditionId": "0x19e35290ff27d3b5ac00fbf6bbfd4e726c33414ab99ae558a6b5ad5aa34042a1",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-reach-248-in-may-2026": {
-    "id": "2074060",
-    "conditionId": "0x76e08e9528154ddbc7397c51733462752088bbbb1cd062f4cb284f2c4a7c20c0",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-reach-240-in-may-2026": {
-    "id": "2074061",
-    "conditionId": "0x61556e531bfb9566b66991d160a7605ae7de38276f0ff05dee4a6abae3d4fd6f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-dip-to-192-in-may-2026": {
-    "id": "2074067",
-    "conditionId": "0x1cc9ecbc8458e31c1d46b1eef10dee917985c96dfc60b90d62ea6604acae7316",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-dip-to-184-in-may-2026": {
-    "id": "2074068",
-    "conditionId": "0xde34cbad736260920729f35fce137732116abcf32cd6c218ced4d6f962c60b23",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-dip-to-176-in-may-2026": {
-    "id": "2074069",
-    "conditionId": "0x47cf428977a08103354f15764aa7c4e3c3fdf5898af0aac74c8b0d65da1eccf3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-dip-to-168-in-may-2026": {
-    "id": "2074070",
-    "conditionId": "0x2db4d326c3bcb63f598798d95ef549d638594dc7ee0652af84c9b5b99461e967",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nvda-dip-to-160-in-may-2026": {
-    "id": "2074071",
-    "conditionId": "0x7cf5291622f4c53fa34940c1aeb5690a33e02701c42c6640ce70bc08e5651e1d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nvda-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-125-in-may-2026": {
-    "id": "2074072",
-    "conditionId": "0xca5ae78b796e9d819405a4c15573e56aa85428f274e480943ac4b57cf1b2493d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-120-in-may-2026": {
-    "id": "2074073",
-    "conditionId": "0x7763fec9b2979a008e5f2f4c1bfa4f27a1188697a73e5bdf1088972d8954c23e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-115-in-may-2026": {
-    "id": "2074074",
-    "conditionId": "0x762d1d8ca87e42dea65df88db52624501e569648f8e8b23db12c73439c35888f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-110-in-may-2026": {
-    "id": "2074075",
-    "conditionId": "0x85f1b3b73cf955591b9de9c544d0b3160aa7f09b497b3f50a58c8fb0ab0f2645",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-105-in-may-2026": {
-    "id": "2074076",
-    "conditionId": "0xcc26bb4ee87b180c90938213d0de776a7b8e60c9ddfab917776ad6fd167962a9",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-100-in-may-2026": {
-    "id": "2074077",
-    "conditionId": "0x23eded5d87ca5d84e4d679a25b3e68ec3e550a43644cf9c3fed680c854af175e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-reach-95-in-may-2026": {
-    "id": "2074078",
-    "conditionId": "0x54cc3536736e8887ad11ea31783d78cf4596e467771df585301c67899a159f5d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-dip-to-85-in-may-2026": {
-    "id": "2074080",
-    "conditionId": "0x1e618113d1bb250265f7ace02b353ccf8f0fa601aec6906420b80d76b770113b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-dip-to-80-in-may-2026": {
-    "id": "2074081",
-    "conditionId": "0x49bbfda70771a0af8c7b18864b51239b333aa7f055ba098b0171cf772ec36963",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-dip-to-75-in-may-2026": {
-    "id": "2074082",
-    "conditionId": "0x526d939e1846b7c77ca8de92938608ffe347d0ddee9bfc7be9d89f3fbc48c150",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-dip-to-70-in-may-2026": {
-    "id": "2074083",
-    "conditionId": "0x88347c04494df43f745547c9c82fbb80bb3f8b7ef475828481cba0d498e9c3f5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-dip-to-65-in-may-2026": {
-    "id": "2074084",
-    "conditionId": "0x733596cbeb43b6075eb6d8b0a53e04d05c995824dd2c597f1114862d7b18171b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-nflx-dip-to-60-in-may-2026": {
-    "id": "2074085",
-    "conditionId": "0x20e44e063a18728ca6af0fa53182fcbef6e844ff8316f5275a85424939a3c9c5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-nflx-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-reach-180-in-may-2026": {
-    "id": "2074086",
-    "conditionId": "0xff5015ae87da2d5a8df0ddf3187f91eaa2c8bc90fb34a4047a7786813974ca8d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-reach-174-in-may-2026": {
-    "id": "2074087",
-    "conditionId": "0x5440f90e6e86dd33a9642fb6eb7adf67feb90a84dc5c1f98126878c0bba36454",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-reach-168-in-may-2026": {
-    "id": "2074088",
-    "conditionId": "0x085aa1a94fc4ad23dd389a7da7a06e28b85b31244af19306e45e6b6b2dfaff39",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-reach-162-in-may-2026": {
-    "id": "2074089",
-    "conditionId": "0xbdd7e5aac4d37226a49079e770d71dd114797930718b2b8774373724a23dcaf5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-dip-to-126-in-may-2026": {
-    "id": "2074095",
-    "conditionId": "0x2ec4547d95ac1aa7a9ef1a75b53422f627cf072ac39413f0d5458182e04f4d2a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-dip-to-120-in-may-2026": {
-    "id": "2074096",
-    "conditionId": "0x499cdf98fb71b25a081b8189acc79f3090d6749c24da9b97b3c51d600f5cb21c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-dip-to-114-in-may-2026": {
-    "id": "2074097",
-    "conditionId": "0xa757bba5c0192cb8db217d1790d38b2e292a2042abcd6173112c4677707e2f88",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-dip-to-108-in-may-2026": {
-    "id": "2074098",
-    "conditionId": "0x8c71a856765d1a09cde0d1abf4d51d50eb7a8803a7f7b26cc61854d1b705bf57",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-pltr-dip-to-102-in-may-2026": {
-    "id": "2074099",
-    "conditionId": "0xc57bc37584014fd33dae09cec68f99b498acc8274bf3904376464b4b9962fbce",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pltr-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-reach-8-50-in-may-2026": {
-    "id": "2074100",
-    "conditionId": "0x763edf005c3c72b0d4017f616d1b548a8597cd06adc0a45b0f01cd76c39cdcda",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-reach-8-00-in-may-2026": {
-    "id": "2074101",
-    "conditionId": "0x5447c7ee3a531177666435a4cfbdf0d6192e237357337c848b9d0561e6b1c52f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-reach-7-50-in-may-2026": {
-    "id": "2074102",
-    "conditionId": "0x6caf6c64bad318d548352a37a03ad812a0e6f7e39402979bd04e991a3de988c8",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-reach-7-00-in-may-2026": {
-    "id": "2074103",
-    "conditionId": "0xbe10e60589dd32b278f9024037de7ab63a2371c5fbe200fed1948cefd1000b6b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-reach-6-50-in-may-2026": {
-    "id": "2074104",
-    "conditionId": "0x77d68a2ef18894d0d5673e0dbef05f1409805a328ddcc5dc09c9e3c96502ef27",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-reach-6-00-in-may-2026": {
-    "id": "2074105",
-    "conditionId": "0x978b226d896c656086aa35329f0dca018d835efdaf599c9e758875562456f8f6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-dip-to-4-00-in-may-2026-215": {
-    "id": "2074109",
-    "conditionId": "0x69d9eeedbc9dd74dd24258b0d731d4adac8b04e7e1dd9b91bf67b8810987368c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-dip-to-3-50-in-may-2026-177": {
-    "id": "2074110",
-    "conditionId": "0xac8184f541793af62a20ec55f9906a6ba8645a9d996094df83906dcbf6598e48",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-dip-to-3-00-in-may-2026-778": {
-    "id": "2074111",
-    "conditionId": "0x0ed54dd2cdd1c1bb074db0bc2cbe3551f3eac3fa61f3ed02caac24ce7286aef4",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-dip-to-2-50-in-may-2026-357": {
-    "id": "2074112",
-    "conditionId": "0x36d69751db536bbd8d8e3d13d00e5e7809113e045565b4912d9c4457eb9c2665",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-open-dip-to-2-00-in-may-2026-631": {
-    "id": "2074113",
-    "conditionId": "0x9862686f2157dd09a59ca84ea046f4341f5b31c8477ba5285c689aaa15dcadaf",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-open-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-76-in-may-2026-186": {
-    "id": "2074121",
-    "conditionId": "0x36d849ee0200190ed9a208d3e35b1c43cd7bfc37871b7f7c96eaca7e5fa94e58",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-72-in-may-2026-912": {
-    "id": "2074122",
-    "conditionId": "0x41fa765479c0a0dfb9d2187b757818f9dbfc329e5ab12ec9d93b3a0159e12c16",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-68-in-may-2026-154": {
-    "id": "2074123",
-    "conditionId": "0x792f930bfd3fa62b12856e2d3fad2e44b3d9d6b5c698e31093ba7f326fc6286e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-64-in-may-2026-822": {
-    "id": "2074124",
-    "conditionId": "0x52ed697648da41802aefb9d71a989a0fe9a3c470ff379f65c162275d993f9aa1",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-60-in-may-2026-822": {
-    "id": "2074125",
-    "conditionId": "0xddf8a27585cf9769f7e1ab9a406053432c561416a4be830eeca2fa11fc8bec98",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-56-in-may-2026-557": {
-    "id": "2074126",
-    "conditionId": "0x2d9485a106414d7119179ddbd7f1ff7abcd6a03e6759a772fe73556db1899b57",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-rklb-dip-to-52-in-may-2026-241": {
-    "id": "2074127",
-    "conditionId": "0x9f992d767604ac3780359f3a87bed15e2161217e2a7be55a881cb9d486dcc862",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-rklb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-reach-168-in-may-2026": {
-    "id": "2074128",
-    "conditionId": "0x3fb64c182b73876bdd3bacb492e2a3c854a1878e7812c8234726e32b1ef40b6f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-reach-164-in-may-2026": {
-    "id": "2074129",
-    "conditionId": "0xa7c3f528af9d163d2b38dbe048f01b97a474ac8d0ea023c37e03d268f100cfa6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-reach-160-in-may-2026": {
-    "id": "2074130",
-    "conditionId": "0x3c3ee395f4a73676d86a40d8933a5df46197d8e47a348d44f574602254bf041b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-reach-156-in-may-2026": {
-    "id": "2074131",
-    "conditionId": "0x5c12556488baeb91ce51cecb7928dad6dacbaafc8591f1a25a0123a6e2dc7720",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-reach-152-in-may-2026": {
-    "id": "2074132",
-    "conditionId": "0x9e79d263df8ed24a16c22dc936726c9192a86616af02bccd1b4009b903b573d3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-reach-148-in-may-2026": {
-    "id": "2074133",
-    "conditionId": "0x938883032dd48072f83123b2cc037ff21a61a72579f2e937bda4b5e815b521e2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-dip-to-128-in-may-2026-452": {
-    "id": "2074138",
-    "conditionId": "0x9bbfaa26217ae3acfd02c8e840a8260cda685de57e95e1be6486978a8608f444",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-dip-to-124-in-may-2026-289": {
-    "id": "2074139",
-    "conditionId": "0x7eb0b2bc6a6fe62151514cb938a40531f46e21674a6b97819bfc76368f0c81e1",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-dip-to-120-in-may-2026-228": {
-    "id": "2074140",
-    "conditionId": "0x7cac75e2c2888938a3526731a09ebc63b4dab60efca4fdf81a4687b62575794f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-abnb-dip-to-116-in-may-2026-686": {
-    "id": "2074141",
-    "conditionId": "0x96f2a22c3d2a643362667822b1cfc2e285c2bad2a87053a5e88ddc08ecfddace",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-abnb-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-coin-reach-230-in-may-2026": {
-    "id": "2074142",
-    "conditionId": "0xaeec126e2ef4dec645ef2721e04e5a1690955afe9a95dbff1269a02cf107ba1b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-coin-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-coin-reach-225-in-may-2026": {
-    "id": "2074143",
-    "conditionId": "0x1aafc90a5133cd9108377f4e02ddbbdd0044742ab259c021e6772025942dc2df",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-coin-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-coin-dip-to-165-in-may-2026": {
-    "id": "2074155",
-    "conditionId": "0xc24d84d05d413f3281df7b789287c378182bf363fba02db7b6878938876b81af",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-coin-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-115-in-may-2026": {
-    "id": "2074156",
-    "conditionId": "0x7a7182a0ee7d6182fe22b13d28d47247118aae8a0b31c4cc0af88368c8f1f5e4",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-110-in-may-2026": {
-    "id": "2074157",
-    "conditionId": "0x3b37069389b1211f723e27ad3739da1b1f1f4455f432b84dad7b1c538f7b7a99",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-105-in-may-2026": {
-    "id": "2074158",
-    "conditionId": "0x9470711902da3f973c13f6408a1e50515dca8266c34feef719eb5f8398ff029a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-100-in-may-2026": {
-    "id": "2074159",
-    "conditionId": "0xa58541b0c5460f6e36fbb764e2a9073bfd2650abbc0371c7553a31e7f81388fa",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-reach-95-in-may-2026": {
-    "id": "2074160",
-    "conditionId": "0xf7737945d140c8113c188e4abaf1b75249afccebc594bb90196fc32a95f69b67",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-dip-to-70-in-may-2026": {
-    "id": "2074165",
-    "conditionId": "0x72843b20808ee4b5c1e07458b86ca15b9760344904a9c6464692bde7125a15f6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-dip-to-65-in-may-2026": {
-    "id": "2074166",
-    "conditionId": "0x5a92ba0697427837046ad0eb822c20db3942b107a05b6d42b0fc4ca74253cb35",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-dip-to-60-in-may-2026": {
-    "id": "2074167",
-    "conditionId": "0xe2665380b9a2facff7576446eb7ba83d9d0399d59a09cc354ca7ae4c1c948fa9",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-dip-to-55-in-may-2026": {
-    "id": "2074168",
-    "conditionId": "0x92c629dec506c3d85b2b31374178046bbe898423090311cab1da8003374f58ab",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-hood-dip-to-50-in-may-2026": {
-    "id": "2074169",
-    "conditionId": "0x7ac8faa4a9a6d3e5f6a47c1aee6d929e45c3ecc15776252daaf0be4b2e35b360",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hood-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-high-780-in-may": {
-    "id": "2074170",
-    "conditionId": "0xc2be196489e59d7e29c031b546265b53a01daa9c1ab723ff040b193d81214e04",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-high-770-in-may": {
-    "id": "2074171",
-    "conditionId": "0x407b881f35126fd4e5136bb5068257173dbc23f020560cec894f6509111276af",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-high-760-in-may": {
-    "id": "2074172",
-    "conditionId": "0x1bc5558aa2f7d16a74827e2f4099c549cd68b8caf3c9077c12e37e3b634017a8",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-710-in-may": {
-    "id": "2074177",
-    "conditionId": "0xc5d3907b0683a70aa04d1f1373b72ba006a10e8a6abe3a22fab319ae53e47c39",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-700-in-may": {
-    "id": "2074178",
-    "conditionId": "0x2a3a051ebcc0579d5b320a610e037eae5faa5eaa9119e8bb3f87b2973f59d852",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-690-in-may": {
-    "id": "2074179",
-    "conditionId": "0xef92c7494549fdc2843259babf31008970e1fbd60d2686260d1251274944c3fd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-680-in-may": {
-    "id": "2074180",
-    "conditionId": "0x1237613bbde80c8a51b0d47081883aae9c18bc08df8eb3d76c3a6e0ba7a35df3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-670-in-may": {
-    "id": "2074181",
-    "conditionId": "0xca072d376fbc7f802d35e2487679ca6ae741121fbc387a9ed01617362a1e07e4",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-660-in-may": {
-    "id": "2074182",
-    "conditionId": "0x7d046ecdaee54da0732bf7fc06bf7215ce2360ae44b283244d6dfda0b6af63a0",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-sp-500-spy-hit-low-650-in-may": {
-    "id": "2074183",
-    "conditionId": "0x3b6e66f8815d3bb2a49e5e259c1df9becbb89e9ce292e7feaa799e66851c0a35",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-spy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ewy-dip-to-152-in-may-2026-585": {
-    "id": "2074191",
-    "conditionId": "0x3c63121366aec059fe2c242739b1336aa580e14af8e228be6c8c2f1b47b95039",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ewy-dip-to-150-in-may-2026-123": {
-    "id": "2074192",
-    "conditionId": "0x33658b1c82c98fd3b3859ade077b530430deb3e2af8809c52b68b8726f2eb6c2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
     "negRisk": false
   },
   "will-ewy-dip-to-148-in-may-2026-567": {
@@ -114723,16 +113453,6 @@
   "will-xauusd-reach-5400-in-may-2026": {
     "id": "2074198",
     "conditionId": "0xd6980bdb520c0fed40d140625d61d347960b176ddf7f122f1daaabae5afd5469",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-reach-5300-in-may-2026": {
-    "id": "2074199",
-    "conditionId": "0xffa8c8f6c22e70389676da3006df43be9dc1efa80fd452008bf457c6d2526e02",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -114830,16 +113550,6 @@
     "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
     "negRisk": false
   },
-  "will-silver-xagusd-hit-low-68-in-may-355-444-413-297-245": {
-    "id": "2074222",
-    "conditionId": "0xefeccfd4c7d7aec05e3abe8dcdd95a6b394171cf877ca7457190d30bd970e505",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-silver-xagusd-hit-low-66-in-may-316-638-336": {
     "id": "2074223",
     "conditionId": "0x1166cb8576d8d3fbb2cf116229248a83210abc0858db0861a7eaac35667d4690",
@@ -114870,56 +113580,6 @@
     "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-reach-150-in-may-2026-196-364": {
-    "id": "2074233",
-    "conditionId": "0x1591b72dc504383d8fa2024e72a585c520b3c673614100d2e167507485e17e38",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-reach-140-in-may-2026-916": {
-    "id": "2074234",
-    "conditionId": "0xd86177011df25e467bdfa1c25481edaf1006e88da184965173e03c8d1cc4f2d6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-reach-130-in-may-2026-733": {
-    "id": "2074235",
-    "conditionId": "0x828aaec481308550a867fff3bd1e497ca1ebb5998fcf1fb40aaa4abfeb85db26",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-reach-120-in-may-2026-592-217": {
-    "id": "2074236",
-    "conditionId": "0x416e3cbe25a60b8210f4e67c056ea2b03f4d511e7b969826d69ef90b753ff214",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-reach-110-in-may-2026-116-472": {
-    "id": "2074237",
-    "conditionId": "0x4bab360a81b57047b48c0dd7c6c1377706129e3e6b9fa3f079cc28d310ec4cec",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876-832": {
     "id": "2074240",
     "conditionId": "0xa96e71186507bf493bd1fb8101418c369c6296a29b49514fdec3f7bfe7197909",
@@ -114940,49 +113600,9 @@
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
-  "will-wti-dip-to-60-in-may-2026-285-377-185-843-116-432-329-688-168-228-339-524-431": {
-    "id": "2074242",
-    "conditionId": "0x8b0a049df1acdbb9df107f826f0b9e49c25de067be4086cdaab2a844dffcc38f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-dip-to-50-in-may-2026-693-355-551-137-237-293-116-333-615-711-387-644-146": {
-    "id": "2074243",
-    "conditionId": "0x37f597ed1feb50f08f7f269185fafed9c16148b9f1a05aea8be0bdd7e32a46d6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-wti-dip-to-40-in-may-2026-286-341-192-757-961-613-811-817-951-378-218-432-375": {
     "id": "2074244",
     "conditionId": "0xd22fc2cfc3f2796842baeba8fcb1ff6a0a469118a2f6599e0c09c591836c04a6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-dip-to-30-in-may-2026-668-273-232-424-957-651-726-496-699-125-667-922-317": {
-    "id": "2074245",
-    "conditionId": "0x23ae45193d9f3719f63e7630ad0767a9a2ef92c9f7c9dd9398d3d359c7632a69",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-dip-to-20-in-may-2026-865-174-115-863-197-663-536-962-219-163-329-638": {
-    "id": "2074246",
-    "conditionId": "0xe49f349793edda9b05753be5256eeaa70bc4ef67f5579fe8ac16493dbc642901",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -118590,16 +117210,6 @@
     "eventSlug": "rotisserie-chicken-act-becomes-law-by-june-30",
     "negRisk": false
   },
-  "will-spacex-have-exactly-10-launches-in-may": {
-    "id": "2099666",
-    "conditionId": "0x2f2b7f2b9fe84ad017847e4384599f0ee6fe5aef037c29a0ebe4bca887e69420",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spacex-launches-in-may",
-    "negRisk": true
-  },
   "will-spacex-have-exactly-11-launches-in-may": {
     "id": "2099667",
     "conditionId": "0xf8fd77bd21e39c2316e501cd98b3c7e7ee0dbcadc1d1bc38abaa58e15541788d",
@@ -119629,5 +118239,1395 @@
     "acceptingOrders": true,
     "eventSlug": "uae-x-qatar-sever-diplomatic-relations-in-2026",
     "negRisk": false
+  },
+  "will-another-country-leave-opec-in-2026": {
+    "id": "2105977",
+    "conditionId": "0x3d4a1a3e0581eb60fdd03cc85b8190a9a1cfbda42f1aa9771e39197f8a21f441",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-another-country-leave-opec-in-2026",
+    "negRisk": false
+  },
+  "will-uae-leave-the-gulf-cooperation-council-in-2026": {
+    "id": "2106193",
+    "conditionId": "0x2d9ffab1a53bf58c0c6395b83d3fbdbeee89af9fc2c048e33c7cdc960086ac1c",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-uae-leave-the-gulf-cooperation-council-in-2026",
+    "negRisk": false
+  },
+  "opec-dissolves-in-2026": {
+    "id": "2106368",
+    "conditionId": "0x2dc42ef0dcc603cb57cadb208f78e0675ebb0e2385f7e626c6b25439c6e14d84",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "opec-dissolves-in-2026",
+    "negRisk": false
+  },
+  "100m-views-on-a-mrbeast-video-in-the-first-week-by-june-30": {
+    "id": "2106369",
+    "conditionId": "0x6761cdf7442a871edc80ce680754a70364e3a90886b00999c3630a48dad954e6",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "100m-views-on-a-mrbeast-video-in-the-first-week-by-june-30",
+    "negRisk": false
+  },
+  "will-nyc-have-less-than-2-inches-of-precipitation-in-may": {
+    "id": "2106425",
+    "conditionId": "0x329c2eb2cd491487fa5ca8f5b6dbd5e125f73a825535ce55ff00a17699aa8d5c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-nyc-in-may",
+    "negRisk": true
+  },
+  "will-nyc-have-between-2-and-3-inches-of-precipitation-in-may": {
+    "id": "2106426",
+    "conditionId": "0x2909f77a47466405424669bb337223cd3e7c62acd2cbbc2c2ca9a977e7f9f51b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-nyc-in-may",
+    "negRisk": true
+  },
+  "will-nyc-have-between-3-and-4-inches-of-precipitation-in-may": {
+    "id": "2106427",
+    "conditionId": "0x404e1d11ae235ba626df25dced429b848d8cb741fa72b9635cd9c84e66973d00",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-nyc-in-may",
+    "negRisk": true
+  },
+  "will-nyc-have-between-4-and-5-inches-of-precipitation-in-may": {
+    "id": "2106428",
+    "conditionId": "0x35f91847f18be8874898e35467b58067ee753ab072665e828a2df190699ad9d4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-nyc-in-may",
+    "negRisk": true
+  },
+  "will-nyc-have-between-5-and-6-inches-of-precipitation-in-may": {
+    "id": "2106429",
+    "conditionId": "0xb9d070cf25c7c888913cff0c862c0ad77af3f37a4c0e3cd24d22256541a2a016",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-nyc-in-may",
+    "negRisk": true
+  },
+  "will-nyc-have-more-than-6-inches-of-precipitation-in-may": {
+    "id": "2106430",
+    "conditionId": "0x74473fdfbd2e9e752c92e58f5c478b38f68c817bb4e7981fc3161839ae654f72",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-nyc-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-less-than-0pt5-inches-of-precipitation-in-may": {
+    "id": "2106439",
+    "conditionId": "0x4e65897edb647b5187f1ad5e948d8551f6440ddb3e068c7ca1671cf4b018b2e5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-between-0pt5-and-1-inches-of-precipitation-in-may": {
+    "id": "2106440",
+    "conditionId": "0x0210504acec9d16133a4bd02831872a40df36e7ef4b8dc40f7bc90416cbacca4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-between-1-and-1pt5-inches-of-precipitation-in-may": {
+    "id": "2106441",
+    "conditionId": "0x317e13d28baae5a4e14229fbb147f04edcb190465b838c70962005cc296053b7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-between-1pt5-and-2-inches-of-precipitation-in-may": {
+    "id": "2106442",
+    "conditionId": "0x19f982e07a64f4cc8da8208e268cf27e6a05b0d91b33a661207523376ba97e3c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-between-2-and-2pt5-inches-of-precipitation-in-may": {
+    "id": "2106443",
+    "conditionId": "0xb7e8fe0b38f79ce74de2c119fde0a484cb70cfb34654e6aa8dec66ad11d4c6bf",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-between-2pt5-and-3-inches-of-precipitation-in-may": {
+    "id": "2106444",
+    "conditionId": "0x36b5ebcf6c6257695419e8cc3ee3328f0a1000b57870d471c7a650a3cf1b65eb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-seattle-have-more-than-3-inches-of-precipitation-in-may": {
+    "id": "2106445",
+    "conditionId": "0xab6dd61c06b6d65fb4adcc6dcf9aad64ceb4bf8e694dbb78fd9e0f6128277403",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seattle-in-may",
+    "negRisk": true
+  },
+  "will-london-have-less-than-5mm-of-precipitation-in-may": {
+    "id": "2106446",
+    "conditionId": "0x3ff3d49ab287815f7677ab20f0324381de22517bd07a80eb524dce53ff433130",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-london-have-between-5-10mm-of-precipitation-in-may": {
+    "id": "2106447",
+    "conditionId": "0x2102900cc23093c1e4b808a2a06839a0839702fcab9dc892b0ba8b7f905cc874",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-london-have-between-10-15mm-of-precipitation-in-may": {
+    "id": "2106448",
+    "conditionId": "0xe3e0191062e5f8930c2f23f61dd1216139084767799c257a6f15b4426414b41d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-london-have-between-15-20mm-of-precipitation-in-may": {
+    "id": "2106449",
+    "conditionId": "0x1f377b1648c0dada9059f5beedb119cf1455c1c94c81947f8c2ff7ac6c3f0cc8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-london-have-between-20-25mm-of-precipitation-in-may": {
+    "id": "2106450",
+    "conditionId": "0x95f1ac7dc9ceb7c682529ad7942bdb7efd2b545a754338e99cb0fa323036eba0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-london-have-between-25-30mm-of-precipitation-in-may": {
+    "id": "2106451",
+    "conditionId": "0x9653edc0712a5da2d1f4ad71bf8c22680da7333c2496694e22c7fe5a31c89976",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-london-have-30mm-or-more-of-precipitation-in-may": {
+    "id": "2106452",
+    "conditionId": "0xe1d99b97adc3bb50157d62f578d79912d94d1dc7ec920eae4363ea81a2a8581c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-london-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-less-than-100mm-of-precipitation-in-may": {
+    "id": "2106924",
+    "conditionId": "0x0dc1839b198ae3ca3dc3f0c2d623feaff9269bdf9d322d7f7803d82ec5af0251",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-between-100-110mm-of-precipitation-in-may": {
+    "id": "2106925",
+    "conditionId": "0x1815fa6f19a9da373572e1d80c2c8047fba149aef406c332dfbdac3053f4c2d3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-between-110-120mm-of-precipitation-in-may": {
+    "id": "2106926",
+    "conditionId": "0x3047f22e4a9bc5a3b02fcbfe250a24d6da287d231d1e56d3d314e11454bc0b2b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-between-120-130mm-of-precipitation-in-may": {
+    "id": "2106927",
+    "conditionId": "0x23646db5b796254f99b167e7ecd778e6438b0d4d36afc5d2be0c7286346f7c4c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-between-130-140mm-of-precipitation-in-may": {
+    "id": "2106928",
+    "conditionId": "0xc9c84e0b87f607df712ea503e64765976c96dfe50d7a84a530a7ecbf26ac963e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-between-140-150mm-of-precipitation-in-may": {
+    "id": "2106929",
+    "conditionId": "0x0bb5c50690837e5539e7cec0068ef37935cd9a352ddf202ac8d70f15c3cb530c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-between-150-160mm-of-precipitation-in-may": {
+    "id": "2106930",
+    "conditionId": "0x6a0bdad376b1e371c7e0f184cc4808f93204e9a2408156e5adb4c2ccdc9d70cc",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-seoul-have-160mm-or-more-of-precipitation-in-may": {
+    "id": "2106931",
+    "conditionId": "0xe4bc99510e66ae6833575450cef7b4d247679faf4af8c36786d3e2705d8dc66e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-seoul-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-less-than-180mm-of-precipitation-in-may": {
+    "id": "2106961",
+    "conditionId": "0xced14bc4dd9117e1042c4b98351590f3186c6331cb9e38207535cb094998018e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-between-180-190mm-of-precipitation-in-may": {
+    "id": "2106962",
+    "conditionId": "0xc33a64e7e4ccb396a07b99d9beb309354ccbe9be2b795fb0fbe75edf3f91e65a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-between-190-200mm-of-precipitation-in-may": {
+    "id": "2106963",
+    "conditionId": "0x1ddeeac89d9bfd373967e593682648ffed2242acd4745e29f6f37cd1e9e57ac6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-between-200-210mm-of-precipitation-in-may": {
+    "id": "2106964",
+    "conditionId": "0xd31dfffb532b21b77f742639759651d33aa869652e35ae8bfb9d7965a8e55ce3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-between-210-220mm-of-precipitation-in-may": {
+    "id": "2106965",
+    "conditionId": "0x1a2c85bbc78524a1b3876add43d58cdf9e5e435404ba091c67bb9d08e5ffa40e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-between-220-230mm-of-precipitation-in-may": {
+    "id": "2106966",
+    "conditionId": "0x112f51f4ee9cd61349ba5074979291ba023d9765306f35f927505c179a6d224e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-between-230-240mm-of-precipitation-in-may": {
+    "id": "2106967",
+    "conditionId": "0xee19f66ee43815862cbd66d9cdeedf0594515aa8cb3eba28e5f51487f0f4b6e7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "will-hong-kong-have-240mm-or-more-of-precipitation-in-may": {
+    "id": "2106968",
+    "conditionId": "0x5665d82505c7bd71cd34b7939f1f6dfa033a5864d03669a9388f48cb62f00fde",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "precipitation-in-hong-kong-in-may",
+    "negRisk": true
+  },
+  "nor-ik-vif-2026-05-25-spread-away-1pt5": {
+    "id": "2107078",
+    "conditionId": "0xd1da8b51f4b869bdfda497c475e454d6d344a00134051d932b94ce16fdfc51b7",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-spread-home-2pt5": {
+    "id": "2107080",
+    "conditionId": "0x851d9d941fe4794e5bd65f01cf8e646e5b4609e68e3a6de9ac436c1ddc2be006",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-spread-away-2pt5": {
+    "id": "2107081",
+    "conditionId": "0x31785cc3ad965e4b98409b39a9af1186c48196b0785115cf26fc5a182f0e6d36",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-total-1pt5": {
+    "id": "2107082",
+    "conditionId": "0x12a7eab9d219fa96ccf91eebeeaf14ba4b49dfb2c86e1bd84a70ee68ee84a101",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-total-2pt5": {
+    "id": "2107083",
+    "conditionId": "0x9884aa8024a13083b63078e24d8cf995826c24b99ffef0e8b4e10bc0541cf967",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-total-3pt5": {
+    "id": "2107085",
+    "conditionId": "0x985d113dc0753b57190b7e49bbdb9251c30b587e9cb418b9df59195f44490432",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-total-4pt5": {
+    "id": "2107086",
+    "conditionId": "0xd1815f4c816b198d8b9d93f3d7c5fac2240ff74e1228d3dbd1e0ccdfce4cbad0",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "nor-ik-vif-2026-05-25-btts": {
+    "id": "2107087",
+    "conditionId": "0x91359c3a632ea109f0602771ed9cb3ef1dbac1aaffc856396b8f3d4af55941ec",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-ik-vif-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "cs2-navij1-rt1-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2107121",
+    "conditionId": "0xc0978600b47ac00eceefe48ef361445eb327b8ed802cf5e4972dfac8ef555a45",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-rt1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-navij1-rt1-2026-04-29-game2-odd-even-total-kills": {
+    "id": "2107123",
+    "conditionId": "0x4062869989544e41c8b84719b9c2fb2ac7a84251963b457eae83cfe200a0a986",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-rt1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-navij1-rt1-2026-04-29-game3-odd-even-total-kills": {
+    "id": "2107126",
+    "conditionId": "0x0995d506440a8fecee936559176935929e8ad35f83c32486f54e68a337d5a026",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-rt1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-pre-biga-2026-04-30-game1-odd-even-total-kills": {
+    "id": "2107154",
+    "conditionId": "0x70f25f4169a12979cba2181a92ac7d11b98ae030177e7847fd7e4431d87a9d87",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-biga-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-pre-biga-2026-04-30-game2-odd-even-total-kills": {
+    "id": "2107160",
+    "conditionId": "0xdaeda80848dcb8332cece106dbdc868afcfe78cd81f6dc394c2bac34ae043ec0",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-biga-2026-04-30",
+    "negRisk": false
+  },
+  "will-opec-crude-oil-production-be-above-18-million-barrels-per-day-in-may": {
+    "id": "2107314",
+    "conditionId": "0x30f13260d928abdd1e19f35ae4c8fed8a9f1000951f03b92da78af4a23acc64e",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "opec-crude-oil-production-above-in-may",
+    "negRisk": false
+  },
+  "will-opec-crude-oil-production-be-above-19-million-barrels-per-day-in-may": {
+    "id": "2107315",
+    "conditionId": "0xc869e9bd1314e562f6dd82d86e8a62b696b086c9e2a24ad4a0369af2f042b0eb",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "opec-crude-oil-production-above-in-may",
+    "negRisk": false
+  },
+  "will-opec-crude-oil-production-be-above-20-million-barrels-per-day-in-may": {
+    "id": "2107316",
+    "conditionId": "0xc5c70d62dbb5116664e9b86bb4574c7d1b3a5307005dae542d305cae7c480e18",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "opec-crude-oil-production-above-in-may",
+    "negRisk": false
+  },
+  "will-opec-crude-oil-production-be-above-21-million-barrels-per-day-in-may": {
+    "id": "2107317",
+    "conditionId": "0x692c561e78efb0f0e78d5c6936bce15e48bb09d19e53ee8f45d938be200e91b6",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "opec-crude-oil-production-above-in-may",
+    "negRisk": false
+  },
+  "will-russia-enter-novyi-donbas-by-june-30": {
+    "id": "2107896",
+    "conditionId": "0xbf175df87f4cbcbcd65d85866b9e837e0ef1f2d0f1c14b6e01791ec28c3413fa",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-enter-novyi-donbas-by-march-31",
+    "negRisk": false
+  },
+  "will-russia-enter-shevchenko-by-june-30": {
+    "id": "2107911",
+    "conditionId": "0x3e314306f5af508143e1f0e7d52de77b2c731b40575360c14ab638cb246e3643",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-enter-shevchenko-by-march-31",
+    "negRisk": false
+  },
+  "will-russia-enter-svitle-by-june-30": {
+    "id": "2107912",
+    "conditionId": "0x0d41f6afb4963a0f8eb06b7bfe5deef3a89f5486e9cb3f001203c8e1063cb27a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-enter-svitle-by-march-31",
+    "negRisk": false
+  },
+  "will-russia-enter-dobropillia-by-june-30": {
+    "id": "2107913",
+    "conditionId": "0x3e63b0a9b1af05fb0d5ffcbf13e98b0fb047d80d51e93dab7e6d898f1e5faf1f",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-enter-dobropillia-by-january-31",
+    "negRisk": false
+  },
+  "bank-of-japan-decreases-interest-rates-by-50-bps-after-the-july-2026-meeting": {
+    "id": "2107952",
+    "conditionId": "0xc1d195585e88b912e243224a0e04829bb1c47e9f18073a3dcafc1dacd42a8346",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-japan-decision-in-july-659",
+    "negRisk": true
+  },
+  "bank-of-japan-decreases-interest-rates-by-25-bps-after-the-july-2026-meeting": {
+    "id": "2107953",
+    "conditionId": "0xc5ac0de9a3525da35980ff23dbee8e866e4ca78a1b3fc48a64a3b1444b3ef1d7",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-japan-decision-in-july-659",
+    "negRisk": true
+  },
+  "no-change-in-bank-of-japans-interest-rates-after-the-july-2026-meeting": {
+    "id": "2107954",
+    "conditionId": "0x2716a89ac0adb404b1651b2f8c153261ea28fddcc2523f6664638a5aeb0a77cb",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-japan-decision-in-july-659",
+    "negRisk": true
+  },
+  "bank-of-japan-increases-interest-rates-by-25-bps-after-the-july-2026-meeting": {
+    "id": "2107955",
+    "conditionId": "0x86d6d59585490e727fe4669279391c9a09f4c3588b5652e913fea4383855aa63",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-japan-decision-in-july-659",
+    "negRisk": true
+  },
+  "bank-of-japan-increases-interest-rates-by-50-bps-after-the-july-2026-meeting": {
+    "id": "2107956",
+    "conditionId": "0x32f42493c8f05f46da6d8c6b6f7b75bab035e279c91ca19464053d84bc1f5a1f",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-japan-decision-in-july-659",
+    "negRisk": true
+  },
+  "will-russia-capture-sofiivka-by-june-30": {
+    "id": "2107957",
+    "conditionId": "0x1277ec079bd88b9fb7722274d9d1c4dd16e5b424401e1ff4d528ab5eafe3a084",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-sofiivka-by-february-28",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-vovchansk-by-september-30": {
+    "id": "2107988",
+    "conditionId": "0xbc43a765b1fb2a7ffabf7d57cc64be3754a07f6dbbb657130b520875f204c772",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-vovchansk-by",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-vovchansk-by-december-31-464": {
+    "id": "2107989",
+    "conditionId": "0x25e961b73889e80bb2e8e7e9611aa573cf5f7cae0d7db8a488256cf758f0f1ca",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-vovchansk-by",
+    "negRisk": false
+  },
+  "new-stranger-things-episode-released-by-may-31": {
+    "id": "2108001",
+    "conditionId": "0x924dd7c245ffad81c5978896bdf03b1b3d147c5fe4fde2cb0251a19d8a16848c",
+    "endDate": "2026-01-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-stranger-things-episode-released-by-wednesday",
+    "negRisk": false
+  },
+  "new-stranger-things-episode-released-by-june-30": {
+    "id": "2108002",
+    "conditionId": "0x4c84dd6ee0a304f591bf33a6f3a818e4df35288da297fc2e1cd2b1f98d6606c5",
+    "endDate": "2026-01-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-stranger-things-episode-released-by-wednesday",
+    "negRisk": false
+  },
+  "will-donald-trump-dance-on-may-25-2026": {
+    "id": "2108049",
+    "conditionId": "0x0eee746a50b8852348403c3832b0c1fde83ed7604953e3f82b0a01e19e1c3fd5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-dance-on",
+    "negRisk": false
+  },
+  "will-donald-trump-dance-on-may-29-2026": {
+    "id": "2108053",
+    "conditionId": "0xe6dc8bfb70bcf8d978370685814e902ab7504d1eb7a68a47e92e96cdbfe8afac",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-dance-on",
+    "negRisk": false
+  },
+  "will-donald-trump-dance-on-may-30-2026": {
+    "id": "2108054",
+    "conditionId": "0x18a7396185e0ca2cadf00b979f664c98325326094bcdcb9cd0f126b1ab4d7b64",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-dance-on",
+    "negRisk": false
+  },
+  "will-donald-trump-dance-on-may-31-2026": {
+    "id": "2108055",
+    "conditionId": "0xb5c8499e9d4dd8899350e586872bca0df2e1638b0627337842f6e919188d265d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-dance-on",
+    "negRisk": false
+  },
+  "will-trump-praise-joe-biden-by-may-31-2026": {
+    "id": "2108094",
+    "conditionId": "0x4891f328044a50ff6415326cf43bcaf00cc7bf436824ce5631f53a574932fbfb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-oz-pearlman-by-may-31-2026": {
+    "id": "2108115",
+    "conditionId": "0x86d623600ec2a876f8bbb552f5c0a36ddaf0d9fe2dd3f2b29e2492fe312fe49c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-mark-rutte-by-may-31-2026": {
+    "id": "2108119",
+    "conditionId": "0x6a35d12f30005fd78d360fb87b94ab1f99c36756d70fe1f1d77e0477a4d34686",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-franklin-graham-by-may-31-2026": {
+    "id": "2108123",
+    "conditionId": "0xd0be2a6172edf522d344720972c90f18bba0f8084c0cea2cdaaa6948be815b14",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-william-mckinley-by-may-31-2026": {
+    "id": "2108126",
+    "conditionId": "0xf17d3fee69d2224cdbaae0f81810f78227e84fe1a8b437085071500020d00b52",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-hillary-clinton-by-may-31-2026": {
+    "id": "2108129",
+    "conditionId": "0x1c8fa360d69fa6bd7e62984b6f140164fcb9257be545f3e1e7febe72e69570a9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-weijia-jiang-by-may-31-2026": {
+    "id": "2108132",
+    "conditionId": "0x9eb45569a6b63197ff7a3811867ea5f56a599f52cb7c83c978b85b4a0d944b34",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-ronny-jackson-by-may-31-2026": {
+    "id": "2108135",
+    "conditionId": "0x02567842dbf50566b62220a556f5a36947c06fa2788bd781fa9e486f50d4367f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-lee-greenwood-by-may-31-2026": {
+    "id": "2108142",
+    "conditionId": "0xa5e0f8452c404e2e36a853745af561a1bf6898c8dee5278a1aa0db6f9d592f42",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-vladimir-putin-by-may-31-2026": {
+    "id": "2108144",
+    "conditionId": "0x85b68d0c78516624b80da4a98ba8296b7a040f9d0f32b4fb3064c5692855aed3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-pope-leo-xiv-by-may-31-2026": {
+    "id": "2108153",
+    "conditionId": "0x37862fc34837643ff10c83b6d054aae83e97f99ce1552f97bd854704403c124b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-allah-by-may-31-2026": {
+    "id": "2108161",
+    "conditionId": "0x6db7750759c507d4f4c8ea4c2b3c93d2b1c41fdd052cec4b58b7f9ab2565e81d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-jesus-by-may-31-2026": {
+    "id": "2108165",
+    "conditionId": "0x294c5ee2d5d2d6bc5d4714e05e8bd41df7af8924d40183e56e5b4b8c01d2c8a3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-kid-rock-by-may-31-2026": {
+    "id": "2108167",
+    "conditionId": "0x7ab45a90c513355ab221ef75feca289caf96e26f10bdea193350d2ebdb96efa0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-erika-kirk-by-may-31-2026": {
+    "id": "2108171",
+    "conditionId": "0x1b5bf920c72dcf9be9096276bd1473407ed1b75dd31e4177e0a7d21ab94e0928",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-praise-karoline-leavitt-by-may-31-2026": {
+    "id": "2108179",
+    "conditionId": "0xe8157a9459709a6b41ac7db35823c339d5bb0c678570ad8e86b8bfcc14b58101",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-21-2026": {
+    "id": "2108516",
+    "conditionId": "0xf6a44d333647d49330cd88b1931be22e0a1b959dbe85576599a6de59b61edd34",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-22-2026": {
+    "id": "2108517",
+    "conditionId": "0x1b43dcfb2dc5601347f55d11c0f8ece003acc047db1ef0a3888e975581cf513b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-23-2026": {
+    "id": "2108518",
+    "conditionId": "0x6beb82cd54011b5cb4bc12acba1aaab7170eae6cc06a03958e691645c3fcc0f9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-24-2026": {
+    "id": "2108519",
+    "conditionId": "0x790113ffa28c674c32bcdb7a1d918556a432333a8b49aecb36dc4bec21b7f5b6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-25-2026": {
+    "id": "2108520",
+    "conditionId": "0xbb8c4f9d05afcda907a8288110a2b310e4a8a6e0a5405ae5753082f4d65c66cf",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-26-2026": {
+    "id": "2108521",
+    "conditionId": "0xaf2edc4d0860eae9f307151d1920a7c55e6bdb46027f76a449cbe8279f7cd95f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-27-2026": {
+    "id": "2108522",
+    "conditionId": "0x625d07f60d8c1209e7bf0331925d9ca518c4f39ec31a12a56b63c4b771dbfeb7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-28-2026": {
+    "id": "2108523",
+    "conditionId": "0x0d637575b2a9aa09372956ca7b13b78006cfac6a47f96a966e73dcd417394225",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-30-2026": {
+    "id": "2108525",
+    "conditionId": "0x635e30f799475f9de08a7d4be07bf9e7532dad7a7bab1a92509f11b5e4742a75",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-donald-trump-sign-an-executive-order-on-may-31-2026": {
+    "id": "2108526",
+    "conditionId": "0xcdb79712a6d6c77742da16a33ecf88e9d5328df94db11fcc401112a5e7ed3c11",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-sign-an-executive-order-on",
+    "negRisk": false
+  },
+  "will-fernando-mendoza-be-the-raiders-week-1-starting-qb": {
+    "id": "2108600",
+    "conditionId": "0x1056c1290cb225b75842d9d74e127277201ee1daab049d080dd460432117fb68",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-raiders-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-kirk-cousins-be-the-raiders-week-1-starting-qb": {
+    "id": "2108601",
+    "conditionId": "0x863c1807db6a943b72548c8fb51d627e4d29b6099023971ed80000295a668482",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-raiders-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-aidan-oconnell-be-the-raiders-week-1-starting-qb": {
+    "id": "2108602",
+    "conditionId": "0x41722d40d592e4a8f5dc9ec1b3f1dd7621c04d7633a73f19a87dfc26632147fa",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-raiders-week-1-starting-qb",
+    "negRisk": true
+  },
+  "mls-whitecaps-to-announce-relocation-by-the-end-of-2026": {
+    "id": "2108616",
+    "conditionId": "0xcbdde54148cd4a4b7307eb321a34750db0a5d903acc7ff2b8950e23e7251bf04",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mls-whitecaps-to-announce-relocation-by-the-end-of-2026",
+    "negRisk": false
+  },
+  "will-eisenkot-join-the-bennett-lapid-alliance-by-june-30": {
+    "id": "2108617",
+    "conditionId": "0x3e27ac34b0d0b20191e4bf8fcc86951ca4f31592157cacacffbe266cc274a8b2",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-eisenkot-join-the-bennett-lapid-alliance-by-june-30",
+    "negRisk": false
+  },
+  "will-trump-say-trump-kennedy-center-or-trump-kennedy-center-in-may": {
+    "id": "2108618",
+    "conditionId": "0x7ed67059c601da726e029ec9de1fb2ea9a575f6ccfa4e40d0bb56ebfddb3f098",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-card-or-trump-gold-card-in-may": {
+    "id": "2108622",
+    "conditionId": "0xff02993ad379ebc12b47af1e09cc50d105fd9a1daada251cf33997416ba4cbd8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-best-of-trump-in-may": {
+    "id": "2108623",
+    "conditionId": "0x9337259c7ecf37975a26e1c630d041ba579d64e0eccb73c150047f7eee1720a8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-tower-in-may": {
+    "id": "2108624",
+    "conditionId": "0x713f66e5970b0f6880a212d051a526f690c34425c59905b9a9f5774578815d13",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-strait-or-strait-of-trump-in-may": {
+    "id": "2108625",
+    "conditionId": "0x20eb2ae0cef34216cc4f5d896d395734c3383ddab3d009d6b9c313d08cd58d54",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-class-or-trump-fleet-in-may": {
+    "id": "2108626",
+    "conditionId": "0xe7af5ca49f698eff821a4bab56d024daf8c54402ba485cbfe8b814be04540e7b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-tax-in-may": {
+    "id": "2108628",
+    "conditionId": "0x9d5a58bf991e195cbed7e46abaefdf5b2602e60e5bc7e8010ff1989d4485eb47",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-plan-in-may": {
+    "id": "2108629",
+    "conditionId": "0xe3de3ebc06cec8383c1a68a4878071ae2b45c748e64701f58047004fa8aa4222",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-family-in-may": {
+    "id": "2108630",
+    "conditionId": "0x9ed9deb2902f85471e56b68efb17ea22ae8c40883d50fb25402b9dceca6174a1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-time-in-may": {
+    "id": "2108631",
+    "conditionId": "0xa2d31d70f16759e3f6a9e23e9370eec7bdbc72bd2d371bc1806be174aa332f04",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-grande-in-may": {
+    "id": "2108632",
+    "conditionId": "0x8b0955d04a37937749d95ccf0ebba87986785f2c5533e104fa4d14776ff6f1ef",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-trap-in-may": {
+    "id": "2108633",
+    "conditionId": "0x32ef1fbe636a32766afc093c41e4ae0fd9d05ecabaf6089eb21202f93c46b981",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-heights-in-may": {
+    "id": "2108634",
+    "conditionId": "0xd1fe69181f35f0ff552fa41fdf531f956a34caf02d568e3584ef2e8a4c966468",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-accord-or-trump-peace-in-may": {
+    "id": "2108635",
+    "conditionId": "0x468a3ebb69d28c77ca4afd5acdccfa6cd6556f8fe441cd28c229d7db80cb42be",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-pool-or-trump-lake-or-trump-pond-in-may": {
+    "id": "2108636",
+    "conditionId": "0x9046351b6a5028075d44cc22b5e466f86203f468454ee44a1c8a4e3c4ef47e0a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-organization-in-may": {
+    "id": "2108637",
+    "conditionId": "0xa0011956748bcd13a8edb18801794b2828477aa86390654f32dc05dc47314483",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-arc-or-arc-de-trump-or-trump-arch-in-may-485": {
+    "id": "2108638",
+    "conditionId": "0x671952aa4fcf7a6f355d28e96c8c0c0eff0b5cb2e43519239ac5d8a84c85a118",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-coin-or-trump-meme-in-may-284": {
+    "id": "2108639",
+    "conditionId": "0xba656b8e66300f2834286c0e770d25d906ca0987f9acf103a6a37e432a4b509d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-hotel-or-trump-vegas-in-may-775": {
+    "id": "2108640",
+    "conditionId": "0xe6c8a819c0db6248b86ba565b06cb92112f2b44074a4d4044e9d87bd1d216ca1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-trump-national-or-trump-international-or-trump-turnberry-in-may-287": {
+    "id": "2108641",
+    "conditionId": "0x42272fdf3f1eebf33225b74a6c201987207aca928ab64cbc71ad44971e5f75a5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "will-the-longest-winning-streak-during-the-2026-mlb-season-be-0-9-games": {
+    "id": "2108861",
+    "conditionId": "0x9ca35a902dc1aa6b43340e0364ca76a2b75831c5914bdb46a8a4b7b00b82c6d9",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-longest-winning-streak",
+    "negRisk": true
+  },
+  "will-the-longest-winning-streak-during-the-2026-mlb-season-be-10-12-games": {
+    "id": "2108862",
+    "conditionId": "0x6ee641185ed52defb0a1915407ee2f88bf6fd6dac039214ea0826171464808b0",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-longest-winning-streak",
+    "negRisk": true
+  },
+  "will-the-longest-winning-streak-during-the-2026-mlb-season-be-13-15-games": {
+    "id": "2108863",
+    "conditionId": "0x2c4fe0634659ca4725d6751f11bc1abd910ab577585d1ac289d1fb23e85ca1c5",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-longest-winning-streak",
+    "negRisk": true
+  },
+  "will-the-longest-winning-streak-during-the-2026-mlb-season-be-16-18-games": {
+    "id": "2108864",
+    "conditionId": "0x9e161f12e39032d1246d87e63b90a48eb366f09e0442502241443e46d11319f4",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-longest-winning-streak",
+    "negRisk": true
+  },
+  "will-the-longest-winning-streak-during-the-2026-mlb-season-be-19-21-games": {
+    "id": "2108865",
+    "conditionId": "0x0ca24aeedeb3768cb3c868cb68e22b46ea7dccad8b30bce61ffe7cbecd8741fb",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-longest-winning-streak",
+    "negRisk": true
+  },
+  "will-the-longest-winning-streak-during-the-2026-mlb-season-be-22-games": {
+    "id": "2108866",
+    "conditionId": "0x9406b4529ed8eeb03a71113156a766f50efc8effe0b0b6e4f9e913c9f1f393cc",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-longest-winning-streak",
+    "negRisk": true
+  },
+  "will-the-arizona-diamondbacks-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108915",
+    "conditionId": "0x2e3a339b8e707b6833fce7e7bb7740ede7c959897ef4521e4d5b0a3fd61ed82a",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-atlanta-braves-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108916",
+    "conditionId": "0xcbdaa300a90ff81bd6b1190e53d6fc7d32541034ea9d7dda1b5dc2dfc4faab35",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-baltimore-orioles-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108917",
+    "conditionId": "0x531c79fb68851d874e9653df1905abf7d14f93f27c1f137f63713017b3541fbb",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-boston-red-sox-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108918",
+    "conditionId": "0x86853b04f9f6bf90e067d52229673e60cd0874c2b668a6e02206b9932d3e7678",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-chicago-cubs-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108919",
+    "conditionId": "0xbb029dd792f4721ac3b0f321162f2d850eabb58400047af209eec01d731eb0c8",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-chicago-white-sox-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108920",
+    "conditionId": "0xff886d4ae79b139bfb5eac35749a9795d20fc8d1ddcef90b3b1652b6a4f7680d",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-cincinnati-reds-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108921",
+    "conditionId": "0x8f39ce0de5fa5efee2ecad8570c2c02bc835570fd385179f600c0341cfc31fde",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
   }
 }
