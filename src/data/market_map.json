@@ -79877,29 +79877,9 @@
     "eventSlug": "2026-soccer-japan-j-league-winner",
     "negRisk": true
   },
-  "2026-soccer-japan-j-league-winner-nagoya-grampus": {
-    "id": "1830393",
-    "conditionId": "0xcd32834bd4059fad313b1f00dbba3f3c4fd697b3c2db0feb0ca9e82d43d620ab",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-japan-j-league-winner",
-    "negRisk": true
-  },
   "2026-soccer-j2-league-winner-vegalta-sendai": {
     "id": "1830403",
     "conditionId": "0xadab500bf6fdb66858297271ed6c096f5440499ca7ec971b8fb822b6a43ec03e",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-j2-league-winner",
-    "negRisk": true
-  },
-  "2026-soccer-j2-league-winner-ventforet-kofu": {
-    "id": "1830411",
-    "conditionId": "0x7fcbda05f09829a26936018b87682b5fa1b1ce5e70db1e36e2647e4952d51650",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -88384,16 +88364,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-moise-kouame-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920475",
-    "conditionId": "0xba638a2e27206f4b46482de7f02b63a8932add75d5914642ca22008a0f29fc53",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-aryna-sabalenka-win-the-2026-roland-garros-womens-singles": {
     "id": "1920805",
     "conditionId": "0xa88a6caf5bd983b56ba477458a481104f2c11da592e49f4ae9ffe480797ab867",
@@ -88417,16 +88387,6 @@
   "will-iga-swiatek-win-the-2026-roland-garros-womens-singles": {
     "id": "1920808",
     "conditionId": "0x8f580b7fbf0c5b771adbf8afb84cfc77d97d70537d62d4e6d89c6915d4fd89d6",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-amanda-anisimova-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920810",
-    "conditionId": "0x9bf4ef0b1647f17889a8ec96a514a393c6997d951f20ed97e4549be444775293",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -88477,16 +88437,6 @@
   "will-naomi-osaka-win-the-2026-roland-garros-womens-singles": {
     "id": "1920819",
     "conditionId": "0xd6ee583865addf38b68905812b9bfd5001d81a66bbdd30a5d29cba2e317aaf48",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-iva-jovic-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920820",
-    "conditionId": "0xc9588b4adf301dd3cdd33a5597539dd684aebfcb765872c2f7511cd7db603295",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -108124,16 +108074,6 @@
     "eventSlug": "will-trump-publicly-insult-someone-on-312",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-someone-on-may-30-2026": {
-    "id": "2060683",
-    "conditionId": "0x9e3d66e0123602a25bf937da55caa0f7092899cdbd5ba08f777b0e8b97670b12",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-publicly-insult-someone-on-312",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-someone-on-may-31-2026": {
     "id": "2060684",
     "conditionId": "0xfadb23907953ad51732a6c23e9e161b42650427e8cdce8b4218848ca6584d2ca",
@@ -119614,5 +119554,65 @@
     "acceptingOrders": true,
     "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
     "negRisk": false
+  },
+  "will-alex-warren-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109772",
+    "conditionId": "0xa552c11c989a28e6a24bc127dfd268cca0489f4c6910f71e0e9c17619b6480e6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-kanye-west-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109776",
+    "conditionId": "0x09f80ee877de4b244766a6c56b71b40e221f1cd4e88c08d405a2fec277875469",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-hype-flip-sol-by-december-31": {
+    "id": "2109822",
+    "conditionId": "0x0188297b3b68b403d98b82281f12f07fe041d3277edcb8f733e9282d3abfeb76",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hype-flip-sol-by-december-31",
+    "negRisk": false
+  },
+  "will-vaibhav-sooryavanshi-win-the-2026-ipl-orange-cap": {
+    "id": "2109823",
+    "conditionId": "0x3717c8ca2cbc1acd035da38c0bf1a7696189f43de38d0cc7591e697d9c7fa5f5",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-orange-cap-winner",
+    "negRisk": true
+  },
+  "will-virat-kohli-win-the-2026-ipl-orange-cap": {
+    "id": "2109826",
+    "conditionId": "0x3a2c177ee94af0a6d1fcd99e5a7d5ffd6a995b75f3f66fb277303e1659cc3357",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-orange-cap-winner",
+    "negRisk": true
+  },
+  "will-shubman-gill-win-the-2026-ipl-orange-cap": {
+    "id": "2109829",
+    "conditionId": "0x0b7b1087838bf8a1947fcfed7b1e77e3a341eec0d7a7cbfa0df00402669a0950",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-orange-cap-winner",
+    "negRisk": true
   }
 }
