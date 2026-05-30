@@ -4828,16 +4828,6 @@
     "eventSlug": "los-angeles-mayoral-election-117",
     "negRisk": true
   },
-  "will-the-montreal-canadiens-win-the-eastern-conference": {
-    "id": "629096",
-    "conditionId": "0x452f9e53cec1846bd092436b33613c64bcb03cc23e46554c3d163de39b309c52",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-eastern-conference-champion-198",
-    "negRisk": true
-  },
   "will-the-democrat-win-the-arizona-governor-race-in-2026": {
     "id": "629183",
     "conditionId": "0xaf874c80349379303164629c3962b1456f667ca1d44edf95e0474dd13483a4b3",
@@ -119609,6 +119599,16 @@
   "will-meituan-have-a-1-ai-model-by-december-31-2026": {
     "id": "2109523",
     "conditionId": "0xec0012c7d5a63f984424b8d00e60e8b09e43ed12f55c0f10803a7756e06ac2f5",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-meta-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109524",
+    "conditionId": "0x1acdbd22cd0bba4d5a09b506330c5e299dd7820310621d1c609bf9e9be19a3a0",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
