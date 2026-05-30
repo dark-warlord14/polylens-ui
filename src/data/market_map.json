@@ -149,16 +149,6 @@
     "eventSlug": "2026-nhl-stanley-cup-champion",
     "negRisk": true
   },
-  "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup": {
-    "id": "553849",
-    "conditionId": "0x52847ca1413b76a5570b97c0c432e38dbe61b0140f9d45e912604591b08f6fca",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-stanley-cup-champion",
-    "negRisk": true
-  },
   "will-the-oklahoma-city-thunder-win-the-2026-nba-finals": {
     "id": "553856",
     "conditionId": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
@@ -4841,16 +4831,6 @@
   "will-the-montreal-canadiens-win-the-eastern-conference": {
     "id": "629096",
     "conditionId": "0x452f9e53cec1846bd092436b33613c64bcb03cc23e46554c3d163de39b309c52",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-eastern-conference-champion-198",
-    "negRisk": true
-  },
-  "will-the-carolina-hurricanes-win-the-eastern-conference": {
-    "id": "629100",
-    "conditionId": "0xd50349a2c87d5a64128c40574f310f60a130d8aaf955bd3d3d69aab62b1df539",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -31213,16 +31193,6 @@
     "eventSlug": "2026-ipl-champion",
     "negRisk": true
   },
-  "will-rajasthan-royals-win-the-2026-indian-premier-league": {
-    "id": "1012318",
-    "conditionId": "0x1e2be46b881243375590de9881beab1a9bc202761320b45b2f304a84990c7e50",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-ipl-champion",
-    "negRisk": true
-  },
   "will-royal-challengers-bengaluru-win-the-2026-indian-premier-league": {
     "id": "1012319",
     "conditionId": "0xf9dd88d2f2b61574da0f0d338e2456d5ff50c9debabfc6c1df85ce19b50282e3",
@@ -34399,16 +34369,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-novak-djokovic-win-the-2026-mens-french-open": {
-    "id": "1087515",
-    "conditionId": "0x226e885e5380a6fd143cf8aec4d4d7ce7feece4625cc2301f450655f377f8847",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-joao-fonseca-win-the-2026-mens-french-open": {
     "id": "1087516",
     "conditionId": "0x24e67fb509df7efecc1840008153634d4852c0d2725d0a6c13f2e60beb2f2e2f",
@@ -34442,26 +34402,6 @@
   "will-francisco-cerundolo-win-the-2026-mens-french-open": {
     "id": "1087525",
     "conditionId": "0xe81351003837800d495a43eab50a2739701dab05142cccb901fbf4ee339fd4fd",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-karen-khachanov-win-the-2026-mens-french-open": {
-    "id": "1087527",
-    "conditionId": "0x22c6957b5507bd52206dfe1a6d8129a5b9c70415fabb4ed046d3b067e3fb87ef",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-alex-de-minaur-win-the-2026-mens-french-open": {
-    "id": "1087531",
-    "conditionId": "0x4786c0fc83466a567a3269de1ae6fd8270b93cff2c952dd4c63a3f483853a175",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -73530,16 +73470,6 @@
     "eventSlug": "bank-of-brazil-decision-in-june",
     "negRisk": true
   },
-  "elon-musk-of-tweets-may-2026-780-799": {
-    "id": "1698905",
-    "conditionId": "0x204594f80ea51049f285bf770c43864b1f966d12c308cefa4d26c2a8f9f64196",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
   "elon-musk-of-tweets-may-2026-800-839": {
     "id": "1698908",
     "conditionId": "0x11a78aebb5a769ff8ac6b2cb61b4d5138c4de9aa6e398197ab9d1d37a3886db9",
@@ -82077,16 +82007,6 @@
     "eventSlug": "2026-basketball-turkey-bsl-winner",
     "negRisk": true
   },
-  "2026-basketball-turkey-bsl-winner-trk-telekom": {
-    "id": "1834149",
-    "conditionId": "0xb7eedb02cda1c5bc746fe9d14c5a91ddeedf2d5887e12023ee2413312be33697",
-    "endDate": "2026-12-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-turkey-bsl-winner",
-    "negRisk": true
-  },
   "2026-basketball-germany-bbl-winner-alba-berlin": {
     "id": "1834153",
     "conditionId": "0xde61d80b3d37e12cc65a70e12c418518ea5805610655e93ecf6f112dccff1dc1",
@@ -88524,26 +88444,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-novak-djokovic-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920456",
-    "conditionId": "0x7f8e9f66726ced43cf171b2522917da9351f8ff70e30dd24171bcf2f1b5f1241",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-alex-de-minaur-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920458",
-    "conditionId": "0x833f23acc07af612d8c6ce0514ef77b8f0eb7689e79f98cf0cff549df8c99d4e",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-felix-auger-aliassime-win-the-2026-roland-garros-mens-singles": {
     "id": "1920459",
     "conditionId": "0x197b5701a4dda923783016fff3302e7cdcb9f3895bbb17f3b75c83414ace97c6",
@@ -88557,16 +88457,6 @@
   "will-casper-ruud-win-the-2026-roland-garros-mens-singles": {
     "id": "1920464",
     "conditionId": "0x431588150ce3babe78d8d03e8eb68fdd5924d33ec011effe30e9ed5237d140c7",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-karen-khachanov-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920466",
-    "conditionId": "0xa76609b41fbc185cc7db87cea8f7827db2ecdb91ca3bd42786603dd7e62fce91",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -96734,26 +96624,6 @@
     "eventSlug": "2nd-largest-company-end-of-may",
     "negRisk": true
   },
-  "will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999688",
-    "conditionId": "0x4421677da3196f34742d804c32c228c9991114cc34e6ac3b8eb7d41c2de078e2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999689",
-    "conditionId": "0xefa10d84a527e0f0dd6701099be4dbae6399f73607621e9d1d299536a6717053",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
   "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
     "id": "1999690",
     "conditionId": "0xc7d6aa9c99200f929db6f7b20585713162722c1aac273ae2e723593361227170",
@@ -96764,39 +96634,9 @@
     "eventSlug": "2nd-largest-company-end-of-may",
     "negRisk": true
   },
-  "will-tesla-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999691",
-    "conditionId": "0x5ea9d90d158a8df14b2c6f1887b7137f97621297ffef8544b1ad597cce746655",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
   "will-saudi-aramco-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
     "id": "1999692",
     "conditionId": "0x5a5a8787c6ad387176e54b1fec63c0df18bbfee680a6f2e6e2f9c64645b89580",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999693",
-    "conditionId": "0x87426f1af3773388f7bb55bcbc48e55c5e183b43181f9e4b82daf1a19ff18217",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-broadcom-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999694",
-    "conditionId": "0x83434b084ca795751fa9c3ba7a0035af073bf7873c1d7dc817157a87d1186e80",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -113190,106 +113030,6 @@
     "eventSlug": "lee-jae-myung-out-as-president-of-south-korea-in-2026",
     "negRisk": false
   },
-  "will-aapl-reach-320-in-may-2026-416": {
-    "id": "2073759",
-    "conditionId": "0x6c36fb0298a81377c1bbdb6a1ebe255bef1ca46773574680833c4123698bdfcb",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-264-in-may-2026-269-177-213": {
-    "id": "2073828",
-    "conditionId": "0xdbd4d8e50898f6ded3f6938dcad50d3a56ee60749024d987ec28ca1f29556385",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-256-in-may-2026-458-846-331-137": {
-    "id": "2073832",
-    "conditionId": "0xedb2590e00181c5b372e1c30a6c50b6409158ec9015f3830743e26a334afb630",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-248-in-may-2026-297-114-425": {
-    "id": "2073835",
-    "conditionId": "0x295dff52f9d587a7dc7cc027c1e54f3d09b0500d5fd76864e59f351bf69cc0ab",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-240-in-may-2026-918-466-732": {
-    "id": "2073838",
-    "conditionId": "0x7b90555e9c22610bb4959ef04279775812bbb74ec9611eb71bf6a552bcc38242",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-232-in-may-2026-558-816-918": {
-    "id": "2073843",
-    "conditionId": "0x89e602ad9d23e3366db345ccb3f6a475d6f15a4885db6e3caee45a115272db6f",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-224-in-may-2026-771-581-614-269": {
-    "id": "2073846",
-    "conditionId": "0xa3d90d3d0812573b12a90a5259c62eba62c4158c1eb1dda0ffa17e5373a5bf3e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-aapl-dip-to-216-in-may-2026-968-734-939": {
-    "id": "2073850",
-    "conditionId": "0xe5f13499c85466b528790e42617428f2fc01a90437333f04087b5bceace9ca1d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-aapl-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-reach-525-in-may-2026": {
-    "id": "2073880",
-    "conditionId": "0x75fa1cf3d1cfb9b2e2f6fdf0cfaf754659002d61a6e3f67d9a6a17f1dd1f7ddb",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-reach-510-in-may-2026": {
-    "id": "2073883",
-    "conditionId": "0x608a423ee30894d8a725780d773dec4576312d51c2b4d5536d7d166367b05c5a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-msft-reach-495-in-may-2026": {
     "id": "2073886",
     "conditionId": "0x8177109138a45f9888cf559c20cd01009626053b748c7fc11814d677be577331",
@@ -113303,16 +113043,6 @@
   "will-msft-reach-480-in-may-2026": {
     "id": "2073888",
     "conditionId": "0x09fc9ebdc6deb11d31b5fb948765e644b406c1dfefa03867ebe70f9d12cca5f2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-reach-450-in-may-2026": {
-    "id": "2073892",
-    "conditionId": "0xb1d7ede4557e92bf49cec9c4f34c7a209eb08966456fbde6e82b6f58c20f6c78",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -113410,16 +113140,6 @@
     "eventSlug": "what-price-will-ewy-hit-in-may-2026",
     "negRisk": false
   },
-  "will-ewy-dip-to-146-in-may-2026-923": {
-    "id": "2074194",
-    "conditionId": "0xc67204d7f8165e7115b708f2c49e97c2f56ffb0ad32130ed4df2c7d5847e5eec",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-ewy-dip-to-144-in-may-2026-538": {
     "id": "2074195",
     "conditionId": "0xe2d2f0d362d4da3a9cb30fcff36049d9be37bbcb584fb94065731e690f643581",
@@ -113433,16 +113153,6 @@
   "will-ewy-dip-to-142-in-may-2026-964": {
     "id": "2074196",
     "conditionId": "0x41c23a84f512c184f3e1e35572e53c0ddd82409a6164c98fa950b240c4706c44",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ewy-dip-to-140-in-may-2026-899": {
-    "id": "2074197",
-    "conditionId": "0x7391661893a7a513f7955d73e80f2098795c4cd4121dc0511397127c62503b6b",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -113500,16 +113210,6 @@
     "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
     "negRisk": false
   },
-  "will-xauusd-reach-4800-in-may-2026-564": {
-    "id": "2074204",
-    "conditionId": "0x0a0a25b8d835aa470b1f936be1a65b0c1f7ef4bec07071423b3f4f23993339c6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-xauusd-dip-to-4300-in-may-2026-365-198": {
     "id": "2074209",
     "conditionId": "0x21109896dd6e5dd409b601a0a3b898c1de5c9937879099c86d642d00490acef0",
@@ -113530,56 +113230,6 @@
     "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
     "negRisk": false
   },
-  "will-xauusd-dip-to-4100-in-may-2026-467-835": {
-    "id": "2074211",
-    "conditionId": "0xa51be928689f9301d259929815983315610448e6bd0bc7ef3c46989f1ccaf28e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-silver-xagusd-hit-low-70-in-may-751-468": {
-    "id": "2074221",
-    "conditionId": "0xde02f529a5879d58084bff055813e6d16ff8af852220eeec3573947cf9cbf617",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-silver-xagusd-hit-low-66-in-may-316-638-336": {
-    "id": "2074223",
-    "conditionId": "0x1166cb8576d8d3fbb2cf116229248a83210abc0858db0861a7eaac35667d4690",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-silver-xagusd-hit-low-64-in-may-953-849": {
-    "id": "2074224",
-    "conditionId": "0x11451e99f5325af0344f05b05b6818602dff8c5200dcd9ae56753e05e3f60774",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-silver-xagusd-hit-low-62-in-may-117": {
-    "id": "2074225",
-    "conditionId": "0xf02f6b1868f472a8b794a7192d04b15aefb56f7f9899b8d7227d938e960d9ffd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-silver-xagusd-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876-832": {
     "id": "2074240",
     "conditionId": "0xa96e71186507bf493bd1fb8101418c369c6296a29b49514fdec3f7bfe7197909",
@@ -113598,126 +113248,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-dip-to-40-in-may-2026-286-341-192-757-961-613-811-817-951-378-218-432-375": {
-    "id": "2074244",
-    "conditionId": "0xd22fc2cfc3f2796842baeba8fcb1ff6a0a469118a2f6599e0c09c591836c04a6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ng-reach-4-20-in-may-2026": {
-    "id": "2074248",
-    "conditionId": "0xec594b84a715a38dbb022321db6eeb83da9e931ff8f820c02f733f8e54606a1c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ng-reach-4-00-in-may-2026": {
-    "id": "2074249",
-    "conditionId": "0xcb0845c2cab884f7a3bf94e6c9b1dc666c31b8c02aec8559ef5e225e18911a54",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ng-reach-3-80-in-may-2026": {
-    "id": "2074250",
-    "conditionId": "0x8baf89e4b852c0512a04d0977fb9150592ce4a64eba98a19090c39e4050514b2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ng-reach-3-60-in-may-2026": {
-    "id": "2074251",
-    "conditionId": "0x84088f419b8e99803f21da8c185dc806795457dcfa3f20823bced66599aa566d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-high-3pt40-in-may": {
-    "id": "2074252",
-    "conditionId": "0x44ef43c4a2239e78b9893852cdcb9e18a4f9c966d026da72b3ccfa1f6647b235",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-low-2pt60-in-may-561-919": {
-    "id": "2074256",
-    "conditionId": "0x23003281a6d2ddbc4d1c28f3fe6aec701f3e0d1328de7cc323b839be489632f0",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-low-2pt40-in-may-449-683": {
-    "id": "2074257",
-    "conditionId": "0x4b1096447b0e7fc0bb71f2797be2c20d481d3b51d4c80552f969e66805eea9fa",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-low-2pt20-in-may-979-931": {
-    "id": "2074258",
-    "conditionId": "0x7010d321dc0949cc035600b0acd6acd2c6e39db6a745c29a43344fa5b9fef831",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-low-2pt00-in-may-558-597": {
-    "id": "2074259",
-    "conditionId": "0xb72c4c2e13f3956b0010d58386f722858f31b750f634073976658048f985ef84",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-low-1pt80-in-may-123-837": {
-    "id": "2074260",
-    "conditionId": "0xfa3531e7cf8a3cb10a1668ce6be37e34be10ed7e3b792202fe1c15555ff65d70",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-natural-gas-ng-hit-low-1pt60-in-may-469-743": {
-    "id": "2074261",
-    "conditionId": "0x4696f9a0c596b593172bad82efaded794cda93b83bd8b8e301016aba7edd4edd",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ng-hit-in-may-2026",
     "negRisk": false
   },
   "cs2-lavked-tsa-2026-04-25-game1-odd-even-total-kills": {
@@ -118960,16 +118490,6 @@
     "eventSlug": "will-trump-dance-on",
     "negRisk": false
   },
-  "will-donald-trump-dance-on-may-29-2026": {
-    "id": "2108053",
-    "conditionId": "0xe6dc8bfb70bcf8d978370685814e902ab7504d1eb7a68a47e92e96cdbfe8afac",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-dance-on",
-    "negRisk": false
-  },
   "will-donald-trump-dance-on-may-30-2026": {
     "id": "2108054",
     "conditionId": "0x18a7396185e0ca2cadf00b979f664c98325326094bcdcb9cd0f126b1ab4d7b64",
@@ -119628,6 +119148,472 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-cleveland-guardians-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108922",
+    "conditionId": "0xbd9276766b421113ce9260de14587c81637d67e267fdfaa6b9051763eb74c5b7",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-colorado-rockies-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108923",
+    "conditionId": "0x5078c228daf1beddc6c4d1f96272b05365cc8d0d3794a62187461a64232a3bb0",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-detroit-tigers-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108924",
+    "conditionId": "0x5e71d7343acd571392700bdda31bd2ebf343e5d0d65cf9cf973281afff555969",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-houston-astros-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108925",
+    "conditionId": "0x6586ef6811bab2946b476a64a86bbf9c9adcdfa3d5a240434209c932ac3386a1",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-kansas-city-royals-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108926",
+    "conditionId": "0x670c8794dc112d6bca5a06cefefd8c6aa56e4a9206ead679fd22592cb47eafe1",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-los-angeles-angels-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108927",
+    "conditionId": "0x3a3bdc5d8b757774bc146ca860fea5db824f14b95b4aa4998117eb57fed89c20",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-los-angeles-dodgers-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108928",
+    "conditionId": "0x1c84150ab1cc580d33c5dc9504acc6505e429837076a15384ff285a3056a972b",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-miami-marlins-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108929",
+    "conditionId": "0xafad203e749f73c005bd091bd4a181be38783b8af1451f5ea86983e86fcf74de",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-milwaukee-brewers-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108930",
+    "conditionId": "0x34340d233c761e09132b8c2599308f5cf200b34fb661cf5d62ef99c244d8c8f4",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-minnesota-twins-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108931",
+    "conditionId": "0x36f1871df61b6c8e40d338d8f4b49951082a2694e4487abbca6c8fffcef7d231",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-new-york-mets-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108932",
+    "conditionId": "0x7782a3c5e1bc2e1992c0b8527296468f23139c428f6db130246179183bd71a13",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-new-york-yankees-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108933",
+    "conditionId": "0xb661ef692e793180b56dfb7017906eed3c3b905d81b524608c013a3da2a96542",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-oakland-athletics-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108934",
+    "conditionId": "0x05141fb612781b1bf36c4151d737aab3384f0219e66d7f70d50db38a242a31e3",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-philadelphia-phillies-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108935",
+    "conditionId": "0x35b5decfba0784f2c856c76cf5d9dc1258af67d428656e965b340ab208a6db4e",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-pittsburgh-pirates-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108936",
+    "conditionId": "0x99a88f27d05b56a81088cf4955e36c8601918e5049fd530261d442616e9a376c",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-san-diego-padres-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108937",
+    "conditionId": "0x5114d8688dc4aee15f2012cefffca510134267259dfbc720fd32cb8cefe6a914",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-san-francisco-giants-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108938",
+    "conditionId": "0xa2d0b4f5ac720fd52e83416c06f1bb8b674eafbf604245385f702288200abeb1",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-seattle-mariners-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108939",
+    "conditionId": "0x2e5fabe093616d9d0a641f532e5ee4fd1d1b6602e6afc2eb2e05db7bb140e7a5",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-st-louis-cardinals-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108940",
+    "conditionId": "0x2bfd42b3243eda43366671db51ebbc3b32a0cec4dc4ae9ff8caa9dd260bfac58",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-tampa-bay-rays-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108941",
+    "conditionId": "0xb22244c9ae95bb2245cb842e782a755f3dcd09fd212de8cda81911b425d40b87",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-texas-rangers-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108942",
+    "conditionId": "0x708b2117573927e10016afbc3302061e796866e661a14d0d228b75b8e29879e0",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-toronto-blue-jays-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108943",
+    "conditionId": "0x968942f0d084825f6552b4c9d8acb29f90ed62ae98c5e83418f3158758bea6c9",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "will-the-washington-nationals-have-the-longest-winning-streak-during-the-2026-mlb-regular-season": {
+    "id": "2108944",
+    "conditionId": "0xe8764dd5f44965c02f78c3255abdb827118f21271610002bf195c3565365eb7b",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-team-to-have-longest-win-streak",
+    "negRisk": true
+  },
+  "pro-football-will-diego-pavia-be-rostered-by-week-1": {
+    "id": "2108953",
+    "conditionId": "0x82d65dd8469a9c114e804fc4bc1ee4ba0e2ee200e6c2cbc7727e1ceb02730f76",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-will-diego-pavia-be-rostered-by-week-1",
+    "negRisk": false
+  },
+  "will-bruno-mars-have-the-greatest-number-of-monthly-spotify-listeners-this-month-344": {
+    "id": "2108961",
+    "conditionId": "0x8533c74f835e8f92bec54e14127040ef1ba6b2bf8dbae7f41d3b45147dc6f051",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-noah-kahan-have-the-greatest-number-of-monthly-spotify-listeners-this-month-596": {
+    "id": "2108962",
+    "conditionId": "0xe495733e51bd61bceebf733677face01b103b7909c638d79b6970c6aa813a966",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-bad-bunny-have-the-greatest-number-of-monthly-spotify-listeners-this-month-974": {
+    "id": "2108963",
+    "conditionId": "0xd3e052699fd170a527d866386d734662fa85b41ca801aeda264164165ab991ec",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-the-weeknd-have-the-greatest-number-of-monthly-spotify-listeners-this-month-185": {
+    "id": "2108964",
+    "conditionId": "0xafc71dcd8225b2646ba34e2c4e9755bf170d114508b8ea89c16773ec53eb301f",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-kendrick-lamar-have-the-greatest-number-of-monthly-spotify-listeners-this-month-419": {
+    "id": "2108965",
+    "conditionId": "0x1bff3168662b3f94ccd66d9119d3747eae6686e3ce78772f84d14b6bc2e9d270",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-taylor-swift-have-the-greatest-number-of-monthly-spotify-listeners-this-month-221": {
+    "id": "2108966",
+    "conditionId": "0x5540ef1c8f9a26541cebeb67511e20bb667f4669740e96da95fe4713f3fb830d",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-drake-have-the-greatest-number-of-monthly-spotify-listeners-this-month-596": {
+    "id": "2108967",
+    "conditionId": "0xabf156741411337b95b9fffb22081171fdb5092d6f90576d79f253464350abcf",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-billie-eilish-have-the-greatest-number-of-monthly-spotify-listeners-this-month-118": {
+    "id": "2108968",
+    "conditionId": "0x893093a2190f5961c1db742baffef3dccd2b80c78cda8067c45a82ea0d5f1147",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-lady-gaga-have-the-greatest-number-of-monthly-spotify-listeners-this-month-672": {
+    "id": "2108969",
+    "conditionId": "0x2d0ebd1188dcbad4d522c6b400b1fd2a7cc69bef4cc310ca28a6ebc05847c65b",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-kanye-west-have-the-greatest-number-of-monthly-spotify-listeners-this-month-264": {
+    "id": "2108970",
+    "conditionId": "0xd137ba118e8706d82438634a349fe30d17b792523c6f24f1b178b54583817860",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-rihanna-have-the-greatest-number-of-monthly-spotify-listeners-this-month-873": {
+    "id": "2108971",
+    "conditionId": "0x5c8da1003222390b77b7c3f18bb014c2169d256dfef1a49ff74023776ba272c7",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-ed-sheeran-have-the-greatest-number-of-monthly-spotify-listeners-this-month-643": {
+    "id": "2108972",
+    "conditionId": "0x1d83ff22585fb870df18be331276009f32f1601205c94f4b9292c530b7125a3d",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-coldplay-have-the-greatest-number-of-monthly-spotify-listeners-this-month-676": {
+    "id": "2108973",
+    "conditionId": "0xb9c1ef135226766c4e964c63c11f599c78db09b20bb6d13f2a77baed83a428ae",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-justin-bieber-have-the-greatest-number-of-monthly-spotify-listeners-this-month-952": {
+    "id": "2108974",
+    "conditionId": "0x5e2d6bf9012c6c6131362d477153f4061b8904b439e6ac1191b09e07b0f90af7",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "top-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-bruno-mars-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-743": {
+    "id": "2109027",
+    "conditionId": "0x7536b15f80f2f842c7525d38eff3fb0d0783be605dd0eede70624bf5e41a5fa3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-951": {
+    "id": "2109028",
+    "conditionId": "0x6de517f0219d9cfe5a770154957e2e0e2d2d8d35544d96325af63bd4050ea19a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-bad-bunny-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-152": {
+    "id": "2109029",
+    "conditionId": "0x1927c93bacf5c0b2c8f663546692f1e448df078609ad29208b9d24e21f5b6a3a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-the-weeknd-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-867": {
+    "id": "2109030",
+    "conditionId": "0x479ac50c83b5817cbafde9979af9ce1bc55d4f10b11362cad793067a334f4ea2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-kendrick-lamar-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-892": {
+    "id": "2109031",
+    "conditionId": "0xf362a15824b987e29d342c037a6dd4a27fa8da5417e9a417824207a5a0f726ef",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-taylor-swift-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-553": {
+    "id": "2109032",
+    "conditionId": "0xb77ce7cf66fef90bedbd1db374a847c59f0d0e523c7fa814b842568ff92c1828",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-drake-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-221": {
+    "id": "2109033",
+    "conditionId": "0x030de0e59cdcee0bbcccb93f414e693bc69b5025ac64e97116cd4de70d823719",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-billie-eilish-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-697": {
+    "id": "2109034",
+    "conditionId": "0xfb6125830bff1c1fcbc91de597afaa19958ec03da4294bc6b95dd67adaf45386",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-lady-gaga-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-962": {
+    "id": "2109035",
+    "conditionId": "0x353b4be7d994b6d59bffdda9dddba571ddc904c1effc91c116dc4a42bb21296b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-kanye-west-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-217": {
+    "id": "2109036",
+    "conditionId": "0x55ae33c4e845e0bc7ff1407192536caa6cd154d49f6f98575de4456c26d4e5e3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
     "negRisk": true
   }
 }
