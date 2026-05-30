@@ -34419,16 +34419,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-tommy-paul-win-the-2026-mens-french-open": {
-    "id": "1087534",
-    "conditionId": "0x45d819d9d731db09185dcd4d60522c46485a205eea4dcf3443515e91c8e63ac4",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-flavio-cobolli-win-the-2026-mens-french-open": {
     "id": "1087538",
     "conditionId": "0x9eaadf490bf58eb7e2d00fb257711ff462ae99197dc339b2a5cd93a577c7a2e2",
@@ -67546,16 +67536,6 @@
     "eventSlug": "where-will-joey-bosa-play-in-2026-27",
     "negRisk": true
   },
-  "nothing-ever-happens-march": {
-    "id": "1485248",
-    "conditionId": "0xf30a0d0e1df877663805d30fa1dcf02c394c6b97fe94b3737b7d04fee11cd05d",
-    "endDate": "2026-03-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nothing-ever-happens-march",
-    "negRisk": false
-  },
   "cambria-fdv-above-20m-one-day-after-launch": {
     "id": "1485758",
     "conditionId": "0x85c6193a5695b52740b325bb3e438a10d2d758c5bb95f295fd4bf5721f30453b",
@@ -88484,16 +88464,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-tommy-paul-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920470",
-    "conditionId": "0x1346b679b30b7648e741d7fa191aba0e1564ee942068a79844ebb6143a1ac715",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-francisco-cerundolo-win-the-2026-roland-garros-mens-singles": {
     "id": "1920471",
     "conditionId": "0x5e906ff4fdf548a8613572e67c890fa9a37ee4d1abca6bbf98a6401ced35a4bd",
@@ -90224,16 +90194,6 @@
     "eventSlug": "bol1-oru-uvi-2026-05-09",
     "negRisk": true
   },
-  "dota2-xctn-carst-2026-04-12-game2-first-blood": {
-    "id": "1952065",
-    "conditionId": "0xfbd5d1f77be238fac6e56db668997dbdebe56caaf2ce149239c0acde553dba37",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-xctn-carst-2026-04-12",
-    "negRisk": false
-  },
   "cs2-ep-ksm-2026-04-12-game1-odd-even-total-kills": {
     "id": "1953999",
     "conditionId": "0x5018b68931f38ab7aa9fc34f292456e52a11c329e0c19f94a35bfaf315cf48f2",
@@ -90902,16 +90862,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-vpf-z7-2026-04-13",
-    "negRisk": false
-  },
-  "lol-gam-gz-2026-04-19-game1-first-blood": {
-    "id": "1964676",
-    "conditionId": "0x9c610ab06769624c725c7b790d4ae5df97c8a9ebcbec0768d7b239a42983b296",
-    "endDate": "2026-04-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gam-gz-2026-04-19",
     "negRisk": false
   },
   "dota2-l1ga-nemiga-2026-04-13-game1-first-blood": {
@@ -96544,16 +96494,6 @@
     "eventSlug": "3rd-largest-company-end-of-may",
     "negRisk": true
   },
-  "will-microsoft-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999659",
-    "conditionId": "0x0df9e5570fe5beb1ae556a3045f6c27afb7123ae64bccdf53acda5247fa85a91",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
   "will-apple-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
     "id": "1999660",
     "conditionId": "0x2416ec42d46d41184dcc5a4e72f3522f79591bd3324fefcc35148cde7d91aef5",
@@ -96574,39 +96514,9 @@
     "eventSlug": "3rd-largest-company-end-of-may",
     "negRisk": true
   },
-  "will-tesla-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999662",
-    "conditionId": "0x66a6e7ec8c08fd5be28a556a8731bf597813668707662833625c0db5129fa57f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
   "will-saudi-aramco-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
     "id": "1999663",
     "conditionId": "0x50530532b29f309c39d49c0b327f4bfa248452fba0358d4bc20a7a90c8cea146",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999664",
-    "conditionId": "0xb1e01a0c605d6a3a5159d1e1d591c658676fe683c4fbccddbe524ae9ad520a41",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-broadcom-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999665",
-    "conditionId": "0x5df3867811688479de5f2794c432638b07c6b17bd65a36693f8e8ad3cd934215",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -96654,69 +96564,9 @@
     "eventSlug": "largest-company-end-of-may-167",
     "negRisk": true
   },
-  "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-may-31-111": {
-    "id": "1999717",
-    "conditionId": "0x2ae953d78a25c34e5e65824d239e86e3e28ff2f3ef59acfce239004c5308f388",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
-  "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-may-31-332": {
-    "id": "1999718",
-    "conditionId": "0x4fbd02c4ea776cff3138d484b6500277cabb70d644196804d535e9b07e0c7d0f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
-  "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999719",
-    "conditionId": "0x1f442120c3ed08229bb519f2d999d02738b22911b7ad7a43b0fb6aa51568f455",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
-  "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999720",
-    "conditionId": "0xdd1b321ae525705452664fe7e694c6133bee8be380f7134319c1721d39b75489",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
   "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-may-31": {
     "id": "1999721",
     "conditionId": "0xc04f8df61b2832e90b793e713ced36fed87c5a8a6d907edd4f46fac9ea129134",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
-  "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-may-31-498": {
-    "id": "1999722",
-    "conditionId": "0x3447ef42f1795107933976bb33ee030cd83d7eac5fc1173a24fb8d47c37dd8cc",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
-  "will-broadcom-be-the-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999723",
-    "conditionId": "0x6a08c3b3240864e5bd84693641614bb18adccb5d3878620b867c250193f3c92e",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -113030,206 +112880,6 @@
     "eventSlug": "lee-jae-myung-out-as-president-of-south-korea-in-2026",
     "negRisk": false
   },
-  "will-msft-reach-495-in-may-2026": {
-    "id": "2073886",
-    "conditionId": "0x8177109138a45f9888cf559c20cd01009626053b748c7fc11814d677be577331",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-reach-480-in-may-2026": {
-    "id": "2073888",
-    "conditionId": "0x09fc9ebdc6deb11d31b5fb948765e644b406c1dfefa03867ebe70f9d12cca5f2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-dip-to-390-in-may-2026": {
-    "id": "2073901",
-    "conditionId": "0x9e540f819568e50d41ce608b391c5369f304d037b46be5d49bc678856920eecf",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-dip-to-360-in-may-2026": {
-    "id": "2073907",
-    "conditionId": "0x9f915dbbfa0fb87dbfbe6814b82d7ab2dd94ed9526784c6691b71c2b8304e940",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-msft-dip-to-345-in-may-2026": {
-    "id": "2073909",
-    "conditionId": "0xa15269434368272f3a108d31ffd1c3cffd94d99028e0d5605cf6ecc6cd6f52fe",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-msft-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-reach-320-in-may-2026": {
-    "id": "2073927",
-    "conditionId": "0xab48230f40d42f02192148c872ed477f1e30553bb287780f6301bfb55a52f14e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-reach-312-in-may-2026": {
-    "id": "2073930",
-    "conditionId": "0x5f7b704bb293f5bab820f0f7426e8cc5d4f6a5d9d7305a333885e0439537b68b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-reach-296-in-may-2026": {
-    "id": "2073937",
-    "conditionId": "0xffbcc9337373bf3733267b5504dbea3590aa6fe2c4be2e74946200ef90e52f74",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-reach-288-in-may-2026": {
-    "id": "2073940",
-    "conditionId": "0x282d1456769e594c26558ced06a7684dd75af85c05a5f5e111ae5bbd20775e24",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-amzn-dip-to-248-in-may-2026": {
-    "id": "2073953",
-    "conditionId": "0x7d5f6a9dce5016f7940c7faf0397427cf7984de5fc74a862e7bc9f509699de22",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-amzn-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ewy-dip-to-148-in-may-2026-567": {
-    "id": "2074193",
-    "conditionId": "0xb8b0436cc44403a93abd1d8cd89e9e62c87d9af424c61f68786ff5ea7d964bcc",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ewy-dip-to-144-in-may-2026-538": {
-    "id": "2074195",
-    "conditionId": "0xe2d2f0d362d4da3a9cb30fcff36049d9be37bbcb584fb94065731e690f643581",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-ewy-dip-to-142-in-may-2026-964": {
-    "id": "2074196",
-    "conditionId": "0x41c23a84f512c184f3e1e35572e53c0ddd82409a6164c98fa950b240c4706c44",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-ewy-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-reach-5400-in-may-2026": {
-    "id": "2074198",
-    "conditionId": "0xd6980bdb520c0fed40d140625d61d347960b176ddf7f122f1daaabae5afd5469",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-reach-5200-in-may-2026": {
-    "id": "2074200",
-    "conditionId": "0x69458b6d778fe2ed8190ce4752754270a8ce6445a45c2c0fcb96d280cddb1d50",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-reach-5100-in-may-2026": {
-    "id": "2074201",
-    "conditionId": "0x170726b00f764694d3b0478bab4c89722adae31cd17ca19bf30cd940fc5904e8",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-reach-5000-in-may-2026": {
-    "id": "2074202",
-    "conditionId": "0xb0b6ce555a817b462f5d76b2b57408bc853a18406f919528fbdb20d1e709403e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-reach-4900-in-may-2026": {
-    "id": "2074203",
-    "conditionId": "0xa9e762800da14030767069cd499cb03e6f117cf36a1477c034e0085a6d1aef50",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-dip-to-4300-in-may-2026-365-198": {
-    "id": "2074209",
-    "conditionId": "0x21109896dd6e5dd409b601a0a3b898c1de5c9937879099c86d642d00490acef0",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-xauusd-dip-to-4200-in-may-2026-994": {
-    "id": "2074210",
-    "conditionId": "0x3a34bdcdb5332b8edb76fca831e2a48f9a43374f67cfa1dd0f6ee584a62479de",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-xauusd-hit-in-may-2026",
-    "negRisk": false
-  },
   "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876-832": {
     "id": "2074240",
     "conditionId": "0xa96e71186507bf493bd1fb8101418c369c6296a29b49514fdec3f7bfe7197909",
@@ -119615,5 +119265,355 @@
     "acceptingOrders": true,
     "eventSlug": "2-spotify-artist-in-may",
     "negRisk": true
+  },
+  "will-rihanna-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-882": {
+    "id": "2109037",
+    "conditionId": "0xb60e09b984eb85891d69e55beafad094d707514877a2e3c9e728109ae9f8d037",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-ed-sheeran-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-667": {
+    "id": "2109038",
+    "conditionId": "0x63e6e61046b2c89e94d39fb59536a71ca4461eb235c943d31afedaccbcc772ec",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "will-coldplay-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-122": {
+    "id": "2109039",
+    "conditionId": "0x276eab2212b068a08b33777f6d81e7c3e3eeb7901e01f9b81b098754083d36f5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2-spotify-artist-in-may",
+    "negRisk": true
+  },
+  "james-comey-sentenced-to-prison-in-2026": {
+    "id": "2109074",
+    "conditionId": "0xcc6e10a62115e94c4af40dd61360cb5e7e1f9511bb15ca478ea6b0269667520b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "james-comey-sentenced-to-prison-in-2026",
+    "negRisk": false
+  },
+  "james-comey-charges-dropped-by-may-31": {
+    "id": "2109448",
+    "conditionId": "0x035b18a67f572d8950b381371f8569f4c0d4f483b8e9f5f54405de72c8ab6821",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "james-comey-charges-dropped-by-may-31",
+    "negRisk": false
+  },
+  "us-x-iran-diplomatic-meeting-by-may-31-2026-283-616": {
+    "id": "2109449",
+    "conditionId": "0x2bef40a1f62d045527228e699990d1bd1f97906b2458a6f3e4a0daf11124060c",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-x-iran-diplomatic-meeting-by-329",
+    "negRisk": false
+  },
+  "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948": {
+    "id": "2109450",
+    "conditionId": "0x6fa13f31cceaf10ed3190df6e2aca0a93ab0d6fb46fd279003f17d4cdccee164",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-x-iran-diplomatic-meeting-by-329",
+    "negRisk": false
+  },
+  "will-alex-cora-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109451",
+    "conditionId": "0x0f47a958d9c4b64ad7342e54d2bde053385ca4b45de1af25a26f1ee0bbd064ca",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-rocco-baldelli-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109452",
+    "conditionId": "0x35b5ee5ee1918badc39ad4e250503939ae4bf9684e37c0aebbece51156a9c487",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-brandon-hyde-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109453",
+    "conditionId": "0x0f8763727452729d6f2671d9d2d062919dcc21a74404e28f21d2e467ea610aac",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-david-ross-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109454",
+    "conditionId": "0x9346f7ccca015229e40c99f98822ecbab25b5ff395a463cf3d03096e6d9d2f50",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-ryan-flaherty-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109455",
+    "conditionId": "0xb8883f75e978725f45875e7c4740d125fb2fc37b0e924eaade1acab178f6afad",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-brad-ausmus-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109461",
+    "conditionId": "0xe9ff053884dca3b949fe835990389da2adfd0d1aa81ed05856745238daac3a6e",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-don-mattingly-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109462",
+    "conditionId": "0x9ed552ca32762d95c5df3e1c887004d7fdd3b6577fcf2afe84b31efdda1171d4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-carlos-beltran-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109466",
+    "conditionId": "0xe15dab1c915466b7c3ff8e5521295ddb041ea2c571cfcffe168bf8c92bbcbf69",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-daniel-descalso-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109469",
+    "conditionId": "0xfc15e3d267e5955ce646cc741838bae2c3ac033f634a7b11e2ab0e9b08ced54d",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-will-venable-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109473",
+    "conditionId": "0xd94337c49361b72044454e77e857c2fb0dc1b7d71b8c08d94050f93f317baf16",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-kai-correa-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109475",
+    "conditionId": "0xd810796f298210b363d0d68d8eeee51d606ca7574ed9bba1bb356b5dc7350035",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-bruce-bochy-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109476",
+    "conditionId": "0x7d19db44996236c92a27c2c8efe3a7cea4d2b99cd4161f35074a8c626c2efeac",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-joe-girardi-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109477",
+    "conditionId": "0x4a5da6fc8abe412d088abbac9cbe84c8c50d3f917d530e5f2a919d7746bf2c23",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-omar-lpez-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109478",
+    "conditionId": "0x00c5b5de1a3ae73c37c93499d54ae6a60dbe00e43252ee2170be347a92a30d5d",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-aj-ellis-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109479",
+    "conditionId": "0x0ebb4ba9d840a1f694367b4f62e6bcf0e995f3d6d3bd0a1671f6fa70d87e87c1",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-george-lombard-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
+    "id": "2109480",
+    "conditionId": "0x7d03274beed98e132d083b58c0751518d6461c4f5eb31132acdd36e2860bccb8",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-next-phillies-manager",
+    "negRisk": true
+  },
+  "will-google-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109512",
+    "conditionId": "0x79307c54be4721fda43bac290c137d32a674a4b0322940e86a94524f0c1fc268",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-openai-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109513",
+    "conditionId": "0x6f3c4a19afe0621f5bfd39a18625ec392dcd695c34a708f02a52c96ed3436773",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-alibaba-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109514",
+    "conditionId": "0x076729655c5138c73a60e73e2633cddf2b72fa055deb452b3f07bd608df06fa9",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-xai-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109515",
+    "conditionId": "0xa796a992017ac45b99a33d108f65e2eff86fd4daf9e51d44a65aee815d83f36b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-bytedance-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109516",
+    "conditionId": "0xe650ad00ab52a1daae5395f7b7d34678019dcf8a407e50e5b0cc731680b366e6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-baidu-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109517",
+    "conditionId": "0x680560695f3bd759633b9b748fc3582cebe6fc5d5c2bc9b8c2cfe9df36249eeb",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-moonshot-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109518",
+    "conditionId": "0xd6e6a84dff227314b82e5ebc66f62611ef4f6c25a349c591f16bd699184a1e83",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-amazon-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109519",
+    "conditionId": "0xab86b9ea5d963e336a38cf9cb9993f2aacfb321dbe10a91410355beee30db511",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-zai-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109520",
+    "conditionId": "0xa43f0f313de2599ae9d8fe7080037e12316f6c58caf8c26c86b1f613a7a4fc3c",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-mistral-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109521",
+    "conditionId": "0xff372e02c13dfbbe388958727c0d7e37a3ff00d6349031e2854427d83fc0c8ce",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-deepseek-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109522",
+    "conditionId": "0xd9eaacb65adac13538f933532cb6fe4415dba2d42a9f460457a7ecb10ea63374",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-meituan-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109523",
+    "conditionId": "0xec0012c7d5a63f984424b8d00e60e8b09e43ed12f55c0f10803a7756e06ac2f5",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
   }
 }
