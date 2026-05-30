@@ -34389,16 +34389,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-francisco-cerundolo-win-the-2026-mens-french-open": {
-    "id": "1087525",
-    "conditionId": "0xe81351003837800d495a43eab50a2739701dab05142cccb901fbf4ee339fd4fd",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-andrey-rublev-win-the-2026-mens-french-open": {
     "id": "1087532",
     "conditionId": "0x5fd7a14573c76aff95dee08cc00dbc0e87a6c7ba374bad1300e9aff5f0b98611",
@@ -68826,76 +68816,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-less-than-0pt7": {
-    "id": "1503228",
-    "conditionId": "0xa110090e00b35b4491cf88010fc27306353029900b1a8776c6e224d5edc6d095",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-between-0pt7-and-1pt0": {
-    "id": "1503229",
-    "conditionId": "0x51314a1de815da4595f89c6c96bfb2405cdf26e09fb05ea9deb66ebf8d5f89c8",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-between-1pt1-and-1pt4": {
-    "id": "1503230",
-    "conditionId": "0xf05752f4e995d3f867886338223dccba0aa924973a69c0f1a09c2b79aaa4f417",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-between-1pt5-and-1pt8": {
-    "id": "1503231",
-    "conditionId": "0xfda858216120c9224a3c98df14a24e4dee4168a9c01664b64122dc6ebc022f67",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-between-1pt9-and-2pt2": {
-    "id": "1503232",
-    "conditionId": "0x2140b4ef272260b2b04067db20f4ab5753c33af1ff013ea7846293711f150f90",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-between-2pt3-and-2pt6": {
-    "id": "1503233",
-    "conditionId": "0xeae5059f8501d3b33e6c2f14d73edb7000f33d50b8148021286f956ab6b2b17d",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
-  "will-brazils-q1-2026-gdp-growth-rate-yoy-be-at-least-2pt7": {
-    "id": "1503234",
-    "conditionId": "0xf1d4693f06745e15c30c382c7448ab77d08b128dfc76067ef596ab23807a47b9",
-    "endDate": "2026-05-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "brazil-gdp-growth-in-q1-2026",
-    "negRisk": true
-  },
   "edi-rama-out-as-albania-pm-in-2026": {
     "id": "1503873",
     "conditionId": "0x15e8b539b6e6bed3285dbabb6fa3de5c528e562a089edda1ba7c0dcb5a073657",
@@ -73718,16 +73638,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-nosr-oly-2026-03-24",
-    "negRisk": false
-  },
-  "arne-slot-out-as-liverpool-manager-by-may-31-2026": {
-    "id": "1706211",
-    "conditionId": "0xb6d6873e4e1e640f48b9c386f612857a2635e734c03cceecd0bb2c061ed15e6d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arne-slot-out-as-liverpool-manager-by-may-31-2026",
     "negRisk": false
   },
   "vicky-chun-out-as-yale-ad-by-june-30-2026": {
@@ -81937,16 +81847,6 @@
     "eventSlug": "2026-basketball-turkey-bsl-winner",
     "negRisk": true
   },
-  "2026-basketball-turkey-bsl-winner-esenler-erokspor": {
-    "id": "1834139",
-    "conditionId": "0xe1fdc3140bacbf4a2468ac0b37ecdef75e79f1724314114edf3bb9c55da9d3ad",
-    "endDate": "2026-12-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-turkey-bsl-winner",
-    "negRisk": true
-  },
   "2026-basketball-turkey-bsl-winner-fenerbahe-beko": {
     "id": "1834140",
     "conditionId": "0x96e56f0ec95d3d6ccca42bd3b0d65e254ee881fb8d4c479213c191b0acefe07a",
@@ -81960,16 +81860,6 @@
   "2026-basketball-turkey-bsl-winner-galatasaray-mct-technic": {
     "id": "1834141",
     "conditionId": "0xe73f0fc9a54354cf24711e7cf1e1fe0a318eb137f0a599339246767ca625fa6f",
-    "endDate": "2026-12-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-turkey-bsl-winner",
-    "negRisk": true
-  },
-  "2026-basketball-turkey-bsl-winner-trabzonspor": {
-    "id": "1834148",
-    "conditionId": "0xb7638b7800324c4cdde90d3ac87570bb9ed05a842cc2daf57e03749b434df661",
     "endDate": "2026-12-01",
     "closed": false,
     "active": true,
@@ -97972,16 +97862,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-any-new-token-launched-on-pumpfun-be-listed-on-a-major-cex-in-2026",
-    "negRisk": false
-  },
-  "nhl-stanley-cup-winner-nation": {
-    "id": "2007471",
-    "conditionId": "0x5984c4698c084a916d9c8d067e76fa9768eb94d2a6a3e60cfa76e21311d17a08",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-stanley-cup-winner-nation",
     "negRisk": false
   },
   "will-justin-tootla-be-eliminated-from-top-chef-season-23-this-week": {
@@ -119614,6 +119494,125 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-microsoft-have-a-1-ai-model-by-december-31-2026": {
+    "id": "2109525",
+    "conditionId": "0x5ea9363a7dcccda830cad72d005d5afa597857fecda881b998b433c02c27b513",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
+    "negRisk": false
+  },
+  "will-trump-say-trump-passport-in-may": {
+    "id": "2109546",
+    "conditionId": "0x54241df939ffea17c94fdba872251e3edb2a1fa6cecc370f698991d9683b90db",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
+    "negRisk": false
+  },
+  "x-money-released-by-may-31-2026": {
+    "id": "2109558",
+    "conditionId": "0xc31ebded073dc7fa62096dd93c6a929ff370df1f284bf69ec4e87ef305ab2b82",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "x-money-launched-by",
+    "negRisk": false
+  },
+  "mlb-4-homer-game-in-2026": {
+    "id": "2109559",
+    "conditionId": "0xde2f33d9c7ae79ac73f2400dd2404fddb98fd25127267d1ebbd24bf445650d67",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-4-homer-game-in-2026",
+    "negRisk": false
+  },
+  "faze-roster-change-before-gta-vi": {
+    "id": "2109589",
+    "conditionId": "0x78b86705913bc56b0e90e6990f0c3a36f103ae79f37684e1d7d4103b1101d899",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "faze-roster-change-before-gta-vi",
+    "negRisk": false
+  },
+  "israel-enacts-military-exemption-for-yeshiva-students-by-sep-30": {
+    "id": "2109597",
+    "conditionId": "0xbe259598e5a6c822d9d5cd125a853fecf6ebed30425621c4dd6fe4151b32d9ab",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-enacts-military-exemption-for-yeshiva-students-by-sep-30",
+    "negRisk": false
+  },
+  "will-taylor-swift-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109751",
+    "conditionId": "0x6dc5a86af811a567c65595a3af7844cd132f647589db0d24b22f51ae1a6365d5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-bad-bunny-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109755",
+    "conditionId": "0x096be8f67ba6b19791a4f0eadd9e89ff18498ef5c6713b4b69101435978bbf89",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-noah-kahan-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109756",
+    "conditionId": "0xd9c7f1ef5456d3b1072c7c27b278af0aa0e9c31a555b29e08a068ea8a639ec1f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-don-toliver-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109764",
+    "conditionId": "0xe3b7fb649abfb1775b6be5d2d6b433357048d8eb94820d87529ca7351fd24454",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-bruno-mars-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109770",
+    "conditionId": "0x99478d99fdea42cf57aa9d1aeddf1bc5b49555821ea0495ee5389469abafc7c3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-olivia-dean-have-a-1-hit-in-the-us-in-may": {
+    "id": "2109771",
+    "conditionId": "0x88b8af5f303343bf813bcf1648f16c6d848f5494a7ba4984a464393cac393210",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
     "negRisk": false
   }
 }
