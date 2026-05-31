@@ -2129,16 +2129,6 @@
     "eventSlug": "colombia-presidential-election-1st-round-winner",
     "negRisk": true
   },
-  "will-germn-vargas-lleras-win-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "569341",
-    "conditionId": "0x2890121a9277d619b936695405544bda9f80d184b05d9503fd8f173c52867365",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-winner",
-    "negRisk": true
-  },
   "will-paloma-valencia-win-the-1st-round-of-the-2026-colombian-presidential-election": {
     "id": "569342",
     "conditionId": "0x04e73caf81ef64ce0c612699049d295e18dfe9bdd60d898fd3d8a64cac723661",
@@ -2292,16 +2282,6 @@
   "will-juan-manuel-galn-win-the-2026-colombian-presidential-election": {
     "id": "569364",
     "conditionId": "0xb21bc2b511694c76f3ff6664836dd3561a916acf59b405b8f21f2ae8af7016fd",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-germn-vargas-lleras-win-the-2026-colombian-presidential-election": {
-    "id": "569365",
-    "conditionId": "0x202af343a370924358b0397efd5b812affec245fd60a9f7bdcadc914b6179a3d",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -3147,76 +3127,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "brazil-presidential-election",
-    "negRisk": true
-  },
-  "will-kylian-mbappe-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601850",
-    "conditionId": "0xfab0d8f0a9cfb7aa8ac5f37cfa9e3c2cca648c242fa6f18af132e30278603d19",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
-    "negRisk": true
-  },
-  "will-ousmane-dembele-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601855",
-    "conditionId": "0x7cdd0445be07c7dde60e2bbc1ac312be624e5c9107a2f583dabea093eccbc2e6",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
-    "negRisk": true
-  },
-  "will-viktor-gyokeres-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601856",
-    "conditionId": "0xa8f7b9d3936d337d1e0ce0136f6adb37fe20ddaae06b762bdf3812a574d27af4",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
-    "negRisk": true
-  },
-  "will-bukayo-saka-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601867",
-    "conditionId": "0x5539cf803e1ad5311c4c239a7a81cafb6c212d6acabcb515053e546610f4bd1f",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
-    "negRisk": true
-  },
-  "will-bradley-barcola-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601870",
-    "conditionId": "0xa7379d3aadeb9aafa4f1f0f7644df0ce02d869669713e4ee693c3cd29b9e1f42",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
-    "negRisk": true
-  },
-  "will-desire-doue-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601871",
-    "conditionId": "0x19270770711e723181920d84cc4b59ed689e17dc9d39113585e043fb128c11b9",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
-    "negRisk": true
-  },
-  "will-khvicha-kvaratskhelia-be-the-20252026-top-ucl-goal-scorer": {
-    "id": "601880",
-    "conditionId": "0x378c62e7a285be763ca6dcd73c8d80a698d31feadf7d0f449e699fa36934ff13",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "champions-league-top-scorer-655",
     "negRisk": true
   },
   "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election": {
@@ -18530,16 +18440,6 @@
   "will-todd-graham-be-the-republican-nominee-for-az-01": {
     "id": "704345",
     "conditionId": "0xeac6e14a4b340e731a6beede3963b4e21fe1a08682e3a1a66c846b6fe26ecc6b",
-    "endDate": "2026-08-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "az-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-mark-brnovich-be-the-republican-nominee-for-az-01": {
-    "id": "704346",
-    "conditionId": "0x962787f6fcaab2e212351ebca9fe3fa4cb78e9ed527a949ade4e420d12b12408",
     "endDate": "2026-08-04",
     "closed": false,
     "active": true,
@@ -34409,16 +34309,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-raphael-collignon-win-the-2026-mens-french-open": {
-    "id": "1087555",
-    "conditionId": "0x5d5ce9c96febcf8a9722342508b819a8edb34fc8f1dd842a30cd34b88fa55bbd",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-iga-witek-win-the-2026-womens-french-open": {
     "id": "1087759",
     "conditionId": "0x80b8b8568be8e6d54f8417ce5ebf2e7971f97373556dc262a658d3dcaacd392a",
@@ -41486,16 +41376,6 @@
   "will-robert-golob-be-the-next-prime-minister-of-slovenia": {
     "id": "1193228",
     "conditionId": "0x409836e4b9af0e8f7d1c2cc5f071d9ecb85efe706091323c4294c6859cc09ba0",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-janez-jana-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193229",
-    "conditionId": "0xe94749bbf616139120735f9720de5b1a94b61cb7da0feb633f97f113d61a167b",
     "endDate": "2026-03-22",
     "closed": false,
     "active": true,
@@ -63414,26 +63294,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "2026-midterms-house-turnout",
-    "negRisk": true
-  },
-  "will-harry-kane-record-the-most-player-of-the-match-awards-during-the-2025-uefa-champions-league": {
-    "id": "1399553",
-    "conditionId": "0x85ca75b0adad859523569ae4779fd70c55b9a197c58308611f0cbabae1a953dd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-player-of-the-match-awards",
-    "negRisk": true
-  },
-  "will-khvicha-kvaratskhelia-record-the-most-player-of-the-match-awards-during-the-2025-uefa-champions-league": {
-    "id": "1399572",
-    "conditionId": "0x7f432a56899d987bc55639e8ff66713a424c10f26d463f48f52a2cbd8f370f87",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-player-of-the-match-awards",
     "negRisk": true
   },
   "les-wexner-charged-by-june-30": {
@@ -86285,16 +86145,6 @@
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
   },
-  "will-fluxo-w7m-win-cblol-2026-split-1": {
-    "id": "1901136",
-    "conditionId": "0x966e6012d4f89326890850e2115f5034bbaad16dea8d8b6923a799578a5b6e9f",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-furia-win-cblol-2026-split-1": {
     "id": "1901137",
     "conditionId": "0x84113d6b360aab26706b2cf511a3545d9db9aa779cbb39bfdc4f9df9f58214bc",
@@ -102016,16 +101866,6 @@
   "will-juan-manuel-galn-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
     "id": "2037915",
     "conditionId": "0x4ea073c06f5bcc307cb4f351e08c5deffd69613f37c651775b2d2f4391b68990",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-germn-vargas-lleras-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037916",
-    "conditionId": "0x55eab99b65f18398a73395d38c50d0b93b2f6fdaedbfdbe7790a30fc073f6e60",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -119613,6 +119453,166 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-inf1-algo1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-yl-vpf-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2113045",
+    "conditionId": "0xec3090f8666f43b25df47ce5fe6efcaefc63bea4f2f89e5e27cf9306c4517c2a",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-yl-vpf-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-yl-vpf-2026-04-29-game2-odd-even-total-kills": {
+    "id": "2113047",
+    "conditionId": "0xed2467467f2b0d6738a78ed593f4e8298e99433d922ad7f540b6a755c2deefc6",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-yl-vpf-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-ff-biga-2026-04-30-game1-odd-even-total-kills": {
+    "id": "2113067",
+    "conditionId": "0xb3e98580c1cac874925fc9824ac9a8f80f2df6fbe5905a5c400e7c807327dfcc",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-biga-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-ff-biga-2026-04-30-game2-odd-even-total-kills": {
+    "id": "2113069",
+    "conditionId": "0xd486f465f8a426785d51a9cf0282a76c02b9034b638639e5c6c5792b4d25c35b",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-biga-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-ff-biga-2026-04-30-game3-odd-even-total-kills": {
+    "id": "2113071",
+    "conditionId": "0x57deb584b2486fc83223cada9f0328831d1893c205f56a02eedf10f169874561",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-biga-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-ksm-lph-2026-04-30-game1-odd-even-total-kills": {
+    "id": "2113089",
+    "conditionId": "0x40d12ff51fcec0c811e37068cd25acf93d69cb7ba89e18cc75e771fd6f70eda1",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ksm-lph-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-ksm-lph-2026-04-30-game2-odd-even-total-kills": {
+    "id": "2113091",
+    "conditionId": "0x6f0b726c9c4d1786f9cd40c6fc5359371ab959e933acd75ee396118a548afa0f",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ksm-lph-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-p2n-3dmaxa-2026-04-30-game1-odd-even-total-kills": {
+    "id": "2113114",
+    "conditionId": "0xe701fd818db6d2aa67da8ba24e3074ddc2e8d9f4675f2b919112d9ae0347448c",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-p2n-3dmaxa-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-p2n-3dmaxa-2026-04-30-game2-odd-even-total-kills": {
+    "id": "2113116",
+    "conditionId": "0x3ef1be6daa08a092d3d2afec9d1e212fd2529b5d2d8d96f03705f40fc11feee3",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-p2n-3dmaxa-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-p2n-3dmaxa-2026-04-30-game3-odd-even-total-kills": {
+    "id": "2113118",
+    "conditionId": "0xa68399e68c196ef2514061863e7b672ee84b7f7b0e6d5f4fb803bbbd23cc4932",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-p2n-3dmaxa-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-pg5-hec-2026-04-30-game2-odd-even-total-kills": {
+    "id": "2113127",
+    "conditionId": "0xec25ef3d97b5e4544d04777838ac19e01fbebd329523ea57324bf87b853a1110",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pg5-hec-2026-04-30",
+    "negRisk": false
+  },
+  "cs2-pg5-hec-2026-04-30-game3-odd-even-total-kills": {
+    "id": "2113129",
+    "conditionId": "0x803fe9689454bcec213c078770ef036671fde8a9d0e9030168528e3229c73a99",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pg5-hec-2026-04-30",
+    "negRisk": false
+  },
+  "mlb-mil-stl-2026-05-05": {
+    "id": "2115519",
+    "conditionId": "0xee7ae055adc4025cc518ef72efab4a9c01c6b1a54febfcbd3ba5e3977cc62949",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-mil-stl-2026-05-05",
+    "negRisk": false
+  },
+  "mlb-mil-stl-2026-05-05-nrfi": {
+    "id": "2115521",
+    "conditionId": "0xbbc8e8ed4093cf057f190fe666c1c4aa878f2addafa34bef3e43da305a37b5e9",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-mil-stl-2026-05-05",
+    "negRisk": false
+  },
+  "dota2-ic-ave-2026-04-30-game1-any-player-ultra-kill": {
+    "id": "2115952",
+    "conditionId": "0x8c166781cfab70af17874870fdb70d9ed57a8626f785342c4f6421584675d56b",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-ic-ave-2026-04-30",
+    "negRisk": false
+  },
+  "anthropics-supply-chain-risk-designation-removed-by-may-31": {
+    "id": "2116050",
+    "conditionId": "0xcb166e898bde26a4eea60b1d6f24c8dc95b9bdf7b29407c7d74fb186fada5b95",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropics-supply-chain-risk-designation-removed-by",
     "negRisk": false
   }
 }
