@@ -116560,16 +116560,6 @@
     "eventSlug": "new-stranger-things-episode-released-by-wednesday",
     "negRisk": false
   },
-  "will-donald-trump-dance-on-may-30-2026": {
-    "id": "2108054",
-    "conditionId": "0x18a7396185e0ca2cadf00b979f664c98325326094bcdcb9cd0f126b1ab4d7b64",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-dance-on",
-    "negRisk": false
-  },
   "will-donald-trump-dance-on-may-31-2026": {
     "id": "2108055",
     "conditionId": "0xb5c8499e9d4dd8899350e586872bca0df2e1638b0627337842f6e919188d265d",
@@ -119608,6 +119598,16 @@
   "will-senegal-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116745",
     "conditionId": "0x2b64c7faa0037364c973158508dcc3643855152e770fe1dd60d5f6d8840c1184",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-south-africa-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116746",
+    "conditionId": "0x91616edf355def8b0d33ce21c12b7149c070fd4d8abe36258dc84381e3c7db1a",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
