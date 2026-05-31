@@ -1989,26 +1989,6 @@
     "eventSlug": "which-party-wins-2028-us-presidential-election",
     "negRisk": true
   },
-  "will-psg-win-the-202526-champions-league": {
-    "id": "566136",
-    "conditionId": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-winner",
-    "negRisk": true
-  },
-  "will-arsenal-win-the-202526-champions-league": {
-    "id": "566140",
-    "conditionId": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-winner",
-    "negRisk": true
-  },
   "will-trump-pardon-ghislaine-maxwell": {
     "id": "566760",
     "conditionId": "0x0dc45815251ab7d5c3cbde5d7eee5bc96eac3d924c0a4c4f10175049e068fe20",
@@ -7130,16 +7110,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "nhl-2025-26-hart-memorial-trophy",
-    "negRisk": true
-  },
-  "nhl-2025-26-calder-memorial-trophy-gabe-perreault": {
-    "id": "645450",
-    "conditionId": "0xa91b6523a5c51a5515c662f111ae4923709b2ee0622c403de355f286e3c2a50b",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-calder-memorial-trophy",
     "negRisk": true
   },
   "nhl-2025-26-frank-j-selke-trophy-anthony-cirelli": {
@@ -34419,16 +34389,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-learner-tien-win-the-2026-mens-french-open": {
-    "id": "1087543",
-    "conditionId": "0x2d8ddd9ea670f9992c03353c033062a0014ca09166d8b15b9489ae9e4e0b6ca4",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-felix-auger-aliassime-win-the-2026-mens-french-open": {
     "id": "1087545",
     "conditionId": "0x90d0f0f57e38136c7ae56743e682c1eb29aa4e9f17faa4b4fdbcf94d2d6ea787",
@@ -34469,29 +34429,9 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-martin-landaluce-win-the-2026-mens-french-open": {
-    "id": "1087554",
-    "conditionId": "0x64c45f4a2fff5e9e9810631beef71fd70597830dbcb2e5301805c9064915c2a9",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-raphael-collignon-win-the-2026-mens-french-open": {
     "id": "1087555",
     "conditionId": "0x5d5ce9c96febcf8a9722342508b819a8edb34fc8f1dd842a30cd34b88fa55bbd",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-moise-kouame-win-the-2026-mens-french-open": {
-    "id": "1087556",
-    "conditionId": "0x4fcd0bd99be51df20f6c8ba2ffd00abefde5eb1a8a66d569e94f1cf20b44a7bb",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -34549,16 +34489,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-amanda-anisimova-win-the-2026-womens-french-open": {
-    "id": "1087766",
-    "conditionId": "0xaf57b538d751df7c32f1007f160800bd14b58a5ff946ed52c9765adec205e1ff",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-elina-svitolina-win-the-2026-womens-french-open": {
     "id": "1087768",
     "conditionId": "0xa3879b3a8991b8335f3da24e98a15b90e72eb2e68b9f506fca224dabf45d3af6",
@@ -34582,16 +34512,6 @@
   "will-marta-kostyuk-win-the-2026-womens-french-open": {
     "id": "1087773",
     "conditionId": "0xc13d428b3a4ef1581d1d8c7fefd431b085bb3e3fd51a74f699b7ba5b62aa4972",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-daria-kasatkina-win-the-2026-womens-french-open": {
-    "id": "1087776",
-    "conditionId": "0xa1613aeeb2edc38ddf8b595870e1ce2c87f0d34bc4006ce43eaca2236d30565a",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -34632,16 +34552,6 @@
   "will-belinda-bencic-win-the-2026-womens-french-open": {
     "id": "1087788",
     "conditionId": "0x11a09311e3bf0ac61315c930c8aaf28cedb2eed441ba89656d7eb940c27b3d1e",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-maria-sakkari-win-the-2026-womens-french-open": {
-    "id": "1087790",
-    "conditionId": "0x59865f8beef11a253eafcbcf2369ad9978f6c7e601e7119f603af0e14575775e",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -63556,16 +63466,6 @@
     "eventSlug": "2026-midterms-house-turnout",
     "negRisk": true
   },
-  "uefa-champions-league-unbeaten-team": {
-    "id": "1399434",
-    "conditionId": "0x877734e7ac509afd52e378193ef32849779213fc831ab797d3fdb80c16deee3d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-unbeaten-team",
-    "negRisk": false
-  },
   "will-harry-kane-record-the-most-player-of-the-match-awards-during-the-2025-uefa-champions-league": {
     "id": "1399553",
     "conditionId": "0x85ca75b0adad859523569ae4779fd70c55b9a197c58308611f0cbabae1a953dd",
@@ -63584,26 +63484,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "uefa-champions-league-most-player-of-the-match-awards",
-    "negRisk": true
-  },
-  "will-arsenal-score-the-most-goals-in-2025-26-uefa-champions-league": {
-    "id": "1399727",
-    "conditionId": "0xeea1d0a2517facdf92720d8bd772e1ce7b84dc0f4b095d25d5a9bc9973623783",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-top-scorer-club",
-    "negRisk": true
-  },
-  "will-paris-saint-germain-psg-score-the-most-goals-in-2025-26-uefa-champions-league": {
-    "id": "1399751",
-    "conditionId": "0xc6f1b6bf80d25336668e842d2c28768581df80de66bb9396b9f03fa308e935e7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-top-scorer-club",
     "negRisk": true
   },
   "will-declan-rice-record-the-most-cards-in-2025-26-uefa-champions-league": {
@@ -78398,16 +78278,6 @@
     "eventSlug": "will-china-invade-taiwan-by-june-30-2027",
     "negRisk": false
   },
-  "uk-government-approval-up-or-down-this-week": {
-    "id": "1812084",
-    "conditionId": "0x601803a0980ce19e45d28196a58811c9e6c88d7f821ccd8ae361ce58e90abf8d",
-    "endDate": "2026-04-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uk-government-approval-up-or-down-this-week",
-    "negRisk": false
-  },
   "will-olivia-chow-win-the-2026-toronto-mayoral-election-465": {
     "id": "1812607",
     "conditionId": "0x1295040186326703b63b9c7d719f8c5bb88ee6fa9672e3924f90ef74ee7b0459",
@@ -79890,16 +79760,6 @@
   "2026-soccer-j2-league-winner-kataller-toyama": {
     "id": "1830413",
     "conditionId": "0xd8437696a222532f20e5ad2112e4ed35bb512fdd05ae1ccbb776ef6bf7d9ffd4",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-j2-league-winner",
-    "negRisk": true
-  },
-  "2026-soccer-j2-league-winner-tegevajaro-miyazaki": {
-    "id": "1830420",
-    "conditionId": "0x9cb77cfd3959be3d817e07056d8ea2eb7210277a9bfe385978a89036b8b51765",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -88324,16 +88184,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-francisco-cerundolo-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920471",
-    "conditionId": "0x5e906ff4fdf548a8613572e67c890fa9a37ee4d1abca6bbf98a6401ced35a4bd",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-rafael-jodar-win-the-2026-roland-garros-mens-singles": {
     "id": "1920472",
     "conditionId": "0x79c0db8c09b6cd7e8e7265f3eb3f4cd8055844bdc730cbab4d22d9d0479fe7e2",
@@ -88354,29 +88204,9 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-raphael-collignon-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920474",
-    "conditionId": "0x075c7565e383f57dd353637801ecb1d00416bd466548533b39b26f49f906721b",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-aryna-sabalenka-win-the-2026-roland-garros-womens-singles": {
     "id": "1920805",
     "conditionId": "0xa88a6caf5bd983b56ba477458a481104f2c11da592e49f4ae9ffe480797ab867",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-coco-gauff-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920807",
-    "conditionId": "0x2ba42d3231d4494e2b1c6571a341994e9eb962059877e3094cabbb7b1116b410",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -88397,16 +88227,6 @@
   "will-elina-svitolina-win-the-2026-roland-garros-womens-singles": {
     "id": "1920811",
     "conditionId": "0x28851daf6e4e9f497e352aa631908abda6a2579273a4b622ae7989669fc8d47c",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-victoria-mboko-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920813",
-    "conditionId": "0x8f6afcb22deae623707f2b67ea431dca6e805868e386d438be5aae39916afc31",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -105794,16 +105614,6 @@
     "eventSlug": "wnba-2026-rookie-of-the-year-111",
     "negRisk": true
   },
-  "will-the-ornn-b200-index-hit-6pt00-high-by-may-31-2026-315": {
-    "id": "2047223",
-    "conditionId": "0x437f6d8c9c801fe3776a483cadd481195685b49e2ebe2fc7c593016a60b22865",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-b200-hit-by-may-31",
-    "negRisk": false
-  },
   "will-the-ornn-b200-index-hit-3pt50-low-by-may-31-2026-843-279-692-358-137-437-953": {
     "id": "2047239",
     "conditionId": "0x93c37973c2484a074f9f2d0844541789d0434ba4fd38414fc4f4c79011df4233",
@@ -115910,16 +115720,6 @@
     "eventSlug": "uk-announces-transfer-of-falklands-to-argentina-in-2026",
     "negRisk": false
   },
-  "will-mrbeast-hit-494-million-subscribers-by-june-30": {
-    "id": "2099562",
-    "conditionId": "0x6f4dfac5a6a193e6290ce4c7e0c84365c3edd0b43cd8deb08a4a36fbbad23a15",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-mrbeast-hit-million-subscribers-by-june-30",
-    "negRisk": false
-  },
   "will-mrbeast-hit-497-million-subscribers-by-june-30": {
     "id": "2099563",
     "conditionId": "0x4a608ee36394674e0322f233f8313f33c357a5af181bdf8a11751b52e4dddb60",
@@ -117940,16 +117740,6 @@
     "eventSlug": "new-stranger-things-episode-released-by-wednesday",
     "negRisk": false
   },
-  "will-donald-trump-dance-on-may-25-2026": {
-    "id": "2108049",
-    "conditionId": "0x0eee746a50b8852348403c3832b0c1fde83ed7604953e3f82b0a01e19e1c3fd5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-dance-on",
-    "negRisk": false
-  },
   "will-donald-trump-dance-on-may-30-2026": {
     "id": "2108054",
     "conditionId": "0x18a7396185e0ca2cadf00b979f664c98325326094bcdcb9cd0f126b1ab4d7b64",
@@ -119613,6 +119403,216 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ipl-orange-cap-winner",
+    "negRisk": true
+  },
+  "will-sai-sudharsan-win-the-2026-ipl-orange-cap": {
+    "id": "2109830",
+    "conditionId": "0xe68b5fbaca7f16a804864a31f1480a998dfe73a801589c5189041eaa556bd26e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-orange-cap-winner",
+    "negRisk": true
+  },
+  "will-anthropic-flip-btc-by-december-31": {
+    "id": "2109881",
+    "conditionId": "0x5c0d7c74bbf6ef1e0114e6f75514e3360673e15b6542b78a95363a41c24089d3",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropic-flip-btc-by-december-31",
+    "negRisk": false
+  },
+  "will-bhuvneshwar-kumar-win-the-2026-ipl-purple-cap": {
+    "id": "2109908",
+    "conditionId": "0x7c172b75faee3cb312a5e1b323c5e76712b0049e87cc63652acd6efb987b8ba8",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "will-kagiso-rabada-win-the-2026-ipl-purple-cap": {
+    "id": "2109913",
+    "conditionId": "0x6be25342d707186fbf2ab3e511a95e461768edc8a06e038ec07ce7c5822d1b6a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "will-prasidh-krishna-win-the-2026-ipl-purple-cap": {
+    "id": "2109914",
+    "conditionId": "0x0baba3e0ef6ae4b6dbb82c11c42d910e5c24e322599cb9e04b4bec7d30ff3098",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "will-krunal-pandya-win-the-2026-ipl-purple-cap": {
+    "id": "2109917",
+    "conditionId": "0x723ac0ee169ad48029f813a267145274e9713daadea6f355adc97a6aa330f8b9",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "will-josh-hazlewood-win-the-2026-ipl-purple-cap": {
+    "id": "2109922",
+    "conditionId": "0xb4fca8877bb64c2d726ef7b195cbfbf0e1b7a8756d54de3f1c6f61a14efb205d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "will-mohammed-sira-win-the-2026-ipl-purple-cap": {
+    "id": "2109923",
+    "conditionId": "0xcee1daa676afe0db72359ca1304c4a69dd39bcd893d3c377919815262275bcf6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "will-rashid-khan-win-the-2026-ipl-purple-cap": {
+    "id": "2109926",
+    "conditionId": "0xecaf0b51a92029d09c1f8566d4547f5a4f5a5c65f31d2c34e09ebc8a26e7347e",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ipl-purple-cap-winner",
+    "negRisk": true
+  },
+  "israeli-election-results-in-a-hung-parliament": {
+    "id": "2109956",
+    "conditionId": "0x20ef99fa46f434d2622e1b31a11d090867922f9618e22a79cee444d77b7d3207",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israeli-election-results-in-a-hung-parliament",
+    "negRisk": false
+  },
+  "israel-election-will-likud-lose-seats": {
+    "id": "2110142",
+    "conditionId": "0x9563c2a292cfd52c83ee1f094ce27dc89a6aa499a2b726a77c521c4af04d1302",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-election-will-likud-lose-seats",
+    "negRisk": false
+  },
+  "aws-service-disrupted-by-june-30": {
+    "id": "2110184",
+    "conditionId": "0x2b98e5011459f344e4a58777e18a3eeb011438c3cae729421b24f54d17bacfb3",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "aws-service-disrupted-by-june-30",
+    "negRisk": false
+  },
+  "will-aidan-barry-owens-win-chopped-castaways-season-1": {
+    "id": "2110193",
+    "conditionId": "0xae4514957200dbcc78d80eb6df6e0327b8a66336d69f9c18502a72fb656418c0",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-ara-zada-win-chopped-castaways-season-1": {
+    "id": "2110194",
+    "conditionId": "0xba0736d9d3aef894bfc8a3dc6de28a06315bdf37c8785ff2e965973d66aac0ca",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-carrie-baird-win-chopped-castaways-season-1": {
+    "id": "2110195",
+    "conditionId": "0x3acef8b7ac0737995a6de8fad8c534f855d30a583aac79afba67b9636132f1bc",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-cate-meade-win-chopped-castaways-season-1": {
+    "id": "2110196",
+    "conditionId": "0x40907efff0ad4a265188eb83bf41ff7f2fb38e090187059f9792063e93b3a919",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-dwight-hudgins-win-chopped-castaways-season-1": {
+    "id": "2110197",
+    "conditionId": "0xe846d0c40f010b7d16d35217f83528281023103db310e202d63cd02103a05e7c",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-hannah-flora-win-chopped-castaways-season-1": {
+    "id": "2110198",
+    "conditionId": "0x246ba2f2915cb41a8ce02a274a052e78b3b4817cdd7355fcc845520d0d0cb28a",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-james-peck-win-chopped-castaways-season-1": {
+    "id": "2110199",
+    "conditionId": "0xf6c822c4b2f15735379cc7ed139a98aeeb95896bfe52bf531100bcaf9279135f",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-jean-paul-bourgeois-win-chopped-castaways-season-1": {
+    "id": "2110200",
+    "conditionId": "0x0385fa16d11390be7090f3d2c6c65540f5ecf36d5e74d434f536c031140cd45b",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-logan-sandoval-win-chopped-castaways-season-1": {
+    "id": "2110201",
+    "conditionId": "0xe5edebb0dbca6ae9b2a9ed49901ef1b5ba68f0a3d5b87f50870c44dcf2de42e8",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
     "negRisk": true
   }
 }
