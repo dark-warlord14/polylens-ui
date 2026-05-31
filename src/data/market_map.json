@@ -82735,36 +82735,6 @@
     "eventSlug": "bc-conservative-party-leadership-election-winner",
     "negRisk": true
   },
-  "will-iain-black-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864344",
-    "conditionId": "0x3e332a537d75a5b4e906ea405330441c9d554ed2ebcd2ce64e9bf91b5723187b",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-caroline-elliott-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864345",
-    "conditionId": "0x5d861bb608d5f9e41dee2ec7180d6c6f1d115182d3e3092a9173f6051872e6c1",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-kerry-lynne-findlay-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864346",
-    "conditionId": "0xa66889b1721389724a6c09b76733a2226db64517faf8c93277af869d3fd6ef60",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
   "will-yuri-fulmer-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
     "id": "1864347",
     "conditionId": "0x538703161bcf460bad51c515097e503ed795931183cedc5e178bb852a0612a25",
@@ -82788,16 +82758,6 @@
   "will-darrell-jones-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
     "id": "1864349",
     "conditionId": "0x3817fde27a328dd7e913b9fb754501f45bfa2fe603030038cfe35819a27bc8ab",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-peter-milobar-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864350",
-    "conditionId": "0xe5609de05c8dc10fff59bb718998ae3c106bcc2c9b289c9743b575dd24efdf2a",
     "endDate": "2026-05-30",
     "closed": false,
     "active": true,
@@ -86238,16 +86198,6 @@
   "will-flyquest-win-lcs-2026-spring": {
     "id": "1901181",
     "conditionId": "0xdc946f6247437775000472dadb4c0c448b53c9f6f448bf407ffeb26140f15648",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcs-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-sentinels-win-lcs-2026-spring": {
-    "id": "1901182",
-    "conditionId": "0xfd10d7f3519c79ec967eff7a1d52c21c379a9fdff644ae670ec54265821e7741",
     "endDate": "2026-06-14",
     "closed": false,
     "active": true,
@@ -119613,6 +119563,56 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "anthropics-supply-chain-risk-designation-removed-by",
+    "negRisk": false
+  },
+  "another-critical-cloudflare-incident-by-may-31-2026-382": {
+    "id": "2116203",
+    "conditionId": "0x05d4246d5278fd06e9d2bd37d9f43f8a5f1be5278d72a7bab075622ba37169b0",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "another-critical-cloudflare-incident-by-995",
+    "negRisk": false
+  },
+  "another-critical-cloudflare-incident-by-june-30-2026-966": {
+    "id": "2116204",
+    "conditionId": "0x71ae0e87ed7f12c78c4677404c5c1df18322223a6f49701d07d85163d804d73e",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "another-critical-cloudflare-incident-by-995",
+    "negRisk": false
+  },
+  "another-critical-cloudflare-incident-by-september-30-2026": {
+    "id": "2116205",
+    "conditionId": "0x3c5921c2dc445e07236fabaab789e8b5b219cc73199e82160b17b9539d758d4b",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "another-critical-cloudflare-incident-by-995",
+    "negRisk": false
+  },
+  "cs2-psna-inf1-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2116349",
+    "conditionId": "0x80be01dacc7b94b2056ea98f1b5ad67efe073415fd96522459385115ee610f84",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-inf1-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-psna-inf1-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2116353",
+    "conditionId": "0xe09385894cda396a41121357bb72c49bae2523db2aff40e930ddbf79cb7006fa",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-inf1-2026-05-01",
     "negRisk": false
   }
 }
