@@ -149,16 +149,6 @@
     "eventSlug": "2026-nhl-stanley-cup-champion",
     "negRisk": true
   },
-  "will-the-oklahoma-city-thunder-win-the-2026-nba-finals": {
-    "id": "553856",
-    "conditionId": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-champion",
-    "negRisk": true
-  },
   "will-the-new-york-knicks-win-the-2026-nba-finals": {
     "id": "553858",
     "conditionId": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
@@ -1952,16 +1942,6 @@
   "will-the-oklahoma-city-thunder-win-the-nba-western-conference-finals": {
     "id": "564210",
     "conditionId": "0x4cf389adc069a4d713e1ddb6348c96afd6df78e6bf676c7dce1780135186d90e",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-champion",
-    "negRisk": true
-  },
-  "will-the-san-antonio-spurs-win-the-nba-western-conference-finals": {
-    "id": "564218",
-    "conditionId": "0xe3e8574f967e628750dff67c641944a84da281ced40ffe7c76e42649e89a6887",
     "endDate": "2026-06-16",
     "closed": false,
     "active": true,
@@ -34459,16 +34439,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-coco-gauff-win-the-2026-womens-french-open": {
-    "id": "1087761",
-    "conditionId": "0x9ec71fa02a69c376465ef1d997dd3c2fb9da5a33b70c45e607bba1fcc1d05907",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-mirra-andreeva-win-the-2026-womens-french-open": {
     "id": "1087762",
     "conditionId": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
@@ -34492,16 +34462,6 @@
   "will-elina-svitolina-win-the-2026-womens-french-open": {
     "id": "1087768",
     "conditionId": "0xa3879b3a8991b8335f3da24e98a15b90e72eb2e68b9f506fca224dabf45d3af6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-victoria-mboko-win-the-2026-womens-french-open": {
-    "id": "1087772",
-    "conditionId": "0x56dabf0425ea8f46866bf0ee3c72def39314874dc65da17ca3a05363aef30b33",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -41596,16 +41556,6 @@
   "will-luka-mesec-be-the-next-prime-minister-of-slovenia": {
     "id": "1193236",
     "conditionId": "0x136448d30eb93b598b633904f966cf5b161f6124b297fe157aeb47ed782c76ca",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-zoran-stevanovi-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193237",
-    "conditionId": "0xed0ba2dbbf162ede382f5b3176c9278a4cb89c113ba9e0228be365820d297ded",
     "endDate": "2026-03-22",
     "closed": false,
     "active": true,
@@ -63486,266 +63436,6 @@
     "eventSlug": "uefa-champions-league-most-player-of-the-match-awards",
     "negRisk": true
   },
-  "will-declan-rice-record-the-most-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400055",
-    "conditionId": "0x67c9a461c9954f29aad9ea067ff8c9b60035cd9e68b1a8ec4e1e1911f1fb7c36",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-cards",
-    "negRisk": true
-  },
-  "will-martn-zubimendi-record-the-most-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400056",
-    "conditionId": "0xfa9af9addf134b415a1b8165fd38f8577d439cda65e21c6e93cd8bdd3b20842b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-cards",
-    "negRisk": true
-  },
-  "will-mikel-merino-record-the-most-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400057",
-    "conditionId": "0xf7694521de358d92d3c2db6e32958ca923a9218378a04d1156ca2a7e88950a23",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-cards",
-    "negRisk": true
-  },
-  "will-morten-hjulmand-record-the-most-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400061",
-    "conditionId": "0x5701c8dcf8ea50a284b1aeaeb2ecc1d39e0f99dc0c7f2019fadc939305117d87",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-cards",
-    "negRisk": true
-  },
-  "will-santiago-hezze-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400119",
-    "conditionId": "0xb5ed525aab04b11c19992155eee295acface0dbaa2e57492acb5953efa060491",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-declan-rice-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400121",
-    "conditionId": "0x62516b9ebabde32f24d7a560991e58647744d65b84b3b78063dc4165e0058abe",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-martn-zubimendi-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400122",
-    "conditionId": "0x3f1e8f910f7fbf71a14585b0d5ae1cf8f86fd85c5f2b0bfc5a98b5a0dd70f086",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-mikel-merino-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400123",
-    "conditionId": "0xe0f5bbc726059fd67d2b86caea9a64dbdc3ddfc786c1fff015d7e288f955bf07",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-kim-min-jae-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400125",
-    "conditionId": "0x5aac65b5de66c1150fcc0ce226a236034486a6aa809dc1acc5404660e5c30436",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-robert-andrich-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400127",
-    "conditionId": "0x559139a1488d5879e3073007dea1f784b518381acb0d550a95004089ecccbcad",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-lucas-hernndez-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400128",
-    "conditionId": "0xa053b97fce276bb885425d0253bccef9f6b25bf3fb5b8cab3af8cd934d0a950b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-ilya-zabarnyi-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400129",
-    "conditionId": "0x143bc89a5a4398b315ebc51cf2473e19a86421f79a75751c5b19a6de5ea09328",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-luis-diaz-record-the-most-red-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400130",
-    "conditionId": "0x072eab8c444cd4c279937f516c97975515f50aff9817557738a20a212b3a9382",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-red-cards",
-    "negRisk": true
-  },
-  "will-declan-rice-record-the-most-yellow-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400157",
-    "conditionId": "0xdea7c85f11943b8a6ace90ac34f58eefb9772e9a49c1c0c38ecb9449b4248345",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-yellow-cards",
-    "negRisk": true
-  },
-  "will-martn-zubimendi-record-the-most-yellow-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400158",
-    "conditionId": "0x2113f0677a4d53aae64f0151746af96aea06a7f6320f4f184ee5da5ca301a43f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-yellow-cards",
-    "negRisk": true
-  },
-  "will-mikel-merino-record-the-most-yellow-cards-in-2025-26-uefa-champions-league": {
-    "id": "1400159",
-    "conditionId": "0xb85223855e77bf9c4544f163a4ed968d445ae9047276bb26e86b1dca1bbebca4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-yellow-cards",
-    "negRisk": true
-  },
-  "will-michael-olise-record-the-most-assists-in-the-2025-26-uefa-champions-league": {
-    "id": "1400189",
-    "conditionId": "0xb50e1f31a2ace80bbf51934231f9d90af9fb259a0c687e452196bb8581127fc2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-assists",
-    "negRisk": true
-  },
-  "will-vincius-jnior-record-the-most-assists-in-the-2025-26-uefa-champions-league": {
-    "id": "1400190",
-    "conditionId": "0x3c470aeef9db9db71c8b8a1dd88d00d2e5fd56e63a62146ad66745f70499524e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-assists",
-    "negRisk": true
-  },
-  "will-khvicha-kvaratskhelia-record-the-most-assists-in-the-2025-26-uefa-champions-league": {
-    "id": "1400193",
-    "conditionId": "0x388458150da509a1c194b91c648b267f5ffb3995fd345f3ed6666ab1b6bd712b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-assists",
-    "negRisk": true
-  },
-  "will-leandro-trossard-record-the-most-assists-in-the-2025-26-uefa-champions-league": {
-    "id": "1400200",
-    "conditionId": "0x7bd85ef1e428ea74099599362c68072bd1debd94bc01f2561bc0f16178b6617e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-assists",
-    "negRisk": true
-  },
-  "will-achraf-hakimi-record-the-most-assists-in-the-2025-26-uefa-champions-league": {
-    "id": "1400202",
-    "conditionId": "0xd358d9ff52464adc06d8e355dac5090765a8dd1e5183fc0d8aad005015533544",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-assists",
-    "negRisk": true
-  },
-  "will-kylian-mbapp-have-the-most-goal-contributions-in-the-2025-26-champions-league": {
-    "id": "1400343",
-    "conditionId": "0xea1f07821262ac8445d3eee832489988ccf9b6ce1414574a42064944e4aebb98",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-harry-kane-have-the-most-goal-contributions-in-the-2025-26-champions-league": {
-    "id": "1400345",
-    "conditionId": "0x62ba6da09381bea860d8a3ae8b5a886a126836187cc65eacd7ce62fce928117a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-gabriel-martinelli-have-the-most-goal-contributions-in-the-2025-26-champions-league": {
-    "id": "1400349",
-    "conditionId": "0x0e57985bf1915f1be8f89b403b8aa4b070d279273fffb465a25bba061a57e060",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-vitinha-have-the-most-goal-contributions-in-the-2025-26-champions-league": {
-    "id": "1400355",
-    "conditionId": "0xa1638a597b4c0c591a43ad5cbcd6461ac71e2b4be13fc0da3d48accb4dfc52a6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-khvicha-kvaratskhelia-have-the-most-goal-contributions-in-the-2025-26-champions-league": {
-    "id": "1400356",
-    "conditionId": "0x76a3860be1c738789e7224debb67024812a1d6f606fbf010a7306fe589e9cbad",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-most-goal-contributions",
-    "negRisk": true
-  },
   "les-wexner-charged-by-june-30": {
     "id": "1402896",
     "conditionId": "0xc2150d5d58c957816dcf137776a3ab002b038c582acfc36510f59547ddbb5f58",
@@ -68825,26 +68515,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-israel-reopen-its-embassy-in-iran-in-2026",
     "negRisk": false
-  },
-  "will-a-team-from-england-be-the-2026-champions-league-winner": {
-    "id": "1510177",
-    "conditionId": "0x831c01fffcd137a9ebba18cfcf976d68cadf475a4e2eab22af1f822dc7386482",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-home-country-of-champion",
-    "negRisk": true
-  },
-  "will-a-team-from-france-be-the-2026-champions-league-winner": {
-    "id": "1510181",
-    "conditionId": "0x582deddec9e371ede95b6884df883ccc477204aceff7ef1a1175f3091860aff3",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-champions-league-home-country-of-champion",
-    "negRisk": true
   },
   "will-markwayne-mullin-be-the-republican-nominee-for-senate-in-oklahoma": {
     "id": "1510486",
@@ -77836,16 +77506,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-reda-bsta-2026-03-31",
-    "negRisk": false
-  },
-  "cs2-mw-mibra-2026-03-31-game1-odd-even-total-kills": {
-    "id": "1808490",
-    "conditionId": "0xc532e498096447ca8975a55b214463b34ecc2c24928e53297582461521a0614e",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mw-mibra-2026-03-31",
     "negRisk": false
   },
   "cs2-mw-mibra-2026-03-31-game2-odd-even-total-kills": {
@@ -86845,16 +86505,6 @@
     "eventSlug": "lol-lec-2026-spring-winner",
     "negRisk": true
   },
-  "will-natus-vincere-win-lec-2026-spring": {
-    "id": "1901204",
-    "conditionId": "0xdb53a7bbcad4e297b63b64d7ca28263980dfbdec60d9def1e717d90c207158ff",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lec-2026-spring-winner",
-    "negRisk": true
-  },
   "will-t1-esports-academy-win-lck-cl-2026": {
     "id": "1901217",
     "conditionId": "0x59eb2355686ab8704c51c5233b7ca03cac1b5816021edfae405d70529bfc0b75",
@@ -88187,16 +87837,6 @@
   "will-rafael-jodar-win-the-2026-roland-garros-mens-singles": {
     "id": "1920472",
     "conditionId": "0x79c0db8c09b6cd7e8e7265f3eb3f4cd8055844bdc730cbab4d22d9d0479fe7e2",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-martin-landaluce-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920473",
-    "conditionId": "0xaffb42641df45609bf966e08625b30af5a59a77c8dfeaacf6fc75d03598dab08",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -90712,26 +90352,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "spacex-ipo-by",
-    "negRisk": false
-  },
-  "will-oklahoma-city-thunder-advance-to-the-2026-nba-finals": {
-    "id": "1971153",
-    "conditionId": "0x30559e31f290dec39d89428f4b1588798726929453ddce71b5f79c4992357c5a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-team-to-advance-to-nba-finals",
-    "negRisk": false
-  },
-  "will-san-antonio-spurs-advance-to-the-2026-nba-finals": {
-    "id": "1971154",
-    "conditionId": "0x7967967ffa30fe23ae4b5af8cd8d343bb3ca505fa4f64aee297517c1de657776",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-team-to-advance-to-nba-finals",
     "negRisk": false
   },
   "will-apple-stop-selling-macbook-neo": {
@@ -97942,16 +97562,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-lph-navij1-2026-04-18",
-    "negRisk": false
-  },
-  "nba-shai-gilgeous-alexander-award-repeat": {
-    "id": "2008342",
-    "conditionId": "0xab610cd2c01f8c628f3992363a2ac7964036c94851fda7e20c200f73664c7c16",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-shai-gilgeous-alexander-award-repeat",
     "negRisk": false
   },
   "will-trump-meet-with-giorgia-meloni-by-december-31-2026": {
@@ -119614,5 +119224,395 @@
     "acceptingOrders": true,
     "eventSlug": "who-will-win-chopped-castaways",
     "negRisk": true
+  },
+  "will-paulette-tejada-win-chopped-castaways-season-1": {
+    "id": "2110202",
+    "conditionId": "0x001508d963419721d6bf4146f49923756acae4c34acace6525d3c9b092b598b4",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-stephen-kina-win-chopped-castaways-season-1": {
+    "id": "2110203",
+    "conditionId": "0x28de13f15fdb5a89b445233acac31bf3ae4f5e88efee7c650b13d21fcf499bca",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-sunny-moody-win-chopped-castaways-season-1": {
+    "id": "2110204",
+    "conditionId": "0xd1dfd347db44fabb8ebe6431b425205cf111fafeec2717b4a3884d120d7e3511",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-win-chopped-castaways",
+    "negRisk": true
+  },
+  "will-moonshot-ais-kimi-k3-model-be-released-by-may-31-2026": {
+    "id": "2110217",
+    "conditionId": "0x049136c0b43ffdeb87b809d86b1e7118385247c99b4f4ed2e5489e07658badfe",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kimi-k3-released-by",
+    "negRisk": false
+  },
+  "veo-4-released-by-june-30-2026": {
+    "id": "2110220",
+    "conditionId": "0x3f426bad519776f3154ba11aa1050d8cc48cf756a14c0b3633cc5aad8f96fa83",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "veo-4-released-by",
+    "negRisk": false
+  },
+  "netanyahu-drops-out-of-israel-election-by-july-31": {
+    "id": "2110241",
+    "conditionId": "0x54340f047993498875e98e36447577fffa83a23de09b613ab7b2e98bbb7b41dc",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "netanyahu-drops-out-of-israel-election-by-july-31",
+    "negRisk": false
+  },
+  "will-a-new-gemini-flagship-be-released-by-may-31-2026-623-692-974": {
+    "id": "2110293",
+    "conditionId": "0xfae1c666cdab9c06a1e6cfce6fbd6bb070185f3f056a5afb9191294dc913e3fa",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-gemini-reasoning-flagship-released-by",
+    "negRisk": false
+  },
+  "will-a-new-gemini-flagship-be-released-by-june-30-2026-184-989-265": {
+    "id": "2110294",
+    "conditionId": "0x55531f18047d867e870e97ab7ab9361af02b69aeb5f04c37fef43fc50b20a11a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-gemini-reasoning-flagship-released-by",
+    "negRisk": false
+  },
+  "us-issues-passport-with-trumps-face-on-it-by-july-31": {
+    "id": "2110295",
+    "conditionId": "0xf461f2ca1c982950ac5af660f9c6cd52e08c135f546bc659fa2851aa1c0b6db0",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-issues-passport-with-trumps-face-on-it-by-july-31",
+    "negRisk": false
+  },
+  "will-openai-release-a-new-frontier-model-on-or-before-june-30-2026-544": {
+    "id": "2110507",
+    "conditionId": "0x0b7cfc4bcf5e118be1bc623656eb6812e5b146986e5df511cb9ce587fb585205",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openai-release-a-new-frontier-model-by",
+    "negRisk": false
+  },
+  "will-openai-release-a-new-frontier-model-on-or-before-september-30-2026-662": {
+    "id": "2110508",
+    "conditionId": "0xe710127903f17a408ec46d332f0b524f987d472c15605b63b2ee67ac6ffbd75e",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openai-release-a-new-frontier-model-by",
+    "negRisk": false
+  },
+  "rocket-labs-neutron-rocket-launch-by-december-31-691": {
+    "id": "2110524",
+    "conditionId": "0x0ccaeeb15c2a00661f59afc087e0cb8e3ee338e3280dce3d1c17c0084cfbe526",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "rocket-labs-neutron-rocket-launch-by-december-31-691",
+    "negRisk": false
+  },
+  "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election": {
+    "id": "2110576",
+    "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-election-likud-of-seats",
+    "negRisk": true
+  },
+  "will-likud-win-20-24-seats-in-the-2026-israeli-legislative-election": {
+    "id": "2110577",
+    "conditionId": "0x3135bdbe2e03604ff34296d209bccf73d7e90b47f634bf47becffaad852c064d",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-election-likud-of-seats",
+    "negRisk": true
+  },
+  "will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election": {
+    "id": "2110578",
+    "conditionId": "0xd63e1e2db811ba09972cbac9810edcca72ffdc1d195c03547ac0be2fb7a3c3d7",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-election-likud-of-seats",
+    "negRisk": true
+  },
+  "will-likud-win-30-34-seats-in-the-2026-israeli-legislative-election": {
+    "id": "2110579",
+    "conditionId": "0xc855714184ac46005a7897c68f274147f0abf1fde791421541edb065fa65a1e4",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-election-likud-of-seats",
+    "negRisk": true
+  },
+  "will-likud-win-35-or-more-seats-in-the-2026-israeli-legislative-election": {
+    "id": "2110580",
+    "conditionId": "0x78b3aec55f914a149fc110ffd4dcfb008ff94e2df4a451b396f7c14a572d6aa7",
+    "endDate": "2026-10-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-election-likud-of-seats",
+    "negRisk": true
+  },
+  "will-anthropics-market-cap-be-less-than-0pt6t-at-market-close-on-ipo-day-by-december-31-2027": {
+    "id": "2110748",
+    "conditionId": "0xdc8f045babfcacd35d70d9a27ae9b9c621477bf720159a7816560a34e84f2c1f",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-anthropics-market-cap-be-between-0pt6t-and-0pt9t-at-market-close-on-ipo-day-by-december-31-2027": {
+    "id": "2110749",
+    "conditionId": "0xdebea2ab47315c433eaaa36d005e1063a59dc9119ceacfe1c1545407732e25bf",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-anthropics-market-cap-be-between-0pt9t-and-1pt2t-at-market-close-on-ipo-day-by-december-31-2027": {
+    "id": "2110750",
+    "conditionId": "0x17459272717ce2de6d4d6aaff53b307381f03c07d44b56e839d38ac2f8b69b3c",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-anthropics-market-cap-be-between-1pt2t-and-1pt5t-at-market-close-on-ipo-day-by-december-31-2027": {
+    "id": "2110751",
+    "conditionId": "0x510736e7804a288592abab4105eca3399cbd562cd49a6d4e0289362490cc4825",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-anthropics-market-cap-be-between-1pt5t-and-1pt8t-at-market-close-on-ipo-day-by-december-31-2027": {
+    "id": "2110752",
+    "conditionId": "0x96020960debc2b7b4dc46511bb1f8e63495aa7ecd4a2685e8f8d246adc6ad45b",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-anthropics-market-cap-be-1pt8t-or-greater-at-market-close-on-ipo-day-by-december-31-2027": {
+    "id": "2110753",
+    "conditionId": "0x2709a9392fcfe2348ad935b3158d5e4184ef484cf233d536ecdaa3148bda4aad",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-anthropic-not-ipo-by-december-31-2027-386": {
+    "id": "2110754",
+    "conditionId": "0x76da168d7d7e6ece329dfefc5c340562180927016f1ba724ce954f8445446db8",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-ipo-closing-market-cap-979",
+    "negRisk": true
+  },
+  "will-comey-smile-in-his-mugshot-by-may-31": {
+    "id": "2110802",
+    "conditionId": "0x9bf0f1ff4a29b21ee29c3c1c1ae38a8d3b285487f81a1bf2f9bdee5ce1148b88",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-comey-smile-in-his-mugshot-by-may-31",
+    "negRisk": false
+  },
+  "james-comey-in-jail-by-june-30": {
+    "id": "2111017",
+    "conditionId": "0x1759862b415c1a2a04a53f262083f65d376091b603727529f3737d6e1bcdd8e5",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "james-comey-in-jail-by-june-30",
+    "negRisk": false
+  },
+  "another-trump-political-opponent-federally-charged-by-may-31": {
+    "id": "2111517",
+    "conditionId": "0x65a6536a8af0d6945c149cc54ad16c28bc1a717b1d88a6f9401f16d47d4b450c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "another-trump-political-opponent-federally-charged-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-agree-to-iranian-enrichment-of-uranium-by-may-31": {
+    "id": "2111561",
+    "conditionId": "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-agree-to-iranian-oil-sanction-relief-by-may-31": {
+    "id": "2111562",
+    "conditionId": "0xa37173a88dc5622e1c42e9f8f5a9d20d70b9b99e52cb76e64fb0ad95503fcaef",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-agree-to-iranian-transit-fees-in-the-strait-of-hormuz-by-may-31": {
+    "id": "2111563",
+    "conditionId": "0xb4067f81957ef1458e9712000807a4525c595f3c25a0c933ec2f69c0efb2e878",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+    "negRisk": false
+  },
+  "will-trump-agree-to-unfreeze-iranian-assets-by-may-31": {
+    "id": "2111564",
+    "conditionId": "0x8374c773aa911e00a8d5c02e0130d57d18a9b5035b26e50f0e48ef1b74dd5c75",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+    "negRisk": false
+  },
+  "iran-agrees-to-unrestricted-shipping-through-hormuz-by-may-31": {
+    "id": "2111605",
+    "conditionId": "0x83831604f88a889311dc484abc0d327d96f494bba9d41084bf1b84d8a991e97b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "iran-agrees-to-unrestricted-shipping-through-hormuz-by-may-31",
+    "negRisk": false
+  },
+  "iran-agrees-to-end-enrichment-of-uranium-by-may-31-945": {
+    "id": "2111624",
+    "conditionId": "0x09148e8a5260a4c40aceb29badc45845fe08330497756bfcc1017c478c28bb65",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "iran-agrees-to-end-enrichment-of-uranium-by-may-31-945",
+    "negRisk": false
+  },
+  "us-iran-nuclear-deal-by-may-31-974": {
+    "id": "2111640",
+    "conditionId": "0xbeab83146920be8f52b52fdbcb3464b24dc553f7b47eb4249243385b0faad271",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-iran-nuclear-deal-by-may-31-974",
+    "negRisk": false
+  },
+  "cs2-tlr-g2a-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2112100",
+    "conditionId": "0x92210add8291755557f9e38070aa3b9827ea67356925a62b974816108e5f4ae8",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-tlr-g2a-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-psna-rt1-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2113001",
+    "conditionId": "0x828122962f3d090d13a1e383d3e2c8059ab5b6dcd3b1b0e707fb7f1ab66415b1",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-rt1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-psna-rt1-2026-04-29-game2-odd-even-total-kills": {
+    "id": "2113003",
+    "conditionId": "0xa6af4420dd023ec0cc7a9657483cb48c354e305a20dcb18c1eb2fdcef3c25b03",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-rt1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-inf1-algo1-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2113012",
+    "conditionId": "0x448f0685422f3401382c91b2a97ef4655d4c931cf1a87b2fd0ca32a072816563",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-algo1-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-inf1-algo1-2026-04-29-game2-odd-even-total-kills": {
+    "id": "2113014",
+    "conditionId": "0xf7e9baa15facd6f231e575884406ee283395048ed548ba96dd7c70b4b49de262",
+    "endDate": "2026-04-29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-algo1-2026-04-29",
+    "negRisk": false
   }
 }
