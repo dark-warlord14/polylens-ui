@@ -1939,16 +1939,6 @@
     "eventSlug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
     "negRisk": false
   },
-  "will-the-oklahoma-city-thunder-win-the-nba-western-conference-finals": {
-    "id": "564210",
-    "conditionId": "0x4cf389adc069a4d713e1ddb6348c96afd6df78e6bf676c7dce1780135186d90e",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-champion",
-    "negRisk": true
-  },
   "will-the-republicans-win-the-2028-us-presidential-election": {
     "id": "565064",
     "conditionId": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
@@ -16482,16 +16472,6 @@
   "will-hyperliquid-reach-80-by-december-31-2026": {
     "id": "701727",
     "conditionId": "0xc2b3271feb6086186483f74883b31cf018996505827f4a23a1cc86ef03c5d9c4",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-hyperliquid-hit-before-2027",
-    "negRisk": false
-  },
-  "will-hyperliquid-reach-70-by-december-31-2026": {
-    "id": "701728",
-    "conditionId": "0xcd9228e46e7ace46a2e18396932cb2f6336725d8d83877b51f95e1be9c5bdf8e",
     "endDate": "2027-01-01",
     "closed": false,
     "active": true,
@@ -34309,16 +34289,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-iga-witek-win-the-2026-womens-french-open": {
-    "id": "1087759",
-    "conditionId": "0x80b8b8568be8e6d54f8417ce5ebf2e7971f97373556dc262a658d3dcaacd392a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-aryna-sabalenka-win-the-2026-womens-french-open": {
     "id": "1087760",
     "conditionId": "0x04b07eb732d888c94096b4fc46dc747b745e06749c21ed2e633ca7e1a6586647",
@@ -41371,76 +41341,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "next-prime-minister-of-sweden",
-    "negRisk": true
-  },
-  "will-robert-golob-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193228",
-    "conditionId": "0x409836e4b9af0e8f7d1c2cc5f071d9ecb85efe706091323c4294c6859cc09ba0",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-ane-logar-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193230",
-    "conditionId": "0xdcdecdd86db43aa1d0c4ed4fc80142e86597c5383a22eccf006464c29099371c",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-vladimir-prebili-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193231",
-    "conditionId": "0x066ab5c23968b87e3dedae9843889eb60de22dfa07498d938bafee0b684439cb",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-matej-tonin-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193233",
-    "conditionId": "0xa4d31073f91b374d48f88fe57cf464aec5560c4c50aefe3054e6b07e60c689a3",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-matja-han-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193234",
-    "conditionId": "0x9ee838de5854af764b759d50ffe64b3ef9ae7bdc326f08ce7cae059fc500e4f0",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-jernej-vrtovec-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193235",
-    "conditionId": "0x4c04287bbfd19a0d3bd2ba802fc5250c8e4f5025d2b5cff1c5af518fc8c4091f",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
-    "negRisk": true
-  },
-  "will-luka-mesec-be-the-next-prime-minister-of-slovenia": {
-    "id": "1193236",
-    "conditionId": "0x136448d30eb93b598b633904f966cf5b161f6124b297fe157aeb47ed782c76ca",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-slovenia",
     "negRisk": true
   },
   "will-eurozone-annual-gdp-growth-in-2026-be-less-than-0": {
@@ -82715,56 +82615,6 @@
     "eventSlug": "trsk-gal-tra-2026-05-01",
     "negRisk": true
   },
-  "will-bruce-banman-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864342",
-    "conditionId": "0xb726b225ad1f7645c25a487b2bbe4ad899e7896bc99f28c4a4f52726f7eedb07",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-harman-bhangu-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864343",
-    "conditionId": "0x030766ce5d9ea9317962c2e8524011d6b5b27c1baa98d37029e09617b7bc200c",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-yuri-fulmer-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864347",
-    "conditionId": "0x538703161bcf460bad51c515097e503ed795931183cedc5e178bb852a0612a25",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-warren-hamm-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864348",
-    "conditionId": "0x281cb5df9f1d35bf0611419345c131e783e48b46a395f43173438888b09e1d10",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
-  "will-darrell-jones-win-the-2026-conservative-party-of-british-columbia-leadership-election": {
-    "id": "1864349",
-    "conditionId": "0x3817fde27a328dd7e913b9fb754501f45bfa2fe603030038cfe35819a27bc8ab",
-    "endDate": "2026-05-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bc-conservative-party-leadership-election-winner",
-    "negRisk": true
-  },
   "lol-es1-tog-2026-04-10-game1-odd-even-total-kills": {
     "id": "1868884",
     "conditionId": "0xe47738cb535d5d618f1c7e87e2ff8c09165e9d4793fd5398ed43b7052c1d6fd9",
@@ -90344,426 +90194,6 @@
     "eventSlug": "bank-of-korea-decision-in-july",
     "negRisk": true
   },
-  "will-shai-gilgeous-alexander-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972631",
-    "conditionId": "0x751209175bad31623cf007e485764b087f89b48c85235b55e9ecdaa380445f6c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-chet-holmgren-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972632",
-    "conditionId": "0xb6bdc59cd706440f5fe1af65295683fa1c5446ea87ea42ecb7c62d4cc29e82c5",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-lebron-james-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972633",
-    "conditionId": "0x24f1f7da72748d9b43accad9b0edd25a176316942e258853d484752629eca0d5",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-luka-doncic-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972634",
-    "conditionId": "0x41615e25ed962a3b0216b597cef2ed03b65815f0652bc3c98fb61d232aec16fe",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-kevin-durant-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972635",
-    "conditionId": "0x38cd9c66e6f03ce23dad10b77e8522ece587303ef3be3c3d0e00c83c50d83b61",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-alperen-sengun-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972636",
-    "conditionId": "0x6218c518f302510ac5a7b96c0238c483582d6ca5d0aa0a6f932e7d2b6d402bf6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-nikola-jokic-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972637",
-    "conditionId": "0xae713e38d20692cbe9875dc6cd8dd65fe8079eeac78514fbfcac70f85cc97518",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jamal-murray-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972638",
-    "conditionId": "0x109a65f49127f40caddc317cfde923aa901f9f39d10c3baa01accdc95edec70c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-anthony-edwards-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972639",
-    "conditionId": "0x66387705163c55b3b5c77c636695ece76f640e923aab9cb0a97c2ddabb9f70af",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-victor-wembanyama-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972640",
-    "conditionId": "0xb083f3b8895b91ff00760854ccbd882163b81de6313994f586035ef8d8ab4852",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-julius-randle-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972641",
-    "conditionId": "0x34b675da7f1f3e1d90161ff85612e72ec27e28f79b2beaed59434ad3a6b3ac68",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-deaaron-fox-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972642",
-    "conditionId": "0xd62948935ddbb45ace1b8e29c73d69775a7063d7c6a0f546601f92e743e25e98",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-kawhi-leonard-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972643",
-    "conditionId": "0xe2240b4b52bcabd7a6e9ccc43be4e350265c6b1a9d73dce7c857ddf681d654e2",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-darius-garland-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972644",
-    "conditionId": "0x9d084e8fa88f9d9378980e41b15fe85655d73893b2377bbd5c56545bc986956f",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-stephen-curry-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972645",
-    "conditionId": "0x9b73f1809eb086f252683e77a1e356372560b9299cc0ad7e3a0a78407b913147",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-devin-booker-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972646",
-    "conditionId": "0x98cb0b5b34c5620107abd6fb9248046508d8da3b0321d2fbc557577518914ee7",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-deni-avdija-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972647",
-    "conditionId": "0x43f29eda7db23de1673da908f116bb8bb424ac342da60096367c76fee22fe258",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-player-a-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972648",
-    "conditionId": "0xf5d9a698fe2d6d03b10441acf8cf56a3a3d82ac78b6c6ddefde3fa4c57ba6323",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-ajay-mitchell-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972649",
-    "conditionId": "0x308237f97d398281a26e55bd3af1508a67125108e5fe7fc540f605130fb2a81b",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-isaiah-hartenstein-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972650",
-    "conditionId": "0x46b8d81aa88acbd7b271a9513c32f6d9c34b95d2e9d06a7b5eff925915151a9f",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-alex-caruso-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972651",
-    "conditionId": "0x3e885be68e6de73a97d7bce87ba313cd0f3a1af51fb4f0acf99cbd88fa379703",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-cason-wallace-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972652",
-    "conditionId": "0xfdceea05a4e4683ae2a924e27661a01ac5bae525cda5758abad9c74c8347b7ed",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jared-mccain-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972653",
-    "conditionId": "0x09f6e65b1415a72789548f9e951ba15401addd3203e7d48c2f672ee717a8e5e1",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-isaiah-joe-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972654",
-    "conditionId": "0xc0b85b4a95f7f84ef7b24041cb550eaa3e20c85e97664ad5874b9b7a6b068ab9",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-luguentz-dort-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972655",
-    "conditionId": "0xa4ae1a865ef481752b399953b3cb58da3eed7e5a5abd9d629f490719d175d0ec",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jaylin-williams-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972656",
-    "conditionId": "0x216a7b0e3414dc9f208245bf2c0dd0359bb0f46d8cbbcb35126a32564d6420af",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-aaron-wiggins-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972657",
-    "conditionId": "0xdca40508b8da9181e557a7b775e1eaa9a6c3b450e5cd9977325bd612aae7a3a7",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-nikola-topi-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972658",
-    "conditionId": "0x325c99165f83c275a95c289bec0752162c3867ba3a7399d14f89122d98cbd377",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-kenrich-williams-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972659",
-    "conditionId": "0xa3e834baa363cba88d309adaa7b10eeba7a507278d96c03367bdc26fc363520e",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-stephon-castle-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972660",
-    "conditionId": "0x1405a39aa13f203e896ee3da0b4ba06101b338508da9381a64552609870a4885",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-dylan-harper-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972661",
-    "conditionId": "0x6430f045d11d7f86bf853e17c1f60d419aa570c94bf8bb3467bfe1199fed340c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-devin-vassell-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972662",
-    "conditionId": "0xdf59b3a99e97e8e680f37664193317bc8b499af5102203366d12c31cb8b0fad1",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-julian-champagnie-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972663",
-    "conditionId": "0x4111591626007de175ef8533c9d21f5f9a1033c35793a0adbd6e1fe6e7685b71",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-keldon-johnson-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972664",
-    "conditionId": "0x47aebf1d7592c6128bb2906933d750296d72cd8c3247a0f69efa0ab595e24667",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-luke-kornet-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972665",
-    "conditionId": "0xb374ade62efdf2d6914d6fa1d0078eb2f620b6fe28472d3c39c0fb662c600c88",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-carter-bryant-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972666",
-    "conditionId": "0x3ff23b89551b62ddb7979f1c806fb96842943ab87b1e93857b533fc2c585b7e6",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-harrison-barnes-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972667",
-    "conditionId": "0x1eec8ddc69071c30fa9639630000698955bb1bf01bc50f3344b857d4e5b58c86",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-kelly-olynyk-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972668",
-    "conditionId": "0x73c1de3cd4d62b444ec2813b1af21e3a14b01cfdae05dd0b46dd4abad3a09d7b",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-lindy-waters-iii-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972669",
-    "conditionId": "0x811327824118a04868269fb6f40845d01a6662c34bf8e9882a725301e440a63d",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-jordan-mclaughlin-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972670",
-    "conditionId": "0xb65893361c808f8464442e45bb1d705f1cbee0c51a95e52771df3a58cbeb089c",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-bismack-biyombo-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972671",
-    "conditionId": "0x058fd6945c2e62bdd321756dfdb5c27999be7a2b28015ae29569cf884e3eac78",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
-  "will-mason-plumlee-win-the-2026-western-conference-finals-mvp": {
-    "id": "1972672",
-    "conditionId": "0x54c60b3230aecdaafd9eac4b282835f84ccf2f24e3642cfaba9bed9074d79870",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-western-conference-finals-mvp",
-    "negRisk": true
-  },
   "will-shai-gilgeous-alexander-win-the-2026-nba-finals-mvp": {
     "id": "1972785",
     "conditionId": "0xfd699b8be7d72f27ff9c6dec07384eef04ed49ddfbe2c5189035253bcebe8108",
@@ -95557,16 +94987,6 @@
   "will-nvidia-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
     "id": "1999658",
     "conditionId": "0xa9ea404ee746ae6b3c14ac41aa888ca2538888192dd9169a7911368ccc570db4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-apple-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999660",
-    "conditionId": "0x2416ec42d46d41184dcc5a4e72f3522f79591bd3324fefcc35148cde7d91aef5",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -119614,5 +119034,585 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-psna-inf1-2026-05-01",
     "negRisk": false
+  },
+  "cs2-rt1-algo1-2026-05-02-game1-odd-even-total-kills": {
+    "id": "2116371",
+    "conditionId": "0xa15e8a036ee5d228b296d101c8fea55fb724ff23e8e17f172577f41f70e4e3c9",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-rt1-algo1-2026-05-02",
+    "negRisk": false
+  },
+  "cs2-rt1-algo1-2026-05-02-game2-odd-even-total-kills": {
+    "id": "2116373",
+    "conditionId": "0xcbbe7ee5f55c4500d4735520833f9323ad8a3f1d057d4d394e6c3d036963094a",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-rt1-algo1-2026-05-02",
+    "negRisk": false
+  },
+  "will-usd-reach-2pt0m-iranian-rials-by-may-31": {
+    "id": "2116394",
+    "conditionId": "0x73e599a5a987ee9f739d1634d89aef38f55571e64630edf8a3b71f7d428583ea",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
+    "negRisk": false
+  },
+  "will-usd-reach-1pt9m-iranian-rials-by-may-31": {
+    "id": "2116395",
+    "conditionId": "0xf08efdf84d24228967df34cad753244b543af9df38799c0a965658ac8f2d5c13",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
+    "negRisk": false
+  },
+  "will-usd-fall-to-1pt7m-iranian-rials-by-may-31": {
+    "id": "2116397",
+    "conditionId": "0x82328689cf7f76da4029df8671057b126ca33334d7a05ef71924f5973d42ee4d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
+    "negRisk": false
+  },
+  "will-usd-fall-to-1pt6m-iranian-rials-by-may-31": {
+    "id": "2116398",
+    "conditionId": "0xf96d3cbe677cc4c4c89f31c5f45403b5ccd5c3e6291ddfc440500979db62c9e6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
+    "negRisk": false
+  },
+  "will-usd-fall-to-1pt5m-iranian-rials-by-may-31": {
+    "id": "2116399",
+    "conditionId": "0x38ff830f3bb3d53ce004f19a0ba4d1b2fd21720915fd5e3a70881c51a4c731e4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
+    "negRisk": false
+  },
+  "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116493",
+    "conditionId": "0xba155b6be6cabf93bf31dfcc56fe2f4e3e88d16b0d490319c635930f2d9fbd04",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-legislative-election-winner",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116494",
+    "conditionId": "0x741d99d33224258ad4536be7adbfdea7cacdaec616ce88e13755bfafde9c6d19",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-legislative-election-winner",
+    "negRisk": true
+  },
+  "will-green-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116495",
+    "conditionId": "0x88188d5f5c9b4c9d6b9b25b69cdc6fc635f629635cacd9f6c1b0190d3382198a",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-legislative-election-winner",
+    "negRisk": true
+  },
+  "will-act-new-zealand-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116496",
+    "conditionId": "0x1a7760f18d026a3a9b53c47c1eeac3672b58179775ecd9b3211901b2df3370a4",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-legislative-election-winner",
+    "negRisk": true
+  },
+  "will-new-zealand-first-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116497",
+    "conditionId": "0xcf3de2bd2304559b075b1d83969d67368986ea21d610db929001cecaf0ba433b",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-legislative-election-winner",
+    "negRisk": true
+  },
+  "will-te-pti-mori-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116498",
+    "conditionId": "0x1d8559a10edfe1475b22e9271eb48ec7863ccf2baeb478aef69fc79ef454db32",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-legislative-election-winner",
+    "negRisk": true
+  },
+  "will-christopher-luxon-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-718": {
+    "id": "2116540",
+    "conditionId": "0xe47bf7ef4d5476dba1e9c920b82cfeb54157399f951fdc83ac7868d4896d1b51",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-chris-hipkins-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-662": {
+    "id": "2116541",
+    "conditionId": "0xecffb867dc6b5421ec726ff8a44de5a538ccbad7dc1ea5c8b175b00293227cb5",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-winston-peters-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-871": {
+    "id": "2116542",
+    "conditionId": "0xb2a0400f22578a6fd694aa89613d3e38918b15c222ddc844cabcee24aab0e7db",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-nicola-willis-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-636": {
+    "id": "2116543",
+    "conditionId": "0x49ca5b6402d30912f79497b12211fd12571d1beef9cdc3e014491d202b1c863c",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-chle-swarbrick-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-297": {
+    "id": "2116544",
+    "conditionId": "0x019fa8566706b244422275cef69ed636cc5fb4c7a361b8726723e669c7c28d49",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-david-seymour-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-159": {
+    "id": "2116545",
+    "conditionId": "0xc373506f31377031294354429d846470a7dd62c51ba6712e76a401168888ac82",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-carmel-sepuloni-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-556": {
+    "id": "2116546",
+    "conditionId": "0xec0f0488794acf9c9c1c065ded931fae0958c936a92d6c381e54c07666f0e1d5",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-new-zealand-174",
+    "negRisk": true
+  },
+  "will-algeria-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116708",
+    "conditionId": "0x186d027e496eb76fe8a31f99be0d3ebe71728782d3365d8443b19cb62de7e428",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-argentina-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116709",
+    "conditionId": "0x03dba6b5c5bf9fc59323fb8cb9e95949fa18fd6da60cbcaa0273e5ce81c2abc9",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-australia-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116710",
+    "conditionId": "0x5f3150486f43b6636925b6f09d06bb24df5070dcde0c1e4e544874ed3e1597cd",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-austria-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116711",
+    "conditionId": "0x25299e31ff6e513b065dda04f5b313d52cd657254d8940556a9593226f128865",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-belgium-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116712",
+    "conditionId": "0x6dd30fcc606070eb95cb81a3863a7293a7ed5014592415f4b3fa9f848189e35b",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-bosnia-and-herzegovina-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116713",
+    "conditionId": "0x594ec3bd7c42721ebd7acdae09a1d0985aef8d95b22258a2c38795f7c14286c1",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-brazil-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116714",
+    "conditionId": "0xdf51227511c10c0f331ecbed0d95cca320ba8c0bd6223957bf4b5f50c33d2e3a",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-canada-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116715",
+    "conditionId": "0xec993dadb6f997bb3deacbbce414266c01b6cd0d667d52fcf590aecdfa06eb55",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-cape-verde-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116716",
+    "conditionId": "0x20f574ac116420498f019d8172a6bc5a1c4a4f626d7b9a82486960f3dd480988",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-colombia-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116717",
+    "conditionId": "0xd29e2a5a5b3d839171e4dbcf3f782f6ee942e9e352ce4a0a2d7a5e8671354b8b",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-croatia-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116718",
+    "conditionId": "0xa62849585770bf2736a654fb6f9207fe033397a2c85967b23fc918bf3a79ac28",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-curaao-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116719",
+    "conditionId": "0xed79ebdd03dcba8e0f0ac70fcc7f1910ad67947caeabb444d9cafa55c38ca72f",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-czechia-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116720",
+    "conditionId": "0x09d88ffa0a96cd9295d6a99f9d5d106ca1a1d57fa1d68fa20a1e6ff229bd233c",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-dr-congo-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116721",
+    "conditionId": "0x1f5329e149f9440a330614b16951b9dec100457dbece49a3ddd4912c59155be4",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-ecuador-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116722",
+    "conditionId": "0xda269702ecc8ade946428f882821840095887c8a620d12fcdcb5258c0c2f0842",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-egypt-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116723",
+    "conditionId": "0x41ac61a950d992f166bceef557757ab2e828baafc3d928eaad65f36dc3d4552e",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-england-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116724",
+    "conditionId": "0x955cf6a40141e288e3ba630b33ecde4bdef35f1702ad8424e11ad51e01ab1109",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-france-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116725",
+    "conditionId": "0xb8444fb816c7ad24dd4405c912451cf437cdedfa4408e5894eca94944be9aeb9",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-germany-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116726",
+    "conditionId": "0xee49b84542384e31b287067f98789cd01b8f3d1827077523c3f06421566529e0",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-ghana-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116727",
+    "conditionId": "0xa48375a7275a25a1c0d1377f42c46eab784bef9b4fc721a135c67c971bdc9658",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-haiti-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116728",
+    "conditionId": "0x336deb87a33a243f2db8c3b7f5e4fc34ebc5aa64f5f0fef0363196d93ea7d775",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-iran-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116729",
+    "conditionId": "0x6d7a62a10b865f5c7429bfb54a9be429983fb5d6d3058a5d5bd36ce64b945ded",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-iraq-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116730",
+    "conditionId": "0x24ad8b74672c9b8de408c8e987044bb06b657b5958898ae46fd1f99a9361a486",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-ivory-coast-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116731",
+    "conditionId": "0xa0e80240b55023071b8df73eb01ca68ce9f1f693e2051eb6fa25abeeacfb6975",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-japan-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116732",
+    "conditionId": "0x095c2e0e9cebe004c1847f8bd6e436e1f65702867fee67926938d104a82f9e43",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-jordan-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116733",
+    "conditionId": "0x4bcd20b46408292dae754fe903c5dc3e25d0fd05c46195d10948ab26bd692f2a",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-mexico-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116734",
+    "conditionId": "0xfdcd361f6d9f400bd56f39d9b6e8edaecaf51044161d399a7705363047a1b247",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-morocco-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116735",
+    "conditionId": "0xe3398aca19ef3eba51a36ce2eaa124fff7225f495596eb572f1ddc27aa12fb8a",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-netherlands-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116736",
+    "conditionId": "0x3ff075bd836664ba90a647fbd2f5cc784370623e4b0610ffe9447192e94d7aa7",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-new-zealand-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116737",
+    "conditionId": "0x0e9228df032a1ada28456c2ea0ba8e73c5e53152fd968ef73c74ad6dfa9d856e",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-norway-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116738",
+    "conditionId": "0xb1310bc2d0a325738b9e7c5fc1d8491caa459f5c08f5687ed17e09fff1d7718f",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-panama-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116739",
+    "conditionId": "0x4cf86b310e437381edb9c7e923fc890e33ea9ec3a96e938cf4e352919703be98",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-paraguay-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116740",
+    "conditionId": "0xc415f708f3a8f647e8e8c531a6636ded11b0c0b4437a85077d9f993575d055fc",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-portugal-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116741",
+    "conditionId": "0x2431b6fdfb72ff0271407b1855601c057983c8ba3d33eba021c19c7a98cfce63",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-qatar-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116742",
+    "conditionId": "0x60a4de45a7fbee1e0fe80469c0bde57bb7b07bd74adebb23b298ff36bcb3c736",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-saudi-arabia-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116743",
+    "conditionId": "0xe04cb5e1941bdd9e17a84a9715d9c0fc4f2c9ad8422bdd77846b147f5de15f10",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-scotland-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116744",
+    "conditionId": "0x10706bc7139d869ce4bf3e9f93e8479161c5f6ee0b708589e5f4bbd0b6dc049a",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-senegal-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116745",
+    "conditionId": "0x2b64c7faa0037364c973158508dcc3643855152e770fe1dd60d5f6d8840c1184",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
   }
 }
