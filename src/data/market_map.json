@@ -24384,9 +24384,19 @@
     "eventSlug": "vermont-governor-democratic-primary-winner",
     "negRisk": true
   },
-  "will-aly-richards-win-the-2026-vermont-governor-democratic-primary-election": {
+  "will-aly-richards-win-the-2026-vermont-governor-democratic-primary-election-919": {
     "id": "907478",
     "conditionId": "0xf77bd5682beec44a135a9ab814a28e4b69481e84365243bc6a86f1cea39dfd76",
+    "endDate": "2026-08-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "vermont-governor-democratic-primary-winner",
+    "negRisk": true
+  },
+  "will-amanda-janoo-win-the-2026-vermont-governor-democratic-primary-election": {
+    "id": "907479",
+    "conditionId": "0xaafb4b5acfaa9ac5f3800cf5d78c0cc0fc6ec9fbe1c7a5e88251537d28f2ca19",
     "endDate": "2026-08-11",
     "closed": false,
     "active": true,
@@ -34189,16 +34199,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-alejandro-tabilo-win-the-2026-mens-french-open": {
-    "id": "1087550",
-    "conditionId": "0x42cb3a3ece95132c54127ce8c12ecde9ec586d3df6f8e0b7e850ca68366f6384",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-rafael-jodar-win-the-2026-mens-french-open": {
     "id": "1087553",
     "conditionId": "0x3e166e94d38707543b2e951c325eb9b917468b99e75294d11cd853587364d934",
@@ -34222,16 +34222,6 @@
   "will-mirra-andreeva-win-the-2026-womens-french-open": {
     "id": "1087762",
     "conditionId": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-madison-keys-win-the-2026-womens-french-open": {
-    "id": "1087765",
-    "conditionId": "0x1e903aa958d3b4e58f60e3117f244a2d93a77d9acde7b56a74fcad68bf6ec87e",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -38903,16 +38893,6 @@
     "eventSlug": "spx-hit-dec-2026",
     "negRisk": false
   },
-  "spx-hit-7600-high-dec-2026": {
-    "id": "1125389",
-    "conditionId": "0x91d86e254744a4e6796475ecd22243328f062ed4d059a41d557b1da4ac0f58c2",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spx-hit-dec-2026",
-    "negRisk": false
-  },
   "spx-hit-6200-low-dec-2026": {
     "id": "1125393",
     "conditionId": "0x63e5bdd1d9079da369f41a2f5c3b7e6ce3dd7effcadcdd23387dd59447ce80fe",
@@ -43151,56 +43131,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "chi1-cd1-ohf-2026-02-01-more-markets",
-    "negRisk": false
-  },
-  "mar1-wac-asf-2026-01-26-total-1pt5": {
-    "id": "1252537",
-    "conditionId": "0xb1fb25f484e80f67c7a9b13fae53347922e01034113c3545999515e648af41b2",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-wac-asf-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-wac-asf-2026-01-26-total-2pt5": {
-    "id": "1252538",
-    "conditionId": "0xf3d7689f3eb87bc17416d48079aafbb5555d91089c66960ee48aa79d4d27a8a0",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-wac-asf-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-wac-asf-2026-01-26-total-3pt5": {
-    "id": "1252539",
-    "conditionId": "0x8c6c2c980ae000f52f7b99c65a0a7a5fcff1ba938c2e1522b0e89f60a1cd0199",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-wac-asf-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-wac-asf-2026-01-26-total-4pt5": {
-    "id": "1252540",
-    "conditionId": "0x4c18c74ebe72060ca4b361267ac07d498fb8e678a3c422c5f0fe638861ea0bdc",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-wac-asf-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-wac-asf-2026-01-26-btts": {
-    "id": "1252541",
-    "conditionId": "0xde28029f4e58d4d1dd6a71b911f708010087dadfba1de0297ec08806ca252e5b",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-wac-asf-2026-01-26-more-markets",
     "negRisk": false
   },
   "100-tariff-on-canada-in-effect-by-june-30": {
@@ -85225,16 +85155,6 @@
     "eventSlug": "lol-lec-2026-spring-winner",
     "negRisk": true
   },
-  "will-giantx-win-lec-2026-spring": {
-    "id": "1901202",
-    "conditionId": "0xaec2569ae8ea6814f22fc5dd09b2c24e902a6828d9cacb740f92f3a218a0f35c",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lec-2026-spring-winner",
-    "negRisk": true
-  },
   "will-movistar-koi-win-lec-2026-spring": {
     "id": "1901203",
     "conditionId": "0xe7db78e3044c7f3719288bb9af5c7df8fb73b2ac72663da8576d693ae7bb355e",
@@ -86454,16 +86374,6 @@
     "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-madison-keys-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920822",
-    "conditionId": "0xaf8ab56abcc5c664db0ad2bf51fb79bf81cbfb98930c8c0a8fc9c2489ac36648",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-diana-shnaider-win-the-2026-roland-garros-womens-singles": {
     "id": "1920823",
     "conditionId": "0x478659297fc6b14c30ff751a4fbc083c1615b1113dacedb297c292f92c494898",
@@ -86792,16 +86702,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-charli-xcx-release-a-new-original-album-by-july-31",
-    "negRisk": false
-  },
-  "will-charli-xcx-announce-a-new-album-by-july-31": {
-    "id": "1927758",
-    "conditionId": "0x59b20bc290871e7bab3b34c7a0c4df653cb7cf3810cc5acaee7ea91abb9e4beb",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-charli-xcx-announce-a-new-album-by-july-31",
     "negRisk": false
   },
   "lol-we-omg-2026-04-13-game2-kill-over-30pt5": {
@@ -108330,26 +108230,6 @@
     "eventSlug": "dota2-1win-pr1-2026-04-27",
     "negRisk": false
   },
-  "f1-canadian-grand-prix-constructor-scores-1st-ferrari-2026-05-24": {
-    "id": "2076853",
-    "conditionId": "0x06b232b5aafb20a1de6b7530021a04d234732875e898549f0a98e65292c6c199",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-constructor-scores-1st-2026-05-24",
-    "negRisk": true
-  },
-  "f1-canadian-grand-prix-constructor-scores-1st-mercedes-2026-05-24": {
-    "id": "2076856",
-    "conditionId": "0x40ddb936f9575820b4fda760ad7b8bf5ed3196fd48cfd1b3d5516ab7804927a0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "f1-canadian-grand-prix-constructor-scores-1st-2026-05-24",
-    "negRisk": true
-  },
   "bol1-ant-abb-2026-05-22-spread-home-1pt5": {
     "id": "2077191",
     "conditionId": "0x03a01fc4e99a0b597820aa46f3455be8d20b8045c828b6b50a4358c9dd2eec7d",
@@ -110550,86 +110430,6 @@
     "eventSlug": "paris-hilton-pregnant-in-2026",
     "negRisk": false
   },
-  "will-taylor-swift-have-a-1-hit-in-may": {
-    "id": "2099050",
-    "conditionId": "0xc3536609d05b35ba3f24eaf86e53e74b104e6d9c96bdd5a4e95e6ab3a788bfff",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-bad-bunny-have-a-1-hit-in-may": {
-    "id": "2099051",
-    "conditionId": "0x75deb64e13942e6da68c83de7720da398094f9909ee1e070b9c086f91a340f1b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-noah-kahan-have-a-1-hit-in-may": {
-    "id": "2099052",
-    "conditionId": "0xb047e37419fc623fe8240e4143e94774fe42190b3e495613077be9c4de027c39",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-don-toliver-have-a-1-hit-in-may": {
-    "id": "2099053",
-    "conditionId": "0x1babd8419c1aafeb139303fd4bafb59759409b2162fee514ce6bc26d465331ad",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-bruno-mars-have-a-1-hit-in-may": {
-    "id": "2099054",
-    "conditionId": "0x7c38140460b69db44f7a6b3cce8ae70f2f4533846bf2810be4f0d51efd20295c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-olivia-dean-have-a-1-hit-in-may": {
-    "id": "2099055",
-    "conditionId": "0x1f6498eec4bd489647ff8b1b5277c200d95d3d697f0cc0363b05df627206fc6f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-alex-warren-have-a-1-hit-in-may": {
-    "id": "2099056",
-    "conditionId": "0x5aabd042ed3748eb02b32333a5a38beda45713cade6677a037908a6e4a021bec",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-kanye-west-have-a-1-hit-in-may": {
-    "id": "2099057",
-    "conditionId": "0x2c7df5f9b7f6fb8dfe5e9e48b8d22d2d03b393916533abd650af2fb44b251abb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
   "will-rocco-baldelli-be-the-next-red-sox-manager-671": {
     "id": "2099122",
     "conditionId": "0x98d2fdd6ff5ac86d828b4fcf75e22245aab911f88e0b6eb92c9ce55d0d7543b5",
@@ -111209,16 +111009,6 @@
     "acceptingOrders": true,
     "eventSlug": "rotisserie-chicken-act-becomes-law-by-june-30",
     "negRisk": false
-  },
-  "will-spacex-have-exactly-13-launches-in-may": {
-    "id": "2099669",
-    "conditionId": "0x9b5cb09f31cfd62edf281ecb83326b7cedfd76ed71009242a8763f60b1072c15",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spacex-launches-in-may",
-    "negRisk": true
   },
   "will-the-arizona-diamondbacks-win-100-or-more-games-during-the-2026-mlb-regular-season": {
     "id": "2099751",
@@ -112930,16 +112720,6 @@
     "eventSlug": "will-eisenkot-join-the-bennett-lapid-alliance-by-june-30",
     "negRisk": false
   },
-  "will-trump-say-trump-kennedy-center-or-trump-kennedy-center-in-may": {
-    "id": "2108618",
-    "conditionId": "0x7ed67059c601da726e029ec9de1fb2ea9a575f6ccfa4e40d0bb56ebfddb3f098",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
   "will-trump-say-trump-card-or-trump-gold-card-in-may": {
     "id": "2108622",
     "conditionId": "0xff02993ad379ebc12b47af1e09cc50d105fd9a1daada251cf33997416ba4cbd8",
@@ -112960,99 +112740,9 @@
     "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
     "negRisk": false
   },
-  "will-trump-say-trump-strait-or-strait-of-trump-in-may": {
-    "id": "2108625",
-    "conditionId": "0x20eb2ae0cef34216cc4f5d896d395734c3383ddab3d009d6b9c313d08cd58d54",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-tax-in-may": {
-    "id": "2108628",
-    "conditionId": "0x9d5a58bf991e195cbed7e46abaefdf5b2602e60e5bc7e8010ff1989d4485eb47",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-plan-in-may": {
-    "id": "2108629",
-    "conditionId": "0xe3de3ebc06cec8383c1a68a4878071ae2b45c748e64701f58047004fa8aa4222",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
   "will-trump-say-trump-family-in-may": {
     "id": "2108630",
     "conditionId": "0x9ed9deb2902f85471e56b68efb17ea22ae8c40883d50fb25402b9dceca6174a1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-time-in-may": {
-    "id": "2108631",
-    "conditionId": "0xa2d31d70f16759e3f6a9e23e9370eec7bdbc72bd2d371bc1806be174aa332f04",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-grande-in-may": {
-    "id": "2108632",
-    "conditionId": "0x8b0955d04a37937749d95ccf0ebba87986785f2c5533e104fa4d14776ff6f1ef",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-accord-or-trump-peace-in-may": {
-    "id": "2108635",
-    "conditionId": "0x468a3ebb69d28c77ca4afd5acdccfa6cd6556f8fe441cd28c229d7db80cb42be",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-pool-or-trump-lake-or-trump-pond-in-may": {
-    "id": "2108636",
-    "conditionId": "0x9046351b6a5028075d44cc22b5e466f86203f468454ee44a1c8a4e3c4ef47e0a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-arc-or-arc-de-trump-or-trump-arch-in-may-485": {
-    "id": "2108638",
-    "conditionId": "0x671952aa4fcf7a6f355d28e96c8c0c0eff0b5cb2e43519239ac5d8a84c85a118",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-coin-or-trump-meme-in-may-284": {
-    "id": "2108639",
-    "conditionId": "0xba656b8e66300f2834286c0e770d25d906ca0987f9acf103a6a37e432a4b509d",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -113770,16 +113460,6 @@
     "eventSlug": "which-companies-will-have-a-1-ai-model-by-december-31",
     "negRisk": false
   },
-  "will-trump-say-trump-passport-in-may": {
-    "id": "2109546",
-    "conditionId": "0x54241df939ffea17c94fdba872251e3edb2a1fa6cecc370f698991d9683b90db",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
   "mlb-4-homer-game-in-2026": {
     "id": "2109559",
     "conditionId": "0xde2f33d9c7ae79ac73f2400dd2404fddb98fd25127267d1ebbd24bf445650d67",
@@ -113812,76 +113492,6 @@
   "will-taylor-swift-have-a-1-hit-in-the-us-in-may": {
     "id": "2109751",
     "conditionId": "0x6dc5a86af811a567c65595a3af7844cd132f647589db0d24b22f51ae1a6365d5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-bad-bunny-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109755",
-    "conditionId": "0x096be8f67ba6b19791a4f0eadd9e89ff18498ef5c6713b4b69101435978bbf89",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-noah-kahan-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109756",
-    "conditionId": "0xd9c7f1ef5456d3b1072c7c27b278af0aa0e9c31a555b29e08a068ea8a639ec1f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-don-toliver-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109764",
-    "conditionId": "0xe3b7fb649abfb1775b6be5d2d6b433357048d8eb94820d87529ca7351fd24454",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-bruno-mars-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109770",
-    "conditionId": "0x99478d99fdea42cf57aa9d1aeddf1bc5b49555821ea0495ee5389469abafc7c3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-olivia-dean-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109771",
-    "conditionId": "0x88b8af5f303343bf813bcf1648f16c6d848f5494a7ba4984a464393cac393210",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-alex-warren-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109772",
-    "conditionId": "0xa552c11c989a28e6a24bc127dfd268cca0489f4c6910f71e0e9c17619b6480e6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-kanye-west-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109776",
-    "conditionId": "0x09f80ee877de4b244766a6c56b71b40e221f1cd4e88c08d405a2fec277875469",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -118703,66 +118313,6 @@
     "eventSlug": "cs2-ff-lph-2026-05-02",
     "negRisk": false
   },
-  "will-the-bitcoin-volatility-index-hit-60-by-may-31": {
-    "id": "2126324",
-    "conditionId": "0x3880a0a9f291eadadff6db6b39db79a3035af13159e79318c27fb9353a6e73ad",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-bitcoin-volatility-index-hit-50-by-may-31": {
-    "id": "2126325",
-    "conditionId": "0x9f4c2cb0f8bba3bc9181489c36d8e1bfb5f7e353a0e5547f5bef8d14e995b1d6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-bitcoin-volatility-index-hit-45-by-may-31": {
-    "id": "2126326",
-    "conditionId": "0x899cb5782abd9f5d3df445eb283821839aebbb9d69c2d70fe12e4b923c9d943d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-bitcoin-volatility-index-dip-to-35-by-may-31": {
-    "id": "2126327",
-    "conditionId": "0x231e9bb642bb2c7403b61a68b432401d27594872dcdc85cfb72d753bc060b233",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-bitcoin-volatility-index-dip-to-30-by-may-31": {
-    "id": "2126328",
-    "conditionId": "0xe20321fb631f4dd265321680bd3a5c90034e6c250828157223e144a55650e191",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-bitcoin-volatility-index-dip-to-25-by-may-31": {
-    "id": "2126329",
-    "conditionId": "0x9c834042cf9a7c918d6204f008615b3d1dada9781046b78c7578489efdc64146",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
-    "negRisk": false
-  },
   "will-the-central-bank-of-colombia-decrease-the-monetary-policy-interest-rate-by-50-bps-at-the-july-meeting": {
     "id": "2126401",
     "conditionId": "0x0cf0a02d42bd4e67f4cb14b561589e51b4e17883358c4d394000873c7304ff0e",
@@ -119001,66 +118551,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-imperi-rt1-2026-05-01",
-    "negRisk": false
-  },
-  "will-the-weeknd-have-a-1-hit-in-may": {
-    "id": "2126712",
-    "conditionId": "0x3cb278f13580cd0d1d71719cc490a24db85d010a6943105adc129c77db3f618b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-beyonce-have-a-1-hit-in-may": {
-    "id": "2126713",
-    "conditionId": "0x485dac84dd45da7d92173d81c0c477f4614e945d5b116ae4e2b780b2e47ed255",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-gracie-abrams-have-a-1-hit-in-may-195": {
-    "id": "2126714",
-    "conditionId": "0xd6a4d6ae11f86719231d4db20955c2b4c6abd9c1b9809e4ebd2124f0a11aba5e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-may",
-    "negRisk": false
-  },
-  "will-the-weeknd-have-a-1-hit-in-the-us-in-may-788-661-325": {
-    "id": "2126724",
-    "conditionId": "0x3c1af9432cc40443750731cd8c5655e21e006e8b2993acc52812fd57327e6796",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-beyonce-have-a-1-hit-in-the-us-in-may-761-377": {
-    "id": "2126725",
-    "conditionId": "0xc3bca4495d43cf3b407838563e63bf7a3ea0f57348446506f8ded4503f1dcddb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
-  "will-gracie-abrams-have-a-1-hit-in-the-us-in-may-663": {
-    "id": "2126726",
-    "conditionId": "0x273c9876718e7307cad11cfeee7ab017d5eacc0d1e041296711ed4a2fa5201fd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
     "negRisk": false
   },
   "sinaloa-gov-ruben-rocha-extradited-to-us-by-june-30": {
@@ -119591,6 +119081,516 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-joo-pedro-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127686",
+    "conditionId": "0x6fce5bfb34549a3a2c919a87ed5948038ae259334b99c7626269b54b5aec2e0e",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-morgan-rogers-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127687",
+    "conditionId": "0x96b8591e61ab8153068ed93e54c013f0e6b89cea2aa4e133fdfd9dafcded9277",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-antoine-semenyo-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127688",
+    "conditionId": "0x1220c8ad3de1b3e3a079e832ec53f3cd4c3f014685820c7364e6feeec413e4d8",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-jeremy-doku-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127689",
+    "conditionId": "0xa879be670c7ecf3087a8bf9fc8cf43b4e415502e71e7910dd63ac8f80a56d87b",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-bryan-mbeumo-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127690",
+    "conditionId": "0xbc5c1fe3e7dd57070ca528cd85b158334b7aa9ee0c87b22c861586f82f115f53",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-jarrod-bowen-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127691",
+    "conditionId": "0x7352d3b05ddd64c22487c855e05c0485348e49d0dad74d9bde2c0478db43701e",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-phil-foden-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127692",
+    "conditionId": "0x0f4085f5c4961b9029c600d4f976d0594a302e9f365552b48f500b655f2ac4fa",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-bukayo-saka-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127693",
+    "conditionId": "0xb31d5274c8acbc2b023593c03fe1cb6367f42a9596ebb5d61b3204457b980730",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "pro-football-will-there-be-a-supplemental-draft-in-2026": {
+    "id": "2127906",
+    "conditionId": "0x959dba89bea19c770198cdc515254584be1f58925c7461872a585d59a93c1eb1",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-will-there-be-a-supplemental-draft-in-2026",
+    "negRisk": false
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour": {
+    "id": "2128396",
+    "conditionId": "0x30f52fb23b154c29d20c9f106a7ab4e11a76650f1ddaef81dcc78661db70064e",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-green": {
+    "id": "2128397",
+    "conditionId": "0xc00b4c4886159a2e46e8a2d5fddc19cb41cc30ecd25c5cee4458912eb8276e75",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-maori": {
+    "id": "2128398",
+    "conditionId": "0x14c67049622cd50f638e5af1a215ebfe34b666f5cded68bd2190dfd6228e4b80",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-nzf": {
+    "id": "2128399",
+    "conditionId": "0xb5f8965c000835b00e92dfcc1a3d32c2362155b1a46a99519344d2b7447299da",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-green-maori": {
+    "id": "2128400",
+    "conditionId": "0xdf2020355fa805d6f99d413e68e71e2a9698bd7c746a53ffaefbd0a11d685dd5",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-green-nzf": {
+    "id": "2128401",
+    "conditionId": "0x128f2a6ccc6344f751273a5f435eb85ff546823290396c55e6a569fc91e7d541",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-maori-nzf": {
+    "id": "2128402",
+    "conditionId": "0x4591d838022cbd8110bf68cf387c5c757fbb0ce930a0ef9d8c2c13f4baad9b54",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-labour-green-maori-nzf": {
+    "id": "2128403",
+    "conditionId": "0xc32c18cdc131d734ef32aaef0e2dfa5317c2b22e0630fbeb61b406c698d82374",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national": {
+    "id": "2128404",
+    "conditionId": "0x29b0cf3701df11f9ea342754ef5b8edb4dc131e4fb3fe7576dfe1cea827d334c",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-act": {
+    "id": "2128405",
+    "conditionId": "0x27a0f3cee7f9c0ff156425269f14d56859c065a61502a769159caa121916b3bf",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-nzf": {
+    "id": "2128406",
+    "conditionId": "0xfe12ced72dfd8999789359f46bf4ba624db9bce9d1f865400f8dc022f44143f3",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-maori": {
+    "id": "2128407",
+    "conditionId": "0xf38485c90670eaeb2c1bd12879c3997dc30e79b6d2a39d6d63cbb5a572ed9d17",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-act-nzf": {
+    "id": "2128408",
+    "conditionId": "0x589f18af36554116c605c1263cfc2c7ebc8ffb977e8516b652818f04e3583082",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-act-maori": {
+    "id": "2128409",
+    "conditionId": "0xe2b4e15cad143400c3beecd6f30be8f01c23aab78a93a5f5d54bef242fbb9133",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-nzf-maori": {
+    "id": "2128410",
+    "conditionId": "0x1f8671b4f4eb9e79966ddb36ad294a5a74cb97313759f4980d2faef44fefd0da",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-act-nzf-maori": {
+    "id": "2128411",
+    "conditionId": "0x3a1e4f3b7d5daa7fe4204420a43723270ef9bda295db548b7073402e4eae8382",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-new-zealand-include-national-labour": {
+    "id": "2128412",
+    "conditionId": "0xc741b7de556dac81d31f4654b6035cf36f16b9cc940e9e90f09056d9db281261",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "will-another-result-occur-for-the-next-governing-coalition-of-new-zealand": {
+    "id": "2128413",
+    "conditionId": "0x411d34379bcc47e0a0d5a13b978f5ff21aa031ecab3ae21455eaabe926df030a",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-new-zealand-government",
+    "negRisk": true
+  },
+  "chirayu-rana-divorced": {
+    "id": "2129196",
+    "conditionId": "0x7db27787ed509fd8ae9b055c4d1cbc3a7860766e6346c56e4931ee37e6d7e865",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chirayu-rana-divorced",
+    "negRisk": false
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-less-than-0pt0": {
+    "id": "2129197",
+    "conditionId": "0xf2c6911c8dd33d38eba6f65719f58c61b6954c6b2021d202f384c3e94ff2925d",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-between-0pt0-and-0pt5-473": {
+    "id": "2129198",
+    "conditionId": "0x2bc6ae80f1e357942bd8f6e96b239dde44a5cd6e9f3c3a5eca5b9ff1729f849f",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-1pt0-614": {
+    "id": "2129199",
+    "conditionId": "0x53cc7f3da61ae2a3fea6ffe0d6a9e5e5839dd3e9466ebdb3b9e597ce175c9fce",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-between-1pt0-and-1pt5-999": {
+    "id": "2129200",
+    "conditionId": "0xd73bff3092e0c4bf0a35da772b59cba3c069c980b4a1656eda2c886031587e17",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-between-1pt5-and-2pt0-453": {
+    "id": "2129201",
+    "conditionId": "0xd0b445937bf46f3173fa2956931e21fbeae2a3ecae60609a3dd28e41368b368b",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-between-2pt0-and-2pt5-687": {
+    "id": "2129202",
+    "conditionId": "0x99285cb79c85086cff29e78f5fca5b48c27a0311b826ec85ca460cf11654e6ad",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-at-least-2pt5-151": {
+    "id": "2129203",
+    "conditionId": "0xf57d1b36540028b10c42ba351ab57a7a9592e6cf86fd63ad1a692226128ed629",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-less-than-0pt0": {
+    "id": "2129240",
+    "conditionId": "0x332795e682556e4efec2cfa897e6be12f7793d79af3baa1e5ff303497e0ba8f8",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-between-0pt0-and-0pt3": {
+    "id": "2129241",
+    "conditionId": "0xed252bf95df9e888ec5b4b5136afb3ab0845c82fe17bc08d0329eb22f835d53c",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-between-0pt4-and-0pt7": {
+    "id": "2129242",
+    "conditionId": "0xc7278221c82a892056250c1962fe445b6c1ec79c4bd956bd4b9f9a30c05e3127",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-between-0pt8-and-1pt1": {
+    "id": "2129243",
+    "conditionId": "0x4d6bde89ed147bbcd0ebf677a87bbce6061da030f500998b32b0aa44f50523e7",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-between-1pt2-and-1pt5": {
+    "id": "2129244",
+    "conditionId": "0x87a5c99bd094a04016cdb92924a8da7f448d7f015e4ca22060b6bf8533a6da97",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-between-1pt6-and-1pt9": {
+    "id": "2129245",
+    "conditionId": "0x005609b51e824a123f6a3589a43adfbdb72ddfe89f4748e25b7242ccfe2246b1",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-eurozone-gdp-growth-in-q2-2026-be-at-least-2pt0": {
+    "id": "2129246",
+    "conditionId": "0x0e7854c0cd56963325cf92d3703fdebd58a41c41a3a9b1efc497d0bc3643b259",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurozone-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-germany-gdp-growth-in-q2-2026-be-less-than-or-equal-to-0pt0": {
+    "id": "2129291",
+    "conditionId": "0xb895a712418096470dd93b6a400958ad8dc8f6a918fea84ed5406d573c6f71ca",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "germany-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-germany-gdp-growth-in-q2-2026-be-between-0pt1-and-0pt3": {
+    "id": "2129292",
+    "conditionId": "0x00139748aa8dfe595589a72f959b9522235939d0e8b5e488372438a45da2e681",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "germany-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-germany-gdp-growth-in-q2-2026-be-between-0pt4-and-0pt6": {
+    "id": "2129293",
+    "conditionId": "0xb3db298098bcb999dc9c91a4515f55ef191b1a9810488e68273d0ffed5faa56e",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "germany-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-germany-gdp-growth-in-q2-2026-be-between-0pt7-and-0pt9": {
+    "id": "2129294",
+    "conditionId": "0x5cfd72a3e92385652cf8ec8802a66bfd73164175cf7f0c3d5ffc2a911fff8cf1",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "germany-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-germany-gdp-growth-in-q2-2026-be-between-1pt0-and-1pt2": {
+    "id": "2129295",
+    "conditionId": "0x0df2be93c060d50d769dcceed5af845bf73c16ea1c3bbfe1d08374767f1a2668",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "germany-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-germany-gdp-growth-in-q2-2026-be-at-least-1pt3": {
+    "id": "2129296",
+    "conditionId": "0x644762669ddcefc9a59866175ce7f9d59cd07ea715bdcb4e3654772131de351c",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "germany-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "cs2-inf1-mjx-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2130435",
+    "conditionId": "0x95d23d7573c42518d4563b9c26fb83cad62088da9ab1067462d99ce33aff89fa",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-mjx-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-inf1-mjx-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2130437",
+    "conditionId": "0x616bea5e42591452a98342d759dadf7a02da915d03650550ca6cfd9c80343878",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-mjx-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-forzer-yl-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2130446",
+    "conditionId": "0xda7bb13e935ce4552135119ddceebc6f36bc5dc6a938d40f0c15e3fb9b8f36ec",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-yl-2026-05-01",
     "negRisk": false
   }
 }
