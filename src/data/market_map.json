@@ -59,16 +59,6 @@
     "eventSlug": "what-will-happen-before-gta-vi",
     "negRisk": false
   },
-  "gta-vi-released-before-june-2026": {
-    "id": "540881",
-    "conditionId": "0xcccb7e7613a087c132b69cbf3a02bece3fdcb824c1da54ae79acc8d4a562d902",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gta-vi-released-before-june-2026",
-    "negRisk": false
-  },
   "will-harvey-weinstein-be-sentenced-to-no-prison-time": {
     "id": "544092",
     "conditionId": "0xf398b0e5016eeaee9b0885ed84012b6dc91269ac10d3b59d60722859c2e30b2f",
@@ -13896,16 +13886,6 @@
     "eventSlug": "jack-doherty-prison-time",
     "negRisk": true
   },
-  "microstrategy-sells-any-bitcoin-by-june-30-2026": {
-    "id": "692258",
-    "conditionId": "0x8e7a03cb1970e2ad6533b01892403516b6b3f5b5fa90ed7d104c28b27e40ba00",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "microstrategy-sell-any-bitcoin-in-2025",
-    "negRisk": false
-  },
   "will-gavin-newsom-announce-a-presidential-run-before-2027": {
     "id": "692259",
     "conditionId": "0x809eaa464104c09fbe8e54c582256dfa29b5061928790eea2e3d4908d96a7b5c",
@@ -20934,16 +20914,6 @@
     "eventSlug": "2026-taiwanese-local-elections-party-winner",
     "negRisk": true
   },
-  "will-a-hurricane-make-landfall-in-the-us-by-may-31": {
-    "id": "820350",
-    "conditionId": "0xda286fc6da9625b9ea72ad8a8593a150a4982762f99f1289b15a76948915ce64",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-a-hurricane-make-landfall-in-the-us-by-may-31",
-    "negRisk": false
-  },
   "will-a-hurricane-form-by-may-31": {
     "id": "820351",
     "conditionId": "0xd1b5f2ca840de370c633eb7e640296a21eb8f82fd946c485d3274ee8a8d75381",
@@ -21313,16 +21283,6 @@
     "acceptingOrders": true,
     "eventSlug": "new-york-governor-republican-primary-winner",
     "negRisk": true
-  },
-  "microstrategy-sells-any-bitcoin-by-december-31-2026": {
-    "id": "824952",
-    "conditionId": "0x8213d395e079614d6c4d7f4cbb9be9337ab51648a21cc2a334ae8f1966d164b4",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "microstrategy-sell-any-bitcoin-in-2025",
-    "negRisk": false
   },
   "will-cyndi-munson-win-the-2026-oklahoma-governor-democratic-primary-election": {
     "id": "824965",
@@ -34319,16 +34279,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-anastasia-potapova-win-the-2026-womens-french-open": {
-    "id": "1087781",
-    "conditionId": "0xc261d9ca51d2ec442a3eb9e19801adc7da18a4229dbab057ca7e7566163ed082",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-anna-kalinskaya-win-the-2026-womens-french-open": {
     "id": "1087798",
     "conditionId": "0xbacfd7a02f0b4a70ab12110fbc47c54296f5597a641547f45998f8dabeccb3eb",
@@ -37957,16 +37907,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-the-us-capture-another-world-leader-in-2026",
-    "negRisk": false
-  },
-  "jerome-powell-out-from-fed-board-by-may-30": {
-    "id": "1115676",
-    "conditionId": "0x55c601357c17cb034462d959de0bb84a558b3fe6f6730411ac58a06092eef385",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "jerome-powell-out-from-fed-board-by",
     "negRisk": false
   },
   "jerome-powell-out-from-fed-board-by-december-31": {
@@ -52002,16 +51942,6 @@
     "eventSlug": "standx-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "don-lemon-charges-dropped": {
-    "id": "1300244",
-    "conditionId": "0xa7138fe01adfd5a36d38312e1b306a928f26bce6e324269870e4a4068a55a2d0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "don-lemon-charges-dropped",
-    "negRisk": false
-  },
   "will-anthropic-or-openai-ipo-first": {
     "id": "1301184",
     "conditionId": "0xc289a877bc155123069739b21d690b3e8dc220b98f6ae3924468bbcbdfaf98dc",
@@ -55219,16 +55149,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "openai-ipo-closing-market-cap-554",
-    "negRisk": true
-  },
-  "will-spacexs-initial-public-offering-occur-in-may-2026-et": {
-    "id": "1345481",
-    "conditionId": "0x7f544e70895a850c547cf3f416bc6dd49c8d325a3639174741a37a6400301f00",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "in-which-month-will-spacex-ipo",
     "negRisk": true
   },
   "will-spacexs-initial-public-offering-occur-in-june-2026-et": {
@@ -72450,266 +72370,6 @@
     "eventSlug": "bank-of-brazil-decision-in-june",
     "negRisk": true
   },
-  "elon-musk-of-tweets-may-2026-800-839": {
-    "id": "1698908",
-    "conditionId": "0x11a78aebb5a769ff8ac6b2cb61b4d5138c4de9aa6e398197ab9d1d37a3886db9",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-840-879": {
-    "id": "1698909",
-    "conditionId": "0xa5144cd6a61ad9fe20f4a095a2548cd8e5e3d30f3c378843b451f804a1e10cd9",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-880-919": {
-    "id": "1698911",
-    "conditionId": "0x0259d891dd9a812dcabac2d1eca28de01d92980d4116f1f1c6d89083f57e6801",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-920-959": {
-    "id": "1698913",
-    "conditionId": "0xda7e6bec00eb62d8a4cd40c2dec6c8fdf0dca05eb38f6adc09d40f20cd37d5d0",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-960-999": {
-    "id": "1698915",
-    "conditionId": "0xc1650829f01af35069bd4a10ad606b1bbca1682aa5d2f4aa5f6fe668a0b8ed0d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1000-1039": {
-    "id": "1698916",
-    "conditionId": "0xb4ea0b4f5d1cdbb304e97a13f98ff4ff29177cc19fc63837b8e1af1674559777",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1040-1079": {
-    "id": "1698918",
-    "conditionId": "0xae04c6c44d78799ea3f43cc65111c72a9ca2ab4fa45806f58cf808070fb400b3",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1080-1119": {
-    "id": "1698920",
-    "conditionId": "0x46dbccb9e4fc23b0b59332c8debb45d3f79fc19797bc6d399333f8b1e00a3111",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1120-1159": {
-    "id": "1698922",
-    "conditionId": "0x0f29557c8b41eb66af089878e3e79b9c4339c2dcace4729cf52aea6e21bec3d6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1160-1199": {
-    "id": "1698923",
-    "conditionId": "0x2089a75814ea1885faaa9ac9687627035967f780e362dcddfb5438fb842040e4",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1200-1239": {
-    "id": "1698926",
-    "conditionId": "0xfba701c86ac18bd4146c803f304290c881d1e89ff69307d359538ee6d519e611",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1240-1279": {
-    "id": "1698930",
-    "conditionId": "0x77132e624d83299c8d2b3f00dc524cb5e2d740a46488338db0a1b27bc8172ca7",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1280-1319": {
-    "id": "1698933",
-    "conditionId": "0x1802354c139a09231f1c9aea759d5a52b8476af3bce72c29bacd8b69e238734c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1320-1359": {
-    "id": "1698936",
-    "conditionId": "0x43f22f2765ed31f7f53bc29e916640f47fe1b9396a91a5ec5b77e40b39889321",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1360-1399": {
-    "id": "1698939",
-    "conditionId": "0x1e5933ab0cdbc89baeb135ea71444d8503279d3cf052d563fac1e3aee6372b76",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1400-1439": {
-    "id": "1698942",
-    "conditionId": "0x964d895e4f821a1b28cb4037c916deed74df33f8de63dfa9fb957b0b900efe3a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1440-1479": {
-    "id": "1698945",
-    "conditionId": "0x8b8802585a8bb89846db569d51369d5cc2896e32fc6b7fce4237b7b2971d219a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1480-1519": {
-    "id": "1698948",
-    "conditionId": "0xc7ae6dcfbe1eaadfa335e936ecf9dae26904c65e0e45b43e92a5c4b0367546db",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1520-1559": {
-    "id": "1698951",
-    "conditionId": "0xa455ffadd4eff9e49f7a13e20ba81323ebc6d85709a5de9293441731973dae9c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1560-1599": {
-    "id": "1698954",
-    "conditionId": "0x8580236fe3cfa72751707758b27cefade240606aae9d2a26971b86aee6dfdf65",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1600-1679": {
-    "id": "1698956",
-    "conditionId": "0x59d6e547245788c7fb811eb63bb63e91bed65d8da1efbd4ef936926a71998d1e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1680-1759": {
-    "id": "1698957",
-    "conditionId": "0x476d19717ac51e9323b7930425f17f631b7edb7142ebf45fee22d57b0d7ef8b1",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1760-1839": {
-    "id": "1698960",
-    "conditionId": "0x7d25c4f9ab29ee54958b342288be04f330a7ad02ccb1bad53f695f4434f44570",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1840-1919": {
-    "id": "1698961",
-    "conditionId": "0x9eecb36e2570ce77f39bd79747dfcd0ae533e072fdfb2d10f174f23264d87c2e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-1920-1999": {
-    "id": "1698962",
-    "conditionId": "0x5bf0baa07047a4775f87ee54fb79fa03c4b1235254a5350adb288c18a1f47401",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
-  "elon-musk-of-tweets-may-2026-2000plus": {
-    "id": "1698964",
-    "conditionId": "0x4d7130ae6dd22cc177904f0611688f398e5db89f988b5f3b897c8fc2ab0985e7",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-of-tweets-may-2026",
-    "negRisk": true
-  },
   "cs2-nosr-oly-2026-03-24-game1-odd-even-total-kills": {
     "id": "1700773",
     "conditionId": "0xe9b485ce8f9a6388c38e6321b582dfecead0c0250bd75c27baa4e37390ce48e8",
@@ -72760,16 +72420,6 @@
     "eventSlug": "will-elon-musk-buy-onlyfans",
     "negRisk": false
   },
-  "will-reza-pahlavi-enter-iran-by-may-31": {
-    "id": "1707943",
-    "conditionId": "0xcfeec50a34d9429bfdc60d180f391b828924b88bd40c5b2361a43b7375b7a533",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-reza-pahlavi-enter-iran-by-june-30",
-    "negRisk": false
-  },
   "kharg-island-no-longer-under-iranian-control-by-june-30-561-854": {
     "id": "1708086",
     "conditionId": "0x6897736d782ce70f47126dfcec6669073f563d6e757e60bc61c0367370d6f73e",
@@ -72798,16 +72448,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "pete-hegseth-out-as-secretary-of-defense-by-june-30",
-    "negRisk": false
-  },
-  "mojtaba-khamenei-leaves-iran-by-may-31-2026": {
-    "id": "1708361",
-    "conditionId": "0x791f879219f18977b17076657b4d9952c1961e525039019155563f6b6d85bd68",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mojtaba-khamenei-leaves-iran-by",
     "negRisk": false
   },
   "mojtaba-khamenei-leaves-iran-by-june-30-2026": {
@@ -73821,16 +73461,6 @@
     "acceptingOrders": true,
     "eventSlug": "how-much-will-spacex-raise-in-its-ipo",
     "negRisk": true
-  },
-  "will-spacex-ipo-by-may-31-2026-259": {
-    "id": "1720968",
-    "conditionId": "0xe05f83ed91d2dcf7e744f86bbda236525eb9441bbf039c858f5438d9dc3e7431",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-by",
-    "negRisk": false
   },
   "will-spacex-ipo-by-june-15-2026-789-854": {
     "id": "1720969",
@@ -76238,16 +75868,6 @@
     "eventSlug": "mlb-perfect-game-thrown-in-2026-season",
     "negRisk": false
   },
-  "will-claude-5-be-released-by-may-31-2026": {
-    "id": "1748641",
-    "conditionId": "0x6d4e3af4996807a673cb2678a7b5960bfd6dfa5c43b8556e23cdf094fb55d2b6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "claude-5-released-by",
-    "negRisk": false
-  },
   "will-claude-5-be-released-by-june-30-2026": {
     "id": "1748840",
     "conditionId": "0x562d8e6be61af9176d3ed95c775b56202e5e668d7dd703be7c875926f56efdbd",
@@ -76528,26 +76148,6 @@
     "eventSlug": "wttwom-qin-kaufman-2026-03-31",
     "negRisk": false
   },
-  "cs2-mis-pre-2026-04-02-game1-odd-even-total-kills": {
-    "id": "1788990",
-    "conditionId": "0x22d7351dba15033c199f9e60b1d2e7e8a8a88c9b4b3b9924c60381916dd590ad",
-    "endDate": "2026-04-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-pre-2026-04-02",
-    "negRisk": false
-  },
-  "cs2-mis-pre-2026-04-02-game3-odd-even-total-kills": {
-    "id": "1788996",
-    "conditionId": "0xc8cff2044f606acb8d4590975b1e79f8397fb757f8fa6e96247561c2a75346ca",
-    "endDate": "2026-04-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-pre-2026-04-02",
-    "negRisk": false
-  },
   "ng-up-or-down-on-march-31-2026": {
     "id": "1790542",
     "conditionId": "0x613c14987600551f36a880b81c025e35b2fc030e011744439d314bcd9cf1de32",
@@ -76657,26 +76257,6 @@
     "acceptingOrders": true,
     "eventSlug": "us-nuclear-test-by",
     "negRisk": false
-  },
-  "will-claude-go-down-9-11-times-in-may": {
-    "id": "1795594",
-    "conditionId": "0x088ee3251a1a2513b105a463c84d0834028012689c80b9c76f44277a737a4894",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-claude-go-down-on-days-in-may",
-    "negRisk": true
-  },
-  "will-claude-go-down-12-times-in-may": {
-    "id": "1795595",
-    "conditionId": "0x335d0e4362159c3a1b8af5d440d7eba45848d9eb6a1441e0af443b4dfefc45e8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-claude-go-down-on-days-in-may",
-    "negRisk": true
   },
   "will-the-us-test-a-nuclear-weapon-by-september-30-2026": {
     "id": "1795596",
@@ -82025,56 +81605,6 @@
     "eventSlug": "mlb-team-to-make-postseason",
     "negRisk": false
   },
-  "will-encore-medicals-market-cap-be-less-than-45m-at-market-close-on-ipo-day": {
-    "id": "1849301",
-    "conditionId": "0xfd973bf69a266d202cdecb2b65b7a1e89a9c6be08396aed56faaeaf0928413c6",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "encore-medical-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-encore-medicals-market-cap-be-between-45m-and-50m-at-market-close-on-ipo-day": {
-    "id": "1849302",
-    "conditionId": "0x415bf0c412811333304ab0701b74e8618d23f29ddeaa53f9ddf54e62020e552f",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "encore-medical-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-encore-medicals-market-cap-be-between-50m-and-55m-at-market-close-on-ipo-day": {
-    "id": "1849303",
-    "conditionId": "0x88bc85e74feb1ff1aadc0339eb974e90c94f93d0d3100bb8be47bf98ea5d7890",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "encore-medical-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-encore-medicals-market-cap-be-greater-than-55m-at-market-close-on-ipo-day": {
-    "id": "1849304",
-    "conditionId": "0x81fad25c86557c3ea3fd95014301e58ee6fa305f3f8a4a2f6db6d148af50f8b9",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "encore-medical-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-encore-medical-not-ipo-before-june-2026": {
-    "id": "1849305",
-    "conditionId": "0xf6cf62f464cb187f137d978a9914d015034b355726a6a41eae075c8d45107695",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "encore-medical-ipo-closing-market-cap",
-    "negRisk": true
-  },
   "cs2-regain-tsg-2026-04-03-game1-odd-even-total-kills": {
     "id": "1850842",
     "conditionId": "0x4b231eb84e80b858be3012b2de21488b13d5c0d499a452396ce50dc9669eaa9d",
@@ -85555,16 +85085,6 @@
     "eventSlug": "lol-cblol-2026-split-1-winner",
     "negRisk": true
   },
-  "will-red-canids-win-cblol-2026-split-1": {
-    "id": "1901141",
-    "conditionId": "0x962437fa39d544a8877cfd1495a5fd4253e42a6a1680b5d1575de2af61bccaf3",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-los-win-cblol-2026-split-1": {
     "id": "1901143",
     "conditionId": "0x0e2327486d4a528246c742b31f2dc2e6c12de158b9d9fdb45f9e8d5424fc9810",
@@ -85655,16 +85175,6 @@
     "eventSlug": "lol-lcs-2026-spring-winner",
     "negRisk": true
   },
-  "will-shopify-rebellion-win-lcs-2026-spring": {
-    "id": "1901185",
-    "conditionId": "0x756735aa676f541afb9f03ac77361b1daa1eac1a6cec8727a3908ae278aa4b64",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcs-2026-spring-winner",
-    "negRisk": true
-  },
   "will-fuego-win-lrn-2026-split-1": {
     "id": "1901189",
     "conditionId": "0xfc31d389c1343700c5a65eae6f83de37a06deec8aa01c32c8de770c29beb23ca",
@@ -85708,16 +85218,6 @@
   "will-karmine-corp-win-lec-2026-spring": {
     "id": "1901199",
     "conditionId": "0x5243d38b5170685af3bc8a761a3487d548fdfca888ff74aab7d376f3ace75f89",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lec-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-team-vitality-win-lec-2026-spring": {
-    "id": "1901200",
-    "conditionId": "0x1eeece455ac67403718a90235c9e5df3894bd1e3338da0d9939670c8f6300041",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -86275,136 +85775,6 @@
     "eventSlug": "alcatraz-reopened-in-2026",
     "negRisk": false
   },
-  "tucker-carlson-arrested-by-may-31": {
-    "id": "1910467",
-    "conditionId": "0x9ae555e3e87e14fcc60750f652dc035fed5d56407e487dc91788aafb58b14ebe",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "tucker-carlson-arrested-by-may-31",
-    "negRisk": false
-  },
-  "will-bw-industrial-holdings-market-cap-be-less-than-125m-at-market-close-on-ipo-day": {
-    "id": "1910960",
-    "conditionId": "0xbec7424d1b74c1ac0c22c46bbc9074a650fd3f7cab51c358fe44dd740921302c",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bw-industrial-holdings-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-bw-industrial-holdings-market-cap-be-between-125m-and-140m-at-market-close-on-ipo-day": {
-    "id": "1910961",
-    "conditionId": "0xe2b63be146846dbf6b13b0a003131666e20fcd8a9e0c3d8323f856a0770d2ce5",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bw-industrial-holdings-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-bw-industrial-holdings-market-cap-be-between-140m-and-155m-at-market-close-on-ipo-day": {
-    "id": "1910962",
-    "conditionId": "0x57480c4b1727570ef3df7ea66fc59a6a364edd1dcbfe3413a26e8a11a3a9111f",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bw-industrial-holdings-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-bw-industrial-holdings-market-cap-be-between-155m-and-170m-at-market-close-on-ipo-day": {
-    "id": "1910963",
-    "conditionId": "0x76e1dd8285a162449d37e30fd2bc3c30aaf39bef11abf9f37070b986b1945084",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bw-industrial-holdings-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-bw-industrial-holdings-market-cap-be-greater-than-170m-at-market-close-on-ipo-day": {
-    "id": "1910964",
-    "conditionId": "0x7211ce7eed74802dd83a3b19868a8fea543e2236e5deb1aa394b6836358aa33d",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bw-industrial-holdings-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-bw-industrial-holdings-not-ipo-before-june-2026": {
-    "id": "1910965",
-    "conditionId": "0x2369d910a6c549b8f140d254d62d436ef246af1d87858ebf51872c7ebdd8f0f7",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bw-industrial-holdings-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-riku-dining-group-ltds-market-cap-be-less-than-90m-at-market-close-on-ipo-day": {
-    "id": "1911606",
-    "conditionId": "0xcc46ccba8c7d7cb5a085decfa8e8e7e05c8e7c1840071486699398aecb29da1d",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "riku-dining-group-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-riku-dining-group-ltds-market-cap-be-between-90m-and-110m-at-market-close-on-ipo-day": {
-    "id": "1911607",
-    "conditionId": "0xd5864fbe0a6da6d569f4303b2bfb8446f72f227d3f475032116fe65762a92d47",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "riku-dining-group-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-riku-dining-group-ltds-market-cap-be-between-110m-and-130m-at-market-close-on-ipo-day": {
-    "id": "1911608",
-    "conditionId": "0xe5cf4890742d6d5f9a3a4f122ec97598026957909f7ee45afb02a99c2ef50f4c",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "riku-dining-group-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-riku-dining-group-ltds-market-cap-be-between-130m-and-150m-at-market-close-on-ipo-day": {
-    "id": "1911609",
-    "conditionId": "0xc86908a513985a1ec64d143c4feae125cd1f6f6d9d15a199400c0de596cb5f21",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "riku-dining-group-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-riku-dining-group-ltds-market-cap-be-greater-than-150m-at-market-close-on-ipo-day": {
-    "id": "1911610",
-    "conditionId": "0xc25148e149baf749ffe5878d0d02b0d7421369da7b6c886fe8980aadbfefc478",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "riku-dining-group-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-riku-dining-group-ltd-not-ipo-before-june-2026": {
-    "id": "1911611",
-    "conditionId": "0xa9978c0f6c5616ed400110c1dccac9260bdbfa09ebc96048ea8498daa9e7f39e",
-    "endDate": "2026-05-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "riku-dining-group-ipo-closing-market-cap",
-    "negRisk": true
-  },
   "pershing-square-acquires-universal-music-group-by-june-30": {
     "id": "1911612",
     "conditionId": "0x34485e9a46cdbe2b3aa86ac1b6fd76d8238d63cadc5f7a4f80c98867d5ba2fc0",
@@ -86712,16 +86082,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ukraine-calls-a-referendum-on-peace-deal-with-russia-by-january-31",
-    "negRisk": false
-  },
-  "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125": {
-    "id": "1919425",
-    "conditionId": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-x-iran-permanent-peace-deal-by",
     "negRisk": false
   },
   "will-the-reserve-bank-of-new-zealand-increase-the-official-cash-rate-after-the-july-decision": {
@@ -88214,16 +87574,6 @@
     "eventSlug": "will-us-crude-oil-reserves-fall-to-by-june-5",
     "negRisk": false
   },
-  "pam-bondi-testifies-before-congress-by-may-31": {
-    "id": "1931810",
-    "conditionId": "0xc6747fd1ac5fa9fe9844eafd9f766a3bf9a775ebbda45bd24f262be09ef307bf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "pam-bondi-testifies-before-congress-by-may-31",
-    "negRisk": false
-  },
   "cs2-3dmaxa-hec-2026-04-10-game1-odd-even-total-kills": {
     "id": "1934703",
     "conditionId": "0xfd808f27b6e14a1e2586eddf9bbdc590bb5f7fe39c8eb2b7aa7e0b6810a12657",
@@ -88402,56 +87752,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-bsta-vexa-2026-04-11",
-    "negRisk": false
-  },
-  "cs2-r2-mw-2026-04-12-game1-odd-even-total-kills": {
-    "id": "1935484",
-    "conditionId": "0x79cdf9f194dcb9b9f353e0013ae6067a05b730df6bd14926b8d3449953c83e79",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-r2-mw-2026-04-12",
-    "negRisk": false
-  },
-  "cs2-r2-mw-2026-04-12-game2-odd-even-total-kills": {
-    "id": "1935486",
-    "conditionId": "0x5c68624e9615f93e2cb12f6bd8b8f388e01a4977d6b72e5108fbdae40eab4b29",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-r2-mw-2026-04-12",
-    "negRisk": false
-  },
-  "cs2-vsc-alkaa-2026-04-12-game1-odd-even-total-kills": {
-    "id": "1935494",
-    "conditionId": "0xa285d660c26e2f4d621f29579654ec0bff119ebd38dcabb4b07500509befc807",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-vsc-alkaa-2026-04-12",
-    "negRisk": false
-  },
-  "cs2-vsc-alkaa-2026-04-12-game2-odd-even-total-kills": {
-    "id": "1935496",
-    "conditionId": "0x307884f9e172a342c84a12efb7178041f994cd818b1ff431849d58899dab8a0a",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-vsc-alkaa-2026-04-12",
-    "negRisk": false
-  },
-  "cs2-vsc-alkaa-2026-04-12-game3-odd-even-total-kills": {
-    "id": "1935498",
-    "conditionId": "0x190506bb5bd1b07c2eff4baceefc38806d84721269958db1ea361fd3279c5e7c",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-vsc-alkaa-2026-04-12",
     "negRisk": false
   },
   "cs2-ff-lph-2026-04-11-game1-odd-even-total-kills": {
@@ -90064,15 +89364,155 @@
     "eventSlug": "nba-playoffs-finals-mvp",
     "negRisk": true
   },
-  "will-russia-capture-dovha-balka-by-may-31": {
-    "id": "1973434",
-    "conditionId": "0xd4b3b9fa9f8291965e1d2bae6086cb4310488d103fbec9612aec54a5ed856cb5",
-    "endDate": "2026-05-31",
+  "will-jordan-clarkson-win-the-2026-nba-finals-mvp": {
+    "id": "1972821",
+    "conditionId": "0x2f18abac2b593e0a9f9457423779e0fb7beb5f96680fafe0e3c56b655bfcc999",
+    "endDate": "2026-06-17",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-dovha-balka-by",
-    "negRisk": false
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-miles-mcbride-win-the-2026-nba-finals-mvp": {
+    "id": "1972822",
+    "conditionId": "0x2f4100928eae6c4abe98e8e61cb94514ac5f9030ee23ae38eacc698308bced46",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-josh-hart-win-the-2026-nba-finals-mvp": {
+    "id": "1972823",
+    "conditionId": "0x5b2874eb8557ec7615d1949b01b8bcb4def86d4945b97ae84e2963a20236a494",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-jose-alvarado-win-the-2026-nba-finals-mvp": {
+    "id": "1972824",
+    "conditionId": "0x8e5d27817ab633b5f0e3af17f27fef89be8b3650b7f4ff9fdabfa76f374bbece",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-og-anunoby-win-the-2026-nba-finals-mvp": {
+    "id": "1972825",
+    "conditionId": "0x8342cec3455d4a48f06380f554d2c31e818539cec5c90f97cd11cf23d8bd71ec",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-mitchell-robinson-win-the-2026-nba-finals-mvp": {
+    "id": "1972826",
+    "conditionId": "0x604fb5255946c4e10590ee2de3d61c4485c8d8b2478218458da09d0139ab514b",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-mikal-bridges-win-the-2026-nba-finals-mvp": {
+    "id": "1972827",
+    "conditionId": "0x90da5486c57f4f3e611d26e98f4bf51c0d41afb5421cf057b068925de8963be6",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-landry-shamet-win-the-2026-nba-finals-mvp": {
+    "id": "1972828",
+    "conditionId": "0x99319d209567221315d7aacc1818aaffbe8890b79f40005ed27d0004e0b068eb",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-dylan-harper-win-the-2026-nba-finals-mvp": {
+    "id": "1972829",
+    "conditionId": "0xeb89137fb872748f12edc73efd026f4b639fcad17b09e8bad06782ea3f45698a",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-keldon-johnson-win-the-2026-nba-finals-mvp": {
+    "id": "1972830",
+    "conditionId": "0xff130acc161eec7f565a3e9089b852cfeeeb0ba116e5811962c7c78e29d7020c",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-stephon-castle-win-the-2026-nba-finals-mvp": {
+    "id": "1972831",
+    "conditionId": "0x97d03958974209b73458f9026f96a56db9216cd084f086d0af1f1e7f373d6761",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-luke-kornet-win-the-2026-nba-finals-mvp": {
+    "id": "1972832",
+    "conditionId": "0x666a8a367bcb7d5385f3515e80cb24c13a7f8b542c50fa6f45e9855845f9ef11",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-devin-vassell-win-the-2026-nba-finals-mvp": {
+    "id": "1972833",
+    "conditionId": "0x2ad030a5540e83ed98a6d88d2d8ac0b34bedebf60859ca01c8bb8b40856e1b26",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-julian-champagnie-win-the-2026-nba-finals-mvp": {
+    "id": "1972834",
+    "conditionId": "0xbe25073adbf2df29c0d0b3a617c40d6b587fa0e3e5acd2f9d5c29582430673cf",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
+  },
+  "will-harrison-barnes-win-the-2026-nba-finals-mvp": {
+    "id": "1972835",
+    "conditionId": "0x6c6bb5d06417f1af124613db543ba9b1a84a759c089f67a09399f4d0ed74474e",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-playoffs-finals-mvp",
+    "negRisk": true
   },
   "will-alexandra-van-cleef-be-the-republican-nominee-for-fl-06": {
     "id": "1973820",
@@ -91842,16 +91282,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "united-x-american-airlines-merger-announced-in-2026",
-    "negRisk": false
-  },
-  "ruben-gallego-out-as-us-senator-by-may-31": {
-    "id": "1985217",
-    "conditionId": "0x1b5b6c8d562cab91cc2068c79404aed03e722a12328c75df7796bb1332905e2f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ruben-gallego-out-as-us-senator-by-may-31",
     "negRisk": false
   },
   "will-donald-trump-attend-the-next-us-x-iran-diplomatic-meeting": {
@@ -94624,16 +94054,6 @@
     "eventSlug": "israel-x-iran-permanent-peace-deal-by",
     "negRisk": false
   },
-  "israel-withdraws-from-lebanon-by-may-31-2026": {
-    "id": "2002608",
-    "conditionId": "0x8bb861046d70534248fe10aaef5ca28a91fe4c923db024005ea26b86946ca114",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "israel-withdraws-from-lebanon-by",
-    "negRisk": false
-  },
   "israel-withdraws-from-lebanon-by-june-30-2026": {
     "id": "2002609",
     "conditionId": "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2",
@@ -94642,16 +94062,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "israel-withdraws-from-lebanon-by",
-    "negRisk": false
-  },
-  "israel-x-hezbollah-diplomatic-meeting-by-may-31-2026": {
-    "id": "2002687",
-    "conditionId": "0x9d2be8b724c2942565522e6aaf01d5607983cd6844b9736597ed6dbf85c0a27a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "israel-x-hezbollah-diplomatic-meeting-by",
     "negRisk": false
   },
   "will-donald-trump-visit-pakistan-in-2026": {
@@ -95194,6 +94604,246 @@
     "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
     "negRisk": true
   },
+  "will-carter-hart-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007622",
+    "conditionId": "0x09987ca345a3429d7bd00f638ec2144e4474443aed7fb6e38394ca8234298e30",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-rasmus-andersson-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007623",
+    "conditionId": "0xc80ab43906b87461f2324e1333cef3676e8a0ef9636b620d0de6516da2c36d89",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-noah-hanifin-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007624",
+    "conditionId": "0x271427a4ea5fb87a4f966f8e1f9933c16bcb49c880b5c44926b546eefcaf59d1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-shea-theodore-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007626",
+    "conditionId": "0xa8f8bd62bf5fbd9ef04d96c70863ddb95dc4eb43e47691ea02d51f395f68903d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-brayden-mcnabb-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007627",
+    "conditionId": "0xafbfc920f22c977a0f49b4d9dcae38d135f993f6e22de095ccfb3421d12363b8",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-mark-stone-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007628",
+    "conditionId": "0xbc0554e1ef4b5d7c6106b7bb214388bf76b0b5e6fe720247cf7f700181722e55",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-colton-sissons-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007629",
+    "conditionId": "0x628eb05c6bd6e77169de721c136e1576379baeb1c0ef753919c237695996ad6c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-tomas-hertl-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007630",
+    "conditionId": "0x9f0e4d979f83eef0414f3f23619b032e860d9b5d25ea6a72276d197c30e8c18a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-william-karlsson-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007631",
+    "conditionId": "0xb6ebbf6314a17bffdaeeaba917c1382274306395c7d690d7b5ccd6f5834704a0",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-brett-howden-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007632",
+    "conditionId": "0x5808d9292015dc6e1e669c67948f8fd86f68bd73655d51c051dbc273280babb9",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-pavel-dorofeyev-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007633",
+    "conditionId": "0x6608d1e3f631734b9befb815f65f14b13672cd9de946abb58356f2d940917d81",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-ivan-barbashev-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007634",
+    "conditionId": "0x8fbb100af1c4e1e13f8eed0ea7715a972bee114e77b818d7c079ab090def4e5f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-andrei-svechnikov-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007635",
+    "conditionId": "0x5d72430a6d7dcf68d30fe796181a96b887874d6e2e31cbfbfb326fe5e01d6d3e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-taylor-hall-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007636",
+    "conditionId": "0xa28577bcd66fb1375deec2e2b04288b2098fd4d9af19247984f96a2243a8ccea",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-logan-stankoven-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007637",
+    "conditionId": "0x55138e8f1d8fc714312bdea287258caad6361ff74208887828e3bbdb4f44528a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-jackson-blake-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007639",
+    "conditionId": "0xd30df4c9deeb88faed13ef560ef33f6ae8b328792c2197e3ac50c9329d168917",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-nikolaj-ehlers-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007640",
+    "conditionId": "0x4e06af3bc3c72b6d5bf1c4cb889d39f679e98e12a1abf61ba770c37ea8b27fcb",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-jordan-staal-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007641",
+    "conditionId": "0x778595b1da94166e8593dd8bb4088ed8116dd31e0305a4ca632a3461b7883bfb",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-jaccob-slavin-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007642",
+    "conditionId": "0x54bf5b0abc300b3b07f033231129738bcea2fe32d6e14653a5af0b85e2282b78",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-jalen-chatfield-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007643",
+    "conditionId": "0xc26012bbd729f45992bf8576467e0809c0f09a774648beaae32d2a5dc0117c3f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-kandre-miller-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007644",
+    "conditionId": "0xad16ce78d9ecdabca8b5fa87be9bcdd418a8e2ec6f475aa20af271ea5069681b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-shayne-gostisbehere-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007646",
+    "conditionId": "0x4deb475542e06784aeb5b01358d6a55cc94e5ce48d92a7be8cc38ea2c3ae419c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-alexander-nikishin-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007647",
+    "conditionId": "0xe78d3532420b2b0339d5a046ec718ef70483c8a7b19990222319b60b2fd8663f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
+  "will-frederik-andersen-win-the-2026-nhl-conn-smythe-trophy": {
+    "id": "2007648",
+    "conditionId": "0xd5d810a1ac6d546c461afaa434e2fe83c56d32c0a2705a30309f19481bbe5fa1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
+    "negRisk": true
+  },
   "bol1-pot-abb-2026-05-14-pot": {
     "id": "2007939",
     "conditionId": "0x2843714b4bdf848481c6f165b09a39bb24b5401967b296222d9ef66e5a3a5f14",
@@ -95271,16 +94921,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-zohran-mamdani-release-another-song",
-    "negRisk": false
-  },
-  "trump-renames-straight-of-hormuz-to-strait-of-trump-by-may-31": {
-    "id": "2009635",
-    "conditionId": "0x79e7d16f5c71ab6ff5f805f77045eb5cef7b8f6aa87db54ebabeb3373d31b254",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-renames-straight-of-hormuz-to-strait-of-trump-by-may-31",
     "negRisk": false
   },
   "will-china-gdp-growth-in-q2-2026-be-less-than-4pt0": {
@@ -96913,16 +96553,6 @@
     "eventSlug": "cs2-old-old1-2026-04-20",
     "negRisk": false
   },
-  "will-russia-capture-myropillia-by-may-31": {
-    "id": "2035570",
-    "conditionId": "0x86c08ac20c538568df99b22158ae6cc85dd1fca1d463905b8302540aede0f8a0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-myropillia-by-may-31",
-    "negRisk": false
-  },
   "hailey-bieber-pregnant-in-2026": {
     "id": "2035726",
     "conditionId": "0xc496ee9f54964fcba972e2d774f7d069f067b3631985837b34806e7eeb68e2ea",
@@ -96972,16 +96602,6 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-str-ori-2026-05-17",
     "negRisk": true
-  },
-  "will-the-flotilla-reach-gaza-by-may-31": {
-    "id": "2036323",
-    "conditionId": "0x77c7b32edbe925e2a5cd677e1118e74f3db005bfe1b99ff467d70a2462ed1bea",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-the-flotilla-reach-gaza-by-may-31",
-    "negRisk": false
   },
   "will-the-aave-tvl-go-below-10b-in-2026": {
     "id": "2036562",
@@ -102544,16 +102164,6 @@
     "eventSlug": "will-ron-desantis-join-the-trump-administration-by-june-30",
     "negRisk": false
   },
-  "us-takes-a-stake-in-spirit-airlines-by-may-31": {
-    "id": "2046618",
-    "conditionId": "0xd601b601aefef8a07136bf16bd72642827fa65bc14b1ad066cbe5c46987a4745",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-takes-a-stake-in-spirit-airlines-by-may-31",
-    "negRisk": false
-  },
   "will-caitlin-clark-win-the-2026-wnba-mvp-award": {
     "id": "2046989",
     "conditionId": "0x8ac9d0ba418fd9928001908a744ed3a93a520dc7713337ce8da67405d404894b",
@@ -103364,26 +102974,6 @@
     "eventSlug": "wnba-team-to-make-postseason",
     "negRisk": false
   },
-  "will-russia-capture-all-of-prymorske-by-may-31-2026": {
-    "id": "2047638",
-    "conditionId": "0xadcbaba35d6a440db92ba0a30151fa000e4e13f3b0bbf78139e41db8497a7b55",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-prymorske-by",
-    "negRisk": false
-  },
-  "will-ukraine-re-enter-uspenivka-by-may-31": {
-    "id": "2047669",
-    "conditionId": "0x03c903334fa2d1cffd5cc844cf081f401aeb0fcc976cbb14374a97be2cd18888",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ukraine-re-enter-uspenivka-by-march-31",
-    "negRisk": false
-  },
   "will-spacex-acquire-cursor": {
     "id": "2047984",
     "conditionId": "0xc2dd20bc42378191ba1e6068f2afa8b2a6c13881a42ee03e211441f0a2f3aeac",
@@ -103634,26 +103224,6 @@
     "eventSlug": "will-russia-enter-orikhiv-by-december-31",
     "negRisk": false
   },
-  "will-russia-enter-dobropillia-by-may-31": {
-    "id": "2053675",
-    "conditionId": "0x3d75d9d770daa68c07e758c47f67eb03f54d6172c42355628568e8ff02b26384",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-dobropillia-by-january-31",
-    "negRisk": false
-  },
-  "will-russia-enter-ternuvate-again-by-may-31": {
-    "id": "2053677",
-    "conditionId": "0xda70183170dabffacfcaf4d3f28cc8d02654eebc5f3821d0573aa9468d5acf6d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-ternuvate-again-by-february-28",
-    "negRisk": false
-  },
   "jacob-elordi-and-kendall-jenner-confirmed-relationship-by-june-30": {
     "id": "2053699",
     "conditionId": "0xbd90f7771986193f2705528da38e7de246fdeab07ce9b69c272e287cd2445c1f",
@@ -103672,96 +103242,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "zoe-kravitz-and-harry-styles-engaged-by-august-31",
-    "negRisk": false
-  },
-  "will-russia-capture-pokrovka-by-may-31": {
-    "id": "2053790",
-    "conditionId": "0x21556121fb4765cbdf2e45d284763e218dea044959bfa619f981e48104d78390",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-pokrovka-by",
-    "negRisk": false
-  },
-  "will-russia-enter-kindrashivka-by-may-31": {
-    "id": "2053798",
-    "conditionId": "0x92c95e9b2ea09d40fea4d1cf4f71642ba6ca3f276ed357b8eb791d0375adfb5f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-kindrashivka-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-capture-all-of-ternuvate-by-may-31-2026": {
-    "id": "2053800",
-    "conditionId": "0x5ed7e4e4f257e33b0b00cd7042b210efbe44e8b207446281f13bc90cf5a6bc90",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-ternuvate-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-enter-myrne-by-may-31-2026": {
-    "id": "2053832",
-    "conditionId": "0x9391cd96f6460f60435128788264ad7abf7fc7480a3aef5edec6267d98d531b4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-myrne-by",
-    "negRisk": false
-  },
-  "will-russia-enter-shevchenko-by-may-31": {
-    "id": "2053867",
-    "conditionId": "0x999c477e6c9aedeaa28735dc02fe9076f8088a020b2ca329c0acc2d28876c4f4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-shevchenko-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-enter-khatnie-by-may-31-2026": {
-    "id": "2053920",
-    "conditionId": "0xa222e431c2edbbccbcfe36c415e0b17184d28c65de158ef488e7c809affe5993",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-khatnie-by",
-    "negRisk": false
-  },
-  "will-russia-enter-serhiivka-by-may-31": {
-    "id": "2053928",
-    "conditionId": "0x43cf569450f1c4259cd0426127d8356fb6296df9f09456d1d4aa3c9cd4cd76c4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-serhiivka-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-enter-krasnopillya-by-may-31": {
-    "id": "2053938",
-    "conditionId": "0xb744bc19070b0c84fde101c0b4dc81f7192a3d65723b594db1e30596608d7dc5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-krasnopillya-by-april-30",
-    "negRisk": false
-  },
-  "will-russia-capture-kindrativka-by-may-31": {
-    "id": "2053946",
-    "conditionId": "0x82b1b23cde12ef055f59302b09422c9d630b1ed46449ab04022f8a8e71425c84",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-kindrativka-by-march-31",
     "negRisk": false
   },
   "will-marine-le-pen-be-on-the-ballot-for-the-2027-french-presidential-election": {
@@ -104714,69 +104194,9 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-alex-jones-by-may-31-2026": {
-    "id": "2060630",
-    "conditionId": "0x9fb7f9b09ac88108452f1fe20cf6919bd00043dd219c7498eabbe03daa1411b0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-pope-leo-xiv-by-may-31-2026": {
-    "id": "2060631",
-    "conditionId": "0x0f0223285758f7b55b947e79ecd15e1ad2a129ee4ac96deccefc80b1bb4ddbc4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-marjorie-taylor-greene-by-may-31-2026": {
     "id": "2060635",
     "conditionId": "0xfbac380124e56e0551243cc25a22d31f5f306b9b9819458055b402b5f5ca5c6e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-pam-bondi-by-may-31-2026": {
-    "id": "2060636",
-    "conditionId": "0xb2c392b51626ed2ac89c5a950e97f1796c407a083f690ac2d6e712839b8c7773",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-jd-vance-by-may-31-2026": {
-    "id": "2060638",
-    "conditionId": "0x181ca06fa002a1d992eb38b7daaa8af1e43a49323e35526cf587814f54f2beca",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-melania-trump-by-may-31-2026": {
-    "id": "2060639",
-    "conditionId": "0xf34fa4e1a8db42fbe2b19259ee4098e2c38dbab4da5b6a9b067bb7eb5f3f9e04",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-xi-jinping-by-may-31-2026": {
-    "id": "2060640",
-    "conditionId": "0xc07e8c304de1b0bc88f07598572fd40b80a81b05c0aa826c67f51381d67ad33f",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -107170,16 +106590,6 @@
     "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
     "negRisk": false
   },
-  "critical-discord-incident-by-may-31": {
-    "id": "2070431",
-    "conditionId": "0x534416d066d87af2749f669173847635cc7b812035d0398cc063a153fee251d0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "critical-discord-incident-by-may-31",
-    "negRisk": false
-  },
   "bol1-ant-abb-2026-05-22-ant": {
     "id": "2070543",
     "conditionId": "0xb502f4db59beae49cc508e267b7a92bb52881bf5ed8070b4cc70f1a5ce4f27e1",
@@ -107208,66 +106618,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-ant-abb-2026-05-22",
-    "negRisk": true
-  },
-  "will-there-be-at-least-2000-measles-cases-in-the-us-by-may-31-2026-483-684-323-237": {
-    "id": "2070602",
-    "conditionId": "0x0d2c9b8bbc81ef294b72a82db21b85dafaab1dbf9f7c1e3aebe531ad7bfc8e2e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "measles-cases-in-us-by-may-31",
-    "negRisk": false
-  },
-  "will-there-be-at-least-2200-measles-cases-in-the-us-by-may-31-2026-286-756-975-169": {
-    "id": "2070603",
-    "conditionId": "0x4099154492fe263d61daf66377d25f9a260aa70d00b7aae48d2b2a4463baa29c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "measles-cases-in-us-by-may-31",
-    "negRisk": false
-  },
-  "will-there-be-at-least-2400-measles-cases-in-the-us-by-may-31-2026-186-721-474-844": {
-    "id": "2070604",
-    "conditionId": "0xf810fcc5fef5ecce25c9b73a7bff33c3344f211446d50871f2a97eec53106104",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "measles-cases-in-us-by-may-31",
-    "negRisk": false
-  },
-  "will-there-be-fewer-than-2-days-on-which-north-korea-launches-missiles-in-may-2026": {
-    "id": "2070666",
-    "conditionId": "0x1a075af3720a6c2254646b99d1317b7b20c29d428c1ccba26bad9894da0d716c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "number-of-north-korea-missile-tests-in-may-2026",
-    "negRisk": true
-  },
-  "will-there-be-23-days-on-which-north-korea-launches-missiles-in-may-2026": {
-    "id": "2070667",
-    "conditionId": "0xee82580f50223bb0f6389da8638f4ffcde6ce0f0128f05e3eb7abe21d1bf0b06",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "number-of-north-korea-missile-tests-in-may-2026",
-    "negRisk": true
-  },
-  "will-there-be-4-or-more-days-on-which-north-korea-launches-missiles-in-may-2026": {
-    "id": "2070668",
-    "conditionId": "0xbbe13153c4a840fecbefbe7db00bfd281ed3a484010d4c21673f6b50fe813913",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "number-of-north-korea-missile-tests-in-may-2026",
     "negRisk": true
   },
   "will-mexico-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
@@ -110010,116 +109360,6 @@
     "eventSlug": "minas-gerais-governor-election-winner",
     "negRisk": true
   },
-  "over-3m-committed-to-the-printr-public-sale": {
-    "id": "2088989",
-    "conditionId": "0x3e0dc6c075e14c66526923f2139b1d5c54fafd43b51e0abe5075739e6ac1cf3b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-4m-committed-to-the-printr-public-sale": {
-    "id": "2088990",
-    "conditionId": "0x13c0edf4f2f2f0957f196f1e51f8e64520ea193f5003714d423c7d386d078c2a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-6m-committed-to-the-printr-public-sale": {
-    "id": "2088991",
-    "conditionId": "0xa1bb6c583e24ea1872e041c746da54c249548e136681cc19968b51a3b4a0f3aa",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-8m-committed-to-the-printr-public-sale": {
-    "id": "2088992",
-    "conditionId": "0xf03529a209d7dc8d9bf461a1960804d793d4a6262b94a20c36e3199bef042767",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-10m-committed-to-the-printr-public-sale": {
-    "id": "2088993",
-    "conditionId": "0x561e400fc730dd5d6d580c04e7ce626caab7277fb3cec60f78879e2228b6da9b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-15m-committed-to-the-printr-public-sale": {
-    "id": "2088994",
-    "conditionId": "0xd9c3cba9982e6d16440808b0aebcf8ab3d0e67ad58d0e8acad2d1d1801f9a252",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-20m-committed-to-the-printr-public-sale": {
-    "id": "2088995",
-    "conditionId": "0xcacdc005e7d722cd3adc3ae690f368f26c50fae9b50c7427e48db7e61f84219e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-30m-committed-to-the-printr-public-sale": {
-    "id": "2088996",
-    "conditionId": "0x26baf6b25267437104fc84c01a1356eee49e447c1ab1c6e20860554d5c116ffe",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-40m-committed-to-the-printr-public-sale": {
-    "id": "2088997",
-    "conditionId": "0x68c52c3ca0a5111ead1947cb69dab74da6395a3c810020174637fabe5820df18",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-60m-committed-to-the-printr-public-sale": {
-    "id": "2088998",
-    "conditionId": "0x43ef9188afe6df1ad2ae69a67ceb9077bb930a5d924d804e45b28c5eec058dd4",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-100m-committed-to-the-printr-public-sale": {
-    "id": "2088999",
-    "conditionId": "0x7932ce4b3846082cfed5f25deab2d78181adada1ecb2e3873ed98f6cc9b185cc",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
   "will-jernimo-rodrigues-win-the-2026-bahia-gubernatorial-election": {
     "id": "2089025",
     "conditionId": "0xc7dd27f1b8db1d7d9ea88ed4b56fb4c495c20a9313cf77f17b03904ade03c573",
@@ -111090,16 +110330,6 @@
     "eventSlug": "will-pam-bondi-be-held-in-contempt-of-congress-by-april-30",
     "negRisk": false
   },
-  "pete-hegseth-out-as-secretary-of-defense-by-may-31": {
-    "id": "2097554",
-    "conditionId": "0xd7e6f6627e8b73a8fa3a29949f6dc81f683f5ce102ae6b03347b862d09617f0f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "pete-hegseth-out-as-secretary-of-defense-by-may-31",
-    "negRisk": false
-  },
   "will-may-2026-be-the-1st-hottest-on-record": {
     "id": "2097569",
     "conditionId": "0x16d5d993ca1050f2b217b3a0698e7bfc22031db76c33a9f1cec80e71079ca8e1",
@@ -111139,46 +110369,6 @@
     "acceptingOrders": true,
     "eventSlug": "2026-may-1st-2nd-3rd-hottest-on-record",
     "negRisk": true
-  },
-  "will-trumps-approval-rating-fall-to-38pt0-by-the-end-of-may": {
-    "id": "2097617",
-    "conditionId": "0x0fecbc7c4d1268eaf6d439d1e08c5a42a62f600228a63eac4041f1fc4f2c3a99",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-low-will-trumps-approval-rating-go-by-end-of-may",
-    "negRisk": false
-  },
-  "will-trumps-approval-rating-fall-to-37pt5-by-the-end-of-may": {
-    "id": "2097618",
-    "conditionId": "0x0b7ef3d1307e177d35ebe5db963fad6d465706f0659515150ad90a05785d8f63",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-low-will-trumps-approval-rating-go-by-end-of-may",
-    "negRisk": false
-  },
-  "will-trumps-approval-rating-fall-to-37pt0-by-the-end-of-may": {
-    "id": "2097619",
-    "conditionId": "0x1a20c03a4b301b1540070c2bdc58023e5aa9e6eefabfc2f3adcb85b138932eea",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-low-will-trumps-approval-rating-go-by-end-of-may",
-    "negRisk": false
-  },
-  "save-act-becomes-law-by-may-31-2026": {
-    "id": "2097633",
-    "conditionId": "0xc473d91381b90b35899b844e25bfae4b5526424244d87b47004f1e11929a7626",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "save-act-becomes-law-by",
-    "negRisk": false
   },
   "will-anthropic-make-a-deal-with-the-pentagon-by-may-31": {
     "id": "2097648",
@@ -111440,16 +110630,6 @@
     "eventSlug": "which-artists-will-have-1-hits-in-may",
     "negRisk": false
   },
-  "jimmy-kimmel-firedresigns-by-may-31": {
-    "id": "2099096",
-    "conditionId": "0xe033fd230022d2c8835df16bb9e065b402690a15e9ed381ea00569b9218ce102",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "jimmy-kimmel-firedresigns-by-may-31",
-    "negRisk": false
-  },
   "will-rocco-baldelli-be-the-next-red-sox-manager-671": {
     "id": "2099122",
     "conditionId": "0x98d2fdd6ff5ac86d828b4fcf75e22245aab911f88e0b6eb92c9ce55d0d7543b5",
@@ -111650,136 +110830,6 @@
     "eventSlug": "steve-bannon-exonerated-by-april-30",
     "negRisk": false
   },
-  "will-trump-say-barack-hussein-obamacare-in-may": {
-    "id": "2099226",
-    "conditionId": "0x9a6e40b9ded8f3b71d84bb6d09bfa7f0e0f7f3e00c445a90f2f842b9857db744",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-egghead-in-may": {
-    "id": "2099228",
-    "conditionId": "0x64d2173d0afbc0da4671b439314b7495c51810b94c0484a8e92ed28c3893a7d5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-iwo-jima-in-may": {
-    "id": "2099229",
-    "conditionId": "0x5957671fa6d0cb7e71bb3cebd0715a73872210b02baad4ddf11a6b601f532fbf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-golden-dome-in-may": {
-    "id": "2099232",
-    "conditionId": "0x682d9f1f32aaf02f49152a418b3d6f760cc1bbc715a94395da902a82e5140865",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-skedaddle-in-may": {
-    "id": "2099233",
-    "conditionId": "0x0bfd969a99f03edc62b8e2a5833f11d4989244caf939fbdc8954c10d03958e97",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-pizza-in-may": {
-    "id": "2099235",
-    "conditionId": "0x8b47dbafe7e5ad0ee6ec568bfac9f40cdf9a06c8b757286f8531f06b767a126a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-discombobulator-or-discombobulated-in-may": {
-    "id": "2099237",
-    "conditionId": "0xb5e5eb3a7bb9a0b66cfef919fb5322d34c155e1d49719134596300d6817061d3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-braggadocious-in-may": {
-    "id": "2099238",
-    "conditionId": "0x12ee56fddc580c8b35058e5b1b466c53c1c34554d1dac209b11a12ad2bae0d37",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-bitcoin-in-may": {
-    "id": "2099239",
-    "conditionId": "0x4c9f02ab9dbced0fae73a56ef51d9bd60894afbc0250790997ffb32562dc6d4b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-epstein-in-may": {
-    "id": "2099240",
-    "conditionId": "0x1370bc457e501465c15c52e4c6037472142e06671e71fcf6e5c8c432e34c8521",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-big-bang-in-may": {
-    "id": "2099245",
-    "conditionId": "0xeea7a80c5ad65ff26eba7100dfeae3c3db2cf4120ddd6ae5af2da07684ed15ce",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-white-house-faith-office-in-may": {
-    "id": "2099252",
-    "conditionId": "0xb98157ed4b861e3663a1b657c36e38e68625a529811e9ea8c4843e39c074cded",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-christmas-in-may": {
-    "id": "2099253",
-    "conditionId": "0x063110a916f8d4c25f7f1ecb7522b20064735c03273ab1c3d8867522e5a07d41",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
   "will-trump-say-nuke-in-may": {
     "id": "2099260",
     "conditionId": "0xd17239d94f2af2f6bda410d56c82ca651851c6fd8360359d2021bf665a63cc52",
@@ -111788,46 +110838,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-cat-in-may": {
-    "id": "2099266",
-    "conditionId": "0xf867694a419cd8ef9c8633c4dcc39df8f3aa0ae953c973408596408922492e80",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-america-last-in-may": {
-    "id": "2099267",
-    "conditionId": "0xa007fdf5551e16a4f22b084146bbfd5ce58af3bb1af2869ff14fc7a5065db55d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-neville-or-chamberlain-in-may": {
-    "id": "2099268",
-    "conditionId": "0x49088a21f034788c5c53a9302d87ebd55548b53a59cdb1af88f42f4b25c12c65",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "50m-views-on-a-mrbeast-video-in-the-first-day-by-may-31": {
-    "id": "2099337",
-    "conditionId": "0x6537e930ae517c3874fde483e4911d8e4559d71002b8d386085511e422dabd09",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "50m-views-on-a-mrbeast-video-in-the-first-day-by-may-31",
     "negRisk": false
   },
   "bol1-bol-gua-2026-05-24-bol": {
@@ -112190,16 +111200,6 @@
     "eventSlug": "next-leader-out-of-power-before-2027-no-orban",
     "negRisk": true
   },
-  "trump-sues-jimmy-kimmel-by-may-31": {
-    "id": "2099603",
-    "conditionId": "0xf2f446bd91126ce509875ecd03a1b32c63294fe92f30469a8b8fb4412fe3392d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-sues-jimmy-kimmel-by-may-31",
-    "negRisk": false
-  },
   "rotisserie-chicken-act-becomes-law-by-june-30": {
     "id": "2099663",
     "conditionId": "0xf4d5146abb808a5645a34a902c15154711f202e933b6db07e24af38fca6d0466",
@@ -112210,39 +111210,9 @@
     "eventSlug": "rotisserie-chicken-act-becomes-law-by-june-30",
     "negRisk": false
   },
-  "will-spacex-have-exactly-11-launches-in-may": {
-    "id": "2099667",
-    "conditionId": "0xf8fd77bd21e39c2316e501cd98b3c7e7ee0dbcadc1d1bc38abaa58e15541788d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spacex-launches-in-may",
-    "negRisk": true
-  },
-  "will-spacex-have-exactly-12-launches-in-may": {
-    "id": "2099668",
-    "conditionId": "0x991909e37e6a096158fac5d56b812ad4108f42d306ee73d3c6afe31a99af337f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spacex-launches-in-may",
-    "negRisk": true
-  },
   "will-spacex-have-exactly-13-launches-in-may": {
     "id": "2099669",
     "conditionId": "0x9b5cb09f31cfd62edf281ecb83326b7cedfd76ed71009242a8763f60b1072c15",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-spacex-launches-in-may",
-    "negRisk": true
-  },
-  "will-spacex-have-14-or-more-launches-in-may": {
-    "id": "2099670",
-    "conditionId": "0x697dab73a0fb095c2e16b64f1b40a5ab7df69a344c6eed1a54539ba63f16784a",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -112598,36 +111568,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "gpt-5pt6-released-by",
-    "negRisk": false
-  },
-  "over-150m-committed-to-the-printr-public-sale": {
-    "id": "2100088",
-    "conditionId": "0xfc3d4fae9789f7d4c0be49684ee3f5f172f8dc58a44ed80bedad9a601296f381",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-200m-committed-to-the-printr-public-sale-bnf": {
-    "id": "2100089",
-    "conditionId": "0x067fd1ad5c366d24f8bad7e432ca43a82c269c78f62a958f11df5f76040cad88",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
-    "negRisk": false
-  },
-  "over-250m-committed-to-the-printr-public-sale": {
-    "id": "2100090",
-    "conditionId": "0x84ed87ca0b8ba8da41ea89a66e18ec75c87144022deb15f06cddd6ec64b3c89b",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "printr-public-sale-total-commitments",
     "negRisk": false
   },
   "will-hyperliquid-perform-an-airdrop-by-december-31-2027-117": {
@@ -113280,136 +112220,6 @@
     "eventSlug": "100m-views-on-a-mrbeast-video-in-the-first-week-by-june-30",
     "negRisk": false
   },
-  "will-nyc-have-less-than-2-inches-of-precipitation-in-may": {
-    "id": "2106425",
-    "conditionId": "0x329c2eb2cd491487fa5ca8f5b6dbd5e125f73a825535ce55ff00a17699aa8d5c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-nyc-in-may",
-    "negRisk": true
-  },
-  "will-nyc-have-between-2-and-3-inches-of-precipitation-in-may": {
-    "id": "2106426",
-    "conditionId": "0x2909f77a47466405424669bb337223cd3e7c62acd2cbbc2c2ca9a977e7f9f51b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-nyc-in-may",
-    "negRisk": true
-  },
-  "will-nyc-have-between-3-and-4-inches-of-precipitation-in-may": {
-    "id": "2106427",
-    "conditionId": "0x404e1d11ae235ba626df25dced429b848d8cb741fa72b9635cd9c84e66973d00",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-nyc-in-may",
-    "negRisk": true
-  },
-  "will-nyc-have-between-4-and-5-inches-of-precipitation-in-may": {
-    "id": "2106428",
-    "conditionId": "0x35f91847f18be8874898e35467b58067ee753ab072665e828a2df190699ad9d4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-nyc-in-may",
-    "negRisk": true
-  },
-  "will-nyc-have-between-5-and-6-inches-of-precipitation-in-may": {
-    "id": "2106429",
-    "conditionId": "0xb9d070cf25c7c888913cff0c862c0ad77af3f37a4c0e3cd24d22256541a2a016",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-nyc-in-may",
-    "negRisk": true
-  },
-  "will-nyc-have-more-than-6-inches-of-precipitation-in-may": {
-    "id": "2106430",
-    "conditionId": "0x74473fdfbd2e9e752c92e58f5c478b38f68c817bb4e7981fc3161839ae654f72",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-nyc-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-less-than-0pt5-inches-of-precipitation-in-may": {
-    "id": "2106439",
-    "conditionId": "0x4e65897edb647b5187f1ad5e948d8551f6440ddb3e068c7ca1671cf4b018b2e5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-between-0pt5-and-1-inches-of-precipitation-in-may": {
-    "id": "2106440",
-    "conditionId": "0x0210504acec9d16133a4bd02831872a40df36e7ef4b8dc40f7bc90416cbacca4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-between-1-and-1pt5-inches-of-precipitation-in-may": {
-    "id": "2106441",
-    "conditionId": "0x317e13d28baae5a4e14229fbb147f04edcb190465b838c70962005cc296053b7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-between-1pt5-and-2-inches-of-precipitation-in-may": {
-    "id": "2106442",
-    "conditionId": "0x19f982e07a64f4cc8da8208e268cf27e6a05b0d91b33a661207523376ba97e3c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-between-2-and-2pt5-inches-of-precipitation-in-may": {
-    "id": "2106443",
-    "conditionId": "0xb7e8fe0b38f79ce74de2c119fde0a484cb70cfb34654e6aa8dec66ad11d4c6bf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-between-2pt5-and-3-inches-of-precipitation-in-may": {
-    "id": "2106444",
-    "conditionId": "0x36b5ebcf6c6257695419e8cc3ee3328f0a1000b57870d471c7a650a3cf1b65eb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
-  "will-seattle-have-more-than-3-inches-of-precipitation-in-may": {
-    "id": "2106445",
-    "conditionId": "0xab6dd61c06b6d65fb4adcc6dcf9aad64ceb4bf8e694dbb78fd9e0f6128277403",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-seattle-in-may",
-    "negRisk": true
-  },
   "will-london-have-less-than-5mm-of-precipitation-in-may": {
     "id": "2106446",
     "conditionId": "0x3ff3d49ab287815f7677ab20f0324381de22517bd07a80eb524dce53ff433130",
@@ -113558,86 +112368,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "precipitation-in-seoul-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-less-than-180mm-of-precipitation-in-may": {
-    "id": "2106961",
-    "conditionId": "0xced14bc4dd9117e1042c4b98351590f3186c6331cb9e38207535cb094998018e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-between-180-190mm-of-precipitation-in-may": {
-    "id": "2106962",
-    "conditionId": "0xc33a64e7e4ccb396a07b99d9beb309354ccbe9be2b795fb0fbe75edf3f91e65a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-between-190-200mm-of-precipitation-in-may": {
-    "id": "2106963",
-    "conditionId": "0x1ddeeac89d9bfd373967e593682648ffed2242acd4745e29f6f37cd1e9e57ac6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-between-200-210mm-of-precipitation-in-may": {
-    "id": "2106964",
-    "conditionId": "0xd31dfffb532b21b77f742639759651d33aa869652e35ae8bfb9d7965a8e55ce3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-between-210-220mm-of-precipitation-in-may": {
-    "id": "2106965",
-    "conditionId": "0x1a2c85bbc78524a1b3876add43d58cdf9e5e435404ba091c67bb9d08e5ffa40e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-between-220-230mm-of-precipitation-in-may": {
-    "id": "2106966",
-    "conditionId": "0x112f51f4ee9cd61349ba5074979291ba023d9765306f35f927505c179a6d224e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-between-230-240mm-of-precipitation-in-may": {
-    "id": "2106967",
-    "conditionId": "0xee19f66ee43815862cbd66d9cdeedf0594515aa8cb3eba28e5f51487f0f4b6e7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
-    "negRisk": true
-  },
-  "will-hong-kong-have-240mm-or-more-of-precipitation-in-may": {
-    "id": "2106968",
-    "conditionId": "0x5665d82505c7bd71cd34b7939f1f6dfa033a5864d03669a9388f48cb62f00fde",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "precipitation-in-hong-kong-in-may",
     "negRisk": true
   },
   "nor-ik-vif-2026-05-25-spread-away-1pt5": {
@@ -113930,16 +112660,6 @@
     "eventSlug": "will-russia-capture-all-of-vovchansk-by",
     "negRisk": false
   },
-  "new-stranger-things-episode-released-by-may-31": {
-    "id": "2108001",
-    "conditionId": "0x924dd7c245ffad81c5978896bdf03b1b3d147c5fe4fde2cb0251a19d8a16848c",
-    "endDate": "2026-01-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-stranger-things-episode-released-by-wednesday",
-    "negRisk": false
-  },
   "new-stranger-things-episode-released-by-june-30": {
     "id": "2108002",
     "conditionId": "0x4c84dd6ee0a304f591bf33a6f3a818e4df35288da297fc2e1cd2b1f98d6606c5",
@@ -113970,29 +112690,9 @@
     "eventSlug": "who-will-trump-publicly-praise-by-may-31",
     "negRisk": false
   },
-  "will-trump-praise-franklin-graham-by-may-31-2026": {
-    "id": "2108123",
-    "conditionId": "0xd0be2a6172edf522d344720972c90f18bba0f8084c0cea2cdaaa6948be815b14",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
   "will-trump-praise-william-mckinley-by-may-31-2026": {
     "id": "2108126",
     "conditionId": "0xf17d3fee69d2224cdbaae0f81810f78227e84fe1a8b437085071500020d00b52",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-hillary-clinton-by-may-31-2026": {
-    "id": "2108129",
-    "conditionId": "0x1c8fa360d69fa6bd7e62984b6f140164fcb9257be545f3e1e7febe72e69570a9",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -114013,16 +112713,6 @@
   "will-trump-praise-ronny-jackson-by-may-31-2026": {
     "id": "2108135",
     "conditionId": "0x02567842dbf50566b62220a556f5a36947c06fa2788bd781fa9e486f50d4367f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-lee-greenwood-by-may-31-2026": {
-    "id": "2108142",
-    "conditionId": "0xa5e0f8452c404e2e36a853745af561a1bf6898c8dee5278a1aa0db6f9d592f42",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -114260,16 +112950,6 @@
     "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
     "negRisk": false
   },
-  "will-trump-say-best-of-trump-in-may": {
-    "id": "2108623",
-    "conditionId": "0x9337259c7ecf37975a26e1c630d041ba579d64e0eccb73c150047f7eee1720a8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
   "will-trump-say-trump-tower-in-may": {
     "id": "2108624",
     "conditionId": "0x713f66e5970b0f6880a212d051a526f690c34425c59905b9a9f5774578815d13",
@@ -114283,16 +112963,6 @@
   "will-trump-say-trump-strait-or-strait-of-trump-in-may": {
     "id": "2108625",
     "conditionId": "0x20eb2ae0cef34216cc4f5d896d395734c3383ddab3d009d6b9c313d08cd58d54",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-class-or-trump-fleet-in-may": {
-    "id": "2108626",
-    "conditionId": "0xe7af5ca49f698eff821a4bab56d024daf8c54402ba485cbfe8b814be04540e7b",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -114350,26 +113020,6 @@
     "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
     "negRisk": false
   },
-  "will-trump-say-trump-trap-in-may": {
-    "id": "2108633",
-    "conditionId": "0x32ef1fbe636a32766afc093c41e4ae0fd9d05ecabaf6089eb21202f93c46b981",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-heights-in-may": {
-    "id": "2108634",
-    "conditionId": "0xd1fe69181f35f0ff552fa41fdf531f956a34caf02d568e3584ef2e8a4c966468",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
   "will-trump-say-trump-accord-or-trump-peace-in-may": {
     "id": "2108635",
     "conditionId": "0x468a3ebb69d28c77ca4afd5acdccfa6cd6556f8fe441cd28c229d7db80cb42be",
@@ -114383,16 +113033,6 @@
   "will-trump-say-trump-pool-or-trump-lake-or-trump-pond-in-may": {
     "id": "2108636",
     "conditionId": "0x9046351b6a5028075d44cc22b5e466f86203f468454ee44a1c8a4e3c4ef47e0a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-organization-in-may": {
-    "id": "2108637",
-    "conditionId": "0xa0011956748bcd13a8edb18801794b2828477aa86390654f32dc05dc47314483",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -114818,16 +113458,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "james-comey-sentenced-to-prison-in-2026",
-    "negRisk": false
-  },
-  "james-comey-charges-dropped-by-may-31": {
-    "id": "2109448",
-    "conditionId": "0x035b18a67f572d8950b381371f8569f4c0d4f483b8e9f5f54405de72c8ab6821",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "james-comey-charges-dropped-by-may-31",
     "negRisk": false
   },
   "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948": {
@@ -115429,16 +114059,6 @@
     "eventSlug": "who-will-win-chopped-castaways",
     "negRisk": true
   },
-  "will-moonshot-ais-kimi-k3-model-be-released-by-may-31-2026": {
-    "id": "2110217",
-    "conditionId": "0x049136c0b43ffdeb87b809d86b1e7118385247c99b4f4ed2e5489e07658badfe",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "kimi-k3-released-by",
-    "negRisk": false
-  },
   "veo-4-released-by-june-30-2026": {
     "id": "2110220",
     "conditionId": "0x3f426bad519776f3154ba11aa1050d8cc48cf756a14c0b3633cc5aad8f96fa83",
@@ -115559,6 +114179,16 @@
     "eventSlug": "israel-election-likud-of-seats",
     "negRisk": true
   },
+  "1-mlb-home-runs-on-monday": {
+    "id": "2110638",
+    "conditionId": "0xbd0708d4e96c24a2ca56ce6ce265d248cb011691dd881df50041aea77e8f2125",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-mlb-home-runs-on-monday-773",
+    "negRisk": false
+  },
   "will-anthropics-market-cap-be-less-than-0pt6t-at-market-close-on-ipo-day-by-december-31-2027": {
     "id": "2110748",
     "conditionId": "0xdc8f045babfcacd35d70d9a27ae9b9c621477bf720159a7816560a34e84f2c1f",
@@ -115647,26 +114277,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "another-trump-political-opponent-federally-charged-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-agree-to-iranian-oil-sanction-relief-by-may-31": {
-    "id": "2111562",
-    "conditionId": "0xa37173a88dc5622e1c42e9f8f5a9d20d70b9b99e52cb76e64fb0ad95503fcaef",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
-    "negRisk": false
-  },
-  "us-iran-nuclear-deal-by-may-31-974": {
-    "id": "2111640",
-    "conditionId": "0xbeab83146920be8f52b52fdbcb3464b24dc553f7b47eb4249243385b0faad271",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-iran-nuclear-deal-by-may-31-974",
     "negRisk": false
   },
   "cs2-tlr-g2a-2026-04-29-game1-odd-even-total-kills": {
@@ -117331,79 +115941,9 @@
     "eventSlug": "who-will-trump-speak-to-in-may",
     "negRisk": false
   },
-  "will-trump-say-cat-in-may-431": {
-    "id": "2117172",
-    "conditionId": "0xcfb5a241ede731331c71772e489652ff48eeaacac7e53fa26a6e20c768855cb2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
   "will-trump-say-hawk-in-may": {
     "id": "2117176",
     "conditionId": "0x3a0439ed74b6ff49c748d8250e128a1701a5bb898ed4e4e63bb8c87238c714c9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-mosquito-in-may": {
-    "id": "2117178",
-    "conditionId": "0xbbf2c1cdebdfdcd44edd989ce7fa99f4f6709ea73aa528877edda8a21711db7f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-rabbit-or-bunny-in-may": {
-    "id": "2117180",
-    "conditionId": "0xd070e6a8437ff0d70831493dd1e711b2260009788d23c379cd74329ee24b6de4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-hippo-or-hippopotamus-in-may": {
-    "id": "2117181",
-    "conditionId": "0x6b1752236176563749cb664a176560361117f2926028c554bc3d64392298b0a2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-panther-in-may": {
-    "id": "2117183",
-    "conditionId": "0x97b2cbb792c83ac7ce359e9d3fda89b7604b2a8188243d9c41d69a32de3be457",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-pig-in-may": {
-    "id": "2117184",
-    "conditionId": "0xaa1ee8bafa18c35fe5100b1d0e8231fb6aaf55c024eeb19f48d6fc16993a2ea1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-wolf-in-may": {
-    "id": "2117186",
-    "conditionId": "0x1c6e3a691807f863ee663802d8ed73451702c3b0dbae7a1b4f0f16a745bf0a9a",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -117431,36 +115971,6 @@
     "eventSlug": "what-animals-will-trump-say-in-may",
     "negRisk": false
   },
-  "will-trump-say-kangaroo-in-may": {
-    "id": "2117191",
-    "conditionId": "0x0a5ad239f2da6bcfe25b4bac553c30eba230e6078354bbff75b9966dad4c0e74",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-deer-in-may": {
-    "id": "2117193",
-    "conditionId": "0x3e36c4c9d0418ae9d5aa6fe772fd93db36db744c9a1b1aac7d717665eea4d58f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-frog-in-may": {
-    "id": "2117194",
-    "conditionId": "0xa07fd14ce04d4d6f07b760146b09d5fa5831f8102ab59f3d6929b711db512b40",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
   "will-trump-say-goat-in-may": {
     "id": "2117195",
     "conditionId": "0x764e34f82d6d71b0b53c9816690464f24a4e245ca0854b624151cd040828a29f",
@@ -117481,16 +115991,6 @@
     "eventSlug": "what-animals-will-trump-say-in-may",
     "negRisk": false
   },
-  "will-trump-say-turtle-in-may": {
-    "id": "2117198",
-    "conditionId": "0xa7bf37a35d2f85f368cbeabe1aed76d220784aab3e90f31cd768a97475abb2e4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
   "nz-election-labour-v-national-of-party-list-vote": {
     "id": "2117209",
     "conditionId": "0x26c81a40d9b7be1f0c941e72139fbae17c1e4416418781d0cc4649d36581b505",
@@ -117499,66 +115999,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "nz-election-labour-v-national-of-party-list-vote",
-    "negRisk": false
-  },
-  "will-trump-meet-with-kim-jong-un-in-may-2026": {
-    "id": "2117210",
-    "conditionId": "0x181e37b9b33b9a9e9e75a592cfa8832a00d25180f366305de612596e309af3c8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
-    "negRisk": false
-  },
-  "will-trump-meet-with-volodymyr-zelenskyy-in-may-2026": {
-    "id": "2117211",
-    "conditionId": "0x89dfaf25181bdb94d5653a6acd2841bf167171b8112f1034efc0596f7cea7836",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
-    "negRisk": false
-  },
-  "will-trump-meet-with-mohammed-bin-salman-in-may-2026": {
-    "id": "2117213",
-    "conditionId": "0x656c19f9961cb16a785890ff6d7945ec5b901ff7dc241262638f5fe90b15c330",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
-    "negRisk": false
-  },
-  "will-trump-meet-with-vladimir-putin-in-may-2026": {
-    "id": "2117214",
-    "conditionId": "0x5dc9112cfc34394e7a2b114f95ecaccf4232abddaad9ec5a458436f848be45ed",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
-    "negRisk": false
-  },
-  "will-trump-meet-with-giorgia-meloni-in-may-2026": {
-    "id": "2117217",
-    "conditionId": "0xbee5cbe4b465955da3307331eb1ad004e5c1b3954a4e3c7c7002146157c6eaa5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
-    "negRisk": false
-  },
-  "will-trump-meet-with-benjamin-netanyahu-in-may-2026": {
-    "id": "2117219",
-    "conditionId": "0xb1c917004a8288fe1f3cb0771000235c1146af6e915d36e3385cfde1f878755b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
     "negRisk": false
   },
   "us-evacuates-beirut-embassy-by-june-30": {
@@ -119201,106 +117641,6 @@
     "eventSlug": "new-zealand-election-2nd-place-393",
     "negRisk": true
   },
-  "will-elon-musks-net-worth-be-less-than-610b-on-may-31": {
-    "id": "2118177",
-    "conditionId": "0x48a67c626ee2b60384e35e4122626569d7cd1827237c1eb5f240e5ccb157187c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-610b-and-620b-on-may-31": {
-    "id": "2118178",
-    "conditionId": "0x736af5424e5ea7c1e85e54b213a612cc1d4c7957341839c3bdf68ce69ef6ff7c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-620b-and-630b-on-may-31": {
-    "id": "2118179",
-    "conditionId": "0x8cf98d880f2acf6f4715d0773fa3c15ba144f5bdb84a56ba7c6f34d522a07ea7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-630b-and-640b-on-may-31": {
-    "id": "2118180",
-    "conditionId": "0x9aa1adec713b2635822375456a73d0459b2a9dd99c28f78eaf8b38a7558876ce",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-640b-and-650b-on-may-31": {
-    "id": "2118181",
-    "conditionId": "0xe824da460a6a3e96fd31aa3bd9b83128168e9addbdc51f09a5693b2f1eb37a06",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-650b-and-660b-on-may-31": {
-    "id": "2118182",
-    "conditionId": "0x28692f33e19d6334aad9a47cce8ede3fce7ca844aeb73df613e0fb48aeb081bb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-660b-and-670b-on-may-31": {
-    "id": "2118183",
-    "conditionId": "0x991851e5ea9d24731849ec3cb0283d126b912eb12ba555f6f950c9a69cfc022e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-670b-and-680b-on-may-31": {
-    "id": "2118184",
-    "conditionId": "0xf21d2e1f6f449178c45aa154f1d199c8a11eecfa83cf94481e17bd3a64166901",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-between-680b-and-690b-on-may-31": {
-    "id": "2118185",
-    "conditionId": "0xaf1b0fc6128f9a36d6315d37907c9c3884ff0780b1f34abe38010e223c31d9ae",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
-  "will-elon-musks-net-worth-be-at-least-690b-on-may-31": {
-    "id": "2118186",
-    "conditionId": "0x62d15abd1060e2059eb15d7f15b03d0e86a6386c65ad82532e0dd3562f057e93",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-net-worth-on-may-31-343",
-    "negRisk": true
-  },
   "will-the-bank-of-brazil-increase-the-target-for-the-selic-rate-by-50-bps-at-the-august-meeting": {
     "id": "2118268",
     "conditionId": "0x7b45e6eead7cbcb63e242ba0a771ed324c22cf36b96df0c1562be42bd1f6e777",
@@ -119599,6 +117939,1658 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+    "negRisk": false
+  },
+  "will-60-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
+    "id": "2119072",
+    "conditionId": "0x4dec0ddb49e5b4c025ee04135a4e1c99c47cb47e12113056f84f41979fc4e4de",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+    "negRisk": false
+  },
+  "will-80-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
+    "id": "2119073",
+    "conditionId": "0xd302682785cc2541dc5f4cc4af51fa881667b603d4ee27f432ca57772ce5e8b2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+    "negRisk": false
+  },
+  "will-benny-gantz-join-the-bennett-lapid-alliance-by-june-30": {
+    "id": "2119098",
+    "conditionId": "0x8af1b7c630170aef605aa57f67cf4170f04c8c106e594b4cca5e0143842f4a7f",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-benny-gantz-join-the-bennett-lapid-alliance-by-june-30",
+    "negRisk": false
+  },
+  "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-may-31-942": {
+    "id": "2119126",
+    "conditionId": "0x20ae35bd487697804e51fbd1e2a2019b977ba0ead721d3cd743211c3e16b15e1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+    "negRisk": true
+  },
+  "will-there-be-between-10-and-20-average-daily-transits-of-the-strait-of-hormuz-on-may-31-822": {
+    "id": "2119127",
+    "conditionId": "0xaa9e7883499172e6585601542570e05965039265604c8d256c9ff7f149a811d7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+    "negRisk": true
+  },
+  "will-there-be-between-20-and-40-average-daily-transits-of-the-strait-of-hormuz-on-may-31-569": {
+    "id": "2119128",
+    "conditionId": "0x09b4c47a6308364eb408ba749909816582120894769648e9ebc39eb8fe6076cf",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+    "negRisk": true
+  },
+  "will-there-be-between-40-and-60-average-daily-transits-of-the-strait-of-hormuz-on-may-31-593": {
+    "id": "2119129",
+    "conditionId": "0x8c6e7f850d768bfa5c2295a5b04d3682050f5deaa78dca95816da1651e1c66a0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+    "negRisk": true
+  },
+  "will-there-be-60-or-more-average-daily-transits-of-the-strait-of-hormuz-on-may-31-474": {
+    "id": "2119130",
+    "conditionId": "0xd5e92e7b74622744a547269f546396efff4f4c30af7a0ce7af51bbaa67a83339",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+    "negRisk": true
+  },
+  "apyx-fdv-above-50m-one-day-after-launch": {
+    "id": "2119246",
+    "conditionId": "0x7536922cad94d22273f8dcf9c703b765e43730eb6cca25ecad52f663d061e1a6",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-80m-one-day-after-launch": {
+    "id": "2119247",
+    "conditionId": "0xb838690778f27cbba168be61a77fb186580746f54749f585c5c9bb339db4a8b6",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-100m-one-day-after-launch": {
+    "id": "2119248",
+    "conditionId": "0x735539e5ec50ad8ae4f0881f8207eba2598598b867597729da8344f81d34e58f",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-150m-one-day-after-launch": {
+    "id": "2119249",
+    "conditionId": "0xa138db2123773fee5841ce056a07b3e9acb73c6054c86da14d94bf2f439f334e",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-200m-one-day-after-launch": {
+    "id": "2119250",
+    "conditionId": "0x001650dac1c729f1dd7fc4d8a5e26d7da50beaab9baabc9dc40bfb2165b6caae",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-300m-one-day-after-launch": {
+    "id": "2119251",
+    "conditionId": "0x51c8a0f3705d38abefeb3027fc02db551f8bf18e741268ba45f87ba90f913db4",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-500m-one-day-after-launch": {
+    "id": "2119252",
+    "conditionId": "0xcfeda5d6c55d27f7a23d75f741891b45aff9902610628edaa3831d2499c8af9a",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-800m-one-day-after-launch": {
+    "id": "2119253",
+    "conditionId": "0x6cd1b40522c7fd688f7284b7083b9d1b8edc19af35e9cf9cda6c12ee35def21e",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "apyx-fdv-above-1b-one-day-after-launch": {
+    "id": "2119254",
+    "conditionId": "0x27e94e914a015f944449dbd2e49bbe2e36f32cc3176b23dcbdccd94c5d905ac5",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "apyx-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-megaeth-perform-an-airdrop-by-december-31-2026": {
+    "id": "2119266",
+    "conditionId": "0x10d8e0d7123623b6cd8303aab6d2e61792b8aded915336efb3adc11df448937b",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "megaeth-airdrop-by",
+    "negRisk": false
+  },
+  "will-antnio-silva-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119536",
+    "conditionId": "0x3b9c63840cc0e18a5142d73184815cf1e7b04227c9076539d50e8ec4a816328d",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-mateus-fernandes-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119540",
+    "conditionId": "0xcf8615e1dcbacc87eb264ea62526d7137945b9dfb305eebd4ab20982b097c0a6",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-rodrigo-mora-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119544",
+    "conditionId": "0x746b0632807c3ecdea2d2effd0be7b5947e54ef749464b746fdf51e585b1b83a",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-ricardo-horta-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119545",
+    "conditionId": "0xfedba37972afe5187ae38e8572d3dc356ce35a40040ad131891594d190202506",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-pedro-gonalves-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119546",
+    "conditionId": "0x5ae3f4083c272d5e1849fa5dd320f6716a1e0518957f440c9c955ece276695ab",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-bruma-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119557",
+    "conditionId": "0xbf511f9b52a61b465e0bd6e075f9bdce9c520ce25a743c28f08de273ee25661f",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-andr-silva-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119560",
+    "conditionId": "0x04e28f14dfb41fc670ecae9e73d3533a79367f6bf2d80200a2121b76b5f52c0d",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-pepe-be-included-in-portugals-official-2026-world-cup-squad-list": {
+    "id": "2119561",
+    "conditionId": "0xc0a3218acbbaa885ef983e23f09bd627c44e1b1daaf2311f598aa96b522ea0b3",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-stepnohirsk-by-september-30-2026": {
+    "id": "2125369",
+    "conditionId": "0xcd5f739ee4218c44531ef49e98de3b33271c4dc6799499301df0f9f0a14d0474",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-stepnohirsk-by",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-prymorske-by-september-30-2026": {
+    "id": "2125379",
+    "conditionId": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-prymorske-by",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-prymorske-by-december-31-2026": {
+    "id": "2125383",
+    "conditionId": "0x9051c339493374b28c5348337a3928890127228cac85dc270b928c805789052e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-prymorske-by",
+    "negRisk": false
+  },
+  "will-donald-trump-publicly-insult-kaitlan-collins-by-may-31-2026": {
+    "id": "2125384",
+    "conditionId": "0x2be02ea613318e16146874479987411cecbe228826e9d03c781b5e1a19e9d7ab",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
+    "negRisk": false
+  },
+  "will-russia-capture-prymorske-by-june-30-2026": {
+    "id": "2125424",
+    "conditionId": "0x1afa0aac4347f38ce35e621c14556c0cc858989c52d898bb6d3eb4f83ee05423",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-prymorske-by",
+    "negRisk": false
+  },
+  "will-russia-capture-prymorske-by-september-30-2026": {
+    "id": "2125425",
+    "conditionId": "0x7804ef0fc4026e02ba004755e83ad2eed8e8a7af0ca6ec4206cf3361537056d5",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-prymorske-by",
+    "negRisk": false
+  },
+  "will-russia-capture-prymorske-by-december-31-2026": {
+    "id": "2125426",
+    "conditionId": "0x7dec9c618309c76d9772c3205ecf688828189c00d0485222be618e0a0011f00a",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-prymorske-by",
+    "negRisk": false
+  },
+  "will-us-gdp-growth-in-q2-2026-be-less-than-1pt0": {
+    "id": "2125608",
+    "conditionId": "0x2fbd2dd1e58234aaa3d9ad3ad8637fdbdcdca5cef384e7dba27f652afd23bc0b",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-us-gdp-growth-in-q2-2026-be-between-1pt0-and-1pt5": {
+    "id": "2125609",
+    "conditionId": "0x40df085761181d25bcdd5715a743ab1b06323b0f68683d3bd2fe7d5fa11b1960",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-us-gdp-growth-in-q2-2026-be-between-1pt5-and-2pt0": {
+    "id": "2125610",
+    "conditionId": "0xcb0820efdbc7813d883c71a348ca8109cc6d5b74feb928ba3992bf41ba45d663",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-us-gdp-growth-in-q2-2026-be-between-2pt0-and-2pt5": {
+    "id": "2125611",
+    "conditionId": "0xa3a8bbabfa3069a5301ecbdcf5defcdff10b6c2dc7ad2a58b2805cc90f02770f",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-us-gdp-growth-in-q2-2026-be-between-2pt5-and-3pt0": {
+    "id": "2125612",
+    "conditionId": "0x88cf368125d325223b6f21c2b004448d9f9c22d101cd9aaadaa131647798b609",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-us-gdp-growth-in-q2-2026-be-between-3pt0-and-3pt5": {
+    "id": "2125613",
+    "conditionId": "0x4e8bd7c295b79258d3581e8fef733cf7990883127d10e5a41805b4a136574312",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "will-us-gdp-growth-in-q2-2026-be-greater-than-3pt5": {
+    "id": "2125614",
+    "conditionId": "0x2a48c165b2f8792429afe26c4ef2ec2af68889c77c4c9e2627ffac7ef41e589b",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "bank-of-england-decreases-interest-rates-by-50-bps-after-july-2026-meeting": {
+    "id": "2125723",
+    "conditionId": "0x4b2959a705b9cc69c3ac277e2da189ae9d3543f5c68f3b5f066169083c2be611",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-england-decision-in-july",
+    "negRisk": true
+  },
+  "bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting": {
+    "id": "2125724",
+    "conditionId": "0x374574bd20d2f6d5cc930496732c44960e5587da91b182f932d71431f16f2b03",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-england-decision-in-july",
+    "negRisk": true
+  },
+  "no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting": {
+    "id": "2125725",
+    "conditionId": "0x7edc5c0a5071c1428da9fec9aa6f522595e8911c2d3743b7aa73b8ec2f499d4f",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-england-decision-in-july",
+    "negRisk": true
+  },
+  "bank-of-england-increases-interest-rates-by-25-bps-after-july-2026-meeting": {
+    "id": "2125726",
+    "conditionId": "0x6d7cf7d069fc722cae0e7653dd98ba9d31670ce174f04652b6a7988eee89c14c",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-england-decision-in-july",
+    "negRisk": true
+  },
+  "bank-of-england-increases-interest-rates-by-50-bps-after-july-2026-meeting": {
+    "id": "2125727",
+    "conditionId": "0xf8de11ab73be73bae46af65c9713e120c476f603bcc56977dd638bacd77c879d",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-england-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-ecb-announce-a-50-bps-decrease-at-the-july-2026-meeting": {
+    "id": "2125764",
+    "conditionId": "0x60b57453fb6201117b22f9427b403f47ed98e8e0bd69b482ec403f6374c393d2",
+    "endDate": "2026-07-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ecb-interest-rates-july-2026",
+    "negRisk": true
+  },
+  "will-the-ecb-announce-a-25-bps-decrease-at-the-july-2026-meeting": {
+    "id": "2125765",
+    "conditionId": "0xca744588e35b6caa08fa5c010d6cdd1c7c3dbc584fc603740ef9b8f810780660",
+    "endDate": "2026-07-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ecb-interest-rates-july-2026",
+    "negRisk": true
+  },
+  "will-the-ecb-announce-no-change-at-the-july-2026-meeting": {
+    "id": "2125766",
+    "conditionId": "0x13ca23189a09423b464147d3fa35bc210f6bd589ee115d947676784ec2418e71",
+    "endDate": "2026-07-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ecb-interest-rates-july-2026",
+    "negRisk": true
+  },
+  "will-the-ecb-announce-a-25-bps-increase-at-the-july-2026-meeting": {
+    "id": "2125767",
+    "conditionId": "0x9b319ffe86e0717a1dfdc5019f9f1aeb72bde74e9d75612950c2156ad47b4cde",
+    "endDate": "2026-07-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ecb-interest-rates-july-2026",
+    "negRisk": true
+  },
+  "will-the-ecb-announce-a-50-bps-increase-at-the-july-2026-meeting": {
+    "id": "2125768",
+    "conditionId": "0x62fd5556fb8d5ab32c0a97505c96dd7a6bab52924a1bfe21dad687d2540db1df",
+    "endDate": "2026-07-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ecb-interest-rates-july-2026",
+    "negRisk": true
+  },
+  "will-california-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125853",
+    "conditionId": "0xbd71ab4221850cb70e4d5c7e2492bcdffb4913e31f9eda8ee8f7a8e5f139f762",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-texas-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125854",
+    "conditionId": "0x964b5ec10d056ee0a31cd3d539205eb02aded7316941967ba17612719c30505f",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-north-carolina-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125855",
+    "conditionId": "0x295eb7d154a7093980ed8d504f15c60167e413d267e2c51d67e593b7af1e36fd",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-ohio-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125856",
+    "conditionId": "0x96ca8e2047e18c213fed61aed476d2d20bd7b3a59252eae45333ea913eb872db",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-utah-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125857",
+    "conditionId": "0x3e9c5667a2011051b38a7f10d1c993197a7f1c4bab0d24a42634eda6daa93935",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-florida-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125858",
+    "conditionId": "0x0776553f8ade1ab8bc890b79c46fef4f71e927c900b9d71817dca3d404e1e077",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-louisiana-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125859",
+    "conditionId": "0xc41817045cf6d55bb1d8f3d5b823d99f7c3abac36ccd44a321583d02eec1955a",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-missouri-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125860",
+    "conditionId": "0x083d327d28955136bd82954c34276409f1ce42091f6886ab46506b5baa19885c",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125861",
+    "conditionId": "0x4a4ed8429dd530b4196d1b5827e2666e768d88e373b2d1f9ff80888299fbc85e",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-alabama-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125862",
+    "conditionId": "0xa4c7f4f2df1cb17bb8c35038fde8611d9a5924b4c36d50e5a799571e58012d20",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-south-carolina-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125863",
+    "conditionId": "0x04f0b7ffa9ac319b7ad307182641f96ebb97c3db87158aaff04dadf4126912b0",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-georgia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125864",
+    "conditionId": "0xb4f4bf7b8b952949a6c28a0f62c6495649faacd201e84d7304914f86852d3222",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-kansas-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125865",
+    "conditionId": "0x4abe6b6e50794654b4e2f9ef0e096783c344ed51c4f1f46e51cd803d2eeb8077",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-new-jersey-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125866",
+    "conditionId": "0xf164977f87a1c21054ab65e52c02a4c310adce6e53a243a11159a2bf77e42eca",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-indiana-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125867",
+    "conditionId": "0x4596d8baac5b5edc36f14d24560bdc19e16263658d930d5598a6b10fcfda3b78",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-washington-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125868",
+    "conditionId": "0x14ca9a8df45eb80cd2d1da63b56d552768f27965c01d284305f0f1670d383aa9",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-nebraska-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125869",
+    "conditionId": "0xe369429d00089f7022aa1b27414ca7bd51f2e8ad25361a5deaf64da96837c801",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-illinois-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125870",
+    "conditionId": "0xff4699605ed7cf8ce4c5bde7e10dbfe0e6a170a44ff40be75656b894645f9f73",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-minnesota-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125871",
+    "conditionId": "0x66a685c506a9a6917f29d11dee79cb02447b7119f3ea19a7c983f45f88f8fc63",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-new-york-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125872",
+    "conditionId": "0xfdc5d89d547da9e800a5def2aa8f442ba3cd2d7d846019f832c15c792ed85339",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-maryland-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125873",
+    "conditionId": "0x7bbeb4fd463b7fbde581d66ed2b091130868a39aa7ebe8a394cd209c33ba1896",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "will-wisconsin-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections": {
+    "id": "2125874",
+    "conditionId": "0xdd6a68f1a02ac70ba36a19d9a465409dc93e322c16b1d71e662fe060c26d1c60",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-states-will-use-new-congressional-maps-in-the-midterms",
+    "negRisk": false
+  },
+  "trump-goes-to-space-in-2026": {
+    "id": "2126073",
+    "conditionId": "0x31aadde7e08499bf6a41c713d0c649d836dbc70337bb52fdc6ff80e4be8b1a52",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "trump-goes-to-space-in-2026",
+    "negRisk": false
+  },
+  "cs2-biga-ksm-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2126193",
+    "conditionId": "0x25f0014909d718fdaddb677b96552e32f53c091584c011ea07dd9561ae53a599",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-ksm-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-biga-ksm-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2126195",
+    "conditionId": "0x8ad92960a02d5a3a7857b560bc17d25c2ee277ee016efc1cfa827c56936e0709",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-ksm-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-ff-lph-2026-05-02-game1-odd-even-total-kills": {
+    "id": "2126226",
+    "conditionId": "0x17ecf32be96485a1ff7c39af17a7f222381444eb5f8cfe637e252121504ba7de",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-lph-2026-05-02",
+    "negRisk": false
+  },
+  "cs2-ff-lph-2026-05-02-game2-odd-even-total-kills": {
+    "id": "2126228",
+    "conditionId": "0xca3a3ec40cf1c7e579875b0d58e8e5a23617694ef192dc0b2935121e246d0b90",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-lph-2026-05-02",
+    "negRisk": false
+  },
+  "will-the-bitcoin-volatility-index-hit-60-by-may-31": {
+    "id": "2126324",
+    "conditionId": "0x3880a0a9f291eadadff6db6b39db79a3035af13159e79318c27fb9353a6e73ad",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
+    "negRisk": false
+  },
+  "will-the-bitcoin-volatility-index-hit-50-by-may-31": {
+    "id": "2126325",
+    "conditionId": "0x9f4c2cb0f8bba3bc9181489c36d8e1bfb5f7e353a0e5547f5bef8d14e995b1d6",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
+    "negRisk": false
+  },
+  "will-the-bitcoin-volatility-index-hit-45-by-may-31": {
+    "id": "2126326",
+    "conditionId": "0x899cb5782abd9f5d3df445eb283821839aebbb9d69c2d70fe12e4b923c9d943d",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
+    "negRisk": false
+  },
+  "will-the-bitcoin-volatility-index-dip-to-35-by-may-31": {
+    "id": "2126327",
+    "conditionId": "0x231e9bb642bb2c7403b61a68b432401d27594872dcdc85cfb72d753bc060b233",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
+    "negRisk": false
+  },
+  "will-the-bitcoin-volatility-index-dip-to-30-by-may-31": {
+    "id": "2126328",
+    "conditionId": "0xe20321fb631f4dd265321680bd3a5c90034e6c250828157223e144a55650e191",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
+    "negRisk": false
+  },
+  "will-the-bitcoin-volatility-index-dip-to-25-by-may-31": {
+    "id": "2126329",
+    "conditionId": "0x9c834042cf9a7c918d6204f008615b3d1dada9781046b78c7578489efdc64146",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-will-the-bitcoin-implied-volatility-index-hit-by-may-31",
+    "negRisk": false
+  },
+  "will-the-central-bank-of-colombia-decrease-the-monetary-policy-interest-rate-by-50-bps-at-the-july-meeting": {
+    "id": "2126401",
+    "conditionId": "0x0cf0a02d42bd4e67f4cb14b561589e51b4e17883358c4d394000873c7304ff0e",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "central-bank-of-colombia-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-central-bank-of-colombia-decrease-the-monetary-policy-interest-rate-by-25-bps-at-the-july-meeting": {
+    "id": "2126402",
+    "conditionId": "0xf59c7a8bb078489dc39d4b9d2f63800b0c0429098eb0ac2fdd210e40274dd888",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "central-bank-of-colombia-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-central-bank-of-colombia-make-no-change-to-the-monetary-policy-interest-rate-at-the-july-meeting": {
+    "id": "2126403",
+    "conditionId": "0x73cf51a15aa6c5bf4fc748ea68508c827e972c651365356dc363daa13b4044f1",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "central-bank-of-colombia-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-25-bps-at-the-july-meeting": {
+    "id": "2126404",
+    "conditionId": "0xc2e7e68b3c971a7bf9a1235282838c98e9ecf2f9578be473ae594da802db03a7",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "central-bank-of-colombia-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-50-bps-at-the-july-meeting": {
+    "id": "2126405",
+    "conditionId": "0x747f998499960ba4e1fb9af126a2d266d69c490f4a991a8568c9836088a88374",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "central-bank-of-colombia-decision-in-july",
+    "negRisk": true
+  },
+  "another-iranian-diplomat-expelled-by-june-30": {
+    "id": "2126429",
+    "conditionId": "0x7f960d900523fd31811d50d6779b2ab532c7f0216920721dbbc7e9c9e80ee748",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "another-iranian-diplomat-expelled-by-june-30",
+    "negRisk": false
+  },
+  "will-gas-hit-high-5pt00-by-may-31": {
+    "id": "2126439",
+    "conditionId": "0x7c1fba11dac52d10d6a37470188e949a3f7502f8ee84232f525ec5d29a7a8790",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-high-4pt70-by-may-31": {
+    "id": "2126440",
+    "conditionId": "0x7f985cdf3f8fab6368ad8eb1b9a80d87efff1ad791339c46ce9580e41fafbe3a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-high-4pt60-by-may-31": {
+    "id": "2126441",
+    "conditionId": "0x228699193173c0ca040592790a8c3adf1106ed5ab542d3397afb119c0eb2d9c2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-low-4pt25-by-may-31": {
+    "id": "2126446",
+    "conditionId": "0x8a0d5d7cfe1751362abf07b0d4caa5dcf5b817fad7f7b9ff4de9f395cecdab7c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-low-4pt20-by-may-31": {
+    "id": "2126447",
+    "conditionId": "0xd6c71d8228354234abc3d0ce74d5e6eca5a91d8432a76a9de156fc7e01c1feaa",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-low-4pt10-by-may-31": {
+    "id": "2126448",
+    "conditionId": "0xea440e862a3bfeda0cb0c6d35a38d2501e1a3d2aa72f81dd7a5e286f82eab21b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-low-4pt00-by-may-31": {
+    "id": "2126449",
+    "conditionId": "0x4c7a4c86c15aec7cebc8748152a6cd3161c052102f083d62b089aaf793bf5667",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-low-3pt75-by-may-31": {
+    "id": "2126450",
+    "conditionId": "0x75f67154d1230a2528e37a6b8f595760bcd2b5e530282dcd9c51b245a5d25b1b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-gas-hit-low-3pt50-by-may-31": {
+    "id": "2126451",
+    "conditionId": "0xc4f93e01875fa0d7402ebd37736cf7fa0805ec5c9529cff566967117d99f097f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gas-hit-by-end-of-may",
+    "negRisk": false
+  },
+  "will-crude-oil-reach-a-new-all-time-high-by-june-30": {
+    "id": "2126459",
+    "conditionId": "0x806fb0e989b077af7566e558cab7379688c7a77f096dc770ab7fae8b2b87f879",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crude-oil-all-time-high-by",
+    "negRisk": false
+  },
+  "will-crude-oil-reach-a-new-all-time-high-by-september-30": {
+    "id": "2126460",
+    "conditionId": "0x6a18969bc603992de4c5c9d53c2881e1378ac193cdad01e7f932afa7fdc4af3e",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crude-oil-all-time-high-by",
+    "negRisk": false
+  },
+  "will-crude-oil-reach-a-new-all-time-high-by-december-31": {
+    "id": "2126461",
+    "conditionId": "0x8a5c0b5fc339f2dbaf584def66bcf8bff94d91f0250562e452782fed3d18f821",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crude-oil-all-time-high-by",
+    "negRisk": false
+  },
+  "who-will-trump-talk-to": {
+    "id": "2126490",
+    "conditionId": "0x19e4c19193bb06609b83267b5d06fbd4c45d8848ff532a66ace9e8e77e3c991d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-talk-to",
+    "negRisk": false
+  },
+  "will-jd-vance-have-a-diplomatic-meeting-with-iran-by-june-30-2026": {
+    "id": "2126547",
+    "conditionId": "0xc45a4c5c01082f8c727add1be91ab92d6c4fb782dddc6ec0e92b7b992fa62202",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "jd-vance-diplomatic-meeting-with-iran-by-876",
+    "negRisk": false
+  },
+  "cs2-pre-algo1-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2126573",
+    "conditionId": "0xcf9cbba70997a3822dbad201475de56730f838003ebcc408121d2ee7404a9c87",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-algo1-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-pre-algo1-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2126575",
+    "conditionId": "0x302da4f8873d06c3e68264b6e62444efb115798c6e4d67b716d773b88b09339b",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-algo1-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-imperi-rt1-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2126584",
+    "conditionId": "0x45dd2060b1e85026c6971e88df1be823ad9e4c20bb1f22097cba60a15cc94796",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-imperi-rt1-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-imperi-rt1-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2126586",
+    "conditionId": "0x5ec8ed8f563f1b52397effa560faa6b163b750e82bf80c02644c9763a4e4a139",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-imperi-rt1-2026-05-01",
+    "negRisk": false
+  },
+  "will-the-weeknd-have-a-1-hit-in-may": {
+    "id": "2126712",
+    "conditionId": "0x3cb278f13580cd0d1d71719cc490a24db85d010a6943105adc129c77db3f618b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-may",
+    "negRisk": false
+  },
+  "will-beyonce-have-a-1-hit-in-may": {
+    "id": "2126713",
+    "conditionId": "0x485dac84dd45da7d92173d81c0c477f4614e945d5b116ae4e2b780b2e47ed255",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-may",
+    "negRisk": false
+  },
+  "will-gracie-abrams-have-a-1-hit-in-may-195": {
+    "id": "2126714",
+    "conditionId": "0xd6a4d6ae11f86719231d4db20955c2b4c6abd9c1b9809e4ebd2124f0a11aba5e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-may",
+    "negRisk": false
+  },
+  "will-the-weeknd-have-a-1-hit-in-the-us-in-may-788-661-325": {
+    "id": "2126724",
+    "conditionId": "0x3c1af9432cc40443750731cd8c5655e21e006e8b2993acc52812fd57327e6796",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-beyonce-have-a-1-hit-in-the-us-in-may-761-377": {
+    "id": "2126725",
+    "conditionId": "0xc3bca4495d43cf3b407838563e63bf7a3ea0f57348446506f8ded4503f1dcddb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "will-gracie-abrams-have-a-1-hit-in-the-us-in-may-663": {
+    "id": "2126726",
+    "conditionId": "0x273c9876718e7307cad11cfeee7ab017d5eacc0d1e041296711ed4a2fa5201fd",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
+    "negRisk": false
+  },
+  "sinaloa-gov-ruben-rocha-extradited-to-us-by-june-30": {
+    "id": "2127064",
+    "conditionId": "0x603b54737c0573fa3b0f9a808856f6147c0f122d0ddef59859287371312deb49",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-taylor-swift-on-petal": {
+    "id": "2127175",
+    "conditionId": "0x1f01d902c61f71fa3d043aeda6ba6f9117b8d66cff5bf5bfca67e3b3ce7808e8",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-olivia-rodrigo-on-petal": {
+    "id": "2127176",
+    "conditionId": "0x349bd3f1b98db1d1538b84e5f7b27b6d10ed63f91d16438e58602f143e83d1a9",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-zara-larsson-on-petal": {
+    "id": "2127177",
+    "conditionId": "0x7e50c0411acb76e471d86e0b1e5df84f3da2e89501379760077cf535b89521f4",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-tyla-on-petal": {
+    "id": "2127178",
+    "conditionId": "0x033ec847946377761be9a5731866e642db1f3a64651831cb7918992e266c74ce",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-doechii-on-petal": {
+    "id": "2127179",
+    "conditionId": "0xae0eae941b1e6bec939ec16c327024a1413d3388cd30046664e4aa041ed33a6e",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-the-weeknd-on-petal-932-341": {
+    "id": "2127180",
+    "conditionId": "0x5a8d7442b851a1a689281609c287299ac71ee82e1ca6732ca9eebdc02f76f633",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-nicki-minaj-on-petal-475-467": {
+    "id": "2127181",
+    "conditionId": "0x19c6be74eb11f826b444b925f7520fa005b676833d5bc74c4ea231dd5855235d",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-doja-cat-on-petal-921-874": {
+    "id": "2127182",
+    "conditionId": "0xf0c270d12eb65823fc28e4b26ca565d9c0531635de200199d58a5da1c647ed30",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-sza-on-petal-245-332": {
+    "id": "2127183",
+    "conditionId": "0x19007471d0edd75a2cd5da08ee08c807ce79d95ef8389165aca3eb29bfaf394b",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-billie-eilish-on-petal-658-993": {
+    "id": "2127184",
+    "conditionId": "0x0c23b012acd48e531c8f388060e50a4c67359c2e62dbf8863fcd760b27335d76",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-troye-sivan-on-petal-398-298": {
+    "id": "2127185",
+    "conditionId": "0x077bb8dc5d23e848055b9a1660b684cebe3ececa554ab078dc965c062f841746",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-drake-on-petal-336-843": {
+    "id": "2127186",
+    "conditionId": "0x97d6ba07278d0bcca3d21000665695c3a5c09b842fe852a4bb9fd67c8c5809ca",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-kanye-west-on-petal-555-369": {
+    "id": "2127187",
+    "conditionId": "0xb55ea914f0a62d99ec7d4885fe8fcd2ebc611a2f1d5761b546d5083280979e12",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-feature-frank-ocean-on-petal-222-279": {
+    "id": "2127188",
+    "conditionId": "0xad722b356686d1fcff6ee0bedb999aa7a16e9bb04724729640af283d56f99d48",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-featured-on-petal",
+    "negRisk": false
+  },
+  "will-ariana-grande-officially-release-petal-by-june-30-2026": {
+    "id": "2127277",
+    "conditionId": "0x36e94a2201a079b24f40ab45fc2f5ce87b7fb542f00fa2406c72cbbc8a7beb23",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ariana-grande-release-petal-by",
+    "negRisk": false
+  },
+  "will-ariana-grande-officially-release-petal-by-july-31-2026": {
+    "id": "2127278",
+    "conditionId": "0x6912edf1cf029a2f70bc304e99bfc76447d90c8add5a18ae90c47874406603a0",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ariana-grande-release-petal-by",
+    "negRisk": false
+  },
+  "will-ariana-grande-officially-release-petal-by-august-31-2026": {
+    "id": "2127279",
+    "conditionId": "0xbc388479aa8c6b380bd48f3a587cd7ff5a3a75e28e163a6ed2a31b4da5486598",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ariana-grande-release-petal-by",
+    "negRisk": false
+  },
+  "will-javier-milei-win-the-2027-argentina-presidential-election": {
+    "id": "2127309",
+    "conditionId": "0x338f6f3e5ff30f189a7228290a66b9a4213722032da364c8635b496589ddfd3b",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-juan-grabois-win-the-2027-argentina-presidential-election": {
+    "id": "2127310",
+    "conditionId": "0x68aea89f7e5655a443de983bd7dfe30b76c2653b1ca72bf5f4fb2f892d050532",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-esteban-bullrich-win-the-2027-argentina-presidential-election": {
+    "id": "2127311",
+    "conditionId": "0xfe7c59436e336feea943fd69674b5a42f7bec980154b5fd43be00b7ade2f34a9",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-axel-kicillof-win-the-2027-argentina-presidential-election": {
+    "id": "2127312",
+    "conditionId": "0xf35a561cedd2aab1aad1744ea4b05e91d38edb4c0b64c76196bd11a4cf0b6bde",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-sergio-massa-win-the-2027-argentina-presidential-election": {
+    "id": "2127313",
+    "conditionId": "0xea83e5554bfb997ea9d6569133e45165e8613dcc8fe6d0ae2a1c6cc1ae7c3a7f",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-juan-schiaretti-win-the-2027-argentina-presidential-election": {
+    "id": "2127314",
+    "conditionId": "0xa1114c872481cc31998fb0b6fc77050620f570fc3725ad1f3869d7589e5e3da3",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-facundo-manes-win-the-2027-argentina-presidential-election": {
+    "id": "2127315",
+    "conditionId": "0xb93645da237ae1fadcb886dc4155d5cbdf9d5f87ff1a1c4e6fa42099da0b9f7b",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-myriam-bregman-win-the-2027-argentina-presidential-election": {
+    "id": "2127316",
+    "conditionId": "0x988f13398922692e93bf73656e30c629b0131104880904ebd186d85dcffb14ab",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-victoria-villarruel-win-the-2027-argentina-presidential-election": {
+    "id": "2127317",
+    "conditionId": "0x8f5585c574b22f57399e0f7fdc2710000cd2530dd17e173fe911452bef46e534",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-mauricio-macri-win-the-2027-argentina-presidential-election": {
+    "id": "2127318",
+    "conditionId": "0x9e7ff979adcbb3d593393fb7f476db93c89ca7deb8de68085c02080a0c793d11",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "will-dante-gebel-win-the-2027-argentina-presidential-election": {
+    "id": "2127319",
+    "conditionId": "0x22f05510fff106bf6675e3e7117ba2d56bae312a874d8686e3b2cdc0199a79cb",
+    "endDate": "2027-10-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "argentina-presidential-election-winner",
+    "negRisk": true
+  },
+  "dota2-ngx-sar1-2026-05-01-game1-first-blood": {
+    "id": "2127562",
+    "conditionId": "0x6436001e818a9eb478c0993dcecc254f1d0d3b8b0af2a8311b888e4d268d371d",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-ngx-sar1-2026-05-01",
+    "negRisk": false
+  },
+  "will-david-raya-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127663",
+    "conditionId": "0x50561f0ac9fb48ce9b1dc8f78f84dea5e43d9d30bd507eb93fa57b11a996ffeb",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-jordan-pickford-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127664",
+    "conditionId": "0x206d3cf11b86b16708f160e1e5223e75f4f0b126fbfecb52300077792e4a978f",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-dean-henderson-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127665",
+    "conditionId": "0x67ebb7796df1324b1b084b0aaa59e3379513583ac93e3c8e968935e7dbb1f535",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-robin-roefs-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127666",
+    "conditionId": "0xdae0f14d1b5ea256638164c6578853226408702f44e238ca8fa692998fdc6332",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-gianluigi-donnarumma-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127667",
+    "conditionId": "0x322441734b9f23744de899e345ef48ec25e0055f8b1bfc19fe4612055a8ff2df",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-jurrien-timber-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127668",
+    "conditionId": "0x97ca47da99683bddec8036ce29388c2e400e7cecfea8ac4dbef54ac0791cc593",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-matheus-nunes-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127669",
+    "conditionId": "0x236166693870332c38cc1f290d2de8a00eafa1b78519182663a58811b1011705",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-gabriel-magalhes-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127670",
+    "conditionId": "0xd3d8a97f490967ba04bcf06a1f1fa0b8e14ff08f5f0781bccb14c7eb1cf34ca6",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-william-saliba-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127671",
+    "conditionId": "0xc344b5f7891b8617e7118aaa24bac3840a587691c1a36daa479a61de0b79bcb6",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-marc-guehi-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127672",
+    "conditionId": "0x9a7829bcaf4bd65e903739dace6db739a8b68a396fd2c71a3d23d2a2cf2e88c5",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-virgil-van-dijk-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127673",
+    "conditionId": "0x644231d6b178ebd20f0ab0b061a790f9dee4479ce96ab40686c8ade6f50a0238",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-marc-cucurella-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127674",
+    "conditionId": "0xe74cf34bab6946206532fd38cbf5a7eb4b346f7d13bffc6ae16eb3a69a4225d0",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-piero-hincapie-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127675",
+    "conditionId": "0x1d5d1e655085db69c387488aa7e661d4719bfa9c0bb392dd05652008c40b4a9a",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-declan-rice-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127676",
+    "conditionId": "0x898bbb37bb3e8e03480b52c31bc12b12019e84f4d4042d25622f9a9b9f1a21f2",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-bruno-fernandes-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127677",
+    "conditionId": "0x679720492bcbff900bde0e29eb7e812c77909bccb3c32b79a3186fc1db03b854",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-rodri-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127678",
+    "conditionId": "0xf9de760ff713bdc5ebdc87ea4a88fb9423ef31bc59d2abb917df50b5b44482c1",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-rayan-cherki-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127679",
+    "conditionId": "0xf1bef1d60925998b7577b014ea907965209b9045c197e79e77eb14439d7c431a",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-dominik-szoboszlai-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127680",
+    "conditionId": "0xd5a172faaf27f951f5bc5c2d19f18367ab85e9c963e7357a8433da84e895507e",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-moises-caicedo-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127681",
+    "conditionId": "0x6a8a0e28a90c3880e21bb6de9eb98f12d5e81a8d88570a2c5b855ee60b6263ba",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-elliot-anderson-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127682",
+    "conditionId": "0x3e7b9aff81e624e4f9ef7677696f2d4fae5837bdf83bd9ed2d62ec7a87aaf7a6",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-erling-haaland-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127683",
+    "conditionId": "0x0a3ee85120cf7d2febbaba00b787db1bd1fdc7f80f8277d89675736a430e2065",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-hugo-ekitike-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127684",
+    "conditionId": "0x3ac387fc809af29edadb0c1881ecd88319f8b4ebb5b0a89a77a84e85f4a2099c",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
+    "negRisk": false
+  },
+  "will-igor-thiago-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
+    "id": "2127685",
+    "conditionId": "0x2565964258328ceff81b8dd027a9b4bfae11353bbfbb3e27625da025fffc2d97",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-2026-team-of-the-season",
     "negRisk": false
   }
 }
