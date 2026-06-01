@@ -31003,26 +31003,6 @@
     "eventSlug": "which-cities-will-russia-enter-by-june-30",
     "negRisk": false
   },
-  "will-gujarat-titans-win-the-2026-indian-premier-league": {
-    "id": "1012313",
-    "conditionId": "0x6b75b60e7370dc8666313812971cafcb930988acdfa2ea0f5439910658e0feb2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-ipl-champion",
-    "negRisk": true
-  },
-  "will-royal-challengers-bengaluru-win-the-2026-indian-premier-league": {
-    "id": "1012319",
-    "conditionId": "0xf9dd88d2f2b61574da0f0d338e2456d5ff50c9debabfc6c1df85ce19b50282e3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-ipl-champion",
-    "negRisk": true
-  },
   "will-playboi-carti-release-an-album-in-2026": {
     "id": "1013240",
     "conditionId": "0x9d4b05bf105b6ac1b67427e5b336680507aee28753ac0930333ebb3215eb1ce0",
@@ -34362,16 +34342,6 @@
   "will-anastasia-potapova-win-the-2026-womens-french-open": {
     "id": "1087781",
     "conditionId": "0xc261d9ca51d2ec442a3eb9e19801adc7da18a4229dbab057ca7e7566163ed082",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-belinda-bencic-win-the-2026-womens-french-open": {
-    "id": "1087788",
-    "conditionId": "0x11a09311e3bf0ac61315c930c8aaf28cedb2eed441ba89656d7eb940c27b3d1e",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -67586,16 +67556,6 @@
     "eventSlug": "which-teams-will-qualify-to-msi-2026",
     "negRisk": false
   },
-  "will-bnk-fearx-qualify-to-msi-2026": {
-    "id": "1494624",
-    "conditionId": "0xc99f754850c5e678858fcb8f2b93a5498ff5b80306807becb31afb5d47186be1",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-movistar-koi-qualify-to-msi-2026": {
     "id": "1494625",
     "conditionId": "0x5edffd8c485eeb2829d998430222a220569b1ebcf66f272dfd3dba6ee1083530",
@@ -76818,16 +76778,6 @@
     "eventSlug": "cs2-mis-pre-2026-04-02",
     "negRisk": false
   },
-  "cs2-aab-inf6-2026-04-02-game1-odd-even-total-kills": {
-    "id": "1789010",
-    "conditionId": "0x18a8a531cd812c59cd8f344b148f42917f30640e5bfbad0da5c5b96ea29f92e8",
-    "endDate": "2026-04-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-inf6-2026-04-02",
-    "negRisk": false
-  },
   "cs2-aab-inf6-2026-04-02-game2-odd-even-total-kills": {
     "id": "1789014",
     "conditionId": "0x1db86b97d7f758c90bd109f80afeb888787e099c1a516d44f576f6fa5e89970d",
@@ -77268,16 +77218,6 @@
     "eventSlug": "cs2-reda-bsta-2026-03-31",
     "negRisk": false
   },
-  "cs2-mw-mibra-2026-03-31-game2-odd-even-total-kills": {
-    "id": "1808492",
-    "conditionId": "0xf02b02aa6a84db5bb2c3306f98bce2f020c14e7608f833d2687cbc0fb084c7ae",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mw-mibra-2026-03-31",
-    "negRisk": false
-  },
   "fed-rate-hike-by-june-2026-meeting": {
     "id": "1808545",
     "conditionId": "0x2dd232eb66334eaf3e232c3b834e072ae1ee320d0bc1ad55ab4ed47be71eeddf",
@@ -77356,26 +77296,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "evo-morales-arrested-by-may-31",
-    "negRisk": false
-  },
-  "cs2-ds-uno-2026-03-31-game1-odd-even-total-kills": {
-    "id": "1809122",
-    "conditionId": "0xff7b175ccce1b425a08af9886a5c48e50c66cec0ebda5cd589042465c290d047",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ds-uno-2026-03-31",
-    "negRisk": false
-  },
-  "cs2-ds-uno-2026-03-31-game2-odd-even-total-kills": {
-    "id": "1809124",
-    "conditionId": "0x6d77ec32539504829911799cad9c3c00e74de02f4d666a836f50a04e3b10b8f8",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ds-uno-2026-03-31",
     "negRisk": false
   },
   "scotus-strikes-down-trumps-birthright-citizenship-eo": {
@@ -82735,16 +82655,6 @@
     "eventSlug": "trsk-gal-tra-2026-05-01-more-markets",
     "negRisk": false
   },
-  "bkvtb-sam-niz-2026-04-11": {
-    "id": "1874228",
-    "conditionId": "0x017b4f2c1572418c4fa4af3dd50eb81639a3783f9036e838801b80637c5f7c31",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkvtb-sam-niz-2026-04-11",
-    "negRisk": false
-  },
   "bkaba-kk-meg-2026-04-11": {
     "id": "1874238",
     "conditionId": "0xc34e7d4cbeee18c66c3099189daeb62ef81c9ad6d472459ff1b69d75c8f5e884",
@@ -87504,16 +87414,6 @@
     "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-iga-swiatek-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920808",
-    "conditionId": "0x8f580b7fbf0c5b771adbf8afb84cfc77d97d70537d62d4e6d89c6915d4fd89d6",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-elina-svitolina-win-the-2026-roland-garros-womens-singles": {
     "id": "1920811",
     "conditionId": "0x28851daf6e4e9f497e352aa631908abda6a2579273a4b622ae7989669fc8d47c",
@@ -87527,16 +87427,6 @@
   "will-mirra-andreeva-win-the-2026-roland-garros-womens-singles": {
     "id": "1920814",
     "conditionId": "0x751a47a4ed102056875c7db5b6b54d6d50312cbcef208c68f3c95d97d4f694f7",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-belinda-bencic-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920816",
-    "conditionId": "0x52f25c3c71ceffa306d89b7506a7224b1d5d8814e95ddf650fa2eb5c2c995a18",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -91404,906 +91294,6 @@
     "eventSlug": "which-company-has-the-3-ai-model-end-of-june-style-control-on",
     "negRisk": true
   },
-  "will-anthropic-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974917",
-    "conditionId": "0x9cede4a2937c7faf2f631ef56a963c554bca5fc1343460d1fd5898cc57e33bfd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-google-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974918",
-    "conditionId": "0xa4932209d91d0301addd39220d8ec418ab776128ccbd8d7c2997c20c174133c6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-openai-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974919",
-    "conditionId": "0x482e9c8ae3b39202959a8cef567ad60e253458115a59e1edf7d28fa04ce5bc14",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974920",
-    "conditionId": "0x0fd194f22208779b534ddabf26415977b21abe4727a8f1a44ed3b3b9af1c4e18",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-xai-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974921",
-    "conditionId": "0x0e6184ea1dc67e2432c00c062651d76f78e609838560608bf68fb1629f2d268b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974922",
-    "conditionId": "0x8ced37b18bdc5c108752b511c9c0c39cc7c8aa0008904a8debc6b273297a3506",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-baidu-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974923",
-    "conditionId": "0x4f89bf1d4b1e7e6a24003daf7a2dd9d30e044a2d9557dad98d3583fbd4dbaa5f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974924",
-    "conditionId": "0x4260b1342b4e10105d35d20f6d1806187f170c8d329be6d632183723ad3d5824",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-amazon-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974925",
-    "conditionId": "0x18841c9cd6cc22565a4ee8f2b64ede74c452fddb45fa9f03758ecd43224e40bc",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-zai-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974926",
-    "conditionId": "0xb15072a551705782f9d38238acbb9b41690a3306aca740db836e0db1acd7c4b9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-mistral-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974927",
-    "conditionId": "0x1d9eb512fc31a514bdf5ff3556ef8238b5a3dfa740687691c1db76e3fbfeba20",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974928",
-    "conditionId": "0xbc387ec8177308461306cd6e97b574f392f7b1ff606852b2e0491db98d2c8325",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-meituan-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974929",
-    "conditionId": "0x6917d021d140d84533fbef439e0137371a640e50346f877e720c5ca329163477",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-meta-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974930",
-    "conditionId": "0xd177d29b5572dddbb7082a3c0067299f10f776472809ee5bc36480a71ec82066",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974931",
-    "conditionId": "0x6f1b003390ad1a14058f019b83c29a024d50e85a91b4a2517a788c45a1b1b778",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-1-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974946",
-    "conditionId": "0x1f32f863e91164ee86612de6587f5f40b5f8efc85f046b18cb9b4ec06ec0f509",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-google-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974947",
-    "conditionId": "0x296eb2adf80e855262de9c772ac0b250e0f5321a200a6fa1bc0569b33dbaf3a0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-openai-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974948",
-    "conditionId": "0xcb9385c81e4740c70a3dc079ffe8e29ade26b7e3748affea13634e4bd3f92e68",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974949",
-    "conditionId": "0xb6040c2c443a855ddaca72312a50114a0a3394fc3d6452b0ef21a3f7c01c8b4e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-xai-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974950",
-    "conditionId": "0x9cfb2e450a075efa98bf4244b70463399d15183032257cedcd6b155d0de93f22",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974951",
-    "conditionId": "0xc374eb098a2c69047b97966b3108e41b6220d798d06c33bf2d9c65fb53bc7cd8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-baidu-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974952",
-    "conditionId": "0x35c6ce63fb7f62224ce7a8314eb67bcf26f78ac1065f7c2cafae83589929d751",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974953",
-    "conditionId": "0xaf2d6ee0d38870222401756d342a8e5e296edf778c55a9075bf7b7df98efb318",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-amazon-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974954",
-    "conditionId": "0xb1114ddae2b1cd3fec76c7c32ca2951653f13c33cc5202feae1dfae55a6cba2f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-zai-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974955",
-    "conditionId": "0xf51338343ae194afc8526a4033cbc8e018229fa049f8f683a82ef5dbefe679bf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-mistral-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974956",
-    "conditionId": "0xc065356cd2827470422836387359b461c3ebea6ee6363faffb95cf202ec787bb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974957",
-    "conditionId": "0x4e88a7a222556372f142a76dd0b7558f215e3dc7f2d835d4dcb1b52226e15cfe",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-meituan-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974958",
-    "conditionId": "0x32626a6bc0aab5d4edc1debbe16ed0de651a442c892e16e5a98d4750d55b5bb2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-meta-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974964",
-    "conditionId": "0xbe79f6cec1ad1cc0b31aa4a5ae2f46448aa63ce6a2c9f339b852998b34b037a7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-2-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974965",
-    "conditionId": "0x559af4041300eaaec5291e9fd0d254e7f14d4a399b34537093fc077469a15e49",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-2-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974991",
-    "conditionId": "0xc83cce46b6e47df5bbed8afa93bbac7177b4b99d8cf9d6679fa4c5936d8d82db",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-google-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974993",
-    "conditionId": "0x54932d5d01139e72c7bc93bb9573df278b0100738e292d1f7c19771eea74deda",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-openai-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1974996",
-    "conditionId": "0xac1f8eb73f6d204f31da736f5219bf9677f75101179b58e3bd941aed4d594b54",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975000",
-    "conditionId": "0x7d65ed0e415e2b0087ea60c74c0f98049e2b7d5e9590a35cc340c063391439c3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-xai-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975002",
-    "conditionId": "0x8179cd128275fb34f6bfc2c6bc5a40c89bd7b19af0544e1ede717fb28fb1b6a5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975004",
-    "conditionId": "0x1806491a154abd063227e26d7e899b12f27fbe5e5a72c4912b5e64453dd5de73",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-baidu-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975005",
-    "conditionId": "0x90fa301ba0d26e447b0bfa960600bb325b15a6fb449ebcf33b60cc04e962f043",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975006",
-    "conditionId": "0x13acc88dfa6fcd1a2754ef058f027f3f30c3cb4ec190961eca3a2559b720f1dd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-amazon-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975007",
-    "conditionId": "0x538656a2a6662d10ae722cb4b5bb1ede9d12311bab8118f7775de561e09552ea",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-zai-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975009",
-    "conditionId": "0xc79461f8816a25788aeee27671e6c7258eee3ff8fee011afd58fd59c4097afd4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-mistral-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975012",
-    "conditionId": "0xba81b9593477858db3aa9e663b5da95e6df9de2b194228e7dc30574f92c9a759",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975015",
-    "conditionId": "0x25d6757d33360b4505a3964cf0d33a23fb3f0ddb1d4afab4d21522036a9b573f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-meituan-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975017",
-    "conditionId": "0x95672669f5c805551a10e080f1413642cdd7a78cd1f3721572469f30fe9eefc7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-meta-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975018",
-    "conditionId": "0x7f2aa0a85e918c6a553f20d05911dacb5e0bab5c0b41411c8aa3743da3564d8c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-3-ai-model-at-the-end-of-may-2026-style-control-on": {
-    "id": "1975020",
-    "conditionId": "0x6c421dca2e52dd2aaa9cf4f9db534b5ef9e83f9a7d61f5fd3f06da0f1329708e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-3-ai-model-end-of-may-style-control-on",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975413",
-    "conditionId": "0x576d7a61cc04a2962d70db3776b95c2b1cc26a88a1e87d99fde7c916358abf2a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-google-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975414",
-    "conditionId": "0x233044b6511c50096cc927d6c91073d320c4ef6e80b423b1d3b92a2c73b94818",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-openai-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975415",
-    "conditionId": "0x4103e6b91def89f0c60f29838d85c397ad5db9e09526ff15b172380a95809388",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975416",
-    "conditionId": "0x76e4c60f1a4be1a9b1ad0a680c6d56cf98004d76743e670dafda4a0d9211b321",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-xai-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975417",
-    "conditionId": "0x60a2ec430f5cc72fe62194dbaf96f95c85ea5f3f44a888776f172edd8a384d53",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975418",
-    "conditionId": "0x2417be9f134a6561295088b13a0c420de7f3b6bc8694e240fa524fc9d3f46836",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975419",
-    "conditionId": "0xfa051cc68d8236b604d9c653dc21097ccb5cc3ea5685bf4e521c2c9cac010241",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975420",
-    "conditionId": "0xcc4130815999ed433b303273fdd7e94b3829675359aea89165eec11b4d20230c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975421",
-    "conditionId": "0xded19d95f90b61430cf62e8a29ad7a783dfef0eb2860e3f960d5730dee428e55",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975422",
-    "conditionId": "0xc9c1f3d36e83fada8b55d455f3922e0835e98534850dd928c9862c8b3a3d7be9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-mistral-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975423",
-    "conditionId": "0x852a82c15e235d6d0b69e4ec1b465a69063bd145505980b4c3d4fa2514509a62",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975424",
-    "conditionId": "0xd4cbd1a31a47ff164053952bd47b2d706c64cbc7385973fdd05ddd880b8008e5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975425",
-    "conditionId": "0x2825fdcbea06f754fa76a9d960b08a83ec559d698a6375e933534bad61c85d4d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meta-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975426",
-    "conditionId": "0xd36886569587361677daba5ce73515e0cc832008f46b08d768b0aeae304859ec",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-third-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975427",
-    "conditionId": "0xfe15e6f4196709d84344952a257e5d93ed95b7658b96e4f6b14cfbe5e4c7f697",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-third-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975497",
-    "conditionId": "0x0ae8b3f17fec50cc5f05cd2cb6ce8c9bb72cae58b43ecb2282844bf2283b8189",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-google-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975498",
-    "conditionId": "0xa970036dde3bc2538ec4d5cd031a00a6c44b84a98139fa4a8267027eae7d399a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-openai-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975499",
-    "conditionId": "0x6b6ad592736e78ef189b60f9f260f48b79d0d419db0aec5607bdbbc719993d3c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975500",
-    "conditionId": "0xd85c0bc2c3b06473d93ce9650eea8775cbc225b498ee00c37600f76667f0bbb0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-xai-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975501",
-    "conditionId": "0x50247c379276c0ac09897047c91049e3caa9c29073614c73b4b2517ea07a7768",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975502",
-    "conditionId": "0x5258682c16b6fd44481f36158f3ec8b134306a13a40df98eef1ede25d7fd3d57",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975503",
-    "conditionId": "0x43867a555e1145204546332375c0e1e9ac9317f30473511b244f797dd48e058c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975504",
-    "conditionId": "0x7dfbe19edcb2d350a64703dff9dafee1377304007c9039a1fe0caee7b97883c6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975505",
-    "conditionId": "0x4011d2103c68868e8317f06a0e1ab4ee9aed37a364306b68c4c8fd5f144b94e4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975506",
-    "conditionId": "0xced8bdf2c6725a8b2544658f964320d6222d2ea756148008fcdb082161f64f4f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-mistral-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975507",
-    "conditionId": "0x50959cab732754ddae28cabb4d20075a2fb699c644a6a6ceef5c87b3c9ee3cce",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975508",
-    "conditionId": "0x0cdc891eaf48347ee1ca40818754380f2ef12201485493a549944348ab93af46",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975509",
-    "conditionId": "0xe6d756a0470cb074d2f2e75ad0d5f94ac8279ccfd8550912006dfa3cfbfaae30",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meta-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975510",
-    "conditionId": "0xfb7f1f63699706330125728bec1303b885a5498911fbdb913284a35814a55b3f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-second-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975511",
-    "conditionId": "0x2789cf78f560f0a55327db2ada3f17fd87b8526cc0e68d697d32da21974a57be",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975534",
-    "conditionId": "0x5072d0bf27763754b734c63255c4cbbba79d9d09b214accf33ecc79b88b1d108",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-google-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975535",
-    "conditionId": "0x2ae22e1fd29651ed6f049114672a0be94b907e833485a7a6d0c7df2dc7f03ce9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-openai-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975536",
-    "conditionId": "0xc6176e61dc008476c102b63a254d228a19a131c7d209a22444b9c4c7132f78da",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975537",
-    "conditionId": "0x5df034278e17309e77469a84a90591163c9a5ea900d0976ab4053813131d3680",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-xai-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975538",
-    "conditionId": "0xf606d64b93ebae1c5c2aabc2ad1f533135ce6c6c264482be1566f8b0d8f8e570",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975539",
-    "conditionId": "0x0b99db8f92b92a3c4662add13aabfa682190b8afc3734f36813b406ae717837e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975540",
-    "conditionId": "0x3826c50637b2427a0b3e13ac0034aec1d2599cb4b4ee073760a019d08047da1a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975541",
-    "conditionId": "0x61b7e4721f18a14f6ff28511eb7f00ffd47559b345c36e627a4f7a05c6e11c53",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975542",
-    "conditionId": "0xbe020093c5ec05d2bd11eb52bf06415dc0d12eab6f2adb2eaa97c1bf7d4fb4e3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975543",
-    "conditionId": "0xfe82129f625488bb6a26b424a4fb977b8c390d4b91e3647cdc59b7e8ef5694f1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-mistral-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975544",
-    "conditionId": "0xf91e1f10742dddac47ccdb01ac5df6bcc2f73d7dcca6f39786616c6fd549c373",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975545",
-    "conditionId": "0xdf6a08eacf8a61b960a0af7dd7ba8b95a934a49f6761208c7dadddb1a375c1ab",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975546",
-    "conditionId": "0x02ea1de2b24d0036f6bdfc08c9f817e0491235309f45801b876018d974e67234",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meta-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975547",
-    "conditionId": "0x4fa64c6074aeea243e35fae0e255e4d10ebe2799a4016228ce95f66516b82b15",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "1975548",
-    "conditionId": "0x5e480f7d99f1e1bf935f76ea892cfeb1ee464c8f3408f5cea7030f08e06f6033",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-ai-model-end-of-may",
-    "negRisk": true
-  },
   "cs2-vpf-efa-2026-04-14-game1-odd-even-total-kills": {
     "id": "1977516",
     "conditionId": "0x5c619d952800dc2b5c6785c35571708da498488074addc3da5a3e4a068303268",
@@ -94983,86 +93973,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-the-workers-party-nominate-lula-for-president-of-brazil-by-august-15",
     "negRisk": false
-  },
-  "will-nvidia-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999658",
-    "conditionId": "0xa9ea404ee746ae6b3c14ac41aa888ca2538888192dd9169a7911368ccc570db4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-alphabet-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999661",
-    "conditionId": "0xd87f2f83f286d6fa2bee0ab9952f77cae03cea3656d419c7e75a9ae31949991e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-saudi-aramco-be-the-third-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999663",
-    "conditionId": "0x50530532b29f309c39d49c0b327f4bfa248452fba0358d4bc20a7a90c8cea146",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "3rd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999687",
-    "conditionId": "0x32039e312d108f4bc3f15bedf5e73edb9a728c9fd338497d0ca2d81c97afbbc4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999690",
-    "conditionId": "0xc7d6aa9c99200f929db6f7b20585713162722c1aac273ae2e723593361227170",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-saudi-aramco-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999692",
-    "conditionId": "0x5a5a8787c6ad387176e54b1fec63c0df18bbfee680a6f2e6e2f9c64645b89580",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2nd-largest-company-end-of-may",
-    "negRisk": true
-  },
-  "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-may-31-971": {
-    "id": "1999716",
-    "conditionId": "0xd4cb184e5dc458f3b03e6da54c87f7272e478bffe30c2d8157c6df8e2eb8c985",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
-  },
-  "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-may-31": {
-    "id": "1999721",
-    "conditionId": "0xc04f8df61b2832e90b793e713ced36fed87c5a8a6d907edd4f46fac9ea129134",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "largest-company-end-of-may-167",
-    "negRisk": true
   },
   "peru-general-election-invalidated-by-june-30": {
     "id": "1999808",
@@ -106984,29 +105894,9 @@
     "eventSlug": "laliga-2-team-promoted-to-laliga",
     "negRisk": false
   },
-  "will-burgos-cf-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062458",
-    "conditionId": "0xbf2833c63e03cffd3b21ed1e5a086cd278ffc398e082e1eef7edf4cded5c6c1a",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
   "will-cd-castellon-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
     "id": "2062460",
     "conditionId": "0x085c594f88dbb90554bf3e88de4a49d34626d734ffd56729c55a47831b406058",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
-  "will-sd-eibar-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062474",
-    "conditionId": "0x4dd12f4927b2238cc662278415a09a5db569ca0cffbe109b6d73691012d4ea06",
     "endDate": "2026-05-25",
     "closed": false,
     "active": true,
@@ -109089,566 +107979,6 @@
     "acceptingOrders": true,
     "eventSlug": "2027-french-presidential-election-who-will-be-on-the-ballot",
     "negRisk": false
-  },
-  "will-alibaba-have-the-best-ai-model-at-the-end-of-may-2026-246": {
-    "id": "2070087",
-    "conditionId": "0xef2bd56ef760e2ef54bfa47bfe99347db9be6bf7586501c1fde233385d0b1f6a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-best-ai-model-at-the-end-of-may-2026-463": {
-    "id": "2070088",
-    "conditionId": "0x370670e9a47a793c3d41b0fa80625b3e32b085d6a3460db389b7e82a9530d700",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-best-ai-model-at-the-end-of-may-2026-171": {
-    "id": "2070089",
-    "conditionId": "0xdd1c5c73140f0e2c4421ce87768749283ccf47ef162ae01a63614ebfc8c426d5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-best-ai-model-at-the-end-of-may-2026-919": {
-    "id": "2070090",
-    "conditionId": "0xe011a6e7f20812b27f1353860148fb20af6ba889c6dacf0bee7a6e5925e31cbe",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-best-ai-model-at-the-end-of-may-2026-481": {
-    "id": "2070091",
-    "conditionId": "0x5dc25e6569aaf980f2ba0972fbb3cd862c22c6dad363b1e0cb150e6250fc480f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-best-ai-model-at-the-end-of-may-2026-853": {
-    "id": "2070092",
-    "conditionId": "0x9bfc3cfdfeb5959d703df4544d7d15bdb779febb102dff5a4b731e28c7e0f307",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-best-ai-model-at-the-end-of-may-2026-276": {
-    "id": "2070093",
-    "conditionId": "0x2ae21222651ad412af93fb908e9a4b02471d4a9074d4f5dc1dd869175dd3d5af",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-xiaomi-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "2070094",
-    "conditionId": "0xdbef16e38bc711be4cd624988bb77dfd3ca1961ca00caa930e4f97a10a774664",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-stepfun-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "2070096",
-    "conditionId": "0xea07bd440faa9dddc675a46e81b503d588a082ecf64de06ca3360164a4747174",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-tencent-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "2070097",
-    "conditionId": "0xc565e24bb040b2932ff2afa53dbb1ad95a82f2639856e5c1f2d78fb945c1e33d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-minimax-have-the-best-ai-model-at-the-end-of-may-2026": {
-    "id": "2070098",
-    "conditionId": "0xd3d49787699eccf221e0b6408ce2915f742d40723b35bfd7363b64c6aa9a3d20",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "best-chinese-ai-company-end-of-may",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070206",
-    "conditionId": "0x19f7792ca8455d2c005b26d10053428001a8bc888d792d1a43d4fa77654fa900",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-google-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070207",
-    "conditionId": "0xac2d17e58ae62e554f182b21b193eb324abe7fd3840f1b9a84387eda65c8f179",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-openai-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070208",
-    "conditionId": "0x1e25af09977c289b206fc692fe3360543ab801755239585266d41764cea99b90",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070209",
-    "conditionId": "0x355ef18c45bdfff620de30cfe319b7c66cf97beee92ee47979bd1d3b776fb9e5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-xai-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070210",
-    "conditionId": "0x2ac5c0b8aa2384ae1c9e6292e78e011b6c3ce255e9a2019177a3cb5bd7ea7614",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070211",
-    "conditionId": "0xc1c6cb04f90ab0ec2bbdd442b07f57cc95808e853b473bb91e2a8b9da94c1ed8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070212",
-    "conditionId": "0x1f26128487f62adfa31a918471d4a9136b706ea0c1ebca00d2cda9d82b2ab8b5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070213",
-    "conditionId": "0x393ec7221e9bfb0ac4b27557a59f6950bf851ee4431cabe4726476b20a95d091",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070214",
-    "conditionId": "0x9f23be8be1306c74d6cf0db5614947ddbae97b6065fef5ac6134f50ccce0f1b5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070215",
-    "conditionId": "0x5ee1228e2eb4f59e6d7f28addd190ff9f527e33866f2615d7c61158277ca83f8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-mistral-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070216",
-    "conditionId": "0x645d5c4bf5ffe1de180be62917e3ddae46f884331b4d998f086dec7e22a1f845",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070217",
-    "conditionId": "0x6e6f81f800723193bd42259663f1e8e2b2a535175a57ef2aa9ce3fb151e4ed35",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070218",
-    "conditionId": "0x9ee347b589e3c59171c91c5c7053589c1e5ea61cf71f8cf42b6e5eae11cbda70",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meta-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070219",
-    "conditionId": "0x449da294332aab63365f580d226f192abb1e5db9e5f754f14094c81fce9ff141",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070220",
-    "conditionId": "0x56ee1390311bb13a1775cf8fb2c273d790566837b1037b72f0f013bb00dd3268",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070249",
-    "conditionId": "0x934401f3221133fba197037b50d33ea264a4b166ce58690bce39554abdcceed9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-google-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070250",
-    "conditionId": "0x379c41d83a0e8cf23265fee3314386117094e464643a1cccfb9c3d67fca681b8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-openai-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070251",
-    "conditionId": "0x9285f33233b75dde8b2e109c0f3e32ffbb8c863260988c395322ab3e249a879e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070252",
-    "conditionId": "0x554b7c5817b68846e14a4cc609b0b0e297edc9cdcf89d64bb0c76865363ec65a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-xai-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070253",
-    "conditionId": "0xf20ac95702d52b38d90818cb81cca643831dfcfe244dd201a3ba8a62810fd7b4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070254",
-    "conditionId": "0x12769a1940e97ae47319323d32fff7f3e1d2eaefcffbe351fb0a4437e9fd4586",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070255",
-    "conditionId": "0xdfab5df483ad14e914c3d371fb9a14736bcbdeaeb17d07f2869ca7efb2ebd9a8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070256",
-    "conditionId": "0x156cfadce96510455e6e1b37a770806ab5bc8afe665dc5d4aaa42379d59d743d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070257",
-    "conditionId": "0xc3d47dde691ab6f5043d3ea64b3a5847c94158a39f96b7a20c3bb10aacc9ba1f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070258",
-    "conditionId": "0xc22b83a7a50b040fcc20d8847c3be1ef2b31252f3ddf0fa9967fe9a350030096",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-mistral-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070259",
-    "conditionId": "0x4fb449414edacdc96e9256794d947241c45d9205c9c0e5b2a3a6920ad23ee70d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070260",
-    "conditionId": "0x0f9cbde9628509238afdfec1bb67f7ac37a80ecfe21b6fb9c5e87073ca8d5bfb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070261",
-    "conditionId": "0xe7fccca4410cc3289e2196e4470d80ff67746c615af65ff6fee58d9a4205d5af",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meta-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070262",
-    "conditionId": "0x55356b779ac1f904a00290247318cdcb327daa54d4253c1470d3dbbe46706e56",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-second-best-coding-ai-model-at-the-end-of-may-2026": {
-    "id": "2070263",
-    "conditionId": "0x9480797e9f46e7f289885b96f18900b4e3d685ae631c3df2e40aadf1e28dd8bf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-second-best-coding-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-anthropic-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070336",
-    "conditionId": "0xf5eed5d402c85807bede0e4b9169173e48c5ba42879da524cc03ad35092c7995",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-google-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070337",
-    "conditionId": "0xb45bcc8c4580c1c015f6e17c5bd13e2fa31c27920cafe3ddbf59b4b5fbd526f2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-openai-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070338",
-    "conditionId": "0xb833e3aba09dc39808c66bbac2ddea4345d0d44b6d9595f35b549f51aaf40a5d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-alibaba-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070339",
-    "conditionId": "0xfcd7d9e6a602041813f2f56c467f174959d0068c22f6147e122a941ad30fdbc6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-xai-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070340",
-    "conditionId": "0x195640b227530d45ec159b0645310bcbd4659f8c23009ec7ecd23fdb434aa44b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-bytedance-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070341",
-    "conditionId": "0x0b278cab227996b9b3275551a858e85c648e5d9a0ddc767a5af2688ca58857f7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-baidu-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070342",
-    "conditionId": "0xc3e00fab310b79b397823f987eb4ab0496c25cbcbbc3b5e4ec66eb3a1d24a8b9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-moonshot-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070343",
-    "conditionId": "0xb08cb465b8edd44c08c5c66193a4b37366d9a5c5eb27188a5cb4c8a6082769b0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-amazon-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070344",
-    "conditionId": "0x54b0a235bcce3a030828a9d9133fef93143347f8a0e4316bc343342b1138a5ae",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-zai-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070345",
-    "conditionId": "0xa40e927b4adb3ad4c73c02b4f164658ebd3d57be14d57dcc2fd468811dbf09db",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-mistral-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070346",
-    "conditionId": "0xffaad2035d665d2e9682dc1452a6f48bc580b6f7c34de27286329a5fe5d5795e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-deepseek-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070347",
-    "conditionId": "0xf0a628bb898828c183e1e378075457c8ed2563b3b50803851cfe947318820df5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meituan-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070348",
-    "conditionId": "0xa5d9e160d91440a62fdbb5d3009de19d1f5ead4c7a13e48e949b4585ad0b5b33",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-meta-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070349",
-    "conditionId": "0xa7a944727c0d1a45e6b3b8afd7b39e9ac1f8e6d9ac453903cf9e0622b3be29a3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
-  },
-  "will-microsoft-have-the-best-math-ai-model-at-the-end-of-may-2026": {
-    "id": "2070350",
-    "conditionId": "0x465bf31114d5b992cafbc0b7b5f2dab6aefba9d214d1cf945ddee5f17b0d582f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-company-has-the-best-math-ai-model-end-of-may",
-    "negRisk": true
   },
   "critical-discord-incident-by-may-31": {
     "id": "2070431",
@@ -114490,16 +112820,6 @@
     "eventSlug": "bol1-aur-ori-2026-05-24",
     "negRisk": true
   },
-  "will-mrbeast-hit-126-billion-views-by-june-30": {
-    "id": "2099540",
-    "conditionId": "0xada697d0caa3d6b29470b56bab3d35b902df2bf06db744760f6131c211b97c45",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
-    "negRisk": false
-  },
   "will-mrbeast-hit-127-billion-views-by-june-30": {
     "id": "2099541",
     "conditionId": "0x689a24ea74bae5e84c3d3be87856c4ca399b7af5de2563a50c8a6681eca754bd",
@@ -117450,262 +115770,6 @@
     "eventSlug": "pro-football-will-diego-pavia-be-rostered-by-week-1",
     "negRisk": false
   },
-  "will-bruno-mars-have-the-greatest-number-of-monthly-spotify-listeners-this-month-344": {
-    "id": "2108961",
-    "conditionId": "0x8533c74f835e8f92bec54e14127040ef1ba6b2bf8dbae7f41d3b45147dc6f051",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-noah-kahan-have-the-greatest-number-of-monthly-spotify-listeners-this-month-596": {
-    "id": "2108962",
-    "conditionId": "0xe495733e51bd61bceebf733677face01b103b7909c638d79b6970c6aa813a966",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-bad-bunny-have-the-greatest-number-of-monthly-spotify-listeners-this-month-974": {
-    "id": "2108963",
-    "conditionId": "0xd3e052699fd170a527d866386d734662fa85b41ca801aeda264164165ab991ec",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-the-weeknd-have-the-greatest-number-of-monthly-spotify-listeners-this-month-185": {
-    "id": "2108964",
-    "conditionId": "0xafc71dcd8225b2646ba34e2c4e9755bf170d114508b8ea89c16773ec53eb301f",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-kendrick-lamar-have-the-greatest-number-of-monthly-spotify-listeners-this-month-419": {
-    "id": "2108965",
-    "conditionId": "0x1bff3168662b3f94ccd66d9119d3747eae6686e3ce78772f84d14b6bc2e9d270",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-taylor-swift-have-the-greatest-number-of-monthly-spotify-listeners-this-month-221": {
-    "id": "2108966",
-    "conditionId": "0x5540ef1c8f9a26541cebeb67511e20bb667f4669740e96da95fe4713f3fb830d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-drake-have-the-greatest-number-of-monthly-spotify-listeners-this-month-596": {
-    "id": "2108967",
-    "conditionId": "0xabf156741411337b95b9fffb22081171fdb5092d6f90576d79f253464350abcf",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-billie-eilish-have-the-greatest-number-of-monthly-spotify-listeners-this-month-118": {
-    "id": "2108968",
-    "conditionId": "0x893093a2190f5961c1db742baffef3dccd2b80c78cda8067c45a82ea0d5f1147",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-lady-gaga-have-the-greatest-number-of-monthly-spotify-listeners-this-month-672": {
-    "id": "2108969",
-    "conditionId": "0x2d0ebd1188dcbad4d522c6b400b1fd2a7cc69bef4cc310ca28a6ebc05847c65b",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-kanye-west-have-the-greatest-number-of-monthly-spotify-listeners-this-month-264": {
-    "id": "2108970",
-    "conditionId": "0xd137ba118e8706d82438634a349fe30d17b792523c6f24f1b178b54583817860",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-rihanna-have-the-greatest-number-of-monthly-spotify-listeners-this-month-873": {
-    "id": "2108971",
-    "conditionId": "0x5c8da1003222390b77b7c3f18bb014c2169d256dfef1a49ff74023776ba272c7",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-ed-sheeran-have-the-greatest-number-of-monthly-spotify-listeners-this-month-643": {
-    "id": "2108972",
-    "conditionId": "0x1d83ff22585fb870df18be331276009f32f1601205c94f4b9292c530b7125a3d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-coldplay-have-the-greatest-number-of-monthly-spotify-listeners-this-month-676": {
-    "id": "2108973",
-    "conditionId": "0xb9c1ef135226766c4e964c63c11f599c78db09b20bb6d13f2a77baed83a428ae",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-justin-bieber-have-the-greatest-number-of-monthly-spotify-listeners-this-month-952": {
-    "id": "2108974",
-    "conditionId": "0x5e2d6bf9012c6c6131362d477153f4061b8904b439e6ac1191b09e07b0f90af7",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "top-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-bruno-mars-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-743": {
-    "id": "2109027",
-    "conditionId": "0x7536b15f80f2f842c7525d38eff3fb0d0783be605dd0eede70624bf5e41a5fa3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-951": {
-    "id": "2109028",
-    "conditionId": "0x6de517f0219d9cfe5a770154957e2e0e2d2d8d35544d96325af63bd4050ea19a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-bad-bunny-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-152": {
-    "id": "2109029",
-    "conditionId": "0x1927c93bacf5c0b2c8f663546692f1e448df078609ad29208b9d24e21f5b6a3a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-the-weeknd-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-867": {
-    "id": "2109030",
-    "conditionId": "0x479ac50c83b5817cbafde9979af9ce1bc55d4f10b11362cad793067a334f4ea2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-kendrick-lamar-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-892": {
-    "id": "2109031",
-    "conditionId": "0xf362a15824b987e29d342c037a6dd4a27fa8da5417e9a417824207a5a0f726ef",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-taylor-swift-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-553": {
-    "id": "2109032",
-    "conditionId": "0xb77ce7cf66fef90bedbd1db374a847c59f0d0e523c7fa814b842568ff92c1828",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-drake-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-221": {
-    "id": "2109033",
-    "conditionId": "0x030de0e59cdcee0bbcccb93f414e693bc69b5025ac64e97116cd4de70d823719",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-billie-eilish-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-697": {
-    "id": "2109034",
-    "conditionId": "0xfb6125830bff1c1fcbc91de597afaa19958ec03da4294bc6b95dd67adaf45386",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-lady-gaga-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-962": {
-    "id": "2109035",
-    "conditionId": "0x353b4be7d994b6d59bffdda9dddba571ddc904c1effc91c116dc4a42bb21296b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-kanye-west-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-217": {
-    "id": "2109036",
-    "conditionId": "0x55ae33c4e845e0bc7ff1407192536caa6cd154d49f6f98575de4456c26d4e5e3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-rihanna-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-882": {
-    "id": "2109037",
-    "conditionId": "0xb60e09b984eb85891d69e55beafad094d707514877a2e3c9e728109ae9f8d037",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-ed-sheeran-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-667": {
-    "id": "2109038",
-    "conditionId": "0x63e6e61046b2c89e94d39fb59536a71ca4461eb235c943d31afedaccbcc772ec",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
-  "will-coldplay-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-122": {
-    "id": "2109039",
-    "conditionId": "0x276eab2212b068a08b33777f6d81e7c3e3eeb7901e01f9b81b098754083d36f5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2-spotify-artist-in-may",
-    "negRisk": true
-  },
   "james-comey-sentenced-to-prison-in-2026": {
     "id": "2109074",
     "conditionId": "0xcc6e10a62115e94c4af40dd61360cb5e7e1f9511bb15ca478ea6b0269667520b",
@@ -118188,16 +116252,6 @@
   "will-vaibhav-sooryavanshi-win-the-2026-ipl-orange-cap": {
     "id": "2109823",
     "conditionId": "0x3717c8ca2cbc1acd035da38c0bf1a7696189f43de38d0cc7591e697d9c7fa5f5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-orange-cap-winner",
-    "negRisk": true
-  },
-  "will-virat-kohli-win-the-2026-ipl-orange-cap": {
-    "id": "2109826",
-    "conditionId": "0x3a2c177ee94af0a6d1fcd99e5a7d5ffd6a995b75f3f66fb277303e1659cc3357",
     "endDate": "2026-06-01",
     "closed": false,
     "active": true,
@@ -119613,6 +117667,1938 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-south-korea-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116747",
+    "conditionId": "0xd7fa024a38b29f4d3ffdcd5e6305f806de08f7668187bdbe598286368b921b8c",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-spain-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116748",
+    "conditionId": "0x5cd13d5a537f34aa20502377e31e7b7db09fcd47450bba08606db26e6c1a38bf",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-sweden-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116749",
+    "conditionId": "0x806216a0818948df29422df42b0dc1c6a2fbb26f3abe038bd8ddf47bf92f541a",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-switzerland-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116750",
+    "conditionId": "0x563fb88f97c51d7240df7e2cfd68a4f348800fb2ec62edb5c5bc1f31e4c58fdd",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-tunisia-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116751",
+    "conditionId": "0xd43b25728815902e959cc4877f2191ff2e0d39cfd057fb82bfb2ec70c46a2de6",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-trkiye-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116752",
+    "conditionId": "0x6957376cffdd032103fa15872c2ad2b643ad8b20b4be963c831d1af9706a24eb",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-united-states-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116753",
+    "conditionId": "0xe441df14890b26343247abe2eabc9bf7ecd219fcbbcdfbc002bc7c43225c6d48",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-uruguay-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116754",
+    "conditionId": "0xe7d71ed803e1520eb5fc47a35481a110e0fe1bb9e3e323dd1db64ead420d98e2",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-uzbekistan-score-the-most-goals-at-the-2026-fifa-world-cup": {
+    "id": "2116755",
+    "conditionId": "0xb8725b7942778f8c859f88cf453e12d0a8cfc24ebfcb7d3a44c7da8cf555c0b4",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-top-scorer-nation",
+    "negRisk": true
+  },
+  "will-national-party-be-part-of-the-next-government-of-new-zealand": {
+    "id": "2116828",
+    "conditionId": "0x2dfd35e38c09c0abc2820d7f2a310a7a655f1d0282bbdbfc83acc0dbc933b526",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-new-zealand",
+    "negRisk": false
+  },
+  "will-labour-party-be-part-of-the-next-government-of-new-zealand": {
+    "id": "2116829",
+    "conditionId": "0x3c16919b7e254af192f6928e658641042f8db58e0b5894ae2109a0bec010732e",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-new-zealand",
+    "negRisk": false
+  },
+  "will-green-party-be-part-of-the-next-government-of-new-zealand": {
+    "id": "2116830",
+    "conditionId": "0x5634fa967ba4c4e5eb9ca57ae4d0644e879886f0cbecf6d7c408a1cece8162d3",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-new-zealand",
+    "negRisk": false
+  },
+  "will-act-new-zealand-be-part-of-the-next-government-of-new-zealand": {
+    "id": "2116831",
+    "conditionId": "0x8519f1e095964b54aef0610916cac2add0996fd0146f496c6e66ba647a9094a6",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-new-zealand",
+    "negRisk": false
+  },
+  "will-new-zealand-first-party-be-part-of-the-next-government-of-new-zealand": {
+    "id": "2116832",
+    "conditionId": "0x65eec8e52edceb429870f5b2c80af5ade9e40e5490e3436cdf78ba5a2b8e12e9",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-new-zealand",
+    "negRisk": false
+  },
+  "will-te-pti-mori-be-part-of-the-next-government-of-new-zealand": {
+    "id": "2116833",
+    "conditionId": "0x252b6a054fa7bac3a2db0df1f09dbe971b91a3882dda80a0c63df171ff789c48",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-new-zealand",
+    "negRisk": false
+  },
+  "will-james-comey-be-arrested-before-2027": {
+    "id": "2116863",
+    "conditionId": "0x408877da98dbe7b36a8efdc3075057e2ae600e71f39ea96c4ff019c26eb3e05a",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-anthony-fauci-be-arrested-before-2027": {
+    "id": "2116864",
+    "conditionId": "0x1a975c8210f5aa11c76d645a4dd746764799310898445689b17fb500a8925c80",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-john-brennan-be-arrested-before-2027": {
+    "id": "2116865",
+    "conditionId": "0x087d55571a3847d92cab41c9aa6e05d6111dcbf2b95559627d3cf88fc53d22fe",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-mahmoud-khalil-be-arrested-before-2027": {
+    "id": "2116866",
+    "conditionId": "0x6f79a739c0694af2f9047acc2d88311911ff7def34a03b5dcc9e9e816e9e2e29",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-james-clapper-be-arrested-before-2027": {
+    "id": "2116867",
+    "conditionId": "0x44cd8b15befa5d0ce8e20dcefc25b91bf44907d6f83d148c7b600336d990085b",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-jos-luis-rodrguez-zapatero-be-arrested-before-2027": {
+    "id": "2116868",
+    "conditionId": "0x293a15dc69de092ea5f669af2a0207d7b9dbf32b8e53eae53cdea7785d915747",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-adam-schiff-be-arrested-before-2027": {
+    "id": "2116869",
+    "conditionId": "0xa996ddae9ea35ff0c110e5cc04f116714ec5d4013119088f347b27920017e590",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-letitia-james-be-arrested-before-2027": {
+    "id": "2116870",
+    "conditionId": "0x1b5f6d557381c9d5e5c8b9cb3aff3396c721fe6fc65c647e9d859adaa15747ce",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-hillary-clinton-be-arrested-before-2027": {
+    "id": "2116871",
+    "conditionId": "0x862c6d9cb806315fe626d37e8b9f21585710a98ada2fb9338061574fb9a5f453",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-bill-clinton-be-arrested-before-2027": {
+    "id": "2116872",
+    "conditionId": "0x19d90e579cbc01149eb72ddc05fe412f7afbe16abc6d599456a7232fde511ffa",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-loretta-lynch-be-arrested-before-2027": {
+    "id": "2116873",
+    "conditionId": "0x67c568e14e9691872d6f893fe3fc1e5560d792c066357d1d54f644c26ac36457",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-susan-rice-be-arrested-before-2027": {
+    "id": "2116874",
+    "conditionId": "0x0a08a2869ad15387b7e557ddad43d6973129cae2c0bdbe6740531cc8c2c912cd",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-candace-owens-be-arrested-before-2027": {
+    "id": "2116875",
+    "conditionId": "0x2a09bfbfa26749d75fd57506d752bc4101d4a6aac8ddba9c8f869976885beee0",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-gavin-newsom-be-arrested-before-2027": {
+    "id": "2116876",
+    "conditionId": "0x30f0732734e61902d81cf2d3e37e531de8883b6a2c4cabd8ba3e4035977de1ed",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-benjamin-netanyahu-be-arrested-before-2027": {
+    "id": "2116877",
+    "conditionId": "0x47027f725e288491ebd5c0fff82b13cd590c643ba955caaf8802f4a5b492562a",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-john-kerry-be-arrested-before-2027": {
+    "id": "2116878",
+    "conditionId": "0x3585de6c677867fb0e3b405c92da51b09a968781a0b66a8de6c98e46c789535e",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-barack-obama-be-arrested-before-2027": {
+    "id": "2116879",
+    "conditionId": "0xf0f06f10ca905fa971609b18ea337047068e80e8fed592886edf1716a71fe389",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-pam-bondi-be-arrested-before-2027": {
+    "id": "2116880",
+    "conditionId": "0xcecf072e20347bb9bc5325b0bf23111add4d3700513d847bb6169d795a037ad0",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-tom-homan-be-arrested-before-2027": {
+    "id": "2116881",
+    "conditionId": "0xbe555c50fc49ae7f1a970fbe13f226d179c192d87daa71c7ca082464b71fb8f6",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-kash-patel-be-arrested-before-2027": {
+    "id": "2116882",
+    "conditionId": "0x61cb5d4218aae1f7203575a84a78d3055dd2d530bc0de203b7776e4696870af1",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-brandon-johnson-be-arrested-before-2027": {
+    "id": "2116883",
+    "conditionId": "0x950ae84dd0900bc6995ff8463c5ce8a373b7b2d8b5831b0f70896c324a97bd07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-lisa-cook-be-arrested-before-2027": {
+    "id": "2116884",
+    "conditionId": "0x9bab81d09284255c1e27fe291c05f096e666a998af69c06c1368addb5eb760b4",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-lee-jun-seok-be-arrested-before-2027": {
+    "id": "2116885",
+    "conditionId": "0x0078d4162ef6aa7afe41df7cd973d031d34113029c8adea2321d7da0b7801bcb",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-joe-biden-be-arrested-before-2027": {
+    "id": "2116886",
+    "conditionId": "0x80689a62869f77d8bc45b306e781a026cf40280863da66e205799ed01f142868",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-arrested-before-2027",
+    "negRisk": false
+  },
+  "will-the-national-party-win-fewer-than-25-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116887",
+    "conditionId": "0xfad3e15edada371df355d428a32341606e076a8a16ce62bd4bd6f1af8144b287",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-national-party-win-25-29-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116888",
+    "conditionId": "0xbcf935b6fe0a5164b077f08eb826a4b3cd739b4732e9d4974b235497a3a63b8d",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-national-party-win-30-34-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116889",
+    "conditionId": "0x099179dbedbd59e9efbbb9dbfae2b764c31ee5ba9bd7f607540faace913e7015",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-national-party-win-35-39-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116890",
+    "conditionId": "0x39fdba8215abd5461323957e73ffb0812474c1fdc1190f03d909ec48dbe05861",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-national-party-win-40-44-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116891",
+    "conditionId": "0xe83b489f8de0140a7a23f7d8583b080975dae0a396759b1e4ebaa2607d2113a7",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-national-party-win-45-49-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116892",
+    "conditionId": "0x9979e3cb235e8842a2e4bfae00a058890dacc6b874546ea0bfcf4dbf56e1481c",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-national-party-win-50-or-more-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116893",
+    "conditionId": "0xd34b1add16357904d1529b4e9dd61fd9497fbbc400066af98655ff36aeabf42b",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-national-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-fewer-than-30-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116907",
+    "conditionId": "0x0a150e16a89e7256ca3d0dfbfaa8ab2007a81b9068bbadef297421b23937e8bf",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-30-34-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116908",
+    "conditionId": "0x759a7c1ccb03d17031eb045490df2d889bbb35bf8284542eb7a731a3bcb16fa2",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-35-39-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116909",
+    "conditionId": "0x396e817dae3b46e07743d70805dcc6743bdc17c1dc31744d4e7f31a2c74dbb4c",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-40-44-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116910",
+    "conditionId": "0xfe45f48ffeff236475b44ed53ec858ab7d4ab5509485a515777c7558c4ca48b7",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-45-49-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116911",
+    "conditionId": "0x1b869a78b245981351d45c14570412a9fbd6b4bd8d3525edf176ebec1efb580a",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-50-54-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116912",
+    "conditionId": "0x645bb9d5a71b31fff466a1f13156ce4dc06cd7f9b5fc8e97ce3e1c01549acb3d",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-the-labour-party-win-55-or-more-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2116913",
+    "conditionId": "0xa0082afab16eba836cacdee3084b777b10046c2bfd671f8eb5fec88d25a1958f",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-party-of-seats",
+    "negRisk": true
+  },
+  "will-shedeur-sanders-be-the-browns-week-1-starting-qb": {
+    "id": "2117042",
+    "conditionId": "0x6a889ebbdf34f7ddc218b00b062f5e10433b29a35e56090928aa9e2daaa4d9db",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-browns-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-deshaun-watson-be-the-browns-week-1-starting-qb": {
+    "id": "2117043",
+    "conditionId": "0xe2d0c875227de9dcdb62f0ea47510c8588050012dc8169a8060cab980d8f3675",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-browns-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-dillon-gabriel-be-the-browns-week-1-starting-qb": {
+    "id": "2117044",
+    "conditionId": "0x9d96ce5e29b8a3fd9be0b637dcd41afe51ded6bdd7bd0075ea05955725b3d1c4",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-browns-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-taylor-green-be-the-browns-week-1-starting-qb": {
+    "id": "2117045",
+    "conditionId": "0x846397bd35561fee486895707673180c044325c8152aaab2fd5ce98cd378f390",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-browns-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-voter-turnout-be-less-than-76-in-the-2026-new-zealand-general-election": {
+    "id": "2117059",
+    "conditionId": "0x79ef370aa6842206499fba3a8296ac816f4d527bb2043ba988f804c63893c66f",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-turnout",
+    "negRisk": true
+  },
+  "will-voter-turnout-be-between-76-and-78-in-the-2026-new-zealand-general-election": {
+    "id": "2117060",
+    "conditionId": "0x345c72542646bdcdb1d48d909d4f7e0ec4762c3d72bca6e6502a855fb67186fc",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-turnout",
+    "negRisk": true
+  },
+  "will-voter-turnout-be-between-78-and-80-in-the-2026-new-zealand-general-election": {
+    "id": "2117061",
+    "conditionId": "0xd46660d01435c0fa3f6c182487b3936d234e4f7e52a18be6b20711b22252fab2",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-turnout",
+    "negRisk": true
+  },
+  "will-voter-turnout-be-between-80-and-82-in-the-2026-new-zealand-general-election": {
+    "id": "2117062",
+    "conditionId": "0x2fbc517476b26516402a29b4ed57ef15eb733f54acfe06d013b39d247803d216",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-turnout",
+    "negRisk": true
+  },
+  "will-voter-turnout-be-between-82-and-84-in-the-2026-new-zealand-general-election": {
+    "id": "2117063",
+    "conditionId": "0xbb0105317e01e28b233729ce4afc6f4883099e0ff8a1445a8f7b9a3a869f8916",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-turnout",
+    "negRisk": true
+  },
+  "will-voter-turnout-be-84-or-higher-in-the-2026-new-zealand-general-election": {
+    "id": "2117064",
+    "conditionId": "0x512e57e2fedc5f926dbbc4e52311a3e08f128cf5170f0536768c0b502ff1e6a4",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-turnout",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-15-or-more": {
+    "id": "2117120",
+    "conditionId": "0xa634560f658b7b7ca3a6f86893441f2cb2608189cb589e38f570daf67a8d9de0",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-10-15": {
+    "id": "2117121",
+    "conditionId": "0x83822c3e212385a9496acbcd213b7bd5e88510948267d6c5512f8259a808b3fc",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-5-10": {
+    "id": "2117122",
+    "conditionId": "0x55ae051221cdc3d0ca7e075372cf0b52aa72f6a77a80465e728adc1a15c26021",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-0-5": {
+    "id": "2117123",
+    "conditionId": "0x3178e675218fc6c9d35884a6f9d54d69348e35875b096054afa8d33e174469d3",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-national-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-0-5": {
+    "id": "2117124",
+    "conditionId": "0x542f0066fe04f19616650236308b0e68cd1ac666e96b950ce9a0f8e06488b36d",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-national-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-5-10": {
+    "id": "2117125",
+    "conditionId": "0x5ed3b8bfd744e6e87c601e78ce5dfe34fc6bb56a14156c2b4314d122a90a3c1e",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-national-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-10-or-more": {
+    "id": "2117126",
+    "conditionId": "0x1217ae7f4f68cf61ce2b80a8aba64418918660e674029da95a09f1e6e99b9517",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-another-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117127",
+    "conditionId": "0xe8f2b072bccbe48276b70ca4302402fa2795a3f1ed9dfed94536d5c511161c3a",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-popular-vote-margin-of-victory",
+    "negRisk": true
+  },
+  "will-trump-speak-to-nicols-maduro-in-may": {
+    "id": "2117144",
+    "conditionId": "0xf02bee2a68c616dbb62575bff2c07ef45710f2d523e482d6cb9f36a2d0deb76c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-reza-pahlavi-in-may": {
+    "id": "2117145",
+    "conditionId": "0xfd257d6247eb24d313d9b921a118c1754d03b3444f32a70334a28ef28d3e96b5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-kim-jong-un-in-may": {
+    "id": "2117146",
+    "conditionId": "0x8d6153cc32653d0a058166a8500384f096ad07eb7c9b8265d1a7c126fb3db6b2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-volodymyr-zelenskyy-in-may": {
+    "id": "2117147",
+    "conditionId": "0x2a70026364d7f55c182b29a6b20055abb2bb649810d789ea293a89113ca34b6c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-vladimir-putin-in-may": {
+    "id": "2117150",
+    "conditionId": "0x1cd819601b9024130c08feb7a71dccb9422b3cbdb0923bb366b4c38f392a5b3a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-yoon-suk-yeol-in-may": {
+    "id": "2117151",
+    "conditionId": "0x55e189e455951a21e4d7dc5faeed09050b1f427debfb03ae75e68626a5433574",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-maria-corina-machado-in-may": {
+    "id": "2117152",
+    "conditionId": "0xf79ddd64054cc8532f32ec64728659469647245e12732ec66e3521fbec4754ca",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-keir-starmer-in-may": {
+    "id": "2117154",
+    "conditionId": "0xb9f5d213244c79397c9cd1c1eade276466cc0f10c753beb1e55ae466c6155fb6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-ahmed-al-sharaa-in-may": {
+    "id": "2117156",
+    "conditionId": "0xa3a7353920725475f42d193fa0563b54778aa10aa607419248bc87db896a101a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-mark-rutte-in-may": {
+    "id": "2117157",
+    "conditionId": "0x919837ed70b64f690f41676749ed4a2463922530c1cec6776c18c340224c26bd",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-mark-carney-in-may": {
+    "id": "2117159",
+    "conditionId": "0x2c39f9b8cce4ea1bb05bce80fc4638e7226cdb37d23fb21bcb08b27e69eef7aa",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-masoud-pezeshkian-in-may": {
+    "id": "2117160",
+    "conditionId": "0x9a6de39e492db361596e7245f988e120d6c22d3f29ad5fbc569343d0eba5edb7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-speak-to-pope-leo-xiv-in-may": {
+    "id": "2117163",
+    "conditionId": "0x6eb4cfeaa0aca80a39b90584b8b52e9ca3ed8019c2a03f01b9182a029d13d2fc",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-speak-to-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-cat-in-may-431": {
+    "id": "2117172",
+    "conditionId": "0xcfb5a241ede731331c71772e489652ff48eeaacac7e53fa26a6e20c768855cb2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-hawk-in-may": {
+    "id": "2117176",
+    "conditionId": "0x3a0439ed74b6ff49c748d8250e128a1701a5bb898ed4e4e63bb8c87238c714c9",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-mosquito-in-may": {
+    "id": "2117178",
+    "conditionId": "0xbbf2c1cdebdfdcd44edd989ce7fa99f4f6709ea73aa528877edda8a21711db7f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-rabbit-or-bunny-in-may": {
+    "id": "2117180",
+    "conditionId": "0xd070e6a8437ff0d70831493dd1e711b2260009788d23c379cd74329ee24b6de4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-hippo-or-hippopotamus-in-may": {
+    "id": "2117181",
+    "conditionId": "0x6b1752236176563749cb664a176560361117f2926028c554bc3d64392298b0a2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-panther-in-may": {
+    "id": "2117183",
+    "conditionId": "0x97b2cbb792c83ac7ce359e9d3fda89b7604b2a8188243d9c41d69a32de3be457",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-pig-in-may": {
+    "id": "2117184",
+    "conditionId": "0xaa1ee8bafa18c35fe5100b1d0e8231fb6aaf55c024eeb19f48d6fc16993a2ea1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-wolf-in-may": {
+    "id": "2117186",
+    "conditionId": "0x1c6e3a691807f863ee663802d8ed73451702c3b0dbae7a1b4f0f16a745bf0a9a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-whale-in-may": {
+    "id": "2117187",
+    "conditionId": "0xe6cd18a3d579db04da1d975d966fd1f3e1bbc013f35866972c7b8728c85ef914",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-chicken-in-may": {
+    "id": "2117188",
+    "conditionId": "0x054b19858a092d4f7c10aa7e08265d80baf63d571436f99e52d3aecef93403e0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-kangaroo-in-may": {
+    "id": "2117191",
+    "conditionId": "0x0a5ad239f2da6bcfe25b4bac553c30eba230e6078354bbff75b9966dad4c0e74",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-deer-in-may": {
+    "id": "2117193",
+    "conditionId": "0x3e36c4c9d0418ae9d5aa6fe772fd93db36db744c9a1b1aac7d717665eea4d58f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-frog-in-may": {
+    "id": "2117194",
+    "conditionId": "0xa07fd14ce04d4d6f07b760146b09d5fa5831f8102ab59f3d6929b711db512b40",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-goat-in-may": {
+    "id": "2117195",
+    "conditionId": "0x764e34f82d6d71b0b53c9816690464f24a4e245ca0854b624151cd040828a29f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-mouse-in-may": {
+    "id": "2117196",
+    "conditionId": "0xbb74e6b7534b5289070ce1b47db9daaad1d902890d69a28c36b8a7dda3d7a6e6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "will-trump-say-turtle-in-may": {
+    "id": "2117198",
+    "conditionId": "0xa7bf37a35d2f85f368cbeabe1aed76d220784aab3e90f31cd768a97475abb2e4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-animals-will-trump-say-in-may",
+    "negRisk": false
+  },
+  "nz-election-labour-v-national-of-party-list-vote": {
+    "id": "2117209",
+    "conditionId": "0x26c81a40d9b7be1f0c941e72139fbae17c1e4416418781d0cc4649d36581b505",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nz-election-labour-v-national-of-party-list-vote",
+    "negRisk": false
+  },
+  "will-trump-meet-with-kim-jong-un-in-may-2026": {
+    "id": "2117210",
+    "conditionId": "0x181e37b9b33b9a9e9e75a592cfa8832a00d25180f366305de612596e309af3c8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "will-trump-meet-with-volodymyr-zelenskyy-in-may-2026": {
+    "id": "2117211",
+    "conditionId": "0x89dfaf25181bdb94d5653a6acd2841bf167171b8112f1034efc0596f7cea7836",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "will-trump-meet-with-mohammed-bin-salman-in-may-2026": {
+    "id": "2117213",
+    "conditionId": "0x656c19f9961cb16a785890ff6d7945ec5b901ff7dc241262638f5fe90b15c330",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "will-trump-meet-with-vladimir-putin-in-may-2026": {
+    "id": "2117214",
+    "conditionId": "0x5dc9112cfc34394e7a2b114f95ecaccf4232abddaad9ec5a458436f848be45ed",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "will-trump-meet-with-keir-starmer-in-may-2026": {
+    "id": "2117215",
+    "conditionId": "0x5ef4ad1d6c4974fec695ff2be03e6bf26617724aaf3b1eff92e40a902d745721",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "will-trump-meet-with-giorgia-meloni-in-may-2026": {
+    "id": "2117217",
+    "conditionId": "0xbee5cbe4b465955da3307331eb1ad004e5c1b3954a4e3c7c7002146157c6eaa5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "will-trump-meet-with-benjamin-netanyahu-in-may-2026": {
+    "id": "2117219",
+    "conditionId": "0xb1c917004a8288fe1f3cb0771000235c1146af6e915d36e3385cfde1f878755b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-meet-with-in-may",
+    "negRisk": false
+  },
+  "us-evacuates-beirut-embassy-by-june-30": {
+    "id": "2117273",
+    "conditionId": "0x3b6fb103f3376484ad3b44577b96079662aeb6c3c08e943ffad34758287e4a5f",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-evacuates-beirut-embassy-by-june-30",
+    "negRisk": false
+  },
+  "will-riyad-mahrez-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117277",
+    "conditionId": "0x4a88018b65c0bd1cd843cdb68e50c3c89415aec1910edee8473b4495502c828e",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-rodrigo-de-paul-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117278",
+    "conditionId": "0xd4398776f1aeaf0f2777772a0b3c10de9b6128d1c97715be0738cb7ad1e9372b",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-ajdin-hrustic-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117279",
+    "conditionId": "0xcc8966afd23c2091e701c3abe8c77ca97805f39d22998ff83ad8e85a23d89d63",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-marcel-sabitzer-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117280",
+    "conditionId": "0x6f17b23380fc30f3a2d9cc29668ee2c200ce94f83e92a6319b6471cbb821d7b0",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-kevin-de-bruyne-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117281",
+    "conditionId": "0xc9a2d79e6e68e3c71bb19d7ca43bfed7745a01ba5e5293d11ee7cbb66235fd2c",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-ermedin-demirovi-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117282",
+    "conditionId": "0x5ec0a19de6320c5c6d8eae0d416757ab5913af0ce9961e1de0753fdd20c551c7",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-raphinha-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117283",
+    "conditionId": "0x41dedabb08481eaacc5f4edf45e3c33d4b4f8ce2fbf86dcb7555baa793f8c437",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-alphonso-davies-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117284",
+    "conditionId": "0x6be0d68d6fb5722be706e01911fff710631b66e94520764ff3191ea4716fdc8f",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-ryan-mendes-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117285",
+    "conditionId": "0xaf1c35be3b10868cb298dc207ebcbd8e98081543e49d25af6f98dabbc3ef0a15",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-luis-daz-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117286",
+    "conditionId": "0x52b53d6e4c30ddc135e9e3348d222e7197b832b95b10977185ab67ceef3bb1a0",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-luka-modri-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117287",
+    "conditionId": "0xfa19bd4807c314009a1ab0c5283514b1c0fe153320921d9b8b35d01ae05dc505",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-leandro-bacuna-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117288",
+    "conditionId": "0xf2cfbdd1e0e063d6f6bb3a46c54e3939765820823f209c028fbf3e7739d9361a",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-adam-hloek-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117289",
+    "conditionId": "0x23911d660befb6b6217cd11e5930533ecefd49a691935dae56d978aa0b0c82b9",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-cdric-bakambu-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117290",
+    "conditionId": "0x0f1014bf857d302f504e24631841af5f3447fbe203ef7c89c78e01b032d49279",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-gonzalo-plata-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117291",
+    "conditionId": "0x1005a6a3c4bc556307ad4c9179195693489f61243dbd0be8f57e1bc9b07b7392",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-mohamed-salah-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117292",
+    "conditionId": "0x89515e99b7e5705419b4e171bf14c7af15edbebaa19717f88e11d1bc2c996cb7",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-bukayo-saka-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117293",
+    "conditionId": "0x64c073a3af2b1db584c3b2f95c9dc8cd9e2d9cf08f1acfe4a0716c4889a26998",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-michael-olise-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117294",
+    "conditionId": "0x82d457585e0d9adb37ed33cfcc630a896a962077c098ddaf40f2a5a89cdb5c68",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-florian-wirtz-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117295",
+    "conditionId": "0xa8c1e05e2577a7fadcec029684b475284989b778fd9c5fcc18ea5f7ea8a40ab8",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-mohammed-kudus-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117296",
+    "conditionId": "0x30978cfd99c525aeeb50f7924a4db36f7b030e88981a25d75f249eecf7344137",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-frantzdy-pierrot-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117297",
+    "conditionId": "0xd08387deeae125bb1b1180d12bd43c636d85109e209124215378ae4be7aef56d",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-mehdi-taremi-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117298",
+    "conditionId": "0x2a721db80e89cb5aac99a15fbc0bba5e47e29552f3760f91edbb8d244d343263",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-aymen-hussein-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117299",
+    "conditionId": "0xb652e70f7f48fc3a1350a53f9b86f9322decf13f3953a85018cc931971a42074",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-simon-adingra-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117300",
+    "conditionId": "0x5fc2cd49989d158500833ba49220cfd4e4dafc0bd0febfc86eb34ef252a3f9ec",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-kaoru-mitoma-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117301",
+    "conditionId": "0xcc0a183840469bcc79384f63ce0e6bd8620db39b3282e1b7b52c8c32888c3713",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-musa-al-taamari-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117302",
+    "conditionId": "0x7d5e86b499f121ada6342bcc1949ede997b80dd7f958a00fb78990b6eccfdfca",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-alexis-vega-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117303",
+    "conditionId": "0xe8dcdbd77a84261eb01e13f76d37d1d00913613575c8a8c352925484211720f7",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-achraf-hakimi-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117304",
+    "conditionId": "0x695184a0ba68a57337c968832c980fabebdb51db4b5bbdde42a7dbbf31b18eb2",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-xavi-simons-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117305",
+    "conditionId": "0x155f79050b6b2b71e47c9be33b45f08c93eca73431a8e8e628dab894cadc5533",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-liberato-cacace-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117306",
+    "conditionId": "0x013197e476509c978f1f20a241b581cd7891d281285d4edf4aefebf77f04e3e4",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-martin-degaard-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117307",
+    "conditionId": "0xf4d1b6d526a9f1bad7d6e606152946c9f8539d415efe053668c991f29a976e13",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-ismael-daz-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117308",
+    "conditionId": "0x4d7ade193c5da0db17eb81fddd810eb31c16215e637f6046a520d08b4e956618",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-miguel-almirn-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117309",
+    "conditionId": "0x474bd679c3aea938a31184ea1f93cdaff0740c24c7d4ccf612d57343b2b67672",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-bruno-fernandes-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117310",
+    "conditionId": "0xa6c0e100b2270447d56d3d50b580adc65ca5731e8a26098cddbac1334723c124",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-akram-afif-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117311",
+    "conditionId": "0x9366d1288603eb08ea926e35ff39600464516a91ca2f03736fb6310c2e3eac88",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-salem-al-dawsari-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117312",
+    "conditionId": "0xfc2e99ac2d3fa45766e877c7d80a367ba0a885763352c14cf82b6a9e70d50ec6",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-andy-robertson-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117313",
+    "conditionId": "0xdb715354471980935600f90b4ed823c578cb23a1c377093d7517713e2cad515d",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-ismala-sarr-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117314",
+    "conditionId": "0x21d1268e9a749236ccccddc8504c7a623874260b01532913ba0071fc4b930a5d",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-percy-tau-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117315",
+    "conditionId": "0x398df1e86f0a3a8ecabd77e04411ea173cf583c0d8655b7131d5fce4adf73a53",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-son-heung-min-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117316",
+    "conditionId": "0xa51df3e1939540b3df4fe665cef18f359e449a080fa27acbe8c14c60514d455c",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-lamine-yamal-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117317",
+    "conditionId": "0x581f25d832bf07ce93cd536b8e80c145d65caa386d52717833dcc7f0a070873d",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-dejan-kulusevski-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117318",
+    "conditionId": "0xe675a0f81012e6162d6d5b209e2b5880cc6625cb7bcebd533eaa6910c2ac072e",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-granit-xhaka-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117319",
+    "conditionId": "0x5ded3855a4d40a790e9bf7e2efb9d19bcb7c4aea994e0bd319fce3b3eb93142e",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-hannibal-mejbri-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117320",
+    "conditionId": "0xf3485079357358ef390faef27da7c2d7c6cdf75f386957d264164f14db229e44",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-hakan-alhanolu-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117321",
+    "conditionId": "0xfb4bdd6054941d22641864bc39fa8531093e5a336687594d2547629670b44712",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-federico-valverde-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117322",
+    "conditionId": "0x792d45eb0bf1b999f276a2b53b6ac09330fea0caa89c56f7ab739501c5a4500e",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-antonee-robinson-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117323",
+    "conditionId": "0xb5007ab258d30fb8e0a58561508bd1b32fe5b401ca198943f1a0107f9092c270",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "will-eldor-shomurodov-record-the-most-assists-at-the-2026-fifa-world-cup": {
+    "id": "2117324",
+    "conditionId": "0x854ccafa223fa2fc84e8415d7fbe577219d26c4d3c8acbc0d5fe375d619e27c2",
+    "endDate": "2026-08-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-assists",
+    "negRisk": true
+  },
+  "pakistan-x-afghanistan-ceasefire-by-june-30": {
+    "id": "2117401",
+    "conditionId": "0x52561a683fe139cffdf3d4610cf17696cd9cbde149dbfc1c5752b926b2ac9b09",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pakistan-x-afghanistan-ceasefire-by-march-31",
+    "negRisk": false
+  },
+  "will-national-party-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117402",
+    "conditionId": "0xcfad7d1f764b2169283dbc5395b0bab10e8fc7ad76c77b12830cd45886ff5554",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-3rd-place",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117403",
+    "conditionId": "0x54848bfac89a357e2bbf827f478ee7f5a49651c151f8bddc559a0ad28e07940e",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-3rd-place",
+    "negRisk": true
+  },
+  "will-green-party-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117404",
+    "conditionId": "0x4f1fefaa7c8d7ecedab0fd6c9a2e5959f563146335cc1c4afa0a89a02b39dd8f",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-3rd-place",
+    "negRisk": true
+  },
+  "will-act-new-zealand-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117405",
+    "conditionId": "0xb7532cf2879252f699184d2f4bb2ded7ab8953fc1e22246814c9b753cac855d9",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-3rd-place",
+    "negRisk": true
+  },
+  "will-new-zealand-first-party-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117406",
+    "conditionId": "0x8100de08cd077e7c921d3bbd07264f19c9115ed35ac8f3c348b446ee775adb7b",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-3rd-place",
+    "negRisk": true
+  },
+  "will-te-pti-mori-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2117407",
+    "conditionId": "0x84ddac4a936a297e81964fcdb9edfadaa9644cf20465ad7411f050ce535fde1c",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-3rd-place",
+    "negRisk": true
+  },
+  "will-trump-visit-north-korea-by-june-30": {
+    "id": "2117443",
+    "conditionId": "0x0ec47e6c3df4735e16169f4058905059f795707ec7f771b5d1118fd4fdb6cb4f",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-trump-visit-north-korea-by-june-30",
+    "negRisk": false
+  },
+  "will-gustavo-petro-be-charged-in-the-us-by-june-30": {
+    "id": "2117444",
+    "conditionId": "0x4e06c069b48206b138c70caf6ff03a2dbf5796d3d0c4e66bd96d583cec984910",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gustavo-petro-be-charged-in-the-us-by-april-30",
+    "negRisk": false
+  },
+  "cs2-ge3-9daplu-2026-04-29-game1-odd-even-total-kills": {
+    "id": "2117451",
+    "conditionId": "0x90f44a338c09bbd34fc4b1ca6ce7ee74157a5587dbaf90787b4e01a720194752",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ge3-9daplu-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-ge3-9daplu-2026-04-29-game1-odd-even-total-rounds": {
+    "id": "2117452",
+    "conditionId": "0x7625f63110824798c5390ccb0493c0e77dc646819c5572d728d439f414683af8",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ge3-9daplu-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-ge3-9daplu-2026-04-29-game2-odd-even-total-kills": {
+    "id": "2117453",
+    "conditionId": "0xefc6b4d5a62f5102643877986c0cb50fb8fc9c9877a71254286918d429909a98",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ge3-9daplu-2026-04-29",
+    "negRisk": false
+  },
+  "cs2-ge3-9daplu-2026-04-29-game2-odd-even-total-rounds": {
+    "id": "2117454",
+    "conditionId": "0xdb1a3ca9b74377aae22dcd999697256b7480d1c5d6c5338f422890c11b961890",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ge3-9daplu-2026-04-29",
+    "negRisk": false
+  },
+  "will-riyad-mahrez-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117892",
+    "conditionId": "0xeff1b388b792664808adffa31341b1127e2f9419ee9192a744b0abb5b1b475ef",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-lautaro-martnez-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117893",
+    "conditionId": "0xb1ffbfa31f55ac9101a4703bf65749b4b9f26596868ed0d43ea6c685db3fe751",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-martin-boyle-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117894",
+    "conditionId": "0x4865479544730da6bf771a4352b8e031b09f46f14d2b0b0ec291ff91c818eafc",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-christoph-baumgartner-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117895",
+    "conditionId": "0x4ca4c1466fde09f99346da65226cd3a4c5ab9520fc56cfccd8cbaa72ec4c9d9d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-romelu-lukaku-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117896",
+    "conditionId": "0x20f5914d9152ab5f649c6fc9142db2b907c4e83a9e0383dd40f027c83485c54f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-ermedin-demirovi-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117897",
+    "conditionId": "0x9970c7196bee177d705f2b5dfb659204dfc26124b797cf078b80f989af1621d8",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-raphinha-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117898",
+    "conditionId": "0xba1980f9f03621bfa9278074d33b1e451f61b16159565c1ec120f8cbfab4306a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-jonathan-david-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117899",
+    "conditionId": "0x5731d970c6324aa57bb07d9ef4f60f00b04de446932cb0ff525da50926d82429",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-julio-tavares-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117900",
+    "conditionId": "0xde8cb8a997bfcdf9e7e7ab19fbb107c8b6ee45708b39501398d17ac8a171b4c8",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-luis-daz-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117901",
+    "conditionId": "0xdbb95b95d82e5a940473a734e0dd6011e9bb5b86da82174e09e9dfdd3ef0a60b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-andrej-kramari-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117902",
+    "conditionId": "0x5a10ae99d9739de040cad2e146024d4d98fb95644681d7a05ad58feb183cf402",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-leandro-bacuna-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117903",
+    "conditionId": "0x0b617716b8cd279f46a7fff26a631fda8bba6bd420b57b850cbede6c11c937a3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-ondej-duda-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117904",
+    "conditionId": "0x2d483780a4efa8106df14a35520dbd2e3f9812e1c9a7d3f10910c215a52f5ddd",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-cdric-bakambu-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117905",
+    "conditionId": "0xcafaca16589ea688c3fc4cd7198bce2d02efd0fb4e9aa57d7c494946e1a8a631",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-enner-valencia-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117906",
+    "conditionId": "0x6c10654178d9b6751f2377e37055164636564e4c3e912f2e64e32c4551cd8a86",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-mohamed-salah-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117907",
+    "conditionId": "0x70a574f54380fa7ed6e2de1abee5758447b4290d15d5614eeeb4a3767f41d716",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-harry-kane-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117908",
+    "conditionId": "0x2e1a9087073f52e91b2792f0b69dcabf5617c6b1f63af1004b9a0fed9d6a4937",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-kylian-mbapp-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117909",
+    "conditionId": "0xe973a0ad56ba34349854cd9cfb23be1d8cc57e9479d24891f2517bdf99ded943",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-jamal-musiala-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117910",
+    "conditionId": "0xba273c62ccfa3d0f96354729f4ff4ada03e1b079f2c5a53b4b8bb645353b7d2b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-mohammed-kudus-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117911",
+    "conditionId": "0xc82e295e6242dde2f79f19c73afc1690b36db0345b6b727fce30a475a9644165",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-frantzdy-pierrot-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117912",
+    "conditionId": "0xe34dcaf51202af685c6750224dbe09c780a274d3b7ec6c1d9142a6b7a98dfaef",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-mehdi-taremi-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117913",
+    "conditionId": "0x427b706e9541eb631df4b6dd5790fbdcbade0487cfca4db1402fb0a40d6b577e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-aymen-hussein-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117914",
+    "conditionId": "0x00a1f67a0d212026e17d751db55382c3380e76c8c0b1654c1a5aeaafd49781c3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-sbastien-haller-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117915",
+    "conditionId": "0xa3554a0fecf77c9fb9603eb2a457462c425ce710b086ceb2a5c5934ac1f2ab20",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-kaoru-mitoma-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117916",
+    "conditionId": "0xa6e9ff7706e56b8bd98ae509209ef3b5472562079334b76abff29257c2400054",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-musa-al-taamari-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117917",
+    "conditionId": "0xff1b403f47a48f781c5c02f8ce2a0e5b600fffeb5c5458d187c423cfa21e706e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
   }
 }
