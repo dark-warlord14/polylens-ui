@@ -34179,29 +34179,9 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-casper-ruud-win-the-2026-mens-french-open": {
-    "id": "1087520",
-    "conditionId": "0x018b3300ac367451ac9282425942e775f1015bb3c72b8a483153593bdb550b6e",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-jakub-mensik-win-the-2026-mens-french-open": {
     "id": "1087521",
     "conditionId": "0x40d85bb0c07156d8078ed03df11bea9aff0c6700a5186c9848307f00503b2060",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-andrey-rublev-win-the-2026-mens-french-open": {
-    "id": "1087532",
-    "conditionId": "0x5fd7a14573c76aff95dee08cc00dbc0e87a6c7ba374bad1300e9aff5f0b98611",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -41963,106 +41943,6 @@
     "eventSlug": "cdc-issues-level-4-warning-by-december-31-647",
     "negRisk": false
   },
-  "will-rue-bennett-die-in-euphoria-season-3": {
-    "id": "1220614",
-    "conditionId": "0x30b8e5f4f3670e9be29c36be3826cbdf86e24b4e71ad7c752bf1f3a072d6da03",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-jules-vaughn-die-in-euphoria-season-3": {
-    "id": "1220615",
-    "conditionId": "0x1da7aca33abbb2e62493bd43feda72d723888a83979cb166d68abce04794b7db",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-lexi-howard-die-in-euphoria-season-3": {
-    "id": "1220620",
-    "conditionId": "0x9121e8c618c5bda91192f6c4f76a5179bbd43cf250967948b10f9aa7f8c3131d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-cassie-howard-die-in-euphoria-season-3": {
-    "id": "1220622",
-    "conditionId": "0x5110deaae9d4e815f8a9c79afa932ba7d8df3494fdc5be8379e75dc8a58c5604",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-maddy-perez-die-in-euphoria-season-3": {
-    "id": "1220624",
-    "conditionId": "0x5dc4a87db81b947b62518e64840ad34f30acf69449ab0cad53ea2fb262d3071d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-nate-jacobs-die-in-euphoria-season-3": {
-    "id": "1220625",
-    "conditionId": "0xe29494b99ca89d6f65017a30bd5507af551533f30c2715205c37fd1be7d3dee0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-elliot-die-in-euphoria-season-3-137": {
-    "id": "1220632",
-    "conditionId": "0x180daa2c20ea71d163c2aba7bdbb7277acdff11b381123b6b24136a2549ef5a2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-faye-die-in-euphoria-season-3-865": {
-    "id": "1220634",
-    "conditionId": "0x2666174d59b0066cf45a0cb06391f7830ac01b97f17c0ff27263f6db0d4f738d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-cal-jacobs-die-in-euphoria-season-3-193": {
-    "id": "1220635",
-    "conditionId": "0xf530b2b6339922008935a59da78d4ca76962e919950e7079669c2db3cdc031c8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
-  "will-ethan-daley-die-in-euphoria-season-3": {
-    "id": "1220642",
-    "conditionId": "0xb5a2d1c6a62269a87adc690f8fc20beeeac3c3cddb0f95f3d78dd9cc5041b88a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-die-in-euphoria-season-3",
-    "negRisk": false
-  },
   "kylie-jenner-confirmed-pregnant-in-2026": {
     "id": "1221978",
     "conditionId": "0x9f0d30a0f21fba00891dd1f9d20df4ae1347e8b8e3eb754fb54c16f017e7da01",
@@ -43381,56 +43261,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "mar1-wac-asf-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-kaa-ocs-2026-01-26-total-1pt5": {
-    "id": "1252542",
-    "conditionId": "0x8d492bb3b19bd483b13f463f64f3524330a1aa9c2863ede5fc6d7e4d01e5350d",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-kaa-ocs-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-kaa-ocs-2026-01-26-total-2pt5": {
-    "id": "1252543",
-    "conditionId": "0xd68fdf24f0b58ce0b8254c2c7cd795f4d55741af753228d95eb47fcc90ed5b5c",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-kaa-ocs-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-kaa-ocs-2026-01-26-total-3pt5": {
-    "id": "1252544",
-    "conditionId": "0x6930ac5076306bc58ee5c2acbc984279b2036b7b881d3691053415a3dda76639",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-kaa-ocs-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-kaa-ocs-2026-01-26-total-4pt5": {
-    "id": "1252545",
-    "conditionId": "0x63fe8423e094333aeba0c694cea9b617edbc01fdf2797c480c48568d5c6a84b3",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-kaa-ocs-2026-01-26-more-markets",
-    "negRisk": false
-  },
-  "mar1-kaa-ocs-2026-01-26-btts": {
-    "id": "1252546",
-    "conditionId": "0x90f8a93472571abd370d88d86fab939f0adfb0deb4896195f3bdf84eedebe188",
-    "endDate": "2026-01-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mar1-kaa-ocs-2026-01-26-more-markets",
     "negRisk": false
   },
   "100-tariff-on-canada-in-effect-by-june-30": {
@@ -71322,16 +71152,6 @@
     "eventSlug": "will-olivia-rodrigo-release-a-new-original-album-by-august-31",
     "negRisk": false
   },
-  "israel-strike-on-yemen-by-may-31-2026-588-747-911": {
-    "id": "1641496",
-    "conditionId": "0x250716ecd25235530ba4dbd1fa0acf6ab92ab05cf5347e25fc86c4384ef1cecb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "israel-strike-on-yemen-by-593",
-    "negRisk": false
-  },
   "will-either-tate-brother-be-arrested-by-june-30": {
     "id": "1641626",
     "conditionId": "0x5005adaac0211b84ff06ec99ab507f9b79fcb5305b7794ad1d512cf40364eaa6",
@@ -72940,16 +72760,6 @@
     "eventSlug": "will-elon-musk-buy-onlyfans",
     "negRisk": false
   },
-  "will-the-iranian-regime-fall-by-may-31": {
-    "id": "1707932",
-    "conditionId": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-the-iranian-regime-fall-by-may-31",
-    "negRisk": false
-  },
   "will-reza-pahlavi-enter-iran-by-may-31": {
     "id": "1707943",
     "conditionId": "0xcfeec50a34d9429bfdc60d180f391b828924b88bd40c5b2361a43b7375b7a533",
@@ -72960,16 +72770,6 @@
     "eventSlug": "will-reza-pahlavi-enter-iran-by-june-30",
     "negRisk": false
   },
-  "mojtaba-khamenei-seen-in-public-by-may-31": {
-    "id": "1707993",
-    "conditionId": "0xabef6d91adc036f3c2e0fa52f72dd0654ee8fba07974e06ec762a27c37b58e9f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mojtaba-khamenei-public-appearance-by",
-    "negRisk": false
-  },
   "kharg-island-no-longer-under-iranian-control-by-june-30-561-854": {
     "id": "1708086",
     "conditionId": "0x6897736d782ce70f47126dfcec6669073f563d6e757e60bc61c0367370d6f73e",
@@ -72978,26 +72778,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kharg-island-no-longer-under-iranian-control-by-march-31",
-    "negRisk": false
-  },
-  "kharg-island-no-longer-under-iranian-control-by-may-31-689": {
-    "id": "1708109",
-    "conditionId": "0xa1d97efb8a19de58d995edf58b882c4f99ef356c8a564af8daf888a7610edea1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "kharg-island-no-longer-under-iranian-control-by-march-31",
-    "negRisk": false
-  },
-  "iran-leadership-change-by-may-31-593-194-829": {
-    "id": "1708132",
-    "conditionId": "0x2f6a547524c1d290f8a2bbff80be2b0e8ca1b3b716dd3a0e74bf8ddb3e3fd6b7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iran-leadership-change-by",
     "negRisk": false
   },
   "iran-leadership-change-by-june-30-689-922": {
@@ -76758,16 +76538,6 @@
     "eventSlug": "cs2-mis-pre-2026-04-02",
     "negRisk": false
   },
-  "cs2-mis-pre-2026-04-02-game2-odd-even-total-kills": {
-    "id": "1788992",
-    "conditionId": "0xe95792ada482bb4dc7e905bb944858f66c54d31bb5040f05d476ad42bbc34055",
-    "endDate": "2026-04-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-pre-2026-04-02",
-    "negRisk": false
-  },
   "cs2-mis-pre-2026-04-02-game3-odd-even-total-kills": {
     "id": "1788996",
     "conditionId": "0xc8cff2044f606acb8d4590975b1e79f8397fb757f8fa6e96247561c2a75346ca",
@@ -76776,26 +76546,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-mis-pre-2026-04-02",
-    "negRisk": false
-  },
-  "cs2-aab-inf6-2026-04-02-game2-odd-even-total-kills": {
-    "id": "1789014",
-    "conditionId": "0x1db86b97d7f758c90bd109f80afeb888787e099c1a516d44f576f6fa5e89970d",
-    "endDate": "2026-04-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-inf6-2026-04-02",
-    "negRisk": false
-  },
-  "cs2-aab-inf6-2026-04-02-game3-odd-even-total-kills": {
-    "id": "1789018",
-    "conditionId": "0xc9c7b36beac09bb2fe5214b662c9c45117dd4bcf9f815cf59fab56ad2fed0cad",
-    "endDate": "2026-04-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-inf6-2026-04-02",
     "negRisk": false
   },
   "ng-up-or-down-on-march-31-2026": {
@@ -76876,16 +76626,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "will-clavicular-be-banned-from-kick-by-may-31": {
-    "id": "1794632",
-    "conditionId": "0x0ad58146bdd9f58ad5c6e3a942cbae968d9adc8ad3f88247e6aa0faf93bc3b17",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "clavicular-banned-from-kick-by",
     "negRisk": false
   },
   "doug-ford-out-as-pc-party-leader-by-december-31": {
@@ -77198,26 +76938,6 @@
     "eventSlug": "kristi-noem-divorce-by-august-31",
     "negRisk": false
   },
-  "cs2-reda-bsta-2026-03-31-game1-odd-even-total-kills": {
-    "id": "1808480",
-    "conditionId": "0x06bd1369e47e4a00856b5b8f29064c0ffaf6d3aa465240947f4cf9587628e756",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-reda-bsta-2026-03-31",
-    "negRisk": false
-  },
-  "cs2-reda-bsta-2026-03-31-game2-odd-even-total-kills": {
-    "id": "1808482",
-    "conditionId": "0x320e679efb22a728cc6eb6eca6d5b29fa7b9d0133d21f7df1824d399b745c497",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-reda-bsta-2026-03-31",
-    "negRisk": false
-  },
   "fed-rate-hike-by-june-2026-meeting": {
     "id": "1808545",
     "conditionId": "0x2dd232eb66334eaf3e232c3b834e072ae1ee320d0bc1ad55ab4ed47be71eeddf",
@@ -77266,36 +76986,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ipos-before-2027",
-    "negRisk": false
-  },
-  "will-israel-launch-a-ground-operation-in-iran-by-may-31-2026": {
-    "id": "1808927",
-    "conditionId": "0x84dbc9b70121e40e84a05a0d3b8c1d3bc2f35d4da87b8082d11c99c58f124891",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "israel-ground-operation-in-iran-confirmed-by",
-    "negRisk": false
-  },
-  "us-obtains-iranian-enriched-uranium-by-may-31-396": {
-    "id": "1808970",
-    "conditionId": "0xbcacd5a055f5a9ced6f69f122216c073dd6987d08253fc07bbcc168fa5b81d55",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-obtains-iranian-enriched-uranium-by",
-    "negRisk": false
-  },
-  "evo-morales-arrested-by-may-31": {
-    "id": "1809064",
-    "conditionId": "0x34754b217c530433402b30f238fee045760592c93c06f977b0a805911005c723",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "evo-morales-arrested-by-may-31",
     "negRisk": false
   },
   "scotus-strikes-down-trumps-birthright-citizenship-eo": {
@@ -81623,16 +81313,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kbo-sam-kia-2026-04-09",
-    "negRisk": false
-  },
-  "will-mara-corina-machado-enter-venezuela-by-may-31": {
-    "id": "1845280",
-    "conditionId": "0x672088cca71a2ebd6743bef78eea08779df49de1fb27b3437af0c777abed3c40",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-mara-corina-machado-enter-venezuela-by-january-31",
     "negRisk": false
   },
   "will-mara-corina-machado-enter-venezuela-by-june-30": {
@@ -86515,16 +86195,6 @@
     "eventSlug": "cs2-inf6-aab-2026-04-08",
     "negRisk": false
   },
-  "will-ukraine-re-enter-myrnohrad-by-may-31": {
-    "id": "1909460",
-    "conditionId": "0x5092e89f561ed9317a8ed1dabf7421bd4d729477767aed9efac9fff1ac2a8eb9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ukraine-re-enter-myrnohrad-by-may-31",
-    "negRisk": false
-  },
   "tucker-carlson-announces-a-run-for-office-by-june-30": {
     "id": "1909801",
     "conditionId": "0x1f74be33763a1d376d4b954b8a35016cbfd1152ccd369ab49915ac24c0f163b0",
@@ -87357,26 +87027,6 @@
   "will-felix-auger-aliassime-win-the-2026-roland-garros-mens-singles": {
     "id": "1920459",
     "conditionId": "0x197b5701a4dda923783016fff3302e7cdcb9f3895bbb17f3b75c83414ace97c6",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-casper-ruud-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920464",
-    "conditionId": "0x431588150ce3babe78d8d03e8eb68fdd5924d33ec011effe30e9ed5237d140c7",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-andrey-rublev-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920467",
-    "conditionId": "0x610171c121a7ea1ad9c358cbdfe6c69346fa09c8ce1e8ca387ffa872d2b68af4",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -89864,26 +89514,6 @@
     "eventSlug": "lol-blg-jdg-2026-04-14",
     "negRisk": false
   },
-  "cory-mills-out-as-us-rep-by-may-31": {
-    "id": "1969907",
-    "conditionId": "0xe02be708711f71fe7a0b84b877bbbe578a26939ee1ff19f4d7872a4e5ef19087",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cory-mills-out-as-us-rep-by-may-31",
-    "negRisk": false
-  },
-  "swalwell-mills-gonzalez-and-cherfilus-mccormick-all-out-by-may-31": {
-    "id": "1970172",
-    "conditionId": "0x60b924763517867984f72010aaa88f0f868af28d5507db6d6d16ff38e4e4d69b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "swalwell-mills-gonzalez-and-cherfilus-mccormick-all-out-by-may-31",
-    "negRisk": false
-  },
   "will-spacex-ipo-by-august-31-2026": {
     "id": "1971078",
     "conditionId": "0x9c01bea9b869ca2acb0c28efa8bbaba184f807c3c3cd9bccaad9e6022dfc8a19",
@@ -90032,16 +89662,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-    "negRisk": false
-  },
-  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459-589-533": {
-    "id": "1972137",
-    "conditionId": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by",
     "negRisk": false
   },
   "will-cursor-be-acquired-before-2027-459": {
@@ -90452,26 +90072,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-russia-capture-dovha-balka-by",
-    "negRisk": false
-  },
-  "will-russia-capture-huliaipilske-by-may-31": {
-    "id": "1973506",
-    "conditionId": "0x507778a87154b57f270d65de0b08f4471c8ed1f20d6eadf70a037b3519ad241c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-huliaipilske-by",
-    "negRisk": false
-  },
-  "will-russia-enter-moskovka-by-may-31": {
-    "id": "1973623",
-    "conditionId": "0xe28aa43569c3899a137f7577659aaee52d33725d06cb695f9ee459ae85788fe3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-moskovka-by",
     "negRisk": false
   },
   "will-alexandra-van-cleef-be-the-republican-nominee-for-fl-06": {
@@ -92234,16 +91834,6 @@
     "eventSlug": "will-tmz-be-granted-a-white-house-press-badge",
     "negRisk": false
   },
-  "eric-swalwell-arrested-by-may-31": {
-    "id": "1984698",
-    "conditionId": "0x1340e5144fc76cf2cf325cc9d2b8f533bacc6e841853b842adb6d724a2257eb4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "eric-swalwell-arrested-by-may-31",
-    "negRisk": false
-  },
   "united-x-american-airlines-merger-announced-in-2026": {
     "id": "1985178",
     "conditionId": "0xaf62da76bbaea9f83a75e4f96ee8df0e8956634f17f3190f3f1e32a9eb81d714",
@@ -92262,16 +91852,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ruben-gallego-out-as-us-senator-by-may-31",
-    "negRisk": false
-  },
-  "eric-swalwell-charged-by-may-31": {
-    "id": "1985490",
-    "conditionId": "0x70bb7a6224afdb47ea092efa1338efc17031a770ca5ce54b62ce553aea94d87f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "eric-swalwell-charged-by-may-31",
     "negRisk": false
   },
   "will-donald-trump-attend-the-next-us-x-iran-diplomatic-meeting": {
@@ -93654,16 +93234,6 @@
     "eventSlug": "sanae-takaichi-out-as-prime-minister-of-japan-in-2026",
     "negRisk": false
   },
-  "will-another-canadian-mp-cross-the-floor-by-may-31-2026": {
-    "id": "1993973",
-    "conditionId": "0xfc00acbeb4e7bad172e4e49cd0f0826f667d8b21e0f7475cce4712f8d5d95dff",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-canadian-mp-crosses-the-floor-by",
-    "negRisk": false
-  },
   "california-stop-nick-shirley-act-becomes-law-by-june-30": {
     "id": "1994106",
     "conditionId": "0x63853e94939c4aa6baf12d0a7f35bcc14b7f6eebc4e161ba9a73aecfb64bbb9a",
@@ -93982,16 +93552,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "peru-general-election-invalidated-by-june-30",
-    "negRisk": false
-  },
-  "will-trump-visit-pakistan-by-may-31": {
-    "id": "1999843",
-    "conditionId": "0x2017a6a234f761d6a44be17094ecf247d7d1e706024edbef59d6391a3c19e1b2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-visit-pakistan-by-april-30",
     "negRisk": false
   },
   "will-an-anthropic-claude-model-score-at-least-50-on-humanitys-last-exam": {
@@ -95053,16 +94613,6 @@
     "acceptingOrders": true,
     "eventSlug": "president-of-andalusia-after-election",
     "negRisk": true
-  },
-  "israel-x-hezbollah-permanent-peace-deal-by-may-31-2026": {
-    "id": "2002531",
-    "conditionId": "0xc792f8824ef9bb549a4f5d89eec898caefdd3df5a507783f80202d289e9130ea",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "israel-x-hezbollah-permanent-peace-deal-by",
-    "negRisk": false
   },
   "israel-x-iran-permanent-peace-deal-by-june-30-2026-262": {
     "id": "2002564",
@@ -97353,16 +96903,6 @@
     "eventSlug": "will-the-us-confirm-that-aliens-exist-before-2027",
     "negRisk": false
   },
-  "will-the-us-confirm-that-aliens-exist-by-may-31": {
-    "id": "2034747",
-    "conditionId": "0xcddc048c672ee233890b99b18885dbd510e3db3d67c53afb408ddc93f9aadff4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-the-us-confirm-that-aliens-exist-before-2027",
-    "negRisk": false
-  },
   "cs2-old-old1-2026-04-20-game1-odd-even-total-kills": {
     "id": "2034770",
     "conditionId": "0x74aa5aa141737a94d1db9b2097ff49d533cf9aaaf4e80c5914a23684a705aab0",
@@ -97383,16 +96923,6 @@
     "eventSlug": "will-russia-capture-myropillia-by-may-31",
     "negRisk": false
   },
-  "will-russia-capture-verkhnia-tersa-by-may-31": {
-    "id": "2035615",
-    "conditionId": "0xcefc3175b80e9f157e06088f610447ff2a172aaadc620c1632f8ff92ac68d37c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-verkhnia-tersa-by-may-31",
-    "negRisk": false
-  },
   "hailey-bieber-pregnant-in-2026": {
     "id": "2035726",
     "conditionId": "0xc496ee9f54964fcba972e2d774f7d069f067b3631985837b34806e7eeb68e2ea",
@@ -97411,16 +96941,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "fisa-section-702-reauthorized-before-it-expires-419",
-    "negRisk": false
-  },
-  "gaza-flotilla-enters-israeli-waters-by-31": {
-    "id": "2036170",
-    "conditionId": "0x0ceab60f9942ddccac459fb4a5ac5505e4757874e974e9fbf513ec782c587c5d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gaza-flotilla-enters-israeli-waters-by-31",
     "negRisk": false
   },
   "bol1-str-ori-2026-05-17-str": {
@@ -101094,16 +100614,6 @@
     "eventSlug": "cs2-ksm-algo1-2026-04-24",
     "negRisk": false
   },
-  "another-7pt0-or-above-earthquake-by-may-30-2026": {
-    "id": "2043890",
-    "conditionId": "0xdc1f4454acb0ea3d8c6df00ef2a5dc4fd542fbb6131bd0db04015d29025a729c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-7pt0-or-above-earthquake-by-811",
-    "negRisk": false
-  },
   "will-james-ingram-be-the-republican-nominee-for-mo-06": {
     "id": "2044051",
     "conditionId": "0x24df8884fc389832c40b97248fdd5b7ff77d8044ba7a4919814d8e9d0ee88e67",
@@ -103864,16 +103374,6 @@
     "eventSlug": "will-russia-capture-all-of-prymorske-by",
     "negRisk": false
   },
-  "will-russia-capture-kostyantynivka-by-may-31": {
-    "id": "2047653",
-    "conditionId": "0xc13c31b0e5d48e978cc5c66318659ecab10e9882543e87a5f4eea5a5f889bdc2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-kostyantynivka-by",
-    "negRisk": false
-  },
   "will-ukraine-re-enter-uspenivka-by-may-31": {
     "id": "2047669",
     "conditionId": "0x03c903334fa2d1cffd5cc844cf081f401aeb0fcc976cbb14374a97be2cd18888",
@@ -104124,36 +103624,6 @@
     "eventSlug": "anyone-charged-over-splc-extremism-funding",
     "negRisk": false
   },
-  "will-russia-capture-lyman-by-may-31-2026": {
-    "id": "2053573",
-    "conditionId": "0x976adfce69d6fcdc611255282d78e41716183b78560076fc2f68c6823d814ddc",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-lyman-in-2025",
-    "negRisk": false
-  },
-  "will-russia-capture-all-of-huliaipole-by-may-31": {
-    "id": "2053585",
-    "conditionId": "0xe43234c3b1057bd3ab009403013c3dc85577550fc1cd3b6dcc4187c63174a91d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-huliaipole-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-enter-orikhiv-by-may-31": {
-    "id": "2053587",
-    "conditionId": "0x8d5307555c207515de7f9a5f13cc628814fff5bb5fcea270a9c6caa392565612",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-orikhiv-by-december-31",
-    "negRisk": false
-  },
   "will-russia-enter-orikhiv-by-july-31": {
     "id": "2053595",
     "conditionId": "0xe271ffb9e706a4e589437ffda8dd59b5ed53d98a31e5203698aa62c83b999e0a",
@@ -104162,26 +103632,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-russia-enter-orikhiv-by-december-31",
-    "negRisk": false
-  },
-  "will-russia-capture-all-of-vovchansk-by-may-31": {
-    "id": "2053609",
-    "conditionId": "0xf7ffb48c52e71a70eda74c2982342a3b70832c0eb7ed461a09fad631d62ad3c7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-vovchansk-by",
-    "negRisk": false
-  },
-  "will-russia-enter-novooleksandrivka-by-may-31-2026": {
-    "id": "2053626",
-    "conditionId": "0x6fd1df75a50347e4ec77ce31419d4a672a11485ceeef337cc0fbef6bb1edaf1c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-novooleksandrivka-by",
     "negRisk": false
   },
   "will-russia-enter-dobropillia-by-may-31": {
@@ -104204,16 +103654,6 @@
     "eventSlug": "will-russia-enter-ternuvate-again-by-february-28",
     "negRisk": false
   },
-  "will-russia-enter-vasylivka-by-may-31-2026": {
-    "id": "2053678",
-    "conditionId": "0x90e10022b250ed02d7c16dc159baa4822a4b35f1333e36e2fad968cb26efaf8d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-vasylivka-by",
-    "negRisk": false
-  },
   "jacob-elordi-and-kendall-jenner-confirmed-relationship-by-june-30": {
     "id": "2053699",
     "conditionId": "0xbd90f7771986193f2705528da38e7de246fdeab07ce9b69c272e287cd2445c1f",
@@ -104222,26 +103662,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "jacob-elordi-and-kendall-jenner-confirmed-relationship-by-june-30",
-    "negRisk": false
-  },
-  "will-russia-enter-novyi-donbas-by-may-31": {
-    "id": "2053700",
-    "conditionId": "0x5298a3e5e94c53db578af5b5e66b48e41f0b5accb2781776cfa218c43301fd39",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-novyi-donbas-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-capture-bilytske-by-may-31-2026": {
-    "id": "2053788",
-    "conditionId": "0xfdea893b9de9f4d631fff8b5b68dd30e2b38937260c2f45901c0608c14f9027a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-bilytske-by",
     "negRisk": false
   },
   "zoe-kravitz-and-harry-styles-engaged-by-august-31": {
@@ -104284,46 +103704,6 @@
     "eventSlug": "will-russia-capture-all-of-ternuvate-by-february-28",
     "negRisk": false
   },
-  "will-russia-enter-pokrovskoe-by-may-31-2026": {
-    "id": "2053801",
-    "conditionId": "0x827311c4d623a59749701bbc43d1fe07283fa7a493a26e635bffe439b3f931d0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-pokrovskoe-by",
-    "negRisk": false
-  },
-  "will-russia-enter-mykhailivka-by-may-31": {
-    "id": "2053804",
-    "conditionId": "0x1be7daeb34173ab67d102c576612dbebfc3224198a2729093fcd4808c77b203d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-mykhailivka-by-april-30",
-    "negRisk": false
-  },
-  "will-russia-capture-kupiansk-vuzlovyi-by-may-31": {
-    "id": "2053808",
-    "conditionId": "0xea7f9ecf4d9687877951b704c7d9b763dadff887c4d4042d34ab7102f3e17897",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-kupiansk-vuzlovyi-by",
-    "negRisk": false
-  },
-  "will-ukraine-re-enter-maliivka-by-may-31": {
-    "id": "2053831",
-    "conditionId": "0x8f999c0b54dce9264ca0c60fd62b48eb53ea343df74c87f4801a2979a31f8c07",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ukraine-re-enter-maliivka-by-march-31",
-    "negRisk": false
-  },
   "will-russia-enter-myrne-by-may-31-2026": {
     "id": "2053832",
     "conditionId": "0x9391cd96f6460f60435128788264ad7abf7fc7480a3aef5edec6267d98d531b4",
@@ -104334,46 +103714,6 @@
     "eventSlug": "will-russia-enter-myrne-by",
     "negRisk": false
   },
-  "will-russia-enter-krasnoiarske-by-may-31": {
-    "id": "2053836",
-    "conditionId": "0xbd2a193eba83cf567eec2e0f1754cdea862e6829c89dbc476d7e911ad89e0f33",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-krasnoiarske-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-enter-havrylivka-by-may-31-2026": {
-    "id": "2053848",
-    "conditionId": "0xb63e712c51b4bc1f1845759d36bf12cbfbae34a27687fb79d5e562a73f67aa8e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-havrylivka-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-capture-sofiivka-by-may-31": {
-    "id": "2053849",
-    "conditionId": "0x26592785b3fc7faec42f7d5492da5a8ebed0845d5fe893472067d75430cc0891",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-sofiivka-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-capture-all-of-drobysheve-by-may-31": {
-    "id": "2053864",
-    "conditionId": "0x86b4ee84271d5ed9c77322c4b422c6de6225a14498b0798203320be2b0826599",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-drobysheve-by-march-31",
-    "negRisk": false
-  },
   "will-russia-enter-shevchenko-by-may-31": {
     "id": "2053867",
     "conditionId": "0x999c477e6c9aedeaa28735dc02fe9076f8088a020b2ca329c0acc2d28876c4f4",
@@ -104382,56 +103722,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-russia-enter-shevchenko-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-enter-borova-by-may-31": {
-    "id": "2053875",
-    "conditionId": "0xec843b00542f8aae316ade26229c9f88846f3af47c59d783deb7854a9594de04",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-borova-by-december-31",
-    "negRisk": false
-  },
-  "will-russia-capture-all-of-stepnohirsk-by-may-31-2026": {
-    "id": "2053898",
-    "conditionId": "0xc5a2aa043b85c4c665dbb2360d844bc7b154d632e15f0f5beb1ec255a9149807",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-all-of-stepnohirsk-by",
-    "negRisk": false
-  },
-  "will-russia-enter-malokaterynivka-by-may-31-2026": {
-    "id": "2053902",
-    "conditionId": "0x76598a35e8cb78059f1a36b84442c2f958528bab1e2738a6c95bb35e88288f8f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-malokaterynivka-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-capture-havrylivka-by-may-31-2026": {
-    "id": "2053904",
-    "conditionId": "0x20ddfa8e3939c1c45459f297c9fc00a4c4d64eb687041dba4e03be8e6039c8ea",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-havrylivka-by-february-28",
-    "negRisk": false
-  },
-  "will-russia-capture-toretske-by-may-31-2026": {
-    "id": "2053919",
-    "conditionId": "0x1ebd435e340c23cdd00c994f1c29f388b94fc723a6c088a82d4e9a83076098d7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-toretske-by",
     "negRisk": false
   },
   "will-russia-enter-khatnie-by-may-31-2026": {
@@ -104472,56 +103762,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-russia-capture-kindrativka-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-enter-svitle-by-may-31": {
-    "id": "2053947",
-    "conditionId": "0x46ea2e53c079a9b8e2379413eaf1ff7a752e4f79ec5fa472b4cd822d77eb77d5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-svitle-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-capture-viroliubivka-by-may-31": {
-    "id": "2053962",
-    "conditionId": "0x98055a1af9301ed9cf054a3988a5ede22cf7f0cb18e08fb97f1bff2235423a06",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-viroliubivka-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-enter-stinky-by-may-31": {
-    "id": "2053964",
-    "conditionId": "0xe26dcffeba8a94632df98acb0b16171557558e9677f161d4602232e7fd328415",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-enter-stinky-by-march-31",
-    "negRisk": false
-  },
-  "will-ukraine-re-enter-obratne-or-temyrivka-by-may-31": {
-    "id": "2054025",
-    "conditionId": "0x50544b83110aca59acedbd292a395140b90caddff597c96ce0f1b5614df6e6bf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ukraine-re-enter-obratne-or-temyrivka-by-march-31",
-    "negRisk": false
-  },
-  "will-russia-capture-serhiivka-by-may-31": {
-    "id": "2054069",
-    "conditionId": "0xc9def3280f8742a0a7959ad05baf0762240a556111b3f915e4ee37938a2ffb0c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-russia-capture-serhiivka-by-april-30",
     "negRisk": false
   },
   "will-marine-le-pen-be-on-the-ballot-for-the-2027-french-presidential-election": {
@@ -105494,16 +104734,6 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-vladimir-putin-by-may-31-2026": {
-    "id": "2060632",
-    "conditionId": "0x25f7f00e1096e87e29683844e3f428175a4e38a9901520987670f2dfa0309b32",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-marjorie-taylor-greene-by-may-31-2026": {
     "id": "2060635",
     "conditionId": "0xfbac380124e56e0551243cc25a22d31f5f306b9b9819458055b402b5f5ca5c6e",
@@ -105517,16 +104747,6 @@
   "will-donald-trump-publicly-insult-pam-bondi-by-may-31-2026": {
     "id": "2060636",
     "conditionId": "0xb2c392b51626ed2ac89c5a950e97f1796c407a083f690ac2d6e712839b8c7773",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-benjamin-netanyahu-by-may-31-2026": {
-    "id": "2060637",
-    "conditionId": "0x76b53540b4c9628d8f26000dec222329b5aa3f5fdae78b7eb9ed5edc2f88f293",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -105567,36 +104787,6 @@
   "will-donald-trump-publicly-insult-keir-starmer-by-may-31-2026": {
     "id": "2060641",
     "conditionId": "0x02d55c1d2c9096c81a3d1c6c360d522da463fa2e49a002cfb7d484b22888326d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-viktor-orbn-by-may-31-2026": {
-    "id": "2060642",
-    "conditionId": "0xddbaa5fee3f09b77af6c9977a4169dad3ff6c6c496f8f51a2859d45ea26ddc36",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-elon-musk-by-may-31-2026": {
-    "id": "2060643",
-    "conditionId": "0xb0af570dd3b7c72b8c6cba463c25d46c2947b9170f41b5e3ef3f7196ffe19c42",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-zohran-mamdani-by-may-31-2026": {
-    "id": "2060646",
-    "conditionId": "0xd2e561294020ff472c1135a546e58f4758db56a678c946c08e019d5ac39312db",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -111890,46 +111080,6 @@
     "eventSlug": "cs2-cirahv-ksm-2026-04-28",
     "negRisk": false
   },
-  "trump-out-as-president-by-may-31": {
-    "id": "2097472",
-    "conditionId": "0x3ded5a5738cdcb0a0c5cbaf2023a4aed7e837a20bbe0a57accc4abd04ad63809",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-out-as-president-by-may-31",
-    "negRisk": false
-  },
-  "trump-ballroom-project-unblocked-by-may-31": {
-    "id": "2097495",
-    "conditionId": "0x9c88a9e2f785a32cf0916946dcb47fffe4d9a54c648194f7a5fddabca9111ea7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-ballroom-project-unblocked-by-april-30",
-    "negRisk": false
-  },
-  "congress-passes-iran-war-powers-resolution-by-may-31": {
-    "id": "2097537",
-    "conditionId": "0x5f48b1799e796e3f0e045bfbeff524c15767906b30fae351533d8bbf4f1a3c5a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "congress-passes-iran-war-powers-resolution-by-may-31",
-    "negRisk": false
-  },
-  "will-gustavo-petro-be-charged-in-the-us-by-may-31": {
-    "id": "2097545",
-    "conditionId": "0x3e8c1ed53d50da5c13304acf7d8ee93ba368f9c30930383b862537a5a6e97e36",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gustavo-petro-be-charged-in-the-us-by-april-30",
-    "negRisk": false
-  },
   "will-pam-bondi-be-held-in-contempt-of-congress-by-june-30": {
     "id": "2097553",
     "conditionId": "0x00a8f9e16e2a7beee81ebdd05a5cf3d1482c85ae672f9bb0da2d048c4ff1f1b0",
@@ -112110,16 +111260,6 @@
     "eventSlug": "trump-renames-ice-to-nice-by-june-30",
     "negRisk": false
   },
-  "netanyahu-out-by-may-31": {
-    "id": "2098553",
-    "conditionId": "0x73a4b0e6dca901bb8cb7556db7445e21b5654fc4b3b0856babee8e2f82094112",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "netanyahu-out-before-2027",
-    "negRisk": false
-  },
   "will-fewer-than-200-tornadoes-occur-in-the-united-states-in-may-2026": {
     "id": "2098999",
     "conditionId": "0x7e4701c8aa45133b4512d89756ffaed7e8027f3b220a0aa12069533feb10e16e",
@@ -112209,16 +111349,6 @@
     "acceptingOrders": true,
     "eventSlug": "how-many-tornadoes-in-the-us-in-may",
     "negRisk": true
-  },
-  "kash-patel-out-by-may-31": {
-    "id": "2099041",
-    "conditionId": "0xaf89088494ed29e5694bdf8cb6d945340234729e1e4aba3ffba6fd1df4097d50",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "kash-patel-out-by",
-    "negRisk": false
   },
   "paris-hilton-pregnant-in-2026": {
     "id": "2099042",
@@ -112318,16 +111448,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "jimmy-kimmel-firedresigns-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-talk-to-mojtaba-khamenei-by-may-31": {
-    "id": "2099105",
-    "conditionId": "0xe1d074e4fbfe7ee469d6ad7a51190c4a94e2f310fbf84b084b680ecf2ddf97e0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-talk-to-mojtaba-khamenei-by-march-31",
     "negRisk": false
   },
   "will-rocco-baldelli-be-the-next-red-sox-manager-671": {
@@ -112590,16 +111710,6 @@
     "eventSlug": "what-will-trump-say-in-may",
     "negRisk": false
   },
-  "will-trump-say-prediction-market-in-may": {
-    "id": "2099236",
-    "conditionId": "0xab997db257c2ba058fde98f3022b9d24ecba96cc658a11b81c425b27e3720094",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
   "will-trump-say-discombobulator-or-discombobulated-in-may": {
     "id": "2099237",
     "conditionId": "0xb5e5eb3a7bb9a0b66cfef919fb5322d34c155e1d49719134596300d6817061d3",
@@ -112640,49 +111750,9 @@
     "eventSlug": "what-will-trump-say-in-may",
     "negRisk": false
   },
-  "will-trump-say-asshole-in-may": {
-    "id": "2099241",
-    "conditionId": "0x7cb5a1fa16179792b29c30bfda0c75fcdada2750e1942c821ad8cfdd7f7c930b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-buy-dell-computer-or-buy-a-dell-computer-in-may": {
-    "id": "2099242",
-    "conditionId": "0xaf25ac07d103857daa07a2545578978f5927d0d93d185f7620c0184080c017c6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-favorite-chart-in-may": {
-    "id": "2099244",
-    "conditionId": "0xfb8a80e6a08cd0ef6bc41cd832b45cac94171da998620218dd594f7c4d405e37",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
   "will-trump-say-big-bang-in-may": {
     "id": "2099245",
     "conditionId": "0xeea7a80c5ad65ff26eba7100dfeae3c3db2cf4120ddd6ae5af2da07684ed15ce",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-darth-vader-in-may": {
-    "id": "2099246",
-    "conditionId": "0x659e535b62ce1ad84ab93739708a922a26e189c5e9a44b823233b8170704e63e",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -114880,26 +113950,6 @@
     "eventSlug": "new-stranger-things-episode-released-by-wednesday",
     "negRisk": false
   },
-  "will-donald-trump-dance-on-may-31-2026": {
-    "id": "2108055",
-    "conditionId": "0xb5c8499e9d4dd8899350e586872bca0df2e1638b0627337842f6e919188d265d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-dance-on",
-    "negRisk": false
-  },
-  "will-trump-praise-joe-biden-by-may-31-2026": {
-    "id": "2108094",
-    "conditionId": "0x4891f328044a50ff6415326cf43bcaf00cc7bf436824ce5631f53a574932fbfb",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
   "will-trump-praise-oz-pearlman-by-may-31-2026": {
     "id": "2108115",
     "conditionId": "0x86d623600ec2a876f8bbb552f5c0a36ddaf0d9fe2dd3f2b29e2492fe312fe49c",
@@ -115003,16 +114053,6 @@
   "will-trump-praise-allah-by-may-31-2026": {
     "id": "2108161",
     "conditionId": "0x6db7750759c507d4f4c8ea4c2b3c93d2b1c41fdd052cec4b58b7f9ab2565e81d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-jesus-by-may-31-2026": {
-    "id": "2108165",
-    "conditionId": "0x294c5ee2d5d2d6bc5d4714e05e8bd41df7af8924d40183e56e5b4b8c01d2c8a3",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -115790,16 +114830,6 @@
     "eventSlug": "james-comey-charges-dropped-by-may-31",
     "negRisk": false
   },
-  "us-x-iran-diplomatic-meeting-by-may-31-2026-283-616": {
-    "id": "2109449",
-    "conditionId": "0x2bef40a1f62d045527228e699990d1bd1f97906b2458a6f3e4a0daf11124060c",
-    "endDate": "2026-05-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-x-iran-diplomatic-meeting-by-329",
-    "negRisk": false
-  },
   "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948": {
     "id": "2109450",
     "conditionId": "0x6fa13f31cceaf10ed3190df6e2aca0a93ab0d6fb46fd279003f17d4cdccee164",
@@ -116120,16 +115150,6 @@
     "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
     "negRisk": false
   },
-  "x-money-released-by-may-31-2026": {
-    "id": "2109558",
-    "conditionId": "0xc31ebded073dc7fa62096dd93c6a929ff370df1f284bf69ec4e87ef305ab2b82",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "x-money-launched-by",
-    "negRisk": false
-  },
   "mlb-4-homer-game-in-2026": {
     "id": "2109559",
     "conditionId": "0xde2f33d9c7ae79ac73f2400dd2404fddb98fd25127267d1ebbd24bf445650d67",
@@ -116249,36 +115269,6 @@
     "eventSlug": "will-hype-flip-sol-by-december-31",
     "negRisk": false
   },
-  "will-vaibhav-sooryavanshi-win-the-2026-ipl-orange-cap": {
-    "id": "2109823",
-    "conditionId": "0x3717c8ca2cbc1acd035da38c0bf1a7696189f43de38d0cc7591e697d9c7fa5f5",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-orange-cap-winner",
-    "negRisk": true
-  },
-  "will-shubman-gill-win-the-2026-ipl-orange-cap": {
-    "id": "2109829",
-    "conditionId": "0x0b7b1087838bf8a1947fcfed7b1e77e3a341eec0d7a7cbfa0df00402669a0950",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-orange-cap-winner",
-    "negRisk": true
-  },
-  "will-sai-sudharsan-win-the-2026-ipl-orange-cap": {
-    "id": "2109830",
-    "conditionId": "0xe68b5fbaca7f16a804864a31f1480a998dfe73a801589c5189041eaa556bd26e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-orange-cap-winner",
-    "negRisk": true
-  },
   "will-anthropic-flip-btc-by-december-31": {
     "id": "2109881",
     "conditionId": "0x5c0d7c74bbf6ef1e0114e6f75514e3360673e15b6542b78a95363a41c24089d3",
@@ -116288,76 +115278,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-anthropic-flip-btc-by-december-31",
     "negRisk": false
-  },
-  "will-bhuvneshwar-kumar-win-the-2026-ipl-purple-cap": {
-    "id": "2109908",
-    "conditionId": "0x7c172b75faee3cb312a5e1b323c5e76712b0049e87cc63652acd6efb987b8ba8",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
-  },
-  "will-kagiso-rabada-win-the-2026-ipl-purple-cap": {
-    "id": "2109913",
-    "conditionId": "0x6be25342d707186fbf2ab3e511a95e461768edc8a06e038ec07ce7c5822d1b6a",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
-  },
-  "will-prasidh-krishna-win-the-2026-ipl-purple-cap": {
-    "id": "2109914",
-    "conditionId": "0x0baba3e0ef6ae4b6dbb82c11c42d910e5c24e322599cb9e04b4bec7d30ff3098",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
-  },
-  "will-krunal-pandya-win-the-2026-ipl-purple-cap": {
-    "id": "2109917",
-    "conditionId": "0x723ac0ee169ad48029f813a267145274e9713daadea6f355adc97a6aa330f8b9",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
-  },
-  "will-josh-hazlewood-win-the-2026-ipl-purple-cap": {
-    "id": "2109922",
-    "conditionId": "0xb4fca8877bb64c2d726ef7b195cbfbf0e1b7a8756d54de3f1c6f61a14efb205d",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
-  },
-  "will-mohammed-sira-win-the-2026-ipl-purple-cap": {
-    "id": "2109923",
-    "conditionId": "0xcee1daa676afe0db72359ca1304c4a69dd39bcd893d3c377919815262275bcf6",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
-  },
-  "will-rashid-khan-win-the-2026-ipl-purple-cap": {
-    "id": "2109926",
-    "conditionId": "0xecaf0b51a92029d09c1f8566d4547f5a4f5a5c65f31d2c34e09ebc8a26e7347e",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ipl-purple-cap-winner",
-    "negRisk": true
   },
   "israeli-election-results-in-a-hung-parliament": {
     "id": "2109956",
@@ -116539,16 +115459,6 @@
     "eventSlug": "netanyahu-drops-out-of-israel-election-by-july-31",
     "negRisk": false
   },
-  "will-a-new-gemini-flagship-be-released-by-may-31-2026-623-692-974": {
-    "id": "2110293",
-    "conditionId": "0xfae1c666cdab9c06a1e6cfce6fbd6bb070185f3f056a5afb9191294dc913e3fa",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-gemini-reasoning-flagship-released-by",
-    "negRisk": false
-  },
   "will-a-new-gemini-flagship-be-released-by-june-30-2026-184-989-265": {
     "id": "2110294",
     "conditionId": "0x55531f18047d867e870e97ab7ab9361af02b69aeb5f04c37fef43fc50b20a11a",
@@ -116719,16 +115629,6 @@
     "eventSlug": "anthropic-ipo-closing-market-cap-979",
     "negRisk": true
   },
-  "will-comey-smile-in-his-mugshot-by-may-31": {
-    "id": "2110802",
-    "conditionId": "0x9bf0f1ff4a29b21ee29c3c1c1ae38a8d3b285487f81a1bf2f9bdee5ce1148b88",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-comey-smile-in-his-mugshot-by-may-31",
-    "negRisk": false
-  },
   "james-comey-in-jail-by-june-30": {
     "id": "2111017",
     "conditionId": "0x1759862b415c1a2a04a53f262083f65d376091b603727529f3737d6e1bcdd8e5",
@@ -116749,16 +115649,6 @@
     "eventSlug": "another-trump-political-opponent-federally-charged-by-may-31",
     "negRisk": false
   },
-  "will-trump-agree-to-iranian-enrichment-of-uranium-by-may-31": {
-    "id": "2111561",
-    "conditionId": "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
-    "negRisk": false
-  },
   "will-trump-agree-to-iranian-oil-sanction-relief-by-may-31": {
     "id": "2111562",
     "conditionId": "0xa37173a88dc5622e1c42e9f8f5a9d20d70b9b99e52cb76e64fb0ad95503fcaef",
@@ -116767,46 +115657,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-agree-to-iranian-transit-fees-in-the-strait-of-hormuz-by-may-31": {
-    "id": "2111563",
-    "conditionId": "0xb4067f81957ef1458e9712000807a4525c595f3c25a0c933ec2f69c0efb2e878",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-agree-to-unfreeze-iranian-assets-by-may-31": {
-    "id": "2111564",
-    "conditionId": "0x8374c773aa911e00a8d5c02e0130d57d18a9b5035b26e50f0e48ef1b74dd5c75",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-iranian-demands-will-trump-agree-to-by-may-31",
-    "negRisk": false
-  },
-  "iran-agrees-to-unrestricted-shipping-through-hormuz-by-may-31": {
-    "id": "2111605",
-    "conditionId": "0x83831604f88a889311dc484abc0d327d96f494bba9d41084bf1b84d8a991e97b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iran-agrees-to-unrestricted-shipping-through-hormuz-by-may-31",
-    "negRisk": false
-  },
-  "iran-agrees-to-end-enrichment-of-uranium-by-may-31-945": {
-    "id": "2111624",
-    "conditionId": "0x09148e8a5260a4c40aceb29badc45845fe08330497756bfcc1017c478c28bb65",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iran-agrees-to-end-enrichment-of-uranium-by-may-31-945",
     "negRisk": false
   },
   "us-iran-nuclear-deal-by-may-31-974": {
@@ -118691,16 +117541,6 @@
     "eventSlug": "who-will-trump-meet-with-in-may",
     "negRisk": false
   },
-  "will-trump-meet-with-keir-starmer-in-may-2026": {
-    "id": "2117215",
-    "conditionId": "0x5ef4ad1d6c4974fec695ff2be03e6bf26617724aaf3b1eff92e40a902d745721",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-may",
-    "negRisk": false
-  },
   "will-trump-meet-with-giorgia-meloni-in-may-2026": {
     "id": "2117217",
     "conditionId": "0xbee5cbe4b465955da3307331eb1ad004e5c1b3954a4e3c7c7002146157c6eaa5",
@@ -119600,5 +118440,1165 @@
     "acceptingOrders": true,
     "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
+  },
+  "will-santiago-gimnez-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117918",
+    "conditionId": "0x9699b98ddb5f7b4675ccc5a2d4c3199850c81cfb900ff8642b84fe50204cd2a9",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-youssef-en-nesyri-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117919",
+    "conditionId": "0x1068a6d998d67b27642b24875adc06a69f9ce133e95131e54ace7ba48b561930",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-cody-gakpo-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117920",
+    "conditionId": "0x2e3ea47a0bdce16e7774dd18e13516954a70ced677d0623bab6ae808b6fec34f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-chris-wood-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117921",
+    "conditionId": "0xd966fda43e1ddf3ab22477baef16155d11dfc935f5676429e93073fb99447cf7",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-erling-haaland-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117922",
+    "conditionId": "0xe7fa55fca14e385bda2b593ede9336c257e9538682e277926d957984f9e2eb05",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-ismael-daz-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117923",
+    "conditionId": "0x6ec5e566e7ac9d6d80ab011b2fa094694e9f6b4d76f93d5c7dff547a26f55da5",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-julio-enciso-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117924",
+    "conditionId": "0x408998eaca3b84b9fb14e3319267e2813e8cdb34a39a7c93807da7903071d785",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-rafael-leo-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117925",
+    "conditionId": "0x43c01eb91e99114b6a4be936d1ee66cd1cb97f1f6048767adb341e8260624bcc",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-akram-afif-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117926",
+    "conditionId": "0xf0ddd9aee21363241f3f252b81d3ba141a8f0ce8e94c45f6d22ccd87f724f06a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-salem-al-dawsari-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117927",
+    "conditionId": "0x91eb35f15f2a6e7082bd00f9c2b1bc457497e2ec58de678701e7dc8680075942",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-scott-mctominay-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117928",
+    "conditionId": "0xda8fcd065ae9e2a85fbeac848c34c4fe272cfc4b4d9e69dc910e86a788f18068",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-sadio-man-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117929",
+    "conditionId": "0xc612c7b25427c3244715c32cf91a5618b8c5a8f1bc00099a417acd9b552f4895",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-lyle-foster-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117930",
+    "conditionId": "0xce30ea722f4172c29bc684218f4cce0418f92bca70438f1d46ec3aa4d15abf27",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-son-heung-min-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117931",
+    "conditionId": "0x75ff0bb559cd61c71786b918d8c9e6589e23db71024efa384a9e7794fd1155e5",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-lamine-yamal-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117932",
+    "conditionId": "0xd9a5f800e3c7f71e239af245f420e9f9bb478a7b095b7ea4707350ba143552aa",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-viktor-gykeres-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117933",
+    "conditionId": "0x0913b468ec4de72c4dcf8fc9fd25e6cb09d413ad938c6d2dbb3f87db2909e0d3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-granit-xhaka-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117934",
+    "conditionId": "0x1c6c117d23e1d5920680391bcbb7339449d2e45a09306ddfac17c8c35b4ddc57",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-hannibal-mejbri-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117935",
+    "conditionId": "0xd046f3b311fb80d3b1c99f32badad00cdc46a1ee327b822d2b474ef48849fcd8",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-arda-gler-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117936",
+    "conditionId": "0x374b1c5db44479844e5e492239538846ab929fdb68f23ae79cef118d42fd1525",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-federico-valverde-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117937",
+    "conditionId": "0xed87d362d78fd8d45c6339f3bee037f478279cca1f4308b9d8c8b0a10c86d0ae",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-christian-pulisic-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117938",
+    "conditionId": "0xe614a9645ae0bd929fa749c4018b6644c3e6382897bc2cf90d2a5a2154528dd1",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-eldor-shomurodov-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
+    "id": "2117939",
+    "conditionId": "0xb4d89ac7659ec326a0689cb7d4c98b8a07a705a4cbec4e363eeb47037f1e02a8",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-goal-contributions",
+    "negRisk": true
+  },
+  "will-alexandre-oukidja-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118027",
+    "conditionId": "0xab6f6c268aaa6a1a866799e95078d9ace742d59a15baf68a1c2adaa18021d98a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-emiliano-martnez-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118028",
+    "conditionId": "0x3e4404ecad7a720d5fa0d0facde5a3e1948d21fd9b55e937025b687d52692c39",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-mathew-ryan-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118029",
+    "conditionId": "0x35fd9ac14e29815b0050950504ab82663e9de1d545f4bc787defd5aa6ade3224",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-patrick-pentz-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118030",
+    "conditionId": "0xbcba3c9ed4872d3a2882ddf83b36202cc63e4d33502b1dce22f237f0c1d71f7f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-thibaut-courtois-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118031",
+    "conditionId": "0x807f81fe30fcea88f7f690c14b023c011b73699eb04a3967d0693e525585787d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-kenan-piri-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118032",
+    "conditionId": "0x1f868245839b50539240031386583af4baf0a1e7870828e28bec9ac437a10c80",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-alisson-becker-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118033",
+    "conditionId": "0x00ed01231fd93c560a124ffb2a923f44716d5c1f7395a5a75bdcb7d8f2bae69b",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-milan-borjan-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118034",
+    "conditionId": "0x0e12825943a4af48cbc07c647b0e0072962ed3193047d7ac21e56dfa0ef977c1",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-vozinha-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118035",
+    "conditionId": "0x863a3b3857802b97011a78c8c8b4507dc76008d3ecbc1136f2e01d7ebf8e56bc",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-camilo-vargas-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118036",
+    "conditionId": "0x8ddf16fe1f3d3dcd0e77c6af79a4aa883b4e0749974a613b8ca3d5a389a9b48d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-dominik-livakovi-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118037",
+    "conditionId": "0xb8691b4aba93f34ba1af9bc6322f2a33a5a6cf4bb35361fb08eb6eec4569d699",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-eloy-room-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118038",
+    "conditionId": "0x682a280bba85cec9cad839f05bdef40341df5331d78e6ebc4b4414f4afdab8f1",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-matj-kov-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118039",
+    "conditionId": "0xf3c552600c570fbf5e8012412c505623c01b38085be2895a2858d5313f8d06a1",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-jol-kiassumbua-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118040",
+    "conditionId": "0x27c3d6fccc4893f7d3087558f001ba0c3839bafdb51b61de9af3788bab46dc47",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-alexander-domnguez-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118041",
+    "conditionId": "0x0df9f6bb0f78d1c028308e4c1ac44ac43a08b5be7e6ae4fc4ccc2c55f3d0ed54",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-mohamed-el-shenawy-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118042",
+    "conditionId": "0xfcd58601e7704476623a1ec25537255092a88f563858743af41b04fc3a834772",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-jordan-pickford-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118043",
+    "conditionId": "0x1b373df2c27090142bbe801bb6f79774e60f9dc146047e7d89a41dd2fb31ad24",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-mike-maignan-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118044",
+    "conditionId": "0x7d6344ee656dbb50cb0e51a01d137a1ce4c0973f30734158bd5a122e2cbaf621",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-manuel-neuer-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118045",
+    "conditionId": "0x8071889aea48ed131be44af3bfcdb515d0e75ec8a456cbdbb60df58d1e293930",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-lawrence-ati-zigi-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118046",
+    "conditionId": "0xcc34bd45722a8656803f6ffdc8b628bd2532529e3de6f7639cf1c36888213d9e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-johny-placide-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118047",
+    "conditionId": "0xf8638ebe2d21759167ec4d0118da81670d9534f7be17317cb9d3463f941655be",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-alireza-beiranvand-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118048",
+    "conditionId": "0x86d3c738f2a1b52d9f7f1ad83c6bb743752199cef0a2cc1dc9a018768c8cd926",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-jalal-hassan-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118049",
+    "conditionId": "0xd81d5a28856ab6539cfd9e71de8f50ba68e443fe5bb46c9f697b0ba52c1b7495",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-yahia-fofana-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118050",
+    "conditionId": "0xba129f0b02932ed45f400366e251dfab315e1ef28efd09e140b88c95ffaed68a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-shuichi-gonda-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118051",
+    "conditionId": "0x99ca9ba799458ad31838b6a2719030aa5e00abcfd3e0fe0706dceefad9931cea",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-amer-sharaf-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118052",
+    "conditionId": "0x466ee161878e3399b836713f849b2d6e475b544729a9e65328b8f2fd26b4da9a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-luis-malagn-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118053",
+    "conditionId": "0xfad4265e244cfbcf27133530cdf903b669084c53f03356c444f71c6bce77aa65",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-yassine-bounou-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118054",
+    "conditionId": "0xad8b5508047754b3c34d67b24583c01265bb4d6e29b12caa73fcfe08c78eda3a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-bart-verbruggen-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118055",
+    "conditionId": "0xab4758b11a3c17443e54e39931cf1d713feea9da307488a442e36a77a524a424",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-oliver-sail-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118056",
+    "conditionId": "0x762b34b968efee788db160d1f2f8f479450ea093a07b7ccab3f71d54be214b61",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-rjan-nyland-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118057",
+    "conditionId": "0xdb191aea42f14d0812c9d68c47840ab902b7c54a3360232dd1a591ceffda98f5",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-luis-meja-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118058",
+    "conditionId": "0x06f26c174c63631e33fcc073e0dbf1607f96376fe1f280b88835327aa63f0d57",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-carlos-coronel-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118059",
+    "conditionId": "0x5dd5fbca3da14e0e653b1ce36ef210372cf46ae9453c02e38925017daa4cc26c",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-diogo-costa-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118060",
+    "conditionId": "0x2a11b7244249753451cdc6c6bf92f9988da59a9cc3ecc516a1754a622a87208a",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-meshaal-barsham-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118061",
+    "conditionId": "0xa858f9831969f5ae0f58e1f5e3d4f8a4caab12d28dba8ebee3a2d39af8791465",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-mohammed-al-owais-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118062",
+    "conditionId": "0x3005b1d3eaf220cc61fe117ddbea7323ab36fbf4caf8d8d58c29df58f2a4db30",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-angus-gunn-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118063",
+    "conditionId": "0xb4dc23a098b0a49b068a06f75876f9d753dc42c923b00472ae51fd539c962a65",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-douard-mendy-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118064",
+    "conditionId": "0xd1dce7bb8d0027c81f26854f97cf608654745ca082bc932c1792fd1c0b09b661",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-ronwen-williams-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118065",
+    "conditionId": "0xd096e74d8436bb280a21616bfe3b5ff9b1ac201c7ff6369346d321b042e30f19",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-jo-hyeon-woo-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118066",
+    "conditionId": "0xa104450647e60a2a10c1a9ac44abb748f0b64e84a46be3dd6ef5080db1b69bb0",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-david-raya-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118067",
+    "conditionId": "0x7c282ea8fa958cfe94cf2480df15b781807124dd5c455abd1bc1ae97c2d44d8e",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-robin-olsen-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118068",
+    "conditionId": "0x62e5342ae031b5ecfe2f9f1a2734431a56f500109ff159c4c8ec44b3f72b7b58",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-yann-sommer-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118069",
+    "conditionId": "0xf4bbe3a8b4be0bf60f355c0df119ce891b9ae03ba36d6f1a863b33557076a666",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-mouez-hassen-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118070",
+    "conditionId": "0x6b3a346591302cc7c7f900ecec83fdb8a3700447626fcf148937da8fbf84d71c",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-mert-gnok-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118071",
+    "conditionId": "0x389178abf8b85fd39d89cb39f2611e169576d497d748c6ae93eda832fe84cc4f",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-sergio-rochet-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118072",
+    "conditionId": "0x35eaa005eb9ecddb3aa1f88743c895bafc6628ed12fcf44ab4a20296f4925fdc",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-matt-turner-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118073",
+    "conditionId": "0xa696a950e0fa06c2bd534c80cf1a4c53f2afe815f7a68a74e9ed620e66b65db9",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-jasur-yaxshiboyev-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
+    "id": "2118074",
+    "conditionId": "0xcd4b6828b371153386e1cbb03e3ecb2369461cd1ff6e4f5b06b1b9dfe10882a3",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-most-clean-sheets-gk",
+    "negRisk": true
+  },
+  "will-national-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election-992": {
+    "id": "2118144",
+    "conditionId": "0x5fe6c169639d7a315e58c7aea2a1b7ba7720aaa86c07292090ce97b70c83bea7",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-2nd-place-393",
+    "negRisk": true
+  },
+  "will-labour-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2118145",
+    "conditionId": "0xe9cb48f6706fdb574c943787f38d7ae2dd93a5eddea40e0a78036c624f2ce483",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-2nd-place-393",
+    "negRisk": true
+  },
+  "will-green-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2118146",
+    "conditionId": "0xc62accd00f42ef9854bb604b1754a485f74f70404b7a1b4c2aeca6383efd5eb2",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-2nd-place-393",
+    "negRisk": true
+  },
+  "will-act-new-zealand-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2118147",
+    "conditionId": "0xf1dc41f7035faef137a4e82ca99a059f8055328c1e4169d98616ac0d173c1369",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-2nd-place-393",
+    "negRisk": true
+  },
+  "will-new-zealand-first-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2118148",
+    "conditionId": "0x12781ea8e77487ed32ed6cef5026d5199b5618d1c58220e98af81eee539797a4",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-2nd-place-393",
+    "negRisk": true
+  },
+  "will-te-pti-mori-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "id": "2118149",
+    "conditionId": "0x8936b7748124d3d7fdf291ffde0558dffff1725ca5306416462e277624e5a911",
+    "endDate": "2026-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "new-zealand-election-2nd-place-393",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-less-than-610b-on-may-31": {
+    "id": "2118177",
+    "conditionId": "0x48a67c626ee2b60384e35e4122626569d7cd1827237c1eb5f240e5ccb157187c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-610b-and-620b-on-may-31": {
+    "id": "2118178",
+    "conditionId": "0x736af5424e5ea7c1e85e54b213a612cc1d4c7957341839c3bdf68ce69ef6ff7c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-620b-and-630b-on-may-31": {
+    "id": "2118179",
+    "conditionId": "0x8cf98d880f2acf6f4715d0773fa3c15ba144f5bdb84a56ba7c6f34d522a07ea7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-630b-and-640b-on-may-31": {
+    "id": "2118180",
+    "conditionId": "0x9aa1adec713b2635822375456a73d0459b2a9dd99c28f78eaf8b38a7558876ce",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-640b-and-650b-on-may-31": {
+    "id": "2118181",
+    "conditionId": "0xe824da460a6a3e96fd31aa3bd9b83128168e9addbdc51f09a5693b2f1eb37a06",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-650b-and-660b-on-may-31": {
+    "id": "2118182",
+    "conditionId": "0x28692f33e19d6334aad9a47cce8ede3fce7ca844aeb73df613e0fb48aeb081bb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-660b-and-670b-on-may-31": {
+    "id": "2118183",
+    "conditionId": "0x991851e5ea9d24731849ec3cb0283d126b912eb12ba555f6f950c9a69cfc022e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-670b-and-680b-on-may-31": {
+    "id": "2118184",
+    "conditionId": "0xf21d2e1f6f449178c45aa154f1d199c8a11eecfa83cf94481e17bd3a64166901",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-between-680b-and-690b-on-may-31": {
+    "id": "2118185",
+    "conditionId": "0xaf1b0fc6128f9a36d6315d37907c9c3884ff0780b1f34abe38010e223c31d9ae",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-elon-musks-net-worth-be-at-least-690b-on-may-31": {
+    "id": "2118186",
+    "conditionId": "0x62d15abd1060e2059eb15d7f15b03d0e86a6386c65ad82532e0dd3562f057e93",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "elon-musk-net-worth-on-may-31-343",
+    "negRisk": true
+  },
+  "will-the-bank-of-brazil-increase-the-target-for-the-selic-rate-by-50-bps-at-the-august-meeting": {
+    "id": "2118268",
+    "conditionId": "0x7b45e6eead7cbcb63e242ba0a771ed324c22cf36b96df0c1562be42bd1f6e777",
+    "endDate": "2026-08-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-brazil-decision-in-august",
+    "negRisk": true
+  },
+  "will-the-bank-of-brazil-increase-the-target-for-the-selic-rate-by-25-bps-at-the-august-meeting": {
+    "id": "2118269",
+    "conditionId": "0x3fafa3875ae13cd82752078cfecb760cca897a352c045d2fdc42784024d2718d",
+    "endDate": "2026-08-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-brazil-decision-in-august",
+    "negRisk": true
+  },
+  "will-the-bank-of-brazil-make-no-change-to-the-target-for-the-selic-rate-at-the-august-meeting": {
+    "id": "2118270",
+    "conditionId": "0xa58e20682b23995b0fd20964962e6388727bf15fb004206cae740462f7d181cf",
+    "endDate": "2026-08-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-brazil-decision-in-august",
+    "negRisk": true
+  },
+  "will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-25-bps-at-the-august-meeting": {
+    "id": "2118271",
+    "conditionId": "0x72c0a78cc4255678e80c3b13117a3d6c4134151963cb2e8bfb62478a71e5385e",
+    "endDate": "2026-08-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-brazil-decision-in-august",
+    "negRisk": true
+  },
+  "will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-50-bps-at-the-august-meeting": {
+    "id": "2118272",
+    "conditionId": "0xbbf51c04cf05c3a99e590db75b95fc651e788870d26f983cfd2c42e9b4c9e0b5",
+    "endDate": "2026-08-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-brazil-decision-in-august",
+    "negRisk": true
+  },
+  "will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-50-bps-at-the-july-interest-rate-announcement": {
+    "id": "2118294",
+    "conditionId": "0x0910b7112f384c6be32ebccfc2f7c0f0e3e19f2e9787166d141349837d324eda",
+    "endDate": "2026-07-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-canada-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-july-interest-rate-announcement": {
+    "id": "2118295",
+    "conditionId": "0xc28c158775ac425760f36198547687328be7b6ccf943d63212e2a0a56b8de4b5",
+    "endDate": "2026-07-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-canada-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-july-interest-rate-announcement": {
+    "id": "2118296",
+    "conditionId": "0x5a5a8ad60367ff6fc38c350b08891b7e34b338c8b821b8698ac0ccf630afe953",
+    "endDate": "2026-07-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-canada-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-bank-of-canada-decrease-the-target-for-the-overnight-rate-by-25-bps-at-the-july-interest-rate-announcement": {
+    "id": "2118297",
+    "conditionId": "0x2f5978811f72eed22b49802880801f20e8216e2b5aeac38fa61ba2ca880a21d8",
+    "endDate": "2026-07-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-canada-decision-in-july",
+    "negRisk": true
+  },
+  "will-the-bank-of-canada-decrease-the-target-for-the-overnight-rate-by-50-bps-at-the-july-interest-rate-announcement": {
+    "id": "2118298",
+    "conditionId": "0x86bb19db99eb1e89a50e07f2948f98ac082b0f3e052ed9439c788e36a663bf45",
+    "endDate": "2026-07-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-canada-decision-in-july",
+    "negRisk": true
+  },
+  "lol-sk-gal-2026-04-30-game2-any-player-quadra-kill": {
+    "id": "2118425",
+    "conditionId": "0xd21b833a57b5f8f5ecbd46bd72efb47cf1cc72758ce0be8872625f1cbf442b2a",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-sk-gal-2026-04-30",
+    "negRisk": false
+  },
+  "lol-sk-gal-2026-04-30-game2-any-player-penta-kill": {
+    "id": "2118426",
+    "conditionId": "0x6d5e3ad6e802c2ae1c884f8cb9acd26abb00bbd7f287ae6ba04b39b161f6df29",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-sk-gal-2026-04-30",
+    "negRisk": false
+  },
+  "will-no-one-dissent-the-june-fed-decision": {
+    "id": "2118770",
+    "conditionId": "0x224380954b75aacc570002494a30357f6f28b2f65e9aadfb9188ee77f9814b01",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
+    "negRisk": true
+  },
+  "will-one-person-dissent-the-june-fed-decision": {
+    "id": "2118771",
+    "conditionId": "0xc1e347751836823553a0e932012f0ee8a90722bc2dc81644621f3830178fe878",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
+    "negRisk": true
+  },
+  "will-two-people-dissent-the-june-fed-decision": {
+    "id": "2118772",
+    "conditionId": "0x989d7909b7549fc45fbfcc5fcab478824a21d6810595ef7f88b462740c67c35f",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
+    "negRisk": true
+  },
+  "will-three-people-dissent-the-june-fed-decision": {
+    "id": "2118773",
+    "conditionId": "0xf1a79ba3cf274508795c6abb2a6cc7599da89d81b94c5579ad56276ad58ef18c",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
+    "negRisk": true
+  },
+  "will-four-or-more-people-dissent-the-june-fed-decision": {
+    "id": "2118774",
+    "conditionId": "0x46a8d4d0af9ea7d9ba8ad76c097aa925c6b1f1cc82d7dea0419e9715a78af2d7",
+    "endDate": "2026-06-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
+    "negRisk": true
+  },
+  "will-the-fed-cutpausepause-in-the-next-three-decisions-junjulsep": {
+    "id": "2118797",
+    "conditionId": "0x939991996943dc503bf17a76ec71cd68c6eccc8a67f0bc56389259722dffd8fd",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-cutpausecut-in-the-next-three-decisions-junjulsep": {
+    "id": "2118798",
+    "conditionId": "0xe96aaa3201601142ed4ae92f086b42ad717c822bc84f59ffc2c98077c2b7a1b4",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-cutcutpause-in-the-next-three-decisions-junjulsep": {
+    "id": "2118799",
+    "conditionId": "0x0db535388174e80feca135f1f09120239ea3b82a21f4c25ab8c2f9d3e402f08d",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-cutcutcut-in-the-next-three-decisions-junjulsep": {
+    "id": "2118800",
+    "conditionId": "0x8ce59af7975a10eaf038ea88181f20cdf50e9b08f58bb7705a765c6e1338894f",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep": {
+    "id": "2118801",
+    "conditionId": "0xd17e44ec063959238b3e4587475977a584618f7e18892d7b13b47051dbaa9a35",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep": {
+    "id": "2118802",
+    "conditionId": "0x3d58efa61842054779ee3541eb4394024172a4a111ee0606e6ec535f27bb7082",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-pausecutpause-in-the-next-three-decisions-junjulsep": {
+    "id": "2118803",
+    "conditionId": "0x2c027dcabf04d8aafebe86337180f6959f6341adeb2dcc22f590992dd0d9978e",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-pausecutcut-in-the-next-three-decisions-junjulsep": {
+    "id": "2118804",
+    "conditionId": "0x9288e07cc3a716cad898081de864f2fffad42e5f48bf923aad42a36403d2ae9a",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep": {
+    "id": "2118805",
+    "conditionId": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decisions-jun-sep",
+    "negRisk": true
+  },
+  "will-netanyahu-talk-to-joseph-aoun-by-june-30": {
+    "id": "2118807",
+    "conditionId": "0x5b87cd302b5d6320376ebccf722121b7b30d1e6a2bbd40906ef9c1d3c89f663d",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-netanyahu-talk-to-joseph-aoun-by",
+    "negRisk": false
+  },
+  "nothing-ever-happens-may-745": {
+    "id": "2118910",
+    "conditionId": "0x3ce1f599909ab4eac04c944f8d260079f48595087d6a88d8b7d4033c126ca106",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nothing-ever-happens-may-745",
+    "negRisk": false
+  },
+  "will-20-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
+    "id": "2119070",
+    "conditionId": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+    "negRisk": false
+  },
+  "will-40-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
+    "id": "2119071",
+    "conditionId": "0xe02033cef06e942fbe1fdc9cc259abe9682265d349642598ab27ad677083d054",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+    "negRisk": false
   }
 }
