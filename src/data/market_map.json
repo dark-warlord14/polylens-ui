@@ -10659,16 +10659,6 @@
     "eventSlug": "highest-grossing-movie-in-2026",
     "negRisk": true
   },
-  "will-star-wars-the-mandalorian-and-grogu-have-the-best-domestic-opening-weekend-in-2026": {
-    "id": "678442",
-    "conditionId": "0x7a93a3c8d623258f5b80791e8acb32adb19fe10654d6475505e610287762f0c2",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-movie-has-biggest-opening-weekend-in-2026",
-    "negRisk": true
-  },
   "will-toy-story-5-have-the-best-domestic-opening-weekend-in-2026": {
     "id": "678443",
     "conditionId": "0x4a3bae05585996851511be08b544323fe6af6f274e5d464603ed26a224f3e78a",
@@ -57141,16 +57131,6 @@
     "eventSlug": "big-game-champion-2027",
     "negRisk": true
   },
-  "will-the-powerball-jackpot-hit-1-billion-by-may-31": {
-    "id": "1360446",
-    "conditionId": "0xe7532568d398a3f4196992c6dc3025cfee3aa5949d829a00911a317b4c60e7b4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-the-powerball-jackpot-hit-1-billion-by-may-31",
-    "negRisk": false
-  },
   "will-halle-berry-and-van-hunt-get-married-by-december-31": {
     "id": "1360474",
     "conditionId": "0x42349627f1e30adeffe8f0f1f03355847d62ce9d295f7d1c0aaa54d108dd35f8",
@@ -85215,16 +85195,6 @@
     "eventSlug": "lol-lck-cl-2026-winner",
     "negRisk": true
   },
-  "will-keyd-stars-academy-win-cd-2026-split-1": {
-    "id": "1901228",
-    "conditionId": "0x85a26772c43ae7881af6928bcf93144f17e850a68cee16032ce5ed613ed04da0",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cd-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-soopers-challengers-win-lck-cl-2026": {
     "id": "1901229",
     "conditionId": "0xf2b43eae4580ba2e98993a36cb8d397b274d178d6a0c76fd059ad920a53c3a31",
@@ -85233,16 +85203,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-lck-cl-2026-winner",
-    "negRisk": true
-  },
-  "will-kabum-idl-win-cd-2026-split-1": {
-    "id": "1901236",
-    "conditionId": "0x33b0fa7114d6bf720305907e2c2b209d11b9815ae88e6859b7019fa2fb746cb6",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cd-2026-split-1-winner",
     "negRisk": true
   },
   "will-conviction-win-nacl-2026-spring": {
@@ -93373,16 +93333,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-trump-try-to-fire-powell-as-fed-board-member-by",
     "negRisk": false
-  },
-  "will-star-wars-the-mandalorian-and-grogu-have-the-best-domestic-opening-week-in-2026": {
-    "id": "2000374",
-    "conditionId": "0xb35ee689c6ff78af433c3c24f3be5fad3e50fe2bc4dc31d2b89855aa8887ed76",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-movie-has-biggest-opening-week-in-2026",
-    "negRisk": true
   },
   "will-toy-story-5-have-the-best-domestic-opening-week-in-2026": {
     "id": "2000375",
@@ -103992,26 +103942,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-keir-starmer-by-may-31-2026": {
-    "id": "2060641",
-    "conditionId": "0x02d55c1d2c9096c81a3d1c6c360d522da463fa2e49a002cfb7d484b22888326d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
-  "will-donald-trump-publicly-insult-someone-on-may-28-2026": {
-    "id": "2060681",
-    "conditionId": "0x7545551fcc53c7e8737f0de307d243eb440d5a0d436e0addb3b066cccf3fb09f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-publicly-insult-someone-on-312",
     "negRisk": false
   },
   "will-donald-trump-publicly-insult-someone-on-may-31-2026": {
@@ -119591,6 +119521,76 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
+  },
+  "will-chiefs-win-the-2026-super-rugby-pacific-grand-final": {
+    "id": "2134583",
+    "conditionId": "0x7aba816b62304ffdaa8c8b084041240a08b0e86a0fe60aff8b7f38fc75dd8cff",
+    "endDate": "2026-06-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
+  },
+  "will-crusaders-win-the-2026-super-rugby-pacific-grand-final": {
+    "id": "2134584",
+    "conditionId": "0x8c6768e94b075cf9320f0cf37acb9c3f1a3735bef74e912b884a2ab6100028ae",
+    "endDate": "2026-06-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
+  },
+  "will-hurricanes-win-the-2026-super-rugby-pacific-grand-final": {
+    "id": "2134586",
+    "conditionId": "0x39276277726fbadfcab01916bc8f125a56b2dc85cf767b87a39a03689b08f5c0",
+    "endDate": "2026-06-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
+  },
+  "will-brumbies-win-the-2026-super-rugby-pacific-grand-final": {
+    "id": "2134587",
+    "conditionId": "0xa006cbefaac64c824acbe9cead8fcf657fca413295f1a3d9f90e9c9063f745e6",
+    "endDate": "2026-06-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
+  },
+  "will-reds-win-the-2026-super-rugby-pacific-grand-final": {
+    "id": "2134588",
+    "conditionId": "0x3889b2c83180ccd4a29b0a6b7cbd01cd0ced5fa9e4d810b744a67d93acb71892",
+    "endDate": "2026-06-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
+  },
+  "will-leinster-win-the-2026-united-rugby-championship-grand-final": {
+    "id": "2134626",
+    "conditionId": "0xb476f0a450d07b9710c56a7586c360b966ec15da3d760a6f9d63354039d9fc56",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "united-rugby-championship-winner",
+    "negRisk": true
+  },
+  "will-glasgow-warriors-win-the-2026-united-rugby-championship-grand-final": {
+    "id": "2134635",
+    "conditionId": "0x6971dec16c5398d52d0c68ade844ab0570c071b8f325821204cfeaa34f5a1f20",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "united-rugby-championship-winner",
     "negRisk": true
   }
 }
