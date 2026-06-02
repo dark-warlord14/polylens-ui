@@ -2359,16 +2359,6 @@
     "eventSlug": "colombia-presidential-election",
     "negRisk": true
   },
-  "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-colombias-election": {
-    "id": "569454",
-    "conditionId": "0xab6fb278f753c6c10479d71429d3ef53ed213ddd208b9f4381cecd8db393974c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-colombias-election",
-    "negRisk": false
-  },
   "aaron-taylor-johnson-announced-as-next-james-bond": {
     "id": "572110",
     "conditionId": "0x31eaf3b4bfb0c7107250f8aae9dfaf18a821a6c58fe1b5254a1b77542a4c836c",
@@ -20914,16 +20904,6 @@
     "eventSlug": "2026-taiwanese-local-elections-party-winner",
     "negRisk": true
   },
-  "will-a-hurricane-form-by-may-31": {
-    "id": "820351",
-    "conditionId": "0xd1b5f2ca840de370c633eb7e640296a21eb8f82fd946c485d3274ee8a8d75381",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-a-hurricane-form-by-may-31",
-    "negRisk": false
-  },
   "mh370-underwater-wreckage-found-by-june-30-2026": {
     "id": "821114",
     "conditionId": "0x437f095880aa1008305ec7260c6dda3539d33b16fa8624e0575f6a641005aac1",
@@ -34189,16 +34169,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-frances-tiafoe-win-the-2026-mens-french-open": {
-    "id": "1087546",
-    "conditionId": "0xb599d781347109dfc846c1ae5d6dd8afab6271a4ab0c792ae1c4e865a55772a1",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-rafael-jodar-win-the-2026-mens-french-open": {
     "id": "1087553",
     "conditionId": "0x3e166e94d38707543b2e951c325eb9b917468b99e75294d11cd853587364d934",
@@ -34252,16 +34222,6 @@
   "will-diana-shnaider-win-the-2026-womens-french-open": {
     "id": "1087778",
     "conditionId": "0xf0ab6a841f34737f9ba144a596720d20bc56bc5c91bce018dc7526c43d7679f5",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-naomi-osaka-win-the-2026-womens-french-open": {
-    "id": "1087779",
-    "conditionId": "0xd8221e601f2859bc953076d300c5e2771063d23ffffdd38710497dd1d540b07e",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -86364,16 +86324,6 @@
     "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-naomi-osaka-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920819",
-    "conditionId": "0xd6ee583865addf38b68905812b9bfd5001d81a66bbdd30a5d29cba2e317aaf48",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-diana-shnaider-win-the-2026-roland-garros-womens-singles": {
     "id": "1920823",
     "conditionId": "0x478659297fc6b14c30ff751a4fbc083c1615b1113dacedb297c292f92c494898",
@@ -102364,26 +102314,6 @@
     "eventSlug": "wnba-2026-rookie-of-the-year-111",
     "negRisk": true
   },
-  "will-the-ornn-b200-index-hit-3pt50-low-by-may-31-2026-843-279-692-358-137-437-953": {
-    "id": "2047239",
-    "conditionId": "0x93c37973c2484a074f9f2d0844541789d0434ba4fd38414fc4f4c79011df4233",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-b200-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-ornn-b200-index-hit-3pt00-low-by-may-31-2026-339-798-491-558-988-572": {
-    "id": "2047241",
-    "conditionId": "0x5e10d33734ad99254e307ecb4b5ddf750a2ace7e1083b5aad180a810340c5985",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-b200-hit-by-may-31",
-    "negRisk": false
-  },
   "will-aja-wilson-win-the-2026-wnba-defensive-player-of-the-year-award": {
     "id": "2047242",
     "conditionId": "0x8b1ed260a639a254f183fc79ac829ec298279a5839d1e98ee0aa5da86daeac6c",
@@ -102502,36 +102432,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "which-artists-will-release-new-albums-in-2026",
-    "negRisk": false
-  },
-  "will-the-ornn-h200-index-hit-3pt00-low-by-may-31-2026-565-993-211-882-125-338-799-397-527": {
-    "id": "2047354",
-    "conditionId": "0xa2ab8b57cfa71afd059df5cd7accc3757fbfcdb873e7ee6e9a89c209ec6af270",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-h200-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-ornn-h200-index-hit-2pt50-low-by-may-31-2026-632-256-216-866-585-776-653-574-196": {
-    "id": "2047356",
-    "conditionId": "0x59027c840dbea2d04781596805e4f8c0986849804f8267d8d26a3849babeb2a2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-h200-hit-by-may-31",
-    "negRisk": false
-  },
-  "will-the-ornn-h200-index-hit-2pt00-low-by-may-31-2026-718-675-438-727-679-733-994-583": {
-    "id": "2047357",
-    "conditionId": "0x5c290756dc74aef0dfd5c4feb75951fda654584c605aa7c810a2beb1bdd6224c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-h200-hit-by-may-31",
     "negRisk": false
   },
   "will-karl-smesko-win-the-2026-wnba-coach-of-the-year-award": {
@@ -102712,16 +102612,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-market-cap-will-strc-reach-by-june-30",
-    "negRisk": false
-  },
-  "will-the-ornn-b200-index-hit-3pt75-low-by-may-31-2026-125-943-491-436-192-599": {
-    "id": "2047425",
-    "conditionId": "0x20f720ddd0c621932fb8b0f167eb79460e2f8f84ed266c92ae9375c5e1135916",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gpu-rental-prices-b200-hit-by-may-31",
     "negRisk": false
   },
   "will-the-atlanta-dream-make-the-2026-wnba-playoffs": {
@@ -108040,46 +107930,6 @@
     "eventSlug": "bang-si-hyuk-charged-in-2026",
     "negRisk": false
   },
-  "will-there-be-fewer-than-2-chatgpt-outages-in-may-2026": {
-    "id": "2071646",
-    "conditionId": "0x041781e51fba4cc3eca81511d2035d699b30386eae5351d5eff86b1de2ea0347",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
-    "negRisk": true
-  },
-  "will-there-be-exactly-2-chatgpt-outages-in-may-2026": {
-    "id": "2071647",
-    "conditionId": "0x7b4a83b28d0fadab36f70f723c7b688181689b69b7e6033380bfa7826a876ada",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
-    "negRisk": true
-  },
-  "will-there-be-exactly-3-chatgpt-outages-in-may-2026": {
-    "id": "2071648",
-    "conditionId": "0x59944772e1875c4d05436badbdef34b8ae3ee9b024f6ca12134b482cac77455e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
-    "negRisk": true
-  },
-  "will-there-be-4-or-more-chatgpt-outages-in-may-2026": {
-    "id": "2071649",
-    "conditionId": "0x001fec0f90da1fdc6c3d4d6bf626e41815b40e7b19eef85a745a29ef47ff925c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-chatgpt-outage-days-in-may-2026",
-    "negRisk": true
-  },
   "lee-jae-myung-out-as-president-of-south-korea-in-2026": {
     "id": "2071657",
     "conditionId": "0xf4c72ff42c3f1ee9f25e835e62ca52d71a9cafbcc11f93c01af709af8ee5ff09",
@@ -108088,26 +107938,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lee-jae-myung-out-as-president-of-south-korea-in-2026",
-    "negRisk": false
-  },
-  "will-wti-dip-to-80-in-may-2026-734-629-766-626-157-663-256-712-397-816-113-876-832": {
-    "id": "2074240",
-    "conditionId": "0xa96e71186507bf493bd1fb8101418c369c6296a29b49514fdec3f7bfe7197909",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
-    "negRisk": false
-  },
-  "will-wti-dip-to-70-in-may-2026-155-395-333-182-889-988-959-341-883-234-375-347-135": {
-    "id": "2074241",
-    "conditionId": "0x4f7f1f84cc0497e3f21b76628b6ed9ac9abab9893b6d23f1af6108db64c0d34c",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-wti-hit-in-may-2026",
     "negRisk": false
   },
   "cs2-lavked-tsa-2026-04-25-game1-odd-even-total-kills": {
@@ -110630,16 +110460,6 @@
     "eventSlug": "steve-bannon-exonerated-by-april-30",
     "negRisk": false
   },
-  "will-trump-say-nuke-in-may": {
-    "id": "2099260",
-    "conditionId": "0xd17239d94f2af2f6bda410d56c82ca651851c6fd8360359d2021bf665a63cc52",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-trump-say-in-may",
-    "negRisk": false
-  },
   "bol1-bol-gua-2026-05-24-bol": {
     "id": "2099451",
     "conditionId": "0x4c5d88de7109cf387ede447b09f2079719e63302060f7541d4356f5bfbd4cb2a",
@@ -112720,56 +112540,6 @@
     "eventSlug": "will-eisenkot-join-the-bennett-lapid-alliance-by-june-30",
     "negRisk": false
   },
-  "will-trump-say-trump-card-or-trump-gold-card-in-may": {
-    "id": "2108622",
-    "conditionId": "0xff02993ad379ebc12b47af1e09cc50d105fd9a1daada251cf33997416ba4cbd8",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-tower-in-may": {
-    "id": "2108624",
-    "conditionId": "0x713f66e5970b0f6880a212d051a526f690c34425c59905b9a9f5774578815d13",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-family-in-may": {
-    "id": "2108630",
-    "conditionId": "0x9ed9deb2902f85471e56b68efb17ea22ae8c40883d50fb25402b9dceca6174a1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-hotel-or-trump-vegas-in-may-775": {
-    "id": "2108640",
-    "conditionId": "0xe6c8a819c0db6248b86ba565b06cb92112f2b44074a4d4044e9d87bd1d216ca1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-trump-national-or-trump-international-or-trump-turnberry-in-may-287": {
-    "id": "2108641",
-    "conditionId": "0x42272fdf3f1eebf33225b74a6c201987207aca928ab64cbc71ad44971e5f75a5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-trump-named-things-will-trump-mention-in-may",
-    "negRisk": false
-  },
   "will-the-longest-winning-streak-during-the-2026-mlb-season-be-0-9-games": {
     "id": "2108861",
     "conditionId": "0x9ca35a902dc1aa6b43340e0364ca76a2b75831c5914bdb46a8a4b7b00b82c6d9",
@@ -113489,16 +113259,6 @@
     "eventSlug": "israel-enacts-military-exemption-for-yeshiva-students-by-sep-30",
     "negRisk": false
   },
-  "will-taylor-swift-have-a-1-hit-in-the-us-in-may": {
-    "id": "2109751",
-    "conditionId": "0x6dc5a86af811a567c65595a3af7844cd132f647589db0d24b22f51ae1a6365d5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-1-hits-in-the-us-in-may",
-    "negRisk": false
-  },
   "will-hype-flip-sol-by-december-31": {
     "id": "2109822",
     "conditionId": "0x0188297b3b68b403d98b82281f12f07fe041d3277edcb8f733e9282d3abfeb76",
@@ -114167,56 +113927,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-rt1-algo1-2026-05-02",
-    "negRisk": false
-  },
-  "will-usd-reach-2pt0m-iranian-rials-by-may-31": {
-    "id": "2116394",
-    "conditionId": "0x73e599a5a987ee9f739d1634d89aef38f55571e64630edf8a3b71f7d428583ea",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
-    "negRisk": false
-  },
-  "will-usd-reach-1pt9m-iranian-rials-by-may-31": {
-    "id": "2116395",
-    "conditionId": "0xf08efdf84d24228967df34cad753244b543af9df38799c0a965658ac8f2d5c13",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
-    "negRisk": false
-  },
-  "will-usd-fall-to-1pt7m-iranian-rials-by-may-31": {
-    "id": "2116397",
-    "conditionId": "0x82328689cf7f76da4029df8671057b126ca33334d7a05ef71924f5973d42ee4d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
-    "negRisk": false
-  },
-  "will-usd-fall-to-1pt6m-iranian-rials-by-may-31": {
-    "id": "2116398",
-    "conditionId": "0xf96d3cbe677cc4c4c89f31c5f45403b5ccd5c3e6291ddfc440500979db62c9e6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
-    "negRisk": false
-  },
-  "will-usd-fall-to-1pt5m-iranian-rials-by-may-31": {
-    "id": "2116399",
-    "conditionId": "0x38ff830f3bb3d53ce004f19a0ba4d1b2fd21720915fd5e3a70881c51a4c731e4",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usd-hit-iranian-rials-by-may-31",
     "negRisk": false
   },
   "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
@@ -115549,56 +115259,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-hawk-in-may": {
-    "id": "2117176",
-    "conditionId": "0x3a0439ed74b6ff49c748d8250e128a1701a5bb898ed4e4e63bb8c87238c714c9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-whale-in-may": {
-    "id": "2117187",
-    "conditionId": "0xe6cd18a3d579db04da1d975d966fd1f3e1bbc013f35866972c7b8728c85ef914",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-chicken-in-may": {
-    "id": "2117188",
-    "conditionId": "0x054b19858a092d4f7c10aa7e08265d80baf63d571436f99e52d3aecef93403e0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-goat-in-may": {
-    "id": "2117195",
-    "conditionId": "0x764e34f82d6d71b0b53c9816690464f24a4e245ca0854b624151cd040828a29f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
-    "negRisk": false
-  },
-  "will-trump-say-mouse-in-may": {
-    "id": "2117196",
-    "conditionId": "0xbb74e6b7534b5289070ce1b47db9daaad1d902890d69a28c36b8a7dda3d7a6e6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-animals-will-trump-say-in-may",
     "negRisk": false
   },
   "nz-election-labour-v-national-of-party-list-vote": {
@@ -119592,5 +119252,345 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-forzer-yl-2026-05-01",
     "negRisk": false
+  },
+  "cs2-forzer-yl-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2130448",
+    "conditionId": "0x8a1d401719b112c15f1c5db8c13021f7cd551e6dae2ec4fa695e37232dde59ab",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-yl-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-forzer-yl-2026-05-01-game3-odd-even-total-kills": {
+    "id": "2130450",
+    "conditionId": "0x2a00293f3ba04fd06ba3eb4e3bf15c42f19ca4991b925d2b6f554893d2487e1d",
+    "endDate": "2026-05-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-yl-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-mibra-vexa-2026-05-01-game1-odd-even-total-kills": {
+    "id": "2131318",
+    "conditionId": "0x5d7276de4f168e5a8ba47e30242bffedbd9ec0eb1f4a553e39bdf8fd7f95fa64",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-vexa-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-mibra-vexa-2026-05-01-game1-odd-even-total-rounds": {
+    "id": "2131319",
+    "conditionId": "0xe4c9c0cdfdcb51250b8ad62abdf8b17b34a80d9229273dd19af57d68a8e3c6e8",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-vexa-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-mibra-vexa-2026-05-01-game2-odd-even-total-kills": {
+    "id": "2131320",
+    "conditionId": "0xd1a8bbcf769e7704b7d65f045754cd1fbe32c1743be1c66c0dc600e8ffbb79bf",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-vexa-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-mibra-vexa-2026-05-01-game2-odd-even-total-rounds": {
+    "id": "2131321",
+    "conditionId": "0x6d98a2b06eacde9509f7d794818bca7c9b49585f4d78d95a35e71218620b5e95",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-vexa-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-mibra-vexa-2026-05-01-game3-odd-even-total-kills": {
+    "id": "2131322",
+    "conditionId": "0x3768fd5632cd7a635ce4abb5020688e7c2b8b1292fa1f2502c0e79412e941317",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-vexa-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-mibra-vexa-2026-05-01-game3-odd-even-total-rounds": {
+    "id": "2131323",
+    "conditionId": "0x12c17ec94b246172ef03a0c9bdc6cca6235edd6715d750a0e63cd1f99b14a0d7",
+    "endDate": "2026-05-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-vexa-2026-05-01",
+    "negRisk": false
+  },
+  "cs2-sinqu-kajo-2026-05-03-game1-odd-even-total-kills": {
+    "id": "2131330",
+    "conditionId": "0x5ad015e462383d2fe66c1cb9eea5710721e55a6d02aee1b106e37914fecb3b7b",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-kajo-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-sinqu-kajo-2026-05-03-game2-odd-even-total-kills": {
+    "id": "2131332",
+    "conditionId": "0xec1967a3a0553d54d8512adf6629da3e995bb7a6743020c603ed9a1b0b042362",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-kajo-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-ence-tmvg-2026-05-03-game1-odd-even-total-kills": {
+    "id": "2131341",
+    "conditionId": "0xd6baed56986a92c363e2c81cb8c6ae43d01ff2a3f3453faa1333cd9f1254cc29",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-tmvg-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-ence-tmvg-2026-05-03-game2-odd-even-total-kills": {
+    "id": "2131343",
+    "conditionId": "0x1bd899551228a691c5d2e90b23906cbebdff53c68ad18791f9edb8784d25cd2f",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-tmvg-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-kajo-bojong-2026-05-03-game1-odd-even-total-kills": {
+    "id": "2131352",
+    "conditionId": "0x979623ff22cbb4338524c78d5cc5f1aaa683b18baa93cc69187b1cef15a12353",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kajo-bojong-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-kajo-bojong-2026-05-03-game2-odd-even-total-kills": {
+    "id": "2131354",
+    "conditionId": "0x3db83edf5d99d74e71c613adabea045d2fac14da00dca4d98d704c172ae41ca3",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kajo-bojong-2026-05-03",
+    "negRisk": false
+  },
+  "kbo-lot-kt-2026-05-07": {
+    "id": "2132429",
+    "conditionId": "0x27a634bf188a40335d2a4793c9249de4636bcf9ffd2d0ed80b4862c9312e2991",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-lot-kt-2026-05-07",
+    "negRisk": false
+  },
+  "will-the-next-model-released-by-xai-debut-at-a-score-of-at-least-1440": {
+    "id": "2132745",
+    "conditionId": "0xb959c3951fec047ba1f1080eedbddfd7d2cc6e2b4a7382a0f8ac008318fbf56d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-xai-model-arena-debut",
+    "negRisk": false
+  },
+  "will-the-next-model-released-by-xai-debut-at-a-score-of-at-least-1460": {
+    "id": "2132746",
+    "conditionId": "0x6ce12ba86eb907e759c4d0804c5069b4735b90d85658f6f35c4aaa412430bd04",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-xai-model-arena-debut",
+    "negRisk": false
+  },
+  "will-the-next-model-released-by-xai-debut-at-a-score-of-at-least-1480": {
+    "id": "2132747",
+    "conditionId": "0x9000656d7cc2e397e6eda5b7f2ad3fe08142fdd4313b0baf5914323412037eda",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-xai-model-arena-debut",
+    "negRisk": false
+  },
+  "will-russia-capture-rai-oleksandrivka-by-june-30": {
+    "id": "2132908",
+    "conditionId": "0xe16f19898bb0a5e269658cd8fbc94452f437ee8bda08f9acd63e582e468842f2",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-rai-oleksandrivka-by-june-30",
+    "negRisk": false
+  },
+  "will-clmentine-autain-be-the-joint-left-nominee-for-the-2027-french-presidential-election-253": {
+    "id": "2133713",
+    "conditionId": "0x5d41eb4bfd60060736889586b701e6b2048d797d13b3f2a8db9696ded99ed6be",
+    "endDate": "2026-10-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "france-united-left-primary-winner",
+    "negRisk": true
+  },
+  "will-lydie-massard-be-the-joint-left-nominee-for-the-2027-french-presidential-election-672": {
+    "id": "2133714",
+    "conditionId": "0x21b6425a17c08cd0591b06aa70557091efbe42a3a4ee419ee397518db9de3af1",
+    "endDate": "2026-10-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "france-united-left-primary-winner",
+    "negRisk": true
+  },
+  "will-franois-ruffin-be-the-joint-left-nominee-for-the-2027-french-presidential-election-368": {
+    "id": "2133715",
+    "conditionId": "0xa477ec9c784c00561788cafb0301819e07d17c2ecd398df702aadaef3bef5c41",
+    "endDate": "2026-10-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "france-united-left-primary-winner",
+    "negRisk": true
+  },
+  "will-marine-tondelier-be-the-joint-left-nominee-for-the-2027-french-presidential-election-749": {
+    "id": "2133716",
+    "conditionId": "0x4978aacddbbb3b70611c7f1fea76a54a698b02a6dbea9ef38275f7e3147868ce",
+    "endDate": "2026-10-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "france-united-left-primary-winner",
+    "negRisk": true
+  },
+  "will-the-2026-united-left-primary-for-the-2027-french-presidential-election-be-canceled-596-546": {
+    "id": "2133718",
+    "conditionId": "0x4a8be083c607742c3ab1493d01075009865f5fc8cfbb0563370a8f0bea8cae74",
+    "endDate": "2026-10-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "france-united-left-primary-winner",
+    "negRisk": true
+  },
+  "will-benjamin-lucas-lundy-be-the-joint-left-nominee-for-the-2027-french-presidential-election-312": {
+    "id": "2133719",
+    "conditionId": "0xa9ae531c3b54b55c51fd8a481d330bd3baab6d190b53de22cc83844163673344",
+    "endDate": "2026-10-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "france-united-left-primary-winner",
+    "negRisk": true
+  },
+  "will-bernard-drainville-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133896",
+    "conditionId": "0x0b6aa768748d843dd14ddc58618e807e97fc1ed4ca9fd82f17cb2a4d8981df26",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-christine-frchette-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133897",
+    "conditionId": "0xa43974113a83acd2f2477e9561bc4a18baac2a3ff6afb087cd2e5662e19f9231",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-charles-milliard-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133898",
+    "conditionId": "0x5e459406c324de6bb2fb818ab9b8c4dba6149b48824fb45fc24ca521d77c08b4",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-ruba-ghazal-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133899",
+    "conditionId": "0xce9914e7ecc8e40350a68237ebbd5bc3b3233df935227714f6eed25cc220213a",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-paul-st-pierre-plamondon-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133900",
+    "conditionId": "0x61034413681fd41ffa301df1d1b9d530b0011ec756f526f9de7d21799b27c825",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-ric-duhaime-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133901",
+    "conditionId": "0xc7b0c43a506942c9a13b37330efa5bdfcc056acfc8da984f604da82f35505973",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-sol-zanetti-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election": {
+    "id": "2133902",
+    "conditionId": "0xcb497769b1fa2c2d141b60c700b3a44589028d06bb3927f05cb8d77313c065f6",
+    "endDate": "2026-10-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-premier-of-quebec-594",
+    "negRisk": true
+  },
+  "will-tucker-carlson-announce-presidential-run-by-june-30": {
+    "id": "2134149",
+    "conditionId": "0x488793853f134d0a2589a57b34af4fe834e2730eaca2b22bf1c8fc061d2630e4",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tucker-carlson-announce-presidential-run-by-june-30",
+    "negRisk": false
+  },
+  "will-blues-win-the-2026-super-rugby-pacific-grand-final": {
+    "id": "2134582",
+    "conditionId": "0xcd196e592df1e82c16dbbf6a12283e527c6f348aad949aa3e352606ad89848a3",
+    "endDate": "2026-06-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "super-rugby-pacific-winner",
+    "negRisk": true
   }
 }
