@@ -7072,36 +7072,6 @@
     "eventSlug": "nhl-2025-26-jack-adams-award",
     "negRisk": true
   },
-  "nhl-2025-26-james-norris-memorial-trophy-cale-makar": {
-    "id": "645609",
-    "conditionId": "0x302dfdd90b4483c21fa42ea49dc4c79375f5ed8dd562c9b509872e16acad22c8",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-james-norris-memorial-trophy",
-    "negRisk": true
-  },
-  "nhl-2025-26-james-norris-memorial-trophy-zach-werenski": {
-    "id": "645611",
-    "conditionId": "0xcca00a38f0f18a736c18f8119e1baf040be49ebf7340fdd43f95397e679fb8a2",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-james-norris-memorial-trophy",
-    "negRisk": true
-  },
-  "nhl-2025-26-james-norris-memorial-trophy-rasmus-dahlin": {
-    "id": "645612",
-    "conditionId": "0x438bdf9f2ace2de8e1bfc0ab3a476c6c36d6d354a300e0c0f859b82910018195",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-james-norris-memorial-trophy",
-    "negRisk": true
-  },
   "nhl-2025-26-vezina-trophy-andrei-vasilevskiy": {
     "id": "645803",
     "conditionId": "0x06d5dcfb8bd0d9c52c262d8a098bb6dbdb08cb5f7722ac3e41e0030971157ab7",
@@ -34199,16 +34169,6 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-rafael-jodar-win-the-2026-mens-french-open": {
-    "id": "1087553",
-    "conditionId": "0x3e166e94d38707543b2e951c325eb9b917468b99e75294d11cd853587364d934",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-aryna-sabalenka-win-the-2026-womens-french-open": {
     "id": "1087760",
     "conditionId": "0x04b07eb732d888c94096b4fc46dc747b745e06749c21ed2e633ca7e1a6586647",
@@ -34222,16 +34182,6 @@
   "will-mirra-andreeva-win-the-2026-womens-french-open": {
     "id": "1087762",
     "conditionId": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-elina-svitolina-win-the-2026-womens-french-open": {
-    "id": "1087768",
-    "conditionId": "0xa3879b3a8991b8335f3da24e98a15b90e72eb2e68b9f506fca224dabf45d3af6",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -68156,96 +68106,6 @@
     "eventSlug": "ufc-mic8-car7-2026-03-28",
     "negRisk": false
   },
-  "ufc-mar91-zhu-2026-03-28": {
-    "id": "1527934",
-    "conditionId": "0xf7a52d7372e1e596cfca88bb044c931f7ba6e2c42b20c4c834534bd422fd0c90",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-go-the-distance": {
-    "id": "1527935",
-    "conditionId": "0x6436c7b56aa980d63871f00d15eb043bf0c3e2d7cc6ea95fc71d5629f2856a19",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-win-by-ko-tko": {
-    "id": "1527937",
-    "conditionId": "0x8f8ef7b36b97fc091dbb556f0b0ae00540b994f88cee771a53aa0cac8705d10f",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-barbosa-win-by-ko-tko": {
-    "id": "1527938",
-    "conditionId": "0x6e2326a65c5a395ed9c11be14436f472ceca6dd22f5eee47a43aec06a329f5de",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-kangjie-win-by-ko-tko": {
-    "id": "1527940",
-    "conditionId": "0xab92b78dd76635b7dbfea9e6b4fd6899835d72697acf294e427e309f189b1f49",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-win-by-submission": {
-    "id": "1527941",
-    "conditionId": "0x6e7fef4d35594ef63912daace3750743e634c02e3ed41044d0ac44308c27f114",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-totals-0pt5": {
-    "id": "1527942",
-    "conditionId": "0x4c38384c066f5fe6e8063619bc56d5b8fcdb9957aa13f981f858bec15be4bdf1",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-totals-1pt5": {
-    "id": "1527943",
-    "conditionId": "0x58c32adfdbebff35603429219fcc0be7dee9cd32b8b7ea0182002da07e6b9740",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-mar91-zhu-2026-03-28-totals-2pt5": {
-    "id": "1527944",
-    "conditionId": "0xc52fa06486763106542fa724344bba0befca26e76e4b2ec81ac9fd4f42901fa8",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mar91-zhu-2026-03-28",
-    "negRisk": false
-  },
   "ufc-ste33-car24-2026-03-28": {
     "id": "1527946",
     "conditionId": "0xb2614dff6c01913676bdcca4769666a66c4130d17d16fe58fda5db15f658c7ce",
@@ -76476,16 +76336,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "scotus-strikes-down-trumps-birthright-citizenship-eo",
-    "negRisk": false
-  },
-  "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may": {
-    "id": "1809560",
-    "conditionId": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
     "negRisk": false
   },
   "will-big-tobacco-buy-lucy-nicotine-pouches": {
@@ -85275,16 +85125,6 @@
     "eventSlug": "lol-lpl-2026-split-2-winner",
     "negRisk": true
   },
-  "will-thundertalk-gaming-win-lpl-2026-split-2": {
-    "id": "1901263",
-    "conditionId": "0xa1f162e3156ab131aec4b325102b8d3be55d0f1d0b1d349fb4a406867a33d1b6",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-lgd-gaming-win-lpl-2026-split-2": {
     "id": "1901264",
     "conditionId": "0xfc3f825b9f6f4506a842ec71711d73030a3cbed8200b81dd8ba8d56db5512a4d",
@@ -86224,9 +86064,9 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-rafael-jodar-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920472",
-    "conditionId": "0x79c0db8c09b6cd7e8e7265f3eb3f4cd8055844bdc730cbab4d22d9d0479fe7e2",
+  "will-joao-fonseca-win-the-2026-roland-garros-mens-singles": {
+    "id": "1920476",
+    "conditionId": "0xcbdfd5760691fedd8a0ebf3df668fdddb2b76455d7143a74ceb241361f20da88",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -88604,26 +88444,6 @@
     "eventSlug": "will-apple-stop-selling-macbook-neo",
     "negRisk": false
   },
-  "cs2-quin-mibra-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1971229",
-    "conditionId": "0xfea0128a98e3baeae4790b58dcf818ba314b5434de9098778e60eed9d37e8898",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-quin-mibra-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-quin-mibra-2026-04-13-game2-odd-even-total-kills": {
-    "id": "1971231",
-    "conditionId": "0x9dbe0f025b27b76d001ad0e1f2cada0fabd7ce76dfc25384c0588a0b22669e2e",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-quin-mibra-2026-04-13",
-    "negRisk": false
-  },
   "cs2-alkaa-hwga-2026-04-14-game1-odd-even-total-kills": {
     "id": "1971843",
     "conditionId": "0xa895cf26bb3574c9c091843e5152bc4c7cb69df28c95bf7c4d037f4e22b2aa24",
@@ -90212,16 +90032,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "dota2-l1ga-bb4-2026-04-14",
-    "negRisk": false
-  },
-  "bab-el-mandeb-strait-effectively-closed-by-may-31": {
-    "id": "1980863",
-    "conditionId": "0x9647b0f18083245933f2d2ca09acbe7ce89ee60ba83ed01e984df4bc7888a214",
-    "endDate": "2026-04-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bab-el-mandeb-strait-effectively-closed-by",
     "negRisk": false
   },
   "will-gavin-newsom-be-the-2028-democratic-vice-presidential-nominee": {
@@ -104384,46 +104194,6 @@
     "eventSlug": "daegu-mayoral-election-winner",
     "negRisk": true
   },
-  "will-lex-remiro-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062930",
-    "conditionId": "0x43cc945b9b72faf60ae18e0ea43544e44b6aa1d441cfa423531ebe6a602375aa",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-cristhian-mosquera-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062936",
-    "conditionId": "0xf964d28f5b214f61dfa379744d7ca03515d43213e1ba07bac9612018e46418fa",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-fermn-lpez-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062944",
-    "conditionId": "0xa0840d386b5ae4a8f1a7921bc3a61ee5381e6545eb0e1fd18db080db33f3ecae",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
-  "will-ander-barrenetxea-be-included-in-spains-official-2026-world-cup-squad-list": {
-    "id": "2062954",
-    "conditionId": "0xe900269ce01b9467b2b57e51bf7130dc380554a076d3178b5501f52d0ef9d2b8",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-spain-squad",
-    "negRisk": false
-  },
   "will-iceman-be-no1-for-2-weeks-766": {
     "id": "2062965",
     "conditionId": "0xbdd246a0b2283a963b946a1272db382e508ada8bb8d454b7839006d587a7d48a",
@@ -104453,16 +104223,6 @@
     "acceptingOrders": true,
     "eventSlug": "how-many-weeks-will-iceman-be-no1-on-the-billboard-200-866",
     "negRisk": true
-  },
-  "will-jason-steele-be-included-in-englands-official-2026-world-cup-squad-list": {
-    "id": "2063082",
-    "conditionId": "0x198d23ff0b96dd7a251a9ecc5ccf98036fa6879e144f7dae0161650cb693776a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-england-squad",
-    "negRisk": false
   },
   "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia": {
     "id": "2063128",
@@ -104544,16 +104304,6 @@
     "eventSlug": "next-prime-minister-of-ethiopia",
     "negRisk": true
   },
-  "will-bento-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063168",
-    "conditionId": "0x6d3de6ad4c641d606a009a8b3c643853e286d2e25cb708e8ee0c517cee2b356c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
   "will-kaiki-be-included-in-brazils-official-2026-world-cup-squad-list": {
     "id": "2063174",
     "conditionId": "0x643928f70848fdb55e43bbf6a974c2830dcfeae8ff5317dec4925fb1accd845c",
@@ -104562,533 +104312,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-andrey-santos-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063179",
-    "conditionId": "0x3e3fdc9572e754a1133da5036ce4d224bc29ed4f453fdba734fbd49929913535",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-danilo-botafogo-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063181",
-    "conditionId": "0x3ad621a21135e15b9cbfd6f869a6a2a15d68e001ce1c52041f8d750e57e7bc02",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-gabriel-sara-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063183",
-    "conditionId": "0x277177920b8422de4d19160812ab5a1d69332bf55f141518a74cb61a55f6b9de",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-joo-pedro-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063187",
-    "conditionId": "0x830397c9111469e48736fd0a9d57f58db8a720644588cfac80938ccd609cd716",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-rodrygo-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063193",
-    "conditionId": "0x6bf225e4b1722ca49e4c90ea3cc491e6be7dd082cc09c3e68b79552d0c4806d5",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-der-milito-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063195",
-    "conditionId": "0xa3a9bb6798ebc439c48781824defc63784c03b41803819f6fb3412884f9879ef",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-estvo-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063196",
-    "conditionId": "0x579cf85cb89f4d1364591a0d38ef882b49c4ef9a0e156876033adc8a16226ab0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-vitor-roque-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063199",
-    "conditionId": "0x3ac2a3efada30a245684eae918d1e3f2aa56ab8840de09ec9b641eaef04039b7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-richarlison-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063200",
-    "conditionId": "0x9e7490202c2a190d008dc89c0346548e1c04131270aad8932171d68c9b70ed4b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-savinho-be-included-in-brazils-official-2026-world-cup-squad-list": {
-    "id": "2063201",
-    "conditionId": "0xd3c7e125dbd821e6c7f60c1788af58ad9a04d9dd094dbaa7403f27910651f73b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-brazil-squad",
-    "negRisk": false
-  },
-  "will-toms-palacios-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063250",
-    "conditionId": "0x7a2c647cfb51c3c025e884111eaa9bbcaf06fab47330ceebe7a557f1d6489e50",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-gabriel-rojas-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063254",
-    "conditionId": "0x6eedb52c8a445ac59372d29c00b4a2209fde933e98f8e3a05ca5aebb6ad14710",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-marcos-senesi-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063256",
-    "conditionId": "0x5206a5c833b1e36d55947a0a03e150844da41e2db8556fc0946de707bcadd5fd",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-mximo-perrone-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063265",
-    "conditionId": "0xc826baff01deaea695bcf7ee7f1a25d655302d2522351cc41809103a28c61f9e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-gianluca-prestianni-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063270",
-    "conditionId": "0x2140882f180325b721beb84c2d995b68bfed16b3d254235e5f873e1125daa749",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-franco-mastantuono-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063272",
-    "conditionId": "0x0a82abd8dab4817c8012b40a3b16ad247a6af2e9205ffbedac07e059364a64dd",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-lucas-martnez-quarta-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063273",
-    "conditionId": "0x03a4ca47553e594357af763c4376ecb9b6f793dcd74efac65b5851df93a22cbe",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-agustn-giay-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063274",
-    "conditionId": "0xf985f19684bf7529a9ce53599c3c85da7c636f3753a821c3d360273cf591cd92",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-joaqun-panichelli-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063275",
-    "conditionId": "0x70c90fd2ef0046534cb12a6d97b6c2a249d2f26adebec21b2ec7c2fb57176ded",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-alejandro-garnacho-be-included-in-argentinas-official-2026-world-cup-squad-list": {
-    "id": "2063279",
-    "conditionId": "0xbc39ba784fd3dc7376c3c6ace5dc9f023cf00af212d21978375254b66ccfc148",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-argentina-squad",
-    "negRisk": false
-  },
-  "will-patrick-schulte-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063289",
-    "conditionId": "0x9230efe895053360c4adfbc230dd7312c9968956c624fb38491f70f11049ebf1",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-johnny-cardoso-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063301",
-    "conditionId": "0x8740b8eb27ab00e5bdac505a9924d27830abf4dfa766dbe899fe7cd4d63cc522",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-aidan-morris-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063303",
-    "conditionId": "0xfcc1cbda546a8b54c862a26347f7c5fe63f7c7e68d8aaa7fea5b8dfb8688cfec",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-tanner-tessmann-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063306",
-    "conditionId": "0x1e9183c0dfa97ad33413cd0c369953f7b64f38635babc3bbb03a5c258100a760",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-patrick-agyemang-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063309",
-    "conditionId": "0xdeb46ce53d279b0ee4c2910b817ae07234decc7b2a039d5bb14f50715d2875f4",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-yunus-musah-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063316",
-    "conditionId": "0xafd929b4bbf17d97db700cd02aa6b6f2a297404d2750bbe35171236606fc5da8",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-diego-luna-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063317",
-    "conditionId": "0x6e0f39cf2a68a95c42d5cfed1702ad7fc2ad57de2322aa438787d2e992111d40",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-cade-cowell-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063318",
-    "conditionId": "0x79f0c57f67d74c9bf5db6a2b526f5120d65b291f0c3afe305fbd17f4cabc5c81",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-luca-de-la-torre-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063319",
-    "conditionId": "0x87da3551fb1a4e8dcb6057acb464352708129850fff8391f5cd2748c22a5b2f6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-josh-sargent-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063320",
-    "conditionId": "0x1d42986c3f8ced53a844a00c13da798608116c7a2f1c0d479409aad4e7592355",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-jordan-morris-be-included-in-the-usas-official-2026-world-cup-squad-list": {
-    "id": "2063321",
-    "conditionId": "0x12032f792c26bc7e12596503acb13f7d6cd5bb53751613d41eee99095f32d500",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-usa-squad",
-    "negRisk": false
-  },
-  "will-justin-bijlow-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063370",
-    "conditionId": "0xee3c582115fae415c545e2ae0aa5626f30c818326d6db568e65a762f99f2bb0f",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-jeremie-frimpong-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063376",
-    "conditionId": "0xfbae2ba3b104ddcb2b8cabac2824eb75a8e41d476f9efff68c0e99dd9af9f71e",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-stefan-de-vrij-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063380",
-    "conditionId": "0x8204381114540bb19eb3c5fdc67c14b1aee0e8dcab06058d6032b4bcad853ccf",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-lutsharel-geertruida-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063382",
-    "conditionId": "0x2fe0415c3e9564b4d8ae13a5a615b53905e9498619763ec5facedaf4f2977e65",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-jerdy-schouten-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063385",
-    "conditionId": "0x65cf3e07caf9daf0cf9839f3ac60401e5b731780d618243484fe321cb4a52e3d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-kees-smit-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063386",
-    "conditionId": "0x716849bd719f43e8f1a8c133f5f1f0950f203b70a285da417fc25e9b9fcf0514",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-luciano-valente-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063388",
-    "conditionId": "0xbd20b1e30f223e7b72d0b06eb3c2d7109fe6b5805583422a1e7f04deb017c0cd",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-xavi-simons-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063394",
-    "conditionId": "0x2478a45e24abfdc56e7f60acf206f33163942f8c3646fcfe9d90efe10a69085d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-matthijs-de-ligt-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063398",
-    "conditionId": "0x5956b789532e53880fce512e5263a65c4dc34d1ad75e8acd7a992a7722071200",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-joshua-zirkzee-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063399",
-    "conditionId": "0xbb412553835b86e017f88d5d286f8058751900a450b7c79ba1f75341f7ce1e2c",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-joey-veerman-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063400",
-    "conditionId": "0x04b168ff01a7d263c33611ef81a31b9c37fa4fdf9dc9327b8026e2efcf15bc9d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-ian-maatsen-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063402",
-    "conditionId": "0x97ac133eb95766113e8da9f6f6a0f90e387b18c1163695c94c00b7caf8745da7",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-emanuel-emegha-be-included-in-the-netherlands-official-2026-world-cup-squad-list": {
-    "id": "2063403",
-    "conditionId": "0xef21741a8b5d8602fe138ec29bd4ac2c7e504fe7f4e3146131eeb314198c6183",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-netherlands-squad",
-    "negRisk": false
-  },
-  "will-jonas-urbig-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063414",
-    "conditionId": "0xd066083a97600459c9ed5359f0b9df6ec0337b7fade3c97c3cad514cff98a2f2",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-josha-vagnoman-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063423",
-    "conditionId": "0x6388fd426015ecf23e55229c351ced515d8cafcf7f05632168b0cd5971999c6f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-anton-stach-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063428",
-    "conditionId": "0x797e20c30d8ec6fad013ac20512a9b44126aba95f4d2fc003ef22b4b4746a6f8",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-serge-gnabry-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063430",
-    "conditionId": "0x967de5d490cb2589a08541c4b4fe3b177c63d5c2066a2a438d0ef4bb4d2489fd",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-kevin-schade-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063435",
-    "conditionId": "0x06c06196b4b79837e083eb5b050d2362a782d070f3cb88221ed0d4a23c6b4558",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-karim-adeyemi-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063440",
-    "conditionId": "0x064f08b1534dcf2b32f35a02c189f2aeedc76a83a46ee74f3554fb24ad473c81",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-robert-andrich-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063442",
-    "conditionId": "0x4b22c2ed930542a88dae292dac341ac9ddd7d0fa4e64f658f2b9abdcc7cb407a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-finn-dahmen-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063443",
-    "conditionId": "0x1c8c1239fcadeb718f1173c7fe69cb8ce894e5288faf0ede13c7b1e94d70f4f3",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-maximilian-mittelstdt-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063444",
-    "conditionId": "0x6f2105bc0a2680b4f788501ddda77e59d38274f90f56590ee6aee12f3bbd490e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
-    "negRisk": false
-  },
-  "will-chris-fhrich-be-included-in-germanys-official-2026-world-cup-squad-list": {
-    "id": "2063446",
-    "conditionId": "0x80f0a1ac43a7b15555298fdfc7bf121c57377fd8ecd82d5a5a2635996bb0664d",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-player-to-make-germany-squad",
     "negRisk": false
   },
   "dota2-sar1-1win-2026-04-25-game1-first-blood": {
@@ -116761,36 +115984,6 @@
     "eventSlug": "nothing-ever-happens-may-745",
     "negRisk": false
   },
-  "will-20-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
-    "id": "2119070",
-    "conditionId": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
-    "negRisk": false
-  },
-  "will-40-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
-    "id": "2119071",
-    "conditionId": "0xe02033cef06e942fbe1fdc9cc259abe9682265d349642598ab27ad677083d054",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
-    "negRisk": false
-  },
-  "will-60-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31": {
-    "id": "2119072",
-    "conditionId": "0x4dec0ddb49e5b4c025ee04135a4e1c99c47cb47e12113056f84f41979fc4e4de",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
-    "negRisk": false
-  },
   "will-benny-gantz-join-the-bennett-lapid-alliance-by-june-30": {
     "id": "2119098",
     "conditionId": "0x8af1b7c630170aef605aa57f67cf4170f04c8c106e594b4cca5e0143842f4a7f",
@@ -116800,56 +115993,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-benny-gantz-join-the-bennett-lapid-alliance-by-june-30",
     "negRisk": false
-  },
-  "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-may-31-942": {
-    "id": "2119126",
-    "conditionId": "0x20ae35bd487697804e51fbd1e2a2019b977ba0ead721d3cd743211c3e16b15e1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
-    "negRisk": true
-  },
-  "will-there-be-between-10-and-20-average-daily-transits-of-the-strait-of-hormuz-on-may-31-822": {
-    "id": "2119127",
-    "conditionId": "0xaa9e7883499172e6585601542570e05965039265604c8d256c9ff7f149a811d7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
-    "negRisk": true
-  },
-  "will-there-be-between-20-and-40-average-daily-transits-of-the-strait-of-hormuz-on-may-31-569": {
-    "id": "2119128",
-    "conditionId": "0x09b4c47a6308364eb408ba749909816582120894769648e9ebc39eb8fe6076cf",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
-    "negRisk": true
-  },
-  "will-there-be-between-40-and-60-average-daily-transits-of-the-strait-of-hormuz-on-may-31-593": {
-    "id": "2119129",
-    "conditionId": "0x8c6e7f850d768bfa5c2295a5b04d3682050f5deaa78dca95816da1651e1c66a0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
-    "negRisk": true
-  },
-  "will-there-be-60-or-more-average-daily-transits-of-the-strait-of-hormuz-on-may-31-474": {
-    "id": "2119130",
-    "conditionId": "0xd5e92e7b74622744a547269f546396efff4f4c30af7a0ce7af51bbaa67a83339",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
-    "negRisk": true
   },
   "apyx-fdv-above-50m-one-day-after-launch": {
     "id": "2119246",
@@ -116949,78 +116092,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "megaeth-airdrop-by",
-    "negRisk": false
-  },
-  "will-antnio-silva-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119536",
-    "conditionId": "0x3b9c63840cc0e18a5142d73184815cf1e7b04227c9076539d50e8ec4a816328d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-mateus-fernandes-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119540",
-    "conditionId": "0xcf8615e1dcbacc87eb264ea62526d7137945b9dfb305eebd4ab20982b097c0a6",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-rodrigo-mora-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119544",
-    "conditionId": "0x746b0632807c3ecdea2d2effd0be7b5947e54ef749464b746fdf51e585b1b83a",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-ricardo-horta-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119545",
-    "conditionId": "0xfedba37972afe5187ae38e8572d3dc356ce35a40040ad131891594d190202506",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-pedro-gonalves-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119546",
-    "conditionId": "0x5ae3f4083c272d5e1849fa5dd320f6716a1e0518957f440c9c955ece276695ab",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-bruma-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119557",
-    "conditionId": "0xbf511f9b52a61b465e0bd6e075f9bdce9c520ce25a743c28f08de273ee25661f",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-andr-silva-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119560",
-    "conditionId": "0x04e28f14dfb41fc670ecae9e73d3533a79367f6bf2d80200a2121b76b5f52c0d",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
-    "negRisk": false
-  },
-  "will-pepe-be-included-in-portugals-official-2026-world-cup-squad-list": {
-    "id": "2119561",
-    "conditionId": "0xc0a3218acbbaa885ef983e23f09bd627c44e1b1daaf2311f598aa96b522ea0b3",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-player-to-make-portugal-squad",
     "negRisk": false
   },
   "will-russia-capture-all-of-stepnohirsk-by-september-30-2026": {
@@ -117591,36 +116662,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "another-iranian-diplomat-expelled-by-june-30",
-    "negRisk": false
-  },
-  "will-gas-hit-high-5pt00-by-may-31": {
-    "id": "2126439",
-    "conditionId": "0x7c1fba11dac52d10d6a37470188e949a3f7502f8ee84232f525ec5d29a7a8790",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-high-4pt70-by-may-31": {
-    "id": "2126440",
-    "conditionId": "0x7f985cdf3f8fab6368ad8eb1b9a80d87efff1ad791339c46ce9580e41fafbe3a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-high-4pt60-by-may-31": {
-    "id": "2126441",
-    "conditionId": "0x228699193173c0ca040592790a8c3adf1106ed5ab542d3397afb119c0eb2d9c2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
     "negRisk": false
   },
   "will-gas-hit-low-4pt25-by-may-31": {
@@ -119591,6 +118632,986 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-mjx-yl-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-mjx-yl-2026-05-03-game2-odd-even-total-kills": {
+    "id": "2146111",
+    "conditionId": "0x7065a4df1c49682894b97b2b62da5460d8909bdd4cd659b7fca621e4c75c70e6",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mjx-yl-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-mjx-yl-2026-05-03-game3-odd-even-total-kills": {
+    "id": "2146113",
+    "conditionId": "0xfbb0454103149c13e3fd086ea9a97a14e4a296b42121d996c40935e835308f87",
+    "endDate": "2026-05-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mjx-yl-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-reda-quin-2026-05-03-game1-odd-even-total-kills": {
+    "id": "2147769",
+    "conditionId": "0xe88cf3fb200fbd2d23a414003c922ab09ac152f2ad7f353cfb085476a4cbdf55",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-quin-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-reda-quin-2026-05-03-game1-odd-even-total-rounds": {
+    "id": "2147770",
+    "conditionId": "0x5d262d4f9d7808e70e00ab1372d0d7a0c9562d75e2bd08dd778c420c8ef399bd",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-quin-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-reda-quin-2026-05-03-game2-odd-even-total-kills": {
+    "id": "2147771",
+    "conditionId": "0xde0d773e56418b3c1e255c6523ea08c97628d5cd404316daaf812e91228ee8b6",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-quin-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-reda-quin-2026-05-03-game2-odd-even-total-rounds": {
+    "id": "2147772",
+    "conditionId": "0xc8b1543c188791aed2d56abdaa72dcb35f82794ee2d6dfb2718d1f225b02584f",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-quin-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-reda-quin-2026-05-03-game3-odd-even-total-kills": {
+    "id": "2147773",
+    "conditionId": "0xb75e28ed906a83977339d28a78160ddbbffc6ebcd998899547b4ca79465210a9",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-quin-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-reda-quin-2026-05-03-game3-odd-even-total-rounds": {
+    "id": "2147774",
+    "conditionId": "0xab6c926d86896b80cf4a6d7979ebbb3e7fe2b4049c2db789a86184bde4eaf212",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-reda-quin-2026-05-03",
+    "negRisk": false
+  },
+  "cs2-msc-str4-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2147852",
+    "conditionId": "0x531ea0f93e5bf8da573cae10e31451039e817e5b627e9a1bdacd96e362260c83",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-msc-str4-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-msc-str4-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2147854",
+    "conditionId": "0x5acd571fc7b1f384a0e4ee9af62adbca9c76f998496ff3d25eaebd9fc193b0eb",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-msc-str4-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-msc-str4-2026-05-04-game3-odd-even-total-kills": {
+    "id": "2147858",
+    "conditionId": "0x135703b3ff78ffd3335f9424a68436f0dd6ec6d8bb775cc8b7d056430abc2bc5",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-msc-str4-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-masq-washed-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2147875",
+    "conditionId": "0xc821aaf9a1b8d63d6654d82507f7d60a7dc80c3e07ae3dce125e050b7c5e1f08",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-washed-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-masq-washed-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2147881",
+    "conditionId": "0xa84af2b311145be15a02949df7136537e9e392303aafad79dc78eb3eada91c91",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-washed-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-sashia-aabb-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2147905",
+    "conditionId": "0xe2f82baeaa29eff3dee707216ab846e3417e42a3f29bb3367cd4810c271d314b",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sashia-aabb-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-sashia-aabb-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2147909",
+    "conditionId": "0xc219c21bdab34bb1443e805fd44f86afbebc3fce65b03a4c16a96360848044ae",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sashia-aabb-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-xi-for10-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2147930",
+    "conditionId": "0x354d1382c40c634f59ab86c05d27947db4ce1ac160911da72daf8172c7445e47",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xi-for10-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-xi-for10-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2147934",
+    "conditionId": "0xd00af0e88fff462b4bc4b5ee7612cbbaee88d183ea64be4050893543e12da134",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xi-for10-2026-05-04",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-spread-home-1pt5": {
+    "id": "2148746",
+    "conditionId": "0x01868ec459e334263176020589cdfb38eb2034326ea098fc31b08faf3b258ff2",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-spread-away-1pt5": {
+    "id": "2148749",
+    "conditionId": "0x01dbab8f2eb77d1516f5a28991c6b8a973d585f3fff710365d7b0125bb80e53b",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-spread-home-2pt5": {
+    "id": "2148753",
+    "conditionId": "0x03225a6e8c4432c0f7fbd6598dc496af0dc9beef8a7b0d90a9b9534d7c239df4",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-spread-away-2pt5": {
+    "id": "2148756",
+    "conditionId": "0x19dbe767f77e9269a08280a46a7b8eb4cc0736d44be374bd9a4f1985f28a66d1",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-total-0pt5": {
+    "id": "2148760",
+    "conditionId": "0xf65602cbca820471880bd6d6acfdef7809072bcb6a831439556cc68922df5911",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-total-1pt5": {
+    "id": "2148764",
+    "conditionId": "0x2d4844c8610d0369e1c65cd1f888e59414246e5a447c81c6773eac6bc5133cc6",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-total-2pt5": {
+    "id": "2148769",
+    "conditionId": "0xf4a6f9dd31b1db51f6f8f21844a6a0264f92388c3b9a5990de984dbf90c51934",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-total-3pt5": {
+    "id": "2148774",
+    "conditionId": "0x719300336ca9497ba8228e2c75f19e2554e17d9b00a7c026364d977b80217dc7",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-total-4pt5": {
+    "id": "2148776",
+    "conditionId": "0x7be8d3cbb618de2e60c1fc05fec1c4aa7b80a55320ae52d9802a74ba5d6b3c41",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-total-5pt5": {
+    "id": "2148779",
+    "conditionId": "0x4a0c863b479e83424b6eff0c45c6b06e0b9080cb8a37642bd20a2468eaded2f3",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "nor-lil-vik-2026-05-30-btts": {
+    "id": "2148782",
+    "conditionId": "0x227ceda7a51e68b609dcfbd7475c5a64a9bd5e30c4316e23abe65ae99b170ee9",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-oru": {
+    "id": "2149888",
+    "conditionId": "0x2df00f4109738649ae950c6b535bd2567fc5f895771fae7860d15509d4753e9a",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30",
+    "negRisk": true
+  },
+  "bol1-oru-gvs-2026-05-30-draw": {
+    "id": "2149889",
+    "conditionId": "0x17bef47b82dcfeb54d799f5fb132416477b090110dc13cdc3df716438d02f8f3",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30",
+    "negRisk": true
+  },
+  "bol1-oru-gvs-2026-05-30-gvs": {
+    "id": "2149890",
+    "conditionId": "0x37daae6c46e640158d87a4d5eed9ffd939eff3d5674b0f3e688c88646ff73bf5",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-tom": {
+    "id": "2149894",
+    "conditionId": "0xfb1a83d9c92266a832e164a83b8a8cdf48d04bce123102d077b99e12ddb7a639",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-draw": {
+    "id": "2149897",
+    "conditionId": "0x1cf9afd770e56c69368907494ba6cdd22f36c2019f574452a522a81dc37020a8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-idp": {
+    "id": "2149899",
+    "conditionId": "0x69f6afb420ceb50db61ec2d5012001f4ba9387df07b51c7b10f827355efbb72a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-pot": {
+    "id": "2149902",
+    "conditionId": "0x65bc106ef652c3a2faea1e564f1abfd2eb4d25d634dfedef09340cdeeeacffe1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-draw": {
+    "id": "2149904",
+    "conditionId": "0x5d2a60abd4e00671c731a7d985fcd45e64363cb95ef8404b177f92b30effe63a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-nap": {
+    "id": "2149908",
+    "conditionId": "0xeb46b94cafae9742373be2d73118781995ce9b922b8dccd6725bf6e510f2cc80",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31",
+    "negRisk": true
+  },
+  "cs2-ksm-boyban-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2150571",
+    "conditionId": "0x1c63466ed25cb68de60e282bef71990d7824c01030f846a96e43615ea2056b5c",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ksm-boyban-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-ksm-boyban-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2150575",
+    "conditionId": "0x639302c322c3081a15946c9cc2e4b01ccb09c3503611c8a26ccc2ff51a279362",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ksm-boyban-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-cad-p2n-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2150596",
+    "conditionId": "0x9170925bf63ef0b65606d680eec8021a5cfd22a13b543177de7076f73e0b69de",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cad-p2n-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-cad-p2n-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2150600",
+    "conditionId": "0xa91ef0fc1734aac78a955a1067bd62891ad8c914c7492618fde071df15d0ff5b",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cad-p2n-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-cad-p2n-2026-05-04-game3-odd-even-total-kills": {
+    "id": "2150604",
+    "conditionId": "0x011444af11997aa1abc2a21fba3518091121583134a84e1d3c7e0b9b30d94617",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cad-p2n-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-cirahv-sinqu-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2150618",
+    "conditionId": "0x2602d843543996f985880d61cf0baa403b9c758bc2669e1d5b97ad840f93b418",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cirahv-sinqu-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-cirahv-sinqu-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2150622",
+    "conditionId": "0xa6fc48ca12e783a37831326d2c39b2ac1a3798c23d1bea93d25feb0b640217b6",
+    "endDate": "2026-05-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cirahv-sinqu-2026-05-04",
+    "negRisk": false
+  },
+  "doj-reopens-powell-investigation-by-june-30": {
+    "id": "2151685",
+    "conditionId": "0xeaf7739a409df6c318d72ae693c7d560e75bb446066a6477882d8270a83ccaf0",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "doj-reopens-powell-investigation-by",
+    "negRisk": false
+  },
+  "cs2-ldp-paina-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2151890",
+    "conditionId": "0xc7c18ff6324b042919841a95622d1eed249d957179cda1962f77cf14b07d4814",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ldp-paina-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-ldp-paina-2026-05-04-game2-odd-even-total-kills": {
+    "id": "2151892",
+    "conditionId": "0xc20565c1cd5b93a2c33b262110eddf1872a55301cc9f37ab0e3d69a1e9de01ef",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ldp-paina-2026-05-04",
+    "negRisk": false
+  },
+  "epl-eve-sun-2026-05-17-exact-score-any-other": {
+    "id": "2152786",
+    "conditionId": "0x022e03710c58b292f4f5815d8131a6988ab8a6d2c1210ba65e58d83ec71f6b0f",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-eve-sun-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "cs2-bojong-zotix-2026-05-04-game1-odd-even-total-kills": {
+    "id": "2153768",
+    "conditionId": "0xca3bbaef9c3f90def6813b123146a330423990b2fd2dab78d605f8f32db487fd",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bojong-zotix-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-bojong-zotix-2026-05-04-game1-odd-even-total-rounds": {
+    "id": "2153769",
+    "conditionId": "0x6039ad511ba249166dcdf4ccb05ed32cb0c5125d2bf8bc566dae5819ecf747dc",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bojong-zotix-2026-05-04",
+    "negRisk": false
+  },
+  "cs2-mw-9daplu-2026-05-05-game1-odd-even-total-kills": {
+    "id": "2154151",
+    "conditionId": "0xd7bc94df349aa02fb8c783c54b6ffc1be838ff4b690c1b75eb78c25b278c9246",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mw-9daplu-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-mw-9daplu-2026-05-05-game2-odd-even-total-kills": {
+    "id": "2154156",
+    "conditionId": "0x69338ec399f815718ef518b3d54085c3b7967a453ba10869fb4870fc8e04ea01",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mw-9daplu-2026-05-05",
+    "negRisk": false
+  },
+  "mlb-tb-bos-2026-05-09": {
+    "id": "2154786",
+    "conditionId": "0x6004d2c3eed914c555d1e37a79e8cce28445bc0564af72bc0be4d18b3ad07923",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-bos-2026-05-09",
+    "negRisk": false
+  },
+  "mlb-tb-bos-2026-05-09-nrfi": {
+    "id": "2154787",
+    "conditionId": "0x7d4e2f56006f103006045cef38373c2d9f539a4e057e59727c35eea731782b3d",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-bos-2026-05-09",
+    "negRisk": false
+  },
+  "will-gamestop-acquire-ebay": {
+    "id": "2154920",
+    "conditionId": "0x32e869cb0f7316273417ec79aa94c8a139f8c390ebff8a24150a18753d257f8e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-gamestop-acquire-ebay",
+    "negRisk": false
+  },
+  "hantavirus-pandemic-in-2026": {
+    "id": "2155000",
+    "conditionId": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "hantavirus-pandemic-in-2026",
+    "negRisk": false
+  },
+  "hantavirus-vaccine-in-2026": {
+    "id": "2155003",
+    "conditionId": "0x5b334c510f1b9f4d7cf7ebf1eeeff9cb7b16106027d921bd4e2bf742110be02b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "hantavirus-vaccine-in-2026",
+    "negRisk": false
+  },
+  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-june-30-2026-159-962": {
+    "id": "2155023",
+    "conditionId": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+    "negRisk": false
+  },
+  "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587-341-574-555-817": {
+    "id": "2155052",
+    "conditionId": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-x-iran-permanent-peace-deal-by",
+    "negRisk": false
+  },
+  "lol-hle1-dnf-2026-05-05-game2-any-player-quadra-kill": {
+    "id": "2155113",
+    "conditionId": "0x432055f443ac7d991b0a52b481f37e82e3989d1768a4410d520b951912afd3e6",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-hle1-dnf-2026-05-05",
+    "negRisk": false
+  },
+  "lol-hle1-dnf-2026-05-05-game2-any-player-penta-kill": {
+    "id": "2155114",
+    "conditionId": "0x07f4e2b30c83389f836df44609ebab9f47b638f3b4a305d73632931d00942be9",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-hle1-dnf-2026-05-05",
+    "negRisk": false
+  },
+  "russia-x-ukraine-diplomatic-meeting-by-june-30-2026": {
+    "id": "2155171",
+    "conditionId": "0xcb334e65ea89ee98ce533a4dde88d013737526c1ab3c9b123dd023e19aa07dd1",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-diplomatic-meeting-by",
+    "negRisk": false
+  },
+  "russia-x-ukraine-diplomatic-meeting-by-december-31-2026": {
+    "id": "2155172",
+    "conditionId": "0xeb092832271358be7f3c76f96fd176d89a29427121461a4058497e510adb03fe",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-diplomatic-meeting-by",
+    "negRisk": false
+  },
+  "will-nicols-maduro-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155242",
+    "conditionId": "0x7590cbc21f9c580c11c83294b29070e4ce8629ef869058d84128407ae7ec36dd",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-delcy-rodrguez-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155243",
+    "conditionId": "0x354c604439d7aa5d000d17a7afe94c3bc0bc1840b2ba92068b6978ee1f782478",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-mara-corina-machado-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155244",
+    "conditionId": "0xe4044a81d532d3994fe8fd1d0ea0534843b2d0cc721565d5b35cb87c0c9f5fd1",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-diosdado-cabello-rondn-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155245",
+    "conditionId": "0x3c1312e1589df1405a01bc9b481f89f012a5c263dae8712e1e5af70ab5240480",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-jorge-rodrguez-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155246",
+    "conditionId": "0xf5758394b00b704a9487b0e8ef1a2f75e8b958fa46cb70b0ec6f6becb1983e40",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-edmundo-gonzlez-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155247",
+    "conditionId": "0xd23288d839be9f81a5b897a99e99061ce892c62fd1b48b814793fa63c07967e1",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-donald-trump-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155248",
+    "conditionId": "0x4715da54dd9aaafbdbcdacf9fbb515961b9fdee4561d5b647fac4c69d87eba96",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-vladimir-padrino-lpez-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155249",
+    "conditionId": "0x9826355ea18ae77199fbf64bb121fdce76e8490d94391e6ee41b98d53c1f294d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-dinorah-figuera-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155250",
+    "conditionId": "0x78e40a3183e91eb0f65755a484d381b3b2a842bdbe5a157ec10b456430c881d5",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-marco-rubio-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155251",
+    "conditionId": "0x937dc6ba220f74e165d9b9df3b98699e53e7d50cc0ccba046e0e77c3ba287921",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-evan-pettus-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155252",
+    "conditionId": "0x17b66274e57a38acd15e628503ee6e83d3f261e906e8b8c99e5f79328f453294",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-dan-caine-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155253",
+    "conditionId": "0xe8edb84bc1fb776b38ec9055336213a0d28bf45619876a711d38e8d2428fef7e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-pete-hegseth-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155254",
+    "conditionId": "0x23bd5a13912c5c5c9fd6051d5b2da91515d031e9bc26dabfb8fe3c5c198ebcb7",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-frank-donovan-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155255",
+    "conditionId": "0xf728480baae359984899b976625a624530650107c5ce6dad184760200e969d58",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-richard-grenell-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155256",
+    "conditionId": "0x540eadc79f1b702ec85a5ee943798f85a085d379755193cf27a8c90235729f9c",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-there-be-no-de-facto-leader-of-venezuela-at-the-end-of-2026": {
+    "id": "2155257",
+    "conditionId": "0x2122019d3d96845349e08dda193aae2ff0d4ebac8b7a527d6cbc0ed2114f9d60",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "venezuela-de-facto-leader-end-of-2026",
+    "negRisk": true
+  },
+  "will-the-arizona-cardinals-make-the-2027-nfl-playoffs": {
+    "id": "2155339",
+    "conditionId": "0xb40f8cb30971bd8e9d0d464223a81a9ba78afe63907b0449461a850206341770",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-atlanta-falcons-make-the-2027-nfl-playoffs": {
+    "id": "2155340",
+    "conditionId": "0xd57c527e557d62eed53b02390815865db57d0f5e8a7236ea3d3e37042419a691",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-baltimore-ravens-make-the-2027-nfl-playoffs": {
+    "id": "2155341",
+    "conditionId": "0xc022132e7e7c1ccf5e49ee72493dc4819cd35ae03a92ad88afdc1953558c1f50",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-buffalo-bills-make-the-2027-nfl-playoffs": {
+    "id": "2155342",
+    "conditionId": "0x7de3db72ddafe22afbf3afee94ec44dbc6d4500acd586cc65342b4a077714c92",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-carolina-panthers-make-the-2027-nfl-playoffs": {
+    "id": "2155343",
+    "conditionId": "0x410c219fabb53ea3514946d00200674c208175cbbe6483a2536ddb2394dc946a",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-chicago-bears-make-the-2027-nfl-playoffs": {
+    "id": "2155344",
+    "conditionId": "0xe1a2ad6d39ed8d61812f1a67f94699f503f68d31639bc601aed980778c5868ff",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-cincinnati-bengals-make-the-2027-nfl-playoffs": {
+    "id": "2155345",
+    "conditionId": "0x28317f30c28fd7553aadf3d7355c3f6358789db279942a27ddbba3f86a732a8f",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-cleveland-browns-make-the-2027-nfl-playoffs": {
+    "id": "2155346",
+    "conditionId": "0x4de1be18b910f6846f7828c5b6a807a0f69b491829638cb45fbbc484dbf88f6d",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-dallas-cowboys-make-the-2027-nfl-playoffs": {
+    "id": "2155347",
+    "conditionId": "0x46e4fb8f97c4a3cda3d02b069f3d4bc57dbea84a48967abd2b93f62be9a025a4",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-denver-broncos-make-the-2027-nfl-playoffs": {
+    "id": "2155348",
+    "conditionId": "0xcdd00fd62a690de9a9ddc8eda4713549b3389d3e8e665556ce25057eba8406d1",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-detroit-lions-make-the-2027-nfl-playoffs": {
+    "id": "2155349",
+    "conditionId": "0xed4d9132cbccc21e09a4ffa6bee71bd3e2298eb3c52f8f62b44ffad6ef2cd563",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-green-bay-packers-make-the-2027-nfl-playoffs": {
+    "id": "2155350",
+    "conditionId": "0xea2ff6381abf8edcf408951db027d21047c94c47845f9c1dbfe2932d4f4e73ac",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-houston-texans-make-the-2027-nfl-playoffs": {
+    "id": "2155351",
+    "conditionId": "0x1e92e65aa1b4caf804120f8c001df3a1d26496c125dcd7f35669151a495d1964",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-indianapolis-colts-make-the-2027-nfl-playoffs": {
+    "id": "2155352",
+    "conditionId": "0xeacd5a9d7eb8b5aca2d2ccc6afa607293f75e0a42f2915c966048352bafbb08c",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-jacksonville-jaguars-make-the-2027-nfl-playoffs": {
+    "id": "2155353",
+    "conditionId": "0xa4407ce2e2fb00c9f55dee9176a4559193bffdbf0fafba68dfe1e2941a9cd655",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-kansas-city-chiefs-make-the-2027-nfl-playoffs": {
+    "id": "2155354",
+    "conditionId": "0x69071867a0bb26aeca05430242be9da7e75045a5e41b4be81b1814961f56c18b",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-las-vegas-raiders-make-the-2027-nfl-playoffs": {
+    "id": "2155355",
+    "conditionId": "0x53bbdde2bff0255be814d3779de1e2b3cb55383defda7af65a76a171cfd3e64b",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-los-angeles-chargers-make-the-2027-nfl-playoffs": {
+    "id": "2155356",
+    "conditionId": "0xd9b658991d8acba6c82ab4f2d33ea9de7e9e059ad6b68d0a2e673cab87e2f207",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-los-angeles-rams-make-the-2027-nfl-playoffs": {
+    "id": "2155357",
+    "conditionId": "0x6ea9c59bb08605e9cccc61e81179ebf9c143cd53118be37255f902ebcf0fde79",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
     "negRisk": false
   }
 }
