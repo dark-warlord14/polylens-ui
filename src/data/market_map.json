@@ -7042,36 +7042,6 @@
     "eventSlug": "nhl-2025-26-frank-j-selke-trophy",
     "negRisk": true
   },
-  "nhl-2025-26-jack-adams-award-lindy-ruff": {
-    "id": "645567",
-    "conditionId": "0x4402736dd4b854aa8bc3140185bb9f090f18b292b94cc4f06147b7f31d710f9f",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-jack-adams-award",
-    "negRisk": true
-  },
-  "nhl-2025-26-jack-adams-award-jon-cooper": {
-    "id": "645572",
-    "conditionId": "0xae96bd8bcd7d485e7db04faff46684192488d3d3238d0088e2c08fadf1dca16e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-jack-adams-award",
-    "negRisk": true
-  },
-  "nhl-2025-26-jack-adams-award-dan-muse": {
-    "id": "645579",
-    "conditionId": "0x8553aadccae43b9505ac4822efa96e463af220f7450f5e4b040df583e74ad042",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-jack-adams-award",
-    "negRisk": true
-  },
   "nhl-2025-26-vezina-trophy-andrei-vasilevskiy": {
     "id": "645803",
     "conditionId": "0x06d5dcfb8bd0d9c52c262d8a098bb6dbdb08cb5f7722ac3e41e0030971157ab7",
@@ -33747,26 +33717,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-felix-auger-aliassime-win-the-2026-mens-french-open": {
-    "id": "1087545",
-    "conditionId": "0x90d0f0f57e38136c7ae56743e682c1eb29aa4e9f17faa4b4fdbcf94d2d6ea787",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-aryna-sabalenka-win-the-2026-womens-french-open": {
-    "id": "1087760",
-    "conditionId": "0x04b07eb732d888c94096b4fc46dc747b745e06749c21ed2e633ca7e1a6586647",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
   "will-mirra-andreeva-win-the-2026-womens-french-open": {
@@ -69572,16 +69522,6 @@
     "eventSlug": "will-china-invade-taiwan-by-december-31-2027",
     "negRisk": false
   },
-  "bkarg-pen-fer-2026-03-20": {
-    "id": "1637221",
-    "conditionId": "0x912cfbaccdfabf6cedf73ed87b2733913bb3263124e840637d70dda130ab393a",
-    "endDate": "2026-03-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkarg-pen-fer-2026-03-20",
-    "negRisk": false
-  },
   "crint-afg-lka-2026-03-25": {
     "id": "1640605",
     "conditionId": "0xc771fbf452c921e4c7aa273a981f3397f966f2683701778dcad72d09ff672215",
@@ -80555,16 +80495,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-sinners-win-iem-cologne-major-2026": {
-    "id": "1892286",
-    "conditionId": "0xc9cd0881f8dd1897870b628e0015e61482720a718cf83836d446eb7b1eeea662",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-m80-win-iem-cologne-major-2026": {
     "id": "1892287",
     "conditionId": "0x824c710d20c3f83c4078e6c834d659489233e3fb8772d215071ee3f0ac8f4d34",
@@ -80588,16 +80518,6 @@
   "will-sharks-win-iem-cologne-major-2026": {
     "id": "1892289",
     "conditionId": "0x40fe0e847061514a774ade752050570f3f0c36addb1c69937d09e3151c34a74b",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-gaimin-gladiators-win-iem-cologne-major-2026": {
-    "id": "1892290",
-    "conditionId": "0xdc412c53ae19e5571c646fea4957dccd5d771ea743c8d4ab5bbb69332273fea4",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -84784,16 +84704,6 @@
     "eventSlug": "2026-mens-singles-roland-garros-winner",
     "negRisk": true
   },
-  "will-felix-auger-aliassime-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920459",
-    "conditionId": "0x197b5701a4dda923783016fff3302e7cdcb9f3895bbb17f3b75c83414ace97c6",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
   "will-flavio-cobolli-win-the-2026-roland-garros-mens-singles": {
     "id": "1920468",
     "conditionId": "0xc8eed8269df43fe1b6b4383c5d78ec8d24c39d2206a772510f9810bf92a81ef5",
@@ -86882,36 +86792,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "us-x-iran-permanent-peace-deal-by",
-    "negRisk": false
-  },
-  "cs2-imperi-ff-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1962483",
-    "conditionId": "0x9a9d15aae0d709e2d77177708ccc774d75b95f301df73a7172d0d25dc23d9596",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-imperi-ff-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-imperi-ff-2026-04-13-game2-odd-even-total-kills": {
-    "id": "1962487",
-    "conditionId": "0x3aa84845b988d098c8879f3e42beedbcb5c351bae90afacb7313b8f063d7fa19",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-imperi-ff-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-imperi-ff-2026-04-13-game3-odd-even-total-kills": {
-    "id": "1962490",
-    "conditionId": "0xd965639a5c36a1f72aa9df2d4866d42ce514719d2190dfdf653e28645de399cd",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-imperi-ff-2026-04-13",
     "negRisk": false
   },
   "will-variational-launch-a-token-by-september-30-2026-873": {
@@ -98683,46 +98563,6 @@
     "acceptingOrders": true,
     "eventSlug": "pro-football-aj-brown-to-join-patriots-by-2026-27-regular-season",
     "negRisk": false
-  },
-  "will-ryan-busse-be-the-democratic-nominee-for-mt-01": {
-    "id": "2044391",
-    "conditionId": "0x8b704423ac73928245d8d76766d85a5f914a7ed07012d01cf7c3e31a7eeedc0a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mt-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-russell-cleveland-be-the-democratic-nominee-for-mt-01": {
-    "id": "2044392",
-    "conditionId": "0x6ee30d7966cfce5637d49ae35d2b95888d3b1529b030efca4593acd5997d324b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mt-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-samuel-forstag-be-the-democratic-nominee-for-mt-01": {
-    "id": "2044393",
-    "conditionId": "0x67817d1cc4b72e5ba8cc9437f4cb979fc30898b1d5042f72bc770b9fc757768a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mt-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-matt-rains-be-the-democratic-nominee-for-mt-01": {
-    "id": "2044394",
-    "conditionId": "0x45693b592d4d3b5f7914139c2c7e6230f3fbef432e7c2def823c536cb88a2004",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "mt-01-democratic-primary-winner",
-    "negRisk": true
   },
   "crint-thu-kok-2026-04-22-team-top-batter-draw": {
     "id": "2044747",
@@ -119613,5 +119453,165 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
     "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-total-1pt5": {
+    "id": "2165197",
+    "conditionId": "0x55410e9bb1e3870bc635955a8895e637f3e52807d6a83b59154b9d758d0c3027",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-total-2pt5": {
+    "id": "2165200",
+    "conditionId": "0xbb85efb69a6f2ca3ed454debbff8d0daf2fd03538e36263c49154ac45900af73",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-total-3pt5": {
+    "id": "2165203",
+    "conditionId": "0xf899077d19fbd3fcfe3e2688ef0ca60b7d890f8b9e0e6c93ffc4e1421776ec0d",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-total-4pt5": {
+    "id": "2165205",
+    "conditionId": "0x5f66e94642f0e6d2f78732d774392acb06f5429b2e3b64c7e1e4f638b76a77ce",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-total-5pt5": {
+    "id": "2165208",
+    "conditionId": "0x8464409b4f750fd76801fbda3e514a35fccaf4f999e9b7b130e0d9d16533efa2",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-btts": {
+    "id": "2165211",
+    "conditionId": "0xa0e03fadb475fd8ab757d6066812e01df61a668b0f1a18badcdcc08cafbbf19d",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-rodynske-again-by-june-30": {
+    "id": "2166651",
+    "conditionId": "0x31a3bcdbd168e04b59406dd868b3d305ce1687c6e802dbbbeffc5ece1c23191e",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-rodynske-again-by",
+    "negRisk": false
+  },
+  "will-mugur-isrescu-be-the-next-prime-minister-of-romania": {
+    "id": "2166666",
+    "conditionId": "0x3c513526979c384afff854809b6415f15d3e63d6a9aadcebb94ce2ccfbd84779",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-mircea-geoan-be-the-next-prime-minister-of-romania": {
+    "id": "2166667",
+    "conditionId": "0xcf18ec177d891f1ef83de4d8ac6a4bccd0d1310281c64cc874d70c1885915a0a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-anca-dragu-be-the-next-prime-minister-of-romania": {
+    "id": "2166668",
+    "conditionId": "0x9e64a023fd819710361ff4a5f4eb4241644bfd85764437d4b3b1a91bbcd51063",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-lucian-isar-be-the-next-prime-minister-of-romania": {
+    "id": "2166669",
+    "conditionId": "0xf1dd7ae36e34d287467618748a8c0ba7818393e3d5677dfa67f83d0547d44684",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-ctlin-predoiu-be-the-next-prime-minister-of-romania": {
+    "id": "2166670",
+    "conditionId": "0x6d2afae5d0ce636cc170d2b7c8ec7a7211e64a0e015a87519c1445810c77b7b5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-sorin-grindeanu-be-the-next-prime-minister-of-romania": {
+    "id": "2166671",
+    "conditionId": "0x12088740bcada66cff2875b94d76b34ce4a3cc12fbe775fd65c48eb60e6fbe70",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-george-simion-be-the-next-prime-minister-of-romania": {
+    "id": "2166672",
+    "conditionId": "0x03c4888efcde763200fa880ba66b0e7b7beded9505989421ed988121f7321b1b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-ilie-bolojan-be-the-next-prime-minister-of-romania": {
+    "id": "2166673",
+    "conditionId": "0x18d813a320236840e6b560e9da3bbad71d5dce7584f26ab0105e7a28baffbef0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-marcel-ciolacu-be-the-next-prime-minister-of-romania": {
+    "id": "2166674",
+    "conditionId": "0x9eec207bf65db44820535ed798801a481944d502c73f4c65e65bb050f2775887",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
   }
 }
