@@ -33799,16 +33799,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-anna-kalinskaya-win-the-2026-womens-french-open": {
-    "id": "1087798",
-    "conditionId": "0xbacfd7a02f0b4a70ab12110fbc47c54296f5597a641547f45998f8dabeccb3eb",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-maya-joint-win-the-2026-womens-french-open": {
     "id": "1087805",
     "conditionId": "0xe2b3ababbaa7e71894b0496be696a23b7375e31e54fdd11fa355c94c47dda852",
@@ -65106,326 +65096,6 @@
     "eventSlug": "netanyahu-out-before-2027",
     "negRisk": false
   },
-  "will-david-njoku-play-for-arizona-cardinals-in-2026-27": {
-    "id": "1485136",
-    "conditionId": "0xb12652c72a098054c604259f940b94624e404987802e76cc14e720f3aef2142e",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-atlanta-falcons-in-2026-27": {
-    "id": "1485137",
-    "conditionId": "0x5a4e7ebbdc1bd0f0f3c993a50be3a9c004c6a9ed84bd8400fbf0b5af0b65ed71",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-baltimore-ravens-in-2026-27": {
-    "id": "1485138",
-    "conditionId": "0x97cfe2c5ef061e39d0e90fd1b3052fb37944dbcd98c004ba790ce9cdc13f4a7b",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-buffalo-bills-in-2026-27": {
-    "id": "1485139",
-    "conditionId": "0x08dd7cea428e77f9149412138cde369caeaf80acc46d538e1fe512a3c951c535",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-carolina-panthers-in-2026-27": {
-    "id": "1485140",
-    "conditionId": "0x87620857a61c2df2cb2059ded520fe323f36350e88fd96ea5f29d70e9d76c76a",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-chicago-bears-in-2026-27": {
-    "id": "1485141",
-    "conditionId": "0x1cb5ab1a4c8bbb182da6b0aa650921c1aca341c7b25a39a67fa3e77320cb449d",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-cincinnati-bengals-in-2026-27": {
-    "id": "1485142",
-    "conditionId": "0x0acba184d8f4593cc664cd9f7871d613bec5f49ff49c6668cea150db47a24f3e",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-cleveland-browns-in-2026-27": {
-    "id": "1485143",
-    "conditionId": "0x8377aa24e911e4820883b85e754f6c57af81d50b6079b1d85276f7eacf597f92",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-dallas-cowboys-in-2026-27": {
-    "id": "1485144",
-    "conditionId": "0xeb367ce4a2377c0a77d221d892c44c6f2bddd10f1a2703923c9337ded76975f2",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-denver-broncos-in-2026-27": {
-    "id": "1485145",
-    "conditionId": "0xf5d2ebc1645b34509ad1a19976df89386eaa0687695ac924cc3ac59312ca0c64",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-detroit-lions-in-2026-27": {
-    "id": "1485146",
-    "conditionId": "0xc1c643b4b23c760575629d83529e513bdcde9ee455edc0686622a27e6884a063",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-green-bay-packers-in-2026-27": {
-    "id": "1485147",
-    "conditionId": "0xd83b1eca11d7d77c06fced33bd5ede7512e72871c24b060f218801f5f4479b3f",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-houston-texans-in-2026-27": {
-    "id": "1485148",
-    "conditionId": "0xfbdcc23c4a929e921290e15b144a2d3ba9d5c71afcb02248d725f6eb80db8055",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-indianapolis-colts-in-2026-27": {
-    "id": "1485149",
-    "conditionId": "0xce3a949a64b3637a300050d1ff1f190f7cf00e0397801f7d7d739e75b31f4e0b",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-jacksonville-jaguars-in-2026-27": {
-    "id": "1485150",
-    "conditionId": "0x58b186e8067231cb3af336f429d00f7642680dad77f55ba16707c1253c782c16",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-kansas-city-chiefs-in-2026-27": {
-    "id": "1485151",
-    "conditionId": "0x4d079b9cc639afe5cdf5c6a1c4c4538bb004621df7d92becb4cc6e2c4831bfe5",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-las-vegas-raiders-in-2026-27": {
-    "id": "1485152",
-    "conditionId": "0xaedc1ae61cd949b9e00f52e1471ef59467bd76bd401ca36f8c2ed1f5ff6dabbd",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-los-angeles-chargers-in-2026-27": {
-    "id": "1485153",
-    "conditionId": "0xca394fb99a4fd535179e27d57735819273bed45bc3601cc142aa4977a9990a78",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-los-angeles-rams-in-2026-27": {
-    "id": "1485154",
-    "conditionId": "0xece54180bb76d32267e0fda6388f87a36315b7c43664924337c824ab53d9b2bb",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-miami-dolphins-in-2026-27": {
-    "id": "1485155",
-    "conditionId": "0x7ff6d3f51bc477eb662417c0be118bae95edd30911603e220693ffcfab154d0b",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-minnesota-vikings-in-2026-27": {
-    "id": "1485156",
-    "conditionId": "0x332b2012a49ca2150d1728e0f5dda083d4a8d906451fbc76ded6acdd22c86a1b",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-new-england-patriots-in-2026-27": {
-    "id": "1485157",
-    "conditionId": "0xdf81e76a04183329a7da0df522655b3ea016236f6ce3d2f4a2eb5e6b1a4de41b",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-new-orleans-saints-in-2026-27": {
-    "id": "1485158",
-    "conditionId": "0x1955c87ed54b01997a641c7528b44d4052f7d6b121384c168eb7df5c8d8f9f36",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-new-york-giants-in-2026-27": {
-    "id": "1485159",
-    "conditionId": "0x1c3ae25625ddbcd260719cfe8ad7d418ddc5913f250c913cecd0d7a8e7f707a8",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-new-york-jets-in-2026-27": {
-    "id": "1485160",
-    "conditionId": "0x6c91db075af186974cce9d9e954f56f82a2368232179340c247e4affb4290323",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-philadelphia-eagles-in-2026-27": {
-    "id": "1485161",
-    "conditionId": "0x760645ffc6b9e39cd03663fe7bd9d2f9cb382e9a577ed12002ba0475cdaec40d",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-pittsburgh-steelers-in-2026-27": {
-    "id": "1485162",
-    "conditionId": "0xecba446133db4e805116b27967434d57b85a0aa27436f186ce553f7d7e928671",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-san-francisco-49ers-in-2026-27": {
-    "id": "1485163",
-    "conditionId": "0x5ba0671804d88c2deea4f4f61686cb5fd8876b8f16054272af0efcd6e7a272f2",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-seattle-seahawks-in-2026-27": {
-    "id": "1485164",
-    "conditionId": "0x15d776c5e7728aaae465af3982ac83cf84b3bf1afd7787803f4629392ebcd218",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-tampa-bay-buccaneers-in-2026-27": {
-    "id": "1485165",
-    "conditionId": "0x92dbe4eead2e81624eeb6ccfddc3fa79a8602fbd4e222910ef63c64e549ef348",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-tennessee-titans-in-2026-27": {
-    "id": "1485166",
-    "conditionId": "0xeb339bfd266af8aaf338079de08c6454d423a751c7b7e9c21830eac125d95371",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
-  "will-david-njoku-play-for-washington-commanders-in-2026-27": {
-    "id": "1485167",
-    "conditionId": "0x1576b6623a3201fb4cbec81c3c4e7864126b763c035536986eff058b5270c288",
-    "endDate": "2026-09-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-david-njoku-play-in-2026-27",
-    "negRisk": true
-  },
   "will-joey-bosa-play-for-arizona-cardinals-in-2026-27": {
     "id": "1485170",
     "conditionId": "0xb11b646f89b37f849537d94e7395db3dfafef2914fb3d0e4fb5114ee9acdd8b7",
@@ -67344,86 +67014,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-united-stables-hit-4b-in-2026",
-    "negRisk": false
-  },
-  "ufc-mic8-car7-2026-03-28-chiesa-win-by-ko-tko": {
-    "id": "1527887",
-    "conditionId": "0x714a5a64b2edb626e3f3fdb3d5c778a9f50b372dd70ccf7ae9989e8bb3591469",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-mic8-car7-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28": {
-    "id": "1527946",
-    "conditionId": "0xb2614dff6c01913676bdcca4769666a66c4130d17d16fe58fda5db15f658c7ce",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28-go-the-distance": {
-    "id": "1527947",
-    "conditionId": "0xd1d19b488a558081c5461519e86100c322701fe5c2093a596dc515fc82f99eb1",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28-win-by-ko-tko": {
-    "id": "1527948",
-    "conditionId": "0x9296be8fc4c13c7be32392ca0aa78a63d6ffda3cdca8fc85a61040d6f01c1275",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28-luciano-win-by-ko-tko": {
-    "id": "1527950",
-    "conditionId": "0xbacea5a722356c5bcf485a626d1376f49cc1274487eef0bf0f6c8dc601c973e8",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28-foro-win-by-ko-tko": {
-    "id": "1527951",
-    "conditionId": "0xc23ea83407cb0a4211ad72b7c959e1a6c13d92864d62d92ad827f95632301a46",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28-win-by-submission": {
-    "id": "1527952",
-    "conditionId": "0xe97013efac856982ac9750efe99f70b3f135dbe9e61dd2227552357c08e1e728",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
-    "negRisk": false
-  },
-  "ufc-ste33-car24-2026-03-28-totals-1pt5": {
-    "id": "1527954",
-    "conditionId": "0x516e186c232da5aefb0c00e57b5f0ed2c8df9e79bda212cab9c5a39db53a9d87",
-    "endDate": "2026-03-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ufc-ste33-car24-2026-03-28",
     "negRisk": false
   },
   "yo-fdv-above-50m-one-day-after-launch-623-793": {
@@ -75968,16 +75558,6 @@
     "eventSlug": "toronto-mayoral-election-winner-545",
     "negRisk": true
   },
-  "bkarg-gim-arg-2026-04-04": {
-    "id": "1814408",
-    "conditionId": "0x0f218bae9a83f0429b6cf46ef84bd5cc00bffc37d9fc490a74cd6b06e0ef11f1",
-    "endDate": "2026-04-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkarg-gim-arg-2026-04-04",
-    "negRisk": false
-  },
   "bkgr1-per-ari-2026-04-01": {
     "id": "1814459",
     "conditionId": "0xf2edf74bf7a93d45fdff810e4b5e36a1c9b3ba6fea33e2592eaa32a06640e0d9",
@@ -78467,36 +78047,6 @@
     "eventSlug": "2026-soccer-copa-libertadores-winner",
     "negRisk": true
   },
-  "2026-soccer-egypt-premier-league-winner-zamalek": {
-    "id": "1830680",
-    "conditionId": "0xa353a456cf5b20c9d581fdf532d46e25c00524123fce2686d103caffff038360",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-egypt-premier-league-winner",
-    "negRisk": true
-  },
-  "2026-soccer-egypt-premier-league-winner-pyramids-fc": {
-    "id": "1830681",
-    "conditionId": "0xbf8552809a386d341235407ff3ea8ccaa6366c9ea98eda01308cbee29a6a0db6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-egypt-premier-league-winner",
-    "negRisk": true
-  },
-  "2026-soccer-egypt-premier-league-winner-al-ahly": {
-    "id": "1830682",
-    "conditionId": "0x171cc93c2da2ea4d88eae546c9290be5656f2c5fb801e248aa4200410f0a4e92",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-egypt-premier-league-winner",
-    "negRisk": true
-  },
   "2026-soccer-bolivia-lfpb-winner-always-ready": {
     "id": "1830721",
     "conditionId": "0x18d26e2dc99a4980b1cba9dcdaae099c87588ebd62b919aaed19c23b92012e62",
@@ -79227,16 +78777,6 @@
     "eventSlug": "2026-hockey-american-hockey-league-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-nacional-de-bsquetbol-winner-ferro-carril-oeste": {
-    "id": "1834088",
-    "conditionId": "0x14f5c0ef0cbe50d88f742aa8e3eba9c15498dd68ca9459ac83bf918d89416605",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-nacional-de-bsquetbol-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-nacional-de-bsquetbol-winner-gimnasia-y-esgrima-de-comodoro-rivadavia": {
     "id": "1834089",
     "conditionId": "0x310d19c17287ab7cea30ff4f6a79a235c03421f7b8fe5b34b6195ab81b407247",
@@ -79527,16 +79067,6 @@
     "eventSlug": "2026-basketball-serie-a-winner",
     "negRisk": true
   },
-  "2026-basketball-greek-basketball-league-winner-aek-athens": {
-    "id": "1834224",
-    "conditionId": "0x42a66d1a19edd9f2c35362d08923dca20246223bb3541c2c60fabdea7f1efc8b",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-greek-basketball-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-greek-basketball-league-winner-olympiacos-piraeus": {
     "id": "1834231",
     "conditionId": "0x13212acf840bb47569df75589a467686a7ceab085a5d19ff9a737c5c0b17c82b",
@@ -79550,16 +79080,6 @@
   "2026-basketball-greek-basketball-league-winner-panathinaikos-athens": {
     "id": "1834232",
     "conditionId": "0x1c2a98f950aa112adf011f07098cbd3b58846499dce442ae52c0eb6937a2432d",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-greek-basketball-league-winner",
-    "negRisk": true
-  },
-  "2026-basketball-greek-basketball-league-winner-paok-thessaloniki": {
-    "id": "1834234",
-    "conditionId": "0xe54b1653b000d1a953b55191c592bf35a25a59f391d84a11f27ec88db63ef559",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -84345,16 +83865,6 @@
     "eventSlug": "lol-lpl-2026-split-2-winner",
     "negRisk": true
   },
-  "will-edward-gaming-win-lpl-2026-split-2": {
-    "id": "1901262",
-    "conditionId": "0xd476eb5d00bc17add818c661712bc8097096aea4e702191b05b61f9032a42f76",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-lgd-gaming-win-lpl-2026-split-2": {
     "id": "1901264",
     "conditionId": "0xfc3f825b9f6f4506a842ec71711d73030a3cbed8200b81dd8ba8d56db5512a4d",
@@ -85292,16 +84802,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-aryna-sabalenka-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920805",
-    "conditionId": "0xa88a6caf5bd983b56ba477458a481104f2c11da592e49f4ae9ffe480797ab867",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
   "will-mirra-andreeva-win-the-2026-roland-garros-womens-singles": {
@@ -87382,26 +86882,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "us-x-iran-permanent-peace-deal-by",
-    "negRisk": false
-  },
-  "cs2-mis-innerc-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1962465",
-    "conditionId": "0x41b26a0bcb195ccc95b0b8a9e353ee579433235c1e182cf9fd9cdd1777005b57",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-innerc-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-mis-innerc-2026-04-13-game2-odd-even-total-kills": {
-    "id": "1962467",
-    "conditionId": "0xd49723d2214f5e16a612e2c4e61974fb05ee24f025e830be26281eec67b58192",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-innerc-2026-04-13",
     "negRisk": false
   },
   "cs2-imperi-ff-2026-04-13-game1-odd-even-total-kills": {
@@ -102804,16 +102284,6 @@
     "eventSlug": "who-will-trump-publicly-insult-by-may-31",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-megyn-kelly-by-may-31-2026": {
-    "id": "2060628",
-    "conditionId": "0x0a928df82793092b84c15618d609ba5a3192f6ef7b2ddf5a7184770db32eda12",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
   "will-donald-trump-publicly-insult-marjorie-taylor-greene-by-may-31-2026": {
     "id": "2060635",
     "conditionId": "0xfbac380124e56e0551243cc25a22d31f5f306b9b9819458055b402b5f5ca5c6e",
@@ -108572,16 +108042,6 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-aur-ori-2026-05-24",
     "negRisk": true
-  },
-  "will-mrbeast-hit-127-billion-views-by-june-30": {
-    "id": "2099541",
-    "conditionId": "0x689a24ea74bae5e84c3d3be87856c4ca399b7af5de2563a50c8a6681eca754bd",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
-    "negRisk": false
   },
   "will-mrbeast-hit-128-billion-views-by-june-30": {
     "id": "2099542",
@@ -115174,16 +114634,6 @@
     "eventSlug": "will-russia-capture-all-of-prymorske-by",
     "negRisk": false
   },
-  "will-donald-trump-publicly-insult-kaitlan-collins-by-may-31-2026": {
-    "id": "2125384",
-    "conditionId": "0x2be02ea613318e16146874479987411cecbe228826e9d03c781b5e1a19e9d7ab",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-insult-by-may-31",
-    "negRisk": false
-  },
   "will-russia-capture-prymorske-by-june-30-2026": {
     "id": "2125424",
     "conditionId": "0x1afa0aac4347f38ce35e621c14556c0cc858989c52d898bb6d3eb4f83ee05423",
@@ -118094,16 +117544,6 @@
     "eventSlug": "cs2-ldp-paina-2026-05-04",
     "negRisk": false
   },
-  "epl-eve-sun-2026-05-17-exact-score-any-other": {
-    "id": "2152786",
-    "conditionId": "0x022e03710c58b292f4f5815d8131a6988ab8a6d2c1210ba65e58d83ec71f6b0f",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "epl-eve-sun-2026-05-17-exact-score",
-    "negRisk": true
-  },
   "cs2-bojong-zotix-2026-05-04-game1-odd-even-total-kills": {
     "id": "2153768",
     "conditionId": "0xca3bbaef9c3f90def6813b123146a330423990b2fd2dab78d605f8f32db487fd",
@@ -119612,6 +119052,566 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-05-game3-both-teams-slay-baron": {
+    "id": "2163509",
+    "conditionId": "0xa3c4b73de26e567e1581ea6308d8f7acdf35cda451685cc12f2a94f68c5334e2",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-05-game3-both-teams-slay-dragon": {
+    "id": "2163510",
+    "conditionId": "0x6a75a17125ee6697fa0f54e5941bd200c29572e559978114abce65f38f859184",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-05-game3-both-teams-destroy-inhibitors": {
+    "id": "2163511",
+    "conditionId": "0x9657e09cfae2fed2e7b2e4938827cc788c33048712c9355e6b0e9e60dfec2512",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-05-game3-any-player-quadra-kill": {
+    "id": "2163512",
+    "conditionId": "0xf8629c23b4cf9d4e7985e16dfa718c2644135d10d76a053ed273510e0d246911",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-05-game3-any-player-penta-kill": {
+    "id": "2163513",
+    "conditionId": "0xf188ff5747bf12625560c657e5bbb3220348ba1f04e4c939076f23309f45b90f",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-05-game3-odd-even-total-kills": {
+    "id": "2163514",
+    "conditionId": "0x9cabab182a98f78b80d8f681e08301755cd7adb033a14ea4eb99fb6ee1f2b357",
+    "endDate": "2026-05-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-alkaa-quin-2026-05-05-game1-odd-even-total-kills": {
+    "id": "2163558",
+    "conditionId": "0xd27a92be143e834d5d451ef49ee436434fa381b93213110315b2f5e39ab1cb22",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-alkaa-quin-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-alkaa-quin-2026-05-05-game2-odd-even-total-kills": {
+    "id": "2163560",
+    "conditionId": "0x51005845d5e587886322090d2acaf73e0090db5c51ea169b87ef82820451fedb",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-alkaa-quin-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-alkaa-quin-2026-05-05-game3-odd-even-total-kills": {
+    "id": "2163562",
+    "conditionId": "0xaf02017e3661f51ab583f40dc03bbc5823ec37faaa361154455f0897f1b2c3e6",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-alkaa-quin-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-mibra-ldp-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2163568",
+    "conditionId": "0xae7b145c439cbfe094d26464287af927391a6f5a8799fe946e9f538a5c0414ac",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-ldp-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-mibra-ldp-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2163570",
+    "conditionId": "0xb0c8078c34441bdfafa7e275983b88bc3b26e8a5258d598a47536202e8a8c775",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mibra-ldp-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-drip-snarky-2026-05-05-game1-odd-even-total-kills": {
+    "id": "2163972",
+    "conditionId": "0xcbd93d0ffa436203bf2f0171f112297b45ec9fcce8fe8c11f83399e6a26ad665",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drip-snarky-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-drip-snarky-2026-05-05-game2-odd-even-total-kills": {
+    "id": "2163974",
+    "conditionId": "0x5093d14e61621336764ae1485e220fba8d45b55fb0ab2400e7cd2f5890645bda",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drip-snarky-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-drip-snarky-2026-05-05-game3-odd-even-total-kills": {
+    "id": "2163976",
+    "conditionId": "0x748fff704a4509153da812191336548efe9bb7561ce2937c4cd79b3694014da3",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drip-snarky-2026-05-05",
+    "negRisk": false
+  },
+  "cs2-algo1-sinqu-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2164279",
+    "conditionId": "0xa32bcf144571cf9bc2502eba34d56580688a41157b4d8ca5116b1daba7809173",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-sinqu-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-algo1-sinqu-2026-05-07-game2-odd-even-total-kills": {
+    "id": "2164283",
+    "conditionId": "0x537dac1ddcbfcfc4ef5059acc8e878475b99c62652c78b1d1d04dc0083c621f1",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-sinqu-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-biga-ksm-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2164305",
+    "conditionId": "0xa50df5c4c5f92858788be8bd1b2d741487d87333f645d3bda73a23d7dcab9811",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-ksm-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-biga-ksm-2026-05-07-game2-odd-even-total-kills": {
+    "id": "2164309",
+    "conditionId": "0x10a496b09418329add090ddc1fd9ca5be536b483229ce45b77754b2bb34470c4",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-ksm-2026-05-07",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-spread-home-1pt5": {
+    "id": "2165031",
+    "conditionId": "0x7ba152ceb2e1590b40923056fd1bf86d98274f1c0f3b3d49c7ed05fd469aaadb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-spread-away-1pt5": {
+    "id": "2165034",
+    "conditionId": "0xd4aa95f3c737119291678451dc2d48542773308543f66f770cbc925ce6a471f0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-spread-home-2pt5": {
+    "id": "2165036",
+    "conditionId": "0xf096131b32ac992eb2b61725386eeef5bae933a812b96c29298d1b76dea503ce",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-spread-away-2pt5": {
+    "id": "2165040",
+    "conditionId": "0x85723834699bcc8df5d12e904c2921e169dcc21218a7e6bb658016ed2fafdef3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-total-0pt5": {
+    "id": "2165043",
+    "conditionId": "0xc7fa6b714ba261523883dc4f536407b5333d28e8782eff40690e74d23841e1d0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-total-1pt5": {
+    "id": "2165046",
+    "conditionId": "0x034c7dd93c64d679ea322d4c65396b0889490764c8ebbf6d7add6f75b9c2c94e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-total-2pt5": {
+    "id": "2165054",
+    "conditionId": "0xd212c57f1cfc809ead181a211cfe5459757e1cf835988dcd46a3762ea09b51e3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-total-3pt5": {
+    "id": "2165058",
+    "conditionId": "0x455e3e434e8d6acc84bea90be1ed69252d1bcfb9e94e546fcd60fab8de2592d0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-total-4pt5": {
+    "id": "2165061",
+    "conditionId": "0xe58300ccc164c7fbfd600757f997f98843fdec5ca41389d69582417b19612376",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-total-5pt5": {
+    "id": "2165064",
+    "conditionId": "0xf27d017df74aab611358b78ee205be67eb85c24b1ff1a645274b623878e26fa4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-str-bol-2026-05-31-btts": {
+    "id": "2165067",
+    "conditionId": "0x179429539e7127785913ea2c7c52ab6a0fea9e1be8873e913ce15e0f49b24a72",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-bol-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-spread-home-1pt5": {
+    "id": "2165075",
+    "conditionId": "0x230014eed3df2531ad7bc3f6ef00c7336ff22e4931bcb223a50b1dac43039783",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-spread-away-1pt5": {
+    "id": "2165079",
+    "conditionId": "0x0faaae032a64530c57d9f45381336359cada02e24c5633d13cf6eb01d70fc8fd",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-spread-home-2pt5": {
+    "id": "2165082",
+    "conditionId": "0xe49516c17601c4667701690c6c593c39d507b2c61450c1990b4342a02e9060b4",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-spread-away-2pt5": {
+    "id": "2165085",
+    "conditionId": "0xc664230b6daae1cf86f0d608c5654aefc8ac940801c319bb73edaabeeafdf489",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-total-0pt5": {
+    "id": "2165088",
+    "conditionId": "0xfa98eac65455c6b4b462f7a6660bbcdc41c4e6cc6de4fac773ca139985151bc1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-total-1pt5": {
+    "id": "2165091",
+    "conditionId": "0x4bdc5c378333d0583958755bbe524782478fad4acea02ff223048df42c768fba",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-total-2pt5": {
+    "id": "2165095",
+    "conditionId": "0xba0a50f6754090eb4462dfebed3833eb0b0d93cf0cfef6f2a2666eb24a3c1d26",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-total-3pt5": {
+    "id": "2165100",
+    "conditionId": "0x4af689953d06d5cadbec39d33a3b3ef1a7cd654a6a56bccda4c6d3aeffc1b2cf",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-total-4pt5": {
+    "id": "2165104",
+    "conditionId": "0xac990213720163930e1b68670aef3a7e3b06e9ffa6515a00f0d2f5aafeb62bbb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-total-5pt5": {
+    "id": "2165107",
+    "conditionId": "0xbfcba21e24bd0254db4f0a694adbf1fc0de4ab5899bb5b86211c2f45cdb00876",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-pot-nap-2026-05-31-btts": {
+    "id": "2165110",
+    "conditionId": "0x0b655a47f4b94d8b1a47696916767690de5bc29ec36ade393c941a6bd7f93328",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-spread-home-1pt5": {
+    "id": "2165121",
+    "conditionId": "0x939a8fa31772ec3b15ff77c7c30a4b18c0ad7ba1ba275f29433f14036870e6b5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-spread-away-1pt5": {
+    "id": "2165125",
+    "conditionId": "0xfe9428134c5f835c68ffff5f2e39cdd4c6f9b1278c98f0c5923dd485436d2004",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-spread-home-2pt5": {
+    "id": "2165129",
+    "conditionId": "0xa6e241d81e1c1faf6b77543225f9630c1f2ad18a7af7d6cf4a24e0926d5df3d1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-spread-away-2pt5": {
+    "id": "2165132",
+    "conditionId": "0x98760082ad4a723396f7f480f12fe14c91d31857e0b37df3e0cddc174991b480",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-total-0pt5": {
+    "id": "2165136",
+    "conditionId": "0xe6601bac2e09c4dd40cef0a5b56a7ebed48faf164cff9204e486c2eb0a40f0b5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-total-1pt5": {
+    "id": "2165140",
+    "conditionId": "0x2f628e48226d6ac33a9f40840c1a75c2ee94c09c8555a77334dfaeaf7de20694",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-total-2pt5": {
+    "id": "2165144",
+    "conditionId": "0x1552e889215a3212626119c4644004a344d65d1d8199bc91a847b935f1eb4a7f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-total-3pt5": {
+    "id": "2165147",
+    "conditionId": "0x8a0c41b0e84ade24cae9dee5100dcccb63ef08876bc28b992fc0cc1421a61820",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-total-4pt5": {
+    "id": "2165153",
+    "conditionId": "0x6e300f16668a8a26cd4af1514640327780253f31d8f55dfbd2cf5fe3df0f1262",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-total-5pt5": {
+    "id": "2165157",
+    "conditionId": "0x2ab4a6a47e2fe96ad451f158451aa85b9a724408beebf48d895f4c10ce1c83f6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-tom-idp-2026-05-30-btts": {
+    "id": "2165160",
+    "conditionId": "0x9ba4f15941d8826a4f7e007dc6f5043a862c4c88a1b87aa8a2cb3d5a1af6e5d6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-spread-home-1pt5": {
+    "id": "2165174",
+    "conditionId": "0x4ba627386ef05d23407b498c7a127ec7628d7dad108be6f9d4396569fce4fe45",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-spread-away-1pt5": {
+    "id": "2165182",
+    "conditionId": "0xfa5704ddcbff1ccc30c0959fee581cedbd75ed8081ad06e5f1a8356863d4c89d",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-spread-home-2pt5": {
+    "id": "2165186",
+    "conditionId": "0x403e94d1ade289c5979ea8af097783c1677f469a76d41804ffd01cc1e098bd7b",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-spread-away-2pt5": {
+    "id": "2165190",
+    "conditionId": "0x0c21e43d487ad95922d95e9b1d7501004f138744503f34101560409b4fae2410",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
+    "negRisk": false
+  },
+  "bol1-oru-gvs-2026-05-30-total-0pt5": {
+    "id": "2165194",
+    "conditionId": "0xc64dbfcc2784373cbb90782e14bd8f1e5acc6801db784a5f11c65082c98421d8",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-more-markets",
     "negRisk": false
   }
 }
