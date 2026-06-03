@@ -19013,36 +19013,6 @@
     "eventSlug": "kansas-democratic-senate-primary-winner",
     "negRisk": true
   },
-  "will-cory-booker-be-the-democratic-nominee-for-senate-in-new-jersey": {
-    "id": "706155",
-    "conditionId": "0x6f469bb6d087323e8fe41d5bb3d9c32ae243fafdcee240e4aef3252e8ffc59c4",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-jersey-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-saxon-callahan-be-the-democratic-nominee-for-senate-in-new-jersey": {
-    "id": "706156",
-    "conditionId": "0xb099f3010931487c86c41e8ca31d0cbea28e7d458b537225ee2bc578e28406fd",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-jersey-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-gregory-tomaini-be-the-democratic-nominee-for-senate-in-new-jersey": {
-    "id": "706157",
-    "conditionId": "0x5350054eb5a80de5594a46fe895dfcd1e339cc9db8dfbbe4231dd9dcc19e7a12",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-jersey-democratic-senate-primary-winner",
-    "negRisk": true
-  },
   "will-karishma-manzur-be-the-democratic-nominee-for-senate-in-new-hampshire": {
     "id": "706183",
     "conditionId": "0x1cf96ff28b0fa76e23f12a0cf299fc3bced8b26e0addfc1ef11fb58347c0216e",
@@ -34112,16 +34082,6 @@
   "will-alexander-zverev-win-the-2026-mens-french-open": {
     "id": "1087514",
     "conditionId": "0x739e756119534672538d8df821a5b3321e2c802d80afff0c5790126be9b41281",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-joao-fonseca-win-the-2026-mens-french-open": {
-    "id": "1087516",
-    "conditionId": "0x24e67fb509df7efecc1840008153634d4852c0d2725d0a6c13f2e60beb2f2e2f",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -63316,36 +63276,6 @@
     "eventSlug": "which-bills-will-become-law-in-2026",
     "negRisk": false
   },
-  "will-justin-mcneal-be-the-republican-nominee-for-senate-in-south-dakota": {
-    "id": "1427209",
-    "conditionId": "0x01408db0d90e6ba11f7cb6347905b8d5b69dc881de8420e4629bdc8be6aade2e",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-dakota-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-mike-rounds-be-the-republican-nominee-for-senate-in-south-dakota": {
-    "id": "1427210",
-    "conditionId": "0xcd58e9234a761b8bf35b7b58231f085366cb7870bdc7392ae4f5464f3ac5cd14",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-dakota-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-kristi-noem-be-the-republican-nominee-for-senate-in-south-dakota": {
-    "id": "1427211",
-    "conditionId": "0x7e5dee1786c347880059915bb00df5b567e5f04e6947aeac5590e50055ebf74c",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-dakota-republican-senate-primary-winner",
-    "negRisk": true
-  },
   "will-jeff-hurd-be-the-republican-nominee-for-co-03": {
     "id": "1427288",
     "conditionId": "0x6f3500bc43f816c814f6f520249a786e04097a0c4b4de901d9de9967cb0f3446",
@@ -64586,29 +64516,9 @@
     "eventSlug": "nj-12-democratic-primary-winner-651",
     "negRisk": true
   },
-  "will-brad-cohen-be-the-democratic-nominee-for-nj-12-358": {
-    "id": "1448089",
-    "conditionId": "0x4df70631b83fce3474f735946b869e3725c3cd1ff1d2eff00b6798a12f0d60fb",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nj-12-democratic-primary-winner-651",
-    "negRisk": true
-  },
   "will-elijah-dixon-be-the-democratic-nominee-for-nj-12": {
     "id": "1448090",
     "conditionId": "0x171fe95e904a78fa89f99f52ec353d95490103d4d32463358d92598c0424ea41",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nj-12-democratic-primary-winner-651",
-    "negRisk": true
-  },
-  "will-adam-hamawy-be-the-democratic-nominee-for-nj-12": {
-    "id": "1448091",
-    "conditionId": "0xf324ac954a786a2d7d8a465377329ea9f8365a7b23844bb8883bc6fd8ee9f131",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -64695,36 +64605,6 @@
     "acceptingOrders": true,
     "eventSlug": "which-nfl-players-will-be-traded",
     "negRisk": false
-  },
-  "will-nikki-gronli-be-the-democratic-nominee-for-sd-al-725": {
-    "id": "1448394",
-    "conditionId": "0x2470f7af40585b7537ffb9ea92469f4f6e4c561ef5644402841b57e986a90afe",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sd-al-democratic-primary-winner-348",
-    "negRisk": true
-  },
-  "will-billy-mawhiney-be-the-democratic-nominee-for-sd-al-179": {
-    "id": "1448395",
-    "conditionId": "0x43c4ebd4d5b162d369aa693115803f4d3f0e28868402a54532ca3929d30d9db3",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sd-al-democratic-primary-winner-348",
-    "negRisk": true
-  },
-  "will-scott-schlagel-be-the-democratic-nominee-for-sd-al-275": {
-    "id": "1448396",
-    "conditionId": "0x78f3ff8da66a80bf9dede6686b5d76ee6becf65eff72963094fa8def51228d1d",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sd-al-democratic-primary-winner-348",
-    "negRisk": true
   },
   "trump-declares-election-interference-national-emergency": {
     "id": "1450214",
@@ -80675,16 +80555,6 @@
     "eventSlug": "what-price-will-edgex-hit-in-2026",
     "negRisk": false
   },
-  "will-edgex-dip-to-0pt60-before-2027": {
-    "id": "1845395",
-    "conditionId": "0x6c6e8141932fe533b9de99b346bb99d5dba1676c328f1dbabafc2d89201f59f0",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-edgex-hit-in-2026",
-    "negRisk": false
-  },
   "will-edgex-dip-to-0pt40-before-2027": {
     "id": "1845396",
     "conditionId": "0xdee352069a36e5b72fafd904ba10a541076beca19786f08540b8f711b471588c",
@@ -86057,16 +85927,6 @@
   "will-flavio-cobolli-win-the-2026-roland-garros-mens-singles": {
     "id": "1920468",
     "conditionId": "0xc8eed8269df43fe1b6b4383c5d78ec8d24c39d2206a772510f9810bf92a81ef5",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-joao-fonseca-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920476",
-    "conditionId": "0xcbdfd5760691fedd8a0ebf3df668fdddb2b76455d7143a74ceb241361f20da88",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -100013,36 +99873,6 @@
     "acceptingOrders": true,
     "eventSlug": "claudio-lotito-sells-lazio-in-2026",
     "negRisk": false
-  },
-  "will-rebecca-bennett-be-the-democratic-nominee-for-nj-07": {
-    "id": "2044368",
-    "conditionId": "0xd406b9c3f7ca699cace58895b21f347f305a6189d2e40320d555bff5a347b0b1",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nj-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-michael-roth-be-the-democratic-nominee-for-nj-07": {
-    "id": "2044369",
-    "conditionId": "0x22a8bc612ca15275ddf62b0612e3d3d6876b3e802f6cc6dbd9496bf5032e7573",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nj-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-tina-shah-be-the-democratic-nominee-for-nj-07": {
-    "id": "2044370",
-    "conditionId": "0xeef9abd3eef1405e4085e9244788bdfdedbd4682e069ae2ce8bff68e086d5a2e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nj-07-democratic-primary-winner",
-    "negRisk": true
   },
   "will-brian-varela-be-the-democratic-nominee-for-nj-07": {
     "id": "2044371",
@@ -116664,66 +116494,6 @@
     "eventSlug": "another-iranian-diplomat-expelled-by-june-30",
     "negRisk": false
   },
-  "will-gas-hit-low-4pt25-by-may-31": {
-    "id": "2126446",
-    "conditionId": "0x8a0d5d7cfe1751362abf07b0d4caa5dcf5b817fad7f7b9ff4de9f395cecdab7c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-low-4pt20-by-may-31": {
-    "id": "2126447",
-    "conditionId": "0xd6c71d8228354234abc3d0ce74d5e6eca5a91d8432a76a9de156fc7e01c1feaa",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-low-4pt10-by-may-31": {
-    "id": "2126448",
-    "conditionId": "0xea440e862a3bfeda0cb0c6d35a38d2501e1a3d2aa72f81dd7a5e286f82eab21b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-low-4pt00-by-may-31": {
-    "id": "2126449",
-    "conditionId": "0x4c7a4c86c15aec7cebc8748152a6cd3161c052102f083d62b089aaf793bf5667",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-low-3pt75-by-may-31": {
-    "id": "2126450",
-    "conditionId": "0x75f67154d1230a2528e37a6b8f595760bcd2b5e530282dcd9c51b245a5d25b1b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
-  "will-gas-hit-low-3pt50-by-may-31": {
-    "id": "2126451",
-    "conditionId": "0xc4f93e01875fa0d7402ebd37736cf7fa0805ec5c9529cff566967117d99f097f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-gas-hit-by-end-of-may",
-    "negRisk": false
-  },
   "will-crude-oil-reach-a-new-all-time-high-by-june-30": {
     "id": "2126459",
     "conditionId": "0x806fb0e989b077af7566e558cab7379688c7a77f096dc770ab7fae8b2b87f879",
@@ -119613,5 +119383,235 @@
     "acceptingOrders": true,
     "eventSlug": "nfl-team-to-make-postseason",
     "negRisk": false
+  },
+  "will-the-miami-dolphins-make-the-2027-nfl-playoffs": {
+    "id": "2155358",
+    "conditionId": "0xd601788b919536fa18c2eca1c77dd55babc1438c2f16b199d212149fc6924893",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-minnesota-vikings-make-the-2027-nfl-playoffs": {
+    "id": "2155359",
+    "conditionId": "0xe13c836b13959b8822fbb75c1cfea9a80f58e2f769698c5d005e7686e4d724bd",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-new-england-patriots-make-the-2027-nfl-playoffs": {
+    "id": "2155360",
+    "conditionId": "0xfeaf50793f1d125964b36cad5c33127f779972a5b4e581c80332fe775df40f66",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-new-orleans-saints-make-the-2027-nfl-playoffs": {
+    "id": "2155361",
+    "conditionId": "0x1d3b17cdd7c67c3a3118c28eeccf9b18473b7f45b8494d9d9bacb1c8a8a6b057",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-new-york-giants-make-the-2027-nfl-playoffs": {
+    "id": "2155362",
+    "conditionId": "0x25045cd357a17544a37412283d57f6a468a87290a8aa4f9cae7f8417927d52b9",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-new-york-jets-make-the-2027-nfl-playoffs": {
+    "id": "2155363",
+    "conditionId": "0xb6406584d4dd10b1f6cb8c4142dc25169eb0dc731dfe7ba2870a31982e69ac15",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-philadelphia-eagles-make-the-2027-nfl-playoffs": {
+    "id": "2155364",
+    "conditionId": "0xc34e624ece456a7229acf02489cbc515e5ece24bcb8c7b615ee33849181a15e7",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-pittsburgh-steelers-make-the-2027-nfl-playoffs": {
+    "id": "2155365",
+    "conditionId": "0x729b39716329938c019c4a64fe40254ee424950874b24def6c11a811be1c6776",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-san-francisco-49ers-make-the-2027-nfl-playoffs": {
+    "id": "2155366",
+    "conditionId": "0xb331b9017ac0a9c144f7f05e544a36a84537df33b2699d6d385dee96578b9639",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-seattle-seahawks-make-the-2027-nfl-playoffs": {
+    "id": "2155367",
+    "conditionId": "0xf37d2da41926cff57597ef43476919c9f3335ec9f750434d8a6797b8756fb0ed",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-tampa-bay-buccaneers-make-the-2027-nfl-playoffs": {
+    "id": "2155368",
+    "conditionId": "0xe13b12c876d6f949658e0a8380f61a669f4c4f91cdaa4a62e81d90a93f8b7ae3",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-tennessee-titans-make-the-2027-nfl-playoffs": {
+    "id": "2155369",
+    "conditionId": "0x6329bf3ecfc5173d681a134f819ba3e4346b962c269871f7b311db39a4c63069",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-the-washington-commanders-make-the-2027-nfl-playoffs": {
+    "id": "2155370",
+    "conditionId": "0xc3bdf4caa937776e894dd0357dc441ed57cd764ebc5f5ca8f2ec1a5edb58c832",
+    "endDate": "2027-01-05",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nfl-team-to-make-postseason",
+    "negRisk": false
+  },
+  "will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-0pt0": {
+    "id": "2155514",
+    "conditionId": "0xb5e81ed4505222492089b249b90ae7cc57b8232bb8b627902496bddc8679c94a",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mexico-gdp-growth-in-q2-2026",
+    "negRisk": true
+  },
+  "fetterman-leaves-the-democrats-by-june-30": {
+    "id": "2157390",
+    "conditionId": "0x371cfdb78c42fb64fdef1169afe129e6fa9854fdfab9d7f0f6f750b068740468",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fetterman-leaves-the-democrats-by-june-30",
+    "negRisk": false
+  },
+  "will-tiger-woods-play-in-a-pga-tournament-in-2026": {
+    "id": "2158519",
+    "conditionId": "0x40c42a9a7349011ec19b2608ce26d4273b8a94d77129ac3a86424806a8fa23fd",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tiger-woods-play-in-a-pga-tournament-in-2026",
+    "negRisk": false
+  },
+  "romanian-pm-bolojan-out-by-june-30": {
+    "id": "2158709",
+    "conditionId": "0xd492cb60df4fb9f44ef36e840720c392f68ae7ba7cbbb671a27221c5a3ecdf08",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "romanian-pm-bolojan-out-by",
+    "negRisk": false
+  },
+  "romanian-parliament-dissolved-by-july-31": {
+    "id": "2158806",
+    "conditionId": "0x403a2992ce3adb0df0af7054074191b5dffe20fbd3bdcd4b993224529f6d4e4b",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "romanian-parliament-dissolved-by-july-31",
+    "negRisk": false
+  },
+  "will-arch-manning-be-the-first-overall-pick-in-the-2027-pro-football-draft": {
+    "id": "2158887",
+    "conditionId": "0x1b9b13acbc6dd2859f372d78f54062809f53deb728cb3be531ea2a9d82d7b5ea",
+    "endDate": "2027-04-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-pro-football-draft-1st-overall-pick",
+    "negRisk": true
+  },
+  "will-cj-carr-be-the-first-overall-pick-in-the-2027-pro-football-draft": {
+    "id": "2158888",
+    "conditionId": "0x7cce4264b336fc9450da49c07a731f8757b725f72a89a8caa87191fae602ca19",
+    "endDate": "2027-04-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-pro-football-draft-1st-overall-pick",
+    "negRisk": true
+  },
+  "will-drew-mestemaker-be-the-first-overall-pick-in-the-2027-pro-football-draft": {
+    "id": "2158889",
+    "conditionId": "0xb615e26f0b746c8c8e088462676e486838778aa3f13d2f9802b7dd896aaccd4d",
+    "endDate": "2027-04-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-pro-football-draft-1st-overall-pick",
+    "negRisk": true
+  },
+  "will-dylan-stewart-be-the-first-overall-pick-in-the-2027-pro-football-draft": {
+    "id": "2158890",
+    "conditionId": "0x4750d7738fc7ccf20d69a682648d9023363a35ad78df8890efd2463355eebaa3",
+    "endDate": "2027-04-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-pro-football-draft-1st-overall-pick",
+    "negRisk": true
+  },
+  "will-trinidad-chambliss-be-the-first-overall-pick-in-the-2027-pro-football-draft": {
+    "id": "2158891",
+    "conditionId": "0x3969fb4d1ae8325d8d8fce221c082bdb9271d632850faaf7f92d060f36a5e952",
+    "endDate": "2027-04-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2027-pro-football-draft-1st-overall-pick",
+    "negRisk": true
   }
 }
