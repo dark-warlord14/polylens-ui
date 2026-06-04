@@ -10999,146 +10999,6 @@
     "eventSlug": "will-a-us-ally-get-a-nuke-before-2027",
     "negRisk": false
   },
-  "will-oh-se-hoon-win-the-2026-seoul-mayoral-election": {
-    "id": "678929",
-    "conditionId": "0xc587bda904f031a973ad3cb57128ca011bfab0f45e6cb3734ed2227c4d4be419",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-na-kyung-won-win-the-2026-seoul-mayoral-election": {
-    "id": "678930",
-    "conditionId": "0x819ae990aac5ebdf8f3093ec059946d98832f67edd13901df333d39f96b3db8a",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-cho-eun-hee-win-the-2026-seoul-mayoral-election": {
-    "id": "678931",
-    "conditionId": "0xe660bc726e2e1171e8af9a1362845f9e85c16550f8918f75959a5229af280c3e",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-han-dong-hoon-win-the-2026-seoul-mayoral-election": {
-    "id": "678932",
-    "conditionId": "0x467cf9f5be224e3e0404f31cc040f6e13b2fa43dbdf12ae3a81ae2ec246dca26",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-ahn-cheol-soo-win-the-2026-seoul-mayoral-election": {
-    "id": "678933",
-    "conditionId": "0x910a05fb750d627179bc6cdd845fe858f1ef444ad8def0e40d4336c66dc4fdd8",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-ju-min-win-the-2026-seoul-mayoral-election": {
-    "id": "678934",
-    "conditionId": "0xf21dfd7b985a2e3e78f56f14146013b35cdbd24dbc3f72831d425d7e131ac26b",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-yong-jin-win-the-2026-seoul-mayoral-election": {
-    "id": "678935",
-    "conditionId": "0xff26d2bfdfa949ab4d9f91e460ea721fe5a61dad3621ea5c69dfb04b64957be8",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-hong-keun-win-the-2026-seoul-mayoral-election": {
-    "id": "678936",
-    "conditionId": "0xa31e61f22cf97acf90a49111ed890b7115749a0b65067e63b798371e6c595a24",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-chong-won-oh-win-the-2026-seoul-mayoral-election": {
-    "id": "678937",
-    "conditionId": "0x1b1a75d6305f5edee255b3f368cca945bde401fea4b2a7e34f2fcca3b3e56cf0",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-seo-young-kyo-win-the-2026-seoul-mayoral-election": {
-    "id": "678938",
-    "conditionId": "0xe13dbf203961425a8a5090eb0d94b03c08cda7424d7423699fd87794335eb765",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-hong-ihk-pyo-win-the-2026-seoul-mayoral-election": {
-    "id": "678939",
-    "conditionId": "0xe9801c96bd2b204fa3f5970893bfed329d6609ad1e1955083c1cb772a06adac3",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-jeon-hyun-heui-win-the-2026-seoul-mayoral-election": {
-    "id": "678940",
-    "conditionId": "0x03865bd6273b82fe88954a2cf647be4dcc4ebcf03f0e5ef704386318fe409fea",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-cho-kuk-win-the-2026-seoul-mayoral-election": {
-    "id": "678941",
-    "conditionId": "0x0e0839e06a1e7b83dc6c27aaa14501e6a6d44f89c2d160792941e69e20e24ef5",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-kang-hoon-sik-win-the-2026-seoul-mayoral-election": {
-    "id": "678943",
-    "conditionId": "0x1f113d9c62d46e40f5d1808f64c5d5892a583d22ff5d90c7a23737e221ff84ce",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-seoul-mayoral-election-winner",
-    "negRisk": true
-  },
   "will-marine-le-pen-win-the-2027-french-presidential-election": {
     "id": "679018",
     "conditionId": "0x8126317d621047fb13d508a2651eecc8d38305904671822a62309c5aabd353aa",
@@ -11497,286 +11357,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "next-french-presidential-election",
-    "negRisk": true
-  },
-  "will-park-heong-joon-win-the-2026-busan-mayoral-election": {
-    "id": "679152",
-    "conditionId": "0x3f099ddf210c1d32006f55fe2da00ee78ff10734b7786d8b34f281c4b9c426e0",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-kim-do-eup-win-the-2026-busan-mayoral-election": {
-    "id": "679153",
-    "conditionId": "0xc3b0c22c4402be0196dc2ed49dddd3adf3582c59ee518d5769e382de96e6e18f",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-cho-kyoung-tae-win-the-2026-busan-mayoral-election": {
-    "id": "679154",
-    "conditionId": "0x8fe6708a0eb52edb74a042f9bfff14cdd8d14d5c2505bc625f060ec8d1f64f44",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-suh-byung-soo-win-the-2026-busan-mayoral-election": {
-    "id": "679155",
-    "conditionId": "0xd47e8e70d2c25c8788eb0796a3a22c12b6cec77e7d8113c5fdaad84386cb7654",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-seong-hoon-win-the-2026-busan-mayoral-election": {
-    "id": "679156",
-    "conditionId": "0x7159c9392022c0d7c2190a7a34f9f2c0bded82596f7c22f343c38929b764c252",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-jae-ho-win-the-2026-busan-mayoral-election": {
-    "id": "679157",
-    "conditionId": "0xe3b7f338805e6218cc48883337066d12600b37450ff67ecd867dd2380d75ce00",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-choi-in-ho-win-the-2026-busan-mayoral-election": {
-    "id": "679158",
-    "conditionId": "0xdf9dc9b5a8ea00ced019940380820dfe012dfd95543cf7a175c3178dd9912a9a",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-chun-jae-soo-win-the-2026-busan-mayoral-election": {
-    "id": "679159",
-    "conditionId": "0x3b7db2dbb3b47a6a532849ee3edd147d16fec311af4f40329f1ea8c45feb60b9",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-lee-jae-sung-win-the-2026-busan-mayoral-election": {
-    "id": "679160",
-    "conditionId": "0x3b4de08b20883207252db734b0a859edcea085c3b6063f2c4c5258384f3cecf7",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-kim-young-choon-win-the-2026-busan-mayoral-election": {
-    "id": "679161",
-    "conditionId": "0x261f250248f0998ee2eae04d11d98e07d75b7146e308e20e3a4492b7e6291536",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-hong-soon-heon-win-the-2026-busan-mayoral-election": {
-    "id": "679162",
-    "conditionId": "0x9a108beb3347ff75d7deefc2b61a42897275cf436282027e3e019f1bd1ae902a",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-cho-kuk-win-the-2026-busan-mayoral-election": {
-    "id": "679163",
-    "conditionId": "0xa559c916013489605fa7e661fadb08193750535a47b309ce6ee140ea2a4c85d2",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-busan-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-kim-dong-yeon-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679490",
-    "conditionId": "0x46384761c67afa763135075051dd720984ed90d26fc3483d412549e64528fc7b",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-kim-byeong-ju-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679491",
-    "conditionId": "0xafad410f0dbbbee3fe99f4456af5e97e20086e52e775f72230a7d4fb3fa9f4f8",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-choo-mi-ae-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679492",
-    "conditionId": "0xd07ad157463306284e16a0f897510948a1ff9904c4cbf0992e1421e62a079d38",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-yeom-tae-yeong-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679493",
-    "conditionId": "0x600e39a5512ec040f2e4d57b680476fa648c61fc285248936bcedaac917a8b38",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-han-jun-ho-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679494",
-    "conditionId": "0x00b3aad127920666574f5cf65f242de17f76a9011c89d6fe9141615d458457aa",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-lee-un-ju-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679495",
-    "conditionId": "0x03071f0719ff5abf7b1f03443a1f33b891715ddcae183122da770f3ddbe97f37",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-yoo-seong-min-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679496",
-    "conditionId": "0xa43b42ca5b3416eff903712b9facbc5893dad730d08e0bec5d8f64383c1bf80e",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-kim-eun-hye-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679497",
-    "conditionId": "0xef17681e7f897248f326bd04c01c151337230db86a194085213dbbf838ca40a3",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-han-dong-hoon-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679498",
-    "conditionId": "0x53060b1567b8860209bbbaf8fc8d2e7ac95539f54a995e125748252c48ec03d1",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-kim-moon-soo-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679499",
-    "conditionId": "0x1c8568b06f434a151491ea05dccd0ab5ee3ffec1fa3262ee56f7d8a1eb4872ed",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-won-hee-ryong-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679500",
-    "conditionId": "0x5373aaecf3961f921e3be5a45a1fd60c4b49a4e70babcb1e8067a24ce807d7db",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-ahn-cheol-soo-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679501",
-    "conditionId": "0x99f53002112f3222bf7e190271222d61e24aaa1aa9f644c6f21858a032914489",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-lee-jun-seok-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679502",
-    "conditionId": "0x300cdef0775a2629170909766fdb8542fbf4bbcf18b05a86813fcf197dc78f14",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-na-kyung-won-win-the-2026-gyeonggi-province-gubernatorial-election": {
-    "id": "679504",
-    "conditionId": "0x0f628837791a2cd15d38f776e6d88015d174056f121470679688addbc2a82d17",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-cho-eung-chun-win-the-2026-gyeonggi-province-gubernatorial-election-159": {
-    "id": "679506",
-    "conditionId": "0xeeb9bc7c2faa23c7b93df429e5e9100ec5cb3107f39ea1defe099ed55aa7cbbf",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
-    "negRisk": true
-  },
-  "will-yang-hyang-ja-win-the-2026-gyeonggi-province-gubernatorial-election-148": {
-    "id": "679507",
-    "conditionId": "0x0f1f4900e5372fceb7758da2deae448bc76de641d4ee493f707d46985e697f23",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-gyeonggi-province-gubernatorial-election-winner",
     "negRisk": true
   },
   "will-john-hickenlooper-be-the-democratic-nominee-for-senate-in-colorado": {
@@ -12487,306 +12067,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-the-steam-machine-cost-700-or-more-at-release",
     "negRisk": false
-  },
-  "will-yoo-jeong-bok-win-the-2026-incheon-mayoral-election": {
-    "id": "687171",
-    "conditionId": "0x45d06878c8e37b634909a2216e1d765f88e7f6f3a0cdb7d2c86984543a0ba2cb",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-yoon-sang-hyun-win-the-2026-incheon-mayoral-election": {
-    "id": "687172",
-    "conditionId": "0x582fe5744a7b2fe6e62d40fd377d5669fa3713f1878c8801103078e7647d9e77",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-bae-june-young-win-the-2026-incheon-mayoral-election": {
-    "id": "687173",
-    "conditionId": "0xfecc10e2ccc3eb06d553aa6b356af36c6cef24a569600602b5d56afa8265906e",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-lee-hak-jae-win-the-2026-incheon-mayoral-election": {
-    "id": "687175",
-    "conditionId": "0xb721a52a34271177a36ea08a0c9a7cfc42b3ac1f20d679bc389e0eb021850dd2",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-chan-dae-win-the-2026-incheon-mayoral-election": {
-    "id": "687176",
-    "conditionId": "0x4f3ec78825d87d0412b8f5668989a9547da4d167667cf2e04828a995e40a5fbe",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-park-nam-choon-win-the-2026-incheon-mayoral-election": {
-    "id": "687177",
-    "conditionId": "0xb8484627b2f97cc2230005f7a4fddf2a59160d7fe1ed83e000109be697603801",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-chung-il-young-win-the-2026-incheon-mayoral-election": {
-    "id": "687178",
-    "conditionId": "0xeda84eebd8036071d9c0fc0ad95efa8433391b83c487e2cbcb907053d63fe864",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-yoo-dong-soo-win-the-2026-incheon-mayoral-election": {
-    "id": "687179",
-    "conditionId": "0xfcf558668f9ef1074f1f84a30a60d8bc0c1dfb2d508b22a21c2c5fb12275b3d2",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-kim-kyo-heung-win-the-2026-incheon-mayoral-election": {
-    "id": "687180",
-    "conditionId": "0x0916377f136fef027e54d95bf388c1b3d5f6fc292d3e467d80f3057d7fdef6cd",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "incheon-mayoral-election-winner",
-    "negRisk": true
-  },
-  "will-kim-tae-heum-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687271",
-    "conditionId": "0xaaf4be4f37d96703d6c366ac3a69317815cee8a58c81e9d6bb3b0c4dcc5420a0",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-chung-jin-suk-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687272",
-    "conditionId": "0xff2a509a6423d4af22661e72e31af53ba208574dfc2244654eaa610244ae4287",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687273",
-    "conditionId": "0x920108a5697b1ebfafb0670dd38714f4b7ecc8d1c471e7840a68da68ae31542b",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kang-seung-kyu-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687274",
-    "conditionId": "0xfb7bae1eee41b5b676ebc174b2e4b4e35e98d37100ee8418c4d03e061c13326e",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-sung-il-jong-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687275",
-    "conditionId": "0xca2676a0c86790a93ae6078ab5690a45cbc0e93f425330d0cd2c842caa86414d",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-yang-seung-jo-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687276",
-    "conditionId": "0x94514021ce8601d22bd480c5b5ec9aa38f0650384e0d383f07a0d5e2339dadb7",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kang-hoon-sik-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687277",
-    "conditionId": "0x25e9be148e7e6d4c223d876bf5ebcb9a86e12dcb3685465914973e347444a19f",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-moon-jin-seok-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687278",
-    "conditionId": "0xd66845f086ee65562add68d1a14f5e937c9300cd2990f8c72ac4be24ad50ad7c",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-park-soo-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election": {
-    "id": "687279",
-    "conditionId": "0x2d39bdc79bfe44548bada0e5c63f5b3d0c5a0a18d5df209df2f19400c6a32674",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongnam-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kim-young-hwan-win-the-2026-chungcheongbuk-province-gubernatorial-election": {
-    "id": "687301",
-    "conditionId": "0xb599d690e0251dc5e229a82ca8e187ddeda1626aa5b4c32dd1d18cf5518f49f5",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongbuk-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-shin-yong-han-win-the-2026-chungcheongbuk-province-gubernatorial-election": {
-    "id": "687305",
-    "conditionId": "0xfbda5ef76fac8f2daa92edb8ddec2f8b9646c8ccaa344e359f99d73f908d4d53",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongbuk-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-do-jong-hwan-win-the-2026-chungcheongbuk-province-gubernatorial-election": {
-    "id": "687308",
-    "conditionId": "0xb027bc5f383e288a9488a178902ef0f2f8dbf0897c4dc38d6c861a803aee1f2f",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chungcheongbuk-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kim-jin-tae-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687424",
-    "conditionId": "0xb86618f0e3e26d16e5abd848af319dd750dba3271684a2912268bb917a8f9953",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kim-wan-seop-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687425",
-    "conditionId": "0xbd8114a52eed432265735ebfe174ce257047a94b378cbc36246ca0dba7a07c33",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-lee-chul-gyu-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687426",
-    "conditionId": "0x237e02f976b2e3da26581188ac589dc2fc205fe720e8fada962fc6df2cd2eba6",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kweon-seong-dong-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687427",
-    "conditionId": "0x5fd14ce22f2d4c332bae5d9e56971eeb44570b6ec0aaede6c71bc08ee22aae84",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-woo-sang-ho-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687429",
-    "conditionId": "0xdade564249db4b9daad8e06c21e06e2760c7c640b2be1c7016baa48bbfef83d9",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-kim-do-kyun-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687430",
-    "conditionId": "0xbf2cba044810364349878bce032b495875a0ae8b575286388e79cc4bddde4a6c",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-lee-kwang-jae-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687431",
-    "conditionId": "0x26c050cf067df27a911df254445dece1b69185a84702c728a38cefc3e30bb76d",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-song-gi-heon-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687432",
-    "conditionId": "0xbecfcab892fc16aabf72d5180094c6c51ba33ac8005c3f9497b7c6d05bbee7f1",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
-  },
-  "will-won-chang-muk-win-the-2026-gangwon-province-gubernatorial-election": {
-    "id": "687433",
-    "conditionId": "0x9ae2d920fa7f4da49b6524361fa2e7260cad95631cc8e443ddeb2d70d2f1ccfd",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gangwon-province-governor-election-winner",
-    "negRisk": true
   },
   "sundar-pichai-out-as-google-ceo-before-2027": {
     "id": "687554",
@@ -17505,56 +16785,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "who-will-be-the-democratic-nominee-for-me-02",
-    "negRisk": true
-  },
-  "will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections": {
-    "id": "703986",
-    "conditionId": "0x9096135883f6f52c9b6008ab7bb9af98464c0b34e06f76d71324d58714fadcab",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-south-korean-local-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-democratic-party-of-korea-dp-win-the-2026-south-korean-local-elections": {
-    "id": "703987",
-    "conditionId": "0x8c3455f1a9afbd5a7911fbf1c0d454359ad99f0f518d84641857ca754e7c4dd5",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-south-korean-local-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-rebuilding-korea-party-rkp-win-the-2026-south-korean-local-elections": {
-    "id": "703988",
-    "conditionId": "0xcbf84d3ee01f60cf06263c79fef5cbd92a8126691cadddfcd0129a916429ae36",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-south-korean-local-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-progressive-party-pp-win-the-2026-south-korean-local-elections": {
-    "id": "703989",
-    "conditionId": "0xfa5f534d4598af5b651d5e09fe5a30f4ff6949608125868ec7f2ae4c2f2d30e1",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-south-korean-local-elections-party-winner",
-    "negRisk": true
-  },
-  "will-reform-party-rp-win-the-2026-south-korean-local-elections": {
-    "id": "703991",
-    "conditionId": "0x9e47ca95afefba838dd468e94c6b5e83bfd666fb7296294409bdb486188257b2",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-south-korean-local-elections-party-winner",
     "negRisk": true
   },
   "will-dan-koh-be-the-democratic-nominee-for-ma-06": {
@@ -63986,116 +63216,6 @@
     "eventSlug": "new-virginia-congressional-map-used-in-the-midterms",
     "negRisk": false
   },
-  "will-mette-frederiksen-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451224",
-    "conditionId": "0xa8e8cdf6ed1a4132ce687c5cd5d0eec65f439e0c83ae7bad3463a0906aba7aa8",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-lars-lkke-rasmussen-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451225",
-    "conditionId": "0xf2f0cf8b7aa90c53fbd56439782d1828a2315c8d21890f4a2804a61720985cea",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-troels-lund-poulsen-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451226",
-    "conditionId": "0xa12d0d8087385dad23189b3d96649c2062a1a6a16b97b9a796a89d20ea7f6aba",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-lars-boje-mathiesen-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451227",
-    "conditionId": "0xdeb9bf21bc1ab03dd80851204892490f861846681102b754711c34298e043b45",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-pia-olsen-dyhr-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451228",
-    "conditionId": "0xf014f0f8f91d95b11628a8deadf1b1c151a187121d56e68b219691dc0fb40bbf",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-alex-vanopslagh-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451229",
-    "conditionId": "0x5216e4e5eca3fad9349a5f85b04bd32d001f0fbba60cb090c45d0c9c4ec2dd21",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-morten-messerschmidt-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451230",
-    "conditionId": "0x07bb575fb67b917d73b667ef6a6191b3ecedb13a339d92f853b666a03e51bada",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-inger-stjberg-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451231",
-    "conditionId": "0xa89f516ada4672cfe4ed4921c9bb39e1664482d17593709bc68d6520853f6c91",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-pelle-dragsted-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451232",
-    "conditionId": "0xed80a31bb5ab5718a370db2d5a35a1728c8be0da585a20343f96badc0ca38aab",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-martin-lidegaard-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451233",
-    "conditionId": "0xc89dc87519052aad89926456613c142b6491b668b351886ee078cf7cc688138d",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
-  "will-mona-juul-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections": {
-    "id": "1451234",
-    "conditionId": "0x85357481f1062c0be191aa6c50b7390206c8b4f0ae84d909b2cb5e9dca037edb",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-prime-minister-of-denmark-after-parliamentary-election",
-    "negRisk": true
-  },
   "will-george-pickens-play-for-arizona-cardinals-in-2026-27": {
     "id": "1459607",
     "conditionId": "0x597b3ad51ff34247a71be135ecf59c871ebccc1beaed1e80f7bfa6dffb3cd1dc",
@@ -68520,166 +67640,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "criclcl-mum-sou-2026-03-19",
-    "negRisk": false
-  },
-  "will-the-social-democrats-be-part-of-the-next-government-of-denmark": {
-    "id": "1571919",
-    "conditionId": "0x6cdbe8c61ad37616aa158b364deaccf7246872a035cf07e14133f77f5ba0db58",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-venstre-be-part-of-the-next-government-of-denmark": {
-    "id": "1571920",
-    "conditionId": "0x27d165270bb58e95511ce45edbe17120368c536c29a17b380da8e67d6e17e725",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-denmark-democrats-be-part-of-the-next-government-of-denmark": {
-    "id": "1571921",
-    "conditionId": "0x192678d83d8c08354aab58c5c8589fa69e74783c3cb3e31d0e403217f1393bb9",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-green-left-be-part-of-the-next-government-of-denmark": {
-    "id": "1571922",
-    "conditionId": "0xded7e84b9452327b6382d9c8ffa6251c85771d216657a9834f38dc8acc1fd0b9",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-liberal-alliance-be-part-of-the-next-government-of-denmark": {
-    "id": "1571923",
-    "conditionId": "0xe9e49a20032a5b7161d61870c09814560a7a6c1d77f611f771cc5d263f2d7f0b",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-moderates-be-part-of-the-next-government-of-denmark": {
-    "id": "1571924",
-    "conditionId": "0x698f6ef47cd88853dffe1f7858f2130656e395f55bbb41f12aee6b9a98394a76",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-conservative-peoples-party-be-part-of-the-next-government-of-denmark": {
-    "id": "1571925",
-    "conditionId": "0xa2539f6e44144380065c172c8ac22d629fd0201d9577677147542d8707305c16",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-redgreen-alliance-be-part-of-the-next-government-of-denmark": {
-    "id": "1571926",
-    "conditionId": "0x8589b093edacce8c8962d49b62fc1e7aca3aac1424172535882d290ee99816e7",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-danish-peoples-party-be-part-of-the-next-government-of-denmark": {
-    "id": "1571927",
-    "conditionId": "0x79fe5c4b671eaf199f8d5dbe211ec70d2d9d9374d916d0e20a9e2b3ced4267a4",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-danish-social-liberal-party-be-part-of-the-next-government-of-denmark": {
-    "id": "1571928",
-    "conditionId": "0xc580316aebca4d2aa5ff9bd0f876a148d8ee665c0cbbefe3a29f01438dae9094",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-the-alternative-be-part-of-the-next-government-of-denmark": {
-    "id": "1571929",
-    "conditionId": "0x0e2e250d459ea15e2894114a58a449b0f444253e35b6cc5dbe7e7a5e59954e7b",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-citizens-party-be-part-of-the-next-government-of-denmark": {
-    "id": "1571930",
-    "conditionId": "0x5a02c7c88067a012b8ba4e32bd967a1a07f40c167ddd7bb2db11e3a9053a86ad",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-union-party-be-part-of-the-next-government-of-denmark": {
-    "id": "1571931",
-    "conditionId": "0xbb7f1e5c1c152b79142bd6069dd49115087fa90189d976394bf5ad3ec1125ad6",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-the-social-democratic-party-faroe-islands-be-part-of-the-next-government-of-denmark": {
-    "id": "1571932",
-    "conditionId": "0x1ace6d9e95a123a07e30939e68b7f6eaf4dda3387814f0fa2f329e3102759c95",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-inuit-ataqatigiit-be-part-of-the-next-government-of-denmark": {
-    "id": "1571933",
-    "conditionId": "0xe533ada3955be36575bb29933c422da68dc715a6bba3aa853fe20f89ac6b9063",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
-    "negRisk": false
-  },
-  "will-naleraq-be-part-of-the-next-government-of-denmark": {
-    "id": "1571934",
-    "conditionId": "0x4855842d60a82926a22be58d01158f26a49dd7bec791b10ae2543666540f52a6",
-    "endDate": "2026-03-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-denmark",
     "negRisk": false
   },
   "will-predictfun-launch-a-token-by-june-30-2026": {
@@ -76537,69 +75497,9 @@
     "eventSlug": "2026-soccer-colombia-primera-a-winner",
     "negRisk": true
   },
-  "2026-soccer-colombia-primera-a-winner-deportivo-pasto": {
-    "id": "1830241",
-    "conditionId": "0xa157519f2f4b89c73ba1d1e59f8d1aeb69ff241d0929a067221db13ab6535abe",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-colombia-primera-a-winner",
-    "negRisk": true
-  },
-  "2026-soccer-colombia-primera-a-winner-once-caldas": {
-    "id": "1830242",
-    "conditionId": "0xbc54c99ad6d5302b67440c1e2e9a388f29aa30081e5d75f4adf6ae772ed6aa16",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-colombia-primera-a-winner",
-    "negRisk": true
-  },
-  "2026-soccer-colombia-primera-a-winner-internacional-de-bogot": {
-    "id": "1830243",
-    "conditionId": "0x75b9331ae6464ebad2d7ca69a7f84b700c245d2a97fa38e9a2d420c58d2fd8cc",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-colombia-primera-a-winner",
-    "negRisk": true
-  },
-  "2026-soccer-colombia-primera-a-winner-amrica-de-cali": {
-    "id": "1830245",
-    "conditionId": "0x819ea95e73df924acac780205f3f27d8e5fa0aed42a66a1dd1ebb8c47045e64b",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-colombia-primera-a-winner",
-    "negRisk": true
-  },
   "2026-soccer-colombia-primera-a-winner-junior": {
     "id": "1830246",
     "conditionId": "0x14df62eb0cb3ceb0ad279f0d332d69ce28eec6ef701acab01651b85bcd95edfc",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-colombia-primera-a-winner",
-    "negRisk": true
-  },
-  "2026-soccer-colombia-primera-a-winner-deportes-tolima": {
-    "id": "1830247",
-    "conditionId": "0x237ae4862c95408496ac411f20cd53221a404f970bddf2d5ad19ec94abcf72c5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-colombia-primera-a-winner",
-    "negRisk": true
-  },
-  "2026-soccer-colombia-primera-a-winner-independiente-santa-fe": {
-    "id": "1830252",
-    "conditionId": "0x17b23503c0c663317401f5e729903ed4592a0763e16ec8cc98534b1e08136271",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -78337,136 +77237,6 @@
     "eventSlug": "kimi-k3-released-by",
     "negRisk": false
   },
-  "will-donald-trump-announce-lee-zeldin-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832593",
-    "conditionId": "0x9157c83fc048cf87d5c5d982477d248f3b38e94616fa93ea653ed4c97caae33a",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-todd-blanche-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832594",
-    "conditionId": "0x788c96ce70ff9d8b3a78b4443d5107429d69a658ec956b1db45689771b54c329",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-jeff-clark-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832595",
-    "conditionId": "0xfe84318189134c3c1a9620e1fa667b7494d9d6b5e6124ff9331f9100457ce06c",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-ken-paxton-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832596",
-    "conditionId": "0x1ddbcffcccc0c7368f1ada455a8238041d6f9c3c1d3e4d1c2031b59cbc99dd64",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-matt-gaetz-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832597",
-    "conditionId": "0x5135c1c02d5c9f3015e75a0c44eaed7906db91a5537dbf4bae2a2b131289b771",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-ron-desantis-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832598",
-    "conditionId": "0xf14b5367028549f930b0db0f4efc22a5d8611a3518e98e52dae23679dd394d69",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-jeanine-pirro-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832599",
-    "conditionId": "0x17830414fdfe2ac9d11eda8c7e9cce22bac568b3c80684927e0a91649e51a4af",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-mike-lee-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832600",
-    "conditionId": "0x653201afe98bb670f4b723a50c7fb4e4f0a807e78880385ad56567d777401ded",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-jay-clayton-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832601",
-    "conditionId": "0xaa42b41c17787b8a5cd774854719439fbc70d46d81d9d089e48f81f8b340292a",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-harmeet-dhillon-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832602",
-    "conditionId": "0x0f0f98af5e535e0e02ad10c7f72ce887ce8fdc8f8a4461fcf106530099be08e0",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-ted-cruz-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832603",
-    "conditionId": "0x02a6e004f25816af748a8a047815397d39e391ab8e9ab255541b24b39d017fee",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-announce-eric-shmitt-as-the-next-united-states-attorney-general-by-june-30": {
-    "id": "1832604",
-    "conditionId": "0x859ce213e5f5606d1da6c709a9aad9372ba0ece9bc8a95a7c044400161c49920",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
-  "will-donald-trump-not-announce-a-next-united-states-attorney-general-by-june-30-541": {
-    "id": "1832627",
-    "conditionId": "0xc3fdb556a123e6545f0ac61ce6ce04793ea18ba83d5305596fac858ff8b9aa63",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-announce-as-next-ag",
-    "negRisk": true
-  },
   "will-there-be-2-no-hitters-thrown-during-the-2026-mlb-season": {
     "id": "1833098",
     "conditionId": "0x33880e806142d7609df45717e096ba179835d9f167cb360c811c9bbcf157d173",
@@ -80173,16 +78943,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "trsk-gal-tra-2026-05-01-more-markets",
-    "negRisk": false
-  },
-  "bkaba-kk-meg-2026-04-11": {
-    "id": "1874238",
-    "conditionId": "0xc34e7d4cbeee18c66c3099189daeb62ef81c9ad6d472459ff1b69d75c8f5e884",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bkaba-kk-meg-2026-04-11",
     "negRisk": false
   },
   "cs2-desped-bsta-2026-04-05-game1-odd-even-total-kills": {
@@ -89604,16 +88364,6 @@
     "eventSlug": "cs2-cad-csgopo-2026-04-15",
     "negRisk": false
   },
-  "cs2-crash-paina-2026-04-15-game3-odd-even-total-kills": {
-    "id": "1990760",
-    "conditionId": "0x1fd6267fe451b6d7ee1828cc30cecb97827c52de43fb3a07cfb8b4bd67994507",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-crash-paina-2026-04-15",
-    "negRisk": false
-  },
   "cs2-mw-vexa-2026-04-15-game1-odd-even-total-kills": {
     "id": "1990766",
     "conditionId": "0x3bf988e1337dd27d3b1ff114e910568092412034394d092973a4e0d0b011f52d",
@@ -90662,16 +89412,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "california-stop-nick-shirley-act-becomes-law-by-june-30",
-    "negRisk": false
-  },
-  "nfl-and-nflra-to-reach-cba-agreement-by-may-31-2026": {
-    "id": "1994922",
-    "conditionId": "0xa7ba011725e54909b17b444d7845aaaf41e5dd683607a865371ee155e8c50d74",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nfl-and-nflra-to-reach-cba-agreement-by-may-31-2026",
     "negRisk": false
   },
   "cs2-aim1-wing-2026-04-16-game1-odd-even-total-kills": {
@@ -97193,166 +95933,6 @@
     "eventSlug": "no-confidence-vote-against-starmer-by-june-30",
     "negRisk": false
   },
-  "will-vicky-dvila-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037908",
-    "conditionId": "0x079756094f8f3f2f1c27c3c81a222b2211a2d57a1de72f36afaddcee8692db5c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-luis-gilberto-murillo-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037909",
-    "conditionId": "0x2f932d721e4f15f90c23488ca79167661d11cdf3f4e70b133c03a1dd40f5767b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-claudia-lpez-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037910",
-    "conditionId": "0xb0606d2dd145dc9039ac47f30c5e18f695b74d0a144d78a4e70806b0345a491b",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-david-luna-snchez-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037911",
-    "conditionId": "0xa3e404ff4252d1338889447be6ba85ba49ad41847245c46486aa267844240883",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-juan-daniel-oviedo-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037912",
-    "conditionId": "0xacf132b0ed53795e183140cbdedf2f3eb7416212198e5fd0ae4bc03e1a63d1ed",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-gustavo-bolvar-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037913",
-    "conditionId": "0x00dbeee0d75b64ac2fcbda9e0b228efd811f57891ec60597f94d704157e1cf0e",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-sergio-fajardo-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037914",
-    "conditionId": "0x214e38b663643eb8428e7eebc73eada6fe580724ce6ad298e22b04b6ed2af0b9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-juan-manuel-galn-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037915",
-    "conditionId": "0x4ea073c06f5bcc307cb4f351e08c5deffd69613f37c651775b2d2f4391b68990",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-paloma-valencia-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037917",
-    "conditionId": "0xda907bc72ace0a6ee956394b022dd7a07e23dd7e1f2346ec1d6cef392e87e77d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-ivn-cepeda-castro-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037918",
-    "conditionId": "0xd5316f1032d75854eaca7b48150223e5191d43231aa14ee7b2cb8a2186d681a6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-abelardo-de-la-espriella-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037919",
-    "conditionId": "0x4e7ab14e108ea5a9155cec536b435c098b72702639598f0c28349c8bac946d94",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-roy-barreras-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037920",
-    "conditionId": "0xbd79bf08c536feb824f83d32b4513148bef7881279ef3f053e89bf66d85491d1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-daniel-quintero-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037921",
-    "conditionId": "0x9b1e7d5697aa10204ccbf370d3ae010e9aa2c9397d7ad31b4834a2a923b3d731",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-juan-carlos-pinzn-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037922",
-    "conditionId": "0x65c68c23598d83ce911ab07dbff389ce34b2b353065433431ed9702b86c89446",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-mauricio-crdenas-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037923",
-    "conditionId": "0x1701b80d6df629d7b30967c7abed55c62b553f8f1b653ee69bb1c2078ab1222a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
-  "will-enrique-pealosa-place-2nd-in-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "2037924",
-    "conditionId": "0xfa380be4603f43fdfddc0c370bf1b0d04a5510b380b79acf875d9e84a20c053c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-2nd-place",
-    "negRisk": true
-  },
   "will-garrett-crochet-strike-out-the-most-batters-during-the-2026-mlb-regular-season": {
     "id": "2037943",
     "conditionId": "0x0c16954f736a573e8074f5dbccbe81c72d0b6ce419dcc54eb480e56ca96367e6",
@@ -99084,86 +97664,6 @@
     "eventSlug": "etna-eruption-with-vei-2-in-2026",
     "negRisk": false
   },
-  "will-ami-bera-advance-from-the-ca-03-primary-election-759": {
-    "id": "2045579",
-    "conditionId": "0xf52b770a05bee6bf830e30d547da04c900917d21c3cb8f087e6bf030e416470a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-chris-bennett-advance-from-the-ca-03-primary-election-183": {
-    "id": "2045580",
-    "conditionId": "0x6b9a06bb8ffe4c0111add3f353efcd429241a695d4140e811f7d4e06ce3ba98a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-chris-richardson-advance-from-the-ca-03-primary-election-915": {
-    "id": "2045581",
-    "conditionId": "0x2b339c01becc3f9851d4b24203f0606bb602373dbdaa8800d1d7e551f97f22c7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-christine-bish-advance-from-the-ca-03-primary-election-235": {
-    "id": "2045582",
-    "conditionId": "0x1aefad90587d76710cdc5ce7e21b9282821afb9fa8a4e428a0b1c8b73e25d009",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-heidi-hall-advance-from-the-ca-03-primary-election-766": {
-    "id": "2045583",
-    "conditionId": "0x952691f60725bfb003b1f1354b14b73db7103a7e20a918387eff8ae158695080",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-laura-koscki-advance-from-the-ca-03-primary-election-242": {
-    "id": "2045584",
-    "conditionId": "0x6bf1d90310b4f7a967a6448086b48e85390d04e981887cc96736dae28876fed9",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-lyndon-cervantes-advance-from-the-ca-03-primary-election-673": {
-    "id": "2045585",
-    "conditionId": "0x92a88eeaf3ac02b38a824b466179c688f737dcfa8da80e3809d8b7749f1028fb",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
-  "will-robb-tucker-advance-from-the-ca-03-primary-election-728": {
-    "id": "2045586",
-    "conditionId": "0x9818528d28c6d0df2c340bb7dcd3e5ca3a78588dda0b65fb4b4a643e1c218603",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-03-primary-winners",
-    "negRisk": false
-  },
   "will-kevin-kiley-advance-from-the-ca-06-primary-election": {
     "id": "2045601",
     "conditionId": "0xdec0c27ea95f2580eea40b9388d6b6b2847123761eeb9cece31df05e33394452",
@@ -99294,106 +97794,6 @@
     "eventSlug": "ca-07-primary-winners",
     "negRisk": false
   },
-  "will-adam-gray-advance-from-the-ca-13-primary-election": {
-    "id": "2045736",
-    "conditionId": "0x897bd0d602de77e33368b13b63143c8de0b1d05fa344dc7ae792f62a4a744a0f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-13-primary-winners",
-    "negRisk": false
-  },
-  "will-daniel-garibay-rodriguez-advance-from-the-ca-13-primary-election": {
-    "id": "2045737",
-    "conditionId": "0x13bf01871ebf937568d1189a22f1e5f437de8a54ffe0533abe3f5c5629aa1e33",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-13-primary-winners",
-    "negRisk": false
-  },
-  "will-kevin-lincoln-ii-advance-from-the-ca-13-primary-election": {
-    "id": "2045738",
-    "conditionId": "0x0d4d2eab8ac6b7da57d89bd5b3c80d04fd7f32bf11ebd6018cfd704b9b2ef335",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-13-primary-winners",
-    "negRisk": false
-  },
-  "will-vin-kruttiventi-advance-from-the-ca-13-primary-election": {
-    "id": "2045739",
-    "conditionId": "0xa237152a104eca84501bd1462a4785c380480da82a14a22b024a5fab298845ff",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-13-primary-winners",
-    "negRisk": false
-  },
-  "will-angela-gonzales-torres-advance-from-the-ca-34-primary-election": {
-    "id": "2045747",
-    "conditionId": "0x2595374069c3144f77b50cf92608a94f3a02dc59a14dd7d3a52ae32d24dfdb0e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-34-primary-winners",
-    "negRisk": false
-  },
-  "will-arthur-dixon-advance-from-the-ca-34-primary-election": {
-    "id": "2045748",
-    "conditionId": "0x51971bef5d63df4c949f019ded2ac1b51863f3fae7ba10c9868d8801e1ed9313",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-34-primary-winners",
-    "negRisk": false
-  },
-  "will-calvin-lee-advance-from-the-ca-34-primary-election": {
-    "id": "2045749",
-    "conditionId": "0x1d5dc6fabe350f9ac5e5bdfd7090e772afcf8724e3a778923590e0d7d472c921",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-34-primary-winners",
-    "negRisk": false
-  },
-  "will-jimmy-gomez-advance-from-the-ca-34-primary-election": {
-    "id": "2045750",
-    "conditionId": "0xc785b7bd404b24b833f55dff284ca3a18c18103d957f799d97c13f0fbfb941db",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-34-primary-winners",
-    "negRisk": false
-  },
-  "will-loren-colin-advance-from-the-ca-34-primary-election": {
-    "id": "2045751",
-    "conditionId": "0x667742d55ee05a68ac031e2b97d94accd7fc6128884548378a4469daa06624ca",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-34-primary-winners",
-    "negRisk": false
-  },
-  "will-robert-lucero-advance-from-the-ca-34-primary-election": {
-    "id": "2045752",
-    "conditionId": "0xe05c257921a6f33f100330234d30f92e159d3c760a15b4cadc7623b1d102eeb4",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-34-primary-winners",
-    "negRisk": false
-  },
   "will-claude-keissieh-advance-from-the-ca-40-primary-election": {
     "id": "2045768",
     "conditionId": "0xc14e9e3c85790585cd24593d1b150e3f225f8663fa7542139d79c602f6cc0911",
@@ -99474,46 +97874,6 @@
     "eventSlug": "ca-40-primary-winners",
     "negRisk": false
   },
-  "will-hector-de-la-torre-advance-from-the-ca-41-primary-election": {
-    "id": "2045803",
-    "conditionId": "0x1f13b05cb58a6cba3a829bec71a9dbe7dc3749a9945389b03197bf02af65da32",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-41-primary-winners",
-    "negRisk": false
-  },
-  "will-linda-snchez-advance-from-the-ca-41-primary-election": {
-    "id": "2045804",
-    "conditionId": "0xa52792b5a97934995dfa19494c62894434524484236627d884e6f54cb6560bf7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-41-primary-winners",
-    "negRisk": false
-  },
-  "will-mitch-clemmons-advance-from-the-ca-41-primary-election": {
-    "id": "2045805",
-    "conditionId": "0xaee825039d21b4eb6699445f388ec6a3f8a8e6ee18f08fc9485e73ec9c293f8e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-41-primary-winners",
-    "negRisk": false
-  },
-  "will-shonique-williams-advance-from-the-ca-41-primary-election": {
-    "id": "2045806",
-    "conditionId": "0xe9005f1c09b78bbe9a5c871122217fed14f1a857a17ab5d3afddbe6860525053",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-41-primary-winners",
-    "negRisk": false
-  },
   "will-amy-phan-west-advance-from-the-ca-45-primary-election": {
     "id": "2045869",
     "conditionId": "0xc4cb67977de06ca4e446f48e5175abfd2490ce396cafe5e466547b68ec273ddf",
@@ -99572,126 +97932,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ca-45-primary-winners",
-    "negRisk": false
-  },
-  "will-abel-chavez-advance-from-the-ca-48-primary-election": {
-    "id": "2045917",
-    "conditionId": "0x6f6beed6d2ef3360d10f4d99b164ad29f8ec2dd447e987be0ef7c3d8fb9e15fa",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-ammar-campa-najjar-advance-from-the-ca-48-primary-election": {
-    "id": "2045918",
-    "conditionId": "0xe17ceda630abeb3fb290725a731f9ad21357b51287b775272655ce740ba1fb42",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-brandon-riker-advance-from-the-ca-48-primary-election": {
-    "id": "2045919",
-    "conditionId": "0x93c5679ba64e3ce79ee8e3b245755f1c565be46f4650718ca79337f09ccaa7eb",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-corinna-contreras-advance-from-the-ca-48-primary-election": {
-    "id": "2045920",
-    "conditionId": "0xdd943d34425ff29b1a3f5c3f766fef36976de507c955776d15a8e4d136481693",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-eric-shaw-advance-from-the-ca-48-primary-election": {
-    "id": "2045921",
-    "conditionId": "0x4ee210470102d8d3c844ed0c6ea81e2f387ad1e59573886af72442bfd8211a0a",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-ferguson-porter-advance-from-the-ca-48-primary-election": {
-    "id": "2045922",
-    "conditionId": "0x1ea29238b475f39a99920b9ef057ded9c5b548fcc48443a0f04c7864240e5db0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-jim-desmond-advance-from-the-ca-48-primary-election": {
-    "id": "2045923",
-    "conditionId": "0x7a2c3f00877ff6fd6dd0d38e1e9996c087b1175954ca7e5e9b7f693f6232ca94",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-kevin-oneil-advance-from-the-ca-48-primary-election": {
-    "id": "2045924",
-    "conditionId": "0xe6bf11453ef348f134d54b34d1316e8013ce8439e30682ed1d1cb795fd70b416",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-luis-reyna-advance-from-the-ca-48-primary-election": {
-    "id": "2045925",
-    "conditionId": "0xbf1f7cb6e40bacc194f26f970f6dc8ee27cbf352097dd0ab0d63480c559882b6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-marni-von-wilpert-advance-from-the-ca-48-primary-election": {
-    "id": "2045926",
-    "conditionId": "0x042e84aef0f6fdbdff3892a188d6540b0830c11f9121ae567d7516f2cdbe76e0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-mike-schaefer-advance-from-the-ca-48-primary-election": {
-    "id": "2045927",
-    "conditionId": "0x65f13efd249b5c8b77fc527aeb0a7cc3c00b7b3d332ecd7b06923225cd5ebc80",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
-    "negRisk": false
-  },
-  "will-stephen-clemons-advance-from-the-ca-48-primary-election": {
-    "id": "2045928",
-    "conditionId": "0xf9745cef2198ed7e6adc79440a4881318df49601c39559462733c3c68bd105e2",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-48-primary-winners",
     "negRisk": false
   },
   "will-0-people-leave-the-trump-cabinet-by-december-31-2026": {
@@ -110422,16 +108662,6 @@
     "eventSlug": "dota2-ic-ave-2026-04-30",
     "negRisk": false
   },
-  "another-critical-cloudflare-incident-by-may-31-2026-382": {
-    "id": "2116203",
-    "conditionId": "0x05d4246d5278fd06e9d2bd37d9f43f8a5f1be5278d72a7bab075622ba37169b0",
-    "endDate": "2026-09-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-critical-cloudflare-incident-by-995",
-    "negRisk": false
-  },
   "another-critical-cloudflare-incident-by-june-30-2026-966": {
     "id": "2116204",
     "conditionId": "0x71ae0e87ed7f12c78c4677404c5c1df18322223a6f49701d07d85163d804d73e",
@@ -111693,136 +109923,6 @@
     "acceptingOrders": true,
     "eventSlug": "nz-election-popular-vote-margin-of-victory",
     "negRisk": true
-  },
-  "will-trump-speak-to-nicols-maduro-in-may": {
-    "id": "2117144",
-    "conditionId": "0xf02bee2a68c616dbb62575bff2c07ef45710f2d523e482d6cb9f36a2d0deb76c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-reza-pahlavi-in-may": {
-    "id": "2117145",
-    "conditionId": "0xfd257d6247eb24d313d9b921a118c1754d03b3444f32a70334a28ef28d3e96b5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-kim-jong-un-in-may": {
-    "id": "2117146",
-    "conditionId": "0x8d6153cc32653d0a058166a8500384f096ad07eb7c9b8265d1a7c126fb3db6b2",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-volodymyr-zelenskyy-in-may": {
-    "id": "2117147",
-    "conditionId": "0x2a70026364d7f55c182b29a6b20055abb2bb649810d789ea293a89113ca34b6c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-vladimir-putin-in-may": {
-    "id": "2117150",
-    "conditionId": "0x1cd819601b9024130c08feb7a71dccb9422b3cbdb0923bb366b4c38f392a5b3a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-yoon-suk-yeol-in-may": {
-    "id": "2117151",
-    "conditionId": "0x55e189e455951a21e4d7dc5faeed09050b1f427debfb03ae75e68626a5433574",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-maria-corina-machado-in-may": {
-    "id": "2117152",
-    "conditionId": "0xf79ddd64054cc8532f32ec64728659469647245e12732ec66e3521fbec4754ca",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-keir-starmer-in-may": {
-    "id": "2117154",
-    "conditionId": "0xb9f5d213244c79397c9cd1c1eade276466cc0f10c753beb1e55ae466c6155fb6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-ahmed-al-sharaa-in-may": {
-    "id": "2117156",
-    "conditionId": "0xa3a7353920725475f42d193fa0563b54778aa10aa607419248bc87db896a101a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-mark-rutte-in-may": {
-    "id": "2117157",
-    "conditionId": "0x919837ed70b64f690f41676749ed4a2463922530c1cec6776c18c340224c26bd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-mark-carney-in-may": {
-    "id": "2117159",
-    "conditionId": "0x2c39f9b8cce4ea1bb05bce80fc4638e7226cdb37d23fb21bcb08b27e69eef7aa",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-masoud-pezeshkian-in-may": {
-    "id": "2117160",
-    "conditionId": "0x9a6de39e492db361596e7245f988e120d6c22d3f29ad5fbc569343d0eba5edb7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
-  },
-  "will-trump-speak-to-pope-leo-xiv-in-may": {
-    "id": "2117163",
-    "conditionId": "0x6eb4cfeaa0aca80a39b90584b8b52e9ca3ed8019c2a03f01b9182a029d13d2fc",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-speak-to-in-may",
-    "negRisk": false
   },
   "nz-election-labour-v-national-of-party-list-vote": {
     "id": "2117209",
@@ -114403,16 +112503,6 @@
     "acceptingOrders": true,
     "eventSlug": "central-bank-of-colombia-decision-in-july",
     "negRisk": true
-  },
-  "another-iranian-diplomat-expelled-by-june-30": {
-    "id": "2126429",
-    "conditionId": "0x7f960d900523fd31811d50d6779b2ab532c7f0216920721dbbc7e9c9e80ee748",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-iranian-diplomat-expelled-by-june-30",
-    "negRisk": false
   },
   "will-crude-oil-reach-a-new-all-time-high-by-june-30": {
     "id": "2126459",
@@ -119607,5 +117697,1915 @@
     "acceptingOrders": true,
     "eventSlug": "2026-nba-draft-3rd-overall-pick",
     "negRisk": true
+  },
+  "will-labaron-philon-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167615",
+    "conditionId": "0x2e0401f9e48087b1de19715c194255bd526f3308b9de3b5db15e662bb0494ad3",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-will-quaintance-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167616",
+    "conditionId": "0x5a4694af552e3d70a99cd02afb471e6fa9bc98a8acc7c074fe9c7616e73d09bc",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-yaxel-lendeborg-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167617",
+    "conditionId": "0x7e0dec67f2df654cd6456b0336a974b2a07cc68955710a8c66ec4737c1e125cb",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-hannes-steinbach-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167618",
+    "conditionId": "0x74f10e7ca8ec4f865ddaac9184b582d445bb2329f92c1bfcf08e26ac376cafad",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-nate-ament-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167619",
+    "conditionId": "0x2e16e75963b2e2b1d8dfe5aa7d10076e59e4dd5ed9f7fa1b0a25ff18a1a06e24",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-bennett-stirtz-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167620",
+    "conditionId": "0xfa9c36631c1642e9749a35adf19bc9a5ed4730058d6bf8f09c1cada8361bf787",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-karim-lopez-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167621",
+    "conditionId": "0xabc40c9113a3297577138715cf9df61fe736e9753313474f3b1003880919e7c6",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-3rd-overall-pick",
+    "negRisk": true
+  },
+  "will-aj-dybantsa-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167650",
+    "conditionId": "0x2b9b24347f41590d99b7a2907ebc146c5d71d3748ce18ae285a9808a9b2f30ed",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-darryn-peterson-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167651",
+    "conditionId": "0x64c7ab0dfa6352bb706870921f6021aba84868c768315f951debfdd406232e1f",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-cameron-boozer-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167652",
+    "conditionId": "0x3e26dbf02b13dde18ee72dcf997ee973da9b15007bae6bfdaf8925c4e570a781",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-caleb-wilson-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167653",
+    "conditionId": "0xba075168e977e0ffc3f4f20b7db591d9733788fd57da5c3d58650a1980c67d14",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-kingston-flemings-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167654",
+    "conditionId": "0x8d86c18715bcf0849908e61bf9f5a56f02083d74e20ebf11da6e4a3e8238a250",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-darius-acuff-jr-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167655",
+    "conditionId": "0x0d7ed43e9004dfda552a7adf27a2fd60f95a9a0ff626ccdc3d51344206c295d1",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-keaton-wagler-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167656",
+    "conditionId": "0x1c908d8de76fb17ddf4c04f13c569fe64bca3d8bd3e2607a24cea5890825e31c",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-mikel-brown-jr-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167657",
+    "conditionId": "0x3d4c9526baeaf08d68119da292b1e5629e4790329ad641193014e00dedf98094",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-labaron-philon-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167658",
+    "conditionId": "0x22ab1099e2dc1b944562cbd8d2bb55eb0c74024fc9fe6c0c02c63bd6349eb2ae",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-will-quaintance-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167659",
+    "conditionId": "0xb3ef0594c06ce7b72865084354f5b6a5ce0e72a21ef5c0cc75fe9760e65ce5b1",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-yaxel-lendeborg-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167660",
+    "conditionId": "0x7c5675da25651d969b0de005ce9483eb8243f68c0639380d3d5c84ceefbfb33c",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-hannes-steinbach-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167661",
+    "conditionId": "0xb4500a8d46ac858e3fb236521227955e47aebe897f2fc58c6e9541a7a278e29d",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-nate-ament-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167662",
+    "conditionId": "0x8f5e7403f9f1a2fe0a7a63901577cd5c1f89dc07a2a757c0c08b6d5bc9c21452",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-bennett-stirtz-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167663",
+    "conditionId": "0x4fce6cc78776a8c6851397a67b95ca25b9aa201672084eb4aed83b0b9b940cbf",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-karim-lopez-be-the-4th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167664",
+    "conditionId": "0x320640dfd4f90cd10c9bb20479522d35fe5c58fecd993cbc2266180b524f28d6",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-4th-overall-pick",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd": {
+    "id": "2167686",
+    "conditionId": "0x3c4c0918682f3942d1feff4fd793397ac9c3a6962b933995105a99538cdb78e5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl": {
+    "id": "2167687",
+    "conditionId": "0xb6f1f5e682ddad0cd104aaf483bbdb75058c76ac61aa1ee05197d9f6e5822b34",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-usr": {
+    "id": "2167688",
+    "conditionId": "0x22ca1d570e401e21e4d4e4fa795d8ab6d1ffc56072cb3c1c17cf59a0a3edeb64",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-udmr": {
+    "id": "2167689",
+    "conditionId": "0x5f41c8d5f8aa00de32a8576912a7f093d3d1f58d8fea73467f9dabb3efe4a3f5",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-aur": {
+    "id": "2167690",
+    "conditionId": "0xd5021e3c404eae813ee3fd7660ae51c32e4340278a12298fd76807d37e213a6a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl": {
+    "id": "2167691",
+    "conditionId": "0xc1b94b18c8f0d158b7080e2830f28c98e4c9136702df0dce87ae4f92fa260798",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-usr": {
+    "id": "2167692",
+    "conditionId": "0x2af20ecd8b572760887f72508491e01324d9d43895e3c60e5b9aa3aaab997d30",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-udmr": {
+    "id": "2167693",
+    "conditionId": "0x3826c72227ec5394c52769512df67d9ec7011949847f69bd04dfb34b02001eb1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-aur": {
+    "id": "2167694",
+    "conditionId": "0x80b082060c7cddabf0c56872658060c79b52bc47364649a46568023a3d97679b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-usr": {
+    "id": "2167695",
+    "conditionId": "0x33a7fac7bacbe2c12108fd5c1b362625baffd4eea99a3bd01d29f110589cec11",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-udmr": {
+    "id": "2167696",
+    "conditionId": "0x9599c76ce0f3d487672f4eb73fbfb2e09b14aec129b489dc3539c9292c5eb386",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-aur": {
+    "id": "2167697",
+    "conditionId": "0x3a5b9bac7ea3928e6b248601d144c165fb1be036365593b999fcaae6c8c9b5d0",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-usr-udmr": {
+    "id": "2167698",
+    "conditionId": "0x1624db98ee22c95d9c7c9b6d67f503e217a821371f5ea634567da5f81e7758ed",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-usr-aur": {
+    "id": "2167699",
+    "conditionId": "0x04f4d287b39e9d60ad1c2406f8189f795b94b74b35cf350f3521c381476f5a1f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-udmr-aur": {
+    "id": "2167700",
+    "conditionId": "0xf2be27bcb57863d14f2b56e9d68ee8be996a5c65f3d77765b77a0baf450eeefb",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-usr": {
+    "id": "2167701",
+    "conditionId": "0x787d422c56bd6329e01eaa5aa0a9fc918b1e1e006ef80409b8d2abee05f7bf98",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-udmr": {
+    "id": "2167702",
+    "conditionId": "0x40554654f0f8e6a9fe0ec996ccadffc256993defbc7469c6d2f5ea62e6ec2108",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-aur": {
+    "id": "2167703",
+    "conditionId": "0xf0e6cc6472f13309ebeedfa8075d3ad62919e6b73c791e06058080f2b40ddc1b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-usr-udmr": {
+    "id": "2167704",
+    "conditionId": "0xdabafb03270490cdebf5a00d4e7b6a22f9fabbe9eea7f44531687a7f35a9660c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-usr-aur": {
+    "id": "2167705",
+    "conditionId": "0x336dbfd91ca866ecd79d621026189cbacbf032ae9aa0ae06b8facdf1c0e60bf8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-udmr-aur": {
+    "id": "2167706",
+    "conditionId": "0x20d24cf3a82ab25a965a18cd121d1a3bb40cb0207cd8191e2cc30496902b7d4b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-usr-udmr": {
+    "id": "2167707",
+    "conditionId": "0x4308ce3ddae74ff87f3a3e84763b326d6c310224166efc215848b960d4ac4b02",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-usr-aur": {
+    "id": "2167708",
+    "conditionId": "0xa4c14f90013f1bd524ee228d2cd859e4aae67c8633e462b3a8e5034ddbc136c3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-udmr-aur": {
+    "id": "2167709",
+    "conditionId": "0xd6c239bf7c4fb049f8a0cad946930ef59dd2f681defc34701386b7be123d722f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-usr-udmr-aur": {
+    "id": "2167710",
+    "conditionId": "0x4f054e509730ed1cea5f7ebb0b43cb19b17fe78432aa2d3e5d251d2fc5ac7689",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-usr-udmr": {
+    "id": "2167711",
+    "conditionId": "0xeb283a6f14dec9f1d4881ce215806d0605bd23448941922c03f40b785881bf73",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-usr-aur": {
+    "id": "2167712",
+    "conditionId": "0x12c99f73eeb2c11c38e01eea5dadb95ee901a89056cf3b3e1bcc76858018327e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-udmr-aur": {
+    "id": "2167713",
+    "conditionId": "0x8b293b9e4d360976196a94d936905151bd3928487c1c393faa3137e0245ede25",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-usr-udmr-aur": {
+    "id": "2167714",
+    "conditionId": "0xaace8863b98e11e593ed6426a4b33a41d00fc6f4a3cbdd954ef7462815ceb7e8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-pnl-usr-udmr-aur": {
+    "id": "2167715",
+    "conditionId": "0x13f3a6b6e63d040725323b2641a30700f53b5bbe680fee0f7416753706a56467",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-the-next-governing-coalition-of-romania-include-psd-pnl-usr-udmr-aur": {
+    "id": "2167716",
+    "conditionId": "0x504ff2650f11e804f1c38279fad68c0d8bac84495a38c521ed12ceda0c0f5f9b",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-another-result-occur-for-the-next-governing-coalition-of-romania": {
+    "id": "2167717",
+    "conditionId": "0x4770caba83617d93b8935d4584a5d744c194734b95f62d3737eb2231a143cb84",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-coalition-will-form-the-next-romanian-government",
+    "negRisk": true
+  },
+  "will-aj-dybantsa-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167718",
+    "conditionId": "0x223e52ae3870493f7c7bbe148fc359f113f47387dd38af3ceb3d7be5c88222ed",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-darryn-peterson-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167719",
+    "conditionId": "0x664003f1aece788384d7a1f7bf082a4272e26b74ff0ab44bda9e46a6604bc4d6",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-cameron-boozer-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167720",
+    "conditionId": "0x97cf4a796ce0f6df220864b2094cf32b25798a9f342755a8669053b19071514b",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-caleb-wilson-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167721",
+    "conditionId": "0xa2a7f9b5aa6fc98f3d6f069cea3be057b030666ca44327c8495402bd17f009eb",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-kingston-flemings-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167722",
+    "conditionId": "0x05faadb5a40a76a66fd7252e2dc08a315af60421bfc14c5b7ae955c8254ff635",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-darius-acuff-jr-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167723",
+    "conditionId": "0x269cb14cd030b574d474db66c2d47818193ba2fab77b3ad686376a879a74b74e",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-keaton-wagler-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167724",
+    "conditionId": "0xdc8c473640a8d0a7c448208c0a00992292f34abb4591df246e418eaef00eda72",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-mikel-brown-jr-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167725",
+    "conditionId": "0x977ad53d16d321527ba5a284ec9dee11ebc83c6f61000245ecff9db054e8f9c7",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-labaron-philon-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167726",
+    "conditionId": "0x6f2d231c85521cc60f8c8b2e9d0c579197ccacfede22e8e403df45269862272f",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-will-quaintance-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167727",
+    "conditionId": "0x7e4c365244b43e6fe61fc106d0c2095c43dfb3d62e51b2fdda0512ccc49d3adc",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-yaxel-lendeborg-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167728",
+    "conditionId": "0xc8ad40bce2905fbb5a77414f242ed73a3ba8331c4264b12fb12afee7e4bc0627",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-hannes-steinbach-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167729",
+    "conditionId": "0x8eeb590c3f80b003ba08d69eb0b38648831e3662a6131f8f9fa61bb1ea83b390",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-nate-ament-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167730",
+    "conditionId": "0x528f1080e9a7f2ccb199c988a49db4a02e5ea3aab8616f12fd8f8b4b2c0c3970",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-bennett-stirtz-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167731",
+    "conditionId": "0xa2176fd78d0d653d4e31b40f1bb0cf30faf935dec68f1ebfec3ecba7a118dc7c",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "will-karim-lopez-be-the-5th-overall-pick-in-the-2026-nba-draft": {
+    "id": "2167732",
+    "conditionId": "0x191d91578b2243ba0bc4e3427c6a745a8fa3000a7fa788ba7241f1589b264071",
+    "endDate": "2026-06-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-nba-draft-5th-overall-pick",
+    "negRisk": true
+  },
+  "lol-gz-cfo-2026-05-06-game1-both-teams-slay-baron": {
+    "id": "2168055",
+    "conditionId": "0x3b6946c9a325765f837a221b6028846394c9e7ad17008d790dcbed73d3d49806",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game1-both-teams-slay-dragon": {
+    "id": "2168057",
+    "conditionId": "0xc84ea282634a934d7e7e47e70572e18390e5d9d525ee50876ee46fae148851a3",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game1-both-teams-destroy-inhibitors": {
+    "id": "2168059",
+    "conditionId": "0x516fb65cd0dcfa85ae1530a0801ef1f640938ea91cc043616860552a33177827",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game1-any-player-quadra-kill": {
+    "id": "2168061",
+    "conditionId": "0x85099c6dd6bf3fe3a7ba4ae2c7d5a594841aca8d6b388bf417fec458cabc5184",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game1-any-player-penta-kill": {
+    "id": "2168063",
+    "conditionId": "0xd19df9cd13a5c10328d147bd981b478cd94b6e71def616ecf5f4f38fc90227e5",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2168065",
+    "conditionId": "0xdad8d6ba3a29232ffe330e713acfdf2947078f6b154742fe2eae390b46e6472b",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game2-both-teams-slay-baron": {
+    "id": "2168067",
+    "conditionId": "0x5d90b359d867074fb4ae888b28c548e6ee884e4ed75d44f3e822c80036010959",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game2-both-teams-slay-dragon": {
+    "id": "2168069",
+    "conditionId": "0xab310c2cda388d2033d159ae9272adf4b0c70b0f899129a0dd6e782378e95b19",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game2-both-teams-destroy-inhibitors": {
+    "id": "2168071",
+    "conditionId": "0x622d26f3e56cb87dfbee2bc81b535b16d95a646eeb708b6976a14095d816efc2",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game2-any-player-quadra-kill": {
+    "id": "2168073",
+    "conditionId": "0xfab471c4ae774bca49195d059cdb5e9edc6bef9f6f18fe2ad0d131c7b1940418",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game2-any-player-penta-kill": {
+    "id": "2168075",
+    "conditionId": "0x6300e392ff57be7498310cdb0f9316dac0288bc0b43a2dc500e5e2a12a51229c",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2168077",
+    "conditionId": "0x2fe0804932baf7604195ad15b9727a3b5c8889f5c1672ea2e47537b239b0f8d1",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game3-both-teams-slay-baron": {
+    "id": "2168078",
+    "conditionId": "0x1e9bfd905f95d5cdb0029cd7f446cd1cc41d1d4896299278d5356eff2635034b",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game3-both-teams-slay-dragon": {
+    "id": "2168079",
+    "conditionId": "0xbb1f1735facc5df1e9d062c595f646d29e9862568f10bcb78891c4021caad2eb",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game3-both-teams-destroy-inhibitors": {
+    "id": "2168080",
+    "conditionId": "0xa57d401f338d95d3f7c39e8f4312f3b25411c0279ca7c3da018d11c5a2993236",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game3-any-player-quadra-kill": {
+    "id": "2168082",
+    "conditionId": "0x20a29a36f46ba140d0b4a3ab542239a4b90bd88bcd30c7581d832c62144a888d",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game3-any-player-penta-kill": {
+    "id": "2168084",
+    "conditionId": "0x24c6245ebde1fdbd187238de8aa07b22704bf39a145617da4923b556ce0a1ceb",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-gz-cfo-2026-05-06-game3-odd-even-total-kills": {
+    "id": "2168086",
+    "conditionId": "0x5ad60092330b42826506df007579109848323d07f29aa750b828f142e9d430ff",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gz-cfo-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game1-both-teams-slay-baron": {
+    "id": "2168101",
+    "conditionId": "0xe3406fe0e23cd57a98ea285d3ece203f7cc542741a1f67101485200dad4233ba",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game1-both-teams-slay-dragon": {
+    "id": "2168103",
+    "conditionId": "0xd1ec7c9183e086cb6c2e1d4ac2815cc177df52cb43f62a7ea62b6b64c709ce45",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game1-both-teams-destroy-inhibitors": {
+    "id": "2168105",
+    "conditionId": "0x339cc8a96db1248247e5085394f6158324e6ab72f55e8531e09fe82cdb16b155",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game1-any-player-quadra-kill": {
+    "id": "2168107",
+    "conditionId": "0x588894f0ef3843c9ff70081b08072d74afd36bcb81ea9b0e1b85d3b93c083be4",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game1-any-player-penta-kill": {
+    "id": "2168109",
+    "conditionId": "0xa4206536619688313f908cf9396a73a9c54f7e927d1da25b49db549c644432ce",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2168111",
+    "conditionId": "0x79913e25f45f6ee3b8f0301191110bdd8b9294aa921fcc05acfd54ed6a6da4b1",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game2-both-teams-slay-baron": {
+    "id": "2168113",
+    "conditionId": "0xd7b77427cd5f9de908a28963b2338564ec2b36e1bd9f0e1714965bd288c0c5d3",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game2-both-teams-slay-dragon": {
+    "id": "2168114",
+    "conditionId": "0x794aed0c0fba930ee90c46afc25e810587c0cfd1f944e1cf27bcaaafaadd4293",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game2-both-teams-destroy-inhibitors": {
+    "id": "2168116",
+    "conditionId": "0x05d25165df82922567305c84dff6f88def661285d1064cecd4fb204833fc00e2",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game2-any-player-quadra-kill": {
+    "id": "2168118",
+    "conditionId": "0x45c3b862b81bcc2f85743ce4fca9e1e10c83303aa0524ea0e2e4bca37777aac1",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game2-any-player-penta-kill": {
+    "id": "2168119",
+    "conditionId": "0x48b8c527f21fecf0a3cfb53094887d16dd30c32d6a5021d30bfbec2e7e9f0e19",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "lol-shg-mvk-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2168120",
+    "conditionId": "0x27a39bfcd80df351943b2e6348c313438cc2dd0b4aeb81a4a5ea7c371ef13755",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-mvk-2026-05-06",
+    "negRisk": false
+  },
+  "mlb-aaron-judge-or-juan-soto-to-draw-more-walks": {
+    "id": "2168308",
+    "conditionId": "0x7e8f8596bceba09095a584e6f2ce3a0df89ae90890ac2013756941531a1e60b5",
+    "endDate": "2026-09-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-aaron-judge-or-juan-soto-to-draw-more-walks",
+    "negRisk": false
+  },
+  "will-the-next-prime-minister-of-romania-be-a-member-of-psd-482": {
+    "id": "2168338",
+    "conditionId": "0xc4dd096c91182cf8b22bd5855dc1fe7b22ab7259a08b5f1d3326b8e154f5d6af",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "party-of-next-prime-minister-of-romania-788",
+    "negRisk": true
+  },
+  "will-the-next-prime-minister-of-romania-be-a-member-of-pnl-357": {
+    "id": "2168339",
+    "conditionId": "0x20b0fe4bd89a35ace4b10b9aac43538b5433f4cd60150dcd0f2673378706b1a4",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "party-of-next-prime-minister-of-romania-788",
+    "negRisk": true
+  },
+  "will-the-next-prime-minister-of-romania-be-a-member-of-aur-516": {
+    "id": "2168340",
+    "conditionId": "0x73044646e10c2924aad5b53689c078bd5840dcb359525dda1c7c2729561c342b",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "party-of-next-prime-minister-of-romania-788",
+    "negRisk": true
+  },
+  "will-the-next-prime-minister-of-romania-be-a-member-of-usr-356": {
+    "id": "2168341",
+    "conditionId": "0x6ccf18eb9332f9beb566367f3aa2b42dd247cb0f78063d3009e11d2dbe947494",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "party-of-next-prime-minister-of-romania-788",
+    "negRisk": true
+  },
+  "will-the-next-prime-minister-of-romania-be-a-member-of-udmr-194": {
+    "id": "2168342",
+    "conditionId": "0xed799a730c125d1770e7f6939267bc3cbe4c32b1f22ee552e77689d1463ac09d",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "party-of-next-prime-minister-of-romania-788",
+    "negRisk": true
+  },
+  "will-the-next-prime-minister-of-romania-be-an-independent-or-a-technocrat": {
+    "id": "2168343",
+    "conditionId": "0xbf3e73c18f9fba93022128610729e6d8b399ba9e41ee2c0bc01400344923f9c8",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "party-of-next-prime-minister-of-romania-788",
+    "negRisk": true
+  },
+  "will-the-next-prime-minister-of-romania-be-a-technocrat": {
+    "id": "2168524",
+    "conditionId": "0x16c1157a08bbf33862df2285bac12e88e1b6c1d904a1095f2f4c8937251f138a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-the-next-prime-minister-of-romania-be-a-technocrat",
+    "negRisk": false
+  },
+  "eli-lilly-licenses-peptrons-smartdepot-by-october-7": {
+    "id": "2168769",
+    "conditionId": "0x4dcc97d8ae807d14ca6a1b0648c331f9a23bfbec7310d6d7bd3b369cd25aa1ba",
+    "endDate": "2026-10-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eli-lilly-licenses-peptrons-smartdepot-by-october-7",
+    "negRisk": false
+  },
+  "will-claude-5-be-released-by-september-30-2026": {
+    "id": "2169806",
+    "conditionId": "0x8ccd3fe9eccb2448cc4ec2873cd472b600107a35a3e6835e5ffe117c8267329f",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "claude-5-released-by",
+    "negRisk": false
+  },
+  "will-the-next-model-released-by-openai-debut-at-a-score-of-at-least-1470-465": {
+    "id": "2169894",
+    "conditionId": "0xb6d067e531ce2ea4b13a3ae88fe3be6ffc7448ac3bc4bdc223b6f0da998d0f72",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-openai-model-arena-debut-685",
+    "negRisk": false
+  },
+  "will-the-next-model-released-by-openai-debut-at-a-score-of-at-least-1450": {
+    "id": "2169896",
+    "conditionId": "0xbbed59a986769ba4fa495c1549b28b0280733fe376e2c2ab1e9787b7ff6f8fe2",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-openai-model-arena-debut-685",
+    "negRisk": false
+  },
+  "lol-hle1-dk-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2170063",
+    "conditionId": "0xbb302e21087ad87cdb3fde10ba05c5b8823c5dcae2bc53ae826911f8adc058ab",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-hle1-dk-2026-05-12",
+    "negRisk": false
+  },
+  "lol-hle1-dk-2026-05-12-game3-odd-even-total-kills": {
+    "id": "2170069",
+    "conditionId": "0x082fc56c4fe27875be065c3bfc49ead328df0da89edb90bd73e1e581c79f30ae",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-hle1-dk-2026-05-12",
+    "negRisk": false
+  },
+  "bab-el-mandeb-strait-effectively-closed-by-june-30": {
+    "id": "2170254",
+    "conditionId": "0xa976dcc2fac50cf13968adbee89ce1de26df0191b8480b89d418280273197f53",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bab-el-mandeb-strait-effectively-closed-by",
+    "negRisk": false
+  },
+  "bab-el-mandeb-strait-effectively-closed-by-september-30": {
+    "id": "2170255",
+    "conditionId": "0x95fc6a4ed7f6856d26aa7f21b9f902d05c9cf76b616fd3463de4d147f7a9126b",
+    "endDate": "2026-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bab-el-mandeb-strait-effectively-closed-by",
+    "negRisk": false
+  },
+  "cs2-drama-forzer-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2172164",
+    "conditionId": "0xd40c02285febeebc93615cba8186cffd645c6e4b6d6a67f7cda22c600035f50b",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drama-forzer-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-drama-forzer-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2172166",
+    "conditionId": "0xb47178b56490f0007015d9ef4d64a3e62d3c2404cfff93ca7b7a7eabf5a9cb10",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drama-forzer-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-drama-forzer-2026-05-06-game3-odd-even-total-kills": {
+    "id": "2172168",
+    "conditionId": "0x17a436dfdd971a57f3ce367dceeb1335f88efef06939490e16fec2f730090698",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drama-forzer-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-don-inf1-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2172175",
+    "conditionId": "0x45230c42885bcc5e7ab6a23be3e94824359e480d435365a4c6f0b36e9c9eb9bc",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-don-inf1-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-don-inf1-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2172177",
+    "conditionId": "0x95dfa353bbb798de6124866c434dc35a25e434755bbb8a097d9312e96cc7ad06",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-don-inf1-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-efa-yl-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2172208",
+    "conditionId": "0x7a3b69491f6fbff4e4d1244b32e3d95f729c74e759177ba31f4835952ab641a3",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-yl-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-efa-yl-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2172210",
+    "conditionId": "0xf16ad352b504f49327c675ea244c7910abe736796b41e3ea9d7d35a821b8a21b",
+    "endDate": "2026-05-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-yl-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-clutch-hec-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2172241",
+    "conditionId": "0x9b4e1dc89663a3597849271ef54acf2d231c9cd2cf5624757eacf9f441b15b8f",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-hec-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-clutch-hec-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2172243",
+    "conditionId": "0x32f3287a821dfee92b7c75b4df3955944a4a18f41ccb4c5805ed90c5c5b74b55",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-hec-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-ep-vpf2-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2172690",
+    "conditionId": "0x43dc5e723f6f144ce8025122f11b23c1dcd0a05355bda1e261cf81fda2e26af0",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ep-vpf2-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-ep-vpf2-2026-05-07-game2-odd-even-total-kills": {
+    "id": "2172694",
+    "conditionId": "0x03346889bd33264d6bad55a855e42ed515a0c296d8b12d1b9e4819372beb2f7c",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ep-vpf2-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-cow1-brawls-2026-05-06": {
+    "id": "2173130",
+    "conditionId": "0x2da8a5b7810f61569039e504366601298dd630a57a360178e4cf444de94d84ae",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cow1-brawls-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-cow1-brawls-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2173131",
+    "conditionId": "0xe30b13663e88102aac2926d679b8563dc52ca3a52575be630863e23c82b9e27d",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cow1-brawls-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-cow1-brawls-2026-05-06-game1-odd-even-total-rounds": {
+    "id": "2173132",
+    "conditionId": "0x4f5daf2aec577de7fbc192c75594952eb95fc6d6f23edaad91bce53b9eeb3cc9",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cow1-brawls-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-xi-wraith-2026-05-08-game1-odd-even-total-kills": {
+    "id": "2173343",
+    "conditionId": "0x9b6414d8862392586aaa13a5fd5aa9f2bdcbe1c7bd6cac7bff52379ed2246f5d",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xi-wraith-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-xi-wraith-2026-05-08-game2-odd-even-total-kills": {
+    "id": "2173345",
+    "conditionId": "0x5df3539fc77bd1da08ade59567956246036897ee64cf5697e22736a3ed3171f3",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xi-wraith-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-bojong-navij1-2026-05-09-game1-odd-even-total-kills": {
+    "id": "2173354",
+    "conditionId": "0xe851538ce60fe2f3cbd58853f3776a6e40f01d593689fac3f5444ceee666473f",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bojong-navij1-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-bojong-navij1-2026-05-09-game2-odd-even-total-kills": {
+    "id": "2173356",
+    "conditionId": "0x56f2ac4be027bd1afea548047493a44d5128b9854a578797f75e6bfd54308267",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bojong-navij1-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-mana-kinoa-2026-05-09-game1-odd-even-total-kills": {
+    "id": "2173365",
+    "conditionId": "0xdde04420962087619bd881bad55e61d477b41fb8f60f471acf4c7d7f10750e80",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mana-kinoa-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-mana-kinoa-2026-05-09-game2-odd-even-total-kills": {
+    "id": "2173367",
+    "conditionId": "0x0a7313c7b57fc68963fd5ef88be100ff3f961873f750ee6b38cf784d84258277",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mana-kinoa-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-ence-ksm-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2173376",
+    "conditionId": "0x20b70b8f248b80165fda23ba84e73f36eb06e988cb91a7358a3c04812af3b6be",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-ksm-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-ence-ksm-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2173378",
+    "conditionId": "0xb91ba1a0b6eae634bda26cd01a23da0e8daea304ed786da72608259403a247d3",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-ksm-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-sinqu-ksm-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2173398",
+    "conditionId": "0xe847f32c94117e0b504cfccfe884b1a3913f449c02c6970da87a9a6707a73d76",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-ksm-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-sinqu-ksm-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2173400",
+    "conditionId": "0x03eef15719e07fe2f97156c2d0bc0c648d3584b6ce7ef89691b9837847ad0e9b",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-ksm-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-sinqu-ksm-2026-05-10-game3-odd-even-total-kills": {
+    "id": "2173402",
+    "conditionId": "0xec485a04de60e48e1ce17598c43f62c479ad29d198d3c5c614549bcb390efddf",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sinqu-ksm-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-ence-kajo-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2173409",
+    "conditionId": "0x41b932462db00b55ffc63086c12a38da413a6545974126842bdeab6408a9877d",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-kajo-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-ence-kajo-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2173411",
+    "conditionId": "0x5ed6bc6628479eff5063b39e6cf00077cf963e3b9e4df9b5d01b53b346f47368",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-kajo-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-cirahv-tmvg-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2173420",
+    "conditionId": "0x5472c1b2f0f10d842b9c8cfd7c4906f52801feeebb6f989e5d77b2025b60294d",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cirahv-tmvg-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-cirahv-tmvg-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2173422",
+    "conditionId": "0x71a0c51e1f23d15a5eab44c0d2d97d62ea9a25139a2a97d6c8883d813671da89",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cirahv-tmvg-2026-05-11",
+    "negRisk": false
+  },
+  "lol-gtz-zzg-2026-05-08-game1-both-teams-slay-baron": {
+    "id": "2173577",
+    "conditionId": "0x07ee50491033484e7012898a4fae45ba776b6c7e6476a8248a89290afc0bb700",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gtz-zzg-2026-05-08",
+    "negRisk": false
+  },
+  "lol-gtz-zzg-2026-05-08-game1-both-teams-slay-dragon": {
+    "id": "2173578",
+    "conditionId": "0x152055c3d11106e0c8900a4565f2300951798d9695a1276cd9c578636e81b54d",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gtz-zzg-2026-05-08",
+    "negRisk": false
+  },
+  "lol-gtz-zzg-2026-05-08-game1-both-teams-destroy-inhibitors": {
+    "id": "2173579",
+    "conditionId": "0xeb4cf8879eba0583e4c5c82f9d11d77a7f4650e518cc8f17723876dec7890de6",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gtz-zzg-2026-05-08",
+    "negRisk": false
+  },
+  "lol-gtz-zzg-2026-05-08-game1-any-player-quadra-kill": {
+    "id": "2173580",
+    "conditionId": "0xd7cc96987cbb2f3ca97757fd460d05f2625f35d904e4110c28b5d954462b1556",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gtz-zzg-2026-05-08",
+    "negRisk": false
+  },
+  "lol-gtz-zzg-2026-05-08-game1-any-player-penta-kill": {
+    "id": "2173581",
+    "conditionId": "0x709cf28017b3e8590e3beb5f0b5f71a742585f6cbfd7b3ac2d0e3a0644490229",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gtz-zzg-2026-05-08",
+    "negRisk": false
+  },
+  "lol-gtz-zzg-2026-05-08-game1-odd-even-total-kills": {
+    "id": "2173582",
+    "conditionId": "0xad714639b0369be17ca544f684c00bf59a2f361b23ee809e580ea7e92bfd1e7c",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-gtz-zzg-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-sng-sta6-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2174827",
+    "conditionId": "0x3376a3aeb82007307217ab2ca85b9b9b9d028b0277d57fb5b9ac4fcd4eedfbc3",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-sta6-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-sng-sta6-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2174833",
+    "conditionId": "0x3a818ac5f15486f933a8f5e8004149d506e78d4c05a3652c8fc65e48d997efeb",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-sta6-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-aab-mis-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2174852",
+    "conditionId": "0xd1f368a1b3cbb03b110bc9c4f404d2e0cd867606f21d06c8cf45b1fdecdd1958",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-aab-mis-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-aab-mis-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2174856",
+    "conditionId": "0xecb3f2311c19726e3825a963688ab761ae28fdd09d2c6ce6de24aea571237714",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-aab-mis-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-9daplu-alkaa-2026-05-06-game1-odd-even-total-kills": {
+    "id": "2175362",
+    "conditionId": "0x6ab7cee7f5e0f1326098f83f0861618b2d7abcd38749fb2935b2c8a1e507a3d9",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-9daplu-alkaa-2026-05-06",
+    "negRisk": false
+  },
+  "cs2-9daplu-alkaa-2026-05-06-game2-odd-even-total-kills": {
+    "id": "2175364",
+    "conditionId": "0xa64f303cba3880ee7a48444ef7c10045f2b87c7cb1a9aac585198b268602072e",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-9daplu-alkaa-2026-05-06",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game1-both-teams-slay-baron": {
+    "id": "2175404",
+    "conditionId": "0x1fc7d3d924b53c6c33a47d1de0ba1937a4d202971d38a18e6c0e6cbccdc4e0d5",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game1-both-teams-slay-dragon": {
+    "id": "2175405",
+    "conditionId": "0xacd07eef0241758ef5ce4e4591afb2b7d7cc36dce53aed165e074a90d98eb381",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game1-both-teams-destroy-inhibitors": {
+    "id": "2175406",
+    "conditionId": "0x4b80c39b00ae72251a3afd0f4a8851e405e7a02ffad4b85a91d91377ffeab0e2",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game1-any-player-quadra-kill": {
+    "id": "2175407",
+    "conditionId": "0xa62aa0fe7f22e5a22c191b78f81111f8979859b774821bbe0b15d1c2cae40997",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game1-any-player-penta-kill": {
+    "id": "2175408",
+    "conditionId": "0x0043a02d94bacacb0dae4190da5537a1507334d4b824f12ab745adc9cea76f84",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2175409",
+    "conditionId": "0x7e88e5395d1a6e0e6ba5799c0ad9e98ee5ba5f7e227400432b0eb364c0235d07",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game2-both-teams-slay-baron": {
+    "id": "2175410",
+    "conditionId": "0x0e9a8e1444e4ef64a9fbe2bac24c239757700b5894c45d069d5604fbf1a87fc2",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game2-both-teams-slay-dragon": {
+    "id": "2175411",
+    "conditionId": "0x1a6ad844d840a0bd46d5410b6c90a71708dff306f50251bd9f5998698949268e",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game2-both-teams-destroy-inhibitors": {
+    "id": "2175412",
+    "conditionId": "0xf93cbcd94fa89f1613189012855993bc1b19d907ee59dafae685ca1edd1588aa",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game2-any-player-quadra-kill": {
+    "id": "2175413",
+    "conditionId": "0x76d8513cbebc8196f874c1a67df172fac018ae3d0d1d2cab0aed49543cd758b9",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game2-any-player-penta-kill": {
+    "id": "2175415",
+    "conditionId": "0x622d2d3f66e1a7e9f67a867b723912134368b3019c65172af4a35d3fcde8ef2d",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-tsw-gam-2026-05-07-game2-odd-even-total-kills": {
+    "id": "2175416",
+    "conditionId": "0x07cf8fe3ecfd46781683412327036dc8c0a945e540687944ea5f9a03272ccf53",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-gam-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game1-both-teams-slay-baron": {
+    "id": "2175437",
+    "conditionId": "0xeee143b24ca1bb32e5fdb935f271e814aae02ec045ad260a111cbfaa548c14e3",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game1-both-teams-slay-dragon": {
+    "id": "2175438",
+    "conditionId": "0x8c1e31b11cd3b50d45eacf4cff71360a92c3bff055b1030b6c8e7e922c79cfe1",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game1-both-teams-destroy-inhibitors": {
+    "id": "2175439",
+    "conditionId": "0xb629fff2635a6c84c01267a658d422dc1ebe57d591778ade2012e525aa45b063",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game1-any-player-quadra-kill": {
+    "id": "2175440",
+    "conditionId": "0xded7fcc381ac196b6c86c4ced0bdd09cb323e1480a98ecfa3f44a88a2bdc4c28",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game1-any-player-penta-kill": {
+    "id": "2175441",
+    "conditionId": "0x21820b0c46e4e5b435c35a9697e9b27177f2724b522a6207ae7db01dfd205374",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2175442",
+    "conditionId": "0x454ab3172a5cdd58a73e1898d9b1a9b099232829691cec8566fb8665a2191445",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game2-both-teams-slay-baron": {
+    "id": "2175443",
+    "conditionId": "0x937fd014a3ba401c19e145c7b69cf179ba0e9a066e5b6bb60ccaf26975ca29e0",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game2-both-teams-slay-dragon": {
+    "id": "2175444",
+    "conditionId": "0x3571e9f7c354304e21ebd6d6df6d7e49c7cad50d00657384bcd5104fb0fb64b2",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game2-both-teams-destroy-inhibitors": {
+    "id": "2175445",
+    "conditionId": "0x1ac647736ae52ac986ac6d83372cd70cb0a40c91c7e8271d5c873c444bce3462",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game2-any-player-quadra-kill": {
+    "id": "2175446",
+    "conditionId": "0x8e557b3677129fabfdc969de4113ec5e352923a0219f03a5b7e29b321e49b29f",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game2-any-player-penta-kill": {
+    "id": "2175447",
+    "conditionId": "0x800f58047cc1743a97876e18fb657b09f986f444d41dfa63e7644d5552a03b0f",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game2-odd-even-total-kills": {
+    "id": "2175448",
+    "conditionId": "0x911ffa48e694f0da6af4da51e0f79b461c0a8d6b4d47e93790281415b3b0bd58",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game3-both-teams-slay-baron": {
+    "id": "2175449",
+    "conditionId": "0xa505ab446ac7c410b7d6274f96f4cc3922aa295ada62e8b266ee21eca832ce0f",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game3-both-teams-slay-dragon": {
+    "id": "2175450",
+    "conditionId": "0x15bd889fd67ffb03aaf9471e428cd10f2b2ae173a6e533646f5a2d91d23fa93c",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game3-both-teams-destroy-inhibitors": {
+    "id": "2175451",
+    "conditionId": "0x61030ff50532a06459297af5f941453a8efaabcc15c248775a94d652b0bdd9d1",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game3-any-player-quadra-kill": {
+    "id": "2175452",
+    "conditionId": "0xe6bc6aab01dca61fa83e1b121f0cb98fb3ce438be8695c13ac9115fab4e83134",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game3-any-player-penta-kill": {
+    "id": "2175453",
+    "conditionId": "0xe6c3e8778a69123266a2f17cb1ce78fdf3556a43a30e69c6e89addbb56208bea",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-shg-cfo-2026-05-07-game3-odd-even-total-kills": {
+    "id": "2175454",
+    "conditionId": "0xc996744a83138ddeec332309bb15c1674566867422b7c48b4ee4d7e3a5c2c421",
+    "endDate": "2026-05-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-shg-cfo-2026-05-07",
+    "negRisk": false
+  },
+  "lol-dfm-dcg-2026-05-12-game1-both-teams-slay-baron": {
+    "id": "2175460",
+    "conditionId": "0x78b2d8bbf905ec50d36dcc5072688721cbb21301e027c8da1a2ce7f952e5822c",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dfm-dcg-2026-05-12",
+    "negRisk": false
+  },
+  "lol-dfm-dcg-2026-05-12-game1-both-teams-slay-dragon": {
+    "id": "2175461",
+    "conditionId": "0x0b0cac32d9450cbd954a271c19220df929d4e6ce946e03589269bba8d6a457e1",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dfm-dcg-2026-05-12",
+    "negRisk": false
+  },
+  "lol-dfm-dcg-2026-05-12-game1-both-teams-destroy-inhibitors": {
+    "id": "2175462",
+    "conditionId": "0x8024bbac95c8feeb2eabebc8051024bf084421b812d4d8d9f538d9359cc02b48",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dfm-dcg-2026-05-12",
+    "negRisk": false
+  },
+  "lol-dfm-dcg-2026-05-12-game1-any-player-quadra-kill": {
+    "id": "2175463",
+    "conditionId": "0x77e9b13f86d16831fa2096f94d2c8715b857f0d4ed4965bdf459f1a74535b7b9",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dfm-dcg-2026-05-12",
+    "negRisk": false
+  },
+  "lol-dfm-dcg-2026-05-12-game1-any-player-penta-kill": {
+    "id": "2175464",
+    "conditionId": "0x4a119ba97498fc9481e4d34bf1cb482298bfdd86f4d353a7ee615e1e449d7168",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dfm-dcg-2026-05-12",
+    "negRisk": false
   }
 }
