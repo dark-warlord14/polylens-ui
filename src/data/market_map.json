@@ -32769,16 +32769,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-diana-shnaider-win-the-2026-womens-french-open": {
-    "id": "1087778",
-    "conditionId": "0xf0ab6a841f34737f9ba144a596720d20bc56bc5c91bce018dc7526c43d7679f5",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-maya-joint-win-the-2026-womens-french-open": {
     "id": "1087805",
     "conditionId": "0xe2b3ababbaa7e71894b0496be696a23b7375e31e54fdd11fa355c94c47dda852",
@@ -78940,16 +78930,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-heroic-win-iem-cologne-major-2026": {
-    "id": "1892285",
-    "conditionId": "0x1d6a4514ffe89c4aa8afc2718c36ce95aae0477130cf1a6d547fcae9a4dfa18b",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-m80-win-iem-cologne-major-2026": {
     "id": "1892287",
     "conditionId": "0x824c710d20c3f83c4078e6c834d659489233e3fb8772d215071ee3f0ac8f4d34",
@@ -83172,16 +83152,6 @@
   "will-mirra-andreeva-win-the-2026-roland-garros-womens-singles": {
     "id": "1920814",
     "conditionId": "0x751a47a4ed102056875c7db5b6b54d6d50312cbcef208c68f3c95d97d4f694f7",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-diana-shnaider-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920823",
-    "conditionId": "0x478659297fc6b14c30ff751a4fbc083c1615b1113dacedb297c292f92c494898",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -88119,16 +88089,6 @@
     "eventSlug": "cs2-clutch1-bg1-2026-04-15",
     "negRisk": false
   },
-  "cs2-qua1-pure-2026-04-15-game1-odd-even-total-kills": {
-    "id": "1989719",
-    "conditionId": "0x3f3cfb75dae5cd631ce79bec3e1140277e47c81a8893e6fe767d72b61f125490",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-qua1-pure-2026-04-15",
-    "negRisk": false
-  },
   "cs2-cad-csgopo-2026-04-15-game1-odd-even-total-kills": {
     "id": "1990690",
     "conditionId": "0x4976cc803aa498a654072113bf23ebb848ff53dc4bba245ed092e566c72f4af6",
@@ -88147,26 +88107,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-cad-csgopo-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-bsta-r2-2026-04-15-game1-odd-even-total-kills": {
-    "id": "1990786",
-    "conditionId": "0xe0b9911f8f52701947e2735cacf128b869fb0f5190e7ee2eeb1574d06fc13f76",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-bsta-r2-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-bsta-r2-2026-04-15-game2-odd-even-total-kills": {
-    "id": "1990788",
-    "conditionId": "0xb51980dd78d598e438910c3843614089b1cc00416d988e7f8122ab33b66cf1b3",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-bsta-r2-2026-04-15",
     "negRisk": false
   },
   "cs2-bige-brawls-2026-04-15-game1-odd-even-total-kills": {
@@ -100755,7 +100695,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100765,7 +100705,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-cristiano-ronaldo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100775,7 +100715,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100785,7 +100725,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-jude-bellingham-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100795,7 +100735,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-lamine-yamal-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100805,7 +100745,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-raphinha-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100815,7 +100755,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-heung-min-son-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100825,7 +100765,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-noah-okafor-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100835,7 +100775,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-edin-deko-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100845,7 +100785,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-scott-mctominay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100855,7 +100795,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100865,7 +100805,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-rodrygo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100875,7 +100815,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-igor-thiago-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100885,7 +100825,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-deniz-undav-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100895,7 +100835,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-serge-gnabry-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100905,7 +100845,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-amad-diallo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100915,7 +100855,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-viktor-gykeres-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100925,7 +100865,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-depay-memphis-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100935,7 +100875,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-cody-gakpo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100945,7 +100885,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-mohamed-salah-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100955,7 +100895,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-ferran-torres-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100965,7 +100905,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-dani-olmo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100975,7 +100915,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-marcus-thuram-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100985,7 +100925,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-desire-doue-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -100995,7 +100935,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-ousmane-dembele-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101005,7 +100945,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-bradley-barcola-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101015,7 +100955,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-michael-olise-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101025,7 +100965,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-sadio-mane-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101035,7 +100975,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-luis-diaz-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101045,7 +100985,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-rafael-leao-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101055,7 +100995,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-ivan-perii-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101065,7 +101005,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-julian-alvarez-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101075,7 +101015,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-andrej-kramari-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101085,7 +101025,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-bukayo-saka-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101095,7 +101035,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-harry-kane-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101105,7 +101045,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-antoine-semenyo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101115,7 +101055,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-lautaro-martinez-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101125,7 +101065,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-mikel-oyarzabal-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101135,7 +101075,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-bruno-fernandes-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101145,7 +101085,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101155,7 +101095,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-pedri-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101165,7 +101105,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-dion-beljo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101175,7 +101115,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-luis-javier-surez-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
@@ -101185,7 +101125,7 @@
     "closed": false,
     "active": true,
     "acceptingOrders": true,
-    "eventSlug": "world-cup-top-goalscorer",
+    "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
   "will-the-us-economy-be-in-a-soft-landing-at-the-end-of-2026": {
@@ -119606,6 +119546,66 @@
   "over-8m-committed-to-the-align-public-sale": {
     "id": "2175749",
     "conditionId": "0x8b2af39269b41769d49c56c1ca94a67344a7d49d62199ce8d81e1c0c7b26b89e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-10m-committed-to-the-align-public-sale": {
+    "id": "2175750",
+    "conditionId": "0xb2fb92168fafdab6f9a535f811a209384dec32036ea2927d9ca3bc4ffaeb7c29",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-15m-committed-to-the-align-public-sale": {
+    "id": "2175751",
+    "conditionId": "0xf9595c7f1754c279ce8fec91683e77d2d97e8011118df0feeac74d5fa04cac9b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-20m-committed-to-the-align-public-sale": {
+    "id": "2175752",
+    "conditionId": "0x9ce3665494f24d727a6878c17c00ab98916eee0b4b69af2947cfe0fe3e748987",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-30m-committed-to-the-align-public-sale": {
+    "id": "2175753",
+    "conditionId": "0x87b924527ca0eddffc45ab82698de64fa0397b22e62e302eeecb51bb85641985",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-50m-committed-to-the-align-public-sale": {
+    "id": "2175754",
+    "conditionId": "0x92fb6064d21d1235a1ee0ce5b55b3fb1f0507d439fefe2ff6a74d73b72b76b01",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-80m-committed-to-the-align-public-sale": {
+    "id": "2175755",
+    "conditionId": "0x984de5439f73dcc2087c7a9b2b9abd10415f1e0b57c3f37b9b2bbe2e7abf30b9",
     "endDate": "2026-07-01",
     "closed": false,
     "active": true,
