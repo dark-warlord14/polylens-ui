@@ -32769,16 +32769,6 @@
     "eventSlug": "2026-womens-french-open-winner",
     "negRisk": true
   },
-  "will-marta-kostyuk-win-the-2026-womens-french-open": {
-    "id": "1087773",
-    "conditionId": "0xc13d428b3a4ef1581d1d8c7fefd431b085bb3e3fd51a74f699b7ba5b62aa4972",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-diana-shnaider-win-the-2026-womens-french-open": {
     "id": "1087778",
     "conditionId": "0xf0ab6a841f34737f9ba144a596720d20bc56bc5c91bce018dc7526c43d7679f5",
@@ -32792,6 +32782,16 @@
   "will-maya-joint-win-the-2026-womens-french-open": {
     "id": "1087805",
     "conditionId": "0xe2b3ababbaa7e71894b0496be696a23b7375e31e54fdd11fa355c94c47dda852",
+    "endDate": "2026-06-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-womens-french-open-winner",
+    "negRisk": true
+  },
+  "will-maja-chwaliska-win-the-2026-womens-french-open": {
+    "id": "1087807",
+    "conditionId": "0x953eb1580adcc167a330f911576bba0ea7291fbbae099cc39817ff4d6288ac0c",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -56741,16 +56741,6 @@
     "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
     "negRisk": true
   },
-  "will-the-democratic-party-of-korea-win-8-or-9-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364302",
-    "conditionId": "0xbe1b6be48dec02bf55faf971e45829b8957f2e4638907bff3c13a898cde69f16",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
-    "negRisk": true
-  },
   "will-the-democratic-party-of-korea-win-10-or-more-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
     "id": "1364303",
     "conditionId": "0xa2694315da159a18f38a07951f3b3871eadfe501442f3c8a4d623eeff1f6ac50",
@@ -56771,39 +56761,9 @@
     "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
     "negRisk": true
   },
-  "will-the-people-power-party-win-less-than-or-equal-to-1-seat-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364310",
-    "conditionId": "0xb790205b14222a8e7e57660b4d19db1c9b564fb0c49d12ebd02718d29808ea6a",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
-  "will-the-people-power-party-win-2-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364311",
-    "conditionId": "0x8dc8eb318d4c240c70b2792e07384a964cc74fd3c97ca22064376b2fb7603afa",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
   "will-the-people-power-party-win-3-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
     "id": "1364312",
     "conditionId": "0x2a2bf6aa08817456c5e00d6a77ead798765194084d21b8e4fccef3455f44373e",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
-  "will-the-people-power-party-win-4-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364313",
-    "conditionId": "0xe4d2d02a0324edf4e2587c39dc02a659739694bf13c6bca22826f4ad70e8fcb2",
     "endDate": "2026-06-03",
     "closed": false,
     "active": true,
@@ -56829,51 +56789,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
-  "will-the-people-power-party-ppp-win-the-most-seats-in-south-koreas-2026-parliamentary-by-elections": {
-    "id": "1364467",
-    "conditionId": "0xdaf55a5ad3c8352acfcc6d45d00cbff163d2c33366a645b6efd622c638b0283e",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-korea-by-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-democratic-party-of-korea-dp-win-the-most-seats-in-south-koreas-2026-parliamentary-by-elections": {
-    "id": "1364468",
-    "conditionId": "0x9d5c63e344e6f6227282289df2a6220c8bf50384fca510703a6299b7ae04121f",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-korea-by-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-rebuilding-korea-party-rkp-win-the-most-seats-in-south-koreas-2026-parliamentary-by-elections": {
-    "id": "1364469",
-    "conditionId": "0xe787cf7c6ae17e60c9f90883a14f759ebfce4365056b07eec018c4129769ba45",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-korea-by-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-progressive-party-pp-win-the-most-seats-in-south-koreas-2026-parliamentary-by-elections": {
-    "id": "1364470",
-    "conditionId": "0x1c270c117a37afeb25bbcf0220a9f6715890f2ffbe1e857f790e73c881635980",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-korea-by-elections-party-winner",
-    "negRisk": true
-  },
-  "will-the-reform-party-rp-win-the-most-seats-in-south-koreas-2026-parliamentary-by-elections": {
-    "id": "1364471",
-    "conditionId": "0x1be4bbac1cf3cec878b0dba2d2e945a416db1d5c54ea6373d44649ec3fcbb997",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-korea-by-elections-party-winner",
     "negRisk": true
   },
   "will-tarcisio-de-freitas-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
@@ -79055,16 +78970,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-sharks-win-iem-cologne-major-2026": {
-    "id": "1892289",
-    "conditionId": "0x40fe0e847061514a774ade752050570f3f0c36addb1c69937d09e3151c34a74b",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-mibr-win-iem-cologne-major-2026": {
     "id": "1892291",
     "conditionId": "0xa2ea44f06f6b7ca3e00cea284d6e9294ac3d0331fd8817a5ff82989a5ae2291d",
@@ -79098,16 +79003,6 @@
   "will-lynn-vision-win-iem-cologne-major-2026": {
     "id": "1892294",
     "conditionId": "0xc8b5bacf5b747337800902d8720aa293d312221bdc2f3cb81dd3232cc38505f2",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-thunder-downunder-win-iem-cologne-major-2026": {
-    "id": "1892295",
-    "conditionId": "0x6d98df5d6142dbec8a034841f7aa3626b00102df59e01e06977786753378a3e8",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -83247,6 +83142,26 @@
   "will-flavio-cobolli-win-the-2026-roland-garros-mens-singles": {
     "id": "1920468",
     "conditionId": "0xc8eed8269df43fe1b6b4383c5d78ec8d24c39d2206a772510f9810bf92a81ef5",
+    "endDate": "2026-06-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-mens-singles-roland-garros-winner",
+    "negRisk": true
+  },
+  "will-jakub-mensik-win-the-2026-roland-garros-mens-singles": {
+    "id": "1920477",
+    "conditionId": "0xe4f49574892f75204ff919eacb8bb2bb97b7b6993424ac3aefc47a952081417c",
+    "endDate": "2026-06-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-mens-singles-roland-garros-winner",
+    "negRisk": true
+  },
+  "will-matteo-arnaldi-win-the-2026-roland-garros-mens-singles": {
+    "id": "1920478",
+    "conditionId": "0x479734e255c9736a9497a0095a47ee44bab916ec016a1251e413a8b6fb1814d9",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -88232,36 +88147,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-cad-csgopo-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-mw-vexa-2026-04-15-game1-odd-even-total-kills": {
-    "id": "1990766",
-    "conditionId": "0x3bf988e1337dd27d3b1ff114e910568092412034394d092973a4e0d0b011f52d",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mw-vexa-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-mw-vexa-2026-04-15-game2-odd-even-total-kills": {
-    "id": "1990768",
-    "conditionId": "0xc718939a16cbabb4cf0bb3dd4c2777bbbb1bc82b8fbafac0615d112c8e193b9d",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mw-vexa-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-mw-vexa-2026-04-15-game3-odd-even-total-kills": {
-    "id": "1990770",
-    "conditionId": "0x46aa36f68da8854be49df3c01bfcfd40f1936c279b639f2c3ae88ee2cc8f616b",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mw-vexa-2026-04-15",
     "negRisk": false
   },
   "cs2-bsta-r2-2026-04-15-game1-odd-even-total-kills": {
@@ -119606,6 +119491,126 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-mvk-gz-2026-05-12",
+    "negRisk": false
+  },
+  "lol-mvk-gz-2026-05-12-game2-both-teams-slay-dragon": {
+    "id": "2175490",
+    "conditionId": "0x4d4d91db868d9dcb9168bb0c39ee9fb29d71d263991ea165ae76ecd04fb2aeaa",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-mvk-gz-2026-05-12",
+    "negRisk": false
+  },
+  "lol-mvk-gz-2026-05-12-game2-both-teams-destroy-inhibitors": {
+    "id": "2175491",
+    "conditionId": "0x8bd3a0b4d80be5531fdfac68c353bef7b742988863a8f2201080b5c4771a49b6",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-mvk-gz-2026-05-12",
+    "negRisk": false
+  },
+  "lol-mvk-gz-2026-05-12-game2-any-player-quadra-kill": {
+    "id": "2175492",
+    "conditionId": "0xe11d755d373ba76cc22a41cfb5930f4c480d36f44b08fb9baf7ffb22eaa292d8",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-mvk-gz-2026-05-12",
+    "negRisk": false
+  },
+  "lol-mvk-gz-2026-05-12-game2-any-player-penta-kill": {
+    "id": "2175493",
+    "conditionId": "0xe5f8f62bb72df685133bcf8603c5879a96261183cd5e7475c47bdbdcabfc812a",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-mvk-gz-2026-05-12",
+    "negRisk": false
+  },
+  "lol-mvk-gz-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2175494",
+    "conditionId": "0x014aacd6950c6c1f47ef10ea7266fce90e4bd1ae6a2d7e45e4dcaba66b70b572",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-mvk-gz-2026-05-12",
+    "negRisk": false
+  },
+  "over-250k-committed-to-the-align-public-sale": {
+    "id": "2175743",
+    "conditionId": "0x67d64e4b8d56b5cea5173c34d3d61d54e4da7dddcd077c17445804812eede53b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-500k-committed-to-the-align-public-sale": {
+    "id": "2175744",
+    "conditionId": "0x2deaca1e2ad459426bc99a57da0a3ec2abf9e0066bf25538893231ca8c38144b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-1m-committed-to-the-align-public-sale": {
+    "id": "2175745",
+    "conditionId": "0x0b11ff96fd6656e9742840ea6a901065f08c0a8b9840d4539ced3a1f83f83587",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-2m-committed-to-the-align-public-sale": {
+    "id": "2175746",
+    "conditionId": "0xa45d1b80185c502c8412d0304adb83b053556ac349953d240a4c2761de1d0e02",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-4m-committed-to-the-align-public-sale": {
+    "id": "2175747",
+    "conditionId": "0x8c8eee2213a77665a694cf34a9c48e1553e78e798556a725d1b70992c6c55b91",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-6m-committed-to-the-align-public-sale": {
+    "id": "2175748",
+    "conditionId": "0x7266ddc86ff4b5927ce03fb11bb513323256c6e614e2be1043e28b66969042f8",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-8m-committed-to-the-align-public-sale": {
+    "id": "2175749",
+    "conditionId": "0x8b2af39269b41769d49c56c1ca94a67344a7d49d62199ce8d81e1c0c7b26b89e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
     "negRisk": false
   }
 }
