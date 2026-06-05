@@ -52681,16 +52681,6 @@
     "eventSlug": "will-usdkrw-hit-in-2026",
     "negRisk": false
   },
-  "will-usdkrw-hit-1550-high-in-2026": {
-    "id": "1343081",
-    "conditionId": "0x05a10a1daab40f7d54f0f5d1b010950a1bb61bcffbfd32656445dfad5906085b",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usdkrw-hit-in-2026",
-    "negRisk": false
-  },
   "will-usdkrw-hit-1400-low-in-2026": {
     "id": "1343083",
     "conditionId": "0x4704883e7c3161d5ff7f35e43d0b2b09f58ceb70b1e7d180779427f7c8dde43f",
@@ -69765,46 +69755,6 @@
     "eventSlug": "turkish-constitutional-referendum-announced-in-2026-264",
     "negRisk": false
   },
-  "will-mother-mary-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717912",
-    "conditionId": "0x264dde20ff3f1e330c069a73fcc52ce93f0b2d05b23ca9664d2bdd594a625b8d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
-  "will-michael-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717913",
-    "conditionId": "0xcf4dab4fc1109714e3f0e43e6766baadb7f42496448d6a2afe6c0bf10c3a6646",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
-  "will-wasteland-cop-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717914",
-    "conditionId": "0x911ba6b03338eadb70effb8e98f4b684ab9b204a2e9a5cde3acda26f4a83e3bd",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
-  "will-the-whistler-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717916",
-    "conditionId": "0xc39b846e59520e7b68133fe1bc5deb845109087bc07e1e78edc763a4dc08150f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
   "haiti-elections-delayed-again": {
     "id": "1718357",
     "conditionId": "0x664b1941e457e7446ca3c54398cc548e92a4a220ab3904a44432221a6b2b7a62",
@@ -81993,16 +81943,6 @@
   "will-conviction-win-nacl-2026-spring": {
     "id": "1901240",
     "conditionId": "0x923b26c2278745c88030e3459209dc0cfaf8d53c2380e20ffa35de7d000413fe",
-    "endDate": "2026-06-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-nacl-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-winthrop-university-win-nacl-2026-spring": {
-    "id": "1901247",
-    "conditionId": "0x4cc0fe70113f670ad72884b0ee8b5139a0748b053b648a6c08b65448517f152f",
     "endDate": "2026-06-05",
     "closed": false,
     "active": true,
@@ -119611,6 +119551,66 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-kylian-mbappe-leave-real-madrid-before-august-31",
+    "negRisk": false
+  },
+  "will-the-balusters-win-best-play-at-the-2026-tony-awards": {
+    "id": "2183674",
+    "conditionId": "0x9f886f00e8b2b799f7823e3be8ff11f7589a8b87dd23978f7be11692e2953662",
+    "endDate": "2026-06-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tony-awards-best-play-winner",
+    "negRisk": true
+  },
+  "will-giant-win-best-play-at-the-2026-tony-awards": {
+    "id": "2183675",
+    "conditionId": "0xc19fd9f540c9ab97ec45fd98c60328ea2b62dc4c85416dbb275f9163b1e69dcf",
+    "endDate": "2026-06-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tony-awards-best-play-winner",
+    "negRisk": true
+  },
+  "will-liberation-win-best-play-at-the-2026-tony-awards": {
+    "id": "2183676",
+    "conditionId": "0x4ba91a9aa63dcccc0a177854b14cbf748301b04b6593a35ace971cf9e0cdc2bc",
+    "endDate": "2026-06-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tony-awards-best-play-winner",
+    "negRisk": true
+  },
+  "will-little-bear-ridge-road-win-best-play-at-the-2026-tony-awards": {
+    "id": "2183677",
+    "conditionId": "0xa97a0415a150d97092330d085125b60c603d1843b5f2270b6dd14b4cb6830eff",
+    "endDate": "2026-06-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tony-awards-best-play-winner",
+    "negRisk": true
+  },
+  "dota2-ngx-playti-2026-05-08-game2-first-blood": {
+    "id": "2183815",
+    "conditionId": "0xc8aac3651d2f8bdb95072c259144b95bce754355fd32a4c7020bee45bc3ed0e3",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-ngx-playti-2026-05-08",
+    "negRisk": false
+  },
+  "will-juul-relaunch-mango-flavor-by-2027": {
+    "id": "2184331",
+    "conditionId": "0x972e743ee483cb4186b14b0c548dbf66f96214272d17542533fe447678d085c3",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
     "negRisk": false
   }
 }
