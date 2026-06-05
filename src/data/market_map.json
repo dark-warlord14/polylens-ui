@@ -6882,26 +6882,6 @@
     "eventSlug": "nhl-2025-26-hart-memorial-trophy",
     "negRisk": true
   },
-  "nhl-2025-26-frank-j-selke-trophy-anthony-cirelli": {
-    "id": "645501",
-    "conditionId": "0x010cdaaaccd5ab89c2bcfc3391722b01563ffe47cc5f233a9940b4cc3810024e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-frank-j-selke-trophy",
-    "negRisk": true
-  },
-  "nhl-2025-26-frank-j-selke-trophy-nick-suzuki": {
-    "id": "645513",
-    "conditionId": "0x623c8f041bd0795ec5c3a5ad89bf8c57ae7acf96a53718236a4072982c5ad279",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-frank-j-selke-trophy",
-    "negRisk": true
-  },
   "nhl-2025-26-vezina-trophy-andrei-vasilevskiy": {
     "id": "645803",
     "conditionId": "0x06d5dcfb8bd0d9c52c262d8a098bb6dbdb08cb5f7722ac3e41e0030971157ab7",
@@ -15949,16 +15929,6 @@
     "eventSlug": "what-price-will-pumpfun-hit-before-2027",
     "negRisk": false
   },
-  "will-pumpfun-dip-to-0pt0014-by-december-31-2026": {
-    "id": "701874",
-    "conditionId": "0x8187dbcca7ff6766cb815fadb41dc7477345ed8058a96ca3e6796f70a1d4c7c3",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-price-will-pumpfun-hit-before-2027",
-    "negRisk": false
-  },
   "will-pumpfun-dip-to-0pt0010-by-december-31-2026": {
     "id": "701875",
     "conditionId": "0x0f79d61c42e75515b630419041f328a3338ed55fe22986dcc0ce4eb4d67796b8",
@@ -18280,16 +18250,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "felix-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "will-there-be-at-least-2000-measles-cases-in-the-us-in-2026": {
-    "id": "716940",
-    "conditionId": "0x78e9f8bc4b6659c3b10f446527c7f5c313156e12ebd9675956f19a79e3d7578f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "measles-cases-in-us-in-2026",
     "negRisk": false
   },
   "will-there-be-at-least-5000-measles-cases-in-the-us-in-2026-436-426": {
@@ -32719,29 +32679,9 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-jakub-mensik-win-the-2026-mens-french-open": {
-    "id": "1087521",
-    "conditionId": "0x40d85bb0c07156d8078ed03df11bea9aff0c6700a5186c9848307f00503b2060",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
   "will-flavio-cobolli-win-the-2026-mens-french-open": {
     "id": "1087538",
     "conditionId": "0x9eaadf490bf58eb7e2d00fb257711ff462ae99197dc339b2a5cd93a577c7a2e2",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-matteo-arnaldi-win-the-2026-mens-french-open": {
-    "id": "1087557",
-    "conditionId": "0x7f0c9f4babea635c6118e2a0a9bf0ee55aa8c6fb66a1ef523b98f482fcd722b5",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -34297,16 +34237,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-openai-acquire-pinterest-in-2026",
-    "negRisk": false
-  },
-  "eth-flipped-in-2026": {
-    "id": "1089847",
-    "conditionId": "0xcbca4926398df4622033099a661c591c5d5b62f3ac11e1dc871c2a7592c74e32",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "eth-flipped-in-2026",
     "negRisk": false
   },
   "will-joshua-van-be-the-ufc-flyweight-champion-on-december-31-2026": {
@@ -71807,6 +71737,36 @@
     "eventSlug": "mlb-nl-platinum-glove-winner",
     "negRisk": true
   },
+  "will-andy-pages-win-the-2026-nl-platinum-glove-award": {
+    "id": "1735281",
+    "conditionId": "0x7fcc70148899a12cbc39f6680f8e3f68d4e62ce33b9c4591f88fc7f9c606cfa4",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-nl-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-jj-wetherholt-win-the-2026-nl-platinum-glove-award": {
+    "id": "1735282",
+    "conditionId": "0xb68107f68609a3ea6a062a010caf8ac6a0d555e41608450db01980a7da52498e",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-nl-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-max-muncy-win-the-2026-nl-platinum-glove-award": {
+    "id": "1735283",
+    "conditionId": "0x81ad57cee367e4620a1eb76d8dd9c648e978d7c68e2f6c33d0e2bcf3016e2d03",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-nl-platinum-glove-winner",
+    "negRisk": true
+  },
   "will-jonah-heim-win-the-2026-al-platinum-glove-award": {
     "id": "1735302",
     "conditionId": "0x8c41e4122c8f212a28afa6f140e5e26ff77dadedeb62d4a3e2de7f463daf6a43",
@@ -72010,6 +71970,56 @@
   "will-ceddanne-rafaela-win-the-2026-al-platinum-glove-award": {
     "id": "1735322",
     "conditionId": "0x21dda4d02de51165d5b41014ae30c292a19a2da5ca825ace681b4bfeb180a301",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-al-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-cody-bellinger-win-the-2026-al-platinum-glove-award": {
+    "id": "1735323",
+    "conditionId": "0xde1941b0c0630a0e8bb6b138b0b42f3ff3bc6e4c7e5c7aad31ad1d1c2d0af54a",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-al-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-cole-young-win-the-2026-al-platinum-glove-award": {
+    "id": "1735324",
+    "conditionId": "0x3c6bb1d1626c47b9012cc35915aad974099baa4b8c0fabd4610e7ad8a760c4d2",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-al-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-taylor-walls-win-the-2026-al-platinum-glove-award": {
+    "id": "1735325",
+    "conditionId": "0xce8d5326a5ffac181002037d62438fe9c5f0b359b57f4b2c933f0555d20ab702",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-al-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-caleb-durbin-win-the-2026-al-platinum-glove-award": {
+    "id": "1735326",
+    "conditionId": "0xbef7fb4abc370096d9b3e47abbfc94d176798e81bcaad7b5b06d108cc53b872a",
+    "endDate": "2026-12-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-al-platinum-glove-winner",
+    "negRisk": true
+  },
+  "will-cam-smith-win-the-2026-al-platinum-glove-award": {
+    "id": "1735327",
+    "conditionId": "0x6e0649454691fb5e5255905a9474028805cf81e695544ada17b029d52f6d5c01",
     "endDate": "2026-12-19",
     "closed": false,
     "active": true,
@@ -78560,16 +78570,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-team-liquid-win-iem-cologne-major-2026": {
-    "id": "1892292",
-    "conditionId": "0x18b175a7f6faa5dd8942d03df7ebf3b3c244357af7bbc0f70f363311bc3b9028",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-tyloo-win-iem-cologne-major-2026": {
     "id": "1892293",
     "conditionId": "0xed6cf53c75f8a1967e307cd568093a46d93c7045c2f2842c08d7e4c566e4ff28",
@@ -82682,16 +82682,6 @@
   "will-flavio-cobolli-win-the-2026-roland-garros-mens-singles": {
     "id": "1920468",
     "conditionId": "0xc8eed8269df43fe1b6b4383c5d78ec8d24c39d2206a772510f9810bf92a81ef5",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-matteo-arnaldi-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920478",
-    "conditionId": "0x479734e255c9736a9497a0095a47ee44bab916ec016a1251e413a8b6fb1814d9",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -113239,16 +113229,6 @@
     "eventSlug": "super-rugby-pacific-winner",
     "negRisk": true
   },
-  "will-brumbies-win-the-2026-super-rugby-pacific-grand-final": {
-    "id": "2134587",
-    "conditionId": "0xa006cbefaac64c824acbe9cead8fcf657fca413295f1a3d9f90e9c9063f745e6",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "super-rugby-pacific-winner",
-    "negRisk": true
-  },
   "will-reds-win-the-2026-super-rugby-pacific-grand-final": {
     "id": "2134588",
     "conditionId": "0x3889b2c83180ccd4a29b0a6b7cbd01cd0ced5fa9e4d810b744a67d93acb71892",
@@ -115038,76 +115018,6 @@
     "acceptingOrders": true,
     "eventSlug": "pga-tour-player-to-record-albatross-in-may",
     "negRisk": false
-  },
-  "will-vivek-ramaswamy-win-the-ohio-governor-republican-primary-election-by-less-than-30": {
-    "id": "2159553",
-    "conditionId": "0x2a1176e88fa86b7b6b903bfe5b8635a8564c6f92e69c799a3680223001c6624c",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
-  },
-  "will-vivek-ramaswamy-win-the-ohio-governor-republican-primary-election-by-between-30-and-40": {
-    "id": "2159554",
-    "conditionId": "0x508455447d15ecea2da9dc15ec8dc1e00181951b1847bea285c5fd18e66f7d01",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
-  },
-  "will-vivek-ramaswamy-win-the-ohio-governor-republican-primary-election-by-between-40-and-50": {
-    "id": "2159555",
-    "conditionId": "0x12756add20533436b3db7df2ebf010586ce80baa7f6a028911fbac5bf0beb40a",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
-  },
-  "will-vivek-ramaswamy-win-the-ohio-governor-republican-primary-election-by-between-50-and-60": {
-    "id": "2159556",
-    "conditionId": "0x44abcc1da717c6cf51a8683def9198ed32b3720a5e4810a72cfce9450df940c9",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
-  },
-  "will-vivek-ramaswamy-win-the-ohio-governor-republican-primary-election-by-between-60-and-70": {
-    "id": "2159557",
-    "conditionId": "0xad8613281641da266d7ef864fea2615ad380158efe584a87ee7a7c3f333998fe",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
-  },
-  "will-vivek-ramaswamy-win-the-ohio-governor-republican-primary-election-by-70-or-more": {
-    "id": "2159558",
-    "conditionId": "0x2c40093113e61dd6fb279902194ad7cfe0077275c16f427f814e2706d8f98c12",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
-  },
-  "will-another-outcome-occur-in-the-ohio-governor-republican-primary-election": {
-    "id": "2159559",
-    "conditionId": "0x7d5158e252ad0095defa70effe3abfa177795ba18a150726e61ed305c8a6c17d",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ohio-governor-republican-primary-margin-of-victory",
-    "negRisk": true
   },
   "will-ariana-grande-feature-imogen-heap-on-petal-644": {
     "id": "2159618",
@@ -119612,5 +119522,95 @@
     "acceptingOrders": true,
     "eventSlug": "crint-cyp-fin-2026-05-08-most-sixes",
     "negRisk": true
+  },
+  "crint-cyp-fin-2026-05-08-most-sixes-draw": {
+    "id": "2185307",
+    "conditionId": "0xf6aafe32f0e12fe802925823f5ffeb9ddcf8f96574cbfca20ab91ba8705b9021",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crint-cyp-fin-2026-05-08-most-sixes",
+    "negRisk": true
+  },
+  "crint-cyp-fin-2026-05-08-most-sixes-fin": {
+    "id": "2185308",
+    "conditionId": "0x070fc8fa54b79427bd6e0dacd0fc6a3f962e351e299bcc3ee37bba523843838f",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crint-cyp-fin-2026-05-08-most-sixes",
+    "negRisk": true
+  },
+  "cs2-ence-pre-2026-05-08-game1-odd-even-total-kills": {
+    "id": "2187674",
+    "conditionId": "0x5babb325c5d6f29460e7bf41560e7ee6ed35e1dc7f761b10c02443a3a27c53cf",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-pre-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-ence-pre-2026-05-08-game2-odd-even-total-kills": {
+    "id": "2187676",
+    "conditionId": "0x9d26adca95f7cbead6a4ca76f8c1f4cff23640ec60a4017ff7acf27c3778661b",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-pre-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-ence-pre-2026-05-08-game3-odd-even-total-kills": {
+    "id": "2187678",
+    "conditionId": "0x711109cdd40084e6d71900e9c28fdbe070d110674291409eb17ad6891657b906",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-pre-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-forzer-clutch-2026-05-08-game1-odd-even-total-kills": {
+    "id": "2187834",
+    "conditionId": "0x32e975bab42b596d5e051d6233d33b73ad5750d68fa6bc7e4a5b9aed54714feb",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-clutch-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-forzer-clutch-2026-05-08-game2-odd-even-total-kills": {
+    "id": "2187836",
+    "conditionId": "0x3df2609e1112c7ed05d75c8ae4e59377a38e4f50e6fe04f62a68821a770e12bf",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-clutch-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-forzer-clutch-2026-05-08-game3-odd-even-total-kills": {
+    "id": "2187838",
+    "conditionId": "0x2a5351fbd22e2855991420a2c717ead51506d92a9f9dbd976fe8be2b2d290463",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-clutch-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-inf6-lph-2026-05-08-game1-odd-even-total-kills": {
+    "id": "2187845",
+    "conditionId": "0x0490b40f04dfdbda4be008827bc46223ace8fb859a65734f609af1bf1e0c9d12",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-lph-2026-05-08",
+    "negRisk": false
   }
 }
