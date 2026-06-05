@@ -56691,96 +56691,6 @@
     "eventSlug": "love-wins-2026-edition",
     "negRisk": false
   },
-  "will-the-democratic-party-of-korea-win-0-or-1-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364298",
-    "conditionId": "0xb3dbadc92f3e0b82b3593354644a34855302bd81db1b461bdd8f672d680fa967",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
-    "negRisk": true
-  },
-  "will-the-democratic-party-of-korea-win-2-or-3-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364299",
-    "conditionId": "0xb5155438fa724d0fa1532b28904dc7abe40a8fbf96f166245d72486bad657a78",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
-    "negRisk": true
-  },
-  "will-the-democratic-party-of-korea-win-4-or-5-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364300",
-    "conditionId": "0xe27449d7177762a75c7df4fb7f8a1d5b065810dfd78c169f204e5b5a50966ca3",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
-    "negRisk": true
-  },
-  "will-the-democratic-party-of-korea-win-6-or-7-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364301",
-    "conditionId": "0x778abf3803ad61ee090da64c7947117c09125877dccf4521e41bcc895da0d394",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
-    "negRisk": true
-  },
-  "will-the-democratic-party-of-korea-win-10-or-more-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364303",
-    "conditionId": "0xa2694315da159a18f38a07951f3b3871eadfe501442f3c8a4d623eeff1f6ac50",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-dp-in-south-korea-by-elections-763",
-    "negRisk": true
-  },
-  "will-the-people-power-party-win-0-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364309",
-    "conditionId": "0xbbd317e8a454067562e73089888ee3f059140533daf7ded1c2f353d3073ac1ea",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
-  "will-the-people-power-party-win-3-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364312",
-    "conditionId": "0x2a2bf6aa08817456c5e00d6a77ead798765194084d21b8e4fccef3455f44373e",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
-  "will-the-people-power-party-win-5-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364314",
-    "conditionId": "0xf6035c7ca415e442d3811b06604f8572841ff47e43ff168faee71d8fb156a26d",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
-  "will-the-people-power-party-win-6-or-more-seats-in-south-koreas-june-3-2026-parliamentary-by-elections": {
-    "id": "1364315",
-    "conditionId": "0x4d05ab81666e501f7e0eb4c423b5d04e294bce0dc91db402b6e06039a9238533",
-    "endDate": "2026-06-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-ppp-in-south-korea-by-elections",
-    "negRisk": true
-  },
   "will-tarcisio-de-freitas-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "id": "1365853",
     "conditionId": "0xfe963a6028277fed1de25b6ca8f640bc7c028e4ef0d0e4f4ff4f5daf5f9ae824",
@@ -66697,16 +66607,6 @@
     "eventSlug": "which-2026-movies-will-make-it-into-the-imdb-top-250",
     "negRisk": false
   },
-  "will-tyler1-shave-his-head-before-june-1-2026": {
-    "id": "1553199",
-    "conditionId": "0xaa79a562222e78ee57dcdc72f270e78e59ecee7729cc5190bc6b19b3c0e0e2b2",
-    "endDate": "2026-06-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-tyler1-shave-his-head-before-june-1-2026",
-    "negRisk": false
-  },
   "save-act-becomes-law-by-december-31-2026-347": {
     "id": "1553248",
     "conditionId": "0x2bcd1ba3fe74acf827cbccaeefe74214b0cf288faad8aa9654db7525ddeca61b",
@@ -69865,16 +69765,6 @@
     "eventSlug": "turkish-constitutional-referendum-announced-in-2026-264",
     "negRisk": false
   },
-  "will-the-super-mario-galaxy-movie-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717911",
-    "conditionId": "0xc31a2b8108095d44b03f070d8b473460988faff601b94e0ee3d7d832de253a29",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
   "will-mother-mary-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
     "id": "1717912",
     "conditionId": "0x264dde20ff3f1e330c069a73fcc52ce93f0b2d05b23ca9664d2bdd594a625b8d",
@@ -69905,29 +69795,9 @@
     "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
     "negRisk": true
   },
-  "will-you-me-tuscany-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717915",
-    "conditionId": "0x0bdf0c8c103d2251e6aa4b39991ef5d6a453b2a496362e6cd40a26d820551449",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
   "will-the-whistler-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
     "id": "1717916",
     "conditionId": "0xc39b846e59520e7b68133fe1bc5deb845109087bc07e1e78edc763a4dc08150f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "highest-domestically-grossing-april-film-on-may-31",
-    "negRisk": true
-  },
-  "will-lorne-be-the-april-film-with-the-highest-domestic-gross-on-may-31": {
-    "id": "1717917",
-    "conditionId": "0xa8c9226abcc0064312d0a1a27a59b130bea025ee732f870d7a5fc9ef3ba36162",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -119611,6 +119481,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-100m-committed-to-the-align-public-sale": {
+    "id": "2175756",
+    "conditionId": "0x2151ab7312f4ad8fd29cd687008acc2dda66a2e13af25468be695faceff232d7",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-200m-committed-to-the-align-public-sale": {
+    "id": "2175757",
+    "conditionId": "0x45903311ef64c28a3035354b8d36dd6e8ea7eb1807b4fb62d5ac71254e1c792e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-300m-committed-to-the-align-public-sale": {
+    "id": "2175758",
+    "conditionId": "0xca30824f9a0fa8fbac0d712328ced64b6946dd30be792432db9dfb0033215261",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "over-500m-committed-to-the-align-public-sale": {
+    "id": "2175759",
+    "conditionId": "0x4b7880948ff45a13730b4caa7f5ec1ab40ae3c85a253f295b7d68449d73adfa7",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "align-public-sale-total-commitments",
+    "negRisk": false
+  },
+  "strait-of-hormuz-traffic-returns-to-normal-by-july-31": {
+    "id": "2176262",
+    "conditionId": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "negRisk": false
+  },
+  "strait-of-hormuz-traffic-returns-to-normal-by-december-31": {
+    "id": "2176270",
+    "conditionId": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "negRisk": false
+  },
+  "cs2-imp11-alz-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2179919",
+    "conditionId": "0xc7ed3fd2ab8ea4eb1e744548cfd827e679c463649bab701d170ccc840d2330fc",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-imp11-alz-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-ldp-alkaa-2026-05-07-game1-odd-even-total-kills": {
+    "id": "2180574",
+    "conditionId": "0x617cfb093b92b8064f8782080b3ed340de18c9393fc8010c5752bdb1e346104c",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ldp-alkaa-2026-05-07",
+    "negRisk": false
+  },
+  "cs2-ldp-alkaa-2026-05-07-game2-odd-even-total-kills": {
+    "id": "2180577",
+    "conditionId": "0x8649edba29877ea3c520f0b45c1a0d26e93581d0ba22cac5fb4f68cdcfc40a25",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ldp-alkaa-2026-05-07",
+    "negRisk": false
+  },
+  "hantavirus-outbreak-by-june-30": {
+    "id": "2182239",
+    "conditionId": "0x57c9a5817bc945d71686ed859417a1d26bd63f0e416f8b21156fa1c87f05f77a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "hantavirus-outbreak-by-june-30",
+    "negRisk": false
+  },
+  "hantavirus-lab-leak-confirmed-by-june-30-1": {
+    "id": "2183313",
+    "conditionId": "0x4cd71e7b8c5c3f7cd1fc025002b2982aae1e5f70a65bf1faaae121299127537b",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "hantavirus-lab-leak-confirmed-by-june-30-1",
+    "negRisk": false
+  },
+  "us-obtains-iranian-enriched-uranium-by-june-30": {
+    "id": "2183424",
+    "conditionId": "0xc112ff35c760ee66738e288067c3de90a2b44a28a9e2f4488989d498be03b292",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "us-obtains-iranian-enriched-uranium-by",
+    "negRisk": false
+  },
+  "will-kylian-mbappe-leave-real-madrid-before-august-31": {
+    "id": "2183578",
+    "conditionId": "0xa00c54100fa6e1e7883f6aa926362ab25412031108cbc60c109d7c89e8472d97",
+    "endDate": "2026-08-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-kylian-mbappe-leave-real-madrid-before-august-31",
     "negRisk": false
   }
 }
