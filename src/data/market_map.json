@@ -9939,16 +9939,6 @@
     "eventSlug": "which-artists-will-release-a-new-song-in-2026",
     "negRisk": false
   },
-  "will-taylor-swift-release-a-new-song-in-2026": {
-    "id": "677006",
-    "conditionId": "0x39735fe1c56e0ce30bddd9622ff58d55454a1413814dedd5a87901b7fdd59e1e",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-release-a-new-song-in-2026",
-    "negRisk": false
-  },
   "will-the-10-year-treasury-yield-hit-4pt8-before-2027-692-434": {
     "id": "677023",
     "conditionId": "0x06666ece9c22b1b22e19462794328d3846de26e7ca9d9f824eedb1fc9cb6b1a5",
@@ -67057,156 +67047,6 @@
     "eventSlug": "cs2-c0ki-r2-2026-03-12",
     "negRisk": false
   },
-  "will-the-slovenian-democratic-party-sds-be-part-of-the-next-government-of-slovenia-311": {
-    "id": "1568242",
-    "conditionId": "0xd7713592ea6b082909b781cec004fb8081e335ceb54c16328ab0de5e95bd25af",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-freedom-movement-gs-be-part-of-the-next-government-of-slovenia-786": {
-    "id": "1568243",
-    "conditionId": "0xd1cf62a9c61a51b2c1eb1959d17fe8c8970e31958559c150de7ad242b9554ef8",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-social-democrats-sd-be-part-of-the-next-government-of-slovenia-836": {
-    "id": "1568244",
-    "conditionId": "0x7d88881c817fddfd8a3605e4a496b901ec9f94e3938399a0957aadaa890fe29a",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-democrats-d-be-part-of-the-next-government-of-slovenia-848": {
-    "id": "1568245",
-    "conditionId": "0x883071589ea4b08809b303dd974bff410f5bf0a2002941678001ca7996c23513",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-new-slovenia-christian-democrats-nsi-be-part-of-the-next-government-of-slovenia-633": {
-    "id": "1568246",
-    "conditionId": "0x8a1b19d55089b910bb4cf90d8ef6b77a1f43d4f62282788af35c0245dfdfb823",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-left-levica-be-part-of-the-next-government-of-slovenia-424": {
-    "id": "1568247",
-    "conditionId": "0xfc9d03a593a990fec01bf827af7234d9c02133a0b6968eae12ca78f4ba5f8de7",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-resnica-res-be-part-of-the-next-government-of-slovenia-399": {
-    "id": "1568249",
-    "conditionId": "0x13868b2e3652b3d226fa431be9aef48f1fe4ab34d6aad850eedaa337d15faf81",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-mi-socialisti-mi-be-part-of-the-next-government-of-slovenia-663": {
-    "id": "1568250",
-    "conditionId": "0xc9583d7d220d1bed279aa8a2f51bbb66acd4ac221ca292d3bb27a7f6f6b53bba",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-vesna-green-party-vesna-be-part-of-the-next-government-of-slovenia-611": {
-    "id": "1568251",
-    "conditionId": "0xdb2980522a8c7d374343f2e1c23be060d8c8c6379c04c87829984ee414fc4f64",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-slovenian-national-party-sns-be-part-of-the-next-government-of-slovenia-731": {
-    "id": "1568252",
-    "conditionId": "0xcfa24a13fd67e4c6bce13ce092726ab923ada6760121b9cbf1549830a2e58ab5",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-pirate-party-of-slovenia-pps-be-part-of-the-next-government-of-slovenia-898": {
-    "id": "1568253",
-    "conditionId": "0x242cfa13ed5e551ab70184842aabbdb2d6cf33028ec4f841bd92dc74d69e5d97",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-slovenian-peoples-party-sls-be-part-of-the-next-government-of-slovenia-592": {
-    "id": "1568254",
-    "conditionId": "0x635b39b06348f41eff8424d738c1e8d03b0235537e6545ba22894a38c9e8105a",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-the-party-of-generations-sg-be-part-of-the-next-government-of-slovenia-488": {
-    "id": "1568255",
-    "conditionId": "0x0e175202ca4cae08fdb211732410c06b1fe3dfecb963fa14eae27b88567a88c5",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-our-country-nd-be-part-of-the-next-government-of-slovenia-441": {
-    "id": "1568256",
-    "conditionId": "0x476d84b6afdab1c7ed3401b06219ab5da9f4f45cb8c310c1be83f50938beba7d",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
-  "will-prerod-party-of-vladimir-prebili-pvp-be-part-of-the-next-government-of-slovenia-433": {
-    "id": "1568257",
-    "conditionId": "0x33dec7b405f94cd17ce5de5e635eaaaa4f71d91047dc59749035f3dbe777aa6b",
-    "endDate": "2026-03-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
-    "negRisk": false
-  },
   "turkish-constitutional-referendum-announced-in-2026": {
     "id": "1568292",
     "conditionId": "0xc603114befb64da84bdcc39ee71c0d3a5763bc5b5daad9d447a81a869ce4a4f5",
@@ -77092,16 +76932,6 @@
     "eventSlug": "2026-basketball-germany-bbl-winner",
     "negRisk": true
   },
-  "2026-basketball-germany-bbl-winner-telekom-baskets-bonn": {
-    "id": "1834168",
-    "conditionId": "0xf29260f64f5145a2a72e31dadc3777ece88745b2a8d6330186b97fb63121108d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-endesa-winner-fc-barcelona": {
     "id": "1834178",
     "conditionId": "0xc0a906a04e7538c3c936e116798eaa51d49eb8c7f59cb3d477955a23bbf1392e",
@@ -77202,26 +77032,6 @@
     "eventSlug": "2026-basketball-vtb-united-league-winner",
     "negRisk": true
   },
-  "2026-basketball-serie-a-winner-aquila-basket-trento": {
-    "id": "1834206",
-    "conditionId": "0x183248262047ad5da782d88d1c9eefcf6ba080f6f375b3ad3d057e2c6bce7b33",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-serie-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-serie-a-winner-tortona": {
-    "id": "1834207",
-    "conditionId": "0x966d98bbd90b764870b5a302b77434539d055bd93b7ea3c48d9caf55006e4891",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-serie-a-winner",
-    "negRisk": true
-  },
   "2026-basketball-serie-a-winner-olimpia-milano": {
     "id": "1834209",
     "conditionId": "0x1d98c02c55a2da32002cbaccfa3b06db2d3c89b06d2389bebac33211af49f568",
@@ -77235,26 +77045,6 @@
   "2026-basketball-serie-a-winner-germani-brescia": {
     "id": "1834210",
     "conditionId": "0xac46d7613b1ebcf425830ee35477dad994f68113ab594719b65cbc0092436cb0",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-serie-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-serie-a-winner-pallacanestro-reggiana": {
-    "id": "1834216",
-    "conditionId": "0xc6032a3957da000049d53559517f607fbd65b20b4b73deee3e06bed9ebb79619",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-serie-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-serie-a-winner-pallacanestro-trieste": {
-    "id": "1834217",
-    "conditionId": "0x8dadf30ca76d92b3f92a0f24f21ffc777aa6822cf6514cfeac358de410bb6c53",
     "endDate": "2026-12-20",
     "closed": false,
     "active": true,
@@ -81730,16 +81520,6 @@
     "eventSlug": "lol-lcp-2026-split-2-winner",
     "negRisk": true
   },
-  "will-mvk-esports-win-lcp-2026-split-2": {
-    "id": "1901176",
-    "conditionId": "0x098a6f8b6f614a7be2554347005e9f5a47d5a55ad1a32dee7107f458cd93ca40",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcp-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-deep-cross-gaming-win-lcp-2026-split-2": {
     "id": "1901177",
     "conditionId": "0xbfdf6a919bdf2c5538b7e30f19307ad0a8bb416862d55619a6f4c6b7bf1998ab",
@@ -82003,16 +81783,6 @@
   "will-team-we-win-lpl-2026-split-2": {
     "id": "1901259",
     "conditionId": "0x6dd82fd9ac84082a0dce524d8e5dd7c4ee8cdd5e1d2418c6b04895977361ccd5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-lgd-gaming-win-lpl-2026-split-2": {
-    "id": "1901264",
-    "conditionId": "0xfc3f825b9f6f4506a842ec71711d73030a3cbed8200b81dd8ba8d56db5512a4d",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -119612,5 +119382,235 @@
     "acceptingOrders": true,
     "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
     "negRisk": false
+  },
+  "will-juul-relaunch-mint-flavor-by-2027": {
+    "id": "2184332",
+    "conditionId": "0xda847aee59051c2942790f25d540e23692ba021d759c246e0aba96b65a397ea8",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
+    "negRisk": false
+  },
+  "will-juul-relaunch-cucumber-flavor-by-2027-811": {
+    "id": "2184334",
+    "conditionId": "0xc0b39e18c76046ab6b2c1db70876f1c071794c7db14fb4f6e56c86b7965ef492",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
+    "negRisk": false
+  },
+  "will-juul-relaunch-fruit-medley-flavor-by-2027-689": {
+    "id": "2184335",
+    "conditionId": "0x69f99fc2a8f1149845b4887fc92e77c06df91c5ff5e968bc06c563666adc59bc",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
+    "negRisk": false
+  },
+  "will-juul-relaunch-crme-brle-flavor-by-2027-466": {
+    "id": "2184336",
+    "conditionId": "0x191bfd68961e57c30ffe5b21c9ec7f35b6ba1bc22885057959fdf8a1ac359dd7",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game1-both-teams-slay-baron": {
+    "id": "2185019",
+    "conditionId": "0xceccc95240d719e0d2be1c3590e036b843995d5814a41286620eed8fbc277fc3",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game1-both-teams-slay-dragon": {
+    "id": "2185020",
+    "conditionId": "0x73e25f7165ad0341a34d5e1a0385966ad39360ddd018803936110adeda212680",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game1-both-teams-destroy-inhibitors": {
+    "id": "2185021",
+    "conditionId": "0x8f06453e7aeb5a14a033e6d49250c98c5687064f9f9fb3ffbce2fdb76c935441",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game1-any-player-quadra-kill": {
+    "id": "2185022",
+    "conditionId": "0x6e77fbaaef0733d8d9c6da90e8a33027514546b1c4988bb4299a08c1f3a6fa90",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game1-any-player-penta-kill": {
+    "id": "2185023",
+    "conditionId": "0x3e7e71a288507c8f1937017bcb6e29b924919554de37ef114fc4fa52fcecc959",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2185024",
+    "conditionId": "0x4e8298311e0d320f023605d911e261bc3da968331cc25b27d3a7a36ef55ad455",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game2-both-teams-slay-baron": {
+    "id": "2185025",
+    "conditionId": "0x97bd89ddaa9afc364ecfe74837a8603b149be6f6f905a14cd86664445e2be471",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game2-both-teams-slay-dragon": {
+    "id": "2185026",
+    "conditionId": "0x32b6acc81ec65b635a977411409647395e462423ff09f7985802e0cfe24eb1b8",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game2-both-teams-destroy-inhibitors": {
+    "id": "2185027",
+    "conditionId": "0xd3b6d0b14c86041cd49619bdfa09d8e61d66b96fdad16d8a38a5271f6c3e83d7",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game2-any-player-quadra-kill": {
+    "id": "2185028",
+    "conditionId": "0xb385ef8f849cc0bf27ae72da4546c6456ddb572b4df242a71885316c655c14aa",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game2-any-player-penta-kill": {
+    "id": "2185029",
+    "conditionId": "0x65f5a17d94c432d7faddffd0eebb790c60deeb0df1181b4a55b3a0fb8d9ecd5a",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2185030",
+    "conditionId": "0xa5ff675a1735d2beb3aa7304a18e52a3b3929f6d1639a4a5582d6b37ead53662",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game3-both-teams-slay-baron": {
+    "id": "2185031",
+    "conditionId": "0x54d22af5602af39c334f05e8e3a649aab36a6bdc369e8b0bd7f7e3a78e394fd2",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game3-both-teams-slay-dragon": {
+    "id": "2185032",
+    "conditionId": "0x816f62520d2a0a9480b58b5ec1cedb8d037a4da425bffdc02235421f8b521601",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game3-both-teams-destroy-inhibitors": {
+    "id": "2185033",
+    "conditionId": "0x120b690e44d25f60d7ded35e3e15fb2040b7794f89ba1945ec03e58f60af2225",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game3-any-player-quadra-kill": {
+    "id": "2185034",
+    "conditionId": "0x3a8c745bd075c6ed44fee41d822002f7c34d04f82243b670d70afda95ffc7553",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game3-any-player-penta-kill": {
+    "id": "2185035",
+    "conditionId": "0x5cc47cc2a30fbf717e2e5785fa06d95674ed11e1e659e760ca0ff6e73cf4b9a1",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "lol-tsw-shg-2026-05-14-game3-odd-even-total-kills": {
+    "id": "2185036",
+    "conditionId": "0x4b7f064a5667df1d50ab72eef3a3d40d657e5c2a21c77dc71e611eecc3efd363",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-tsw-shg-2026-05-14",
+    "negRisk": false
+  },
+  "crint-cyp-fin-2026-05-08-toss-match-double-cyp": {
+    "id": "2185303",
+    "conditionId": "0x717265244399f0df9456b7184a96745202bbedcf1dfdd1058ced7906ed641bf8",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crint-cyp-fin-2026-05-08-toss-match-double",
+    "negRisk": true
   }
 }
