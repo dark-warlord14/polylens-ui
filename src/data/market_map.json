@@ -76782,16 +76782,6 @@
     "eventSlug": "2026-basketball-cba-winner",
     "negRisk": true
   },
-  "2026-basketball-cba-winner-zhejiang-guangsha-lions": {
-    "id": "1833963",
-    "conditionId": "0x187e214cb429a34574f80432147c80399f556b97899e0b7dab83fd111133ae23",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-cba-winner",
-    "negRisk": true
-  },
   "2026-hockey-american-hockey-league-winner-chicago-wolves": {
     "id": "1834045",
     "conditionId": "0x8563ed56efbb24acc5efdc00ba79e88e8019af7ce602994a78a581dcfced137c",
@@ -78583,16 +78573,6 @@
   "will-tyloo-win-iem-cologne-major-2026": {
     "id": "1892293",
     "conditionId": "0xed6cf53c75f8a1967e307cd568093a46d93c7045c2f2842c08d7e4c566e4ff28",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-lynn-vision-win-iem-cologne-major-2026": {
-    "id": "1892294",
-    "conditionId": "0xc8b5bacf5b747337800902d8720aa293d312221bdc2f3cb81dd3232cc38505f2",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -82702,16 +82682,6 @@
   "will-flavio-cobolli-win-the-2026-roland-garros-mens-singles": {
     "id": "1920468",
     "conditionId": "0xc8eed8269df43fe1b6b4383c5d78ec8d24c39d2206a772510f9810bf92a81ef5",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-jakub-mensik-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920477",
-    "conditionId": "0xe4f49574892f75204ff919eacb8bb2bb97b7b6993424ac3aefc47a952081417c",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -119611,6 +119581,36 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "crint-cyp-fin-2026-05-08-toss-match-double",
+    "negRisk": true
+  },
+  "crint-cyp-fin-2026-05-08-toss-match-double-draw": {
+    "id": "2185304",
+    "conditionId": "0xb032d40d7e431dca11db8e984aaaf35aae1058a9fd9b4361d6cbf9aa20b4c857",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crint-cyp-fin-2026-05-08-toss-match-double",
+    "negRisk": true
+  },
+  "crint-cyp-fin-2026-05-08-toss-match-double-fin": {
+    "id": "2185305",
+    "conditionId": "0xf47c252ae0fcee45c97293c581ee26d5c42ce4b6c04c72c28a81feb4de869ad2",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crint-cyp-fin-2026-05-08-toss-match-double",
+    "negRisk": true
+  },
+  "crint-cyp-fin-2026-05-08-most-sixes-cyp": {
+    "id": "2185306",
+    "conditionId": "0xc79f842c2a0570a2a5689479e1de101d486a131bd9525fd182b581ad750b19ea",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "crint-cyp-fin-2026-05-08-most-sixes",
     "negRisk": true
   }
 }
