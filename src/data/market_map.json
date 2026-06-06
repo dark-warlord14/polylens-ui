@@ -18608,16 +18608,6 @@
     "eventSlug": "which-states-will-donald-trump-visit-in-2026",
     "negRisk": false
   },
-  "will-donald-trump-visit-wisconsin-in-2026": {
-    "id": "734905",
-    "conditionId": "0xeb1b76a27fa9de2ac42b8abe0c564ea0766cf47b95c5d522bc760e4a50e11ef6",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-states-will-donald-trump-visit-in-2026",
-    "negRisk": false
-  },
   "will-donald-trump-visit-wyoming-in-2026": {
     "id": "734906",
     "conditionId": "0x8100a2b1c285f4e567a7db182384f5040ea8a072f88897e8d79c525d66f23dac",
@@ -20057,16 +20047,6 @@
   "will-ethan-agarwal-get-the-first-or-second-most-votes-in-the-2026-california-governor-primary-election": {
     "id": "825442",
     "conditionId": "0x1b31de84b5471ef51c92c27bfe7bc27ba07bd7d0dec6429ecabeb7c9506fe9bb",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-advance-from-the-california-governor-primary",
-    "negRisk": false
-  },
-  "will-xavier-becerra-get-the-first-or-second-most-votes-in-the-2026-california-governor-primary-election": {
-    "id": "825443",
-    "conditionId": "0x50b747a9e8efa400cc053169e43347516b932aaf7b526bdcc8eca7b2b5ddb8a1",
     "endDate": "2026-06-02",
     "closed": false,
     "active": true,
@@ -77042,16 +77022,6 @@
     "eventSlug": "2026-basketball-serie-a-winner",
     "negRisk": true
   },
-  "2026-basketball-serie-a-winner-germani-brescia": {
-    "id": "1834210",
-    "conditionId": "0xac46d7613b1ebcf425830ee35477dad994f68113ab594719b65cbc0092436cb0",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-serie-a-winner",
-    "negRisk": true
-  },
   "2026-basketball-serie-a-winner-umana-reyer-venezia": {
     "id": "1834220",
     "conditionId": "0xac783d87e65bdaa488812e758501eed32e7252f1f16baa3b4b6ebc1a30e7bd23",
@@ -78543,16 +78513,6 @@
   "will-m80-win-iem-cologne-major-2026": {
     "id": "1892287",
     "conditionId": "0x824c710d20c3f83c4078e6c834d659489233e3fb8772d215071ee3f0ac8f4d34",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-nrg-win-iem-cologne-major-2026": {
-    "id": "1892288",
-    "conditionId": "0xf5e41ab84b0c79d73ca4698a3d60a578fd4fa077b9b091f9f5ac2c2053e6b601",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -81700,16 +81660,6 @@
     "eventSlug": "lol-lck-cl-2026-winner",
     "negRisk": true
   },
-  "will-conviction-win-nacl-2026-spring": {
-    "id": "1901240",
-    "conditionId": "0x923b26c2278745c88030e3459209dc0cfaf8d53c2380e20ffa35de7d000413fe",
-    "endDate": "2026-06-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-nacl-2026-spring-winner",
-    "negRisk": true
-  },
   "will-bilibili-gaming-win-lpl-2026-split-2": {
     "id": "1901248",
     "conditionId": "0xcbf2e173d92a989f9abba89988417b08d37711c0e9c9ae699a64ec4a2b91d416",
@@ -81728,16 +81678,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-ccg-esports-win-nacl-2026-spring": {
-    "id": "1901251",
-    "conditionId": "0x9b98d0273ca4d1d3c7e5ea4b640e06ef2a68ad6da3be0cbd218f29c8ff6f8137",
-    "endDate": "2026-06-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-nacl-2026-spring-winner",
     "negRisk": true
   },
   "will-anyones-legend-win-lpl-2026-split-2": {
@@ -119611,6 +119551,66 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-inf6-lph-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-inf6-lph-2026-05-08-game2-odd-even-total-kills": {
+    "id": "2187847",
+    "conditionId": "0xb13e18289ed420a952c9923861e427cc1c267f868fedac65fdc16a174a6ca217",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-lph-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-inf6-lph-2026-05-08-game3-odd-even-total-kills": {
+    "id": "2187849",
+    "conditionId": "0x06396a960e91f3f5bffe031d27deb979d96bc4e8b4571847b12ccb5e80c34886",
+    "endDate": "2026-05-08",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-lph-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-efa-par3-2026-05-08-game1-odd-even-total-kills": {
+    "id": "2187856",
+    "conditionId": "0x5dc9fbedaac8c048f91cf106ae32b1952bec22a6b3b0bc1905901d5116e55df5",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-par3-2026-05-08",
+    "negRisk": false
+  },
+  "cs2-efa-par3-2026-05-08-game2-odd-even-total-kills": {
+    "id": "2187858",
+    "conditionId": "0x4fefbd5cc9ba0cc0eedef8521c6063ac4984e4f884e1dacbc0382227ac69efa4",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-par3-2026-05-08",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-20m-one-day-after-launch": {
+    "id": "2189813",
+    "conditionId": "0xd00db06d08f7aab4576e77387a073f6c12c01c730f9fca953d4adf18170220b3",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-50m-one-day-after-launch": {
+    "id": "2189814",
+    "conditionId": "0x0c1a200fb856464af5f01080e3d4b15808e7827f79e2f8c6645015548b7f94d5",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
     "negRisk": false
   }
 }
