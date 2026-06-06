@@ -6882,36 +6882,6 @@
     "eventSlug": "nhl-2025-26-hart-memorial-trophy",
     "negRisk": true
   },
-  "nhl-2025-26-vezina-trophy-andrei-vasilevskiy": {
-    "id": "645803",
-    "conditionId": "0x06d5dcfb8bd0d9c52c262d8a098bb6dbdb08cb5f7722ac3e41e0030971157ab7",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-vezina-trophy",
-    "negRisk": true
-  },
-  "nhl-2025-26-vezina-trophy-ilya-sorokin": {
-    "id": "645806",
-    "conditionId": "0x53f5957885fd35f4f5e6c57ca31f8848bfe3a79869bb4300f03f15bd4716e871",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-vezina-trophy",
-    "negRisk": true
-  },
-  "nhl-2025-26-vezina-trophy-jeremy-swayman": {
-    "id": "645812",
-    "conditionId": "0x6b9c0d842abd2004f59b03c93b566123ee4b6a81d940cf2c6d268e4fa9c37a8b",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2025-26-vezina-trophy",
-    "negRisk": true
-  },
   "billionaire-one-time-wealth-tax-on-california-ballot": {
     "id": "648378",
     "conditionId": "0x04f1a10e79a106d18dc45e6087f0757456197ec5c6ffec2506cd066e8215fc62",
@@ -32659,29 +32629,9 @@
     "eventSlug": "2026-mens-french-open-winner",
     "negRisk": true
   },
-  "will-mirra-andreeva-win-the-2026-womens-french-open": {
-    "id": "1087762",
-    "conditionId": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-maya-joint-win-the-2026-womens-french-open": {
     "id": "1087805",
     "conditionId": "0xe2b3ababbaa7e71894b0496be696a23b7375e31e54fdd11fa355c94c47dda852",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
-  "will-maja-chwaliska-win-the-2026-womens-french-open": {
-    "id": "1087807",
-    "conditionId": "0x953eb1580adcc167a330f911576bba0ea7291fbbae099cc39817ff4d6288ac0c",
     "endDate": "2026-06-06",
     "closed": false,
     "active": true,
@@ -112779,29 +112729,9 @@
     "eventSlug": "united-rugby-championship-winner",
     "negRisk": true
   },
-  "will-glasgow-warriors-win-the-2026-united-rugby-championship-grand-final": {
-    "id": "2134635",
-    "conditionId": "0x6971dec16c5398d52d0c68ade844ab0570c071b8f325821204cfeaa34f5a1f20",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "united-rugby-championship-winner",
-    "negRisk": true
-  },
   "will-bulls-win-the-2026-united-rugby-championship-grand-final": {
     "id": "2134636",
     "conditionId": "0x0926558f39a70f1c50345d9f772341421b6c91f372c96f0d6222e97848a1e99d",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "united-rugby-championship-winner",
-    "negRisk": true
-  },
-  "will-stormers-win-the-2026-united-rugby-championship-grand-final": {
-    "id": "2134639",
-    "conditionId": "0x0779c4ac9e35ad20834657f3e6d3cba271e926238507f40f600207ea9f453a73",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -112922,16 +112852,6 @@
   "will-northampton-saints-win-the-2026-english-premiership-rugby-final": {
     "id": "2134692",
     "conditionId": "0xf0e59059347942a2de1877abb8b9b0999c4f7f4ea318c27b7dae99a988472a3a",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "premiership-rugby-winner",
-    "negRisk": true
-  },
-  "will-saracens-win-the-2026-english-premiership-rugby-final": {
-    "id": "2134694",
-    "conditionId": "0x7c5abc80060d47fc665d74044faabd3bc14caa0bf371d414725ef3d3d3aeaffa",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -119606,6 +119526,86 @@
   "bol1-gvs-tom-2026-05-12-exact-score-0-1": {
     "id": "2193933",
     "conditionId": "0x65609399c1165f41630734446534cf3960e0f5536ba3cf4754c3e3a06ead9d05",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-1-0": {
+    "id": "2193939",
+    "conditionId": "0xc9520459fd6f789513e55058ea4e38339d73b4b4ae6da766086f9d05823c00e5",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-0-2": {
+    "id": "2193945",
+    "conditionId": "0xb5758b21940f59e9d1ba300091824f1315727b8f56655d2d18092f87d638e0bc",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-1-1": {
+    "id": "2193951",
+    "conditionId": "0x58632ee99624d470bacfd0ed70cc60d2b82dff97d70a8ffdf31368afb3c2fbae",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-2-0": {
+    "id": "2193957",
+    "conditionId": "0xd051ac88fba7b54ad631766b740c8538ebd55d08fded8629c4f49eb0f9b24556",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-0-3": {
+    "id": "2193963",
+    "conditionId": "0x1fb12199174cccbdfe21e34534e2366275463a74c5aac007aab69aba6eb1c2a9",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-1-2": {
+    "id": "2193969",
+    "conditionId": "0xc554ac2d6ec9548181fe39263395ee6153fb7976feb54c96c3d4f46deeabab2f",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-2-1": {
+    "id": "2193974",
+    "conditionId": "0xa791c8c84f09eaa9ce65e7aa904bc322b01c3730170e571fcb9034e735380ccc",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-3-0": {
+    "id": "2193979",
+    "conditionId": "0xa36bc889e536d4daf0edf256639f7f9a2fc2b7a64d59813576a939b11d7ce181",
     "endDate": "2026-05-12",
     "closed": false,
     "active": true,
