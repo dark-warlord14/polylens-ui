@@ -61191,16 +61191,6 @@
     "eventSlug": "kash-patel-out-by",
     "negRisk": false
   },
-  "will-antony-record-the-most-goal-contributions-in-the-2025-26-uefa-europa-league": {
-    "id": "1420689",
-    "conditionId": "0x6c5cee142d566f2949dc172395468cfc233fa5c6786978abda5345ae8819a488",
-    "endDate": "2026-05-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "uefa-europa-league-most-goal-contributions",
-    "negRisk": true
-  },
   "nor-bog-ham-2026-03-22-bog": {
     "id": "1421001",
     "conditionId": "0xe603ca52476e24561db2298a00a84b2a981501b413706a1d80164e0ad46d6344",
@@ -89549,76 +89539,6 @@
     "eventSlug": "cs2-haven-nic1-2026-04-16",
     "negRisk": false
   },
-  "andalusia-election-pp-absolute-majority": {
-    "id": "2000971",
-    "conditionId": "0x130449ae748ecf778368b976b759ec96bf4fd86c88732fe3a488d05819ef81b8",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-absolute-majority",
-    "negRisk": false
-  },
-  "will-partido-popular-pp-win-fewer-than-50-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001016",
-    "conditionId": "0x61992a9b6173bc6d0aa287ad5ab3ec4bffcc7165813f40663045e11ab2f81513",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-of-seats",
-    "negRisk": true
-  },
-  "will-partido-popular-pp-win-50-52-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001017",
-    "conditionId": "0x9bf43a567a4b91a70faa1633ef773ca43ef6a7714d04c3ff56c47625ac5d3961",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-of-seats",
-    "negRisk": true
-  },
-  "will-partido-popular-pp-win-53-55-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001018",
-    "conditionId": "0x5a6e757c5917a519ae5a05d37cc9b4c7e9c59149ec1d9ba1b01900d31b5f4631",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-of-seats",
-    "negRisk": true
-  },
-  "will-partido-popular-pp-win-56-58-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001019",
-    "conditionId": "0x08927f9481670a909c3bcf0543894c1bf95469284c73f2cf04394977a5008651",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-of-seats",
-    "negRisk": true
-  },
-  "will-partido-popular-pp-win-59-61-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001020",
-    "conditionId": "0x75da46d6f9d1f94e057577f918f7eff5c8524b22f9cf37df55951a665ef122bb",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-of-seats",
-    "negRisk": true
-  },
-  "will-partido-popular-pp-win-62-or-more-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001021",
-    "conditionId": "0x6b4f90cc400209d7162f98c8eedf9bbd8dd483338d095e095a5cad00896ce577",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-pp-of-seats",
-    "negRisk": true
-  },
   "will-gold-gc-hit-low-4300-by-end-of-june-786-418-284-459-592-615-611-319-993-231-689-345": {
     "id": "2001188",
     "conditionId": "0x29a63e3c3163446dfe747e94e41109b5f4061f708e6ac91cd3c715649bf7b76c",
@@ -89628,66 +89548,6 @@
     "acceptingOrders": true,
     "eventSlug": "gc-hit-jun-2026",
     "negRisk": false
-  },
-  "will-partido-socialista-obrero-espaol-de-andaluca-psoe-a-win-fewer-than-21-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001206",
-    "conditionId": "0x467a3369c15a9cdec370125fb1458e9213d3019bdd12caa92d34853a3f194ef9",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-psoe-a-of-seats",
-    "negRisk": true
-  },
-  "will-partido-socialista-obrero-espaol-de-andaluca-psoe-a-win-21-23-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001207",
-    "conditionId": "0x5fac8b3251fcff20b18b6789b5904002d6c924cce0e849709cecb9ad3083b4f6",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-psoe-a-of-seats",
-    "negRisk": true
-  },
-  "will-partido-socialista-obrero-espaol-de-andaluca-psoe-a-win-24-26-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001208",
-    "conditionId": "0x23abb31f7161a3cb469d42bfbc272a106e91e1ff2ee5608fb220444d83f53d7f",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-psoe-a-of-seats",
-    "negRisk": true
-  },
-  "will-partido-socialista-obrero-espaol-de-andaluca-psoe-a-win-27-29-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001209",
-    "conditionId": "0x736d165b46bc5c5f2cece071abe5b13cd527d7d069b4f99cbdcc46278c592970",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-psoe-a-of-seats",
-    "negRisk": true
-  },
-  "will-partido-socialista-obrero-espaol-de-andaluca-psoe-a-win-30-32-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001210",
-    "conditionId": "0x3e78b7b307e24173f6ed50911ddc06a26683c8b5f98ff4bbe85dc814f47d0e2f",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-psoe-a-of-seats",
-    "negRisk": true
-  },
-  "will-partido-socialista-obrero-espaol-de-andaluca-psoe-a-win-33-or-more-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001211",
-    "conditionId": "0xda78cde57ea255309c31096f36969e45cb64e55dc02582b538aa5561c61aff15",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-election-psoe-a-of-seats",
-    "negRisk": true
   },
   "will-gold-gc-hit-high-4900-by-end-of-june": {
     "id": "2001214",
@@ -89738,56 +89598,6 @@
     "acceptingOrders": true,
     "eventSlug": "gc-hit-jun-2026",
     "negRisk": false
-  },
-  "will-vox-vox-win-fewer-than-13-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001249",
-    "conditionId": "0x3fd39d9e8d8abb18f538dd38d46b29a4b4178b6c8d21ee47ba72ae32ef56f4fb",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-regional-election-vox-of-seats",
-    "negRisk": true
-  },
-  "will-vox-vox-win-13-15-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001250",
-    "conditionId": "0x1a81cdb21cbee0811e170bde83cf3902d75aa398404e29e15f455f59f0f89a85",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-regional-election-vox-of-seats",
-    "negRisk": true
-  },
-  "will-vox-vox-win-16-18-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001251",
-    "conditionId": "0xc8930940ecfb80b5f30317e95c4ccb3fbd499e6322770d555e3860dcf9e242f3",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-regional-election-vox-of-seats",
-    "negRisk": true
-  },
-  "will-vox-vox-win-19-21-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001252",
-    "conditionId": "0x83b9597702f0d7f2631fada408d4003d87f507f9ad6f2a896868f214c11ed3bd",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-regional-election-vox-of-seats",
-    "negRisk": true
-  },
-  "will-vox-vox-win-22-or-more-seats-in-the-2026-andalusia-regional-election": {
-    "id": "2001253",
-    "conditionId": "0xe5e6811cb5aa5fe254b451698dbed8af3c6b6324ec8f3747eb4e75ed48ec842e",
-    "endDate": "2026-05-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andalusia-regional-election-vox-of-seats",
-    "negRisk": true
   },
   "will-gold-gc-hit-high-5400-by-end-of-june": {
     "id": "2001254",
@@ -119611,6 +119421,196 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-uvi-2026-05-09-halftime-result",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-halftime-result-away": {
+    "id": "2192272",
+    "conditionId": "0x70141fb95d6529b1bbba6b34016010b77e654e0d9c4b837e1444315922b63ace",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-halftime-result",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-0-0": {
+    "id": "2192297",
+    "conditionId": "0x7554af0cc66b8d05d46bc28a02697505f69b430f228767cd2062bb3e1f5231b0",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-0-1": {
+    "id": "2192308",
+    "conditionId": "0xd576f4ff597c2b64f8057d428e7d4399a4ce10fcaa7e60025dd04d36aa012dfa",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-1-0": {
+    "id": "2192319",
+    "conditionId": "0x6e4972ef8cdbd80788be962b5fd777a6f653e5349798d115e944fce031c7f71e",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-0-2": {
+    "id": "2192328",
+    "conditionId": "0x8f6b6be0ba0474733d62d1adbb76c2661d1e2dce5200cf9c06b9e65de5188731",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-1-1": {
+    "id": "2192338",
+    "conditionId": "0xf7349546e724bb403aaa5d167ea0b66aa37d0bd27041f5b5db178ca6abfd7a33",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-2-0": {
+    "id": "2192349",
+    "conditionId": "0xa9ccda4da44eb27aec9c09ea3d22263d6fcfda70a7152f81057b7322e19e0202",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-0-3": {
+    "id": "2192359",
+    "conditionId": "0x0f3080d3c0be81f7f7fa967e9066ad385e236c70750da7fc5a8ff62c3164e345",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-1-2": {
+    "id": "2192369",
+    "conditionId": "0x7eea53fe6e3472699ca392c1115d0b53c0c45bc427a5fe8f310e29793e95dbf9",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-2-1": {
+    "id": "2192378",
+    "conditionId": "0x06d62bde04134de5a356bd924cc3bbca256a5bb273e7429bd018bfb55885fcab",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-3-0": {
+    "id": "2192386",
+    "conditionId": "0x16555a494c6c14e0d27b899786403534aeee05143a3303c01befe053bdd3d83e",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-1-3": {
+    "id": "2192396",
+    "conditionId": "0x7d797e5e43c7448a9f8d9a1a32a04e66feb288c5aeb8b00392961465376bf148",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-2-2": {
+    "id": "2192403",
+    "conditionId": "0xe8d0f7bf4300be26f2e790456d7646dc68daa6d3695b32ff29bd9d3ead8dd8e9",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-3-1": {
+    "id": "2192411",
+    "conditionId": "0x660607255809d114367404ef08dce4fba287e7ec5365d1649987f2714980c6c4",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-2-3": {
+    "id": "2192419",
+    "conditionId": "0xe1f1daf6d0f0e2a027657798642762ac1394ce63bafb574bc1d31f86d79a5a34",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-3-2": {
+    "id": "2192427",
+    "conditionId": "0x50535d87f94caaee406b789e25e70eec8cc25ed0ce6e1c66866c50a593666efd",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-3-3": {
+    "id": "2192435",
+    "conditionId": "0xa46c90ee1eebec1384799e6b2f37570815279dbd34bdae2eb37e3701f8b4d000",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-exact-score-any-other": {
+    "id": "2192440",
+    "conditionId": "0xff7532b033ca0201a9d5f53198fd3d9423ab4d5166bb94b8e452f2641b60d1a5",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-halftime-result-home": {
+    "id": "2193879",
+    "conditionId": "0x9a371c14f3e1c2e381031c6eef94ab5f2d769094276600e2a9a0acb5343d5932",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-halftime-result",
     "negRisk": true
   }
 }
