@@ -81370,16 +81370,6 @@
     "eventSlug": "lol-cblol-2026-split-1-winner",
     "negRisk": true
   },
-  "will-gam-esports-win-lcp-2026-split-2": {
-    "id": "1901172",
-    "conditionId": "0x08f5eaf15dd95b33aa1b5149f63c5be678aa1525ce0f8a487f46aaa0ef43d455",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcp-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-secret-whales-win-lcp-2026-split-2": {
     "id": "1901174",
     "conditionId": "0x570ebfb0dbb959c42f27473a6de59541c90c3cddb2b2594078143a3bd6a9cde8",
@@ -81593,16 +81583,6 @@
   "will-bilibili-gaming-win-lpl-2026-split-2": {
     "id": "1901248",
     "conditionId": "0xcbf2e173d92a989f9abba89988417b08d37711c0e9c9ae699a64ec4a2b91d416",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-jd-gaming-win-lpl-2026-split-2": {
-    "id": "1901250",
-    "conditionId": "0xccef218e677cf7fea13d26e4153e53edbb504603fa54db73b1216c294bbbd93c",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -82557,16 +82537,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-mirra-andreeva-win-the-2026-roland-garros-womens-singles": {
-    "id": "1920814",
-    "conditionId": "0x751a47a4ed102056875c7db5b6b54d6d50312cbcef208c68f3c95d97d4f694f7",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-singles-roland-garros-winner",
     "negRisk": true
   },
   "will-jpmorgan-chase-fail-by-end-of-2026": {
@@ -112799,16 +112769,6 @@
     "eventSlug": "super-rugby-pacific-winner",
     "negRisk": true
   },
-  "will-reds-win-the-2026-super-rugby-pacific-grand-final": {
-    "id": "2134588",
-    "conditionId": "0x3889b2c83180ccd4a29b0a6b7cbd01cd0ced5fa9e4d810b744a67d93acb71892",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "super-rugby-pacific-winner",
-    "negRisk": true
-  },
   "will-leinster-win-the-2026-united-rugby-championship-grand-final": {
     "id": "2134626",
     "conditionId": "0xb476f0a450d07b9710c56a7586c360b966ec15da3d760a6f9d63354039d9fc56",
@@ -119611,6 +119571,46 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-tom-2026-05-12-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-halftime-result-draw": {
+    "id": "2193880",
+    "conditionId": "0x36a15b9281348c3de151c644a0d08cf9ec0aede7aa867a91b0dc93acae7fbe88",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-halftime-result-away": {
+    "id": "2193881",
+    "conditionId": "0x29427b17c6044dd3cf174051360fb94a954731b57cb0249b02eb39905d2b25ce",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-0-0": {
+    "id": "2193927",
+    "conditionId": "0x93c6a5d61f13a4b024068f43604be78ca8447b2e5e9f18f552b7904a0edc6948",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-0-1": {
+    "id": "2193933",
+    "conditionId": "0x65609399c1165f41630734446534cf3960e0f5536ba3cf4754c3e3a06ead9d05",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
     "negRisk": true
   }
 }
