@@ -75072,26 +75072,6 @@
     "eventSlug": "2026-soccer-chinese-super-league-winner",
     "negRisk": true
   },
-  "2026-soccer-japan-j-league-winner-kashima-antlers": {
-    "id": "1830379",
-    "conditionId": "0x87f91d2ce8920ed31bdc1d17d2756ae2e62986ab3a317b9ed95590bf13d728aa",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-japan-j-league-winner",
-    "negRisk": true
-  },
-  "2026-soccer-japan-j-league-winner-vissel-kobe": {
-    "id": "1830391",
-    "conditionId": "0x9281f0ec4743dcdf8dddab317885e4446ec17a339aad5bc668e8f99204ff1517",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-japan-j-league-winner",
-    "negRisk": true
-  },
   "2026-soccer-j2-league-winner-vegalta-sendai": {
     "id": "1830403",
     "conditionId": "0xadab500bf6fdb66858297271ed6c096f5440499ca7ec971b8fb822b6a43ec03e",
@@ -76742,16 +76722,6 @@
     "eventSlug": "will-taylor-swift-release-taylor-swift-taylors-version-in-2026",
     "negRisk": false
   },
-  "2026-basketball-cba-winner-shanghai-dongfang": {
-    "id": "1833956",
-    "conditionId": "0x8cb0ebc49f0531ee83193f90e7a8bc5963b33affc8d4795c361e62abb442eeef",
-    "endDate": "2026-12-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-cba-winner",
-    "negRisk": true
-  },
   "2026-hockey-american-hockey-league-winner-chicago-wolves": {
     "id": "1834045",
     "conditionId": "0x8563ed56efbb24acc5efdc00ba79e88e8019af7ce602994a78a581dcfced137c",
@@ -76935,16 +76905,6 @@
   "2026-basketball-liga-endesa-winner-real-madrid": {
     "id": "1834184",
     "conditionId": "0xffafb190900ed8f2e2ccdaea1892a66ac287ba70b25e2d98d2ee3ee452718e29",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
-  "2026-basketball-liga-endesa-winner-surne-bilbao-basket": {
-    "id": "1834187",
-    "conditionId": "0xff57730a0d05de8164a14031510be7ac4d71a07ec589b036bae2768f79b4d1a9",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -89658,16 +89618,6 @@
     "acceptingOrders": true,
     "eventSlug": "andalusia-election-pp-of-seats",
     "negRisk": true
-  },
-  "will-gold-gc-hit-low-4400-by-end-of-june-119-456-768-222-524-767-865-171-778-361-729-781": {
-    "id": "2001179",
-    "conditionId": "0x9873e4c216f5af4dc19651af175cf432c72e80a60c7ff78918f8e252b0e31642",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gc-hit-jun-2026",
-    "negRisk": false
   },
   "will-gold-gc-hit-low-4300-by-end-of-june-786-418-284-459-592-615-611-319-993-231-689-345": {
     "id": "2001188",
@@ -119612,5 +119562,55 @@
     "acceptingOrders": true,
     "eventSlug": "will-tuyo-launch-a-token-by",
     "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-june-30-2027": {
+    "id": "2189876",
+    "conditionId": "0x13ff5be4c65bb5083f662fd451796a8cafe97a6a35604c889f7c7188a0f1c430",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-september-30-2027": {
+    "id": "2189877",
+    "conditionId": "0x9a6092a31220c1d72ecb2b22785a54becd46681aa2480a9bc703344c32fba08e",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-december-31-2027": {
+    "id": "2189878",
+    "conditionId": "0x4c58cc6b48875d035c027fd9e6933ab40b34fde576fed37c35d8f4d55de3d07f",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
+    "negRisk": false
+  },
+  "bol1-oru-uvi-2026-05-09-halftime-result-home": {
+    "id": "2192257",
+    "conditionId": "0xbe8aaf1528fb3c0d8e35c0e491b53a11f0b1cdbe19cd1625d00ca4896b190225",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-halftime-result",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-05-09-halftime-result-draw": {
+    "id": "2192266",
+    "conditionId": "0x64894ae6463cb2c605999afbb634199a6a6c1d604f5fe53bb2c36a2c40b2b862",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-05-09-halftime-result",
+    "negRisk": true
   }
 }
