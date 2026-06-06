@@ -28983,16 +28983,6 @@
     "eventSlug": "parties-advancing-from-the-california-governor-primary",
     "negRisk": true
   },
-  "will-both-candidates-advancing-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary-be-affiliated-with-the-republican-party": {
-    "id": "995677",
-    "conditionId": "0x5928ae5dc678dd1d403083a52cf562697e882e421a27073da3fd302b61014b00",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "parties-advancing-from-the-california-governor-primary",
-    "negRisk": true
-  },
   "will-one-democratic-party-candidate-and-one-republican-party-candidate-advance-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary": {
     "id": "995678",
     "conditionId": "0xa68b0a77955777a56aea54b2888d8e93e806e4ff51fec19800625cf46ce90e37",
@@ -39311,16 +39301,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kristi-noem-impeached-in-2026",
-    "negRisk": false
-  },
-  "will-hyperliquid-hip-3-open-interest-hit-3b-in-2026": {
-    "id": "1185733",
-    "conditionId": "0x953c657a5edee528b4eac2ce464c3e29edb4f0c2d952b2061143c4c161757b0d",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-hyperliquid-hip-3-open-interest-reach-2026",
     "negRisk": false
   },
   "will-hyperliquid-hip-3-open-interest-hit-4b-in-2026": {
@@ -106398,86 +106378,6 @@
     "eventSlug": "new-stranger-things-episode-released-by-wednesday",
     "negRisk": false
   },
-  "will-trump-praise-oz-pearlman-by-may-31-2026": {
-    "id": "2108115",
-    "conditionId": "0x86d623600ec2a876f8bbb552f5c0a36ddaf0d9fe2dd3f2b29e2492fe312fe49c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-mark-rutte-by-may-31-2026": {
-    "id": "2108119",
-    "conditionId": "0x6a35d12f30005fd78d360fb87b94ab1f99c36756d70fe1f1d77e0477a4d34686",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-william-mckinley-by-may-31-2026": {
-    "id": "2108126",
-    "conditionId": "0xf17d3fee69d2224cdbaae0f81810f78227e84fe1a8b437085071500020d00b52",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-weijia-jiang-by-may-31-2026": {
-    "id": "2108132",
-    "conditionId": "0x9eb45569a6b63197ff7a3811867ea5f56a599f52cb7c83c978b85b4a0d944b34",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-ronny-jackson-by-may-31-2026": {
-    "id": "2108135",
-    "conditionId": "0x02567842dbf50566b62220a556f5a36947c06fa2788bd781fa9e486f50d4367f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-vladimir-putin-by-may-31-2026": {
-    "id": "2108144",
-    "conditionId": "0x85b68d0c78516624b80da4a98ba8296b7a040f9d0f32b4fb3064c5692855aed3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-kid-rock-by-may-31-2026": {
-    "id": "2108167",
-    "conditionId": "0x7ab45a90c513355ab221ef75feca289caf96e26f10bdea193350d2ebdb96efa0",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
-  "will-trump-praise-karoline-leavitt-by-may-31-2026": {
-    "id": "2108179",
-    "conditionId": "0xe8157a9459709a6b41ac7db35823c339d5bb0c678570ad8e86b8bfcc14b58101",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-publicly-praise-by-may-31",
-    "negRisk": false
-  },
   "will-fernando-mendoza-be-the-raiders-week-1-starting-qb": {
     "id": "2108600",
     "conditionId": "0x1056c1290cb225b75842d9d74e127277201ee1daab049d080dd460432117fb68",
@@ -112947,36 +112847,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kbo-lot-kt-2026-05-07",
-    "negRisk": false
-  },
-  "will-the-next-model-released-by-xai-debut-at-a-score-of-at-least-1440": {
-    "id": "2132745",
-    "conditionId": "0xb959c3951fec047ba1f1080eedbddfd7d2cc6e2b4a7382a0f8ac008318fbf56d",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-xai-model-arena-debut",
-    "negRisk": false
-  },
-  "will-the-next-model-released-by-xai-debut-at-a-score-of-at-least-1460": {
-    "id": "2132746",
-    "conditionId": "0x6ce12ba86eb907e759c4d0804c5069b4735b90d85658f6f35c4aaa412430bd04",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-xai-model-arena-debut",
-    "negRisk": false
-  },
-  "will-the-next-model-released-by-xai-debut-at-a-score-of-at-least-1480": {
-    "id": "2132747",
-    "conditionId": "0x9000656d7cc2e397e6eda5b7f2ad3fe08142fdd4313b0baf5914323412037eda",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-xai-model-arena-debut",
     "negRisk": false
   },
   "will-russia-capture-rai-oleksandrivka-by-june-30": {
@@ -119611,6 +119481,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-80m-one-day-after-launch": {
+    "id": "2189815",
+    "conditionId": "0xc264b1845337924cbdba0f8a42920d2f1b8428e4e02d0c22a61df7a5899b26c1",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-100m-one-day-after-launch": {
+    "id": "2189816",
+    "conditionId": "0x2d7cbc7a65a552fa25c6e833ad505527ba5b8ed1f93ad5cf2f24e31c4bb0de67",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-150m-one-day-after-launch": {
+    "id": "2189817",
+    "conditionId": "0xbd014b80c8635b6ba1ab637133f3904ed16985b8ce04d03672dd82f30dcb2b84",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-300m-one-day-after-launch": {
+    "id": "2189819",
+    "conditionId": "0xebd661433be3906325e403223a265b2a6ed020c5af4700bc410e3938b487f3a5",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-500m-one-day-after-launch": {
+    "id": "2189821",
+    "conditionId": "0x65791b55c71bf4314b7234f0406f052727201d521f68721d360563b3ac59a3a3",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-700m-one-day-after-launch": {
+    "id": "2189823",
+    "conditionId": "0xacfd57e68e79142603095ca24a5226b9d7d1e7667793dbc1cfae171c6a1a047a",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-800m-one-day-after-launch": {
+    "id": "2189824",
+    "conditionId": "0x8e4f896a5857c1ab5d133f91da0412f3799b2db661514a90cae3f8f0db5e2556",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-1b-one-day-after-launch": {
+    "id": "2189826",
+    "conditionId": "0x2cb749b7ee5e4c349a61acd98119e147ef9ca0a6f70d60b9ac9eb0f10b765aa2",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tuyo-fdv-above-1pt5b-one-day-after-launch": {
+    "id": "2189828",
+    "conditionId": "0x12023291d3175b2565d082826ad954f58b0b8683fb772187e90cf701beccf31e",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tuyo-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-june-30-2026": {
+    "id": "2189872",
+    "conditionId": "0xad197022da2de43d9c8f0ebb56f5fe059a2c0dccbf2a14813d495c8a1627294c",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-september-30-2026": {
+    "id": "2189873",
+    "conditionId": "0x3547ddcf3192a5734fdcaf7c7a4fce52db99fd24d9a49f765dd6c5904454e89f",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-december-31-2026": {
+    "id": "2189874",
+    "conditionId": "0x8f2215e0a12f2c0682508b8181de180a29b64a09aee1a16b8c683f732e25807e",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-tuyo-launch-a-token-by-march-31-2027": {
+    "id": "2189875",
+    "conditionId": "0x1141e613c42efb2c86ef4e547cc062377db3077aeced18cf52c85e670829c9e3",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-tuyo-launch-a-token-by",
     "negRisk": false
   }
 }
