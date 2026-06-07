@@ -72873,16 +72873,6 @@
     "eventSlug": "ufc-who-will-joe-pyfer-fight-next",
     "negRisk": true
   },
-  "wttwom-qin-kaufman-2026-03-31": {
-    "id": "1786532",
-    "conditionId": "0x126c7e68cf32a54c4f074edc5aaf49ca3d42ae9d606800bca552d42fcee6319a",
-    "endDate": "2026-04-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "wttwom-qin-kaufman-2026-03-31",
-    "negRisk": false
-  },
   "ng-up-or-down-on-march-31-2026": {
     "id": "1790542",
     "conditionId": "0x613c14987600551f36a880b81c025e35b2fc030e011744439d314bcd9cf1de32",
@@ -119606,6 +119596,16 @@
   "bol1-pot-abb-2026-05-14-exact-score-3-2": {
     "id": "2194746",
     "conditionId": "0x2034f86746afcdbab04e25c2d0980d7adb770c86d7d13f8b1103534dad41349c",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-3-3": {
+    "id": "2194751",
+    "conditionId": "0x4bd61e34f6f0c615ea2094faff4ba38188babde5605430fd26e76a97a856e1a2",
     "endDate": "2026-05-14",
     "closed": false,
     "active": true,
