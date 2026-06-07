@@ -64551,26 +64551,6 @@
     "eventSlug": "which-teams-will-qualify-to-msi-2026",
     "negRisk": false
   },
-  "will-karmine-corp-qualify-to-msi-2026": {
-    "id": "1494623",
-    "conditionId": "0xc2833723941ad131b976638eb40baa5fa05e9c08499e6a05b28901a2513fd9ce",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
-  "will-movistar-koi-qualify-to-msi-2026": {
-    "id": "1494625",
-    "conditionId": "0x5edffd8c485eeb2829d998430222a220569b1ebcf66f272dfd3dba6ee1083530",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-bilibili-gaming-qualify-to-msi-2026": {
     "id": "1494626",
     "conditionId": "0x2b5eaafcc6659d860ab3f7f47a190d538f7db714dacfb7647468ff6d21c15d6d",
@@ -64584,16 +64564,6 @@
   "will-anyones-legend-qualify-to-msi-2026": {
     "id": "1494627",
     "conditionId": "0xfeeebb6daa7ed4e2c87236c4fd11ea325f8419d460e9b0e65255b0ae7cd4c072",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
-  "will-jd-gaming-qualify-to-msi-2026": {
-    "id": "1494629",
-    "conditionId": "0x8d89ef34320d8d3799c1645eac4435eafa6d9cca308032f247b8333c20b3a090",
     "endDate": "2026-07-12",
     "closed": false,
     "active": true,
@@ -72923,76 +72893,6 @@
     "eventSlug": "ng-up-or-down-on-march-31-2026",
     "negRisk": false
   },
-  "yom-fdv-above-20m-one-day-after-launch": {
-    "id": "1794611",
-    "conditionId": "0x5e89c548691d4fc6138c7351cdafb6bcfbd3f991b9cf0f709a8585acc3ea4aea",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "yom-fdv-above-50m-one-day-after-launch": {
-    "id": "1794612",
-    "conditionId": "0x1865f885ed36f0fe131ca6da26b551e05c72ca10daf1949d1d77c96cb23c21f5",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "yom-fdv-above-100m-one-day-after-launch": {
-    "id": "1794613",
-    "conditionId": "0xb3b9f0b0aa1e105669ecc50915b81a40e691161150aac65a5470b917806a29c3",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "yom-fdv-above-200m-one-day-after-launch": {
-    "id": "1794614",
-    "conditionId": "0x4e66627044764d3107d8de13be3bd74d32027d381ac4307d576496a676bc3af8",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "yom-fdv-above-300m-one-day-after-launch": {
-    "id": "1794615",
-    "conditionId": "0xd5ef21f54e964795a9166e54e33cbe05c441ca066bdb79bace51a600e10f7895",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "yom-fdv-above-500m-one-day-after-launch": {
-    "id": "1794616",
-    "conditionId": "0x7c05febba2c381b40a1b9a8b3f61b448ec46c73cdd83ef0257f70c173fddeb0f",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "yom-fdv-above-800m-one-day-after-launch": {
-    "id": "1794617",
-    "conditionId": "0x4912f26af3de8ca7c101ba68ce51abc0b3a15a8a32dd02cfe3821df1d20fefbc",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "yom-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
   "doug-ford-out-as-pc-party-leader-by-december-31": {
     "id": "1795346",
     "conditionId": "0x287d484fd3526634230240be0f1960745018f742e4dae6b4a5bb1bb787d32ad9",
@@ -76762,16 +76662,6 @@
     "eventSlug": "2026-basketball-turkey-bsl-winner",
     "negRisk": true
   },
-  "2026-basketball-turkey-bsl-winner-galatasaray-mct-technic": {
-    "id": "1834141",
-    "conditionId": "0xe73f0fc9a54354cf24711e7cf1e1fe0a318eb137f0a599339246767ca625fa6f",
-    "endDate": "2026-12-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-turkey-bsl-winner",
-    "negRisk": true
-  },
   "2026-basketball-germany-bbl-winner-alba-berlin": {
     "id": "1834153",
     "conditionId": "0xde61d80b3d37e12cc65a70e12c418518ea5805610655e93ecf6f112dccff1dc1",
@@ -76842,26 +76732,6 @@
     "eventSlug": "2026-basketball-liga-endesa-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-endesa-winner-real-madrid": {
-    "id": "1834184",
-    "conditionId": "0xffafb190900ed8f2e2ccdaea1892a66ac287ba70b25e2d98d2ee3ee452718e29",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
-  "2026-basketball-liga-endesa-winner-ucam-murcia": {
-    "id": "1834188",
-    "conditionId": "0x12e21025dba8786caeac01ee42c08956c2ef34f03af4ab36384e31b53529ada9",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-endesa-winner-valencia-basket": {
     "id": "1834190",
     "conditionId": "0x2236c2e6f8f746217cfbe980d71df7d2a60ffba24a4ad38d58a3cd5e78e83b83",
@@ -76905,16 +76775,6 @@
   "2026-basketball-serie-a-winner-umana-reyer-venezia": {
     "id": "1834220",
     "conditionId": "0xac783d87e65bdaa488812e758501eed32e7252f1f16baa3b4b6ebc1a30e7bd23",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-serie-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-serie-a-winner-virtus-bologna": {
-    "id": "1834221",
-    "conditionId": "0x35dfd23d4af4a832be92796e57f8efc8ff1acb1338073fce0213a09b299bf641",
     "endDate": "2026-12-20",
     "closed": false,
     "active": true,
@@ -81300,26 +81160,6 @@
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
   },
-  "will-furia-win-cblol-2026-split-1": {
-    "id": "1901137",
-    "conditionId": "0x84113d6b360aab26706b2cf511a3545d9db9aa779cbb39bfdc4f9df9f58214bc",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
-  "will-los-win-cblol-2026-split-1": {
-    "id": "1901143",
-    "conditionId": "0x0e2327486d4a528246c742b31f2dc2e6c12de158b9d9fdb45f9e8d5424fc9810",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-cblol-2026-split-1-winner",
-    "negRisk": true
-  },
   "will-secret-whales-win-lcp-2026-split-2": {
     "id": "1901174",
     "conditionId": "0x570ebfb0dbb959c42f27473a6de59541c90c3cddb2b2594078143a3bd6a9cde8",
@@ -81413,16 +81253,6 @@
   "will-karmine-corp-win-lec-2026-spring": {
     "id": "1901199",
     "conditionId": "0x5243d38b5170685af3bc8a761a3487d548fdfca888ff74aab7d376f3ace75f89",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lec-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-movistar-koi-win-lec-2026-spring": {
-    "id": "1901203",
-    "conditionId": "0xe7db78e3044c7f3719288bb9af5c7df8fb73b2ac72663da8576d693ae7bb355e",
     "endDate": "2026-06-07",
     "closed": false,
     "active": true,
@@ -113679,16 +113509,6 @@
     "eventSlug": "lol-hle1-dnf-2026-05-05",
     "negRisk": false
   },
-  "russia-x-ukraine-diplomatic-meeting-by-june-30-2026": {
-    "id": "2155171",
-    "conditionId": "0xcb334e65ea89ee98ce533a4dde88d013737526c1ab3c9b123dd023e19aa07dd1",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "russia-x-ukraine-diplomatic-meeting-by",
-    "negRisk": false
-  },
   "russia-x-ukraine-diplomatic-meeting-by-december-31-2026": {
     "id": "2155172",
     "conditionId": "0xeb092832271358be7f3c76f96fd176d89a29427121461a4058497e510adb03fe",
@@ -119611,6 +119431,186 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-1-3": {
+    "id": "2193983",
+    "conditionId": "0x15dfb1cc358ec2dee04315694d4febbabd2ddbbe83c3ec8ccf881534bab9d2df",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-2-2": {
+    "id": "2193987",
+    "conditionId": "0x904d9b806efa811d8c7f62c6e33ff1101982688eb63a0f45b17ad33d02b80ddf",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-3-1": {
+    "id": "2193994",
+    "conditionId": "0x52a5cdbead0ee58b1a4db268ecd46de196c37bfcc7f72a6c7fae3b22ac5eb19c",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-2-3": {
+    "id": "2193997",
+    "conditionId": "0x27e0691162741214a02015eea345758657fb351e2509c363298e8eff9694537b",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-3-2": {
+    "id": "2194001",
+    "conditionId": "0x0622d47a248acbc5ab53a77db3c7115e1d52c4de87f773e4e836a8cf07ede168",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-3-3": {
+    "id": "2194005",
+    "conditionId": "0xfb385f01771e634b630b5f166cd06cde71250fc852ab1c641d6d3214de996084",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-tom-2026-05-12-exact-score-any-other": {
+    "id": "2194011",
+    "conditionId": "0x754709827c39a2d04408bacf13fb3109decc5b5e8349a4618a8adcf581c0fcb9",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-tom-2026-05-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-halftime-result-home": {
+    "id": "2194639",
+    "conditionId": "0x6b97aa4aecb680caa467d02362d6894abe1a4140a3e5aae070db4ac801cd12a2",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-halftime-result-draw": {
+    "id": "2194644",
+    "conditionId": "0xde1c467e38194f5756593191590891400f8b0e05dbd1a705f348eaeffa0d8892",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-halftime-result-away": {
+    "id": "2194649",
+    "conditionId": "0xe3df6c058f5820cdecba423bccb6b17e83dd0f8def4563c49a4b6ee402a713d5",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-0-0": {
+    "id": "2194684",
+    "conditionId": "0xae13e93fc28fd0fd104d708c8936fdcf9d20bccd400bbdcea89ffc1988ea6c73",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-0-1": {
+    "id": "2194688",
+    "conditionId": "0x3ab8e3ce1e9e39824bfd9bdcea7a6ea53e9c73ae6f4641d84770679562e48005",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-1-0": {
+    "id": "2194692",
+    "conditionId": "0xce2c809db0960a82994102996895b67d9fb27928b8d4890552ebaec80b1fd150",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-0-2": {
+    "id": "2194697",
+    "conditionId": "0x792a4956cfeced74bc22b1652ecfe23c2013d6fa705d9133ecd84fd115947ba1",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-1-1": {
+    "id": "2194700",
+    "conditionId": "0x20798dff708603000734a0734412bf3b2d7df2cce771ea0020ef77043286affa",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-2-0": {
+    "id": "2194703",
+    "conditionId": "0x5e224c421056beb192ad288500ff1e9d0b21f7b59490f9f6a7c852cb3e78784f",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-0-3": {
+    "id": "2194707",
+    "conditionId": "0xefc58f0576ace24d4caaa0774008855d3bfb931c7f29c29937b17fa332c54b7d",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-1-2": {
+    "id": "2194713",
+    "conditionId": "0x1ad754866e47fa11c21fffbefaccd0a998fe2da9dced39c0618892a25233c15e",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
     "negRisk": true
   }
 }
