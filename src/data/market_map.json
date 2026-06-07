@@ -14769,7 +14769,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224": {
+  "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231": {
     "id": "701502",
     "conditionId": "0x024b68f77bfc019341ee3db8f57c103334e4b9430bba4746d8c94aafd8b36fee",
     "endDate": "2027-01-01",
@@ -14779,7 +14779,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887": {
+  "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657": {
     "id": "701503",
     "conditionId": "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2",
     "endDate": "2027-01-01",
@@ -14789,7 +14789,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145": {
+  "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417": {
     "id": "701504",
     "conditionId": "0xe326d1abf5fb59b82ecfdff3348e75f90561eace327ba1bdc8d38d045ddbe775",
     "endDate": "2027-01-01",
@@ -32608,26 +32608,6 @@
     "acceptingOrders": true,
     "eventSlug": "tim-walz-in-jail-by-march-31",
     "negRisk": false
-  },
-  "will-alexander-zverev-win-the-2026-mens-french-open": {
-    "id": "1087514",
-    "conditionId": "0x739e756119534672538d8df821a5b3321e2c802d80afff0c5790126be9b41281",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
-  },
-  "will-flavio-cobolli-win-the-2026-mens-french-open": {
-    "id": "1087538",
-    "conditionId": "0x9eaadf490bf58eb7e2d00fb257711ff462ae99197dc339b2a5cd93a577c7a2e2",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-french-open-winner",
-    "negRisk": true
   },
   "will-maya-joint-win-the-2026-womens-french-open": {
     "id": "1087805",
@@ -52581,7 +52561,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-10000-by-december-31-2026-888-644-567-258-946-853": {
+  "will-bitcoin-dip-to-10000-by-december-31-2026-888-644-567-258-946-853-325-494": {
     "id": "1343220",
     "conditionId": "0xd8a5843555ba95455a28d895660c07c59b615184bf4ae64893992f3504797d29",
     "endDate": "2027-01-01",
@@ -52591,7 +52571,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482": {
+  "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482-674-487": {
     "id": "1343228",
     "conditionId": "0xe681a6326237f3b17ce8622728b6cd104281dfe4d2b38f4520fd7f1734cf3469",
     "endDate": "2027-01-01",
@@ -78180,16 +78160,6 @@
     "eventSlug": "arch-wnba-2026-champion",
     "negRisk": true
   },
-  "will-gamerlegion-win-iem-cologne-major-2026": {
-    "id": "1892281",
-    "conditionId": "0xadf834ab08d5e31ca8dabac7c194632bf4739fe695aa70937ce0dff296990e90",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-big-win-iem-cologne-major-2026": {
     "id": "1892282",
     "conditionId": "0x168f7a18fcf2f5d6630a0c65c02e60de7679481c66d47b1f3d0be8595dd34a60",
@@ -78243,16 +78213,6 @@
   "will-tyloo-win-iem-cologne-major-2026": {
     "id": "1892293",
     "conditionId": "0xed6cf53c75f8a1967e307cd568093a46d93c7045c2f2842c08d7e4c566e4ff28",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-flyquest-win-iem-cologne-major-2026": {
-    "id": "1892296",
-    "conditionId": "0x058ba726abf71ea524281ea215637a97ffd4e471c239f122d4b516c377bf192d",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -82238,26 +82198,6 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-mis-lph-2026-04-10",
     "negRisk": false
-  },
-  "will-alexander-zverev-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920455",
-    "conditionId": "0x043726dab442991a3dd7f925a9efff2adff94e7883dff418c22f7178352a2d60",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
-  },
-  "will-flavio-cobolli-win-the-2026-roland-garros-mens-singles": {
-    "id": "1920468",
-    "conditionId": "0xc8eed8269df43fe1b6b4383c5d78ec8d24c39d2206a772510f9810bf92a81ef5",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-singles-roland-garros-winner",
-    "negRisk": true
   },
   "will-jpmorgan-chase-fail-by-end-of-2026": {
     "id": "1922857",
@@ -119611,6 +119551,66 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-alw-2026-05-16-halftime-result",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-halftime-result-draw": {
+    "id": "2195176",
+    "conditionId": "0x7efbf141ce3799d446f745c860b42b8d5ec6130eff4f6c437cd43d5709224de5",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-halftime-result",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-halftime-result-away": {
+    "id": "2195180",
+    "conditionId": "0x7f62497142f3446491c062842b53aa2ce94ba226ecb12d6066b18b7cc6d19b29",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-halftime-result",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-0-0": {
+    "id": "2195209",
+    "conditionId": "0x1de27ed75bdfb18e0955d34e5bb19fd8902d18ab3b1d79683d50f628c62b23c8",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-0-1": {
+    "id": "2195213",
+    "conditionId": "0xaabbeda88a83b0a832829d4d7a09f7d44d3074ee9b058c192c49567a60996294",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-1-0": {
+    "id": "2195217",
+    "conditionId": "0xe875e19fa28b16f767aaf761841ff1cbe312925240cd855db9e412e5cf433db4",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-0-2": {
+    "id": "2195221",
+    "conditionId": "0xd9bc84f704815d3c55b7efb00b2afd6e1bdc0d0f4907c0b3bcd08d428f0fd39c",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
     "negRisk": true
   }
 }
