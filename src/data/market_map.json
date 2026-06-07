@@ -74912,26 +74912,6 @@
     "eventSlug": "2026-soccer-chinese-super-league-winner",
     "negRisk": true
   },
-  "2026-soccer-j2-league-winner-vegalta-sendai": {
-    "id": "1830403",
-    "conditionId": "0xadab500bf6fdb66858297271ed6c096f5440499ca7ec971b8fb822b6a43ec03e",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-j2-league-winner",
-    "negRisk": true
-  },
-  "2026-soccer-j2-league-winner-kataller-toyama": {
-    "id": "1830413",
-    "conditionId": "0xd8437696a222532f20e5ad2112e4ed35bb512fdd05ae1ccbb776ef6bf7d9ffd4",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-soccer-j2-league-winner",
-    "negRisk": true
-  },
   "2026-soccer-norway-eliteserien-winner-bodglimt": {
     "id": "1830423",
     "conditionId": "0x5c42ec4a2e26ae2824c05d104898adb2ccc483c767d46919ecbacc5d4a6b87c6",
@@ -119606,6 +119586,26 @@
   "bol1-pot-abb-2026-05-14-exact-score-3-1": {
     "id": "2194735",
     "conditionId": "0x967024da1c59597c63410649d7ca1adb3844837044c3e756d7780d4e8349f3f2",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-2-3": {
+    "id": "2194740",
+    "conditionId": "0x659584a839254a6d9a59dd77f921cabf99161463369c2bce9e646ada71593c47",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-3-2": {
+    "id": "2194746",
+    "conditionId": "0x2034f86746afcdbab04e25c2d0980d7adb770c86d7d13f8b1103534dad41349c",
     "endDate": "2026-05-14",
     "closed": false,
     "active": true,
