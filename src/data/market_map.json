@@ -81130,26 +81130,6 @@
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
   },
-  "will-secret-whales-win-lcp-2026-split-2": {
-    "id": "1901174",
-    "conditionId": "0x570ebfb0dbb959c42f27473a6de59541c90c3cddb2b2594078143a3bd6a9cde8",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcp-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-deep-cross-gaming-win-lcp-2026-split-2": {
-    "id": "1901177",
-    "conditionId": "0xbfdf6a919bdf2c5538b7e30f19307ad0a8bb416862d55619a6f4c6b7bf1998ab",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcp-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-cloud9-win-lcs-2026-spring": {
     "id": "1901178",
     "conditionId": "0x226c71868c59b9999980d55795804f6a7bfd189510110c32b3f944b57f8cc72d",
@@ -119611,6 +119591,26 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-abb-2026-05-14-exact-score-any-other": {
+    "id": "2194756",
+    "conditionId": "0x470fac78ccedf9b08257842bda724caeb400b0501d282ecbd94bb3ca5b390e0b",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-abb-2026-05-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-halftime-result-home": {
+    "id": "2195172",
+    "conditionId": "0x3e634ef111843549d016ae321d412f1888c71d04f73ca182cdd11e7fd84f9a9e",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-halftime-result",
     "negRisk": true
   }
 }
