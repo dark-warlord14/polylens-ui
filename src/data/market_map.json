@@ -2602,7 +2602,7 @@
   "will-graham-platner-be-the-democratic-nominee-for-senate-in-maine": {
     "id": "599323",
     "conditionId": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
-    "endDate": "2026-07-31",
+    "endDate": "2026-06-09",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2612,7 +2612,7 @@
   "will-janet-mills-be-the-democratic-nominee-for-senate-in-maine": {
     "id": "599324",
     "conditionId": "0x690d504367efdec61936e7dc1c572c1598281f3e91d30d3b6148f3f1f48642d5",
-    "endDate": "2026-07-31",
+    "endDate": "2026-06-09",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2642,7 +2642,7 @@
   "will-jordan-wood-be-the-democratic-nominee-for-senate-in-maine": {
     "id": "599327",
     "conditionId": "0x715eb3d786c7d27ff65c28b3122ad0ecb41e3d0ca588dc1e291317a06c1ec47f",
-    "endDate": "2026-07-31",
+    "endDate": "2026-06-09",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2652,7 +2652,7 @@
   "will-troy-jackson-be-the-democratic-nominee-for-senate-in-maine": {
     "id": "599328",
     "conditionId": "0x9248190b831a98a8996cbf370e731312e380c59b1969dcd22d6eab6f831d95f4",
-    "endDate": "2026-07-31",
+    "endDate": "2026-06-09",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2662,7 +2662,7 @@
   "will-jared-golden-be-the-democratic-nominee-for-senate-in-maine": {
     "id": "599329",
     "conditionId": "0xe766d95249dc636e0f3b9c40be41e60312c11caade2e4c7208cab46109204e5f",
-    "endDate": "2026-07-31",
+    "endDate": "2026-06-09",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -64491,16 +64491,6 @@
     "eventSlug": "which-teams-will-qualify-to-msi-2026",
     "negRisk": false
   },
-  "will-anyones-legend-qualify-to-msi-2026": {
-    "id": "1494627",
-    "conditionId": "0xfeeebb6daa7ed4e2c87236c4fd11ea325f8419d460e9b0e65255b0ae7cd4c072",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-a-team-from-lck-south-korea-win-msi-2026": {
     "id": "1494695",
     "conditionId": "0x4890e36c536eef20111bd617f6479b6b7384ad2ebf16e18a108d989dc0aa9f9e",
@@ -76492,16 +76482,6 @@
     "eventSlug": "2026-hockey-american-hockey-league-winner",
     "negRisk": true
   },
-  "2026-hockey-american-hockey-league-winner-wilkes-barrescranton-penguins": {
-    "id": "1834070",
-    "conditionId": "0xe4cdefbb6e42e337452da1bd8af8fa15ec1b4c1834d1747b6ceeefb7bb6cacd7",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-hockey-american-hockey-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-nacional-de-bsquetbol-winner-gimnasia-y-esgrima-de-comodoro-rivadavia": {
     "id": "1834089",
     "conditionId": "0x310d19c17287ab7cea30ff4f6a79a235c03421f7b8fe5b34b6195ab81b407247",
@@ -76595,16 +76575,6 @@
   "2026-basketball-liga-endesa-winner-joventut-badalona": {
     "id": "1834180",
     "conditionId": "0x2410f0b1c788426c2e96552789605d8645d57e92f56ed416bd148171c5174eab",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
-  "2026-basketball-liga-endesa-winner-kosner-baskonia-vitoria-gasteiz": {
-    "id": "1834181",
-    "conditionId": "0xd8d8c081cd7abf9b506b84c1e075fba9f185579738dff8903e0c545847b3f3b3",
     "endDate": "2026-06-08",
     "closed": false,
     "active": true,
@@ -81183,16 +81153,6 @@
   "will-bilibili-gaming-win-lpl-2026-split-2": {
     "id": "1901248",
     "conditionId": "0xcbf2e173d92a989f9abba89988417b08d37711c0e9c9ae699a64ec4a2b91d416",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-anyones-legend-win-lpl-2026-split-2": {
-    "id": "1901254",
-    "conditionId": "0x51b46ecb3c224e7635d1231cbffa5ff08af55b93a6d9c3ed8e9b8a21eaac77e4",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -119611,6 +119571,46 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-halftime-result-home": {
+    "id": "2195292",
+    "conditionId": "0x505191de7fbcf1f21a4c1d160bcf04cf93104655b5c9a2125e70dd53851713d5",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-halftime-result",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-halftime-result-draw": {
+    "id": "2195296",
+    "conditionId": "0x94a33377a6f5d0c8497df8bce0c509614e6c56162971b7991ad6980b37bbdf53",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-halftime-result",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-halftime-result-away": {
+    "id": "2195302",
+    "conditionId": "0x0fbae411cb4b9bd4febb36a828af17f05847cb9a85669adc146b35a36a7b6bfc",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-halftime-result",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-0-0": {
+    "id": "2195321",
+    "conditionId": "0x8c1493e70c7d36997964c6660cb6b04fa55a5b7dfaf747c44218a828bb6ab7e4",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
     "negRisk": true
   }
 }
