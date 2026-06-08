@@ -2029,26 +2029,6 @@
     "eventSlug": "the-masters-winner-2026",
     "negRisk": true
   },
-  "will-ivn-cepeda-castro-win-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "569343",
-    "conditionId": "0xc00920db6f5e84821a61bd31578499bbc9bd125949572b589b7a9e4b0f13bad3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-winner",
-    "negRisk": true
-  },
-  "will-abelardo-de-la-espriella-win-the-1st-round-of-the-2026-colombian-presidential-election": {
-    "id": "569344",
-    "conditionId": "0xb611b3a7173f69e412b55561ed265d849e36693c248ff620d0e981c5b3f2e325",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-winner",
-    "negRisk": true
-  },
   "will-vicky-dvila-win-the-2026-colombian-presidential-election": {
     "id": "569356",
     "conditionId": "0x849a3e762977a9ad6b8e5f449ac7c8abb2756409a1b55759e00262e072bd81a7",
@@ -14749,7 +14729,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381": {
+  "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182": {
     "id": "701501",
     "conditionId": "0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c",
     "endDate": "2027-01-01",
@@ -14759,7 +14739,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231": {
+  "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289": {
     "id": "701502",
     "conditionId": "0x024b68f77bfc019341ee3db8f57c103334e4b9430bba4746d8c94aafd8b36fee",
     "endDate": "2027-01-01",
@@ -14899,7 +14879,7 @@
     "eventSlug": "what-price-will-ethereum-hit-before-2027",
     "negRisk": false
   },
-  "will-ethereum-dip-to-1500-by-december-31-2026-865": {
+  "will-ethereum-dip-to-1500-by-december-31-2026-865-787": {
     "id": "701552",
     "conditionId": "0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780",
     "endDate": "2027-01-01",
@@ -14909,7 +14889,7 @@
     "eventSlug": "what-price-will-ethereum-hit-before-2027",
     "negRisk": false
   },
-  "will-ethereum-dip-to-1000-by-december-31-2026-273": {
+  "will-ethereum-dip-to-1000-by-december-31-2026-273-175": {
     "id": "701553",
     "conditionId": "0xacb33346b59a2a3770e2391b7d1b0e77d8dcdcf840a66f5fa01d28db43c4e369",
     "endDate": "2027-01-01",
@@ -14919,7 +14899,7 @@
     "eventSlug": "what-price-will-ethereum-hit-before-2027",
     "negRisk": false
   },
-  "will-ethereum-dip-to-800-by-december-31-2026": {
+  "will-ethereum-dip-to-800-by-december-31-2026-568": {
     "id": "701554",
     "conditionId": "0x717672a48c5f2938631f6e467b9a48aedb03fa380c0198704ef5acfc91721612",
     "endDate": "2027-01-01",
@@ -15039,7 +15019,7 @@
     "eventSlug": "what-price-will-solana-hit-before-2027",
     "negRisk": false
   },
-  "will-solana-dip-to-60-by-december-31-2026-249": {
+  "will-solana-dip-to-60-by-december-31-2026-249-524": {
     "id": "701578",
     "conditionId": "0x0135f2ed385fd81fa2af3b98720ee3ba440ea4a719636c1493f15a23366fc27e",
     "endDate": "2027-01-01",
@@ -15049,7 +15029,7 @@
     "eventSlug": "what-price-will-solana-hit-before-2027",
     "negRisk": false
   },
-  "will-solana-dip-to-40-by-december-31-2026-343": {
+  "will-solana-dip-to-40-by-december-31-2026-343-482": {
     "id": "701579",
     "conditionId": "0x5c2f3ac4fe84f1a399f9f1e05de8e5cf1a5e80e2de32e92c084253972a3e7e67",
     "endDate": "2027-01-01",
@@ -15059,7 +15039,7 @@
     "eventSlug": "what-price-will-solana-hit-before-2027",
     "negRisk": false
   },
-  "will-solana-dip-to-20-by-december-31-2026-143": {
+  "will-solana-dip-to-20-by-december-31-2026-143-365": {
     "id": "701580",
     "conditionId": "0x0bccf8ce01fcd188575a96ab88ed928260e72cc4c3aacf0e82fa5ab4570dbae6",
     "endDate": "2027-01-01",
@@ -15369,7 +15349,7 @@
     "eventSlug": "what-price-will-hyperliquid-hit-before-2027",
     "negRisk": false
   },
-  "will-hyperliquid-dip-to-20-by-december-31-2026": {
+  "will-hyperliquid-dip-to-20-by-december-31-2026-588": {
     "id": "701741",
     "conditionId": "0xa4cab194f7487ecbe058aa8278a45a51487afe828af6c3c2eed5b096639c23e9",
     "endDate": "2027-01-01",
@@ -15379,7 +15359,7 @@
     "eventSlug": "what-price-will-hyperliquid-hit-before-2027",
     "negRisk": false
   },
-  "will-hyperliquid-dip-to-16-by-december-31-2026": {
+  "will-hyperliquid-dip-to-16-by-december-31-2026-358": {
     "id": "701742",
     "conditionId": "0x8555a03570e1eb69c94ab5d41796058d8fcb9e909a6464e6cec9ff85d199b7bf",
     "endDate": "2027-01-01",
@@ -15389,7 +15369,7 @@
     "eventSlug": "what-price-will-hyperliquid-hit-before-2027",
     "negRisk": false
   },
-  "will-hyperliquid-dip-to-12-by-december-31-2026": {
+  "will-hyperliquid-dip-to-12-by-december-31-2026-633": {
     "id": "701743",
     "conditionId": "0x8f9956410b9b8ef4c112ea03800920bc445deff855d57fb156c9ab9b56aecc8a",
     "endDate": "2027-01-01",
@@ -49963,16 +49943,6 @@
     "eventSlug": "bitcoin-best-month-in-2026",
     "negRisk": true
   },
-  "will-may-be-the-best-month-for-bitcoin-in-2026": {
-    "id": "1295998",
-    "conditionId": "0x9dbfdcb3a62c2498adf35068038c7db1bcab916e7a9f0551ed8a1aeb272e5895",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bitcoin-best-month-in-2026",
-    "negRisk": true
-  },
   "will-june-be-the-best-month-for-bitcoin-in-2026": {
     "id": "1295999",
     "conditionId": "0x5a4fc50ae4b1e38fa14b8a7d3b7cb01bd509f3857e9b4e5f39e0c746804a2696",
@@ -52101,7 +52071,7 @@
     "eventSlug": "who-will-win-top-chef-season-23",
     "negRisk": true
   },
-  "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451": {
+  "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853": {
     "id": "1339767",
     "conditionId": "0xce3c54c3e773e8b3bf73e4c12af93205b21195d03b9c386e22f274b9acfc2c56",
     "endDate": "2027-01-01",
@@ -52111,7 +52081,7 @@
     "eventSlug": "what-price-will-bitcoin-hit-before-2027",
     "negRisk": false
   },
-  "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991": {
+  "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167": {
     "id": "1339768",
     "conditionId": "0x1e5564c1a2a6839cc2780a889437c63786a2c2ec5e95569b710ee659a3e8baa2",
     "endDate": "2027-01-01",
@@ -104218,16 +104188,6 @@
     "eventSlug": "bol1-aur-ori-2026-05-24",
     "negRisk": true
   },
-  "will-mrbeast-hit-128-billion-views-by-june-30": {
-    "id": "2099542",
-    "conditionId": "0x6f51fc8a277dd2aeea8368dc927d46015e2868865c1e9fa10d844a0ebbfd6820",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-mrbeast-hit-billion-views-by-june-30",
-    "negRisk": false
-  },
   "will-mrbeast-hit-129-billion-views-by-june-30": {
     "id": "2099543",
     "conditionId": "0x518301a471c1e86c7b11d8eea58be6936f57c6a7d5f8b7f0fbefa6c87f145d31",
@@ -119606,6 +119566,46 @@
   "bol1-oru-alw-2026-05-16-exact-score-3-1": {
     "id": "2195260",
     "conditionId": "0x8e09c0bfe9e0daa34fb73266747e1c1303805848130fbd7f8b4638123a1e4153",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-2-3": {
+    "id": "2195263",
+    "conditionId": "0xfee99bce580b34db3aaa7297b0eb7d4019d2e7bc716969609a4fdf0d3591e373",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-3-2": {
+    "id": "2195265",
+    "conditionId": "0xfee618f458246708d057a15f29a67899307abf70e09ced7f98bfa53a15e54c3d",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-3-3": {
+    "id": "2195269",
+    "conditionId": "0xb8a601c561a38e873d878707c02a16828119143856e12c9022a76b193803647b",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-alw-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-alw-2026-05-16-exact-score-any-other": {
+    "id": "2195272",
+    "conditionId": "0x2a81ec09ca4ed8b6c2af327da516a94047e966140c5a360d9530bd368d21bc3b",
     "endDate": "2026-05-16",
     "closed": false,
     "active": true,
