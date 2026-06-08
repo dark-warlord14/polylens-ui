@@ -78090,16 +78090,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-m80-win-iem-cologne-major-2026": {
-    "id": "1892287",
-    "conditionId": "0x824c710d20c3f83c4078e6c834d659489233e3fb8772d215071ee3f0ac8f4d34",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-tyloo-win-iem-cologne-major-2026": {
     "id": "1892293",
     "conditionId": "0xed6cf53c75f8a1967e307cd568093a46d93c7045c2f2842c08d7e4c566e4ff28",
@@ -119606,6 +119596,16 @@
   "bol1-blo-gvs-2026-05-16-exact-score-3-1": {
     "id": "2195364",
     "conditionId": "0xe8689b20d4dfc5f4403937609e5de6fe09237c96ba7a1d09a06585072b6efdfd",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-2-3": {
+    "id": "2195367",
+    "conditionId": "0x8798bd9e8535386a51039799cea6fadf8d4012d78a1f0e86a014bc3e2ac046e8",
     "endDate": "2026-05-16",
     "closed": false,
     "active": true,
