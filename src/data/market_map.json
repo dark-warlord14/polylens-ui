@@ -52171,16 +52171,6 @@
     "eventSlug": "magicblock-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "bitmine-sells-any-ethereum-in-2026": {
-    "id": "1340780",
-    "conditionId": "0x57a8d45f65ccccf9c576367d5bacb4c307a66eda50720463b5a35fa74750a74f",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bitmine-sells-any-ethereum-in-2026",
-    "negRisk": false
-  },
   "will-usdjpy-hit-200-high-in-2026": {
     "id": "1342867",
     "conditionId": "0xaad6d2d4501b25ad1fd3a4b82c3228f422cc89b24df360f4825454215d64e746",
@@ -78110,16 +78100,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-mibr-win-iem-cologne-major-2026": {
-    "id": "1892291",
-    "conditionId": "0xa2ea44f06f6b7ca3e00cea284d6e9294ac3d0331fd8817a5ff82989a5ae2291d",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-tyloo-win-iem-cologne-major-2026": {
     "id": "1892293",
     "conditionId": "0xed6cf53c75f8a1967e307cd568093a46d93c7045c2f2842c08d7e4c566e4ff28",
@@ -78133,16 +78113,6 @@
   "will-team-spirit-win-iem-cologne-major-2026": {
     "id": "1892297",
     "conditionId": "0x10cfe107f46a1f4465e41501bebf20edda4f16ef47b702a4f45cacce90e01d16",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-astralis-win-iem-cologne-major-2026": {
-    "id": "1892298",
-    "conditionId": "0xe31c9b200a40505aa8da2a7e89229c4a928e2216858b41dde7965959e65ae17e",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -103788,96 +103758,6 @@
     "eventSlug": "trump-renames-ice-to-nice-by-june-30",
     "negRisk": false
   },
-  "will-fewer-than-200-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2098999",
-    "conditionId": "0x7e4701c8aa45133b4512d89756ffaed7e8027f3b220a0aa12069533feb10e16e",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-200-to-229-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099000",
-    "conditionId": "0xa399837780d9caf5ab21e2a9eafdddb08371037395f8a6aa17871b1671592045",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-230-to-259-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099001",
-    "conditionId": "0x251a174cdfa31db375509f98ca7d17e6ae25cab456a299cd5c534159e06aba25",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-260-to-289-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099002",
-    "conditionId": "0xd8e1587344587e2c032540ed1c8e8f0586d0bd0e5711320abcf9b8564e22a641",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-290-to-319-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099003",
-    "conditionId": "0x9da42cb4c4a8e5ac60d4f36cfcf472eea76ddb645f839fb8162c7bce3cd888af",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-320-to-349-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099004",
-    "conditionId": "0x417481ef0f951f0152ffe55e9465a7a6bc6621d2fa90bab8e3e9873d72f05db0",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-350-to-379-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099005",
-    "conditionId": "0x7c74f5ee883a9d3f8dba35eb7a0bdcf4abb7d3c286457c70fe8fbd6798a07be9",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-380-to-410-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099006",
-    "conditionId": "0x7ac6fd64a0410699d7d243bd05658039baa991cc0882fe4dc678ff4045ba30c0",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
-  "will-more-than-410-tornadoes-occur-in-the-united-states-in-may-2026": {
-    "id": "2099007",
-    "conditionId": "0xc8bf3155ff9fa07ec1dc90e548b11aa1f4cc40a3d5d8ee26bcc59050171adb59",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-tornadoes-in-the-us-in-may",
-    "negRisk": true
-  },
   "paris-hilton-pregnant-in-2026": {
     "id": "2099042",
     "conditionId": "0x4ac4ae915c26ec16bb46b78e58551038e39219afca6b1b195d4a930b849022c5",
@@ -119606,6 +119486,126 @@
   "bol1-blo-gvs-2026-05-16-exact-score-0-0": {
     "id": "2195321",
     "conditionId": "0x8c1493e70c7d36997964c6660cb6b04fa55a5b7dfaf747c44218a828bb6ab7e4",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-0-1": {
+    "id": "2195323",
+    "conditionId": "0x3e4e5990b38edf2b1ca99c635acd7667cd2249b67475c2a1ae1366246c635b5d",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-1-0": {
+    "id": "2195326",
+    "conditionId": "0xdff8c84397d75966b456afa45e1cb06924c053e6904462038dce0ee5c78d3d1a",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-0-2": {
+    "id": "2195329",
+    "conditionId": "0x1df885401b8d3b8ce54222ad1c72fce17b3b95b532506da81510d8cff4f13971",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-1-1": {
+    "id": "2195333",
+    "conditionId": "0xd228723fb725e73f944b863dc11fdc3fa6e411db65054bf3ddb836c9cfdbd5f3",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-2-0": {
+    "id": "2195337",
+    "conditionId": "0xa222dcc7b1cd42df71aaab21672cbb9b66dbad8c63e698c90373a31305b89c5d",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-0-3": {
+    "id": "2195340",
+    "conditionId": "0x06c34a4cff9cc50282b9b8a7888fc9d7a3b6cab3695143702478f090a88b4feb",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-1-2": {
+    "id": "2195344",
+    "conditionId": "0x57f160fcaef2822b55af41cb46d0435a36555c410b35662c6721078324e412e0",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-2-1": {
+    "id": "2195350",
+    "conditionId": "0x65cebb0bfd5967aa1dc82de196b2e106186b2fd6d07c01d0ad4b128c2d525788",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-3-0": {
+    "id": "2195355",
+    "conditionId": "0x7649e50b151a4cf3d628c5dfa75bb88319fd8c6fadf3def7a76dea1a7c7218e6",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-1-3": {
+    "id": "2195358",
+    "conditionId": "0x18c02c8ab29d2be0d84729faf97b666e00cfd6a7dc34cd2c4d3950ed5300b1d5",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-2-2": {
+    "id": "2195362",
+    "conditionId": "0x31b4f6452536a616085a59ca1debc9b024b8d8f6e6a12b120979032b2d4a07ff",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-3-1": {
+    "id": "2195364",
+    "conditionId": "0xe8689b20d4dfc5f4403937609e5de6fe09237c96ba7a1d09a06585072b6efdfd",
     "endDate": "2026-05-16",
     "closed": false,
     "active": true,
