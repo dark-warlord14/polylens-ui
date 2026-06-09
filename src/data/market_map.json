@@ -71817,7 +71817,7 @@
     "eventSlug": "meek-mill-gets-y-combinator-funding-by-june-30",
     "negRisk": false
   },
-  "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583": {
+  "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583-292-514": {
     "id": "1744124",
     "conditionId": "0xcfd48c874ae1760c1ec3c87a8c46c221af6a4f2be3b56618ba261bef4c92e768",
     "endDate": "2026-04-30",
@@ -106847,26 +106847,6 @@
     "eventSlug": "dota2-ic-ave-2026-04-30",
     "negRisk": false
   },
-  "another-critical-cloudflare-incident-by-june-30-2026-966": {
-    "id": "2116204",
-    "conditionId": "0x71ae0e87ed7f12c78c4677404c5c1df18322223a6f49701d07d85163d804d73e",
-    "endDate": "2026-09-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-critical-cloudflare-incident-by-995",
-    "negRisk": false
-  },
-  "another-critical-cloudflare-incident-by-september-30-2026": {
-    "id": "2116205",
-    "conditionId": "0x3c5921c2dc445e07236fabaab789e8b5b219cc73199e82160b17b9539d758d4b",
-    "endDate": "2026-09-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-critical-cloudflare-incident-by-995",
-    "negRisk": false
-  },
   "cs2-psna-inf1-2026-05-01-game1-odd-even-total-kills": {
     "id": "2116349",
     "conditionId": "0x80be01dacc7b94b2056ea98f1b5ad67efe073415fd96522459385115ee610f84",
@@ -116823,7 +116803,7 @@
     "eventSlug": "lol-hle1-dk-2026-05-12",
     "negRisk": false
   },
-  "bab-el-mandeb-strait-effectively-closed-by-june-30": {
+  "bab-el-mandeb-strait-effectively-closed-by-june-30-571": {
     "id": "2170254",
     "conditionId": "0xa976dcc2fac50cf13968adbee89ce1de26df0191b8480b89d418280273197f53",
     "endDate": "2026-04-30",
@@ -119606,6 +119586,26 @@
   "bol1-blo-gvs-2026-05-16-exact-score-2-3": {
     "id": "2195367",
     "conditionId": "0x8798bd9e8535386a51039799cea6fadf8d4012d78a1f0e86a014bc3e2ac046e8",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-3-2": {
+    "id": "2195370",
+    "conditionId": "0x2a6dd6f6a33abe61551d9d9dce66bee4e181abb65e5cd613ef8d3d0fd5d79495",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-3-3": {
+    "id": "2195373",
+    "conditionId": "0x17451e8a73c91c2952e279e33341211bfb79d3981bf5ef2cd7ecae4a6f5f8df3",
     "endDate": "2026-05-16",
     "closed": false,
     "active": true,
