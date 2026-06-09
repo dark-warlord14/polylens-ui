@@ -76432,16 +76432,6 @@
     "eventSlug": "2026-hockey-american-hockey-league-winner",
     "negRisk": true
   },
-  "2026-hockey-american-hockey-league-winner-colorado-eagles": {
-    "id": "1834048",
-    "conditionId": "0x441391cef755a71cd771d8262b6f7970ac527dfcc1924c5eb2cea290646cbae9",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-hockey-american-hockey-league-winner",
-    "negRisk": true
-  },
   "2026-hockey-american-hockey-league-winner-toronto-marlies": {
     "id": "1834067",
     "conditionId": "0x21c429c369b17dcb27e0983dc91f1a70e47d88d18490d631e9a4905d1e21bf18",
@@ -80968,26 +80958,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-lcs-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-fuego-win-lrn-2026-split-1": {
-    "id": "1901189",
-    "conditionId": "0xfc31d389c1343700c5a65eae6f83de37a06deec8aa01c32c8de770c29beb23ca",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lrn-2026-split-1-winner",
-    "negRisk": true
-  },
-  "will-g3v-e-sports-win-lrn-2026-split-1": {
-    "id": "1901194",
-    "conditionId": "0x71285631455f12844c150b50b620b36634b0a3af801c8dcc7c16bbe2355f60de",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lrn-2026-split-1-winner",
     "negRisk": true
   },
   "will-t1-esports-academy-win-lck-cl-2026": {
@@ -119611,6 +119581,36 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-abb-idp-2026-05-17-halftime-result",
+    "negRisk": true
+  },
+  "bol1-abb-idp-2026-05-17-halftime-result-draw": {
+    "id": "2195409",
+    "conditionId": "0xfbe2bffc969a6def3a0f390f2b5d203cd38960de207b2ca2b79b5f0444eef93c",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-abb-idp-2026-05-17-halftime-result",
+    "negRisk": true
+  },
+  "bol1-abb-idp-2026-05-17-halftime-result-away": {
+    "id": "2195414",
+    "conditionId": "0x5544b376758a855a33073ccb74ed1ed7761c6ec300fae33c1546152f9e7880da",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-abb-idp-2026-05-17-halftime-result",
+    "negRisk": true
+  },
+  "bol1-abb-idp-2026-05-17-exact-score-0-0": {
+    "id": "2195445",
+    "conditionId": "0xb051685ecb1f75d915205831c1a29fc659254f3d4a34e658cabef49d279b8fe7",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-abb-idp-2026-05-17-exact-score",
     "negRisk": true
   }
 }
