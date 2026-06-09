@@ -19694,16 +19694,6 @@
     "eventSlug": "arizona-governor-republican-primary-winner",
     "negRisk": true
   },
-  "will-there-be-8-or-more-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30": {
-    "id": "822854",
-    "conditionId": "0x897a2f88e1b65776ac5af0440833eea638395f0af0df4bed47e83f64c9b9a1e3",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-7pt0-or-above-earthquakes-by-june-30",
-    "negRisk": true
-  },
   "will-trump-pardon-ryan-salame-before-2027": {
     "id": "822866",
     "conditionId": "0xbde10fc985687f35034b62df6cd50adbe835dcf08a36a93c4c695ed75777e32c",
@@ -19713,16 +19703,6 @@
     "acceptingOrders": true,
     "eventSlug": "who-will-trump-pardon-before-2027",
     "negRisk": false
-  },
-  "will-there-be-exactly-7-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30": {
-    "id": "823412",
-    "conditionId": "0x3acc06a95895e69efeeaae4dfdce738b91702c94556b230208b4f0438be8e4e5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-7pt0-or-above-earthquakes-by-june-30",
-    "negRisk": true
   },
   "will-aaron-ford-win-the-2026-nevada-governor-democratic-primary-election": {
     "id": "824179",
@@ -71817,7 +71797,7 @@
     "eventSlug": "meek-mill-gets-y-combinator-funding-by-june-30",
     "negRisk": false
   },
-  "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583-292-514": {
+  "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583-292-514-553": {
     "id": "1744124",
     "conditionId": "0xcfd48c874ae1760c1ec3c87a8c46c221af6a4f2be3b56618ba261bef4c92e768",
     "endDate": "2026-04-30",
@@ -119611,6 +119591,26 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-gvs-2026-05-16-exact-score-any-other": {
+    "id": "2195375",
+    "conditionId": "0xd287465576bb3ca9795b007f34e4d8ae3c18c4304fda4334828938faad7fef89",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-gvs-2026-05-16-exact-score",
+    "negRisk": true
+  },
+  "bol1-abb-idp-2026-05-17-halftime-result-home": {
+    "id": "2195405",
+    "conditionId": "0xb888e1c163964ac859c75bfeaab58189a4cf90402177e85a03177e0aafa1e7f2",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-abb-idp-2026-05-17-halftime-result",
     "negRisk": true
   }
 }
