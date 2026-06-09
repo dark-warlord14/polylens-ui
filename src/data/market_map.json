@@ -19367,16 +19367,6 @@
     "eventSlug": "virginia-democratic-senate-primary-winner",
     "negRisk": true
   },
-  "will-jason-reynolds-be-the-democratic-nominee-for-senate-in-virginia": {
-    "id": "800772",
-    "conditionId": "0x9a63cbb0d52cd0bc3b52e576266cd5de0b0113e4fbac996d65d713b8e18d8dd8",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "virginia-democratic-senate-primary-winner",
-    "negRisk": true
-  },
   "will-annie-andrews-be-the-democratic-nominee-for-senate-in-north-carolina": {
     "id": "801860",
     "conditionId": "0xd81615bc7ce4c6cd279a88d648ef3260b424eb6b541182e3c1f1dced2a1ca963",
@@ -78120,16 +78110,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-pain-win-iem-cologne-major-2026": {
-    "id": "1892303",
-    "conditionId": "0x66e556ecc197710fa2a790e67129ca9f800548f3b172bc801fb13bcb5c28734e",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-legacy-win-iem-cologne-major-2026": {
     "id": "1892304",
     "conditionId": "0x12c1bfb92391c9a763cff1ab29ff3c09690a1830e717db5547cf8dcd7460460c",
@@ -97349,7 +97329,7 @@
     "eventSlug": "wnba-team-to-make-postseason",
     "negRisk": false
   },
-  "will-spacex-acquire-cursor": {
+  "will-spacex-acquire-cursor-by-december-31-2026-675": {
     "id": "2047984",
     "conditionId": "0xc2dd20bc42378191ba1e6068f2afa8b2a6c13881a42ee03e211441f0a2f3aeac",
     "endDate": "2026-12-31",
@@ -119606,6 +119586,26 @@
   "bol1-abb-idp-2026-05-17-exact-score-0-0": {
     "id": "2195445",
     "conditionId": "0xb051685ecb1f75d915205831c1a29fc659254f3d4a34e658cabef49d279b8fe7",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-abb-idp-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-abb-idp-2026-05-17-exact-score-0-1": {
+    "id": "2195448",
+    "conditionId": "0x32f0dfeb7a7714e0bdc921154eb5906005b3c6517b6fac339f306504240db0e4",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-abb-idp-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-abb-idp-2026-05-17-exact-score-1-0": {
+    "id": "2195451",
+    "conditionId": "0xbe20d39bd297eea333a4f043598308d9da27d584f6174019b703e74fcbd0b621",
     "endDate": "2026-05-17",
     "closed": false,
     "active": true,
