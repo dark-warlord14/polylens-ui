@@ -19137,26 +19137,6 @@
     "eventSlug": "central-african-republic-national-assembly-election-winner",
     "negRisk": true
   },
-  "will-mark-warner-be-the-democratic-nominee-for-senate-in-virginia": {
-    "id": "800771",
-    "conditionId": "0x7bb476888a46ccf78be5bba9db6806a789992117eead821edc30ff27dfee08aa",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "virginia-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jason-reynolds-be-the-democratic-nominee-for-senate-in-virginia": {
-    "id": "800772",
-    "conditionId": "0x9a63cbb0d52cd0bc3b52e576266cd5de0b0113e4fbac996d65d713b8e18d8dd8",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "virginia-democratic-senate-primary-winner",
-    "negRisk": true
-  },
   "will-allen-waters-be-the-republican-nominee-for-senate-in-rhode-island": {
     "id": "801910",
     "conditionId": "0xc9ec0ff194451373b723698e23bdaca64aa139a883d8b766999b0bea01b0e949",
@@ -68375,46 +68355,6 @@
     "eventSlug": "fed-decisions-apr-jul",
     "negRisk": true
   },
-  "will-the-bank-of-canada-announce-a-50-bps-decrease-at-the-june-meeting": {
-    "id": "1697084",
-    "conditionId": "0x8c2beab0e154c578ef23dfba88d8648dba30d292cb96988ad4e33bacad4b2e15",
-    "endDate": "2026-06-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-canada-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-bank-of-canada-announce-a-25-bps-decrease-at-the-june-meeting": {
-    "id": "1697085",
-    "conditionId": "0xfb58cedd4b17f09429e0ad84f4824244ff9e6678481d02d740a2fd77c3b1db16",
-    "endDate": "2026-06-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-canada-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-bank-of-canada-announce-no-change-at-the-june-meeting": {
-    "id": "1697086",
-    "conditionId": "0xaa5aa8844cdcb27f9224d55472a4017788d54e36080250c7b6c63d537fb3d6de",
-    "endDate": "2026-06-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-canada-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-bank-of-canada-announce-an-increase-at-the-june-meeting": {
-    "id": "1697087",
-    "conditionId": "0x146cdf818590e91110ab0ec950b367020625c792ce1953f12bb5e7c439643797",
-    "endDate": "2026-06-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-canada-decision-in-june",
-    "negRisk": true
-  },
   "will-the-bank-of-brazil-increase-the-selic-rate-after-june-2026-meeting": {
     "id": "1697099",
     "conditionId": "0x1b9241de79ca65e8ce76396b3845854363e5ae949f9eba70986f923fb4ecc9ce",
@@ -102718,16 +102658,6 @@
     "eventSlug": "may-2026-temperature-increase-c",
     "negRisk": true
   },
-  "will-global-temperature-increase-by-between-1pt10c-and-1pt14c-in-may-2026": {
-    "id": "2097732",
-    "conditionId": "0x0a29ccbbe71b87570c2c3feae6be0c42963c15e26e4dd46ccb0aa4f9d269a1bd",
-    "endDate": "2026-06-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "may-2026-temperature-increase-c",
-    "negRisk": true
-  },
   "will-global-temperature-increase-by-between-1pt15c-and-1pt19c-in-may-2026": {
     "id": "2097733",
     "conditionId": "0x8a058b72ba812fcfa928fd9ff7a35ab0ad03a3eb5afc14ca0dd01e59f76c35fc",
@@ -119611,6 +119541,76 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-3-2": {
+    "id": "2195993",
+    "conditionId": "0xe4d1895add6c1ed7a41a9950c73eef90e0d0a958b4abe77d273a39578a6e7147",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-3-3": {
+    "id": "2195997",
+    "conditionId": "0x263bcb8d22fd5974130c66b6f8dbfcfa3d6502ceb9ccb149debe54c497b042a2",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-any-other": {
+    "id": "2196001",
+    "conditionId": "0x1821ff7bf42ec733603e68d6c8b86ed378e5b20315a778b0996bec26e0d02b65",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-uvi-2026-05-23-halftime-result-home": {
+    "id": "2196024",
+    "conditionId": "0xd9289c7adc5e84f82ec0f6c03f4eab47cc1f5902d801c190f009d4e16e6bdbee",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-halftime-result",
+    "negRisk": true
+  },
+  "bol1-alw-uvi-2026-05-23-halftime-result-draw": {
+    "id": "2196026",
+    "conditionId": "0x863a102fca3c67f881344468d30a2ab6a6291cd6e59a2c0090b7ada4108ac4e7",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-halftime-result",
+    "negRisk": true
+  },
+  "bol1-alw-uvi-2026-05-23-halftime-result-away": {
+    "id": "2196028",
+    "conditionId": "0xb5df02096d16b6ac41f34e4c9f58d6ff380398c9cb0047417d5d0b8ad480c181",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-halftime-result",
+    "negRisk": true
+  },
+  "bol1-alw-uvi-2026-05-23-exact-score-0-0": {
+    "id": "2196037",
+    "conditionId": "0x7fa42aa9e0dadc3d564c5bc98ff8c3dc9dac03ef411f53b995d0f2faf7f39fa1",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-uvi-2026-05-23-exact-score",
     "negRisk": true
   }
 }
