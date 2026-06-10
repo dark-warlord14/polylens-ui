@@ -2599,116 +2599,6 @@
     "eventSlug": "michigan-democratic-senate-primary-winner",
     "negRisk": true
   },
-  "will-graham-platner-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599323",
-    "conditionId": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-janet-mills-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599324",
-    "conditionId": "0x690d504367efdec61936e7dc1c572c1598281f3e91d30d3b6148f3f1f48642d5",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-dan-kleban-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599325",
-    "conditionId": "0x3bb5ceb45e186de77b1faaf56abf427c8c6f1a88532e4a0dc0ad9c1ffdac2a39",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-chellie-pingree-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599326",
-    "conditionId": "0xd33b405694c28eb7ea092d5146085fe9234fffa467b4449b068a11f4762aa527",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jordan-wood-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599327",
-    "conditionId": "0x715eb3d786c7d27ff65c28b3122ad0ecb41e3d0ca588dc1e291317a06c1ec47f",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-troy-jackson-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599328",
-    "conditionId": "0x9248190b831a98a8996cbf370e731312e380c59b1969dcd22d6eab6f831d95f4",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jared-golden-be-the-democratic-nominee-for-senate-in-maine": {
-    "id": "599329",
-    "conditionId": "0xe766d95249dc636e0f3b9c40be41e60312c11caade2e4c7208cab46109204e5f",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-lindsey-graham-be-the-republican-nominee-for-senate-in-south-carolina": {
-    "id": "599354",
-    "conditionId": "0x92197207636b8e30492f9d25e0833677914a178ff91113980f6f0fc8f0392746",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-paul-dans-be-the-republican-nominee-for-senate-in-south-carolina": {
-    "id": "599355",
-    "conditionId": "0x627aacb00c6c054f1e4894019ff49f1681f22466fc819f20c200a9c96774748a",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-mark-lynch-be-the-republican-nominee-for-senate-in-south-carolina": {
-    "id": "599356",
-    "conditionId": "0xa99c78533f4307896fd64726f47e6f0586bd7a1fcb5285aae302ac623962272c",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-thomas-murphy-be-the-republican-nominee-for-senate-in-south-carolina": {
-    "id": "599357",
-    "conditionId": "0x1988c06f15c8194f296b7154c6c8529eeb06402599af4d2133ac607ee8f36a5f",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-republican-senate-primary-winner",
-    "negRisk": true
-  },
   "will-applovin-acquire-tiktok-682-567": {
     "id": "599831",
     "conditionId": "0x1092e16a9e18ffeadedb8e4c1363d773a9c1b2dc89946155a1581a77cc44ca26",
@@ -17623,46 +17513,6 @@
     "eventSlug": "reya-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "will-randy-villegas-advance-from-the-ca-22-primary": {
-    "id": "705984",
-    "conditionId": "0x2db08670f64b492d2fb4f925b46447a89558494595b0e4eeb8cac8db9a9c9d28",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-22-primary-winners",
-    "negRisk": false
-  },
-  "will-rudy-salas-advance-from-the-ca-22-primary": {
-    "id": "705985",
-    "conditionId": "0x80bca855bd6c19563b25144c980ca4fe11eab6e6c40efbe07f4b675a1b316970",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-22-primary-winners",
-    "negRisk": false
-  },
-  "will-david-valadao-advance-from-the-ca-22-primary": {
-    "id": "705986",
-    "conditionId": "0xb5f72fa651687017f216eb1a96b2f0c37b265109d126d96edc863dbb1bbc065b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-22-primary-winners",
-    "negRisk": false
-  },
-  "will-chris-mathys-advance-from-the-ca-22-primary": {
-    "id": "705987",
-    "conditionId": "0xe2ad1cbb1806ce5e3993894b52ade4f7e208734a5ca0fd3eee14e8dfc2ae0bcb",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-22-primary-winners",
-    "negRisk": false
-  },
   "will-sandy-spidel-neumann-be-the-democratic-nominee-for-senate-in-kansas": {
     "id": "706082",
     "conditionId": "0x7746b132411eaddfa8459cdd260d3fcf486507536421ea2a50fff7df17f8db24",
@@ -19317,36 +19167,6 @@
     "eventSlug": "virginia-democratic-senate-primary-winner",
     "negRisk": true
   },
-  "will-annie-andrews-be-the-democratic-nominee-for-senate-in-north-carolina": {
-    "id": "801860",
-    "conditionId": "0xd81615bc7ce4c6cd279a88d648ef3260b424eb6b541182e3c1f1dced2a1ca963",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-catherine-fleming-bruce-be-the-democratic-nominee-for-senate-in-north-carolina": {
-    "id": "801861",
-    "conditionId": "0xbdfa967a35911cb4a847488050f31f2d69e272aff65aa6bf53dd87b90c01e7ac",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-kyle-freeman-be-the-democratic-nominee-for-senate-in-north-carolina": {
-    "id": "801862",
-    "conditionId": "0xca360f44c8bb880f8e57ec808f867e50e054f872fad4d6df56b90391685f0bed",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-democratic-senate-primary-winner",
-    "negRisk": true
-  },
   "will-allen-waters-be-the-republican-nominee-for-senate-in-rhode-island": {
     "id": "801910",
     "conditionId": "0xc9ec0ff194451373b723698e23bdaca64aa139a883d8b766999b0bea01b0e949",
@@ -19643,26 +19463,6 @@
     "acceptingOrders": true,
     "eventSlug": "who-will-trump-pardon-before-2027",
     "negRisk": false
-  },
-  "will-aaron-ford-win-the-2026-nevada-governor-democratic-primary-election": {
-    "id": "824179",
-    "conditionId": "0xf762b70509052cd499fcb48285f09573113874bb004cb6ab85f3e7d203569de2",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nevada-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-alexis-hill-win-the-2026-nevada-governor-democratic-primary-election": {
-    "id": "824180",
-    "conditionId": "0x9504d0074cc8dccb98f6c1e8ae836591cf2e649528c8df564eae428c0cc7e69b",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nevada-governor-democratic-primary-winner",
-    "negRisk": true
   },
   "will-kelly-ayotte-win-the-2026-new-hampshire-governor-republican-primary-election": {
     "id": "824198",
@@ -22384,46 +22184,6 @@
     "eventSlug": "rhode-island-governor-republican-primary-winner",
     "negRisk": true
   },
-  "will-jermaine-johnson-win-the-2026-south-carolina-governor-democratic-primary-election": {
-    "id": "906912",
-    "conditionId": "0xf688606e6f30e1c55c595ccb992d095e8c9ffe2153154aeec6609eb002f201ee",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-mullins-mcleod-win-the-2026-south-carolina-governor-democratic-primary-election": {
-    "id": "906913",
-    "conditionId": "0xa96c73d510776218ee2ff7d056226c876f67c892a6f7b8d9d5aa30d186d2c89b",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-justin-a-bennett-win-the-2026-south-carolina-governor-democratic-primary-election": {
-    "id": "906914",
-    "conditionId": "0x743228557c26e8794a431cada6e3b2b9c40febcc00e201ef10872923f92ccc5f",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-billy-webster-win-the-2026-south-carolina-governor-democratic-primary-election": {
-    "id": "906915",
-    "conditionId": "0x5c8dc748cfec530d07f450add0f80996a742d36d532058b39bd561cd6e67d841",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-democratic-primary-winner",
-    "negRisk": true
-  },
   "will-pamela-evette-win-the-2026-south-carolina-governor-republican-primary-election-972": {
     "id": "906945",
     "conditionId": "0x2ff32cec61a2e9924b5e1207974fdb171efe4568bff1aff58b3d15b26237b36b",
@@ -24862,16 +24622,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "opensea-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "will-jasmeet-bains-advance-from-the-ca-22-primary": {
-    "id": "941126",
-    "conditionId": "0xde21f299b52e97904d116469a869a1517e9e1f924cd9af7fb0a309cb4f4e1a6b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-22-primary-winners",
     "negRisk": false
   },
   "supreme-court-vacancy-in-2026": {
@@ -31251,46 +31001,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ukraine-peace-referendum-passed-by-december-31-2026",
-    "negRisk": false
-  },
-  "will-ro-khanna-advance-from-the-ca-17-primary": {
-    "id": "1059735",
-    "conditionId": "0xce9aeaf810aff1806b6711e1748e0cd23f7265db9674a4437dec34a74b8cc7cf",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-17-primary-winners",
-    "negRisk": false
-  },
-  "will-nicholas-finan-advance-from-the-ca-17-primary": {
-    "id": "1059736",
-    "conditionId": "0xac95c1e06bd09aa1014bb80342031a61ea44b5ac35d3961e4cde279bf060217f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-17-primary-winners",
-    "negRisk": false
-  },
-  "will-ha-phan-advance-from-the-ca-17-primary": {
-    "id": "1059737",
-    "conditionId": "0x9173fbd3efa3cb557065ba3454e777c94754b2cd065714fbd0c2dce140f326e0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-17-primary-winners",
-    "negRisk": false
-  },
-  "will-ritesh-tandon-advance-from-the-ca-17-primary": {
-    "id": "1059738",
-    "conditionId": "0x507336e3683e857dab92cbcb691e788fb6d2c6f0a810d4c0d6034cc60b7011e6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-17-primary-winners",
     "negRisk": false
   },
   "is-jeffrey-epstein-alive-498": {
@@ -65400,16 +65110,6 @@
     "eventSlug": "crint-afg-lka-2026-03-15-team-top-batter",
     "negRisk": true
   },
-  "will-ethan-agarwal-advance-from-the-ca-17-primary": {
-    "id": "1540754",
-    "conditionId": "0x06d11047d7ca77b9d32edb64e83991beffeef82cee40352481e2c60f79cf8b9c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-17-primary-winners",
-    "negRisk": false
-  },
   "will-alvin-kamara-be-traded": {
     "id": "1540825",
     "conditionId": "0x8d574d2bf7145f4084eba38cabdde3174b59d19836c42fc8f1812056df8d3980",
@@ -88659,16 +88359,6 @@
     "eventSlug": "cs2-haven-nic1-2026-04-16",
     "negRisk": false
   },
-  "will-gold-gc-hit-low-4300-by-end-of-june-786-418-284-459-592-615-611-319-993-231-689-345": {
-    "id": "2001188",
-    "conditionId": "0x29a63e3c3163446dfe747e94e41109b5f4061f708e6ac91cd3c715649bf7b76c",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gc-hit-jun-2026",
-    "negRisk": false
-  },
   "will-gold-gc-hit-high-4900-by-end-of-june": {
     "id": "2001214",
     "conditionId": "0x1f478289d98ce38307785bfc98b1f05aaf31680ad52b498ec0a668098281eece",
@@ -95697,276 +95387,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "etna-eruption-with-vei-2-in-2026",
-    "negRisk": false
-  },
-  "will-kevin-kiley-advance-from-the-ca-06-primary-election": {
-    "id": "2045601",
-    "conditionId": "0xdec0c27ea95f2580eea40b9388d6b6b2847123761eeb9cece31df05e33394452",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-lauren-babb-tomlinson-advance-from-the-ca-06-primary-election": {
-    "id": "2045602",
-    "conditionId": "0xfe1373c1dc94a8b1a9f96bf6888f98e30acc0b49bafd08292f86807c58ac46bf",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-martha-guerrero-advance-from-the-ca-06-primary-election": {
-    "id": "2045603",
-    "conditionId": "0x73ef256814cd087980ce87e825d32239532b73a8e380854420ea5c05af6c669e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-michael-stansfield-advance-from-the-ca-06-primary-election": {
-    "id": "2045604",
-    "conditionId": "0xa347c1d2a33aaf0f2b63f368b7264dd1f668b7f66e1c92f0c5a45f17da386ef0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-richard-pan-advance-from-the-ca-06-primary-election": {
-    "id": "2045605",
-    "conditionId": "0x9dbcd1f80bea006f1ac90a6eeefa28ac80acab2dfdc56908cd25b5eac14d95e2",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-thien-ho-advance-from-the-ca-06-primary-election": {
-    "id": "2045606",
-    "conditionId": "0xd54a7c3af7badf4d298ee4dec70281514bf93a6da7168e2282fdf5cae254a4a6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-tyler-vandenberg-advance-from-the-ca-06-primary-election": {
-    "id": "2045607",
-    "conditionId": "0xf1ffb035936cd71a0b011cb8a7a8445c6902aa255acddcdc66ce04abf849a483",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-06-primary-winners",
-    "negRisk": false
-  },
-  "will-doris-matsui-advance-from-the-ca-07-primary-election": {
-    "id": "2045668",
-    "conditionId": "0xb1df82be7ce737d52be7354722539db33e55c1254a05b8aa07940d540b31e501",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-07-primary-winners",
-    "negRisk": false
-  },
-  "will-enayat-nazhat-advance-from-the-ca-07-primary-election": {
-    "id": "2045669",
-    "conditionId": "0x0e139953b1123f4fad7b2801ef01aff3e2b7784917ffb7e7c5ad3819a6bc28d7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-07-primary-winners",
-    "negRisk": false
-  },
-  "will-mai-vang-advance-from-the-ca-07-primary-election": {
-    "id": "2045670",
-    "conditionId": "0x52a1f17e0ff3f91e7e1454943d095aa713c93525e60c12b73ca87e0f03a9a1a5",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-07-primary-winners",
-    "negRisk": false
-  },
-  "will-ralph-nwobi-advance-from-the-ca-07-primary-election": {
-    "id": "2045671",
-    "conditionId": "0x3a53dd1a95b1e781a703160214e162eb095ee89794c874502a29cbddb6c6fc11",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-07-primary-winners",
-    "negRisk": false
-  },
-  "will-robert-morin-advance-from-the-ca-07-primary-election": {
-    "id": "2045672",
-    "conditionId": "0x5c4d3c29f86925d58b980dbed3ee1b6b9cf541c8095dadaa8a27e2197d06ee71",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-07-primary-winners",
-    "negRisk": false
-  },
-  "will-zachariah-wooden-advance-from-the-ca-07-primary-election": {
-    "id": "2045673",
-    "conditionId": "0x0f9a08b2e00463d30dfe0d41ca7a553e42061359475c33145c1e359af97740dc",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-07-primary-winners",
-    "negRisk": false
-  },
-  "will-claude-keissieh-advance-from-the-ca-40-primary-election": {
-    "id": "2045768",
-    "conditionId": "0xc14e9e3c85790585cd24593d1b150e3f225f8663fa7542139d79c602f6cc0911",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-esther-kim-varet-advance-from-the-ca-40-primary-election": {
-    "id": "2045769",
-    "conditionId": "0xf3874f9f010cc3d6f92d7d696dc135f6adb982c61bdf627a70375301ca849940",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-francis-hoffman-advance-from-the-ca-40-primary-election": {
-    "id": "2045770",
-    "conditionId": "0x06816ac46464071f72d3d782c6c5bd2ada0d4ec3de48280c8e346b8a7080a497",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-joe-kerr-advance-from-the-ca-40-primary-election": {
-    "id": "2045771",
-    "conditionId": "0xd132480d5ca9cef067ead40db4b5c1eb6b069365eca97cfe25ce16eb7e3a18b6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-ken-calvert-advance-from-the-ca-40-primary-election": {
-    "id": "2045772",
-    "conditionId": "0xc887e917c9fe2acfc563546d5a2f8f3e5070025891c85d843f470f0a1ead1aa3",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-lisa-ramirez-advance-from-the-ca-40-primary-election": {
-    "id": "2045773",
-    "conditionId": "0xd1027b7ac28a62245461d4df2f41673c421747506404b43afa6ab1bf57f6e1d7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-nina-linh-advance-from-the-ca-40-primary-election": {
-    "id": "2045774",
-    "conditionId": "0xf1c38cfd4fe8cdceee732f3fc1d69a241925f23027ce9a7f144bcb53ab16c83e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-young-kim-advance-from-the-ca-40-primary-election": {
-    "id": "2045775",
-    "conditionId": "0x62deb9a8d72e40a658dbe8e04e3937647d29b2866e1c07737aee5641bae90c92",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-40-primary-winners",
-    "negRisk": false
-  },
-  "will-amy-phan-west-advance-from-the-ca-45-primary-election": {
-    "id": "2045869",
-    "conditionId": "0xc4cb67977de06ca4e446f48e5175abfd2490ce396cafe5e466547b68ec273ddf",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-45-primary-winners",
-    "negRisk": false
-  },
-  "will-chi-charlie-nguyen-advance-from-the-ca-45-primary-election": {
-    "id": "2045870",
-    "conditionId": "0x57536d59bbf8b75b164ead4b6b579cad979b75f2fc407e6f8a545860cde1a91c",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-45-primary-winners",
-    "negRisk": false
-  },
-  "will-chuong-vo-advance-from-the-ca-45-primary-election": {
-    "id": "2045871",
-    "conditionId": "0x16fb3f08a2589239624eb854f728fbea142e197e41ee6ffbd7f80bd147f9f42f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-45-primary-winners",
-    "negRisk": false
-  },
-  "will-derek-tran-advance-from-the-ca-45-primary-election": {
-    "id": "2045872",
-    "conditionId": "0x30548023f3059b271863fc952eb5d0f15df99ebb1ba24c9ae174e5c01998511d",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-45-primary-winners",
-    "negRisk": false
-  },
-  "will-mark-leonard-advance-from-the-ca-45-primary-election": {
-    "id": "2045873",
-    "conditionId": "0xbe8e69a4cf0a4cc446f4b9dd47fa589f705e7959535453cc5d0161a55d02cb94",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-45-primary-winners",
-    "negRisk": false
-  },
-  "will-tom-vo-advance-from-the-ca-45-primary-election": {
-    "id": "2045874",
-    "conditionId": "0x85695b61993d8ed738f33dec76f931ae9e584c9b67d91a5ad7c936e75966f421",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-45-primary-winners",
     "negRisk": false
   },
   "will-0-people-leave-the-trump-cabinet-by-december-31-2026": {
@@ -119611,6 +119031,586 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-2-3": {
+    "id": "2195601",
+    "conditionId": "0x9760e481e3eeba5a222313b0795593247101a1b0a5d6340189a981622afa2749",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-3-2": {
+    "id": "2195604",
+    "conditionId": "0xdb47004038dcf9c60b7a92966459934533c571ba5e6c273345c6114e7eb1d7a3",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-3-3": {
+    "id": "2195607",
+    "conditionId": "0x797d93609e739b17631d22bba9560f943230d9405d28812221d9b85ccfb63c0a",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-any-other": {
+    "id": "2195610",
+    "conditionId": "0x8b2105ee478d34e9892baa9b7e013e83a4238561a2181c492ed0066f2fd2f7d6",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-halftime-result-home": {
+    "id": "2195737",
+    "conditionId": "0x828826c489012ebc49f302417b6828c34f3386ce0a96d42e2b1a942dfad52883",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-halftime-result-draw": {
+    "id": "2195740",
+    "conditionId": "0xd56763c6be063bfcef28c652d1855146dd95a2a335e3a22bf3e04c04aedb39f6",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-halftime-result-away": {
+    "id": "2195743",
+    "conditionId": "0x08afe0df6291187481245dcc64fd0458f53c80a70daeb9b32ada56a9cbc417ef",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-0-0": {
+    "id": "2195754",
+    "conditionId": "0xfd3a08a6ea79c5dd528db1f996965628e10d3ba6197d25769353cac4390e2fe1",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-0-1": {
+    "id": "2195757",
+    "conditionId": "0xfe42692dacaf8231e0a0d47ac5d27a012b13d0123061a88758dc30f8be50703a",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-1-0": {
+    "id": "2195763",
+    "conditionId": "0x03182f4f86de989a718404fa19f9693c63b766f70bd8c1a74c7ee5bea63e25c6",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-0-2": {
+    "id": "2195769",
+    "conditionId": "0x0f85fe6bd498b09b0d81b59f61c364f183d8395a4e3f91fe716eac6242ad042e",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-1-1": {
+    "id": "2195772",
+    "conditionId": "0x193ffb6986edeff79344bdc7a5cd09f55b8ff37d5502379cfbd6941de5f9dcfb",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-2-0": {
+    "id": "2195775",
+    "conditionId": "0x1d66e7688e52857b561060bca561609ef833a0455f752be76ab0c00b738df691",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-0-3": {
+    "id": "2195778",
+    "conditionId": "0x5a942207cf2f58fc37e16e9150397ce82c72ec35368fec46e22e70323fbd458f",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-1-2": {
+    "id": "2195782",
+    "conditionId": "0x2a119fc8e9b5055a207826040d97ff4dbe5a35b8787163dd6e5c88a1b0fa7af4",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-2-1": {
+    "id": "2195785",
+    "conditionId": "0x519a7985899023e65a2d5b923e71a4cca85f6b84f6ebf90458ae9176bde80e95",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-3-0": {
+    "id": "2195788",
+    "conditionId": "0xf91942c9c007aac404615049173bf73ff3411e82c994559c5dd202734468c5b1",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-1-3": {
+    "id": "2195790",
+    "conditionId": "0x6b441c86aff9cace4b5b1c1ae43285143299c0e34d6b6d51ac5c68c32b8614bd",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-2-2": {
+    "id": "2195792",
+    "conditionId": "0x66546e96ac67dd76dec366c1704b48079e64c7c334e1867cc1592bba90c2171d",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-3-1": {
+    "id": "2195794",
+    "conditionId": "0x66ffca64c07023712a4085baec36a4c17bb0aa670ed0205190cc7387cb954713",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-2-3": {
+    "id": "2195796",
+    "conditionId": "0xbc29c7f6bcc41eecb0dd84b504c778009373142a9e6464cedd0195ba94a7820b",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-3-2": {
+    "id": "2195798",
+    "conditionId": "0x292fe78514d6f65c7d268a406a5a1e686eeaf809a5377834d2e16ae988980a36",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-3-3": {
+    "id": "2195801",
+    "conditionId": "0x6b1b825ea3e69a350fa48fd98f403a70db914a9f2196c65e9903ba0956e9fdb9",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-ant-2026-05-18-exact-score-any-other": {
+    "id": "2195805",
+    "conditionId": "0x54e57ed55f94876c53a24744799a34e226a95524f5def8497a0d9d122c968a6e",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-ant-2026-05-18-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-halftime-result-home": {
+    "id": "2195836",
+    "conditionId": "0x77f4543fd2787bd8468d200762e68cba9f34855697a105d1174111215b1f3ca5",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-halftime-result",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-halftime-result-draw": {
+    "id": "2195839",
+    "conditionId": "0x81f71dfccd45a5dde796a35fb575b9237135d795c4fbdfb09c7abc0bb0b0e349",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-halftime-result",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-halftime-result-away": {
+    "id": "2195842",
+    "conditionId": "0x3198b4ad177c987427fcc53838a0dabdc1f72f3abff6bfdbc3bfe4258a875474",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-halftime-result",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-0-0": {
+    "id": "2195850",
+    "conditionId": "0xa5d9b4431c49bea9d1bb812b15697083bc06543461b0f6c2dec9e117b0fb7580",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-0-1": {
+    "id": "2195853",
+    "conditionId": "0xd67afd8fa63540363164fed185a2464051fa877f6dcf590ed90bc1a71bfb4c4d",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-1-0": {
+    "id": "2195856",
+    "conditionId": "0x244badd4a4c412b08f41c9c29f39b1b1c191e6e427177003e702985f83ea5f85",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-0-2": {
+    "id": "2195858",
+    "conditionId": "0xc911124f936c48c4a805357c9a7262c737501420a489abfa260002ddd48825af",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-1-1": {
+    "id": "2195860",
+    "conditionId": "0xfca68640e63689b1d5386d859a2daac41c21e4961d73237aa8b502a07e990ab9",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-2-0": {
+    "id": "2195863",
+    "conditionId": "0x4e838409f95f75e017d57343b075a67c062a605d72725f6a0632502fcc828e69",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-0-3": {
+    "id": "2195865",
+    "conditionId": "0x717a631e9ad2b783d2a0b48685218ae5a019424471ecacf90be71a6521f5910e",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-1-2": {
+    "id": "2195867",
+    "conditionId": "0x97f3462a758dc92d100c82415f3a452e93442614f762e891977e360408b2ca50",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-2-1": {
+    "id": "2195869",
+    "conditionId": "0xfc9906497815550c3c791c676767a28320092e7404109340d4a01a575ca5f3c4",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-3-0": {
+    "id": "2195871",
+    "conditionId": "0xb337dded290b59f879dea4d5b48c735782fbdb26677f3c3c7ff4a6feb5d41ed0",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-1-3": {
+    "id": "2195873",
+    "conditionId": "0xa830e9dcd7217f43d10e8e2213a044caaab63564cdaf87196bcf9f12e7db5a77",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-2-2": {
+    "id": "2195876",
+    "conditionId": "0x1a4bd2946b19e0944efac1c7e0cfdad93d6f67592e3811a6518d40c18b925da7",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-3-1": {
+    "id": "2195881",
+    "conditionId": "0x5134527bac953674936e4a082cecda151ac7bedf4b01b183af2a4d05cbb2cdea",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-2-3": {
+    "id": "2195885",
+    "conditionId": "0x5618660be00cba0adccc4f72c267f6be55ea058fc87d905c49877f671009fb36",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-3-2": {
+    "id": "2195889",
+    "conditionId": "0xf951eaabf7d4a463b7cbd38c8b26ef4bbebabd3f1a465c3c4dc21e40cdf89984",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-3-3": {
+    "id": "2195893",
+    "conditionId": "0xc0c6af584a2e4e4c5461c23faf119e5e71972eae78d5d6adb89300068c26e2d5",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-ant-abb-2026-05-22-exact-score-any-other": {
+    "id": "2195897",
+    "conditionId": "0x2ab3c3ddf5cdd5650ee485c98b35ef4a0a00b7fc267b939662032787a4734efd",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-ant-abb-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-halftime-result-home": {
+    "id": "2195925",
+    "conditionId": "0xc1bc45417b21a0cc0236120d68b0c6de1536c548705f07cb6a8dc7f440a28b83",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-halftime-result-draw": {
+    "id": "2195928",
+    "conditionId": "0x64272f8ef341dd4e0b73042d03bc5f826d9c6cae8772c4a1e98b42753da88097",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-halftime-result-away": {
+    "id": "2195932",
+    "conditionId": "0x4cad11c937aeebda2cdbfa7bc29ad0e50749f4f98549fa3f8a8c70466ed6b91a",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-0-0": {
+    "id": "2195953",
+    "conditionId": "0x910ab5650bb1ba8a74b304a71a790a6f748a2c7f5c4620385e34d110b22c6540",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-0-1": {
+    "id": "2195956",
+    "conditionId": "0xc734c1d6ca45f5490eef3fc719ac10df97181e59fa9442c8070171a9629859b7",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-1-0": {
+    "id": "2195958",
+    "conditionId": "0xb4e61a04219f89373ab1c6c72c98cae0d4c3b9e9ecfdfdff6a2e99fa2340c89c",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-0-2": {
+    "id": "2195960",
+    "conditionId": "0xb692108aea84d5ee419dd3d2b45db4b4052adbecef4a51d258af0b0c3626acfa",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-1-1": {
+    "id": "2195962",
+    "conditionId": "0xdd4491e0f6006b7fa1d8dc13a55f862003082a513cb370b79028c0a8746a814d",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-2-0": {
+    "id": "2195964",
+    "conditionId": "0xdc5de196f33ef250ac2448b5b3f7c33e5cd6af5dcac4898c5e6fef8d5c644d2b",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-0-3": {
+    "id": "2195966",
+    "conditionId": "0x3c9e93c5649aeb9fd2f2f426365434c45d15e2aaa58541608bffe4ca40570c9a",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-1-2": {
+    "id": "2195968",
+    "conditionId": "0xb7fcccc2b7bda4eb94fcf3de6cec2aee86cd220280229857227fd138439d15b0",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-2-1": {
+    "id": "2195971",
+    "conditionId": "0xb45b1282deb0d1334501dcbc2791f208e30ab54a33744c0e35b8c0ab42ada0cb",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-3-0": {
+    "id": "2195974",
+    "conditionId": "0x4d7385dcbbf9b7636b4df6d3d8b8324c0c787316710412b9451ff3437874105d",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-1-3": {
+    "id": "2195977",
+    "conditionId": "0x385c22aba56969fd8f90758b430ded1c96aa4ab0c29a4cd410bab0bd9bc62471",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
     "negRisk": true
   }
 }
