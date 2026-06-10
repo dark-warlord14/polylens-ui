@@ -11398,16 +11398,6 @@
     "eventSlug": "aleksandar-vui-out-as-serbian-president-by",
     "negRisk": false
   },
-  "will-inflation-reach-more-than-4-in-2026-669": {
-    "id": "680950",
-    "conditionId": "0x1f61db83c47fc787f44997af53d517cc4775e813b169d0b8ae2ad3bff316d052",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-high-will-inflation-get-in-2026",
-    "negRisk": false
-  },
   "will-inflation-reach-more-than-5-in-2026-282-763": {
     "id": "680951",
     "conditionId": "0xa792f029046f2c926ee81c7d9802c21a4a651d33cf7e1bf991ba800ae002f59f",
@@ -15352,7 +15342,7 @@
   "will-ethena-reach-0pt80-by-december-31-2026": {
     "id": "701793",
     "conditionId": "0xfe5489c9c35f6aecacc6f34334904e0853fac9e9b564b26ce4fbb4eb68af4471",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15432,7 +15422,7 @@
   "will-ethena-reach-0pt32-by-december-31-2026": {
     "id": "701801",
     "conditionId": "0x3bbb47c385bd72e5ea07dbc7628d56aa44faeaaf3da686f34bbab6c1f23b32de",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15442,7 +15432,7 @@
   "will-ethena-dip-to-0pt04-by-december-31-2026": {
     "id": "701808",
     "conditionId": "0x900dd3a5e251a2e47668f52b1f2ee525c843aa6e67fb15eb4754336fd4f1a940",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -31303,7 +31293,7 @@
     "eventSlug": "what-price-will-lighter-hit-before-2027",
     "negRisk": false
   },
-  "base-fdv-above-2b-one-day-after-launch": {
+  "base-fdv-above-2b-one-day-after-launch-432-143": {
     "id": "1068307",
     "conditionId": "0xd73dc42697ca2769470ad374ac1a87eaa6b527759be5dc3d7a81d6cc73ae6cad",
     "endDate": "2028-01-01",
@@ -31313,7 +31303,7 @@
     "eventSlug": "base-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "base-fdv-above-4b-one-day-after-launch": {
+  "base-fdv-above-4b-one-day-after-launch-789": {
     "id": "1068308",
     "conditionId": "0x5c18bf0b735c72c812df0f41b596058da7ac14d6eb1aff5482295b5ec10ecfff",
     "endDate": "2028-01-01",
@@ -31323,7 +31313,7 @@
     "eventSlug": "base-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "base-fdv-above-6b-one-day-after-launch": {
+  "base-fdv-above-6b-one-day-after-launch-246-927": {
     "id": "1068309",
     "conditionId": "0x74cc8e0f432f7e4ab1fc0b181b011e1f201c31cfa2a31c2ce8a44227717c57be",
     "endDate": "2028-01-01",
@@ -31333,7 +31323,7 @@
     "eventSlug": "base-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "base-fdv-above-8b-one-day-after-launch": {
+  "base-fdv-above-8b-one-day-after-launch-457-246": {
     "id": "1068310",
     "conditionId": "0x9b8e9190efbd5d1123ee22350dc1a65911570542a26619ab73200415d1b891fe",
     "endDate": "2028-01-01",
@@ -31343,7 +31333,7 @@
     "eventSlug": "base-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "base-fdv-above-10b-one-day-after-launch": {
+  "base-fdv-above-10b-one-day-after-launch-927": {
     "id": "1068311",
     "conditionId": "0x888a55163fff73cb438f021364480062ed29f4b1b7aae712548bdcdc978fab2b",
     "endDate": "2028-01-01",
@@ -31353,7 +31343,7 @@
     "eventSlug": "base-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "base-fdv-above-12b-one-day-after-launch": {
+  "base-fdv-above-12b-one-day-after-launch-383": {
     "id": "1068312",
     "conditionId": "0xf07d6177e9b12995958e1e9591514625dd36f268272bb7f1fd50a4ebcd443f00",
     "endDate": "2028-01-01",
@@ -86389,29 +86379,9 @@
     "eventSlug": "cricpsl-kar-hyd-2026-04-22-toss-match-double",
     "negRisk": true
   },
-  "cricpsl-kar-hyd-2026-04-22-most-sixes-kar": {
-    "id": "1992551",
-    "conditionId": "0x9a10b3b4b8739c68899028e28367e6729be30ff131a8ea479bc741c0e9e127c6",
-    "endDate": "2026-04-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cricpsl-kar-hyd-2026-04-22-most-sixes",
-    "negRisk": true
-  },
   "cricpsl-kar-hyd-2026-04-22-most-sixes-draw": {
     "id": "1992552",
     "conditionId": "0xafe921f7315eb376c09afce9dfb47cc28aebcad30a6e82fed51c146039288cf4",
-    "endDate": "2026-04-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cricpsl-kar-hyd-2026-04-22-most-sixes",
-    "negRisk": true
-  },
-  "cricpsl-kar-hyd-2026-04-22-most-sixes-hyd": {
-    "id": "1992553",
-    "conditionId": "0xabe189925a974ab66b2cdb679ccdb578897b706140519b7ce257e6dba033cb12",
     "endDate": "2026-04-29",
     "closed": false,
     "active": true,
@@ -119606,6 +119576,36 @@
   "bol1-gvs-str-2026-05-22-exact-score-1-3": {
     "id": "2195977",
     "conditionId": "0x385c22aba56969fd8f90758b430ded1c96aa4ab0c29a4cd410bab0bd9bc62471",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-2-2": {
+    "id": "2195981",
+    "conditionId": "0x77c8d61868f5cffd2a79e43cdcae055af1de4dd2bb2201d81ba917f199370855",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-3-1": {
+    "id": "2195985",
+    "conditionId": "0x90f67a0c4062af72744694fbef9a7f2a6a766f0d4eb795aa43f3adca67340dfa",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-str-2026-05-22-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-str-2026-05-22-exact-score-2-3": {
+    "id": "2195989",
+    "conditionId": "0xb8af4b65eea699f4493de0249b136f70ca29f2dcd6c03261af4432cc3683b181",
     "endDate": "2026-05-23",
     "closed": false,
     "active": true,
