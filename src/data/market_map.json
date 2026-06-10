@@ -8320,7 +8320,7 @@
     "eventSlug": "who-will-trump-meet-with-in-2026",
     "negRisk": false
   },
-  "starmer-out-by-december-31-2026-936-416-977-234-134-475-773": {
+  "starmer-out-by-december-31-2026-936-416-977-234-134-475-773-619": {
     "id": "666655",
     "conditionId": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
     "endDate": "2026-12-31",
@@ -11818,6 +11818,16 @@
     "eventSlug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
     "negRisk": true
   },
+  "will-gilad-erdan-be-the-next-prime-minister-of-israel": {
+    "id": "682722",
+    "conditionId": "0xea653dbacdb5b0ba21c9b745f5fb463fe654b988129093ce471d3b3652650cba",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "negRisk": true
+  },
   "will-republicans-lose-a-seat-in-the-us-senate-for-any-state-trump-won-in-2024": {
     "id": "682956",
     "conditionId": "0xcad0d0df08db801f27b9b9e537f3d221d2ec2036196b7627bd63b20d3a7752b0",
@@ -14527,76 +14537,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "florida-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-cole-bettles-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700763",
-    "conditionId": "0xbe2c0e11f71c22662701c8a6f00cf849c73711616de80a5ec68b31c63ffee12e",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
-    "negRisk": true
-  },
-  "will-saikat-chakrabarti-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700764",
-    "conditionId": "0x44c72c4ac31bac49724c80ed46339917d95f109ee31764c806432c7091a03598",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
-    "negRisk": true
-  },
-  "will-darren-helton-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700765",
-    "conditionId": "0xd4ccd490b56f4c6432011c897003572ca624d760bfe53b2d7ffb5e17616128f1",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
-    "negRisk": true
-  },
-  "will-scott-wiener-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700766",
-    "conditionId": "0x2e72b933a1daa2f2b76a8af990dc44fb3f3fe02c3b99084ed99b40835a2db0b8",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
-    "negRisk": true
-  },
-  "will-jingchao-xiong-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700767",
-    "conditionId": "0x71aaf165aa8041b749ea8490848af90fba614a73a0de1d9d05648c842792eb34",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
-    "negRisk": true
-  },
-  "will-david-ganezer-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700768",
-    "conditionId": "0x37254af748c8a90611b7111ae8bc89cfa43b2a1470da2947463aa2410c2e81f5",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
-    "negRisk": true
-  },
-  "will-connie-chan-receive-the-most-votes-in-the-ca-11-primary": {
-    "id": "700769",
-    "conditionId": "0xb92bb81b6ddef26d3100275bbb9497167bc56f862c9f7b4dd47399602712eda0",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
     "negRisk": true
   },
   "another-canada-election-called-by-june-30": {
@@ -27753,26 +27693,6 @@
     "eventSlug": "putin-out-as-president-of-russia-by-june-30",
     "negRisk": false
   },
-  "will-paul-lepage-be-the-republican-nominee-for-me-02": {
-    "id": "959396",
-    "conditionId": "0xf5ca6fb6cef9f97956b68db06a3a7cc10ef4a8df39ffaeca149fb5b565f63bee",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "me-02-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-james-clark-be-the-republican-nominee-for-me-02": {
-    "id": "959398",
-    "conditionId": "0xd4b9577d5640c162bc058907b44b36741d8fe4d10fcf4bbc977b096ca90519f3",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "me-02-republican-primary-winner",
-    "negRisk": true
-  },
   "will-mike-bouchard-be-the-republican-nominee-for-mi-10": {
     "id": "959516",
     "conditionId": "0x562d7f8059b364d2178fb92ec2af51e6f4e6148ec1655c52fcf023c8b9f2b896",
@@ -30153,7 +30073,7 @@
     "eventSlug": "cl-settle-jun-2026",
     "negRisk": true
   },
-  "will-crude-oil-cl-hit-low-55-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-55-by-end-of-june-393-181": {
     "id": "1032408",
     "conditionId": "0x9118beb9f9d8462c85b24f3cfb39ccbd244f723e6b381aaf622c66fdc3dcf178",
     "endDate": "2026-06-30",
@@ -30163,7 +30083,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-52-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-52-by-end-of-june-554-687": {
     "id": "1032409",
     "conditionId": "0x98728d940ba33c8675997663835b21198c92326aa188e8ffc3c07eed7ba85b22",
     "endDate": "2026-06-30",
@@ -30173,7 +30093,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-50-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-50-by-end-of-june-876-949": {
     "id": "1032410",
     "conditionId": "0x74ef80070ef90dfac1da8107c7e2f2aee1bf880df88a968a542411553ce30e81",
     "endDate": "2026-06-30",
@@ -30183,7 +30103,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-47-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-47-by-end-of-june-796-981": {
     "id": "1032411",
     "conditionId": "0xd19762bc03b708b8a42f833297b074a204ba3fcf4c27c9ae5c0250bcedd8660d",
     "endDate": "2026-06-30",
@@ -30193,7 +30113,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-45-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-45-by-end-of-june-336-295": {
     "id": "1032412",
     "conditionId": "0x1800e2fcb0312298522c7f0e4c338044aef2bf8e5b9c38c7dc8e265a8e2d8b65",
     "endDate": "2026-06-30",
@@ -30203,7 +30123,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-40-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-40-by-end-of-june-458-534": {
     "id": "1032413",
     "conditionId": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
     "endDate": "2026-06-30",
@@ -30213,7 +30133,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-35-by-end-of-june": {
+  "will-crude-oil-cl-hit-low-35-by-end-of-june-543-982": {
     "id": "1032414",
     "conditionId": "0x524b6f7e2838e22a90983fc29aeb978983d94818a0f6abd165b9f28524595b97",
     "endDate": "2026-06-30",
@@ -67677,7 +67597,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-60-by-end-of-june-529": {
+  "will-crude-oil-cl-hit-low-60-by-end-of-june-529-567-976": {
     "id": "1652695",
     "conditionId": "0x404f8cff823a8692b2225d2372429300a73093a0838d614839e626b0d13d501c",
     "endDate": "2026-06-30",
@@ -67687,7 +67607,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-70-by-end-of-june-776-556-989-392-677-842-888-775-665": {
+  "will-crude-oil-cl-hit-low-70-by-end-of-june-776-556-989-392-677-842-888-775-665-545-427": {
     "id": "1652697",
     "conditionId": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
     "endDate": "2026-06-30",
@@ -67697,7 +67617,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-80-by-end-of-june-412": {
+  "will-crude-oil-cl-hit-low-80-by-end-of-june-412-888-131": {
     "id": "1652706",
     "conditionId": "0xbaf252e7ac957d6636a6916da51892c9f42e59bfbf808bd4d8e16f194694d2b5",
     "endDate": "2026-06-30",
@@ -76455,26 +76375,6 @@
   "2026-basketball-pro-a-winner-as-monaco": {
     "id": "1834239",
     "conditionId": "0x1be717c86bd4c069adf7a7e6cace4c804e16d6b38447a7892b773c4f9bee16e6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-pro-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-pro-a-winner-cholet-basket": {
-    "id": "1834243",
-    "conditionId": "0x784ca8f434e082b238696e6316d9b275c922b1d3ef98cc2c637196419f2b533a",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-pro-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-pro-a-winner-nanterre-92": {
-    "id": "1834250",
-    "conditionId": "0xba84ba2558ce49914b65b49971171fbdabefd719645642d0cff105e7f27039aa",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -98579,16 +98479,6 @@
     "eventSlug": "laliga-2-team-promoted-to-laliga",
     "negRisk": false
   },
-  "will-cd-castellon-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062460",
-    "conditionId": "0x085c594f88dbb90554bf3e88de4a49d34626d734ffd56729c55a47831b406058",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
   "will-ud-las-palmas-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
     "id": "2062482",
     "conditionId": "0x3928d574e142bfda62b9419553e172c5f12210105866a3bca8552c814550b290",
@@ -119606,6 +119496,116 @@
   "bol1-str-ori-2026-05-17-exact-score-0-1": {
     "id": "2195553",
     "conditionId": "0x83bcb31750aa367007432581a51c1803cb006baf725b0fc739a246070a2dde08",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-1-0": {
+    "id": "2195556",
+    "conditionId": "0xc7aa9c1de381d2816c6d0fe612d51aa892fedf4611584a9cabfb114ee8b1ab2c",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-0-2": {
+    "id": "2195560",
+    "conditionId": "0xbe973aa7431e68e7d80cbf22aa04888c0d08a7a0106f05a9918aa3f4b15e044a",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-1-1": {
+    "id": "2195564",
+    "conditionId": "0x7118a2f1943ca5b6e1eebde7f583be05021223f875a320400c7d923ed7a8e042",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-2-0": {
+    "id": "2195569",
+    "conditionId": "0x26a9434734afa9c6b6782b81bc649b3e6c58e23cec266104b592cbe4cf10106e",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-0-3": {
+    "id": "2195574",
+    "conditionId": "0xe36e081878ba3ff4349c21b8b07cc9e368a47d47132fee3fa28d6702ce8013af",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-1-2": {
+    "id": "2195578",
+    "conditionId": "0xf226eeaf2d9d63d5d9a30e3c7ca058de96d3cc638a3a77b130ec8b11f472ca6e",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-2-1": {
+    "id": "2195581",
+    "conditionId": "0x8198c013445fa4698af1a1873793297714f95ed0210881f997f65752e9bf3970",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-3-0": {
+    "id": "2195587",
+    "conditionId": "0xda70513d098acb11b8ca5c566292be457b4b42a9622db17725e77a513c293618",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-1-3": {
+    "id": "2195591",
+    "conditionId": "0x2a859cf5089f6ddc183cac73d9a0c78360aa612e378a1348ba7043d588cd27bf",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-2-2": {
+    "id": "2195595",
+    "conditionId": "0x2b1df2a66dde31d75f148e935167c82294b0863bbc50d40cfc1b8371960bb403",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-str-ori-2026-05-17-exact-score",
+    "negRisk": true
+  },
+  "bol1-str-ori-2026-05-17-exact-score-3-1": {
+    "id": "2195598",
+    "conditionId": "0x45d2635195baf7c512fd292017a305f14066ca26b610d5d2c0c8b3b052662ade",
     "endDate": "2026-05-17",
     "closed": false,
     "active": true,
