@@ -2379,16 +2379,6 @@
     "eventSlug": "when-will-bitcoin-hit-150k",
     "negRisk": false
   },
-  "will-any-2026-fifa-world-cup-game-scheduled-in-the-us-be-relocated-abroad": {
-    "id": "578157",
-    "conditionId": "0xe82058477cc3af4be561d02ef984ebfa8581f56b07d1ed037829074cf1a0cd57",
-    "endDate": "2026-06-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-any-2026-fifa-world-cup-game-scheduled-in-the-us-be-relocated-abroad",
-    "negRisk": false
-  },
   "taylor-swift-pregnant-before-marriage": {
     "id": "582717",
     "conditionId": "0xfcde7eec764a4e3dd2c43e92efec3cd23d8df64cceff357914a31d2c7820a6ea",
@@ -2402,7 +2392,7 @@
   "will-bernie-endorse-james-talarico-for-tx-sen-by-nov-2-2026-et": {
     "id": "593972",
     "conditionId": "0x136a2773866c2d841b00652b7d99b026409c9a55db769c525ed450e04c653f23",
-    "endDate": "2026-11-30",
+    "endDate": "2026-11-03",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2412,7 +2402,7 @@
   "will-bernie-endorse-kshama-sawant-for-wa-09-by-nov-2-2026-et": {
     "id": "593973",
     "conditionId": "0xb44fe13de8e6e3f0e1232613dd9a79f0a898672a41d608a9cd57e340ba6e9185",
-    "endDate": "2026-11-30",
+    "endDate": "2026-11-03",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2422,7 +2412,7 @@
   "will-bernie-endorse-dan-osborn-for-ne-sen-by-nov-2-2026-et": {
     "id": "593974",
     "conditionId": "0x472a52fcd256f343c5e0c8ecc6afd074b15a7b8c0c7a8397b6e30e30564b6734",
-    "endDate": "2026-11-30",
+    "endDate": "2026-11-03",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2432,7 +2422,7 @@
   "will-bernie-endorse-antonio-delgado-for-ny-gov-by-nov-2-2026-et": {
     "id": "593975",
     "conditionId": "0xb8940fadd151f151bdd786a2ce3950ef1320aecc143e268aa6fb04173c9576b0",
-    "endDate": "2026-11-30",
+    "endDate": "2026-11-03",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2472,7 +2462,7 @@
   "will-trump-endorse-susan-collins-for-me-sen-by-nov-2-2026-et": {
     "id": "593988",
     "conditionId": "0x07ab4a3d146dad453f0c195ab0760a50c8a3a841f6a45b2f8a457379d1c66a7b",
-    "endDate": "2026-11-04",
+    "endDate": "2026-11-03",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -2962,7 +2952,7 @@
   "will-openai-not-ipo-by-december-31-2026": {
     "id": "608368",
     "conditionId": "0x3849e1d62e0807801913d3e2427e8caf3cc6dd1c8ef42d8d5c08c6f9c449dc5e",
-    "endDate": "2026-06-30",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -3662,7 +3652,7 @@
   "ukraine-recognizes-russian-sovereignty-over-its-territory-by-june-30-2026": {
     "id": "610379",
     "conditionId": "0xbca45186bc1f8ad2912f79f22c6e37c0946f6619bbfbd0f97ad93d9b525a6293",
-    "endDate": "2025-12-31",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -3672,7 +3662,7 @@
   "ukraine-election-called-by-june-30-2026-392": {
     "id": "610380",
     "conditionId": "0x707125b175feb87a7d28c1e3b0e8e834f11c0dff65edac8c4fe5d1e12bf8fc33",
-    "endDate": "2025-12-31",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15362,7 +15352,7 @@
   "will-ethena-reach-0pt60-by-december-31-2026": {
     "id": "701795",
     "conditionId": "0x8b6512eace826428c4ba4c3954924fe260e2064f48ee84de3b686f4af467dcea",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15402,7 +15392,7 @@
   "will-ethena-reach-0pt40-by-december-31-2026": {
     "id": "701799",
     "conditionId": "0xedfa2e0a666ff5235123d14a89c7ec02bf43014d30f48ee1da60586c9db68a03",
-    "endDate": "2026-01-01",
+    "endDate": "2027-01-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -65500,7 +65490,7 @@
   "will-o1-launch-a-token-by-june-30-2026": {
     "id": "1554894",
     "conditionId": "0xdd3d42c081d91ecf2a99f5db66968f3e88daf162eec39f0e1d9ec6f50072e33b",
-    "endDate": "2028-01-01",
+    "endDate": "2026-07-01",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -67975,7 +67965,7 @@
     "eventSlug": "will-elon-musk-buy-onlyfans",
     "negRisk": false
   },
-  "kharg-island-no-longer-under-iranian-control-by-june-30-561-854": {
+  "kharg-island-no-longer-under-iranian-control-by-june-30-561-854-897": {
     "id": "1708086",
     "conditionId": "0x6897736d782ce70f47126dfcec6669073f563d6e757e60bc61c0367370d6f73e",
     "endDate": "2026-06-30",
@@ -96469,96 +96459,6 @@
     "eventSlug": "kim-kardashian-and-lewis-hamilton-confirmed-relationship-by-june-30",
     "negRisk": false
   },
-  "reppo-fdv-above-20m-one-day-after-launch": {
-    "id": "2055061",
-    "conditionId": "0xa1d6591c5cc695364a454b375ea51664e00f85013076d894c4ec097ed29f7561",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-50m-one-day-after-launch": {
-    "id": "2055062",
-    "conditionId": "0xaf27acab14acdd9925e94116bdc42750ae76621fa2c3fb824fb561db98b8df67",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-80m-one-day-after-launch": {
-    "id": "2055063",
-    "conditionId": "0x110c4ddc78f4be87b5a9076bb236590c776b92afaed7d613d99546795e8623a3",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-100m-one-day-after-launch": {
-    "id": "2055064",
-    "conditionId": "0x4cde6de375031091cb14d2cdf2d91192a62c0acb15ea5adc98fbe031fed0f2a3",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-200m-one-day-after-launch": {
-    "id": "2055065",
-    "conditionId": "0x35e856159a580553a11f2b6464f3066ba70838e5ec326c85b029b527de10299b",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-300m-one-day-after-launch": {
-    "id": "2055066",
-    "conditionId": "0x2aac7d49592517f2ca33deaf372fd5873707beb7832191203f9650ad554fc81f",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-500m-one-day-after-launch": {
-    "id": "2055067",
-    "conditionId": "0x4a4748f48036cd364509d73806f269e7ae1abd9c1524281530331b0b06979487",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-800m-one-day-after-launch": {
-    "id": "2055068",
-    "conditionId": "0xed92875e17da66a98ac377636af9f2c42aff6cb3350b18b03e1034ea9df8c795",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "reppo-fdv-above-1b-one-day-after-launch": {
-    "id": "2055069",
-    "conditionId": "0x51e9ab9271bc867cad0950eed5f7e07b0df46f11c0a72f9015acbea14da905a4",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reppo-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
   "will-ric-zemmour-announce-their-candidacy-for-the-2027-french-presidential-election-in-2026": {
     "id": "2055070",
     "conditionId": "0x4ee4bd60d2df17f813bc2c2607592224952e0821e2a28d19a352773e4d462941",
@@ -119611,6 +119511,106 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-1-3": {
+    "id": "2196317",
+    "conditionId": "0xa16f7e55cd89c3b9c3fb5de7f9fa37537f2e3c116d2e03e8af6c4e2b568be0e3",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-2-2": {
+    "id": "2196319",
+    "conditionId": "0xb95754c586e4f475eee0941c478d4b058cc05af3f8c95f3a8fecc2d22b167d69",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-3-1": {
+    "id": "2196320",
+    "conditionId": "0xe77f71750372112e3a5ea7fc3dc0a803c9f5860b925810becc98b257036a73d0",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-2-3": {
+    "id": "2196323",
+    "conditionId": "0x9039be229844a09c31f3f8ca0a77173ae19a99b388b0fc4a99c939403dcd51c6",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-3-2": {
+    "id": "2196325",
+    "conditionId": "0x9a5005e0fe03f554bd3bd85e7bc7c446c90a7c51da3e3ecaf483df261933cd23",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-3-3": {
+    "id": "2196327",
+    "conditionId": "0xbbed6bffcc7d598f84696ba068876dad99176371286b06bf04d8de1637cebac3",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-any-other": {
+    "id": "2196329",
+    "conditionId": "0x5e1bd54155010e29bb43d5d8da0d0d979d7d2be86c3c76cd8fd39f4e31aa49ed",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-halftime-result-home": {
+    "id": "2196347",
+    "conditionId": "0x89cf1df357776b1fb2a6f62b96d725f7203acc259af2b0e932505eefc8e66298",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-halftime-result-draw": {
+    "id": "2196349",
+    "conditionId": "0x3b107846b3720cda4a2dbb543941ff91cc375bc76665747b8c838f9805949bd9",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-halftime-result-away": {
+    "id": "2196351",
+    "conditionId": "0x7d87e1f7a466c4842b959405cf75635d328603f34761f5bacce2b26d413beccc",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-halftime-result",
     "negRisk": true
   }
 }
