@@ -28443,16 +28443,6 @@
     "eventSlug": "will-trump-acquire-greenland-before-2027",
     "negRisk": false
   },
-  "ecb-rate-hike-in-2026": {
-    "id": "999095",
-    "conditionId": "0x26e6aa82c5fa62e9a146521aa5bfd7b5f4c5b47b92e66507defe992bd09a173f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ecb-rate-hike-in-2026",
-    "negRisk": false
-  },
   "ecb-rate-cut-in-2026": {
     "id": "999108",
     "conditionId": "0x7afb0968d23370cf4daf85e6a483c45197181ffbc26122465af70ee15e56d286",
@@ -36976,16 +36966,6 @@
   "will-aap-rocky-have-a-1-song-on-the-billboard-hot-100-in-2026": {
     "id": "1130863",
     "conditionId": "0xcb9afce56f5c231235c2e8e93acb3783d8860bd20a0949f55239c3372acc2693",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-have-a-billboard-1-song-this-year",
-    "negRisk": false
-  },
-  "will-ariana-grande-have-a-1-song-on-the-billboard-hot-100-in-2026": {
-    "id": "1130864",
-    "conditionId": "0xa462533e94f104de960b21d755e856b29c875770f0ba25337695da553a17bb5b",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -67077,46 +67057,6 @@
     "eventSlug": "cs2-sta6-b8acad-2026-03-21",
     "negRisk": false
   },
-  "will-the-ecb-announce-a-50-bps-decrease-at-the-june-2026-meeting": {
-    "id": "1654346",
-    "conditionId": "0x4e2fb098afc05850b0941a5d97ebb7833fb5eb26d1744d7b3c73a815037ebf83",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ecb-interest-rates-june-2026",
-    "negRisk": true
-  },
-  "will-the-ecb-announce-a-25-bps-decrease-at-the-june-2026-meeting": {
-    "id": "1654347",
-    "conditionId": "0x750a2af2236366b55e59691c82e91b1bea9aa04d2c668afa308d88854fec81f1",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ecb-interest-rates-june-2026",
-    "negRisk": true
-  },
-  "will-the-ecb-announce-no-change-at-the-june-2026-meeting": {
-    "id": "1654348",
-    "conditionId": "0xf154d470878d214ef528445c15ba77263f59123939362d495d83bbb0ec7a9c43",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ecb-interest-rates-june-2026",
-    "negRisk": true
-  },
-  "will-the-ecb-announce-an-increase-at-the-june-2026-meeting": {
-    "id": "1654349",
-    "conditionId": "0xc7781eb0e4ab55dcecb64bba3cdb58a03d1275cfdc87ff4bbc4c20005b283681",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ecb-interest-rates-june-2026",
-    "negRisk": true
-  },
   "will-the-reserve-bank-of-australia-decrease-the-target-for-the-cash-rate-after-the-june-meeting": {
     "id": "1654716",
     "conditionId": "0xb803406ccafae5640ca20d7dd14d594343899dfb011b267897ee211c517e4aee",
@@ -67225,16 +67165,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "fed-decision-in-july-181",
-    "negRisk": true
-  },
-  "will-the-ecb-announce-a-50-bps-increase-at-the-june-2026-meeting": {
-    "id": "1656763",
-    "conditionId": "0x747b73e330b59aab9266491ae4c8ae9f79286e4da5f46656a0f61e9d767ee49d",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ecb-interest-rates-june-2026",
     "negRisk": true
   },
   "trumps-face-on-us-gold-coin-by-july-4": {
@@ -76710,16 +76640,6 @@
     "eventSlug": "trsk-gal-tra-2026-05-01",
     "negRisk": true
   },
-  "lol-es1-tog-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1868884",
-    "conditionId": "0xe47738cb535d5d618f1c7e87e2ff8c09165e9d4793fd5398ed43b7052c1d6fd9",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-es1-tog-2026-04-10",
-    "negRisk": false
-  },
   "cs2-isg-desped-2026-04-05-game1-odd-even-total-kills": {
     "id": "1869179",
     "conditionId": "0x1920e111a8a93deae673b579bcb9a977f4499da49e7ee63b0b6d52d7ce2b2b64",
@@ -82737,16 +82657,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "dota2-nemiga-1win-2026-04-12",
-    "negRisk": false
-  },
-  "lol-vks-fxw7-2026-04-12-game1-kill-over-46pt5": {
-    "id": "1960444",
-    "conditionId": "0x2a51d45ce86a1ff1f0a8407f5d34018c104e76e7a1889ec6e8451d69c4fe038f",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-vks-fxw7-2026-04-12",
     "negRisk": false
   },
   "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-june-30-2026-673": {
@@ -103728,46 +103638,6 @@
     "eventSlug": "cs2-pre-biga-2026-04-30",
     "negRisk": false
   },
-  "will-opec-crude-oil-production-be-above-18-million-barrels-per-day-in-may": {
-    "id": "2107314",
-    "conditionId": "0x30f13260d928abdd1e19f35ae4c8fed8a9f1000951f03b92da78af4a23acc64e",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "opec-crude-oil-production-above-in-may",
-    "negRisk": false
-  },
-  "will-opec-crude-oil-production-be-above-19-million-barrels-per-day-in-may": {
-    "id": "2107315",
-    "conditionId": "0xc869e9bd1314e562f6dd82d86e8a62b696b086c9e2a24ad4a0369af2f042b0eb",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "opec-crude-oil-production-above-in-may",
-    "negRisk": false
-  },
-  "will-opec-crude-oil-production-be-above-20-million-barrels-per-day-in-may": {
-    "id": "2107316",
-    "conditionId": "0xc5c70d62dbb5116664e9b86bb4574c7d1b3a5307005dae542d305cae7c480e18",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "opec-crude-oil-production-above-in-may",
-    "negRisk": false
-  },
-  "will-opec-crude-oil-production-be-above-21-million-barrels-per-day-in-may": {
-    "id": "2107317",
-    "conditionId": "0x692c561e78efb0f0e78d5c6936bce15e48bb09d19e53ee8f45d938be200e91b6",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "opec-crude-oil-production-above-in-may",
-    "negRisk": false
-  },
   "will-russia-enter-novyi-donbas-by-june-30": {
     "id": "2107896",
     "conditionId": "0xbf175df87f4cbcbcd65d85866b9e837e0ef1f2d0f1c14b6e01791ec28c3413fa",
@@ -119611,6 +119481,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-blo-tom-2026-05-23-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-halftime-result-home": {
+    "id": "2196279",
+    "conditionId": "0xb4b4dabc65b61e45c551ce2b2ee0472b02e7308ba842ee4d57623126de7fd05b",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-halftime-result-draw": {
+    "id": "2196281",
+    "conditionId": "0xe7b2db505435437f6a05fd44f48c7a0fc5aba7f30bacca7ce9bb2f5ff5031a89",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-halftime-result-away": {
+    "id": "2196283",
+    "conditionId": "0x3f0c646f957d581ae367374536ea1c942a39ef588f345aece33b769d7f2033fd",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-0-0": {
+    "id": "2196296",
+    "conditionId": "0x96027e6b700a90532435de8826c716e7f28a1d70ea5973b1311a7905645769ec",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-0-1": {
+    "id": "2196297",
+    "conditionId": "0x9bc4cbe7603ba0d532ee81b5c13c0765b0fd8a76a5ac82d789621280ba98f7a0",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-1-0": {
+    "id": "2196298",
+    "conditionId": "0xe01ac061b7b2756984d6cb708d4cf1d1807214a3d5c79e44bb92d293d21662b3",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-0-2": {
+    "id": "2196299",
+    "conditionId": "0x1942a411e362b60295c8d1712083b5b21678b62612f456b1517ca965ed849794",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-1-1": {
+    "id": "2196302",
+    "conditionId": "0xbfa9c591d1e1cdd13a5e86652ba26ca400759cca221bcaf499809f262b3c906f",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-2-0": {
+    "id": "2196304",
+    "conditionId": "0x7fcf1a2aa2550f99d81a76539b08ecaa3e3beb01ab7c38ff98ce51b5d04c5537",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-0-3": {
+    "id": "2196306",
+    "conditionId": "0xe1d885b93e9ddb58d3da6af707ab717d86391bf4e05255f816b4235b3f42a15d",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-1-2": {
+    "id": "2196309",
+    "conditionId": "0x389411cc02b202518e1520ebaa0f70d2ceecea517d7908b8da78128101a06638",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-2-1": {
+    "id": "2196312",
+    "conditionId": "0x7a0d1586762e0bff184a1439da291ecbec65e84818a729ea4eca4bc091507c23",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-oru-2026-05-24-exact-score-3-0": {
+    "id": "2196315",
+    "conditionId": "0x11a9eb344f3cb1a7ceb372b1950150c5e7c9d47ef3b40e2ed172bc5cddf51395",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-oru-2026-05-24-exact-score",
     "negRisk": true
   }
 }
