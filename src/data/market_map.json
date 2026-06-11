@@ -28203,16 +28203,6 @@
     "eventSlug": "greece-x-turkey-military-engagement-by-june-30",
     "negRisk": false
   },
-  "will-both-candidates-advancing-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary-be-affiliated-with-the-democratic-party": {
-    "id": "995676",
-    "conditionId": "0xe0becaf7db4f27b95bcdd5f01c39b44086a8762d8a937e7835576ebfe2e7f981",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "parties-advancing-from-the-california-governor-primary",
-    "negRisk": true
-  },
   "will-one-democratic-party-candidate-and-one-republican-party-candidate-advance-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary": {
     "id": "995678",
     "conditionId": "0xa68b0a77955777a56aea54b2888d8e93e806e4ff51fec19800625cf46ce90e37",
@@ -29463,7 +29453,7 @@
     "eventSlug": "cl-settle-jun-2026",
     "negRisk": true
   },
-  "will-crude-oil-cl-hit-low-55-by-end-of-june-393-181": {
+  "will-crude-oil-cl-hit-low-55-by-end-of-june-393-181-199": {
     "id": "1032408",
     "conditionId": "0x9118beb9f9d8462c85b24f3cfb39ccbd244f723e6b381aaf622c66fdc3dcf178",
     "endDate": "2026-06-30",
@@ -29473,7 +29463,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-52-by-end-of-june-554-687": {
+  "will-crude-oil-cl-hit-low-52-by-end-of-june-554-687-491": {
     "id": "1032409",
     "conditionId": "0x98728d940ba33c8675997663835b21198c92326aa188e8ffc3c07eed7ba85b22",
     "endDate": "2026-06-30",
@@ -29483,7 +29473,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-50-by-end-of-june-876-949": {
+  "will-crude-oil-cl-hit-low-50-by-end-of-june-876-949-385": {
     "id": "1032410",
     "conditionId": "0x74ef80070ef90dfac1da8107c7e2f2aee1bf880df88a968a542411553ce30e81",
     "endDate": "2026-06-30",
@@ -29493,7 +29483,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-47-by-end-of-june-796-981": {
+  "will-crude-oil-cl-hit-low-47-by-end-of-june-796-981-212": {
     "id": "1032411",
     "conditionId": "0xd19762bc03b708b8a42f833297b074a204ba3fcf4c27c9ae5c0250bcedd8660d",
     "endDate": "2026-06-30",
@@ -29503,7 +29493,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-45-by-end-of-june-336-295": {
+  "will-crude-oil-cl-hit-low-45-by-end-of-june-336-295-743": {
     "id": "1032412",
     "conditionId": "0x1800e2fcb0312298522c7f0e4c338044aef2bf8e5b9c38c7dc8e265a8e2d8b65",
     "endDate": "2026-06-30",
@@ -29513,7 +29503,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-40-by-end-of-june-458-534": {
+  "will-crude-oil-cl-hit-low-40-by-end-of-june-458-534-688": {
     "id": "1032413",
     "conditionId": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
     "endDate": "2026-06-30",
@@ -29523,7 +29513,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-35-by-end-of-june-543-982": {
+  "will-crude-oil-cl-hit-low-35-by-end-of-june-543-982-525": {
     "id": "1032414",
     "conditionId": "0x524b6f7e2838e22a90983fc29aeb978983d94818a0f6abd165b9f28524595b97",
     "endDate": "2026-06-30",
@@ -66917,7 +66907,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-60-by-end-of-june-529-567-976": {
+  "will-crude-oil-cl-hit-low-60-by-end-of-june-529-567-976-769": {
     "id": "1652695",
     "conditionId": "0x404f8cff823a8692b2225d2372429300a73093a0838d614839e626b0d13d501c",
     "endDate": "2026-06-30",
@@ -66927,7 +66917,7 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-70-by-end-of-june-776-556-989-392-677-842-888-775-665-545-427": {
+  "will-crude-oil-cl-hit-low-70-by-end-of-june-776-556-989-392-677-842-888-775-665-545-427-841": {
     "id": "1652697",
     "conditionId": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
     "endDate": "2026-06-30",
@@ -119606,6 +119596,16 @@
   "bol1-blo-tom-2026-05-23-exact-score-2-2": {
     "id": "2196241",
     "conditionId": "0x92933c39e68151bb28a18e238ff9f773d49c26b09c74d2294f44844ab4cfdd7c",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-exact-score-3-1": {
+    "id": "2196246",
+    "conditionId": "0xba1ba4cd3d61e78f79278fbddd9f685d20cc05d632d32133700efd818792b4c7",
     "endDate": "2026-05-23",
     "closed": false,
     "active": true,
