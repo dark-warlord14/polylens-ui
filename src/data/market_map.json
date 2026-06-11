@@ -12371,7 +12371,7 @@
   "will-extended-launch-a-token-by-june-30-2026": {
     "id": "690613",
     "conditionId": "0xfe4425817cc4ac71bf9f9da024a5341090fb6022da114061b1a1af53117213b0",
-    "endDate": "2027-01-01",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -12381,7 +12381,7 @@
   "will-extended-launch-a-token-by-september-30-2026": {
     "id": "690614",
     "conditionId": "0x4204709db9aa84a9f39649954ef58d35065fd3ba21f16c0c75fdc1b601ea03f0",
-    "endDate": "2027-01-01",
+    "endDate": "2026-09-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -12431,7 +12431,7 @@
   "will-arc-launch-a-token-by-june-30-2026": {
     "id": "690673",
     "conditionId": "0x4c35eee5846b4ebbbf8d5fcb112faa82677c4caf45fbbf622b29cc08f4bc1b9b",
-    "endDate": "2027-01-01",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -12441,7 +12441,7 @@
   "will-arc-launch-a-token-by-september-30-2026": {
     "id": "690674",
     "conditionId": "0xe4fcc10c0ee2b1c0f6fd9bb8acdf8f009d38cfbf5c614a60e94696fa9da6c209",
-    "endDate": "2027-01-01",
+    "endDate": "2026-09-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -14302,7 +14302,7 @@
   "will-ventuals-launch-a-token-by-september-30-2026": {
     "id": "700020",
     "conditionId": "0x778aea15e030425bb7b27dfbea6079475ef63d693586f8c72a410ecbb66feaa1",
-    "endDate": "2027-01-01",
+    "endDate": "2026-09-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15322,7 +15322,7 @@
   "will-ethena-reach-1pt00-by-december-31-2026": {
     "id": "701792",
     "conditionId": "0x6a93c4c3615c62bcc29310ea0d959042640f6c70bc8f0308864da263180f6eaf",
-    "endDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15342,7 +15342,7 @@
   "will-ethena-reach-0pt70-by-december-31-2026": {
     "id": "701794",
     "conditionId": "0x480734cef65b1390e0dc43fb2a9872cc1a74e11c9ba9cc30cb7eeedfc21f0849",
-    "endDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15352,7 +15352,7 @@
   "will-ethena-reach-0pt60-by-december-31-2026": {
     "id": "701795",
     "conditionId": "0x8b6512eace826428c4ba4c3954924fe260e2064f48ee84de3b686f4af467dcea",
-    "endDate": "2027-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15362,7 +15362,7 @@
   "will-ethena-reach-0pt52-by-december-31-2026": {
     "id": "701796",
     "conditionId": "0x07a1ea99ca00beaf9793e0001f448eae591c5d1ed55d45efe807799c7507846d",
-    "endDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15372,7 +15372,7 @@
   "will-ethena-reach-0pt48-by-december-31-2026": {
     "id": "701797",
     "conditionId": "0x31ef3f26107d8f82c11f2c801da29e65e209e0045940aeb141cfa54439d176d1",
-    "endDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15382,7 +15382,7 @@
   "will-ethena-reach-0pt44-by-december-31-2026": {
     "id": "701798",
     "conditionId": "0xc44acb2663976fa0ade27db3ea45c480b2d1d5ce0085ac78587111105daa2ba5",
-    "endDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15392,7 +15392,7 @@
   "will-ethena-reach-0pt40-by-december-31-2026": {
     "id": "701799",
     "conditionId": "0xedfa2e0a666ff5235123d14a89c7ec02bf43014d30f48ee1da60586c9db68a03",
-    "endDate": "2027-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -15402,7 +15402,7 @@
   "will-ethena-reach-0pt36-by-december-31-2026": {
     "id": "701800",
     "conditionId": "0x8d66815535c3f999b02806f35e2c28bc187c4cbbf68c72471336aeee3024cf2f",
-    "endDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -16590,7 +16590,7 @@
   "will-tempo-launch-a-token-by-june-30-2026": {
     "id": "704136",
     "conditionId": "0x23862cc33d499e4f93c0fba6e64a4db04d4a83ac5f180458e3d13b97cb9c78d0",
-    "endDate": "2027-01-01",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -17663,15 +17663,6 @@
     "eventSlug": "will-theo-launch-a-token-by",
     "negRisk": false
   },
-  "will-solstice-launch-a-token-by-december-31-2026": {
-    "id": "707034",
-    "conditionId": "0x6e5bfb1db28eb587f9afda68f671aff0b5ea115dd24caad57dc889d4e5d9055f",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-solstice-launch-a-token-by",
-    "negRisk": false
-  },
   "will-bryce-reeves-be-the-republican-nominee-for-senate-in-virginia": {
     "id": "708764",
     "conditionId": "0x38cabfe3578270adcb745ea4ebc5a36a43f1977ab13b6a1204ddfa8bb29a81d3",
@@ -18341,7 +18332,7 @@
   "will-fomo-launch-a-token-by-june-30-2026": {
     "id": "743436",
     "conditionId": "0x3c84ceaf11ba5149493120b448c8562edad8e627c1de0a023eeb16443abec85d",
-    "endDate": "2027-01-01",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -25317,7 +25308,7 @@
   "will-daylight-launch-a-token-by-june-30-2026-913": {
     "id": "943523",
     "conditionId": "0x1949bbc89a114021fe5cc01f7be9bfc0fa287eebf3dad2f344403d488056e5f1",
-    "endDate": "2027-01-01",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -25327,7 +25318,7 @@
   "will-daylight-launch-a-token-by-september-30-2026-231": {
     "id": "943524",
     "conditionId": "0x19af875be3bd166c5dbeafd2d768f9f15d9a15d9a9b67f605c1c827702179bcc",
-    "endDate": "2027-01-01",
+    "endDate": "2026-09-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -26446,7 +26437,7 @@
   "will-there-be-no-somaliland-parliamentary-election-before-2027": {
     "id": "948391",
     "conditionId": "0xd04271b958886773b42d0873e54ab82109461b42967a87473ee42c998612bf21",
-    "endDate": "2026-03-31",
+    "endDate": "2026-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -28513,16 +28504,6 @@
     "eventSlug": "zendaya-confirmed-pregnant-by-june-30",
     "negRisk": false
   },
-  "will-grigor-dimitrov-win-the-2026-australian-open": {
-    "id": "1006487",
-    "conditionId": "0xd7db9898e70fa01f172704d4bdee55a5bd947e47b368e1ca71f3ead8aa9b741d",
-    "endDate": "2026-02-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-australian-open-winner",
-    "negRisk": true
-  },
   "will-marcus-carter-be-the-republican-nominee-for-fl-09": {
     "id": "1006907",
     "conditionId": "0x6053a4d9b004f2c12e6592f6fb2d066a9aa7aecae295e87e134524ccd8c5ec82",
@@ -29606,7 +29587,7 @@
   "will-nansen-launch-a-token-by-september-30-2026": {
     "id": "1038567",
     "conditionId": "0x144a0a6d2b65893c2c961952049075f40c349752376de16c11048b351cb939c3",
-    "endDate": "2027-01-01",
+    "endDate": "2026-09-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -29636,7 +29617,7 @@
   "will-loopscale-launch-a-token-by-september-30-2026": {
     "id": "1038642",
     "conditionId": "0xf442cbbf11ecc6230372c64ee0c33a59d810bd955a57b9cf54fa1517cebdde24",
-    "endDate": "2027-01-01",
+    "endDate": "2026-09-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -56970,166 +56951,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-the-2028-republican-presidential-nominee-be-a-woman",
     "negRisk": false
-  },
-  "will-jurgen-klopp-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390193",
-    "conditionId": "0x903b8a29bf85f974c2ec6b89851e967117d0844d2523c06f35febf656c01a8d4",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-unai-emery-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390194",
-    "conditionId": "0xcdb9de8190a2396818c1147b513c151b4eba21a9ea7fe8e2865b7348879fe939",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-jose-mourinho-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390195",
-    "conditionId": "0x9a134104b159462c2797a86260732eb541395daf1d4d76ff1d54a88123ea56e1",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-enzo-maresca-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390196",
-    "conditionId": "0xa33ae2f64e224c64579e21c1e8b440ea6125a863d4395e7d07f83e207938d7d1",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-zinedine-zidane-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390197",
-    "conditionId": "0x4c7c6d686a602b47a71d114a6e1a0b76fd04a866a1abaa55b1860670347998a6",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-andoni-iraola-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390198",
-    "conditionId": "0xa263d53499b9afb30e45275b88b742d59d7fdc1694ad40b5f3f1a5633965cd39",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-thomas-tuchel-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390199",
-    "conditionId": "0x33830c7bb1a00ecf9ad8f1315ac5a9c4377810b3e7f661903f0f0d96a861c2df",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-julian-nagelsmann-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390200",
-    "conditionId": "0x8aea4245f869663c134b6a531a5ca10f6a323445df1f12957787f67edb3c8be6",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-mauricio-pochettino-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390201",
-    "conditionId": "0xddd84aea2a85010ef5eb58c9e3184aeb8116f5384635ec0bedacc9c4cfa99bfa",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-luis-enrique-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390202",
-    "conditionId": "0x0500071e5f9c1c44d5c2954209001df2f62d860742d2c27887fe1ca0da7e108a",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-massimiliano-allegri-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390203",
-    "conditionId": "0x9188dce1bc59c2d556cc4757c051b0bbdf2727521940190454a118bb26e95e18",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-mikel-arteta-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390204",
-    "conditionId": "0x0adc3742d727203d602ef68448bf2a908c7dd2d0eb17507faacb7a062d1b2bf5",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-robert-de-zerbi-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390205",
-    "conditionId": "0x4f5fc367ef0c785ee38e37dae63b8edb94a41934633888b8317b14e1de5f022e",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-oliver-glasner-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390207",
-    "conditionId": "0x0994c439b7b52f8179fbcd472a6f1e63808c26efc1a6dbd46d96f68faa217bd3",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-didier-deschamps-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390208",
-    "conditionId": "0x6a97aaba1bdabcfff3b37538b6feb7ad4cd163368b2e0da8b70cb149681ce72f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
-  },
-  "will-lionel-scaloni-be-appointed-as-manager-of-real-madrid": {
-    "id": "1390210",
-    "conditionId": "0xa7d4d902cda2a60f2a6c935778aa687844948f151209bddd3c965c0e272a374f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "next-real-madrid-manager",
-    "negRisk": true
   },
   "will-tesla-sell-a-cybercab-for-30k-or-less-in-2026": {
     "id": "1390948",
@@ -109219,16 +109040,6 @@
     "eventSlug": "argentina-presidential-election-winner",
     "negRisk": true
   },
-  "dota2-ngx-sar1-2026-05-01-game1-first-blood": {
-    "id": "2127562",
-    "conditionId": "0x6436001e818a9eb478c0993dcecc254f1d0d3b8b0af2a8311b888e4d268d371d",
-    "endDate": "2026-05-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-ngx-sar1-2026-05-01",
-    "negRisk": false
-  },
   "will-david-raya-be-named-to-the-2026-pfa-premier-league-team-of-the-year": {
     "id": "2127663",
     "conditionId": "0x50561f0ac9fb48ce9b1dc8f78f84dea5e43d9d30bd507eb93fa57b11a996ffeb",
@@ -116193,16 +116004,6 @@
     "eventSlug": "will-kylian-mbappe-leave-real-madrid-before-august-31",
     "negRisk": false
   },
-  "dota2-ngx-playti-2026-05-08-game2-first-blood": {
-    "id": "2183815",
-    "conditionId": "0xc8aac3651d2f8bdb95072c259144b95bce754355fd32a4c7020bee45bc3ed0e3",
-    "endDate": "2026-05-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-ngx-playti-2026-05-08",
-    "negRisk": false
-  },
   "will-juul-relaunch-mango-flavor-by-2027": {
     "id": "2184331",
     "conditionId": "0x972e743ee483cb4186b14b0c548dbf66f96214272d17542533fe447678d085c3",
@@ -116251,36 +116052,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "which-flavors-will-juul-relaunch-in-2026",
-    "negRisk": false
-  },
-  "lol-tsw-shg-2026-05-14-game1-both-teams-slay-baron": {
-    "id": "2185019",
-    "conditionId": "0xceccc95240d719e0d2be1c3590e036b843995d5814a41286620eed8fbc277fc3",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-shg-2026-05-14",
-    "negRisk": false
-  },
-  "lol-tsw-shg-2026-05-14-game1-both-teams-slay-dragon": {
-    "id": "2185020",
-    "conditionId": "0x73e25f7165ad0341a34d5e1a0385966ad39360ddd018803936110adeda212680",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-shg-2026-05-14",
-    "negRisk": false
-  },
-  "lol-tsw-shg-2026-05-14-game1-both-teams-destroy-inhibitors": {
-    "id": "2185021",
-    "conditionId": "0x8f06453e7aeb5a14a033e6d49250c98c5687064f9f9fb3ffbce2fdb76c935441",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-shg-2026-05-14",
     "negRisk": false
   },
   "lol-tsw-shg-2026-05-14-game1-any-player-quadra-kill": {
@@ -119611,6 +119382,236 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-bol-gua-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-0-0": {
+    "id": "2196368",
+    "conditionId": "0x1263575681654c066c3557321c22e3448150b643f33b739c6fa7bd2b2ce0dfbe",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-0-1": {
+    "id": "2196371",
+    "conditionId": "0xaf0eb864a6697add29d58f91f773a0122dece60dbf62fabd975b5be1ed4e7863",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-1-0": {
+    "id": "2196373",
+    "conditionId": "0x5fa974417526ca175333dc92a5e6739fa0022013685e46cd0c1599e2b92f85f5",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-0-2": {
+    "id": "2196375",
+    "conditionId": "0x9a5058fa76e392365b4d455f48a672bfe9b857fe25b0ebd67134e6460da5da14",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-1-1": {
+    "id": "2196377",
+    "conditionId": "0x0a9e814bd7a44262cea083f91aa427976753adedfb8a0dba641fd7674a8bdcb0",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-2-0": {
+    "id": "2196380",
+    "conditionId": "0x34bfab404e423e44453a4983be899cc9896d4c8c51fae37c8a2852825485737b",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-0-3": {
+    "id": "2196384",
+    "conditionId": "0x24ea2fecf80582394083458d0ce41ce111269899f06893d27ad6d4b5174fd332",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-1-2": {
+    "id": "2196388",
+    "conditionId": "0x2f5ae788557da949095352cd67cc013a8a3738847703e61d4332d58f1c571afb",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-2-1": {
+    "id": "2196392",
+    "conditionId": "0x608cd91069227175d5880c423059ffee9d2a1c5915be1dd0fdd1bf03dde4a097",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-3-0": {
+    "id": "2196395",
+    "conditionId": "0x6840bde56f72f99a45b9ad525ff2e2df2ebf6255e25aab43d0ae1006047f2fac",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-1-3": {
+    "id": "2196397",
+    "conditionId": "0x310882b4663d025684494ad02174278bb6d9a9b82b361b23d3bbdc9955604b80",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-2-2": {
+    "id": "2196399",
+    "conditionId": "0x72826183b84be169172b46486f038f2cb20c14f1476d3b2d3064a67eea21a15d",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-3-1": {
+    "id": "2196402",
+    "conditionId": "0x28efc6ea4502286ee8d9761c2c3f7da2e3f6effd24c4eadd2a0000b5b3a06ab4",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-2-3": {
+    "id": "2196404",
+    "conditionId": "0x8220795ffc6a4140bb4abc8f6a9f2c1922765543607374650c6e76c596b04e9e",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-3-2": {
+    "id": "2196406",
+    "conditionId": "0xe42dda292755913265d7a04af00ca0405a31716b4fad2f89fc0c4d68f16e7143",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-3-3": {
+    "id": "2196408",
+    "conditionId": "0xcd7c28bfb071f241e6cde482e1a8bb364dbcccc8b9a566b4c4ce32bbea453466",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-gua-2026-05-24-exact-score-any-other": {
+    "id": "2196410",
+    "conditionId": "0xcfefd2a683fa4716db091a3ca60083cdaaed324e5cddf249801287d074fc1c2f",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-gua-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-halftime-result-home": {
+    "id": "2196428",
+    "conditionId": "0x9491df5f2d43afd965416eda56c7e4252b08f449935d1b7a73b06637587acc8f",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-halftime-result-draw": {
+    "id": "2196430",
+    "conditionId": "0x824d8a51173de4b26e26dbb2c611ae3bf59d3b600700b5fe18eaa0b92aa54710",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-halftime-result-away": {
+    "id": "2196432",
+    "conditionId": "0xd9e6ad1b778efada5467f5c58f3568bab337ee8bf1008bdb20796ed9e312114c",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-halftime-result",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-exact-score-0-0": {
+    "id": "2196440",
+    "conditionId": "0xb603580eaef9cda528f13e8f297a8c46db7e120cb6187a7716fcae394f449661",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-exact-score-0-1": {
+    "id": "2196441",
+    "conditionId": "0xd47a8356f3a9bda36ac67ae32e267c7063275912b8c8a1c99ec8072851dcf1d8",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-exact-score",
+    "negRisk": true
+  },
+  "bol1-aur-ori-2026-05-24-exact-score-1-0": {
+    "id": "2196442",
+    "conditionId": "0x948da43e2782544f680ce96080f6b53a67ce9c5cc128f96863e58d466e4c270f",
+    "endDate": "2026-05-24",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-ori-2026-05-24-exact-score",
     "negRisk": true
   }
 }
