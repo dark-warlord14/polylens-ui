@@ -28203,16 +28203,6 @@
     "eventSlug": "greece-x-turkey-military-engagement-by-june-30",
     "negRisk": false
   },
-  "will-one-democratic-party-candidate-and-one-republican-party-candidate-advance-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary": {
-    "id": "995678",
-    "conditionId": "0xa68b0a77955777a56aea54b2888d8e93e806e4ff51fec19800625cf46ce90e37",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "parties-advancing-from-the-california-governor-primary",
-    "negRisk": true
-  },
   "will-bad-bunny-be-the-top-spotify-artist-for-2026": {
     "id": "995702",
     "conditionId": "0x938e6a0a011f9534ffd2d86c65dde3aeb7c66ad06cee29ead70b832179c3b6de",
@@ -28943,16 +28933,6 @@
     "eventSlug": "gc-hit-jun-2026",
     "negRisk": false
   },
-  "gc-hit-4200-low-jun-2026-737-562-112-239-328-831-356-185-544-513-223-988": {
-    "id": "1032278",
-    "conditionId": "0x8cf61b7b84b6ac2e0c619867dd6966e688b43e4fd4c866423da2f757c58f0a9f",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gc-hit-jun-2026",
-    "negRisk": false
-  },
   "gc-hit-3800-low-jun-2026-729-384-549-926-881-297-655-985-818-121-784-162": {
     "id": "1032279",
     "conditionId": "0x1680cb8dd6aa67cc5daeb3e04552f5b7ac4ac64ec71b7f9c8d1757c7795786ca",
@@ -29196,16 +29176,6 @@
   "will-silver-si-hit-high-120-by-end-of-june": {
     "id": "1032336",
     "conditionId": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "si-hit-jun-2026",
-    "negRisk": false
-  },
-  "will-silver-si-hit-low-65-by-end-of-june-998-897": {
-    "id": "1032344",
-    "conditionId": "0xa43ad4037543d8376fe6bc828997820cc197ceb86d8c8f51b33b95c6676078cf",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -97379,16 +97349,6 @@
     "eventSlug": "laliga-2-team-promoted-to-laliga",
     "negRisk": false
   },
-  "will-ud-las-palmas-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062482",
-    "conditionId": "0x3928d574e142bfda62b9419553e172c5f12210105866a3bca8552c814550b290",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
   "will-malaga-cf-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
     "id": "2062489",
     "conditionId": "0x8d569a2b58d151d93d5828e2ca60ca71906b0d175b15caf9b23c2f3a8744f96c",
@@ -119606,6 +119566,46 @@
   "bol1-blo-tom-2026-05-23-exact-score-3-1": {
     "id": "2196246",
     "conditionId": "0xba1ba4cd3d61e78f79278fbddd9f685d20cc05d632d32133700efd818792b4c7",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-exact-score-2-3": {
+    "id": "2196250",
+    "conditionId": "0xd490911c4f2169eaf97575122938aba4e4c44cf59c70a4b59b966e1bf742b24f",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-exact-score-3-2": {
+    "id": "2196254",
+    "conditionId": "0x07dd260693bc7e559274081984f7416a760eafc67c9a9ae87a335cc7b8e3cd9d",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-exact-score-3-3": {
+    "id": "2196257",
+    "conditionId": "0xd5da809d94115a104a22840e6e7412668f67a7532f6ca6359058179f13abb677",
+    "endDate": "2026-05-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-tom-2026-05-23-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-tom-2026-05-23-exact-score-any-other": {
+    "id": "2196261",
+    "conditionId": "0x4641ac5617e6ac87818ef54635f31906b3c96b2e4aab4b7fcab29d3d20d742ac",
     "endDate": "2026-05-23",
     "closed": false,
     "active": true,
