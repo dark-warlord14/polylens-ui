@@ -28674,16 +28674,6 @@
     "eventSlug": "which-artists-will-release-new-albums-in-2026",
     "negRisk": false
   },
-  "will-olivia-rodrigo-release-an-album-in-2026": {
-    "id": "1013249",
-    "conditionId": "0x4618b3d681487cd0eb31bb82eb2862bcb572eea220af3f4aa607b14e54ad31fb",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-artists-will-release-new-albums-in-2026",
-    "negRisk": false
-  },
   "will-rihanna-release-an-album-in-2026": {
     "id": "1013250",
     "conditionId": "0x6a07dfa017ff96c5502d8c2e64cb00b0bdeb8a8426eccae80f2a64e06366ffdd",
@@ -40713,16 +40703,6 @@
     "acceptingOrders": true,
     "eventSlug": "si-hit-jun-2026",
     "negRisk": false
-  },
-  "will-the-pheu-thai-party-pt-win-110-or-more-seats-in-the-2026-thai-legislative-election": {
-    "id": "1272554",
-    "conditionId": "0x3f7d9b8d53f632304884f31375be9c61cf27fe453ed00a2d6b14ed976dcb9566",
-    "endDate": "2026-02-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "of-seats-won-by-pt-in-2026-thailand-legislative-election",
-    "negRisk": true
   },
   "will-gold-gc-hit-high-5700-by-end-of-june-439-682-222-223": {
     "id": "1272712",
@@ -58522,46 +58502,6 @@
     "eventSlug": "foreign-intervention-in-gaza-by",
     "negRisk": false
   },
-  "will-how-to-make-a-killing-score-at-least-56-on-the-rotten-tomatoes-tomatometer": {
-    "id": "1395244",
-    "conditionId": "0x35c409fd5f88e78e4a3eddba93fcb24893b4260b55c472be492d0c175d4526bd",
-    "endDate": "2026-02-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-to-make-a-killing-rotten-tomatoes-score",
-    "negRisk": true
-  },
-  "will-how-to-make-a-killing-score-at-least-58-on-the-rotten-tomatoes-tomatometer": {
-    "id": "1395246",
-    "conditionId": "0xe8e8570f559770af67c357a0aa5492f82189fd9e0af4b0a3a3b40db0acc374bb",
-    "endDate": "2026-02-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-to-make-a-killing-rotten-tomatoes-score",
-    "negRisk": true
-  },
-  "will-how-to-make-a-killing-score-at-least-59-on-the-rotten-tomatoes-tomatometer": {
-    "id": "1395247",
-    "conditionId": "0x555c5eeb1f448980d634f0d59556fd2e9a397cc53724b65bb326b0517fb729ba",
-    "endDate": "2026-02-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-to-make-a-killing-rotten-tomatoes-score",
-    "negRisk": true
-  },
-  "will-how-to-make-a-killing-score-at-least-60-on-the-rotten-tomatoes-tomatometer": {
-    "id": "1395248",
-    "conditionId": "0x2ac0c53ffa66cf3906faff63e92b580307e39d518ed0b64116e32170aaeae618",
-    "endDate": "2026-02-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-to-make-a-killing-rotten-tomatoes-score",
-    "negRisk": true
-  },
   "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-16-or-more-667": {
     "id": "1395450",
     "conditionId": "0xc8a2dee57a4c1431e7ea74c00e820e8c3ea58fcbe5d83ebf51dd1b11a08940c2",
@@ -75143,16 +75083,6 @@
     "eventSlug": "2026-basketball-liga-nacional-de-bsquetbol-winner",
     "negRisk": true
   },
-  "2026-basketball-turkey-bsl-winner-baheehir-koleji": {
-    "id": "1834136",
-    "conditionId": "0xbab5a91e884d6ce4d613d8d69fe6c2b8702e85523ff22663b8c92d61444580d4",
-    "endDate": "2026-12-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-turkey-bsl-winner",
-    "negRisk": true
-  },
   "2026-basketball-turkey-bsl-winner-beikta-gain": {
     "id": "1834137",
     "conditionId": "0x6dd21c7cfc6f148bd8713d917c76933225bc179c6da519fd76044e8b534983c7",
@@ -75176,16 +75106,6 @@
   "2026-basketball-germany-bbl-winner-alba-berlin": {
     "id": "1834153",
     "conditionId": "0xde61d80b3d37e12cc65a70e12c418518ea5805610655e93ecf6f112dccff1dc1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
-  "2026-basketball-germany-bbl-winner-bamberg-baskets": {
-    "id": "1834154",
-    "conditionId": "0x5824826b3e13459298c8d0f400f49f052c3265ac19071c2b53932f4b5bef221a",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -75246,16 +75166,6 @@
   "2026-basketball-vtb-united-league-winner-cska-moscow": {
     "id": "1834194",
     "conditionId": "0x3d6230ef03feb786b0cd086e5fa4d19f8a151b84fe2882d44debf4f78acc2602",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-vtb-united-league-winner",
-    "negRisk": true
-  },
-  "2026-basketball-vtb-united-league-winner-unics-kazan": {
-    "id": "1834200",
-    "conditionId": "0x72d2281eff506ff78feeeb97eef0ebb40457ea91d031ffcd50a91517943ec60f",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -109970,16 +109880,6 @@
     "eventSlug": "super-rugby-pacific-winner",
     "negRisk": true
   },
-  "will-crusaders-win-the-2026-super-rugby-pacific-grand-final": {
-    "id": "2134584",
-    "conditionId": "0x8c6768e94b075cf9320f0cf37acb9c3f1a3735bef74e912b884a2ab6100028ae",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "super-rugby-pacific-winner",
-    "negRisk": true
-  },
   "will-hurricanes-win-the-2026-super-rugby-pacific-grand-final": {
     "id": "2134586",
     "conditionId": "0x39276277726fbadfcab01916bc8f125a56b2dc85cf767b87a39a03689b08f5c0",
@@ -111728,36 +111628,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-russia-capture-kostyantynivka-by",
-    "negRisk": false
-  },
-  "will-addison-rae-be-featured-on-olivia-rodrigos-new-album": {
-    "id": "2160196",
-    "conditionId": "0xd330063b0f45965b06b7a24b28a2fc984fbfe9d282c266c798f532ac67e96a0b",
-    "endDate": "2026-06-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-featured-on-you-seem-pretty-sad-for-a-girl-so-in-love",
-    "negRisk": false
-  },
-  "will-lorde-be-featured-on-olivia-rodrigos-new-album": {
-    "id": "2160198",
-    "conditionId": "0x1e4c97eaef3c5a3e1293eb145d1566f318b96d85b9e2860efcefc4537637cb7f",
-    "endDate": "2026-06-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-featured-on-you-seem-pretty-sad-for-a-girl-so-in-love",
-    "negRisk": false
-  },
-  "will-fiona-apple-be-featured-on-olivia-rodrigos-new-album": {
-    "id": "2160200",
-    "conditionId": "0x4cccb0153919f3b4cf01b951cee40a5f91eb3cd088ccb90e7e3afa32fb406dba",
-    "endDate": "2026-06-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-featured-on-you-seem-pretty-sad-for-a-girl-so-in-love",
     "negRisk": false
   },
   "mlb-mil-stl-2026-05-05-total-8pt5": {
@@ -115042,126 +114912,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-9daplu-alkaa-2026-05-06",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game1-both-teams-slay-baron": {
-    "id": "2175404",
-    "conditionId": "0x1fc7d3d924b53c6c33a47d1de0ba1937a4d202971d38a18e6c0e6cbccdc4e0d5",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game1-both-teams-slay-dragon": {
-    "id": "2175405",
-    "conditionId": "0xacd07eef0241758ef5ce4e4591afb2b7d7cc36dce53aed165e074a90d98eb381",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game1-both-teams-destroy-inhibitors": {
-    "id": "2175406",
-    "conditionId": "0x4b80c39b00ae72251a3afd0f4a8851e405e7a02ffad4b85a91d91377ffeab0e2",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game1-any-player-quadra-kill": {
-    "id": "2175407",
-    "conditionId": "0xa62aa0fe7f22e5a22c191b78f81111f8979859b774821bbe0b15d1c2cae40997",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game1-any-player-penta-kill": {
-    "id": "2175408",
-    "conditionId": "0x0043a02d94bacacb0dae4190da5537a1507334d4b824f12ab745adc9cea76f84",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game1-odd-even-total-kills": {
-    "id": "2175409",
-    "conditionId": "0x7e88e5395d1a6e0e6ba5799c0ad9e98ee5ba5f7e227400432b0eb364c0235d07",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game2-both-teams-slay-baron": {
-    "id": "2175410",
-    "conditionId": "0x0e9a8e1444e4ef64a9fbe2bac24c239757700b5894c45d069d5604fbf1a87fc2",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game2-both-teams-slay-dragon": {
-    "id": "2175411",
-    "conditionId": "0x1a6ad844d840a0bd46d5410b6c90a71708dff306f50251bd9f5998698949268e",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game2-both-teams-destroy-inhibitors": {
-    "id": "2175412",
-    "conditionId": "0xf93cbcd94fa89f1613189012855993bc1b19d907ee59dafae685ca1edd1588aa",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game2-any-player-quadra-kill": {
-    "id": "2175413",
-    "conditionId": "0x76d8513cbebc8196f874c1a67df172fac018ae3d0d1d2cab0aed49543cd758b9",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game2-any-player-penta-kill": {
-    "id": "2175415",
-    "conditionId": "0x622d2d3f66e1a7e9f67a867b723912134368b3019c65172af4a35d3fcde8ef2d",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
-    "negRisk": false
-  },
-  "lol-tsw-gam-2026-05-07-game2-odd-even-total-kills": {
-    "id": "2175416",
-    "conditionId": "0x07cf8fe3ecfd46781683412327036dc8c0a945e540687944ea5f9a03272ccf53",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-gam-2026-05-07",
     "negRisk": false
   },
   "lol-shg-cfo-2026-05-07-game1-both-teams-slay-baron": {
@@ -119612,6 +119362,256 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-gvs-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-gvs-2026-05-30-exact-score-3-2": {
+    "id": "2196709",
+    "conditionId": "0xed8b5814d4189330a70f9470cb7b768b07d964a8353433a1b85c47156dc8c7e4",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-gvs-2026-05-30-exact-score-3-3": {
+    "id": "2196713",
+    "conditionId": "0xe80fa708e811e66ec86d64ecece737414caa1c30a969f4e5a3cbf5febcd4bcb4",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-gvs-2026-05-30-exact-score-any-other": {
+    "id": "2196717",
+    "conditionId": "0x4f7d356dea5629b0804b67ce3bdf0201786d032f32f7d0a55eb1b9ce3b246de6",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-gvs-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-halftime-result-home": {
+    "id": "2196722",
+    "conditionId": "0x17c92eac8d9c2a44d0bda6af40be61b72f4a716a3fe9a581ca4bd66be8d5789f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-halftime-result",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-halftime-result-draw": {
+    "id": "2196723",
+    "conditionId": "0xd5c2b9137bac2f637e55485601369d9c219d00894dcdfe14bde531a490ca9608",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-halftime-result",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-halftime-result-away": {
+    "id": "2196725",
+    "conditionId": "0xe1b6359a588e5ad4f46a7fabcd9e39e6532d98f87089e2ddbec69f603f477e20",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-halftime-result",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-0-0": {
+    "id": "2196734",
+    "conditionId": "0xdb47f5cd0b4b7e40b040e1a6159f4e6d380dcb6ce4c4f302bdce59969b623076",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-0-1": {
+    "id": "2196738",
+    "conditionId": "0xb3e29e9091b4d44bec2ec5c8045dda2c7c95dcf3ef1389858601e637cb0f34aa",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-1-0": {
+    "id": "2196741",
+    "conditionId": "0x5f1316a7c786d4cad4f7b46d07c64cadfca7d2fca5e2655cc64d43e9989a30af",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-0-2": {
+    "id": "2196744",
+    "conditionId": "0x14f71946c90fdfbf3adb6dabfe6861b686c2ba7dc77780337905a3782383e968",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-1-1": {
+    "id": "2196747",
+    "conditionId": "0x4c79f7c4915e287a4bdf6003eebdf9775409390226556f1877aed75aaae9d084",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-2-0": {
+    "id": "2196750",
+    "conditionId": "0x700a9176468cf64fb57ebb5b9d831641ca1e8bc3ce7621e7bd6c13c2fc4d67b6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-0-3": {
+    "id": "2196753",
+    "conditionId": "0xb7dd83a3c109a4a519e4e306998d3b708dee537f77bea772bc3542e311056c4c",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-1-2": {
+    "id": "2196756",
+    "conditionId": "0xd2cc9283131dadcefe0a86416f920ac31b4834318bd2d37e68c2c84ee93d8ba8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-2-1": {
+    "id": "2196760",
+    "conditionId": "0x3700691038f3d722d9bcbaa33bc1cc516592b1bb564d3193d1d88741d6e862df",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-3-0": {
+    "id": "2196763",
+    "conditionId": "0x5c1e92f7f3cb684f407ce15a36719d9c1d2b93e7d885ec0075c8e51192ae01b2",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-1-3": {
+    "id": "2196766",
+    "conditionId": "0x03947e6adc090c3251c9f29c60eddb7fddc5ce57360c535c247ff0cd77ee79dd",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-2-2": {
+    "id": "2196769",
+    "conditionId": "0x2becf3f5ec81293493ef64ec7104730e84b5b8528f1829f9058c3ce784cd3bbd",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-3-1": {
+    "id": "2196773",
+    "conditionId": "0xb10864756115c2286d5c37b7dc220cd9ed60ce7738d0ad09358fe53984c11839",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-2-3": {
+    "id": "2196777",
+    "conditionId": "0xbb725992ca114db0864c998da474098d22292622a9c1714d76c89d39f6eae954",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-3-2": {
+    "id": "2196781",
+    "conditionId": "0xd05ba875021f0516a652ed7567aea86022a92668df5876c6eaa9809eb3c75224",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-3-3": {
+    "id": "2196785",
+    "conditionId": "0xdd59776cda36151fe69cdd2c952ec6bca135bafac10473a8fea986baa05a4705",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-tom-idp-2026-05-30-exact-score-any-other": {
+    "id": "2196788",
+    "conditionId": "0xe10e34091e03d920be4ac5be75518fa90b6b404054fc34cdfae01e01bddc3744",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-tom-idp-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-halftime-result-home": {
+    "id": "2196805",
+    "conditionId": "0x6bced2ec8b4982cce137ecfd8fb4cfe23e0b8107cde9e684d9b391b9b7316ba6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-halftime-result-draw": {
+    "id": "2196808",
+    "conditionId": "0xf554dc7cdfb751a84f2f06d9fd7727d0f59281581810d751fb8e9a5d4bd855f8",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-halftime-result",
     "negRisk": true
   }
 }
