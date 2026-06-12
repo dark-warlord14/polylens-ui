@@ -1479,6 +1479,16 @@
     "eventSlug": "presidential-election-winner-2028",
     "negRisk": true
   },
+  "will-jalen-brunson-win-the-2028-us-presidential-election": {
+    "id": "561265",
+    "conditionId": "0x7d6b6b452ba0f0f401067fd690a1aecc3059362ff5a7b6401d0b975db890d3c3",
+    "endDate": "2028-11-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "presidential-election-winner-2028",
+    "negRisk": true
+  },
   "will-donald-trump-win-the-2028-republican-presidential-nomination": {
     "id": "561973",
     "conditionId": "0x895e01dbf3e6a33cd9a44ca0f8cdb5df1bd2b0b6ebed5300d28f8da7145145e4",
@@ -24125,96 +24135,6 @@
     "eventSlug": "how-many-republican-senators-not-running-in-2026",
     "negRisk": true
   },
-  "will-spacexs-public-ticker-be-spax-713": {
-    "id": "929491",
-    "conditionId": "0x2a263488a101c6f260b31e821685516e776b9b5b3403e883c4ba235b2bf79146",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-x-333": {
-    "id": "929492",
-    "conditionId": "0xb2f7dc9439fde732c0586302b1be0d46bc41a917e5338b8924b3557be944dcef",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-sx-742": {
-    "id": "929493",
-    "conditionId": "0x243e72a3dd07604c0e27d14fda13e2ad5248b201379c56deb5c4655984d7385f",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-sex-544": {
-    "id": "929494",
-    "conditionId": "0xafb67293d7e12d87cf4ba22e4eb89f1eea353b11c6febaf6b9832213c4529367",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-mars-627": {
-    "id": "929495",
-    "conditionId": "0xfad080aab1cc1549d2dcefc782461969e89a63329a643506ee85ae9682140dca",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-spc-937": {
-    "id": "929496",
-    "conditionId": "0x95ec4d4bd3a7eef1232d4c2fbcd95d8fbe77a16d382615941fcdd9e30e3b7e3f",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-star-796": {
-    "id": "929497",
-    "conditionId": "0x0d8880457a80d5216bc5359f7de1e99a83adff0f0e39616cfa57dec28033a077",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-space-625": {
-    "id": "929498",
-    "conditionId": "0xfe6827bd1917f702f1858bec56fc431753cce59b92e93cdba8a60fd1730d5b02",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
-  "will-spacexs-public-ticker-be-another-ticker-745": {
-    "id": "929499",
-    "conditionId": "0x913d94d8140c5f34a36298c2d2855c157f03b47884f780fe4a6f40c42fecd760",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-public-ticker-be",
-    "negRisk": true
-  },
   "opensea-fdv-above-2b-one-day-after-launch-771-639-367-482-177-837": {
     "id": "936450",
     "conditionId": "0xb8a8833f60836f1a4860727dfebed0cb0fc59a6f9cd22ec840a2e7f6a7dbb2a3",
@@ -28253,16 +28173,6 @@
     "acceptingOrders": true,
     "eventSlug": "top-spotify-artist-2026",
     "negRisk": true
-  },
-  "spacex-goes-public-through-bill-ackman-spar-company": {
-    "id": "995773",
-    "conditionId": "0x7a267548141aa82ed934562b2ba4f7b35dac3e21e55f19831a9b35a9a6d79b7e",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-goes-public-through-bill-ackman-spar-company",
-    "negRisk": false
   },
   "will-openai-have-a-1-ai-model-by-june-30": {
     "id": "996324",
@@ -40324,36 +40234,6 @@
     "eventSlug": "south-africa-annual-inflation-2026",
     "negRisk": true
   },
-  "will-spacex-ipo-by-june-30-2026-372-264-619": {
-    "id": "1250582",
-    "conditionId": "0x3dbeee81527f6d4868a6e500fca15d8905a6dda0e9b1f525145a4ad813bac98e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-by",
-    "negRisk": false
-  },
-  "will-spacex-ipo-by-september-30-2026-832-864-576-595": {
-    "id": "1250583",
-    "conditionId": "0x58ae4880738f502cf9c3ca8e1f7747ead62c32308ca520efd16ee0f91af06415",
-    "endDate": "2026-09-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-by",
-    "negRisk": false
-  },
-  "will-spacex-ipo-by-december-31-2026-773-178-618-527": {
-    "id": "1250584",
-    "conditionId": "0x01759192de454d25043610a0dff13621b60f71d867114ed86778d0e485e46b0f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-by",
-    "negRisk": false
-  },
   "will-spacexs-market-cap-be-less-than-1pt0t-at-market-close-on-ipo-day-281": {
     "id": "1250804",
     "conditionId": "0xfa928bde6b984b65611fd3a9fde594ae7daafc38572121f6dcc4ac4aaba03df8",
@@ -49144,16 +49024,6 @@
     "eventSlug": "tesla-and-spacex-merger-officially-announced-by-june-30",
     "negRisk": false
   },
-  "will-spacex-or-openai-first-ipo-before-2028": {
-    "id": "1298547",
-    "conditionId": "0xafacd019af8894c0a0dd2581bd6b4b2572ece03bb8a98fdde905e68825b4d07f",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-spacex-or-openai-first-ipo-before-2028",
-    "negRisk": false
-  },
   "spacex-or-openai-higher-ipo-closing-market-cap": {
     "id": "1298624",
     "conditionId": "0x1fa4a85c1e3e06ed612945394a77758565a04239e0f8a8e2d8dfb75b745e020b",
@@ -51675,6 +51545,16 @@
   "will-john-healey-be-the-next-prime-minister-of-the-united-kingdom-in-2026": {
     "id": "1343473",
     "conditionId": "0xf42f7a11284f0a20a27680a4812c1f1ad774cc60b211f992fac7f497e8c753b3",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-uk-prime-minister-in-2026-122",
+    "negRisk": true
+  },
+  "will-og-anunoby-jr-be-the-next-prime-minister-of-the-united-kingdom-in-2026": {
+    "id": "1343474",
+    "conditionId": "0xe655affd888469ac415e79bb6107af9bd43928d71720143ff6c713e4d7fdf23f",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -68549,15 +68429,6 @@
     "eventSlug": "spacex-ipo-closing-market-cap",
     "negRisk": true
   },
-  "will-spacex-not-ipo-by-december-31-2027-776": {
-    "id": "1720659",
-    "conditionId": "0xb571a7ed22becbb402e94785f1c8c3f9687e549c42286f01ab30536722d0c584",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
   "will-spacex-raise-less-than-40b-in-its-ipo": {
     "id": "1720874",
     "conditionId": "0xdac37664a69be4de9661afb10d95bacbeae1e269c95dcf4f6fe775edc55578e9",
@@ -68647,16 +68518,6 @@
     "acceptingOrders": true,
     "eventSlug": "how-much-will-spacex-raise-in-its-ipo",
     "negRisk": true
-  },
-  "will-spacex-ipo-by-june-15-2026-789-854": {
-    "id": "1720969",
-    "conditionId": "0x13ca9f55fed9ce4094d90fe1ab5f63c0d371d1589dfffe247a3c1c13d6fb0477",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-by",
-    "negRisk": false
   },
   "will-nolan-mclean-win-the-2026-nl-rookie-of-the-year-award": {
     "id": "1721028",
@@ -82668,16 +82529,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-blg-jdg-2026-04-14",
-    "negRisk": false
-  },
-  "will-spacex-ipo-by-august-31-2026": {
-    "id": "1971078",
-    "conditionId": "0x9c01bea9b869ca2acb0c28efa8bbaba184f807c3c3cd9bccaad9e6022dfc8a19",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-by",
     "negRisk": false
   },
   "will-apple-stop-selling-macbook-neo": {
@@ -96800,16 +96651,6 @@
     "eventSlug": "will-xi-meet-with-takaichi-by",
     "negRisk": false
   },
-  "will-iceman-be-no1-for-2-weeks-766": {
-    "id": "2062965",
-    "conditionId": "0xbdd246a0b2283a963b946a1272db382e508ada8bb8d454b7839006d587a7d48a",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-weeks-will-iceman-be-no1-on-the-billboard-200-866",
-    "negRisk": true
-  },
   "will-iceman-be-no1-for-3-weeks-239": {
     "id": "2062966",
     "conditionId": "0x78e2751b90f4a3e878242df8c26f7243782c5b7b01e3006c92c17874635b95bf",
@@ -103699,7 +103540,7 @@
     "eventSlug": "james-comey-sentenced-to-prison-in-2026",
     "negRisk": false
   },
-  "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883": {
+  "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883-134-598": {
     "id": "2109450",
     "conditionId": "0x6fa13f31cceaf10ed3190df6e2aca0a93ab0d6fb46fd279003f17d4cdccee164",
     "endDate": "2026-05-15",
@@ -119612,6 +119453,166 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-pot-nap-2026-05-31-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-halftime-result-away": {
+    "id": "2196810",
+    "conditionId": "0x63b5bcd095ab75eb1c086c9cbc4deb46b307d150caf49723ba1d75dcdf8a2baa",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-halftime-result",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-0-0": {
+    "id": "2196815",
+    "conditionId": "0x08fedd885fc00c9ba291a7019819a1eb94b0dcb99e8da6f14bac026ba5b4c76a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-0-1": {
+    "id": "2196818",
+    "conditionId": "0xd5bc71fa1d2c12d32ca8c7ccf4da1ccc5a1b2f6fba60eb44ec75efe0d081802e",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-1-0": {
+    "id": "2196821",
+    "conditionId": "0xa53e6f6ac6ea3c799ca28cbe10dac0b5445a18c41cb1b317d358c1d3f0b47380",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-0-2": {
+    "id": "2196824",
+    "conditionId": "0x52c2922c1000bcd34e21770bb65918888ee5574686442895cb102cb5542862a1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-1-1": {
+    "id": "2196827",
+    "conditionId": "0xb94baa6b5ab001bfc845fd648d36cf57d1dcf22e941295b450b2285aa71a491a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-2-0": {
+    "id": "2196831",
+    "conditionId": "0x0d791718449d2deb4a0ef7e2e1a19ce57d32d44cf91acca6be2124cadccdcdc1",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-0-3": {
+    "id": "2196835",
+    "conditionId": "0xb96370433a15346e145188c338e208b64fdcc724f72fb6be52995ea4bb4aa12d",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-1-2": {
+    "id": "2196838",
+    "conditionId": "0x80def21aca9a9039fcc5f8a6709f6f63cd57f056f11e006e0b23d3da15cc04a3",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-2-1": {
+    "id": "2196841",
+    "conditionId": "0x1867c739034307bb59b7c75aca03887e5478bcdda5efa0e8daa71b638ee5de67",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-3-0": {
+    "id": "2196844",
+    "conditionId": "0xb13c5c352839920aebf25a4956bf7cc0165b82459454857c26463f4f4159e9b7",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-1-3": {
+    "id": "2196847",
+    "conditionId": "0x5d545d8ffc0a605df3674cb7e5571ac0adaf53f9b3decce8ff858700380f885a",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-2-2": {
+    "id": "2196850",
+    "conditionId": "0xc10bb67aa149f40c14e4424287f62533140c77544fed891ebdc417faafecf878",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-3-1": {
+    "id": "2196853",
+    "conditionId": "0x993750045184ae73647187b4d06a50c69f09f19e6affa26c45b7e1efa65c442f",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-2-3": {
+    "id": "2196856",
+    "conditionId": "0x0e5d84f36944cc9cfc8ed1670c32243cc4eb4f423671d016b6fc1010465d12b6",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
+    "negRisk": true
+  },
+  "bol1-pot-nap-2026-05-31-exact-score-3-2": {
+    "id": "2196859",
+    "conditionId": "0xfe2ae84b6a474b617fae6f9197ed6dac490565a87a9accdb30e03cc5ceafee22",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-pot-nap-2026-05-31-exact-score",
     "negRisk": true
   }
 }
