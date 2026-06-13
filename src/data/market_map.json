@@ -20519,76 +20519,6 @@
     "eventSlug": "which-continent-will-win-the-world-cup",
     "negRisk": true
   },
-  "will-spacexs-market-cap-be-less-than-500b-at-market-close-on-ipo-day": {
-    "id": "842086",
-    "conditionId": "0xc7af6cffebfc1c0d3b19d66a2495a19a12b41a63af98e40d70f2bc710c7f1561",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-500b-and-600b-at-market-close-on-ipo-day": {
-    "id": "842087",
-    "conditionId": "0x61ab8a9019da7012cacf68afadd484ca68bcecde8f53f5426fbf4c174e2de623",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-600b-and-700b-at-market-close-on-ipo-day": {
-    "id": "842088",
-    "conditionId": "0x41ac836a825fc356c6003e736e25015c07871c04f8fbdb9a57f635acab77c1c8",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-700b-and-800b-at-market-close-on-ipo-day": {
-    "id": "842089",
-    "conditionId": "0x2a7eaf49150dd8eb4ac5901eebb9fdce52a84093e3c7336213c4c8aaa1e70dd5",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-800b-and-900b-at-market-close-on-ipo-day": {
-    "id": "842090",
-    "conditionId": "0x82776e1d30f29cec9b99f63f4d821527bbfc028af995381cff815074a10ff167",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-900b-and-1t-at-market-close-on-ipo-day": {
-    "id": "842091",
-    "conditionId": "0x36f44c4409cd8e1e3aab863f9692bac2d78073b33b3b10cb10a2685ba1ad94b4",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-greater-than-1t-at-market-close-on-ipo-day": {
-    "id": "842092",
-    "conditionId": "0xdafaa73301e394d19a14c3f1b220d3e27eee7cc042fe4e694c102ba9292ec49e",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-lowest-strikes",
-    "negRisk": true
-  },
   "eu-dissolves-before-2027": {
     "id": "891408",
     "conditionId": "0x0a706801ddd761794258687cb07c6697e4a38dfc34aa96032e928740119f1905",
@@ -23305,36 +23235,6 @@
     "eventSlug": "how-many-republican-senators-not-running-in-2026",
     "negRisk": true
   },
-  "spacex-ipo-closing-market-cap-above-1t-274-469": {
-    "id": "909466",
-    "conditionId": "0xfacf82cdf9eeea5d4c0a450acf939bbeab9fe307b5e53191a59171d12072adbf",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-1pt4t-128-653": {
-    "id": "909467",
-    "conditionId": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-1pt2t-797-138": {
-    "id": "909468",
-    "conditionId": "0x1f31af453f8396fad7664485160aacf7bfbec04c366b5c4c04a1cd2ad2338f38",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
   "will-david-choquehuanca-be-the-next-secretary-general-of-the-united-nations": {
     "id": "910093",
     "conditionId": "0x9a098205ec65aa3bbeaba7b888e39bdf67cd89e769c0c0f707f6c787cd1bb585",
@@ -23533,36 +23433,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-will-based-prediction-market-revenue-hit-before-2027",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116": {
-    "id": "915769",
-    "conditionId": "0xe5ffcfa3e5fd5edff7edee4db111e7035439c62a463021ad0f38a32f66647f3e",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-2t-649-783": {
-    "id": "915770",
-    "conditionId": "0x6619036865c2d27f1b1c00cd565ce74f6aa72ef93be29c315be36941d3559c59",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-1pt8t-631-261": {
-    "id": "915771",
-    "conditionId": "0xd4d841659e8b1fe050980ec9b7deae31accc10e529082fe9468ef9699d11aec2",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
     "negRisk": false
   },
   "will-trumps-approval-rating-hit-44-in-2026": {
@@ -40214,76 +40084,6 @@
     "eventSlug": "south-africa-annual-inflation-2026",
     "negRisk": true
   },
-  "will-spacexs-market-cap-be-less-than-1pt0t-at-market-close-on-ipo-day-281": {
-    "id": "1250804",
-    "conditionId": "0xfa928bde6b984b65611fd3a9fde594ae7daafc38572121f6dcc4ac4aaba03df8",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt0t-and-1pt2t-at-market-close-on-ipo-day-437": {
-    "id": "1250805",
-    "conditionId": "0x582532c6acae7f86917143c3dcfb584819a95398d3eadb26c1944764537b0e20",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt2t-and-1pt4t-at-market-close-on-ipo-day-668": {
-    "id": "1250806",
-    "conditionId": "0x6ad74cc331ad699ef75a043da70cad641b348b2eec5979a3dc0ff95888239c3d",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt4t-and-1pt6t-at-market-close-on-ipo-day-168": {
-    "id": "1250807",
-    "conditionId": "0x8587c25e68ea0f18372d15251bc5d6784999f44b32f6727591483b0f16b425e6",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt6t-and-1pt8t-at-market-close-on-ipo-day-224": {
-    "id": "1250808",
-    "conditionId": "0xc8034ffc35d47f966646cd1807900b415365f759bac771e3d7d9cfce3cf2a9ea",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt8t-and-2pt0t-at-market-close-on-ipo-day-516": {
-    "id": "1250809",
-    "conditionId": "0xd9a7b51443dc1f1c7c679a28a334d6d2a945bd7e2f4500394494124a13222607",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-greater-than-2pt0t-at-market-close-on-ipo-day-277": {
-    "id": "1250810",
-    "conditionId": "0x61c020db75fac30d0b3ee73acb481e94d6aee3790828650aa9f0b50d43fedca5",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-higher-strikes",
-    "negRisk": true
-  },
   "will-there-be-at-least-7500-measles-cases-in-the-us-in-2026-287-181": {
     "id": "1250830",
     "conditionId": "0xfa3dc3876b9210267914d74d4686a2c71bec3bf37bc1dc059a70f3e3e41ca1a7",
@@ -50100,36 +49900,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-2pt2t-391-286-145": {
-    "id": "1326777",
-    "conditionId": "0x93f2e17cfd239c4667eb3d41ff04e2cd1ae6f3f663210cbc42ec1296ff880805",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-2pt4t-574-858-552": {
-    "id": "1326778",
-    "conditionId": "0xf471786ca9608b18a61e1f555681428c80ad2a2695fdd2df69e796defff9f897",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
-    "negRisk": false
-  },
-  "spacex-ipo-closing-market-cap-above-3t-337-436": {
-    "id": "1326787",
-    "conditionId": "0x3f4b9f2f79e5664cacdf4afacde6c45e59a9e4abedf7b8d10bf5f07307f9566f",
-    "endDate": "2027-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap-above",
     "negRisk": false
   },
   "will-jeff-bezos-buy-the-seattle-seahawks-794": {
@@ -68256,78 +68026,6 @@
     "eventSlug": "will-trump-talk-to-mojtaba-khamenei-by-march-31",
     "negRisk": false
   },
-  "will-spacexs-market-cap-be-less-than-1pt0t-at-market-close-on-ipo-day": {
-    "id": "1720652",
-    "conditionId": "0x8e4a810cd4169d2ab31e05ad183b383169e9ec8919a62c07ff2e843dd919a8ae",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt0t-and-1pt5t-at-market-close-on-ipo-day": {
-    "id": "1720653",
-    "conditionId": "0x586555817c3d83541254d75bbf52089c209d836d395e604a52bee72518f0e898",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-1pt5t-and-2pt0t-at-market-close-on-ipo-day": {
-    "id": "1720654",
-    "conditionId": "0x235693693a07f40782ff4a91d992a98a627d77a4cde305af3dd675eb982ec283",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-2pt0t-and-2pt5t-at-market-close-on-ipo-day": {
-    "id": "1720655",
-    "conditionId": "0x15fa6bf8e2106d0d39e2fb2dcf7239eb31036a672280838f8d02bc4e0286e3c1",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-2pt5t-and-3pt0t-at-market-close-on-ipo-day": {
-    "id": "1720656",
-    "conditionId": "0xe51f231db21003948460569107975a20ed138b642b2952c4f0798da8c64d8591",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-between-3pt0t-and-3pt5t-at-market-close-on-ipo-day": {
-    "id": "1720657",
-    "conditionId": "0x0fbeade92bd77dc81450460c1f04177cff657b7ddba7448eb6e87ae9a2d6325a",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacexs-market-cap-be-at-least-3pt5t-at-market-close-on-ipo-day": {
-    "id": "1720658",
-    "conditionId": "0xa4ddb063d69b1909799d196274b26405601dee7b4e099eb83bec9c24b925eae5",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "spacex-ipo-closing-market-cap",
-    "negRisk": true
-  },
-  "will-spacex-raise-between-70b-and-80b-in-its-ipo": {
-    "id": "1720878",
-    "conditionId": "0x40488748f5df0f3f8b797c967aef25d43d54a90488166d9ff9487a79ec5d8a94",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-much-will-spacex-raise-in-its-ipo",
-    "negRisk": true
-  },
   "will-nolan-mclean-win-the-2026-nl-rookie-of-the-year-award": {
     "id": "1721028",
     "conditionId": "0x03a35ed9f0fbf82b2f9bf8d069366e0ad6e4942e7de6e22ca11e01384e37fbd5",
@@ -76864,36 +76562,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-can-bih-2026-06-12-can": {
-    "id": "1897040",
-    "conditionId": "0x802adc7238db42d431521f625b2a367954d04ebf8836109257dd4a3b961c6108",
-    "endDate": "2026-06-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-can-bih-2026-06-12",
-    "negRisk": true
-  },
-  "fifwc-can-bih-2026-06-12-draw": {
-    "id": "1897041",
-    "conditionId": "0xeda55c7409e9f0f436377ea300db42db6c576277846df770abd1391828dde639",
-    "endDate": "2026-06-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-can-bih-2026-06-12",
-    "negRisk": true
-  },
-  "fifwc-can-bih-2026-06-12-bih": {
-    "id": "1897042",
-    "conditionId": "0x3bb3f35e86949207b257f1f3288a8ceaf071638cbd10a3c9a8273b4f542d4ee0",
-    "endDate": "2026-06-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-can-bih-2026-06-12",
-    "negRisk": true
-  },
   "fifwc-usa-par-2026-06-12-usa": {
     "id": "1897043",
     "conditionId": "0x26c10c27cde58e2d6214d65ab562d8142d34723b3b6ec3f40836d24f6d22dfc9",
@@ -83853,26 +83521,6 @@
     "eventSlug": "cs2-old-auryb-2026-04-14",
     "negRisk": false
   },
-  "lol-tl2-fly-2026-04-14-game3-any-player-quadra-kill": {
-    "id": "1978836",
-    "conditionId": "0xbaa24dff2f1f27454538ab626174dca4404ebb8dcb0b4292e7cb940437d700a6",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tl2-fly-2026-04-14",
-    "negRisk": false
-  },
-  "lol-tl2-fly-2026-04-14-game3-any-player-penta-kill": {
-    "id": "1978837",
-    "conditionId": "0x0e9b1d3e8778f81d91a44399fad01734f91c50d05feb61cf424d9876805499ac",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tl2-fly-2026-04-14",
-    "negRisk": false
-  },
   "lol-we-omg-2026-04-13-game1-kill-over-19pt5": {
     "id": "1979107",
     "conditionId": "0x2b459a3efc2c595b148416f5aef74b2e25303d8d5eb00ed8a332b2337c58cc93",
@@ -83881,16 +83529,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-we-omg-2026-04-13",
-    "negRisk": false
-  },
-  "lol-ly-sr-2026-04-14-game2-kill-over-24pt5": {
-    "id": "1980215",
-    "conditionId": "0x3d7a8e65e4fbabacd14b1312ac5f0c109b355ca16607acb395b665071a6680cd",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-ly-sr-2026-04-14",
     "negRisk": false
   },
   "dota2-l1ga-bb4-2026-04-14-game4-ends-in-daytime": {
@@ -97352,6 +96990,16 @@
     "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
+  "will-endrick-felipe-moreira-de-sousa-pessoa-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069680",
+    "conditionId": "0xe7a4f6591498e3fd3579596cbbe764915fb350ed318860c32a67b6372658d35d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
   "will-the-us-economy-be-in-a-soft-landing-at-the-end-of-2026": {
     "id": "2069847",
     "conditionId": "0x50e3ee8f93a464d04ea2cea6efff45c902f43642aedbf43f7afdc899e10f71d8",
@@ -101460,16 +101108,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "uk-announces-transfer-of-falklands-to-argentina-in-2026",
-    "negRisk": false
-  },
-  "will-mrbeast-hit-500-million-subscribers-by-june-30": {
-    "id": "2099564",
-    "conditionId": "0x766713c2dce11a8b4e3b2e4afb4a96f94338a77ae00bf16370cd5251cc45872a",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-mrbeast-hit-million-subscribers-by-june-30",
     "negRisk": false
   },
   "will-emmanuel-macron-be-the-next-leader-out-before-2027-767": {
@@ -109533,16 +109171,6 @@
     "eventSlug": "premiership-rugby-winner",
     "negRisk": true
   },
-  "will-leicester-tigers-win-the-2026-english-premiership-rugby-final": {
-    "id": "2134690",
-    "conditionId": "0xfb07e908c573dbf959c496b79bf19ea25bbd1ead1e9605508b0970f71818c5a5",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "premiership-rugby-winner",
-    "negRisk": true
-  },
   "will-northampton-saints-win-the-2026-english-premiership-rugby-final": {
     "id": "2134692",
     "conditionId": "0xf0e59059347942a2de1877abb8b9b0999c4f7f4ea318c27b7dae99a988472a3a",
@@ -113775,66 +113403,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game1-both-teams-slay-baron": {
-    "id": "2168101",
-    "conditionId": "0xe3406fe0e23cd57a98ea285d3ece203f7cc542741a1f67101485200dad4233ba",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game1-both-teams-slay-dragon": {
-    "id": "2168103",
-    "conditionId": "0xd1ec7c9183e086cb6c2e1d4ac2815cc177df52cb43f62a7ea62b6b64c709ce45",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game1-both-teams-destroy-inhibitors": {
-    "id": "2168105",
-    "conditionId": "0x339cc8a96db1248247e5085394f6158324e6ab72f55e8531e09fe82cdb16b155",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game1-any-player-quadra-kill": {
-    "id": "2168107",
-    "conditionId": "0x588894f0ef3843c9ff70081b08072d74afd36bcb81ea9b0e1b85d3b93c083be4",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game1-any-player-penta-kill": {
-    "id": "2168109",
-    "conditionId": "0xa4206536619688313f908cf9396a73a9c54f7e927d1da25b49db549c644432ce",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game1-odd-even-total-kills": {
-    "id": "2168111",
-    "conditionId": "0x79913e25f45f6ee3b8f0301191110bdd8b9294aa921fcc05acfd54ed6a6da4b1",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
     "negRisk": false
   },
   "lol-shg-mvk-2026-05-06-game2-both-teams-slay-baron": {
@@ -119626,5 +119194,444 @@
     "acceptingOrders": true,
     "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
     "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-0-3": {
+    "id": "2199272",
+    "conditionId": "0xd67822b4c01f72a029ba546626a87eb7ba8a6bf530f8da449f723c18541ff395",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-1-2": {
+    "id": "2199273",
+    "conditionId": "0xefc157e10d7bbe8346f6cb44a9105a9e5a2d0f7d0344591a703c486a9d4840ac",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-2-1": {
+    "id": "2199274",
+    "conditionId": "0x5a874ad9eaa7380be4f81dc21fe2d2585e45001e550151a79107226ade572915",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-3-0": {
+    "id": "2199275",
+    "conditionId": "0x8b9cfed974eab387788082f4b4805994abf75659668f142275fb2472d50e8b20",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-1-3": {
+    "id": "2199276",
+    "conditionId": "0xf45ac62786422d95b62654a7ddd63755bd8f25925e8807acba6dd5cbe907d8c1",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-2-2": {
+    "id": "2199277",
+    "conditionId": "0x02ea26afe36b97d7f23644e142ea7d4447041ec6504e7eb66d87a4f039b5e290",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-3-1": {
+    "id": "2199278",
+    "conditionId": "0x8ad301295702edf256b31ec6aa78fd43a1dc3b8b41cf5eeed003a533db4f4c31",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-2-3": {
+    "id": "2199279",
+    "conditionId": "0x87ccdcc52d68307452351afc4a01535867ca4ea9dd9ed6d12d06c58f12e9473a",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-3-2": {
+    "id": "2199280",
+    "conditionId": "0x4eebb2bce666cf10d0e6e89f9b8d7559aeb6ea771ab456748ddb52e01117777c",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-3-3": {
+    "id": "2199281",
+    "conditionId": "0xf0f83fb3eb7f34da78a07cecd3998acd6cbc32d0ecefd402a1e35d49008bca45",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "nor-lil-vik-2026-05-30-exact-score-any-other": {
+    "id": "2199282",
+    "conditionId": "0x38de772e7becc9bd5bde5a962de5ef9675c097ee7fe5be17720d516dc7b63f59",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nor-lil-vik-2026-05-30-exact-score",
+    "negRisk": true
+  },
+  "mlb-tb-bos-2026-05-09-spread-home-1pt5": {
+    "id": "2203302",
+    "conditionId": "0xf2d624180867cbe218cb6e8adba4af59ee9222938091da4d5ce86249015f902e",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-bos-2026-05-09",
+    "negRisk": false
+  },
+  "mlb-tb-bos-2026-05-09-total-8pt5": {
+    "id": "2203303",
+    "conditionId": "0xd738da729172aee7bd3fbe4b8fb51de3f22d8de4d961e4b4c49afa7802c2c347",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-bos-2026-05-09",
+    "negRisk": false
+  },
+  "will-xqc-beat-forsens-minecraft-speedrun-record-by-june-30-2026": {
+    "id": "2203540",
+    "conditionId": "0x63d4be41d64774ccc137abac8756d25cca52077cf8d72f0d071ac85fbff9b5d5",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-xqc-beat-forsens-minecraft-speedrun-record-by",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game1-both-teams-slay-baron": {
+    "id": "2203800",
+    "conditionId": "0xdb91fe260c942cbee391c6fc6b0f3a848e4de8926d3d45d6c62177a07b9a403f",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game1-both-teams-slay-dragon": {
+    "id": "2203801",
+    "conditionId": "0x932083a993c1d700ddc23327f2c37fbe42bc07e14f053b3417cd3e38804b6fc6",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game1-both-teams-destroy-inhibitors": {
+    "id": "2203802",
+    "conditionId": "0x70b50f7cd6d2d9143acd35eb2f61cae3bb35652337e010da06e014fee0244ba8",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game1-any-player-quadra-kill": {
+    "id": "2203803",
+    "conditionId": "0xf6c6fe51fac09efb4582dabe9edc64684c164d3932239116f5b5b642ff2bcebb",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game1-any-player-penta-kill": {
+    "id": "2203804",
+    "conditionId": "0x07c5568c354a5b47ed223c9b0d7649e0b32b2056879ad513fcae0383195c0e62",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2203805",
+    "conditionId": "0x82e7a00ec8d4626fdae719cf21b20bb1429b391e647a4e9057044ec48288da77",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game2-both-teams-slay-baron": {
+    "id": "2203806",
+    "conditionId": "0x86435bca9aacaafd32f2cec451cf9beec269d2b42eba29142efe4431fbe56be9",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game2-both-teams-slay-dragon": {
+    "id": "2203807",
+    "conditionId": "0xd666db982fee95c91fb78586c5746c8f2601cdc3029efa17dd5993c022a4b0d2",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game2-both-teams-destroy-inhibitors": {
+    "id": "2203808",
+    "conditionId": "0xad87bdf901f29f30b311bba1856d9b3815db0afee11837306c679d40b881ff1a",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game2-any-player-quadra-kill": {
+    "id": "2203809",
+    "conditionId": "0xd47c1d6710fea4ab79bc311263330d9b51bd23acb67777cbc76757e216674ce7",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game2-any-player-penta-kill": {
+    "id": "2203810",
+    "conditionId": "0x431e8b80717e6ddc9b852c1bc5c257be8c771e56217874b9c0adc702d7ef3c45",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2203811",
+    "conditionId": "0x0f7d7d657adee318a923d1ebd5ecc0dcb94297892c658ee31e0b83e4f1a24846",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game3-both-teams-slay-baron": {
+    "id": "2203812",
+    "conditionId": "0x286f4831389cec0c067ab9c5ab82ddb608f2339aef76ae7697df19193d4c037c",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game3-both-teams-slay-dragon": {
+    "id": "2203813",
+    "conditionId": "0xb732cf91765ab56fb231e69942f8c3b258c283175cfbcd314a495aef0af0c908",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game3-both-teams-destroy-inhibitors": {
+    "id": "2203814",
+    "conditionId": "0x2155fcaf217c48f33a13867c82ea131b23f3b143482b427abcb93763c54102fc",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game3-any-player-quadra-kill": {
+    "id": "2203815",
+    "conditionId": "0xca92de89270f773b278ca82ad1fa3f3242881742ca7e02f1d5186b41a77f6a6a",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game3-any-player-penta-kill": {
+    "id": "2203816",
+    "conditionId": "0x291a07e749434734fa79339b50d0e72aa0feff5f35da05e418b02601a49184be",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "lol-myth-ban2-2026-05-14-game3-odd-even-total-kills": {
+    "id": "2203817",
+    "conditionId": "0x4bbbb0a57ebe895c45612a94759a24f96706ed5d12126389035a98ab9374841b",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-myth-ban2-2026-05-14",
+    "negRisk": false
+  },
+  "mlb-tb-bos-2026-05-09-total-7pt5": {
+    "id": "2206157",
+    "conditionId": "0x1d47449b105669983ffccd94cac9ac3ab7f5afb44da7005124cc1698ce9c43e0",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-bos-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-fav-oxuji-2026-05-10-game3-odd-even-total-kills": {
+    "id": "2207434",
+    "conditionId": "0x84aa3a780c4a1482e0b646575da1c8962eb1adc4517cb262df6a9662930a8c86",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-fav-oxuji-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-cyb-enjoy-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2207452",
+    "conditionId": "0xbfe9cc3181ff3dac76a174c31e590fef527b62b81c4c996c9fea54449a1c4b62",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cyb-enjoy-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-cyb-enjoy-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2207454",
+    "conditionId": "0xf80d9b4fbc81c6833195565b90a20a2882d9437bac210d6938d9869d3088edef",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cyb-enjoy-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-cyb-enjoy-2026-05-10-game3-odd-even-total-kills": {
+    "id": "2207456",
+    "conditionId": "0x36684afdc87b00c2016b655c01876908952cbfa5f6c594f672a4863affc46f8f",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cyb-enjoy-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-algo1-biga-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2207474",
+    "conditionId": "0x51fd2bb1f8041f26b22aa5f99b2367c6ffc754a545e668240dd6be669bcc849d",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-biga-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-algo1-biga-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2207476",
+    "conditionId": "0x7278326cdf27c340cbe0fef64480bb78155a4bc2b459872b12160d534c8f87b4",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-biga-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-xi-ence-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2207485",
+    "conditionId": "0x55f8bf9a4c2a799a7d805d8bf04a04748caef88d5a43581e3cde1d20ddfa6f88",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xi-ence-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-xi-ence-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2207487",
+    "conditionId": "0x800d62f53ebd8da46c3527b3530f3874a271d813d79edd29e7ff7abb5886d206",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xi-ence-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-wraith-pre-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2207496",
+    "conditionId": "0x618414e26c7169a97f6decdf84c060c4367ecff98a2ac93d331cd20138488a7f",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-wraith-pre-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-wraith-pre-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2207498",
+    "conditionId": "0x24b7338a41136ee76f1c9af80cd73d74ef77b3ebc4cb4e7dd3d517980be53a5b",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-wraith-pre-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-mis-ej-2026-05-09-game1-odd-even-total-kills": {
+    "id": "2208077",
+    "conditionId": "0xc7cc4f2114b2e644a87e3204a13f9b79d7181240b910c1a6849ac24896aa7d4f",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mis-ej-2026-05-09",
+    "negRisk": false
   }
 }
