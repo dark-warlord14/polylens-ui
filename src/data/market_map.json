@@ -2469,16 +2469,6 @@
     "eventSlug": "who-will-trump-endorse",
     "negRisk": false
   },
-  "will-trump-endorse-susan-collins-for-me-sen-by-nov-2-2026-et": {
-    "id": "593988",
-    "conditionId": "0x07ab4a3d146dad453f0c195ab0760a50c8a3a841f6a45b2f8a457379d1c66a7b",
-    "endDate": "2026-11-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-endorse",
-    "negRisk": false
-  },
   "macron-out-by-june-30-2026-273": {
     "id": "597964",
     "conditionId": "0xda5c517dd5b78c80dec8ceb08ca4f466317633487827d7290332b4851cc4a4fa",
@@ -19885,16 +19875,6 @@
     "eventSlug": "katy-perry-and-justin-trudeau-engaged-by-end-of-2026",
     "negRisk": false
   },
-  "elon-musk-trillionaire-before-2027": {
-    "id": "836162",
-    "conditionId": "0x0f3ae5d23882fb840762fd35de11fc31b0fbdc9e41e8666cdfae9d627f93f517",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-trillionaire-before-2027",
-    "negRisk": false
-  },
   "will-chris-carr-win-the-2026-georgia-governor-republican-primary-election": {
     "id": "837726",
     "conditionId": "0x30b8301e5003c810b41dd84cd3d4db213eeb4cc853f81996ebe9df5f425e058d",
@@ -34900,16 +34880,6 @@
     "eventSlug": "us-strike-on-mexico-by",
     "negRisk": false
   },
-  "another-us-strike-on-venezuela-by-december-31": {
-    "id": "1107424",
-    "conditionId": "0xfcc93de88db8519da63a0f56b47f895b4b5921f116ec7830910fe10ed151bd33",
-    "endDate": "2026-01-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-us-strike-on-venezuela-by",
-    "negRisk": false
-  },
   "us-strike-on-cuba-by-december-31": {
     "id": "1107582",
     "conditionId": "0x3de0f3d7d7efb40cde68e814d40a0b232832083653c8e78260eb999baa967de0",
@@ -40672,66 +40642,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "dutch-house-of-representatives-dissolved-in-2026",
-    "negRisk": false
-  },
-  "will-google-gemini-score-at-least-40-on-the-frontiermath-benchmark": {
-    "id": "1280313",
-    "conditionId": "0x892a8e051d0085acb73d42060af807ebbf09d27ed842d2444be53234f917e925",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
-  "will-google-gemini-score-at-least-50-on-the-frontiermath-benchmark-817": {
-    "id": "1280314",
-    "conditionId": "0xf1e51795031951bfe334851dccf453745773c46fb6b00e6bc9cc729ba2ace4b1",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
-  "will-google-gemini-score-at-least-60-on-the-frontiermath-benchmark-552": {
-    "id": "1280315",
-    "conditionId": "0xf838a80556d6b26ee4d1522abc717ffb2b015e909fc699f003561fb4d6589194",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
-  "will-google-gemini-score-at-least-70-on-the-frontiermath-benchmark-318": {
-    "id": "1280316",
-    "conditionId": "0xa07bea6d4acf9bead262159bb093c3af115ba8afa7753c64b59bfd202b1e9e31",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
-  "will-any-openai-gpt-model-score-at-least-60-on-the-frontiermath-exam": {
-    "id": "1280323",
-    "conditionId": "0xe87b3c512f357be807ced8d402b31c20ce5d5e472d1cf48caa402fd5f7e71edf",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "openai-gpt-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
-  "will-any-openai-gpt-model-score-at-least-70-on-the-frontiermath-exam": {
-    "id": "1280324",
-    "conditionId": "0x83d04b8c361197688102eaad1d1baa49cd25ea02565000baa2607c4d5988ff28",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "openai-gpt-score-on-frontiermath-benchmark-by-june-30",
     "negRisk": false
   },
   "will-the-republican-party-win-the-al-01-house-seat": {
@@ -48072,16 +47982,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "anthropic-claude-score-on-humanitys-last-exam-by-june-30",
-    "negRisk": false
-  },
-  "will-any-anthropic-claude-model-score-at-least-50-on-the-frontiermath-exam": {
-    "id": "1285713",
-    "conditionId": "0xefe33bcf92bcc53cce793de8cb2fbf00f3ea48ba6d627b651919d3b6c23684d0",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "anthropic-claude-score-on-frontiermath-benchmark-by-june-30",
     "negRisk": false
   },
   "will-any-xai-grok-model-score-at-least-25-on-the-frontiermath-exam": {
@@ -76561,36 +76461,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-usa-par-2026-06-12-usa": {
-    "id": "1897043",
-    "conditionId": "0x26c10c27cde58e2d6214d65ab562d8142d34723b3b6ec3f40836d24f6d22dfc9",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-usa-par-2026-06-12",
-    "negRisk": true
-  },
-  "fifwc-usa-par-2026-06-12-draw": {
-    "id": "1897044",
-    "conditionId": "0x3774cdf17e49143a4f6e10812df8b06113731493842fccc52dea045a1744ae61",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-usa-par-2026-06-12",
-    "negRisk": true
-  },
-  "fifwc-usa-par-2026-06-12-par": {
-    "id": "1897045",
-    "conditionId": "0x86f102a31cf4b12dbcf31ae8c62c526c0b538d5b7eb1af5947d0b0378522f926",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-usa-par-2026-06-12",
-    "negRisk": true
   },
   "fifwc-qat-che-2026-06-13-qat": {
     "id": "1897046",
@@ -119632,6 +119502,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-mis-ej-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-mis-ej-2026-05-09-game2-odd-even-total-kills": {
+    "id": "2208084",
+    "conditionId": "0xce8abe00d2ff7e69e49f4854ac580009db1c4db9c37e76a147935822c8c9e028",
+    "endDate": "2026-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mis-ej-2026-05-09",
+    "negRisk": false
+  },
+  "cs2-masq-oldboy-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2210397",
+    "conditionId": "0xac328df354f793793a5f7f0c4edf3a73829293fc7e09e1dc15e2f18c714d8d6f",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-oldboy-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-masq-oldboy-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2210411",
+    "conditionId": "0x22017db313e11a06b113dbc6311d5b6b8adcb88d4d7e4ec221bdc608d4907431",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-oldboy-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-psna-lph-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2210490",
+    "conditionId": "0x132a59210438f23b6a4f42c962691f16fa069d303faa3ba41945c77ff1464ed8",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-lph-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-psna-lph-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2210498",
+    "conditionId": "0xd52230598582012bbda3cc16ba1ed583ff1f7243b31106a82a9f6842acf02615",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-lph-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-psna-lph-2026-05-10-game3-odd-even-total-kills": {
+    "id": "2210518",
+    "conditionId": "0xfd45e116b46b20aecb21143fcabf9c18abda3851fb69a3327c00a95a2f9c09f6",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-psna-lph-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-ftur-algo1-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2210579",
+    "conditionId": "0x649a24a4070781a307721bdcb3e10d62c487dc54e04c6c9fcac6147ecdec458a",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ftur-algo1-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-ftur-algo1-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2210583",
+    "conditionId": "0x69e1083b6f730287eb4a364c1f75581f08813bc6761e372ac59a5610b67d6ee3",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ftur-algo1-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-pre-vita-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2210614",
+    "conditionId": "0x0823f8ac8d94e6e681126f52bb332d8b264fd8aefab3f72d8ee024cacdb7a5a0",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-vita-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-pre-vita-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2210618",
+    "conditionId": "0x12e179ec99c4ee180efde57a71e2f97d071bbe2e4171ca1922c939dc2c087a08",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-vita-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-pre-vita-2026-05-11-game3-odd-even-total-kills": {
+    "id": "2210620",
+    "conditionId": "0x6911028d7d3c472bc79eeb9bcd37fbd87158fbfade717295abf063a2f23f8b6f",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-vita-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-sng-inf1-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2210639",
+    "conditionId": "0xb19ee717053c70b0c7241cd9893fd937c15c2f07ecafb45c0afdff19ba0ba5bc",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-inf1-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-sng-inf1-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2210641",
+    "conditionId": "0x96a99f4e35d321b67ea1ffb3ab022564d3968871b0e61bc1738c292a21d09446",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-inf1-2026-05-12",
     "negRisk": false
   }
 }
