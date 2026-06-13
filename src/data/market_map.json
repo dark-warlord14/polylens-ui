@@ -33650,6 +33650,16 @@
     "eventSlug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
     "negRisk": true
   },
+  "will-joe-pyfer-be-the-ufc-middleweight-champion-on-december-31-2026": {
+    "id": "1090054",
+    "conditionId": "0x3d64a2a707774eb442caa724dfcac690f07d6e8c634edc5bee38a704114f1730",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
   "will-alex-pereira-be-the-ufc-light-heavyweight-champion-on-december-31-2026": {
     "id": "1090069",
     "conditionId": "0x9f314704922e731188b1c4841bb597a28b8965fb029ebe733132aec0d8b1ecec",
@@ -33760,6 +33770,26 @@
     "eventSlug": "who-will-be-ufc-light-heavyweight-champion-at-the-end-of-2026",
     "negRisk": true
   },
+  "will-paulo-costa-be-the-ufc-light-heavyweight-champion-on-december-31-2026": {
+    "id": "1090080",
+    "conditionId": "0x65ac5ee644386c33517d2eff8f081771eb88556f5b75520bec9b99f193f0ced4",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-light-heavyweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-nikita-krylov-be-the-ufc-light-heavyweight-champion-on-december-31-2026": {
+    "id": "1090081",
+    "conditionId": "0xe6ea35f7edb2ea691c3cf898b76c4af9b661cdfeb4e6fde58a85279453f3ec4e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-light-heavyweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
   "will-tom-aspinall-be-the-ufc-heavyweight-champion-on-december-31-2026": {
     "id": "1090097",
     "conditionId": "0x2e31f2d8aeda547ffc9c7dbf3559e2ad1400c3812b1a84bdc4422bba5ef328b6",
@@ -33863,6 +33893,36 @@
   "will-marcin-tybura-be-the-ufc-heavyweight-champion-on-december-31-2026": {
     "id": "1090107",
     "conditionId": "0x85292d10520274f8c31aef271ff5311b877a803cbf6c38f394fb31469cd5b9bf",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-heavyweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-josh-hokit-be-the-ufc-heavyweight-champion-on-december-31-2026": {
+    "id": "1090108",
+    "conditionId": "0x6d0ac2381f30c0344e927ec0de0c533145a0678cfd43550544caf78b7fbdf789",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-heavyweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-rizvan-kuniev-be-the-ufc-heavyweight-champion-on-december-31-2026": {
+    "id": "1090109",
+    "conditionId": "0xc9906e1f3e19dd075333cec128bd941b059c34a8c60ab8c1d212c470a0c01a23",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-heavyweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-tyrell-fortune-be-the-ufc-heavyweight-champion-on-december-31-2026": {
+    "id": "1090110",
+    "conditionId": "0x980a41e1d16d130d2eaf0046817210b58d6eb7a45b7f45fd709b120a1a1d4297",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -62652,16 +62712,6 @@
     "eventSlug": "which-teams-will-qualify-to-msi-2026",
     "negRisk": false
   },
-  "will-bilibili-gaming-qualify-to-msi-2026": {
-    "id": "1494626",
-    "conditionId": "0x2b5eaafcc6659d860ab3f7f47a190d538f7db714dacfb7647468ff6d21c15d6d",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-a-team-from-lck-south-korea-win-msi-2026": {
     "id": "1494695",
     "conditionId": "0x4890e36c536eef20111bd617f6479b6b7384ad2ebf16e18a108d989dc0aa9f9e",
@@ -75662,16 +75712,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-b8-win-iem-cologne-major-2026": {
-    "id": "1892284",
-    "conditionId": "0xb0074c6af8daed8677ce89160dbc7c659625aa31a4584faa7070d418b98044fa",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-team-spirit-win-iem-cologne-major-2026": {
     "id": "1892297",
     "conditionId": "0x10cfe107f46a1f4465e41501bebf20edda4f16ef47b702a4f45cacce90e01d16",
@@ -78552,16 +78592,6 @@
     "eventSlug": "lol-lpl-2026-split-2-winner",
     "negRisk": true
   },
-  "will-team-we-win-lpl-2026-split-2": {
-    "id": "1901259",
-    "conditionId": "0x6dd82fd9ac84082a0dce524d8e5dd7c4ee8cdd5e1d2418c6b04895977361ccd5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
   "will-kanye-west-visit-israel-by-june-30": {
     "id": "1908634",
     "conditionId": "0xcb8a519f4d8c10c3e60c5c604cac30f38341e4b35f5bcce8356c0ea4698f8952",
@@ -80769,16 +80799,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-vpf-ksm-2026-04-11",
-    "negRisk": false
-  },
-  "ow-sv-np-2026-04-11-game1": {
-    "id": "1942890",
-    "conditionId": "0x503562a658e0b67e412a29340f7ae22514b7514e9341ffefc5f4a29a1e75b054",
-    "endDate": "2026-04-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ow-sv-np-2026-04-11",
     "negRisk": false
   },
   "ow-sv-np-2026-04-11-game2": {
@@ -119612,26 +119632,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-hypew-saw2-2026-05-12",
-    "negRisk": false
-  },
-  "cs2-hypew-saw2-2026-05-12-game3-odd-even-total-kills": {
-    "id": "2222773",
-    "conditionId": "0xf36ec0e4df90456e081d053724f64b15bb1d4f58af678cd13807441db055fc4f",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-hypew-saw2-2026-05-12",
-    "negRisk": false
-  },
-  "cs2-waz-eclips1-2026-05-11-game1-odd-even-total-kills": {
-    "id": "2224847",
-    "conditionId": "0x981a9831d92170c7f24925b98c954513be45bed27a7c95a3b31693212f9ff5d8",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-eclips1-2026-05-11",
     "negRisk": false
   }
 }
