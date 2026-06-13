@@ -62992,176 +62992,6 @@
     "eventSlug": "will-apple-release-a-touchscreen-macbook-in-2026",
     "negRisk": false
   },
-  "will-ken-paxton-win-the-texas-republican-senate-primary-runoff-by-9-or-more": {
-    "id": "1500001",
-    "conditionId": "0xfce5fb1312e1383038cbe594477429d920d6dfe4d1885da678ca511ed81ea6f1",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ken-paxton-win-the-texas-republican-senate-primary-runoff-by-between-6-and-9": {
-    "id": "1500002",
-    "conditionId": "0xf7cabaf4d6c529cc8ff3c947d432d69b558f165158df772e6eb317bb1ea32be9",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ken-paxton-win-the-texas-republican-senate-primary-runoff-by-between-3-and-6": {
-    "id": "1500003",
-    "conditionId": "0x94bbf835c1b7fabb7ddd41e53e3c194cb1f34387946f979c6295717a2d722b2c",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ken-paxton-win-the-texas-republican-senate-primary-runoff-by-between-0-and-3": {
-    "id": "1500004",
-    "conditionId": "0x7539e672729f47054481fbcc411cca685311f8664f86e78d189638e2ca2c76bb",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-john-cornyn-win-the-texas-republican-senate-primary-runoff-by-between-0-and-3": {
-    "id": "1500005",
-    "conditionId": "0xfbe28d2997101a180d742259c92db1ca447a9b6ae498c46b44ff96c9894feadf",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-john-cornyn-win-the-texas-republican-senate-primary-runoff-by-between-3-and-6": {
-    "id": "1500006",
-    "conditionId": "0xe342cc4640b98c07e65a76d7083376a8ca975b205f37d262efe6218fb6130544",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-john-cornyn-win-the-texas-republican-senate-primary-runoff-by-between-6-and-9": {
-    "id": "1500007",
-    "conditionId": "0x186beb7deef540aa0e08f48c298580e85732a4ff1e86883252183bfd793da273",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-john-cornyn-win-the-texas-republican-senate-primary-runoff-by-9-or-more": {
-    "id": "1500008",
-    "conditionId": "0x780eda657742337ca48284a55e7f2103d35484f16e05c49271cf1ed4e8cac89c",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "texas-senate-republican-primary-runoff-margin-of-victory",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-below-600000-voters": {
-    "id": "1500388",
-    "conditionId": "0x65f35450a40e5287326f11ef99fbb637b0bf917ad3a597b0f68784c852bb298b",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-600000-and-900000-voters": {
-    "id": "1500389",
-    "conditionId": "0xadc9b1bd43e7d833bba87f84459c569c3d32e5f8b64ccfaecd1a3f76794955d0",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-900000-and-1200000-voters": {
-    "id": "1500390",
-    "conditionId": "0xd9a6f07cc3b49337767c4120c61f79432e78852d914bf2a3fd1fa1b45993a567",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-1200000-and-1500000-voters": {
-    "id": "1500391",
-    "conditionId": "0x19e84fccf0c3ec2b32b572e6bfd8fa7f916244ddf22e8379cba90a9c4a74e6e3",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-1500000-and-1800000-voters": {
-    "id": "1500392",
-    "conditionId": "0xe140cf821ab6959e8de268ff9f8c5c9b1dc651dcba892543dbbfe766c2ecc2ee",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-1800000-and-2100000-voters": {
-    "id": "1500393",
-    "conditionId": "0x6c9bb16c033c26dbad8d598874e8913209500b8299d14f9441d51453d4a4f0ee",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-2100000-and-2400000-voters": {
-    "id": "1500394",
-    "conditionId": "0xb366262be9e6301e6ebb2c0737a8394026266dfa443db9ed0efa3149cf5cb9c9",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-between-2400000-and-2700000-voters": {
-    "id": "1500395",
-    "conditionId": "0xf69a365630f927fd33e2697f5693645e132fde647e249b8151145b00a20835af",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
-  "will-turnout-in-the-texas-republican-senate-primary-runoff-be-2700000-voters-or-greater": {
-    "id": "1500396",
-    "conditionId": "0x187f60338cfdf92eb5c822cdbcfd01794ad4f3e66b97481da3ce5c9de51bb52d",
-    "endDate": "2026-05-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "turnout-in-texas-senate-republican-primary-runoff",
-    "negRisk": true
-  },
   "hamad-bin-isa-al-khalifa-out-as-bahrain-king": {
     "id": "1500590",
     "conditionId": "0x08b346f4580cbd59cc79416ab4fa00642b3737a04e822d85ef344dd7b0c4ee0a",
@@ -108911,16 +108741,6 @@
     "eventSlug": "will-tucker-carlson-announce-presidential-run-by-june-30",
     "negRisk": false
   },
-  "will-blues-win-the-2026-super-rugby-pacific-grand-final": {
-    "id": "2134582",
-    "conditionId": "0xcd196e592df1e82c16dbbf6a12283e527c6f348aad949aa3e352606ad89848a3",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "super-rugby-pacific-winner",
-    "negRisk": true
-  },
   "will-chiefs-win-the-2026-super-rugby-pacific-grand-final": {
     "id": "2134583",
     "conditionId": "0x7aba816b62304ffdaa8c8b084041240a08b0e86a0fe60aff8b7f38fc75dd8cff",
@@ -119633,5 +119453,185 @@
     "acceptingOrders": true,
     "eventSlug": "lib-uni-tol-2026-05-26-exact-score",
     "negRisk": true
+  },
+  "dota2-winter-glyph-2026-05-10-game1-both-teams-beat-roshan": {
+    "id": "2220654",
+    "conditionId": "0x83dfc32535869b59c3afa3557481794e35671d599a0c414b70bd55781591efde",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-winter-glyph-2026-05-10",
+    "negRisk": false
+  },
+  "dota2-winter-glyph-2026-05-10-game2-ends-in-daytime": {
+    "id": "2220658",
+    "conditionId": "0x9ab1d60b746f7820017bcaaa4ceee0aa8c1d8a5b9c05b2041a947612e7b2d981",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-winter-glyph-2026-05-10",
+    "negRisk": false
+  },
+  "dota2-winter-glyph-2026-05-10-game2-both-teams-beat-roshan": {
+    "id": "2220659",
+    "conditionId": "0xbfeb724b7ac9fd712db3be676ee495f8275510bc4cfdb72c6201c10a3ba1c13e",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-winter-glyph-2026-05-10",
+    "negRisk": false
+  },
+  "dota2-winter-glyph-2026-05-10-game2-both-teams-destroy-barracks": {
+    "id": "2220660",
+    "conditionId": "0xb036ca94b8fab3b26188165c242b94eb844694f81859f285107200f2a0427271",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-winter-glyph-2026-05-10",
+    "negRisk": false
+  },
+  "dota2-winter-glyph-2026-05-10-game2-any-player-ultra-kill": {
+    "id": "2220661",
+    "conditionId": "0x2a673cb4b97e076b7cb8e90ddd99c5fce81caa50568a7ccc9e817ae9a44e5844",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-winter-glyph-2026-05-10",
+    "negRisk": false
+  },
+  "dota2-winter-glyph-2026-05-10-game2-any-player-rampage": {
+    "id": "2220662",
+    "conditionId": "0xbba0795eaebdb931f8e283f7a70431bf99ffd239110843b41a7d8455101442c3",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-winter-glyph-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-don-clutch-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2220858",
+    "conditionId": "0x42a119ec2ab9570f64ce63bc82654a229ab5c062a3cdae96a9a62f6d6a8390ce",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-don-clutch-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-don-clutch-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2220860",
+    "conditionId": "0xf912b357721f2dd28267a5dca9a8a6b27e996b3f3e8454aca69ccc053af4e6a9",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-don-clutch-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-drama-inf1-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2220870",
+    "conditionId": "0x8ba70d8304f01f8e8ab2bb8b05cf924a2a74c3cef6f965f8d2aaa480288f02de",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drama-inf1-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-drama-inf1-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2220872",
+    "conditionId": "0x081ca5a1e234f710ad3a4028796732d14a0cbe00cf8961ab44947cb99cf61b33",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-drama-inf1-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-np1-yl-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2220881",
+    "conditionId": "0xc6ce9c2b373bd7ac39a84869598fb5618263ae64aaa1150420a6dcff8c6eeabd",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-np1-yl-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-np1-yl-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2220883",
+    "conditionId": "0x019a6b85604834a46211226b697215471762532d941b2946371c0a6926268767",
+    "endDate": "2026-05-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-np1-yl-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-lph-par3-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2220918",
+    "conditionId": "0x87e7994e40b5c8505724741584bab26455e3e5fb2733fcbd0ea26e713e83c378",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-par3-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-lph-par3-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2220920",
+    "conditionId": "0x4f4c92456038838cbec57e0a5cdeab3863cd277fd199761c239c37d7fd2a91ee",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-par3-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-hypew-saw2-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2222769",
+    "conditionId": "0xfc1bda3300efbb1299bc8373145a9a26f3ffb1c4d99443a233c520f3bbd0a588",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hypew-saw2-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-hypew-saw2-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2222771",
+    "conditionId": "0xa276b0b54eb4659d06ff97b63f5583b452d65964b86e93d9bfefb5fb579c0b4d",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hypew-saw2-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-hypew-saw2-2026-05-12-game3-odd-even-total-kills": {
+    "id": "2222773",
+    "conditionId": "0xf36ec0e4df90456e081d053724f64b15bb1d4f58af678cd13807441db055fc4f",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hypew-saw2-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-waz-eclips1-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2224847",
+    "conditionId": "0x981a9831d92170c7f24925b98c954513be45bed27a7c95a3b31693212f9ff5d8",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-waz-eclips1-2026-05-11",
+    "negRisk": false
   }
 }
