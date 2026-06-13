@@ -113275,66 +113275,6 @@
     "eventSlug": "lol-gz-cfo-2026-05-06",
     "negRisk": false
   },
-  "lol-shg-mvk-2026-05-06-game2-both-teams-slay-baron": {
-    "id": "2168113",
-    "conditionId": "0xd7b77427cd5f9de908a28963b2338564ec2b36e1bd9f0e1714965bd288c0c5d3",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game2-both-teams-slay-dragon": {
-    "id": "2168114",
-    "conditionId": "0x794aed0c0fba930ee90c46afc25e810587c0cfd1f944e1cf27bcaaafaadd4293",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game2-both-teams-destroy-inhibitors": {
-    "id": "2168116",
-    "conditionId": "0x05d25165df82922567305c84dff6f88def661285d1064cecd4fb204833fc00e2",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game2-any-player-quadra-kill": {
-    "id": "2168118",
-    "conditionId": "0x45c3b862b81bcc2f85743ce4fca9e1e10c83303aa0524ea0e2e4bca37777aac1",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game2-any-player-penta-kill": {
-    "id": "2168119",
-    "conditionId": "0x48b8c527f21fecf0a3cfb53094887d16dd30c32d6a5021d30bfbec2e7e9f0e19",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-mvk-2026-05-06-game2-odd-even-total-kills": {
-    "id": "2168120",
-    "conditionId": "0x27a39bfcd80df351943b2e6348c313438cc2dd0b4aeb81a4a5ea7c371ef13755",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-mvk-2026-05-06",
-    "negRisk": false
-  },
   "mlb-aaron-judge-or-juan-soto-to-draw-more-walks": {
     "id": "2168308",
     "conditionId": "0x7e8f8596bceba09095a584e6f2ce3a0df89ae90890ac2013756941531a1e60b5",
@@ -119633,5 +119573,65 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-sng-inf1-2026-05-12",
     "negRisk": false
+  },
+  "cs2-sng-inf1-2026-05-12-game3-odd-even-total-kills": {
+    "id": "2210645",
+    "conditionId": "0xfb78b3ad1ebe6f82d3f098cf631321ef09c5aa37c7e425bb73656d270162d2de",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-inf1-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-mana-rt1-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2210661",
+    "conditionId": "0x0841fcc40accf5f15dd76062462cb44938c0f0d2ad359bd79ef5667b4fc50c23",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mana-rt1-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-mana-rt1-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2210664",
+    "conditionId": "0xd2d750e2456024f45dc0833a8a64fc7cfd45c5d0133c70bfc82a74b51bda11e3",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mana-rt1-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-mana-rt1-2026-05-13-game3-odd-even-total-kills": {
+    "id": "2210668",
+    "conditionId": "0x9075c9e71decdde8a89ea55794f2f97b7d03637c0337e7a05e487ec19fed04d0",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mana-rt1-2026-05-13",
+    "negRisk": false
+  },
+  "will-crude-oil-cl-hit-high-110-by-end-of-june-167-319-572": {
+    "id": "2213806",
+    "conditionId": "0x82033ffc908562008e86493dde6695b264bcbb2ac094995629a8e84d58a92940",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cl-hit-jun-2026",
+    "negRisk": false
+  },
+  "lib-uni-tol-2026-05-26-exact-score-2-1": {
+    "id": "2214243",
+    "conditionId": "0x06c509980a98daef86cd2aea25e9a7623529022efc876c40c6b18d6ff20da6d0",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lib-uni-tol-2026-05-26-exact-score",
+    "negRisk": true
   }
 }
