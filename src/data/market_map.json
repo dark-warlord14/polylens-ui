@@ -33310,6 +33310,16 @@
     "eventSlug": "who-will-be-ufc-featherweight-champion-at-the-end-of-2026",
     "negRisk": true
   },
+  "will-kevin-vallejos-be-the-ufc-featherweight-champion-on-december-31-2026": {
+    "id": "1089959",
+    "conditionId": "0x8db56cc87bcf7294076a270ecc271c3f893b0cedd1c6189d727f3b6ede5fc162",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-featherweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
   "new-coronavirus-pandemic-in-2026": {
     "id": "1090000",
     "conditionId": "0x3dec83132c57c32848641f9fdf6e87687f7a5f7f4bdd8f33368bb5fdecb96b74",
@@ -33430,6 +33440,16 @@
     "eventSlug": "who-will-be-ufc-lightweight-champion-at-the-end-of-2026",
     "negRisk": true
   },
+  "will-mauricio-ruffy-be-the-ufc-lightweight-champion-on-december-31-2026": {
+    "id": "1090012",
+    "conditionId": "0x76c4596985c086950b593ae8e1310f3a29d24b2d965894d6a0cc8846c4dc4ba4",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-lightweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
   "will-islam-makhachev-be-the-ufc-welterweight-champion-on-december-31-2026": {
     "id": "1090024",
     "conditionId": "0xc0f31bcf5266102629e42f887466dd2345b8966dd5aa0ec8125d6aa233cb3a19",
@@ -33533,6 +33553,16 @@
   "will-joaquin-buckley-be-the-ufc-welterweight-champion-on-december-31-2026": {
     "id": "1090034",
     "conditionId": "0x4cbd82e2e81c8599d379d0d95dc4262e8ffb0479ad6ed619d92605fd3bf196fe",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-be-ufc-welterweight-champion-at-the-end-of-2026",
+    "negRisk": true
+  },
+  "will-gabriel-bonfim-be-the-ufc-welterweight-champion-on-december-31-2026": {
+    "id": "1090035",
+    "conditionId": "0xdc6c9acde91bcae01ee01158f37ec81654507c834f9cc35e95fe491a006b6445",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -75792,16 +75822,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-parivision-win-iem-cologne-major-2026": {
-    "id": "1892307",
-    "conditionId": "0xf3767c9260d825c337a4fbc3542b797d65dc6fa3b34a953c9207701f379982ae",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-aurora-win-iem-cologne-major-2026": {
     "id": "1892308",
     "conditionId": "0x6b15d5333d423f97c006bd201efa1f083af29819daea189d55219fccb1a4b9ab",
@@ -88850,16 +88870,6 @@
     "eventSlug": "cs2-rt1-xi-2026-04-22",
     "negRisk": false
   },
-  "cs2-ll2-str4-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2032965",
-    "conditionId": "0x33c0dd26139adaa023b06eb1743acac5bac5276ef8ca685d61c7dbd4808c15c2",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ll2-str4-2026-04-20",
-    "negRisk": false
-  },
   "cs2-ll2-str4-2026-04-20-game2-odd-even-total-kills": {
     "id": "2032967",
     "conditionId": "0x9ab0acb2832069d07ebea7707cf752a757e53276523df28230b7ada20437a63f",
@@ -96713,6 +96723,76 @@
   "will-endrick-felipe-moreira-de-sousa-pessoa-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2069680",
     "conditionId": "0xe7a4f6591498e3fd3579596cbbe764915fb350ed318860c32a67b6372658d35d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-kai-havertz-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069681",
+    "conditionId": "0xe4a523f5258fecd737a5adcc64c07e756ff842bc2648ee2520ed54f8fbbae2c7",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-folarin-balogun-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069687",
+    "conditionId": "0xb53ffde43e35724684bb172626e409c0fe93b57bb82a09264755073d1982f899",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-romelu-lukaku-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069690",
+    "conditionId": "0x3c58e8986995e05c30e64d03acebcb53c9e78643ece47ff2d3dbb1f3c2c7fd2d",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-florian-wirtz-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069691",
+    "conditionId": "0x651f04bb7e59a6868a3d6c11e234f4fb5e12e38ff735360c54752841fc1798c9",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-tim-payne-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069694",
+    "conditionId": "0x4c0053b3dbe497b36b2cd2b5547e5c6b881f0f31f87b06057c619e353dbccff0",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-memphis-depay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069704",
+    "conditionId": "0xf9bb840a337f376a34484a6c87b8765ca3d442934fdaa99498157a2cd38f2ebe",
+    "endDate": "2026-07-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "world-cup-golden-boot-winner",
+    "negRisk": true
+  },
+  "will-donyell-malen-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
+    "id": "2069706",
+    "conditionId": "0xc21bb025a9a77e8738c8133eda9dc49579344c62443535bf919591df3e9e0696",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -108861,16 +108941,6 @@
     "eventSlug": "french-top-14-winner",
     "negRisk": true
   },
-  "will-bath-win-the-2026-english-premiership-rugby-final": {
-    "id": "2134685",
-    "conditionId": "0x13cb9a049cecd6545e72d6e824dced5ba0b0b353f85370dd6ed26d676c766db1",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "premiership-rugby-winner",
-    "negRisk": true
-  },
   "will-exeter-chiefs-win-the-2026-english-premiership-rugby-final": {
     "id": "2134687",
     "conditionId": "0x02479a60c19c73f6f3ee1d15bfcd7fec6a99b4f58c3c982f5424c1226872e22f",
@@ -109189,36 +109259,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-reda-quin-2026-05-03",
-    "negRisk": false
-  },
-  "cs2-msc-str4-2026-05-04-game1-odd-even-total-kills": {
-    "id": "2147852",
-    "conditionId": "0x531ea0f93e5bf8da573cae10e31451039e817e5b627e9a1bdacd96e362260c83",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-msc-str4-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-msc-str4-2026-05-04-game2-odd-even-total-kills": {
-    "id": "2147854",
-    "conditionId": "0x5acd571fc7b1f384a0e4ee9af62adbca9c76f998496ff3d25eaebd9fc193b0eb",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-msc-str4-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-msc-str4-2026-05-04-game3-odd-even-total-kills": {
-    "id": "2147858",
-    "conditionId": "0x135703b3ff78ffd3335f9424a68436f0dd6ec6d8bb775cc8b7d056430abc2bc5",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-msc-str4-2026-05-04",
     "negRisk": false
   },
   "cs2-masq-washed-2026-05-04-game1-odd-even-total-kills": {
@@ -119592,46 +119632,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-np1-yl-2026-05-10",
-    "negRisk": false
-  },
-  "cs2-lph-par3-2026-05-10-game1-odd-even-total-kills": {
-    "id": "2220918",
-    "conditionId": "0x87e7994e40b5c8505724741584bab26455e3e5fb2733fcbd0ea26e713e83c378",
-    "endDate": "2026-05-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-lph-par3-2026-05-10",
-    "negRisk": false
-  },
-  "cs2-lph-par3-2026-05-10-game2-odd-even-total-kills": {
-    "id": "2220920",
-    "conditionId": "0x4f4c92456038838cbec57e0a5cdeab3863cd277fd199761c239c37d7fd2a91ee",
-    "endDate": "2026-05-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-lph-par3-2026-05-10",
-    "negRisk": false
-  },
-  "cs2-hypew-saw2-2026-05-12-game1-odd-even-total-kills": {
-    "id": "2222769",
-    "conditionId": "0xfc1bda3300efbb1299bc8373145a9a26f3ffb1c4d99443a233c520f3bbd0a588",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-hypew-saw2-2026-05-12",
-    "negRisk": false
-  },
-  "cs2-hypew-saw2-2026-05-12-game2-odd-even-total-kills": {
-    "id": "2222771",
-    "conditionId": "0xa276b0b54eb4659d06ff97b63f5583b452d65964b86e93d9bfefb5fb579c0b4d",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-hypew-saw2-2026-05-12",
     "negRisk": false
   }
 }
