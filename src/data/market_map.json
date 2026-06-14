@@ -139,26 +139,6 @@
     "eventSlug": "2026-nhl-stanley-cup-champion",
     "negRisk": true
   },
-  "will-the-new-york-knicks-win-the-2026-nba-finals": {
-    "id": "553858",
-    "conditionId": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-champion",
-    "negRisk": true
-  },
-  "will-the-san-antonio-spurs-win-the-2026-nba-finals": {
-    "id": "553866",
-    "conditionId": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-champion",
-    "negRisk": true
-  },
   "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254": {
     "id": "556108",
     "conditionId": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
@@ -11287,16 +11267,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-xai-release-a-dllm-by-june-30",
-    "negRisk": false
-  },
-  "will-victor-wembanyama-record-a-quadruple-double-this-season": {
-    "id": "680046",
-    "conditionId": "0xd7bcc8892de53920e83b7935847a6d8b1472cea90c72cb00c9c8e139e7e555ac",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-victor-wembanyama-record-a-quadruple-double-this-season",
     "negRisk": false
   },
   "negative-gdp-growth-in-2026": {
@@ -31993,16 +31963,6 @@
   "will-jessica-pegula-be-the-2026-womens-wimbledon-winner": {
     "id": "1088119",
     "conditionId": "0x8db35a9d5d435b2fc5431354643361e5063375ca9df68df16f16918b8be84ae1",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-wimbledon-winner",
-    "negRisk": true
-  },
-  "will-victoria-mboko-be-the-2026-womens-wimbledon-winner": {
-    "id": "1088120",
-    "conditionId": "0x9d3f79859e62593bf423be5a453621260117c0f8322de102c282c71d432dce0f",
     "endDate": "2026-07-12",
     "closed": false,
     "active": true,
@@ -74334,16 +74294,6 @@
     "eventSlug": "2026-basketball-greek-basketball-league-winner",
     "negRisk": true
   },
-  "2026-basketball-greek-basketball-league-winner-panathinaikos-athens": {
-    "id": "1834232",
-    "conditionId": "0x1c2a98f950aa112adf011f07098cbd3b58846499dce442ae52c0eb6937a2432d",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-greek-basketball-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-pro-a-winner-as-monaco": {
     "id": "1834239",
     "conditionId": "0x1be717c86bd4c069adf7a7e6cace4c804e16d6b38447a7892b773c4f9bee16e6",
@@ -76342,59 +76292,9 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-hai-sco-2026-06-13-hai": {
-    "id": "1897052",
-    "conditionId": "0x05a303645ac39405969df3786b6e33c74ec3be9e1779adba11e619a10d1feab0",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-hai-sco-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-hai-sco-2026-06-13-draw": {
-    "id": "1897053",
-    "conditionId": "0x2b759e69e6b2f509efebfe969cd26ddf30b84242506ddb5ac1e9a8b36cac22a2",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-hai-sco-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-hai-sco-2026-06-13-sco": {
-    "id": "1897054",
-    "conditionId": "0x1f2bb0bfc3c7b3c9ab678ce9e89cf68bd6daa83385c4834f669cb00c540276f2",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-hai-sco-2026-06-13",
-    "negRisk": true
-  },
   "fifwc-aus-tur-2026-06-14-aus": {
     "id": "1897055",
     "conditionId": "0xaaee502e7f2378521ba15c183e2762cecab013dd42f7600f7b35e99e0882f08c",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-aus-tur-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-aus-tur-2026-06-14-draw": {
-    "id": "1897056",
-    "conditionId": "0x12c17c04d2e404bd85a8c65c04cd7e8799a6295c7f74414feec5e867fa40cc5a",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-aus-tur-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-aus-tur-2026-06-14-tur": {
-    "id": "1897057",
-    "conditionId": "0x48880e3355f031da13b5ed1142d209396bdec61acf6c0945234ff6e5edab9ebf",
     "endDate": "2026-06-14",
     "closed": false,
     "active": true,
@@ -81759,516 +81659,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bank-of-korea-decision-in-july",
-    "negRisk": true
-  },
-  "will-shai-gilgeous-alexander-win-the-2026-nba-finals-mvp": {
-    "id": "1972785",
-    "conditionId": "0xfd699b8be7d72f27ff9c6dec07384eef04ed49ddfbe2c5189035253bcebe8108",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-chet-holmgren-win-the-2026-nba-finals-mvp": {
-    "id": "1972786",
-    "conditionId": "0x96a2170579f61ec4925f7cbdd80140261a7d201a2dc3ccfbd1a63b9e03d6ac78",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-lebron-james-win-the-2026-nba-finals-mvp": {
-    "id": "1972787",
-    "conditionId": "0xac84a83ec44b7fcad3e7aeb993695bbb60f93fcc6cd1ced9f3cf8e3ac6a64a4c",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-luka-doncic-win-the-2026-nba-finals-mvp": {
-    "id": "1972788",
-    "conditionId": "0x5cf010565f099d8a538bc4e0e3cb2173f8b1b06400d9384d73255acf38f65876",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-kevin-durant-win-the-2026-nba-finals-mvp": {
-    "id": "1972789",
-    "conditionId": "0x80a430a9fbacc4de84c6ba207e163405c794a3269d2afb0119f654a27c47484c",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-alperen-sengun-win-the-2026-nba-finals-mvp": {
-    "id": "1972790",
-    "conditionId": "0x5d3a5e2bcec1e19b66ff1be934a6c6ef466b598fa3985fd1903916a577c30c5d",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-nikola-jokic-win-the-2026-nba-finals-mvp": {
-    "id": "1972791",
-    "conditionId": "0xda7a0a0482f1ba9956a4d0efa93dac7576d20e5e2b87554ead4f9e9fb5bd2577",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jamal-murray-win-the-2026-nba-finals-mvp": {
-    "id": "1972792",
-    "conditionId": "0x5214fa85c42dfd43b759a692680feb46b7ee7269a933a2745e57b33cbaec0a5e",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-anthony-edwards-win-the-2026-nba-finals-mvp": {
-    "id": "1972793",
-    "conditionId": "0x6a14eb6e5898c07f450a6979e9485ecbc976eb81d3942d0b9a8325acc641629f",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-victor-wembanyama-win-the-2026-nba-finals-mvp": {
-    "id": "1972794",
-    "conditionId": "0xa46a02960f13a95000964478c96889499da31302a5307d886eb1846ab0c8dfbf",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-julius-randle-win-the-2026-nba-finals-mvp": {
-    "id": "1972795",
-    "conditionId": "0xc0c234f1b6579534d9e44a1ce08c6375d3b4b70b266c4b2bb3b442c181102f80",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-deaaron-fox-win-the-2026-nba-finals-mvp": {
-    "id": "1972796",
-    "conditionId": "0xf00293c1346112626f468ebc25e5ab13c4342577bc38736f5e8db2fe0d62cdd2",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-kawhi-leonard-win-the-2026-nba-finals-mvp": {
-    "id": "1972797",
-    "conditionId": "0x75621ee347dca06a18e123235c79ebfd0663247df9275f5a77c810ff587b1e17",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-darius-garland-win-the-2026-nba-finals-mvp": {
-    "id": "1972798",
-    "conditionId": "0x6791428ec75ba655ca17d89c3ed2af962e0422956b1b4b6e9a0a0c07a15756d1",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-stephen-curry-win-the-2026-nba-finals-mvp": {
-    "id": "1972799",
-    "conditionId": "0x687909a2837321683facfc82dc2459be173ae44484f61f75ea5b154e9c6a36e3",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-devin-booker-win-the-2026-nba-finals-mvp": {
-    "id": "1972800",
-    "conditionId": "0xb650ecda5e34f9a36581975e521c986171ac83c1a0dd868071541f395db0f746",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-deni-avdija-win-the-2026-nba-finals-mvp": {
-    "id": "1972801",
-    "conditionId": "0x5110264e955702f6c00b2aab25b7baa84ec20540074a1b3ec4f953ede814beed",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-cade-cunningham-win-the-2026-nba-finals-mvp": {
-    "id": "1972802",
-    "conditionId": "0xe7b6c524a00a6870364fb0b16f99b5eea88c4545a4445b096387161a103b7010",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jalen-duren-win-the-2026-nba-finals-mvp": {
-    "id": "1972803",
-    "conditionId": "0x388a6d619aeeff568f57e70b150d4c833fb17c962bd4a5250c1fbbdb92a0bec2",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-donovan-mitchell-win-the-2026-nba-finals-mvp": {
-    "id": "1972804",
-    "conditionId": "0xf651f5c235db6c98748589008e57fc7e23f78b776dd38f0f99344bcb0afeaf84",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-james-harden-win-the-2026-nba-finals-mvp": {
-    "id": "1972805",
-    "conditionId": "0x8b1ca852d875d8bee62c51c4b1ed46ab0ea138d6dab2f2e0974bdb30c800b582",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-evan-mobley-win-the-2026-nba-finals-mvp": {
-    "id": "1972806",
-    "conditionId": "0xbed531b807261a4d3afc35b7181d068eeda22117557509a1c44fd4cbef62dc75",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-scottie-barnes-win-the-2026-nba-finals-mvp": {
-    "id": "1972807",
-    "conditionId": "0xa17da13d10808f61e4b935d0c0b66eccee284d1a4b101739984422d62819eec1",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-brandon-ingram-win-the-2026-nba-finals-mvp": {
-    "id": "1972808",
-    "conditionId": "0x9c10c71ee9adc9b3843996c2c42f3413d1e09fd6acc47d055f46b35a81e4d487",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jalen-brunson-win-the-2026-nba-finals-mvp": {
-    "id": "1972809",
-    "conditionId": "0x5afeea2584165f0bab7843452d49ff7b36f72808847feb75fab830e70943c5d7",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-karl-anthony-towns-win-the-2026-nba-finals-mvp": {
-    "id": "1972810",
-    "conditionId": "0x77928f0ce3a8ed6b5c3cd17a75a8542538c04149e7bc626b8ccda6141bbae987",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jalen-johnson-win-the-2026-nba-finals-mvp": {
-    "id": "1972811",
-    "conditionId": "0x5f1a74a05be3bf9550e219c64ee4d078a4d9cee33c390ffed650b59fe156cd08",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-nickeil-alexander-walker-win-the-2026-nba-finals-mvp": {
-    "id": "1972812",
-    "conditionId": "0xbb37dcd612cde3dfe747e5051b7a1094bdc279b6eb7eee268ee0c33f70408039",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jaylen-brown-win-the-2026-nba-finals-mvp": {
-    "id": "1972813",
-    "conditionId": "0xf1d0977f2e70a2de9494fa0a6bca1ebe2b79aa390a1ff3cd94d0790e97be2a1f",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jason-tatum-win-the-2026-nba-finals-mvp": {
-    "id": "1972814",
-    "conditionId": "0xb62b776ab97205f6b7b750a2ea7ba8b11f6b902b0a810e28e906a1931ef8c124",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-lamelo-ball-win-the-2026-nba-finals-mvp": {
-    "id": "1972815",
-    "conditionId": "0x1d010708f67fecf66d8e5456d8fbb682070ed71da0f550701c7d69e876550858",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-brandon-miller-win-the-2026-nba-finals-mvp": {
-    "id": "1972816",
-    "conditionId": "0x77ed3c1764d5c760c5d2b9251629306d0da649e94f7ef2ddde7f16443bfb65e9",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-bam-adebayo-win-the-2026-nba-finals-mvp": {
-    "id": "1972817",
-    "conditionId": "0x8d11e7f3b2bb77987bbf5ed29eddc6697e40c5414ed6a7f2fb0a0529de94b767",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-tyrese-maxey-win-the-2026-nba-finals-mvp": {
-    "id": "1972818",
-    "conditionId": "0xe5f4040ab42db363c7e9ce23d6bb6bba3ae61376d345107e8082585648513b49",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-paolo-banchero-win-the-2026-nba-finals-mvp": {
-    "id": "1972819",
-    "conditionId": "0x35870a0c1b35753a598ff34113ef3ef325f1474272476a7cbac78318a5d8e9a9",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-desmond-bane-win-the-2026-nba-finals-mvp": {
-    "id": "1972820",
-    "conditionId": "0xeaadd9231490aa75ae79ad7eaa4f3363d7b4f7d3c2e942f1cf455bcc9e1a4122",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jordan-clarkson-win-the-2026-nba-finals-mvp": {
-    "id": "1972821",
-    "conditionId": "0x2f18abac2b593e0a9f9457423779e0fb7beb5f96680fafe0e3c56b655bfcc999",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-miles-mcbride-win-the-2026-nba-finals-mvp": {
-    "id": "1972822",
-    "conditionId": "0x2f4100928eae6c4abe98e8e61cb94514ac5f9030ee23ae38eacc698308bced46",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-josh-hart-win-the-2026-nba-finals-mvp": {
-    "id": "1972823",
-    "conditionId": "0x5b2874eb8557ec7615d1949b01b8bcb4def86d4945b97ae84e2963a20236a494",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-jose-alvarado-win-the-2026-nba-finals-mvp": {
-    "id": "1972824",
-    "conditionId": "0x8e5d27817ab633b5f0e3af17f27fef89be8b3650b7f4ff9fdabfa76f374bbece",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-og-anunoby-win-the-2026-nba-finals-mvp": {
-    "id": "1972825",
-    "conditionId": "0x8342cec3455d4a48f06380f554d2c31e818539cec5c90f97cd11cf23d8bd71ec",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-mitchell-robinson-win-the-2026-nba-finals-mvp": {
-    "id": "1972826",
-    "conditionId": "0x604fb5255946c4e10590ee2de3d61c4485c8d8b2478218458da09d0139ab514b",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-mikal-bridges-win-the-2026-nba-finals-mvp": {
-    "id": "1972827",
-    "conditionId": "0x90da5486c57f4f3e611d26e98f4bf51c0d41afb5421cf057b068925de8963be6",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-landry-shamet-win-the-2026-nba-finals-mvp": {
-    "id": "1972828",
-    "conditionId": "0x99319d209567221315d7aacc1818aaffbe8890b79f40005ed27d0004e0b068eb",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-dylan-harper-win-the-2026-nba-finals-mvp": {
-    "id": "1972829",
-    "conditionId": "0xeb89137fb872748f12edc73efd026f4b639fcad17b09e8bad06782ea3f45698a",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-keldon-johnson-win-the-2026-nba-finals-mvp": {
-    "id": "1972830",
-    "conditionId": "0xff130acc161eec7f565a3e9089b852cfeeeb0ba116e5811962c7c78e29d7020c",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-stephon-castle-win-the-2026-nba-finals-mvp": {
-    "id": "1972831",
-    "conditionId": "0x97d03958974209b73458f9026f96a56db9216cd084f086d0af1f1e7f373d6761",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-luke-kornet-win-the-2026-nba-finals-mvp": {
-    "id": "1972832",
-    "conditionId": "0x666a8a367bcb7d5385f3515e80cb24c13a7f8b542c50fa6f45e9855845f9ef11",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-devin-vassell-win-the-2026-nba-finals-mvp": {
-    "id": "1972833",
-    "conditionId": "0x2ad030a5540e83ed98a6d88d2d8ac0b34bedebf60859ca01c8bb8b40856e1b26",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-julian-champagnie-win-the-2026-nba-finals-mvp": {
-    "id": "1972834",
-    "conditionId": "0xbe25073adbf2df29c0d0b3a617c40d6b587fa0e3e5acd2f9d5c29582430673cf",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
-    "negRisk": true
-  },
-  "will-harrison-barnes-win-the-2026-nba-finals-mvp": {
-    "id": "1972835",
-    "conditionId": "0x6c6bb5d06417f1af124613db543ba9b1a84a759c089f67a09399f4d0ed74474e",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-playoffs-finals-mvp",
     "negRisk": true
   },
   "will-alexandra-van-cleef-be-the-republican-nominee-for-fl-06": {
@@ -119632,6 +119022,616 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ufc-who-will-sean-strickland-fight-next",
+    "negRisk": true
+  },
+  "cs2-cyb-auryb-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2232743",
+    "conditionId": "0xb31b4fc88bbd8af4b94eb7ac31b77620eff0866afedafdacc43b19e388e14ddf",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cyb-auryb-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-cyb-auryb-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2232745",
+    "conditionId": "0x63918541bd7e3ea2e3a257ce4a0433eb60402838857023803d54ed66aaf74be8",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cyb-auryb-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-cyb-auryb-2026-05-11-game3-odd-even-total-kills": {
+    "id": "2232747",
+    "conditionId": "0x1dc0ab1b1eac011b88781b9264b336bde872e6309bbb8f74bf9a19b886d3ce60",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cyb-auryb-2026-05-11",
+    "negRisk": false
+  },
+  "will-valve-add-first-cs2-operation-by-june-30-2026-962": {
+    "id": "2232757",
+    "conditionId": "0x5e5fcf30ec0e6fa8cb136bfcd6f7c3a1054d89950b515f560c31c27a531655c0",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-valve-add-first-cs2-operation-by-465",
+    "negRisk": false
+  },
+  "will-valve-add-first-cs2-operation-by-august-31-2026-862": {
+    "id": "2232758",
+    "conditionId": "0x5aaa01ac400fea3493d743995ccbdbae2500324b8fd9a25ca20ca24e21393b5c",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-valve-add-first-cs2-operation-by-465",
+    "negRisk": false
+  },
+  "cs2-shishk-atreid-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2232771",
+    "conditionId": "0xdfc4fc36fa27609da6ba74b816e272a2c24b55bd57baed643b793587b555e57e",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-atreid-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-shishk-atreid-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2232773",
+    "conditionId": "0x1590ba623bd5799ec7c7c7e72678cfff84659838589175441076b4b5f4d2a79c",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-atreid-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-shishk-atreid-2026-05-11-game3-odd-even-total-kills": {
+    "id": "2232775",
+    "conditionId": "0xf20efeb048f58600f830bed6285284f658aed05de8984e23672fe17be20709db",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-atreid-2026-05-11",
+    "negRisk": false
+  },
+  "will-silver-si-hit-high-110-by-end-of-june": {
+    "id": "2233147",
+    "conditionId": "0xa2c23fd5bffeed929da54e44ef1775dc9d6772a5e23bc6010b692874a4879ba4",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "si-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-silver-si-hit-high-100-by-end-of-june": {
+    "id": "2233148",
+    "conditionId": "0x5d58553c3583b535dfaa93c55de4eaddc37c60487d058430668311733b08ae1c",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "si-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-silver-si-hit-high-95-by-end-of-june": {
+    "id": "2233149",
+    "conditionId": "0x57146df373d5019bee9a5b94c52805fcf50271dabc6be8c4e9452acb20f70c1c",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "si-hit-jun-2026",
+    "negRisk": false
+  },
+  "bank-of-mexico-decreases-interest-rates-by-50-bps-after-august-2026-meeting": {
+    "id": "2233782",
+    "conditionId": "0x8b2b748bbfd47a68a16f9c65984ffed1daad042f94c1f505a02a9876cc65b9f2",
+    "endDate": "2026-08-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-mexico-decision-in-august",
+    "negRisk": true
+  },
+  "bank-of-mexico-decreases-interest-rates-by-25-bps-after-august-2026-meeting": {
+    "id": "2233783",
+    "conditionId": "0xbae7256639952b3901769ec1a142d80d2ca3d243a28d8fee733f7ac6e07ef5a7",
+    "endDate": "2026-08-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-mexico-decision-in-august",
+    "negRisk": true
+  },
+  "no-change-in-bank-of-mexicos-interest-rates-after-august-2026-meeting": {
+    "id": "2233784",
+    "conditionId": "0xf4a41125f734865ded42916a9b6816a0f10eb62465905ee814363a3086e651e0",
+    "endDate": "2026-08-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-mexico-decision-in-august",
+    "negRisk": true
+  },
+  "bank-of-mexico-increases-interest-rates-by-25-bps-after-august-2026-meeting": {
+    "id": "2233785",
+    "conditionId": "0xffe2b9aff6591c0dd87a3189f48093f482a69b7494df4856d235152a5d189c50",
+    "endDate": "2026-08-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-mexico-decision-in-august",
+    "negRisk": true
+  },
+  "bank-of-mexico-increases-interest-rates-by-50-bps-after-august-2026-meeting": {
+    "id": "2233786",
+    "conditionId": "0xbd46a9e7533c37158f4b514673ee97d4b25df10b85196fa0a7518b9550463aa4",
+    "endDate": "2026-08-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bank-of-mexico-decision-in-august",
+    "negRisk": true
+  },
+  "lol-pcific-dp-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2233827",
+    "conditionId": "0x08e1935eca9a061afb757fd01ca09617627d6465f44b655d82ebce1788f71ac1",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-pcific-dp-2026-05-12",
+    "negRisk": false
+  },
+  "reserve-bank-of-australia-decreases-interest-rates-by-50-bps-at-the-august-2026-meeting": {
+    "id": "2234096",
+    "conditionId": "0x1cf3622a379181e9776801cfd93fabd909b3871d82de486e039d5b778042d685",
+    "endDate": "2026-08-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "reserve-bank-of-australia-decision-in-august",
+    "negRisk": true
+  },
+  "reserve-bank-of-australia-decreases-interest-rates-by-25-bps-at-the-august-2026-meeting": {
+    "id": "2234097",
+    "conditionId": "0x6fccf1dc1483aa8ccd8a230549bc3eccd63de5e7b7e1449f15e4805994e8191a",
+    "endDate": "2026-08-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "reserve-bank-of-australia-decision-in-august",
+    "negRisk": true
+  },
+  "no-change-in-reserve-bank-of-australias-interest-rates-at-the-august-2026-meeting": {
+    "id": "2234098",
+    "conditionId": "0x8c39e2ee7d85026ab1e23dd0ad927676f4c5b122051effafbe7764f817dbdc37",
+    "endDate": "2026-08-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "reserve-bank-of-australia-decision-in-august",
+    "negRisk": true
+  },
+  "reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-august-2026-meeting": {
+    "id": "2234099",
+    "conditionId": "0x1522ada3f83e1a97a6ec5d83e8df4e7bffda7e3d83793931e70634a3e3dfa0cb",
+    "endDate": "2026-08-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "reserve-bank-of-australia-decision-in-august",
+    "negRisk": true
+  },
+  "reserve-bank-of-australia-increases-interest-rates-by-50-bps-at-the-august-2026-meeting": {
+    "id": "2234100",
+    "conditionId": "0xb3a257ccb05531f71ff7a1bc926cbac4668b0168a5643c8f5f52b38a0610b5be",
+    "endDate": "2026-08-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "reserve-bank-of-australia-decision-in-august",
+    "negRisk": true
+  },
+  "lol-doc-dv1-2026-05-19-game1-both-teams-destroy-inhibitors": {
+    "id": "2234152",
+    "conditionId": "0xe058164e8ae5e32429443474b20309a18312691026f81afd2151c72b468f927b",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-doc-dv1-2026-05-19",
+    "negRisk": false
+  },
+  "will-dua-lipa-perform-at-coachella-2027": {
+    "id": "2234267",
+    "conditionId": "0x26f3f430055c2a14f68b8dca268d1ad66547068112d7df99f1b4ee52ebe565b6",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-justin-bieber-perform-at-coachella-2027": {
+    "id": "2234268",
+    "conditionId": "0x357c37ac61b5ba66c4626727d0badcafa2981e70671dc413adb5bf8d7d71873b",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-taylor-swift-perform-at-coachella-2027": {
+    "id": "2234269",
+    "conditionId": "0xdc0d25d05d02b2ab1c6bab835c36f8465546c0339288c01533718212a2209568",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-drake-perform-at-coachella-2027": {
+    "id": "2234270",
+    "conditionId": "0x1cf72e6dc805df2fcfeb5c3b00fcccc7dbbb784d5956f3460323063f314b99c7",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-dj-khaled-perform-at-coachella-2027": {
+    "id": "2234271",
+    "conditionId": "0x811a32e2c8ccd245d85702955e6f312782017d96c58cf7d0bcb7550656f7665f",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-kanye-west-perform-at-coachella-2027": {
+    "id": "2234272",
+    "conditionId": "0xd6fe82894337cb7ad7648e719d97d5eb60a497a7f419bd00a3125ed627b7deb0",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-harry-styles-perform-at-coachella-2027": {
+    "id": "2234273",
+    "conditionId": "0x253a13a522bd79a5c9471e0075f9f7a3d2b6c3df4668e2bc87fb784aba935626",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-olivia-rodrigo-perform-at-coachella-2027": {
+    "id": "2234274",
+    "conditionId": "0xb72259e494aa3819563308e86573016cfd97a48acc357e5ce7f0ffeebff06464",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-sabrina-carpenter-perform-at-coachella-2027": {
+    "id": "2234275",
+    "conditionId": "0xe2b68469af59ae9cbc944113780b3935f9185b75181d32f6a40d18d5fa04ba07",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-travis-scott-perform-at-coachella-2027": {
+    "id": "2234276",
+    "conditionId": "0x86194b04262a95db3b43411713fc0a94cad5b2b261e1c2c78f4b9b0667daaaf9",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-daft-punk-perform-at-coachella-2027": {
+    "id": "2234277",
+    "conditionId": "0x856fa22b5e4891747946ec84e4a07a69d951f750289b61aab6981927f2a643cb",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-bts-perform-at-coachella-2027": {
+    "id": "2234278",
+    "conditionId": "0x72d7415e9bd6b7b990663cd0ab4c15741fd2690d45e39522acac5845837553fb",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-sza-perform-at-coachella-2027": {
+    "id": "2234279",
+    "conditionId": "0xfed7258fc3f2d428aee22819c760d7f020feaabac4fd1417272a338c244bded1",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-blackpink-perform-at-coachella-2027": {
+    "id": "2234280",
+    "conditionId": "0x3f60031cef367d4cfe90304bd7f807d98f57aec6bd7672ac4c81a296275d3333",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-radiohead-perform-at-coachella-2027": {
+    "id": "2234281",
+    "conditionId": "0xfaf971f87d621c1609aba48935adbbb5900f7d9772dfaab1a3946dd22f4deca8",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-billie-eilish-perform-at-coachella-2027": {
+    "id": "2234282",
+    "conditionId": "0x8b55265c299a29a46b2c029a0d7a8349224638e0d8aefda8457818ba0d3a2dfb",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-tame-impala-perform-at-coachella-2027": {
+    "id": "2234283",
+    "conditionId": "0x00382e39b84f72d8c6f191a2c2ba76c4f52106f010751beacd39b1f195c500eb",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-bad-bunny-perform-at-coachella-2027": {
+    "id": "2234284",
+    "conditionId": "0x4d019f07d1400c17fe81aea8a42bce306b8a06c549c2fa4bca9b0114795f95a6",
+    "endDate": "2027-04-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-perform-at-coachella-2027",
+    "negRisk": false
+  },
+  "will-any-faze-member-come-out-as-a-furry-by-july-31": {
+    "id": "2234675",
+    "conditionId": "0xe71ad2aeb149bb6b73d2e9d04f7c574dc4b17d0bd8d9f32d6f8a9da2fe6959e5",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-any-faze-member-come-out-as-a-furry-by-july-31",
+    "negRisk": false
+  },
+  "will-slingshot-launch-a-token-by-september-30-2026": {
+    "id": "2234749",
+    "conditionId": "0x1c9da9658515235f9970bba05cd89a33674a6aeef65e2e9ea551919e47d5588c",
+    "endDate": "2026-10-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-slingshot-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-slingshot-launch-a-token-by-december-31-2026": {
+    "id": "2234750",
+    "conditionId": "0x297d84111cc7c4f7788fb3370fa831a09404cb07d9aeee87955d3871f32d614c",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-slingshot-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-slingshot-launch-a-token-by-march-31-2027": {
+    "id": "2234751",
+    "conditionId": "0xc6fe57f8abc2555360e153885fc220a3c7a6e501b6566f9fb34576e0b1e44f73",
+    "endDate": "2027-04-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-slingshot-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-slingshot-launch-a-token-by-june-30-2027": {
+    "id": "2234752",
+    "conditionId": "0x0b68d4c53d651a4ef055f000898d8bc59e67bc8aedd8cd011c9b295fbdcdbf8b",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-slingshot-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-slingshot-launch-a-token-by-september-30-2027": {
+    "id": "2234753",
+    "conditionId": "0xf4d48163eadda3880a8572dce5e86c76d1404b2e54bead06a1896dedd9cffcfb",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-slingshot-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-slingshot-launch-a-token-by-december-31-2027": {
+    "id": "2234754",
+    "conditionId": "0xdca61cae5fc26850f7527a9bc65dbcdb4f557c20ea403923df858803ea174e64",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-slingshot-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-puffpaw-launch-a-token-by-june-30-2026": {
+    "id": "2234872",
+    "conditionId": "0x908ad83200ecbb7b8c2225b346f7ae9d7f107245e782e16f19cdcfefbd1246fb",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-puffpaw-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-puffpaw-launch-a-token-by-september-30-2026": {
+    "id": "2234873",
+    "conditionId": "0x1a2095b8701c0e3123230bf8c4b54f6191d4be332fc99e47204c670429a9e65d",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-puffpaw-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-puffpaw-launch-a-token-by-december-31-2026": {
+    "id": "2234874",
+    "conditionId": "0x624938ceae6f24ef263d7ca9bbe4a137248c15b455e92eeb855e083a210493aa",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-puffpaw-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-puffpaw-launch-a-token-by-march-31-2027": {
+    "id": "2234875",
+    "conditionId": "0x6b4e789651a4745748102eb668ac58100203197a3f73c443191962604356390d",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-puffpaw-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-crude-oil-cl-hit-high-105-by-end-of-june-466-694": {
+    "id": "2235983",
+    "conditionId": "0x86c4455035d81c512138b8e38ade7defdb46708d3ee43098cdc8429a7d3b9bd9",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cl-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-vincent-keymer-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236123",
+    "conditionId": "0xb0f7fe37260a58b628b800ac1d2aa338975a666b890fb2d2d37cd901a6abd2d0",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-alireza-firouzja-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236124",
+    "conditionId": "0x813ab9ca061e1b40151c3791209fb87e9cd6729dd806170830f89cf92ca01903",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-anish-giri-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236125",
+    "conditionId": "0x29f619eb5818f5df8dbc285f94f60dc2289889e35e5b5ed4787a0262ad78c505",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-nodirbek-abdusattorov-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236126",
+    "conditionId": "0xf97685675ef5af826de33241b1023fb19b685083d418131d13247b6ffc326290",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-praggnanandhaa-rameshbabu-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236127",
+    "conditionId": "0x5035de96fbc46d02be0bb4e686bf8790c10644b79e6bd56db0ed954232852ef4",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-maxime-vachier-lagrave-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236128",
+    "conditionId": "0x5d83f7e5d7f315a828146339782ec181af5b8f16ffcc588f1e44f9bf6829a676",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-jorden-van-foreest-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236129",
+    "conditionId": "0xee1c907e351c4f26b938a992ec5880328002f331428b63bc1b1548a6a5b0c908",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-bogdan-daniel-deac-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236130",
+    "conditionId": "0x1b80f0708ee8fdfed85150b8b9324459c87dd799e6c9668ff9be397b8ff6bfa2",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
     "negRisk": true
   }
 }
