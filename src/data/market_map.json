@@ -74294,16 +74294,6 @@
     "eventSlug": "2026-basketball-liga-endesa-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-endesa-winner-la-laguna-tenerife": {
-    "id": "1834182",
-    "conditionId": "0x6bdbf58aa0dd8e95954df965c39a73bdc3de7e92dd5ea9cb588710f95e0cc8d0",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-endesa-winner-valencia-basket": {
     "id": "1834190",
     "conditionId": "0x2236c2e6f8f746217cfbe980d71df7d2a60ffba24a4ad38d58a3cd5e78e83b83",
@@ -76351,66 +76341,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-qat-che-2026-06-13-qat": {
-    "id": "1897046",
-    "conditionId": "0x415cb64cfa04f2cde4ec39c5a81050cc9fb539b9b6972e72cce16b46e0e33a5b",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-qat-che-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-qat-che-2026-06-13-draw": {
-    "id": "1897047",
-    "conditionId": "0x639c60e4a74ea30a30b637625813d3fabed195d88072a488f8b7ac6441b930ae",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-qat-che-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-qat-che-2026-06-13-che": {
-    "id": "1897048",
-    "conditionId": "0x6b864f35765706986a861d22fcc207872062186ddcb5fbc20275e991b20ff6ab",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-qat-che-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-bra-mar-2026-06-13-bra": {
-    "id": "1897049",
-    "conditionId": "0xa75053ffa630e41fdc08a0885fe0614716ecb13061ac460914bfe498038d5364",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bra-mar-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-bra-mar-2026-06-13-draw": {
-    "id": "1897050",
-    "conditionId": "0xb20f96ba6ccf4555d4e3adcc97a561512ef27af67183b52d32283066d4a81853",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bra-mar-2026-06-13",
-    "negRisk": true
-  },
-  "fifwc-bra-mar-2026-06-13-mar": {
-    "id": "1897051",
-    "conditionId": "0xa4781f5d97b6fe28ca7a69353b89e3401a9483a4c7bfc2f493c6cca138bd9c82",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bra-mar-2026-06-13",
-    "negRisk": true
   },
   "fifwc-hai-sco-2026-06-13-hai": {
     "id": "1897052",
@@ -78461,16 +78391,6 @@
     "acceptingOrders": true,
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
-  },
-  "will-cloud9-win-lcs-2026-spring": {
-    "id": "1901178",
-    "conditionId": "0x226c71868c59b9999980d55795804f6a7bfd189510110c32b3f944b57f8cc72d",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcs-2026-spring-winner",
-    "negRisk": true
   },
   "will-team-liquid-win-lcs-2026-spring": {
     "id": "1901180",
@@ -88230,36 +88150,6 @@
     "eventSlug": "cs2-sta6-washed-2026-04-20",
     "negRisk": false
   },
-  "cs2-msc-invict1-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2026304",
-    "conditionId": "0x7ba9e819492963563de446012bdcf25fd5cc4622177028f6a14ea91bbd1ba917",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-msc-invict1-2026-04-20",
-    "negRisk": false
-  },
-  "cs2-msc-invict1-2026-04-20-game2-odd-even-total-kills": {
-    "id": "2026308",
-    "conditionId": "0xa0e6529259ce542dec31742a647c356b23bab9627cbe9e4d8563ce4bcc018089",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-msc-invict1-2026-04-20",
-    "negRisk": false
-  },
-  "cs2-msc-invict1-2026-04-20-game3-odd-even-total-kills": {
-    "id": "2026312",
-    "conditionId": "0xb78f08bd4d2f07511de11c9768a9e12d07639fa09e50b19847c41ef666d8e9ee",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-msc-invict1-2026-04-20",
-    "negRisk": false
-  },
   "lol-t1a-bro1-2026-04-25-game1-odd-even-total-kills": {
     "id": "2026870",
     "conditionId": "0x616af46e3225d5d4688a205ab3da67c9fb09e7b8d0f48076419efdf687a0c160",
@@ -88870,16 +88760,6 @@
     "eventSlug": "cs2-rt1-xi-2026-04-22",
     "negRisk": false
   },
-  "cs2-ll2-str4-2026-04-20-game2-odd-even-total-kills": {
-    "id": "2032967",
-    "conditionId": "0x9ab0acb2832069d07ebea7707cf752a757e53276523df28230b7ada20437a63f",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ll2-str4-2026-04-20",
-    "negRisk": false
-  },
   "cs2-sashia-navij1-2026-04-22-game1-odd-even-total-kills": {
     "id": "2032976",
     "conditionId": "0x9ac53b2653b5c939bfdd7c75c59b3c570006322b660ab3963bd40829c5afd57f",
@@ -88958,16 +88838,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "hailey-bieber-pregnant-in-2026",
-    "negRisk": false
-  },
-  "fisa-section-702-reauthorized-before-it-expires-419": {
-    "id": "2036147",
-    "conditionId": "0x34b5e429032dae4f4175d01e7123e90cac80d9e5b9ff4838e47d1e91985c093d",
-    "endDate": "2026-04-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fisa-section-702-reauthorized-before-it-expires-419",
     "negRisk": false
   },
   "bol1-str-ori-2026-05-17-str": {
@@ -100090,36 +99960,6 @@
     "eventSlug": "cs2-biga-rt1-2026-04-28",
     "negRisk": false
   },
-  "cs2-for10-flod-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2094166",
-    "conditionId": "0xe9f8df9cfbd180df4d47e904f0d26183d75372e71051bd0ce59c28b3984658af",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-for10-flod-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-for10-flod-2026-04-27-game2-odd-even-total-kills": {
-    "id": "2094170",
-    "conditionId": "0x04a8959d021f4245c0466ef83e4dc6add7fa9a5fc5d70a787daf87cafbbe1171",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-for10-flod-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-for10-flod-2026-04-27-game3-odd-even-total-kills": {
-    "id": "2094174",
-    "conditionId": "0x3e04ce237e1b3dba2d23569e12d00bffd2e0885e049d4435dd03ab04bc89f49c",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-for10-flod-2026-04-27",
-    "negRisk": false
-  },
   "cs2-masq-820-2026-04-27-game1-odd-even-total-kills": {
     "id": "2094186",
     "conditionId": "0xfd4188f92d31d84d0b5a8767a12ddc68ab299d7af105b74eafe8e963c52b1be2",
@@ -103407,16 +103247,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "james-comey-in-jail-by-june-30",
-    "negRisk": false
-  },
-  "another-trump-political-opponent-federally-charged-by-may-31": {
-    "id": "2111517",
-    "conditionId": "0x65a6536a8af0d6945c149cc54ad16c28bc1a717b1d88a6f9401f16d47d4b450c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "another-trump-political-opponent-federally-charged-by-may-31",
     "negRisk": false
   },
   "cs2-tlr-g2a-2026-04-29-game1-odd-even-total-kills": {
@@ -107461,6 +107291,16 @@
     "eventSlug": "who-will-trump-talk-to",
     "negRisk": false
   },
+  "israel-x-iran-permanent-peace-deal-by-july-31-2026": {
+    "id": "2126516",
+    "conditionId": "0x1a8808d7a309a210b3e413331005c3d7e8cd27d2da4a4acd4ff04b4072d2ed81",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-x-iran-permanent-peace-deal-by",
+    "negRisk": false
+  },
   "will-jd-vance-have-a-diplomatic-meeting-with-iran-by-june-30-2026": {
     "id": "2126547",
     "conditionId": "0xc45a4c5c01082f8c727add1be91ab92d6c4fb782dddc6ec0e92b7b992fa62202",
@@ -109301,26 +109141,6 @@
     "eventSlug": "cs2-sashia-aabb-2026-05-04",
     "negRisk": false
   },
-  "cs2-xi-for10-2026-05-04-game1-odd-even-total-kills": {
-    "id": "2147930",
-    "conditionId": "0x354d1382c40c634f59ab86c05d27947db4ce1ac160911da72daf8172c7445e47",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-xi-for10-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-xi-for10-2026-05-04-game2-odd-even-total-kills": {
-    "id": "2147934",
-    "conditionId": "0xd00af0e88fff462b4bc4b5ee7612cbbaee88d183ea64be4050893543e12da134",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-xi-for10-2026-05-04",
-    "negRisk": false
-  },
   "nor-lil-vik-2026-05-30-spread-home-1pt5": {
     "id": "2148746",
     "conditionId": "0x01868ec459e334263176020589cdfb38eb2034326ea098fc31b08faf3b258ff2",
@@ -109711,7 +109531,7 @@
     "eventSlug": "hantavirus-vaccine-in-2026",
     "negRisk": false
   },
-  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-june-30-2026-159-962": {
+  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-june-30-2026-159-962-959": {
     "id": "2155023",
     "conditionId": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
     "endDate": "2026-06-30",
@@ -113833,126 +113653,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game1-both-teams-slay-baron": {
-    "id": "2175460",
-    "conditionId": "0x78b2d8bbf905ec50d36dcc5072688721cbb21301e027c8da1a2ce7f952e5822c",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game1-both-teams-slay-dragon": {
-    "id": "2175461",
-    "conditionId": "0x0b0cac32d9450cbd954a271c19220df929d4e6ce946e03589269bba8d6a457e1",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game1-both-teams-destroy-inhibitors": {
-    "id": "2175462",
-    "conditionId": "0x8024bbac95c8feeb2eabebc8051024bf084421b812d4d8d9f538d9359cc02b48",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game1-any-player-quadra-kill": {
-    "id": "2175463",
-    "conditionId": "0x77e9b13f86d16831fa2096f94d2c8715b857f0d4ed4965bdf459f1a74535b7b9",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game1-any-player-penta-kill": {
-    "id": "2175464",
-    "conditionId": "0x4a119ba97498fc9481e4d34bf1cb482298bfdd86f4d353a7ee615e1e449d7168",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game1-odd-even-total-kills": {
-    "id": "2175465",
-    "conditionId": "0x1dd6fed25915a0ddfc8e8f68ea5adf2a9794fafe3f9d1fa58ab18b7d926106e4",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game2-both-teams-slay-baron": {
-    "id": "2175466",
-    "conditionId": "0xdf562988b50764bc0ea94ac29c730f37b1d05122e84928ae5c33797f2477ee21",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game2-both-teams-slay-dragon": {
-    "id": "2175467",
-    "conditionId": "0x413ebf394d1d81533e82034575368ac136764117adcf08cabb7e372bc88c5166",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game2-both-teams-destroy-inhibitors": {
-    "id": "2175468",
-    "conditionId": "0x87a21b9e9a4050a6564e97bc3cb590df1b707acacfda223ad2d206e0f91b8f7f",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game2-any-player-quadra-kill": {
-    "id": "2175469",
-    "conditionId": "0xf5e4d9efa7cb78f7ab63df8b1908e8e3d690936a5ec008408633aa6b2aaf1063",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game2-any-player-penta-kill": {
-    "id": "2175470",
-    "conditionId": "0x4ef45c213706abfc1325681614a01a48ec9a0e661c7b15a21c75fdae386899bf",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
-    "negRisk": false
-  },
-  "lol-dfm-dcg-2026-05-12-game2-odd-even-total-kills": {
-    "id": "2175471",
-    "conditionId": "0x93f3c96733d2718084c637c23d8655d32f6c5288ef8c53253bb31b756e22dc52",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfm-dcg-2026-05-12",
     "negRisk": false
   },
   "lol-mvk-gz-2026-05-12-game1-both-teams-slay-baron": {
@@ -119633,5 +119333,305 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-np1-yl-2026-05-10",
     "negRisk": false
+  },
+  "cs2-lph-par3-2026-05-10-game1-odd-even-total-kills": {
+    "id": "2220918",
+    "conditionId": "0x87e7994e40b5c8505724741584bab26455e3e5fb2733fcbd0ea26e713e83c378",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-par3-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-lph-par3-2026-05-10-game2-odd-even-total-kills": {
+    "id": "2220920",
+    "conditionId": "0x4f4c92456038838cbec57e0a5cdeab3863cd277fd199761c239c37d7fd2a91ee",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-par3-2026-05-10",
+    "negRisk": false
+  },
+  "cs2-hypew-saw2-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2222769",
+    "conditionId": "0xfc1bda3300efbb1299bc8373145a9a26f3ffb1c4d99443a233c520f3bbd0a588",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hypew-saw2-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-hypew-saw2-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2222771",
+    "conditionId": "0xa276b0b54eb4659d06ff97b63f5583b452d65964b86e93d9bfefb5fb579c0b4d",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hypew-saw2-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-hypew-saw2-2026-05-12-game3-odd-even-total-kills": {
+    "id": "2222773",
+    "conditionId": "0xf36ec0e4df90456e081d053724f64b15bb1d4f58af678cd13807441db055fc4f",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hypew-saw2-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-waz-eclips1-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2224847",
+    "conditionId": "0x981a9831d92170c7f24925b98c954513be45bed27a7c95a3b31693212f9ff5d8",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-waz-eclips1-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-waz-eclips1-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2224849",
+    "conditionId": "0xf6030284c34d19ccd672f6fcaf6f07c41a9b6c6e34bbcbafef18fed1a7ae84a6",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-waz-eclips1-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-waz-eclips1-2026-05-11-game3-odd-even-total-kills": {
+    "id": "2224851",
+    "conditionId": "0x2525e623a9dc1f93dc9ee1e6953bca72e65abf1fa4cb77bf0e986bb9d6cecf75",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-waz-eclips1-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-inf6-forzer-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2225318",
+    "conditionId": "0xee6d135529279f8da39df3c2a60772b14bc8ea207c2d6e64550453e8efd44651",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-forzer-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-inf6-forzer-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2225320",
+    "conditionId": "0x08360e976acd1ef895f17650b6a29620f0f7ea76b8d7593b4b054a7ffd8a8cff",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-forzer-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-vpf2-hec-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2225350",
+    "conditionId": "0x1985c5e3bfcc46b28ad1dbbb6d1d5a31efbd317e7683dbe6baa37f4c01f519e1",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vpf2-hec-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-vpf2-hec-2026-05-11-game2-odd-even-total-kills": {
+    "id": "2225352",
+    "conditionId": "0x29e169c876513fc1d6e760adf300ad5b5faf20741e316f2b784865cc31c1c690",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vpf2-hec-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-vpf2-hec-2026-05-11-game3-odd-even-total-kills": {
+    "id": "2225354",
+    "conditionId": "0x73ad0461340983df177ecab3e360bab22652027c86b31a3aea52806458030bb9",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vpf2-hec-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-fcf-enr1-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2229353",
+    "conditionId": "0xc4a8f4ce175c62698582746e42a82a97aa9ee6b7da7fc1e37fc2c471be5cf1ac",
+    "endDate": "2026-05-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-fcf-enr1-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-hin-brawls-2026-05-11": {
+    "id": "2229355",
+    "conditionId": "0xce74f15bbf9614b1cf68e78a487b94cf428f9d82b19920d7fc89347443938178",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hin-brawls-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-hin-brawls-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2229356",
+    "conditionId": "0xf5783acf7ab005d49a566e66c72d4449b0c981aaf23d13a750cd13fdb62b130e",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hin-brawls-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-hin-brawls-2026-05-11-game1-odd-even-total-rounds": {
+    "id": "2229357",
+    "conditionId": "0x33a2ffc6ac4a2625ca6fc20fc8fe0ed4faef227b72d55d8c9d453bba0bc4653c",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-hin-brawls-2026-05-11",
+    "negRisk": false
+  },
+  "cs2-cow1-bojong-2026-05-11-game1-odd-even-total-kills": {
+    "id": "2229359",
+    "conditionId": "0xa70d13faafbcedfdffc9c903596b83f4f6af5eb2433a2d1696dd2d6fcccbf188",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-cow1-bojong-2026-05-11",
+    "negRisk": false
+  },
+  "will-russia-enter-sloviansk-by-december-31-2026": {
+    "id": "2232190",
+    "conditionId": "0xd4aa5c6bd2a179244d98ba714dba4441e4bf5f99f27a657b8d967f8f67cfe041",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-sumy-by-december-31-2026": {
+    "id": "2232191",
+    "conditionId": "0x4d3395a91ab99cb40dc56cd4debc360ad167ac51137b862aa4ff1b5c28a22561",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-druzkhivka-by-december-31-2026": {
+    "id": "2232192",
+    "conditionId": "0xb7d6db12a48e282585501f57871e6e482b9e2c41c68d1d5019bdbd2902209b69",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-dopropillia-by-december-31-2026": {
+    "id": "2232193",
+    "conditionId": "0x6557ff312837c0707d82bc2def893572289e012cff21a264593c6551f85d7e50",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-kramatorsk-by-december-31-2026": {
+    "id": "2232194",
+    "conditionId": "0x357ee5e692658d4dae5b7fe59bae12cef029f2ebffb5452f4d439a1934d84211",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-kharkiv-by-december-31-2026": {
+    "id": "2232195",
+    "conditionId": "0x3998586e8a30f2ba516c073859c98bfcc37e6abdc06e0652fa7e7259a0de6584",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-kherson-by-december-31-2026": {
+    "id": "2232196",
+    "conditionId": "0x465ca3fde976d3f147697893414b341b11a4e624e97e6e9b106c4d02cae4a443",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-enter-zaporizhia-by-december-31-2026": {
+    "id": "2232197",
+    "conditionId": "0xe97ddd7cfb8633ca0cc05f8033e662b92f6186b9763e96d8fa734c6c83009b35",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-cities-will-russia-enter-by-december-31",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-huliaipole-by-june-30": {
+    "id": "2232280",
+    "conditionId": "0x300b12c0716c6904518674524a9106fe416c8c833f5366cf5378c31fb745cc58",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-huliaipole-by-february-28",
+    "negRisk": false
+  },
+  "will-nassourdine-imamov-fight-sean-strickland-next": {
+    "id": "2232295",
+    "conditionId": "0x589c08f3e2401a1cdc721bdf0b330fd2a48ef386cf328014315e49daa7005dd4",
+    "endDate": "2027-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-sean-strickland-fight-next",
+    "negRisk": true
+  },
+  "will-dricus-du-plessis-fight-sean-strickland-next-949": {
+    "id": "2232296",
+    "conditionId": "0x14b58cced578951059f2bcf82fda1cec6b5a7c910425d92f798d68f918d792af",
+    "endDate": "2027-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-sean-strickland-fight-next",
+    "negRisk": true
+  },
+  "will-khamzat-chimaev-fight-sean-strickland-next-122": {
+    "id": "2232297",
+    "conditionId": "0x62e7484dd1df9dfe7632f6c0a68f5b2859eec8229e2d4723307aca9154ef4838",
+    "endDate": "2027-05-09",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-sean-strickland-fight-next",
+    "negRisk": true
   }
 }
