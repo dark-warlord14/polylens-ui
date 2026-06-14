@@ -74284,16 +74284,6 @@
     "eventSlug": "2026-basketball-pro-a-winner",
     "negRisk": true
   },
-  "2026-basketball-aba-league-winner-dubai-basketball": {
-    "id": "1834258",
-    "conditionId": "0xeefeb4456192300b24561a63528cd5eb60a172df5dcbf059eb2aed970cabee9a",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-aba-league-winner",
-    "negRisk": true
-  },
   "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1834974",
     "conditionId": "0x654f819503e93e6d936c2b304d69e3594ef16d09c26f54740c61b8934102dff2",
@@ -75672,16 +75662,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-monte-win-iem-cologne-major-2026": {
-    "id": "1892301",
-    "conditionId": "0xd8d413749b52f59eeefb29b7e3f16698c6da7c866106b1455383cf7e3fe70618",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-9z-win-iem-cologne-major-2026": {
     "id": "1892302",
     "conditionId": "0xeaf74756ca8340efe356390560030d391719f8febd2930a3c71cf59363aff843",
@@ -75735,16 +75715,6 @@
   "will-falcons-win-iem-cologne-major-2026": {
     "id": "1892309",
     "conditionId": "0xfc1f0e02955453a09c0e74e473980de7fbee597a8859eadf0c7ec9e8b0237562",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-mouz-win-iem-cologne-major-2026": {
-    "id": "1892310",
-    "conditionId": "0x665a7f135acb1d2938cf74f94c1747cb3d530b6f99210b3affe5d91d35e6968a",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -78360,16 +78330,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-lck-cl-2026-winner",
-    "negRisk": true
-  },
-  "will-bilibili-gaming-win-lpl-2026-split-2": {
-    "id": "1901248",
-    "conditionId": "0xcbf2e173d92a989f9abba89988417b08d37711c0e9c9ae699a64ec4a2b91d416",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
     "negRisk": true
   },
   "will-kanye-west-visit-israel-by-june-30": {
@@ -108071,16 +108031,6 @@
     "eventSlug": "french-top-14-winner",
     "negRisk": true
   },
-  "will-pau-win-the-2026-top-14-final": {
-    "id": "2134658",
-    "conditionId": "0x2eb74452bd17965443eeafe64588bf0e103911f5b20a39893176ca8ed7c5b4c5",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "french-top-14-winner",
-    "negRisk": true
-  },
   "will-racing-92-win-the-2026-top-14-final": {
     "id": "2134660",
     "conditionId": "0x4eed51b1a718fbbee321362b5d196871820c89261bd09ebb207404ce91f0cc1d",
@@ -108429,16 +108379,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-reda-quin-2026-05-03",
-    "negRisk": false
-  },
-  "cs2-masq-washed-2026-05-04-game1-odd-even-total-kills": {
-    "id": "2147875",
-    "conditionId": "0xc821aaf9a1b8d63d6654d82507f7d60a7dc80c3e07ae3dce125e050b7c5e1f08",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-masq-washed-2026-05-04",
     "negRisk": false
   },
   "nor-lil-vik-2026-05-30-spread-home-1pt5": {
@@ -119632,6 +119572,66 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "spx-hit-jun-2026",
+    "negRisk": false
+  },
+  "cs2-algo1-sinqu-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2236865",
+    "conditionId": "0xb4b28f37461d6d5db241bff630934cc9c27c812231f0c3c1b9971d4fa92a925a",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-sinqu-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-algo1-sinqu-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2236867",
+    "conditionId": "0x4de535f772ea20bc11c66cf2d126daace1f0e26611365936051bb78a327a5e10",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-sinqu-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-navij1-mana-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2236876",
+    "conditionId": "0x62867b80295c35c0c7827b0a501efe0fa18b7e5cba19f0c4dc670eb3c5802f6a",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-mana-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-navij1-mana-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2236878",
+    "conditionId": "0x1c50ed8a8d0ffafbab4995e4c0609a8e32241ea0ccc51e5aa53f0c512f0c23e3",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-navij1-mana-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-sta6-mis-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2236887",
+    "conditionId": "0x7478da566d974085cab8f659968ac52ef49a9e1dbaf2636344c695e3de04eb82",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sta6-mis-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-sta6-mis-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2236889",
+    "conditionId": "0x1ed72861ad149eeadcece148f77f02783f8f161f7a434a763402d05fd10c28a1",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sta6-mis-2026-05-14",
     "negRisk": false
   }
 }
