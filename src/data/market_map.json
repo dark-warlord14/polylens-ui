@@ -74254,16 +74254,6 @@
     "eventSlug": "2026-basketball-serie-a-winner",
     "negRisk": true
   },
-  "2026-basketball-greek-basketball-league-winner-olympiacos-piraeus": {
-    "id": "1834231",
-    "conditionId": "0x13212acf840bb47569df75589a467686a7ceab085a5d19ff9a737c5c0b17c82b",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-greek-basketball-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-pro-a-winner-as-monaco": {
     "id": "1834239",
     "conditionId": "0x1be717c86bd4c069adf7a7e6cace4c804e16d6b38447a7892b773c4f9bee16e6",
@@ -75672,16 +75662,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-legacy-win-iem-cologne-major-2026": {
-    "id": "1892304",
-    "conditionId": "0x12c1bfb92391c9a763cff1ab29ff3c09690a1830e717db5547cf8dcd7460460c",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-vitality-win-iem-cologne-major-2026": {
     "id": "1892305",
     "conditionId": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
@@ -76225,26 +76205,6 @@
   "fifwc-ger-kor-2026-06-14-ger": {
     "id": "1897058",
     "conditionId": "0x00cf3efc18a950cf442049aa0770903f0ab8606212499e0e4196bf74c102c456",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ger-kor-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-ger-kor-2026-06-14-draw": {
-    "id": "1897059",
-    "conditionId": "0x18f73aca12019d3fc2a03e7af28f6ebcec12634413819605d7cfa3db20073f26",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ger-kor-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-ger-kor-2026-06-14-kor": {
-    "id": "1897060",
-    "conditionId": "0x0fe5bb2f2da60b0bcb4855dc0cc3101dd1028f6639479bdeefecacb0102869a8",
     "endDate": "2026-06-14",
     "closed": false,
     "active": true,
@@ -119632,6 +119592,46 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-sta6-mis-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-clutch-lph-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2238895",
+    "conditionId": "0x0e138e0fa1087c88fc97f397e52ff7bf86c64829f027e150fbecf9f8a21cac06",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-lph-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-clutch-lph-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2238897",
+    "conditionId": "0x05a7074f1a283abc7590f8f347e7b482ab9515e1328bd2cc4933eb9fefd9104f",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-lph-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-efa-inf6-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2238907",
+    "conditionId": "0x90f74cef5ea56efaed45b38dc2e6cf948e7c988bb647e3f8ed8df4e8b5520320",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-inf6-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-efa-inf6-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2238909",
+    "conditionId": "0x72828612b76b0c141ccf655210cd23382ed6f975104d14cf47f881dd47af4f59",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-inf6-2026-05-12",
     "negRisk": false
   }
 }
