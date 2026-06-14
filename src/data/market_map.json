@@ -26724,16 +26724,6 @@
     "eventSlug": "israel-x-hamas-ceasefire-phase-ii-by-october-31",
     "negRisk": false
   },
-  "ai-data-center-moratorium-passed-before-2027": {
-    "id": "957986",
-    "conditionId": "0x03675b6b673bfbf7716b35051d95cb6fcdc927096ca198221f5de4220af566c7",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ai-data-center-moratorium-passed-before-2027",
-    "negRisk": false
-  },
   "will-the-iranian-regime-fall-by-june-30": {
     "id": "958443",
     "conditionId": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
@@ -62682,26 +62672,6 @@
     "eventSlug": "will-valve-will-add-cache-to-the-map-pool-by-end-of-january-519",
     "negRisk": false
   },
-  "will-t1-qualify-to-msi-2026": {
-    "id": "1494618",
-    "conditionId": "0x990fafef630445eeb670416c528881677618c43f6ed648bad9eb58f9aa22761e",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
-  "will-geng-qualify-to-msi-2026": {
-    "id": "1494619",
-    "conditionId": "0x6b35ee697c45b825db8857e81a19afd3201593285ef870ef6367997d99137704",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-teams-will-qualify-to-msi-2026",
-    "negRisk": false
-  },
   "will-a-team-from-lck-south-korea-win-msi-2026": {
     "id": "1494695",
     "conditionId": "0x4890e36c536eef20111bd617f6479b6b7384ad2ebf16e18a108d989dc0aa9f9e",
@@ -74324,16 +74294,6 @@
     "eventSlug": "2026-basketball-aba-league-winner",
     "negRisk": true
   },
-  "2026-basketball-aba-league-winner-partizan-mozzart-bet": {
-    "id": "1834262",
-    "conditionId": "0x4cfed7bbc09bb7e6a8b2d5f3cb4e9a47f6b238196d14cca1fb51108e416f8799",
-    "endDate": "2026-12-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-aba-league-winner",
-    "negRisk": true
-  },
   "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1834974",
     "conditionId": "0x654f819503e93e6d936c2b304d69e3594ef16d09c26f54740c61b8934102dff2",
@@ -76291,16 +76251,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-aus-tur-2026-06-14-aus": {
-    "id": "1897055",
-    "conditionId": "0xaaee502e7f2378521ba15c183e2762cecab013dd42f7600f7b35e99e0882f08c",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-aus-tur-2026-06-14",
-    "negRisk": true
   },
   "fifwc-ger-kor-2026-06-14-ger": {
     "id": "1897058",
@@ -78415,16 +78365,6 @@
   "will-bilibili-gaming-win-lpl-2026-split-2": {
     "id": "1901248",
     "conditionId": "0xcbf2e173d92a989f9abba89988417b08d37711c0e9c9ae699a64ec4a2b91d416",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lpl-2026-split-2-winner",
-    "negRisk": true
-  },
-  "will-top-esports-win-lpl-2026-split-2": {
-    "id": "1901256",
-    "conditionId": "0xfb14da53691df0c2c422a309189127d4d13532c76fe2ff5d3498f0ed72a1f246",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -108501,36 +108441,6 @@
     "eventSlug": "cs2-masq-washed-2026-05-04",
     "negRisk": false
   },
-  "cs2-masq-washed-2026-05-04-game2-odd-even-total-kills": {
-    "id": "2147881",
-    "conditionId": "0xa84af2b311145be15a02949df7136537e9e392303aafad79dc78eb3eada91c91",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-masq-washed-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-sashia-aabb-2026-05-04-game1-odd-even-total-kills": {
-    "id": "2147905",
-    "conditionId": "0xe2f82baeaa29eff3dee707216ab846e3417e42a3f29bb3367cd4810c271d314b",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-aabb-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-sashia-aabb-2026-05-04-game2-odd-even-total-kills": {
-    "id": "2147909",
-    "conditionId": "0xc219c21bdab34bb1443e805fd44f86afbebc3fce65b03a4c16a96360848044ae",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-aabb-2026-05-04",
-    "negRisk": false
-  },
   "nor-lil-vik-2026-05-30-spread-home-1pt5": {
     "id": "2148746",
     "conditionId": "0x01868ec459e334263176020589cdfb38eb2034326ea098fc31b08faf3b258ff2",
@@ -119633,5 +119543,95 @@
     "acceptingOrders": true,
     "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
     "negRisk": true
+  },
+  "will-ivan-saric-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236131",
+    "conditionId": "0x8cff1d2cb6d45d59360de396f8aeb0a9e89427071e7287dce01accdb992f5535",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-gukesh-dommaraju-win-the-2026-super-rapid-blitz-croatia": {
+    "id": "2236132",
+    "conditionId": "0x5a3f8dec624f164f8f342ee50f7c2d4f68f92024cf063818160866b911c51862",
+    "endDate": "2026-07-07",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-grand-chess-tour-super-rapid-and-blitz-croatia-winner",
+    "negRisk": true
+  },
+  "will-silver-si-hit-high-90-by-end-of-june-491": {
+    "id": "2236170",
+    "conditionId": "0xe017db9177e140967dc41bd96a44e35943082fc2c3701a2d424eecb7a2c6c7f0",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "si-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-silver-si-hit-high-85-by-end-of-june": {
+    "id": "2236171",
+    "conditionId": "0xebb1ea662b616493063f6e4a7beaff2cf35f4b465fbb023a4bb15ded9c012dff",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "si-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spx-hit-7850-high-in-june": {
+    "id": "2236208",
+    "conditionId": "0x8bfb906478c4b122ac55699de7b2dd2f54a8f4041ebbb8b6d550e0fbeca16186",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "spx-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spx-hit-7100-low-in-june-123": {
+    "id": "2236209",
+    "conditionId": "0xce8a622c7decfa7d4a5444836cdb9034a662ad20fca12c4a2d21c17045f00483",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "spx-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spx-hit-6900-low-in-june-582": {
+    "id": "2236210",
+    "conditionId": "0x7a808079973806afb2c4122da5fdf3d91db86985893b87ffbe39f57735ba259a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "spx-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spx-hit-6700-low-in-june-989": {
+    "id": "2236211",
+    "conditionId": "0x1fa18598f50a0667090eaf5c8ce3e8050284d35adfbff2f23c3a63708220766e",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "spx-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-sp-500-spx-hit-6500-low-in-june-283": {
+    "id": "2236212",
+    "conditionId": "0x6d0de6333c365458681e8f41afd1854477c5a79af9a61750b0e466021946508a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "spx-hit-jun-2026",
+    "negRisk": false
   }
 }
