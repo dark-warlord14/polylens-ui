@@ -67976,60 +67976,6 @@
     "eventSlug": "mlb-al-manager-of-the-year",
     "negRisk": true
   },
-  "will-spacexs-ipo-valuation-be-less-than-1pt25t": {
-    "id": "1721573",
-    "conditionId": "0xa813a31c1a1bf58a59f42cded0c121de21c63aa4ae0132f7a15ce95d8974076b",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
-  "will-spacexs-ipo-valuation-be-between-1pt25t-and-1pt50t": {
-    "id": "1721574",
-    "conditionId": "0x6475389ac9a12bf16657ebfc14424bd572a573e9e3bd17339c3cbd5c46f243cc",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
-  "will-spacexs-ipo-valuation-be-between-1pt50t-and-1pt75t": {
-    "id": "1721575",
-    "conditionId": "0xf65ec5bdaa7f9f099b81f0deef967d7a254c243c94985b6f7dae17bfd85a2a27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
-  "will-spacexs-ipo-valuation-be-between-2pt00t-and-2pt25t": {
-    "id": "1721577",
-    "conditionId": "0x8745a33913271c683ce5cc46dead9e53ac494edc4fd8018a778c5aecf8f17f75",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
-  "will-spacexs-ipo-valuation-be-between-2pt25t-and-2pt50t": {
-    "id": "1721578",
-    "conditionId": "0x5af502c9a64df4d7f5c4223f04ede389af9c7249e4481ebe923827962c88967b",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
-  "will-spacexs-ipo-valuation-be-at-least-2pt50t": {
-    "id": "1721579",
-    "conditionId": "0x4ed299bb41d6c66e313be4b9e80b9e3399b762b5dab1b523eeb4ef3509a91f5a",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
   "will-torey-lovullo-win-the-2026-nl-manager-of-the-year": {
     "id": "1721580",
     "conditionId": "0x731360ed4919916daac1d7fdc3d94a97460edebaf76946492f678ec7ecfb5aaa",
@@ -74055,16 +74001,6 @@
     "eventSlug": "2026-basketball-liga-endesa-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-endesa-winner-joventut-badalona": {
-    "id": "1834180",
-    "conditionId": "0x2410f0b1c788426c2e96552789605d8645d57e92f56ed416bd148171c5174eab",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-endesa-winner-valencia-basket": {
     "id": "1834190",
     "conditionId": "0x2236c2e6f8f746217cfbe980d71df7d2a60ffba24a4ad38d58a3cd5e78e83b83",
@@ -75483,16 +75419,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-fut-win-iem-cologne-major-2026": {
-    "id": "1892300",
-    "conditionId": "0x67770cc59d2d79be575c87f22bbff9834fb415838bd8aca93b750d7b4c00202d",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-9z-win-iem-cologne-major-2026": {
     "id": "1892302",
     "conditionId": "0xeaf74756ca8340efe356390560030d391719f8febd2930a3c71cf59363aff843",
@@ -75546,16 +75472,6 @@
   "will-furia-win-iem-cologne-major-2026": {
     "id": "1892311",
     "conditionId": "0xa5c032ea59bef7295facaa3b2eada44ae2509eaff4b45d9896f48290f7f99510",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-the-mongolz-win-iem-cologne-major-2026": {
-    "id": "1892312",
-    "conditionId": "0x4c3a5fad286fd49fb82baefc2aff5d6703e581adb127eb2d601285fc904e5579",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -93792,16 +93708,6 @@
     "eventSlug": "who-will-be-cast-on-dancing-with-the-stars-season-35",
     "negRisk": false
   },
-  "will-lamine-yamal-play-in-the-world-cup": {
-    "id": "2060463",
-    "conditionId": "0xfb67aec985158d4a29426af9340e59bfbf6dcd78044b06707ae5b15137fa134d",
-    "endDate": "2026-08-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-lamine-yamal-play-in-the-world-cup",
-    "negRisk": false
-  },
   "d4vd-released-from-custody-in-2026": {
     "id": "2060846",
     "conditionId": "0xe0b6a35748d163e2010784ed792d8a83e0f08ffdba6857d60367eaa0f237de5a",
@@ -100871,7 +100777,7 @@
     "eventSlug": "james-comey-sentenced-to-prison-in-2026",
     "negRisk": false
   },
-  "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883-134-598": {
+  "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883-134-598-264": {
     "id": "2109450",
     "conditionId": "0x6fa13f31cceaf10ed3190df6e2aca0a93ab0d6fb46fd279003f17d4cdccee164",
     "endDate": "2026-05-15",
@@ -108822,46 +108728,6 @@
     "eventSlug": "cs2-mis-sta6-2026-05-06",
     "negRisk": false
   },
-  "lol-tsw-dfm-2026-05-05-game2-both-teams-destroy-inhibitors": {
-    "id": "2163480",
-    "conditionId": "0x752d5601efc5ce997f0c322d7d1c946aaec69cb4327e317013bf7ba4fdf9415d",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game2-any-player-quadra-kill": {
-    "id": "2163482",
-    "conditionId": "0x72ee1cc6d4ea421023137686a600aceb710778bd9445534918c2ad2fe5dcd2eb",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game2-any-player-penta-kill": {
-    "id": "2163484",
-    "conditionId": "0xcc2e832f2cfc3e5045a6ac159974997e89c79e736fe1539482da268451a6e02c",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game2-odd-even-total-kills": {
-    "id": "2163485",
-    "conditionId": "0x45fa42d28e1efeeb74a70e62cf704d78c081af6cc100bf7df60b480ab1a99e3e",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
   "lol-dcg-gam-2026-05-05-game1-both-teams-slay-baron": {
     "id": "2163497",
     "conditionId": "0xac68c4b821bf4826ec1ce6a2cc6f931030fe1a7889a31012aba438957d57c851",
@@ -109945,6 +109811,16 @@
   "will-eugen-tomac-be-the-next-prime-minister-of-romania": {
     "id": "2166699",
     "conditionId": "0xdd9f5893277ee642854775472c68410f95eecb0331c1c73c589ad2e1d02aa645",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-prime-minister-of-romania-732",
+    "negRisk": true
+  },
+  "will-adrian-vetea-be-the-next-prime-minister-of-romania": {
+    "id": "2166701",
+    "conditionId": "0xf594ba6176332f3b96609dfcc858de00ce1c79bda4ad3eb0f2e1ef60cd38ff14",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -119633,6 +119509,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-co-auryb-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-co-auryb-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2249675",
+    "conditionId": "0x6b3419d05625d42c407a05167df8819a83fee575da8e803877b33133853d7048",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-co-auryb-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-co-auryb-2026-05-13-game3-odd-even-total-kills": {
+    "id": "2249677",
+    "conditionId": "0x67bd4145d5f7a3671c8c7761c2fd5e49f5d4d40131e2e08a03fb243e1e825e94",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-co-auryb-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-enjoy-atreid-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2249684",
+    "conditionId": "0x737093d465e6ef9731de4a9f012be7fde0bf1182b195b0a99b19ed448a821b2b",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-enjoy-atreid-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-enjoy-atreid-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2249686",
+    "conditionId": "0x49883340c636c56b66f66a5c4af6ab4db85abc39bf0c5b3dbae67be0e34b2fd7",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-enjoy-atreid-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-masq-lph-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2250311",
+    "conditionId": "0x9ad13836ee90900f0758ec521b38b66bee5c7d1d3901cab4f797a4202ff75629",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-lph-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-masq-lph-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2250313",
+    "conditionId": "0xa3fd06c54a147121148d37f8fb50ed80ac05aaa73eb664bb3d568c9a13208b46",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-lph-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-masq-lph-2026-05-14-game3-odd-even-total-kills": {
+    "id": "2250315",
+    "conditionId": "0x6d7132a4e34ffbe05d6de4083ae74ec870974a6d1c03840544fdab4478702ca4",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-lph-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-algo1-pre-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2250322",
+    "conditionId": "0xb230d0ce513d54a2cebbd5cd2aace66a80cca583d62ae640e63c853b92758355",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-pre-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-algo1-pre-2026-05-15-game2-odd-even-total-kills": {
+    "id": "2250324",
+    "conditionId": "0x0aad2bba95335c4ca0d4b75f3542e5d4a4600df0fddc48d17b5d786e09d2e0a7",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-pre-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-algo1-pre-2026-05-15-game3-odd-even-total-kills": {
+    "id": "2250326",
+    "conditionId": "0xcf32039e8c2397194bf593990f769598b1680378d218c2624dc2b54e553fb676",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-pre-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-ftur-vita-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2250333",
+    "conditionId": "0x6e5de0f04a2c6208d6cfb2cb091a17dc5de7e149b3fb6a63e7a6531bd377a45b",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ftur-vita-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-ftur-vita-2026-05-15-game2-odd-even-total-kills": {
+    "id": "2250335",
+    "conditionId": "0x705b8cd39abebd14f72ead82640b6c6a7ae60584bef16bc4d049996b6ef248ee",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ftur-vita-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-ftur-vita-2026-05-15-game3-odd-even-total-kills": {
+    "id": "2250337",
+    "conditionId": "0x31f9a8c508e0587f161df039ca76f23f067d292eec2b988d4c93dd721176437c",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ftur-vita-2026-05-15",
     "negRisk": false
   }
 }
