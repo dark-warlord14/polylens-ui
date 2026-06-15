@@ -119,26 +119,6 @@
     "eventSlug": "harvey-weinstein-prison-time",
     "negRisk": true
   },
-  "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup": {
-    "id": "553824",
-    "conditionId": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-stanley-cup-champion",
-    "negRisk": true
-  },
-  "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup": {
-    "id": "553829",
-    "conditionId": "0x89389a6b1439856a8d366234c795d72865c927a1aa3cf9d4cc04a3a400defde1",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-stanley-cup-champion",
-    "negRisk": true
-  },
   "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254": {
     "id": "556108",
     "conditionId": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
@@ -26592,16 +26572,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ukraine-agrees-not-to-join-nato-by-june-30",
-    "negRisk": false
-  },
-  "us-iran-nuclear-deal-by-june-30": {
-    "id": "957019",
-    "conditionId": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-iran-nuclear-deal-by-june-30",
     "negRisk": false
   },
   "israel-x-hamas-ceasefire-phase-ii-by-june-30": {
@@ -68033,15 +68003,6 @@
     "eventSlug": "what-will-spacexs-ipo-valuation-be",
     "negRisk": true
   },
-  "will-spacexs-ipo-valuation-be-between-1pt75t-and-2pt00t": {
-    "id": "1721576",
-    "conditionId": "0xb5110caf39109c43b472e9048c29a7a337a383a6d2baed9225e8f93c69fd87af",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "what-will-spacexs-ipo-valuation-be",
-    "negRisk": true
-  },
   "will-spacexs-ipo-valuation-be-between-2pt00t-and-2pt25t": {
     "id": "1721577",
     "conditionId": "0x8745a33913271c683ce5cc46dead9e53ac494edc4fd8018a778c5aecf8f17f75",
@@ -70573,16 +70534,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "nikita-bier-out-as-head-of-product-at-x-by-june-30",
-    "negRisk": false
-  },
-  "lol-ig1-tes-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1796805",
-    "conditionId": "0xec2751691b0ec3838afe15d2c344f0a806a35d5bc753150c90c5da2aaf40e6e0",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-ig1-tes-2026-04-13",
     "negRisk": false
   },
   "will-polymarket-mindshare-hit-90-by-june-30": {
@@ -76092,36 +76043,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-swe-tun-2026-06-14-swe": {
-    "id": "1897067",
-    "conditionId": "0xc6f7e4a015ec643eb49c749da19553a2257add76278a252805a12dfa85103269",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-swe-tun-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-swe-tun-2026-06-14-draw": {
-    "id": "1897068",
-    "conditionId": "0x11e4780f48d73417a4863618e288e78c8848e2ef4f744dca4cabdff154af5e3c",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-swe-tun-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-swe-tun-2026-06-14-tun": {
-    "id": "1897069",
-    "conditionId": "0xb5e6e5829c986107aebc5b4b18429b007a813f2b5ca860993020f27ef9f0e080",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-swe-tun-2026-06-14",
-    "negRisk": true
-  },
   "fifwc-esp-cvi-2026-06-15-esp": {
     "id": "1897070",
     "conditionId": "0xa5501b4dc0c99c382b1c2871ad9141c7f58509a0f962f70a38bb6566ec570049",
@@ -79309,16 +79230,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-we-omg-2026-04-13",
-    "negRisk": false
-  },
-  "lol-ig1-tes-2026-04-13-game2-kill-over-30pt5": {
-    "id": "1928143",
-    "conditionId": "0x50766aea2a7c7284c49275c7a32b27f8f18d3cb11f585e1cd9aab40c324d21af",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-ig1-tes-2026-04-13",
     "negRisk": false
   },
   "cs2-ent2-immune-2026-04-10-game1-odd-even-total-kills": {
@@ -85731,496 +85642,6 @@
     "eventSlug": "who-will-be-eliminated-from-top-chef-season-23-this-week-april-20",
     "negRisk": false
   },
-  "will-linus-ullmark-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007595",
-    "conditionId": "0xad238b285d38687f634a092a6a584d444da5eec46b2c10ec111b4fa850685a89",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-seth-jarvis-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007596",
-    "conditionId": "0x6a72e037de6c9352a9f24fcf2ed60adc6d82efbf48c576be50a76b6db12a6708",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-quinn-hughes-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007597",
-    "conditionId": "0xd1ea1c8bec41f9adc0dcb84b4d2c76221e717e3fd886eea64e3d496ebd613ca2",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-jake-oettinger-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007598",
-    "conditionId": "0x1880ba762593e0f2955abcc149a02856da37b1460b981b82add682d997788947",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-dan-vladar-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007599",
-    "conditionId": "0xffc10e65618e90a2fffe6f6d057284b71b2624f622b8ef5b4eb7d1041145d288",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-sidney-crosby-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007600",
-    "conditionId": "0xd19d4c07441e538145abfd1c6993cf665faad1f0d633b3ae92fc9f2e77c00d0c",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-cale-makar-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007602",
-    "conditionId": "0xf0b5966b0742263ebe474b18ff63db3678a8ab393385673d5e32a6df11fa2c1c",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-anze-kopitar-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007603",
-    "conditionId": "0xf2ceed2ae600d65899c6c6ba4b70f3414bd09fa0fc34c3c1777dc598a1259927",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-nick-suzuki-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007604",
-    "conditionId": "0x813432b4e0597553bf8605ead78529d830844915b42e716635704d97c9ed10a0",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-nikita-kucherov-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007605",
-    "conditionId": "0x1249989f517f9f932d89415c1f6c1da134d027ca0f630dce5ad64edde5607f7f",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-david-pastrnak-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007606",
-    "conditionId": "0x73ea9b13e98c629ca02033286c90a56d2ff9a2a827555281d9ec2af74f5fd206",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-alex-tuch-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007607",
-    "conditionId": "0x111ee262502014fd10dc692b578c1fcd7b2f896d417fd8f927711b1a473ec050",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-jack-eichel-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007608",
-    "conditionId": "0xcded52a6d433b48755eb57dad1f8fcd98b54fd391e5b5c8b84d723181091aeea",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-dylan-guenther-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007609",
-    "conditionId": "0x85309dbe9c55d5a9e6b56d4e2b529b9942d2ee2326e21eef18e21a824c30f257",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-cutter-guanthier-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007610",
-    "conditionId": "0x3d74bd729a5313c65fb8ab9c301eeccb9f5f1e5d68c482291d91cd43746fc7a8",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-connor-mcdavid-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007611",
-    "conditionId": "0x5635eac10eabfc9e9d8170595f0e40c76815db105ef105bd7b8fbd6caa40dbb7",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-nathan-mackinnon-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007612",
-    "conditionId": "0xf2b1e81b016a781e7569eaec51dd4fa1bbb7bc4373a8228000b4f7fcd6c1edb2",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-sebastian-aho-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007613",
-    "conditionId": "0xce35cd2c9aae9bfa1f950f966a151734ac283926e1a9d287e30009520e9d23ae",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-cole-caufield-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007615",
-    "conditionId": "0x10b3fcc3b19e955143c198b94fa9c41e778a215b65cd33fed3927acbec16ba2a",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-clayton-keller-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007616",
-    "conditionId": "0x765b133abcdf3c671320b01875e7d536ec799b4ecba4dacb76f2fda95e3e6bf4",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-andrei-vasilevskiy-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007617",
-    "conditionId": "0x6832d351585e56c56af5647c1777b58cb9577164b27c581be044e1ee1dde1ac8",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-martin-necas-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007618",
-    "conditionId": "0xc78e3d385b018e3e97f50b4a60c2d1d046ed8c48dde40bc8faeb704b84335ea6",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-mitch-marner-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007619",
-    "conditionId": "0x95cd0ff6c13866396851dad5646867609e16c4f256a4e88744c3bb615a391f88",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-leon-draisaitl-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007620",
-    "conditionId": "0xc15a80fae09bff2f7f8d70ee3a41a8d152eadac1c796584adf2ba2609a85c8a1",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-rasmus-dahlin-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007621",
-    "conditionId": "0x7c26e5977466ecf957718a00aa15fd5ae85225854604f6ce6ffa95481564d652",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-carter-hart-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007622",
-    "conditionId": "0x09987ca345a3429d7bd00f638ec2144e4474443aed7fb6e38394ca8234298e30",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-rasmus-andersson-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007623",
-    "conditionId": "0xc80ab43906b87461f2324e1333cef3676e8a0ef9636b620d0de6516da2c36d89",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-noah-hanifin-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007624",
-    "conditionId": "0x271427a4ea5fb87a4f966f8e1f9933c16bcb49c880b5c44926b546eefcaf59d1",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-shea-theodore-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007626",
-    "conditionId": "0xa8f8bd62bf5fbd9ef04d96c70863ddb95dc4eb43e47691ea02d51f395f68903d",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-brayden-mcnabb-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007627",
-    "conditionId": "0xafbfc920f22c977a0f49b4d9dcae38d135f993f6e22de095ccfb3421d12363b8",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-mark-stone-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007628",
-    "conditionId": "0xbc0554e1ef4b5d7c6106b7bb214388bf76b0b5e6fe720247cf7f700181722e55",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-colton-sissons-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007629",
-    "conditionId": "0x628eb05c6bd6e77169de721c136e1576379baeb1c0ef753919c237695996ad6c",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-tomas-hertl-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007630",
-    "conditionId": "0x9f0e4d979f83eef0414f3f23619b032e860d9b5d25ea6a72276d197c30e8c18a",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-william-karlsson-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007631",
-    "conditionId": "0xb6ebbf6314a17bffdaeeaba917c1382274306395c7d690d7b5ccd6f5834704a0",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-brett-howden-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007632",
-    "conditionId": "0x5808d9292015dc6e1e669c67948f8fd86f68bd73655d51c051dbc273280babb9",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-pavel-dorofeyev-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007633",
-    "conditionId": "0x6608d1e3f631734b9befb815f65f14b13672cd9de946abb58356f2d940917d81",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-ivan-barbashev-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007634",
-    "conditionId": "0x8fbb100af1c4e1e13f8eed0ea7715a972bee114e77b818d7c079ab090def4e5f",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-andrei-svechnikov-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007635",
-    "conditionId": "0x5d72430a6d7dcf68d30fe796181a96b887874d6e2e31cbfbfb326fe5e01d6d3e",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-taylor-hall-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007636",
-    "conditionId": "0xa28577bcd66fb1375deec2e2b04288b2098fd4d9af19247984f96a2243a8ccea",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-logan-stankoven-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007637",
-    "conditionId": "0x55138e8f1d8fc714312bdea287258caad6361ff74208887828e3bbdb4f44528a",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-jackson-blake-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007639",
-    "conditionId": "0xd30df4c9deeb88faed13ef560ef33f6ae8b328792c2197e3ac50c9329d168917",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-nikolaj-ehlers-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007640",
-    "conditionId": "0x4e06af3bc3c72b6d5bf1c4cb889d39f679e98e12a1abf61ba770c37ea8b27fcb",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-jordan-staal-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007641",
-    "conditionId": "0x778595b1da94166e8593dd8bb4088ed8116dd31e0305a4ca632a3461b7883bfb",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-jaccob-slavin-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007642",
-    "conditionId": "0x54bf5b0abc300b3b07f033231129738bcea2fe32d6e14653a5af0b85e2282b78",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-jalen-chatfield-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007643",
-    "conditionId": "0xc26012bbd729f45992bf8576467e0809c0f09a774648beaae32d2a5dc0117c3f",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-kandre-miller-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007644",
-    "conditionId": "0xad16ce78d9ecdabca8b5fa87be9bcdd418a8e2ec6f475aa20af271ea5069681b",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-shayne-gostisbehere-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007646",
-    "conditionId": "0x4deb475542e06784aeb5b01358d6a55cc94e5ce48d92a7be8cc38ea2c3ae419c",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-alexander-nikishin-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007647",
-    "conditionId": "0xe78d3532420b2b0339d5a046ec718ef70483c8a7b19990222319b60b2fd8663f",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
-  "will-frederik-andersen-win-the-2026-nhl-conn-smythe-trophy": {
-    "id": "2007648",
-    "conditionId": "0xd5d810a1ac6d546c461afaa434e2fe83c56d32c0a2705a30309f19481bbe5fa1",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nhl-2026-conn-smythe-trophy-winner",
-    "negRisk": true
-  },
   "bol1-pot-abb-2026-05-14-pot": {
     "id": "2007939",
     "conditionId": "0x2843714b4bdf848481c6f165b09a39bb24b5401967b296222d9ef66e5a3a5f14",
@@ -87170,36 +86591,6 @@
     "eventSlug": "bol1-abb-idp-2026-05-17",
     "negRisk": true
   },
-  "cs2-sta6-washed-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2026292",
-    "conditionId": "0x5ba60df05012861f8c8efbf5ca9a0c141f14134e226e37163f8e69b437f7f617",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sta6-washed-2026-04-20",
-    "negRisk": false
-  },
-  "cs2-sta6-washed-2026-04-20-game2-odd-even-total-kills": {
-    "id": "2026294",
-    "conditionId": "0x393612a43987333315e774d7fbcc621f56cc491712d80749b9197bbdc374c667",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sta6-washed-2026-04-20",
-    "negRisk": false
-  },
-  "cs2-sta6-washed-2026-04-20-game3-odd-even-total-kills": {
-    "id": "2026296",
-    "conditionId": "0x15d64a5fcba91181969eb2dd363433fe4bddede897dc0a1b358f72bc506fc7e9",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sta6-washed-2026-04-20",
-    "negRisk": false
-  },
   "lol-t1a-bro1-2026-04-25-game1-odd-even-total-kills": {
     "id": "2026870",
     "conditionId": "0x616af46e3225d5d4688a205ab3da67c9fb09e7b8d0f48076419efdf687a0c160",
@@ -87668,16 +87059,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-alw-2026-05-16-more-markets",
-    "negRisk": false
-  },
-  "lol-blg-ig1-2026-04-20-game2-kill-over-33pt5": {
-    "id": "2032737",
-    "conditionId": "0x4920f1dd5a368dc8c9364395314152e5b109b4e3f830b6102fe8af6386574c2b",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-blg-ig1-2026-04-20",
     "negRisk": false
   },
   "cs2-tlr-ge2-2026-04-20-game1-odd-even-total-kills": {
@@ -91229,26 +90610,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-str-ori-2026-05-17-more-markets",
-    "negRisk": false
-  },
-  "cs2-xi-eclips1-2026-04-22-game1-odd-even-total-kills": {
-    "id": "2043257",
-    "conditionId": "0x9a38d277399b9a23d348a07f967dae9e0fe33c71d613bf833c054cc590bbe371",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-xi-eclips1-2026-04-22",
-    "negRisk": false
-  },
-  "cs2-xi-eclips1-2026-04-22-game2-odd-even-total-kills": {
-    "id": "2043259",
-    "conditionId": "0x39932c66fbdbeef1f4fe59e8aa92f48ad0637df1bbc0cc39f4ada5f4c00243a3",
-    "endDate": "2026-04-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-xi-eclips1-2026-04-22",
     "negRisk": false
   },
   "cs2-psna-lph-2026-04-23-game1-odd-even-total-kills": {
@@ -97770,26 +97131,6 @@
     "eventSlug": "cs2-kajo-ksm-2026-04-26",
     "negRisk": false
   },
-  "cs2-waz-aabb-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2084456",
-    "conditionId": "0xb3139c134ea63fbc0c1a9612ceaadb3d54882080d6cb19e041c5434eddd30c4b",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-aabb-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-waz-aabb-2026-04-27-game2-odd-even-total-kills": {
-    "id": "2084458",
-    "conditionId": "0x2a1a3ed56d3d382c7ece67c83e772aeb9720086304e3ff95405bc2ec9d0a6d71",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-aabb-2026-04-27",
-    "negRisk": false
-  },
   "cs2-furiaf-mw-2026-04-28-game1": {
     "id": "2084941",
     "conditionId": "0x2973e7774486ea42266bfa0b97db4f1856b1ca2af7c8280ec3247fc7571af681",
@@ -98978,36 +98319,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-biga-rt1-2026-04-28",
-    "negRisk": false
-  },
-  "cs2-masq-820-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2094186",
-    "conditionId": "0xfd4188f92d31d84d0b5a8767a12ddc68ab299d7af105b74eafe8e963c52b1be2",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-masq-820-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-masq-820-2026-04-27-game2-odd-even-total-kills": {
-    "id": "2094188",
-    "conditionId": "0x871e5d344dd812eec49c122d5fb19852afe9b6c6deba2c1e0c56e60179de6eab",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-masq-820-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-masq-820-2026-04-27-game3-odd-even-total-kills": {
-    "id": "2094190",
-    "conditionId": "0x1373c8fe7b0c43fb78003f6e6479db2e307b75cfefe827dd7d615897cb98a148",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-masq-820-2026-04-27",
     "negRisk": false
   },
   "cs2-3dmaxa-np1-2026-04-27-game1-odd-even-total-kills": {
@@ -109511,86 +108822,6 @@
     "eventSlug": "cs2-mis-sta6-2026-05-06",
     "negRisk": false
   },
-  "lol-tsw-dfm-2026-05-05-game1-both-teams-slay-baron": {
-    "id": "2163468",
-    "conditionId": "0x07df120087b26745d65b4ef8cb005a207cb6acaa692cab3d1cc9fa146f566051",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game1-both-teams-slay-dragon": {
-    "id": "2163470",
-    "conditionId": "0xd9ab6f9f6702958b718ab7dc68762a76fa0fc70aac8c796f90bdfdfe646cff75",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game1-both-teams-destroy-inhibitors": {
-    "id": "2163472",
-    "conditionId": "0x2ce2bb948dbc008746162dbca03b3cd6b08df19ab2840b136475261e7111c094",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game1-any-player-quadra-kill": {
-    "id": "2163474",
-    "conditionId": "0xfbd95bfa15b429f7a83d27d60fd0986a5583c43248a83c81bfb4c9658a872868",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game1-any-player-penta-kill": {
-    "id": "2163475",
-    "conditionId": "0xef5a9717cebef8aea8c630f5cc61185a06383f8b7ae3edc14243631b6f73d9bb",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game1-odd-even-total-kills": {
-    "id": "2163476",
-    "conditionId": "0xd766e2b286d979c564afe11661a11f36ba860abcecc3d64767cb4f10b6c0cd3a",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game2-both-teams-slay-baron": {
-    "id": "2163478",
-    "conditionId": "0xf4928d34f3b703cbfa89af5e9f61fc17bfef31313b0a890e88644871c199ff01",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
-  "lol-tsw-dfm-2026-05-05-game2-both-teams-slay-dragon": {
-    "id": "2163479",
-    "conditionId": "0x0f5dba66986aaa539baa36c8151a5fceeb2186208db5ad6e92e3fbaf7e89472d",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tsw-dfm-2026-05-05",
-    "negRisk": false
-  },
   "lol-tsw-dfm-2026-05-05-game2-both-teams-destroy-inhibitors": {
     "id": "2163480",
     "conditionId": "0x752d5601efc5ce997f0c322d7d1c946aaec69cb4327e317013bf7ba4fdf9415d",
@@ -111744,186 +110975,6 @@
     "acceptingOrders": true,
     "eventSlug": "2026-nba-draft-5th-overall-pick",
     "negRisk": true
-  },
-  "lol-gz-cfo-2026-05-06-game1-both-teams-slay-baron": {
-    "id": "2168055",
-    "conditionId": "0x3b6946c9a325765f837a221b6028846394c9e7ad17008d790dcbed73d3d49806",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game1-both-teams-slay-dragon": {
-    "id": "2168057",
-    "conditionId": "0xc84ea282634a934d7e7e47e70572e18390e5d9d525ee50876ee46fae148851a3",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game1-both-teams-destroy-inhibitors": {
-    "id": "2168059",
-    "conditionId": "0x516fb65cd0dcfa85ae1530a0801ef1f640938ea91cc043616860552a33177827",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game1-any-player-quadra-kill": {
-    "id": "2168061",
-    "conditionId": "0x85099c6dd6bf3fe3a7ba4ae2c7d5a594841aca8d6b388bf417fec458cabc5184",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game1-any-player-penta-kill": {
-    "id": "2168063",
-    "conditionId": "0xd19df9cd13a5c10328d147bd981b478cd94b6e71def616ecf5f4f38fc90227e5",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game1-odd-even-total-kills": {
-    "id": "2168065",
-    "conditionId": "0xdad8d6ba3a29232ffe330e713acfdf2947078f6b154742fe2eae390b46e6472b",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game2-both-teams-slay-baron": {
-    "id": "2168067",
-    "conditionId": "0x5d90b359d867074fb4ae888b28c548e6ee884e4ed75d44f3e822c80036010959",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game2-both-teams-slay-dragon": {
-    "id": "2168069",
-    "conditionId": "0xab310c2cda388d2033d159ae9272adf4b0c70b0f899129a0dd6e782378e95b19",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game2-both-teams-destroy-inhibitors": {
-    "id": "2168071",
-    "conditionId": "0x622d26f3e56cb87dfbee2bc81b535b16d95a646eeb708b6976a14095d816efc2",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game2-any-player-quadra-kill": {
-    "id": "2168073",
-    "conditionId": "0xfab471c4ae774bca49195d059cdb5e9edc6bef9f6f18fe2ad0d131c7b1940418",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game2-any-player-penta-kill": {
-    "id": "2168075",
-    "conditionId": "0x6300e392ff57be7498310cdb0f9316dac0288bc0b43a2dc500e5e2a12a51229c",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game2-odd-even-total-kills": {
-    "id": "2168077",
-    "conditionId": "0x2fe0804932baf7604195ad15b9727a3b5c8889f5c1672ea2e47537b239b0f8d1",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game3-both-teams-slay-baron": {
-    "id": "2168078",
-    "conditionId": "0x1e9bfd905f95d5cdb0029cd7f446cd1cc41d1d4896299278d5356eff2635034b",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game3-both-teams-slay-dragon": {
-    "id": "2168079",
-    "conditionId": "0xbb1f1735facc5df1e9d062c595f646d29e9862568f10bcb78891c4021caad2eb",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game3-both-teams-destroy-inhibitors": {
-    "id": "2168080",
-    "conditionId": "0xa57d401f338d95d3f7c39e8f4312f3b25411c0279ca7c3da018d11c5a2993236",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game3-any-player-quadra-kill": {
-    "id": "2168082",
-    "conditionId": "0x20a29a36f46ba140d0b4a3ab542239a4b90bd88bcd30c7581d832c62144a888d",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game3-any-player-penta-kill": {
-    "id": "2168084",
-    "conditionId": "0x24c6245ebde1fdbd187238de8aa07b22704bf39a145617da4923b556ce0a1ceb",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
-  },
-  "lol-gz-cfo-2026-05-06-game3-odd-even-total-kills": {
-    "id": "2168086",
-    "conditionId": "0x5ad60092330b42826506df007579109848323d07f29aa750b828f142e9d430ff",
-    "endDate": "2026-05-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-gz-cfo-2026-05-06",
-    "negRisk": false
   },
   "mlb-aaron-judge-or-juan-soto-to-draw-more-walks": {
     "id": "2168308",
@@ -119633,5 +118684,955 @@
     "acceptingOrders": true,
     "eventSlug": "nba-2027-champion",
     "negRisk": true
+  },
+  "will-indiana-pacers-win-the-2027-nba-finals": {
+    "id": "2243303",
+    "conditionId": "0x874f82a92e635a08c1e38aaa8eecc946327dfa4a2a010afd2bed0ec33c65851b",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-miami-heat-win-the-2027-nba-finals": {
+    "id": "2243304",
+    "conditionId": "0x6bbbb7121686fcec37d4023c81314b13d9c6a0e2bfd056d51d304b7060232c86",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-milwaukee-bucks-win-the-2027-nba-finals": {
+    "id": "2243305",
+    "conditionId": "0xfcb0a4cd501480b1497850790b1dc734748f0996b069f82d915994d96c2b31b5",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-new-york-knicks-win-the-2027-nba-finals": {
+    "id": "2243306",
+    "conditionId": "0x9627e2834d3334df13c14242f6ea442317d9981d3a5e62d0248d832551ca9345",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-orlando-magic-win-the-2027-nba-finals": {
+    "id": "2243307",
+    "conditionId": "0xfbb36055840f0151f5d161f6c5cb90ff34641404c7dedf93605b53b7c0ffdd90",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-philadelphia-76ers-win-the-2027-nba-finals": {
+    "id": "2243308",
+    "conditionId": "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-toronto-raptors-win-the-2027-nba-finals": {
+    "id": "2243309",
+    "conditionId": "0xc15f6268265697ce7c8c25ace5f1105a5f839a627a2dc658a1ab6f8ec2143894",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-washington-wizards-win-the-2027-nba-finals": {
+    "id": "2243310",
+    "conditionId": "0x1f1a45e9596ebd01b786b964e63ba31ffbb0e875f3f27e32fadeee745084623d",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-dallas-mavericks-win-the-2027-nba-finals": {
+    "id": "2243311",
+    "conditionId": "0xb20eee80b51c16916269e073880317aa60cb5b258be0e4db0d8be7b1d8f1958f",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-denver-nuggets-win-the-2027-nba-finals": {
+    "id": "2243312",
+    "conditionId": "0x6f27ddb01fa63c7993ffa02611613ab2c1dcef7e7f9ecad74eb8ed6b5ac7a46d",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-golden-state-warriors-win-the-2027-nba-finals": {
+    "id": "2243313",
+    "conditionId": "0x0687236dace728be2aa72be8b802918f45de83e4ded7d0c3fa3fe9b83c83db74",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-houston-rockets-win-the-2027-nba-finals": {
+    "id": "2243314",
+    "conditionId": "0x6f5776ab6901d29473377a86020f6adf111f781e4d5a4da5b9c0bee64c0560da",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-los-angeles-clippers-win-the-2027-nba-finals": {
+    "id": "2243315",
+    "conditionId": "0x8d4aefae64a589bfcb59e677cbbb35b5dfd19e7d9788f4eb429cc74618d0da2b",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-los-angeles-lakers-win-the-2027-nba-finals": {
+    "id": "2243316",
+    "conditionId": "0xb266b012fdf96f54db41cefe2f4bf1c2ae0976487fdd49783bcc15dd0666d5b9",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-memphis-grizzlies-win-the-2027-nba-finals": {
+    "id": "2243317",
+    "conditionId": "0xde3fc0fd024453132e8fe12a3b21d2c165dbb05b9036ae41434a98134917ab5e",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-minnesota-timberwolves-win-the-2027-nba-finals": {
+    "id": "2243318",
+    "conditionId": "0x1bfd4649a214dd42da39ec04648a9ce698df744744c421656ef8f3a1bac6ec36",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-new-orleans-pelicans-win-the-2027-nba-finals": {
+    "id": "2243319",
+    "conditionId": "0x222084d0539e55927b8f2b22735017daecaa996b63645886caba07513061fc16",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-oklahoma-city-thunder-win-the-2027-nba-finals": {
+    "id": "2243320",
+    "conditionId": "0x422b44717de3606ba08c2e00503d29e8330583b00b0bed63f89772b9c384e41f",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-phoenix-suns-win-the-2027-nba-finals": {
+    "id": "2243321",
+    "conditionId": "0xbb5e8de7db7c5808440ac378f04b7e313e594d5dbbdbfda8a00fce597045cf8c",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-portland-trail-blazers-win-the-2027-nba-finals": {
+    "id": "2243322",
+    "conditionId": "0x92375f81cea40a342e5b0e5a1d05c69355678b90f7e8a8a6a6a4eaa43a3463fc",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-sacramento-kings-win-the-2027-nba-finals": {
+    "id": "2243323",
+    "conditionId": "0xc7b646d598e6e860a939b865056d91f27666f0d7b642b893d62016b32ea3881b",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-san-antonio-spurs-win-the-2027-nba-finals": {
+    "id": "2243324",
+    "conditionId": "0x9b9c693020bd625462107ea7963bacfefe73e678dd0e001c2d11388395a3cc2e",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-utah-jazz-win-the-2027-nba-finals": {
+    "id": "2243325",
+    "conditionId": "0x161f014d5eb25c2c233cdddd4ca6a82ce92b8ddebe520943e2a410d6fc3d8e7c",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-gukesh-dommaraju-win-the-2026-world-chess-championship": {
+    "id": "2243498",
+    "conditionId": "0xb8b5ba728577c752f2147f8a15a1710b39c70bafe5fa9536159725c7f09779c4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-world-chess-championship-winner",
+    "negRisk": true
+  },
+  "will-javokhir-sindarov-win-the-2026-world-chess-championship": {
+    "id": "2243499",
+    "conditionId": "0xf35f7e818e58b63a996f909956b0ea1ad5c6517653cb4e67ce735e3666443920",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-world-chess-championship-winner",
+    "negRisk": true
+  },
+  "trump-renames-ice-to-nice-by-december-31": {
+    "id": "2243625",
+    "conditionId": "0x660e5732754d03a62f717db5dbcdd65fca9866311da5d185f19f8ffb4bfa7f0b",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "trump-renames-ice-to-nice-by-june-30",
+    "negRisk": false
+  },
+  "google-x-spacex-agree-to-put-data-centers-in-space-by-june-30": {
+    "id": "2243681",
+    "conditionId": "0xe41fc5c46a3b67b89452aedb705165c594f0b9933e71c51ee417ade770099ed8",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "google-x-spacex-agree-to-put-data-centers-in-space-by-june-30",
+    "negRisk": false
+  },
+  "russia-x-ukraine-ceasefire-agreement-by-june-30-2026": {
+    "id": "2243895",
+    "conditionId": "0x60c6fe27d5b273f54fe30b4003c3b2553acd5f76220d9ea289343d536d6dd9ad",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-ceasefire-agreement-by",
+    "negRisk": false
+  },
+  "russia-x-ukraine-ceasefire-agreement-by-october-31-2026": {
+    "id": "2243896",
+    "conditionId": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-ceasefire-agreement-by",
+    "negRisk": false
+  },
+  "russia-x-ukraine-ceasefire-agreement-by-december-31-2026": {
+    "id": "2243897",
+    "conditionId": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-ceasefire-agreement-by",
+    "negRisk": false
+  },
+  "nba-1st-overall-pick-in-2026-draft-to-be-traded": {
+    "id": "2244061",
+    "conditionId": "0x2ecabd5bdc227351d63a449520d625afae7abe751f57618ea95fa072fb6d16f0",
+    "endDate": "2026-06-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-1st-overall-pick-in-2026-draft-to-be-traded",
+    "negRisk": false
+  },
+  "will-trump-announce-kyle-diamantas-as-the-next-fda-commissioner-by-december-31": {
+    "id": "2244062",
+    "conditionId": "0x872968b4627268c5f0addef4e5c2170fbeb45e427a732eab8a3a83b4ea447cc8",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-announce-as-next-fda-commissioner",
+    "negRisk": true
+  },
+  "will-trump-announce-stephen-hahn-as-the-next-fda-commissioner-by-december-31": {
+    "id": "2244063",
+    "conditionId": "0xaee771d6994fc3b0a7af2f9844a08f7677b9f764ff4938927145f5f3c13dcf7d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-announce-as-next-fda-commissioner",
+    "negRisk": true
+  },
+  "will-trump-announce-brett-giroir-as-the-next-fda-commissioner-by-december-31": {
+    "id": "2244064",
+    "conditionId": "0x2f33bf0c18e9ef013c4162e6a4b1e2c8af3ef357a8e201f928068b099d5ffb4d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-announce-as-next-fda-commissioner",
+    "negRisk": true
+  },
+  "will-trump-announce-grace-graham-as-the-next-fda-commissioner-by-december-31": {
+    "id": "2244065",
+    "conditionId": "0xb156a8c89f28f6fa19480a197d4bb25b14d81e9b24f1de24f13425e99a212832",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-announce-as-next-fda-commissioner",
+    "negRisk": true
+  },
+  "will-trump-announce-sara-brenner-as-the-next-fda-commissioner-by-december-31": {
+    "id": "2244066",
+    "conditionId": "0xc458539c327c77377f29cfcecd486eaaca4bc73772ada8b9b0a915b15fe5d1ae",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-announce-as-next-fda-commissioner",
+    "negRisk": true
+  },
+  "will-trump-make-no-announcement-for-the-next-fda-commissioner-by-december-31": {
+    "id": "2244067",
+    "conditionId": "0xeed9338326765b9b474f5df0db7c817b6f204bfc46f3bb55d4b0d6f753d5dbd7",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-trump-announce-as-next-fda-commissioner",
+    "negRisk": true
+  },
+  "will-hyperliquid-perform-an-airdrop-by-june-30-2027": {
+    "id": "2244109",
+    "conditionId": "0xd0e73ac0d00e8caf9cb7e74bcb024f94e57f34847f80ec2d4a0e3c57dbee7f19",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "hyperliquid-airdop-by",
+    "negRisk": false
+  },
+  "will-3jane-launch-a-token-by-june-30-2026": {
+    "id": "2244158",
+    "conditionId": "0x8a2b1673fb311db06e5e1108fbe06e34f91be0f01c0a68180aaea57ab6d3e3a2",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-3jane-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-3jane-launch-a-token-by-december-31-2026": {
+    "id": "2244160",
+    "conditionId": "0x3c3215d3e88710d0f2f62ba9458d29e1350fcd5608112d6b8791934b587d30db",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-3jane-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-3jane-launch-a-token-by-june-30-2027": {
+    "id": "2244162",
+    "conditionId": "0x79c6e0184906aa6a58e4395922f2a002e6feda7b3904555e082499622a6cb36b",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-3jane-launch-a-token-by",
+    "negRisk": false
+  },
+  "dota2-aur1-liquid-2026-05-13-game1-first-blood": {
+    "id": "2244221",
+    "conditionId": "0x21029216c54aea9074c569cc06c5d04eec1447b66aaea3af1aaa11639cb9fe3e",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-aur1-liquid-2026-05-13",
+    "negRisk": false
+  },
+  "3jane-fdv-above-40m-one-day-after-launch": {
+    "id": "2244241",
+    "conditionId": "0x8a3b7a50e4dd587861181f1949744b7fb17860fda8050983abdaf67c6c5110b7",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-80m-one-day-after-launch": {
+    "id": "2244242",
+    "conditionId": "0x219c54d9d66c531700a0d3581c546f5effa3a5cb99c90fe61b1f211bdc798ea0",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-100m-one-day-after-launch": {
+    "id": "2244243",
+    "conditionId": "0xacf8eb884f1c1a3c428b80d378b1046b97f3b78a6b3d0d16af780a16c65e611a",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-200m-one-day-after-launch": {
+    "id": "2244244",
+    "conditionId": "0x5ea9ed878a3dd7cae2c2c5089860f46b3c8d57d39e48a8819e18854b10e16caa",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-300m-one-day-after-launch": {
+    "id": "2244245",
+    "conditionId": "0xb66f3760a36cc0637c6baa4288135522883ebe4cb8df3fa77524da99b55c9b5f",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-grard-larcher-be-reelected-as-president-of-the-french-senate": {
+    "id": "2244269",
+    "conditionId": "0x568fb7c62edc46f5ed55af3dbc1c9d7a142a239719d1e7e90caab8fbdb65919d",
+    "endDate": "2026-09-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-grard-larcher-be-reelected-as-president-of-the-french-senate",
+    "negRisk": false
+  },
+  "city-protocol-fdv-above-50m-one-day-after-launch": {
+    "id": "2244277",
+    "conditionId": "0x4acbe2b3fe7eaebe7b4abb3d493a7dc7eff04b27d5a0d0b5ca3a249ee1401fbb",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "city-protocol-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "city-protocol-fdv-above-100m-one-day-after-launch": {
+    "id": "2244278",
+    "conditionId": "0x49de77fe27708e85668b5dab8467a61a934c51ffb520f4e0dc0c5ac5c933aebb",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "city-protocol-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "city-protocol-fdv-above-200m-one-day-after-launch": {
+    "id": "2244279",
+    "conditionId": "0x4aa9a9b551adf1044e9012851608b45e326906971d1f652a07faf7f01cf9cb14",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "city-protocol-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "city-protocol-fdv-above-350m-one-day-after-launch": {
+    "id": "2244280",
+    "conditionId": "0x209656500b444265197d5c261f71758f33834cd924c3e3b2b84c86bff2529767",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "city-protocol-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "city-protocol-fdv-above-500m-one-day-after-launch": {
+    "id": "2244281",
+    "conditionId": "0x626e6c7babb7727ecffd9b7d0aebc6cef7ce4ad531fdf8e3372550663117df67",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "city-protocol-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-afd-win-an-absolute-majority-of-seats-in-sachsen-anhalt": {
+    "id": "2244513",
+    "conditionId": "0x5187c6fefe08cf4513e08dd31a514b698aaebc18c259b9a98c8170cca2b7d6e8",
+    "endDate": "2026-09-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-afd-win-an-absolute-majority-of-seats-in-sachsen-anhalt",
+    "negRisk": false
+  },
+  "will-denis-beirovi-be-the-bosniak-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244571",
+    "conditionId": "0xebc5b3358c646e7c0398954e3e78f5cf2d733e713c663ac40800b37785763013",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-bosniak-president-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-semir-efendi-be-the-bosniak-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244572",
+    "conditionId": "0x1d574625cdeabb37452dad978ae59587ca7a004fe84d372b11f3197de2f3f1e8",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-bosniak-president-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-bakir-izetbegovi-be-the-bosniak-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244574",
+    "conditionId": "0x648232495a85b771c95b25799bb47c11810c11c8d0c56300d0ffbb50436bcc06",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-bosniak-president-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-darijana-filipovi-be-the-croat-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244712",
+    "conditionId": "0x0520a29011c556ff376fd6b20660a188cfa87a57cbd6741d8eeb953e07d39b20",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-croat-president-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-slaven-kovaevi-be-the-croat-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244713",
+    "conditionId": "0x7f100b8c32a32980883af631bec8dc97753cd3a7349eb1b3e17b34104ecb87c0",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-croat-president-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-zdenko-lui-be-the-croat-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244714",
+    "conditionId": "0xac14c71f1ad54bee6fb4cb8374cc0c1f86862444f7f9e62efa769d42ca010be5",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-croat-president-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "3jane-fdv-above-400m-one-day-after-launch": {
+    "id": "2244851",
+    "conditionId": "0xefa8d9a95073ab7049cb71c64942318f8b0f3a54085f241038240bf0d53c859b",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-500m-one-day-after-launch": {
+    "id": "2244852",
+    "conditionId": "0xfb197b87ee4a21434790d1c45163bd752a68d2fed59c7fe14e0c857a1c5b1b79",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-600m-one-day-after-launch": {
+    "id": "2244853",
+    "conditionId": "0x487e25eae2e28abb1626816addd95cac7b9dac695f409b43a496cda58c4e5ae9",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-800m-one-day-after-launch": {
+    "id": "2244854",
+    "conditionId": "0xfd1afa5cbc934d0616685185678802ca9bd414284e6d7209bbcb07e34776b411",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-1b-one-day-after-launch": {
+    "id": "2244855",
+    "conditionId": "0x186ae30b617dc999fc574270b648c809e890d56445578969b42d39adc3cbded3",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-1pt5b-one-day-after-launch": {
+    "id": "2244856",
+    "conditionId": "0x010da098cac1338c4b127499606144e686f5fe885bf8d7ce897bf40a8b212f77",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "3jane-fdv-above-2b-one-day-after-launch": {
+    "id": "2244857",
+    "conditionId": "0xbabc168efbdb77cf0237e40b1960816939c6217603e06d5aba9ec40490f35c06",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3jane-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-neboja-vukanovi-be-the-serb-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244859",
+    "conditionId": "0x5d146e8846f26247a92e79c3c3d7a8bc6b0495e16511978c8b15f69c28af6295",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-serb-presidency-member-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-eljka-cvijanovi-be-the-serb-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244860",
+    "conditionId": "0x518e0c0ad7e73956bbf3312e8017e3cabe5cb774ae86f5578eb39c3b38e09b11",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-serb-presidency-member-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-branko-blanua-be-the-serb-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244861",
+    "conditionId": "0xb6a88fee585e560ade9de53f4415572c2d0988cb66a7d2d379a92f1ae1c22c79",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-serb-presidency-member-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-drako-stanivukovi-be-the-serb-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244862",
+    "conditionId": "0x9e51e71a51935675578bc517b79a62e0fd42f81753eecc391c32611109fd312f",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-serb-presidency-member-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "will-sinia-karan-be-the-serb-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election": {
+    "id": "2244863",
+    "conditionId": "0x081605b578bfdc25e47f583425e2a73392caff6a72d384ec440910e9814d254a",
+    "endDate": "2026-10-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-serb-presidency-member-of-bosnia-and-herzegovina",
+    "negRisk": true
+  },
+  "city-protocol-fdv-above-20m-one-day-after-launch": {
+    "id": "2244891",
+    "conditionId": "0xd81d8f0ab6ec4cef78fc2e217c3f5cc1491c11cf1fa7a94db48d7e6e78dbd9c4",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "city-protocol-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-brown-forman-be-acquired-before-2027": {
+    "id": "2244932",
+    "conditionId": "0x26464981df1ebef81d247b2661051ac8c2e701386e22f8c17482039038e25201",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "which-companies-will-be-acquired-before-2027",
+    "negRisk": false
+  },
+  "arc-fdv-above-500m-one-day-after-launch": {
+    "id": "2244947",
+    "conditionId": "0x286b3fc97a7b2dfa5d5e0ee81fef4c5f5818b58cbb957f3edada978600c279a2",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-800m-one-day-after-launch": {
+    "id": "2244948",
+    "conditionId": "0xfef11593b543b9c76162bf2ed6514a83686d36f167e55501a5915cbd65150297",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-1b-one-day-after-launch": {
+    "id": "2244949",
+    "conditionId": "0x728e099f51fadd0c7f46cb7cff09eb85e0b74b43ede203a47b55e077f4ed6c25",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-2b-one-day-after-launch": {
+    "id": "2244950",
+    "conditionId": "0xf1f0014243f796793e218c438ddd682cd5ad6b4263a731011130ea6c4af09096",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-3b-one-day-after-launch": {
+    "id": "2244951",
+    "conditionId": "0xd6b72c133b640f7a2c600d1d41aadaa18f006d2b835509b170edfac9e9443837",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-4b-one-day-after-launch": {
+    "id": "2244952",
+    "conditionId": "0x08f14a4e0bce4ee1c77877d9db24d03401b66d07c1905fd660cb6dbb46fb00e1",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-5b-one-day-after-launch": {
+    "id": "2244953",
+    "conditionId": "0x7c123460eebb9f87a988db2260bc9f1971412694b729cfc4281d2d26739779cf",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-7b-one-day-after-launch": {
+    "id": "2244955",
+    "conditionId": "0x40b58ffad74d4574627026c0a537b098814385c8942bf89812f9804517346e5c",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-10b-one-day-after-launch": {
+    "id": "2244958",
+    "conditionId": "0x9d334caef30b1c95f743c7f444c293d4507022b8cc1f83c6809a5a862b46f54c",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "arc-fdv-above-20b-one-day-after-launch": {
+    "id": "2244960",
+    "conditionId": "0x2d37b35102d42f555d54a7a91239c7236279a89ace2d3df02cfe46f093cbb0ec",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "arc-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "will-arc-launch-a-token-by-june-30-2027": {
+    "id": "2245064",
+    "conditionId": "0xa0421ad099542a757d64c9a812536cc52d7a80a3270bca73c81f9a103db520a6",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-arc-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-arc-launch-a-token-by-december-31-2027": {
+    "id": "2245065",
+    "conditionId": "0xed7d2179f14f3ac58b41de0bf01d4c9683c900cb46d766bc82809c28b65b9ea8",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-arc-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-autodesk-q1-billings-be-above-2pt0b": {
+    "id": "2245120",
+    "conditionId": "0x13443eb9cad4c21b448008144ca21268fa3aa40355f0c6db7048157b7d9246a5",
+    "endDate": "2026-05-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-autodesk-q1-billings-be-above",
+    "negRisk": false
+  },
+  "xi-meets-with-lee-jae-myung-by-june-30": {
+    "id": "2245552",
+    "conditionId": "0x6024e07c94bc953792df2a4e1636a4c5b5aa44323211de59f6e1f113a6863769",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "xi-meets-with-lee-jae-myung-by",
+    "negRisk": false
+  },
+  "xi-meets-with-lee-jae-myung-by-december-31": {
+    "id": "2245553",
+    "conditionId": "0xe31b23b998922af1208213068ddd3f269c82b9aee0dff37441742a7ac1f133e0",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "xi-meets-with-lee-jae-myung-by",
+    "negRisk": false
+  },
+  "florentino-perez-out-as-real-madrid-president-by-december-31-2026": {
+    "id": "2245975",
+    "conditionId": "0x15f3839f5c907a939d287c6110ae2a9350c1360834210143d5cd7752f888b142",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "florentino-perez-out-as-real-madrid-president-by-december-31-2026",
+    "negRisk": false
+  },
+  "will-russia-capture-all-of-donetsk-oblast-by-december-31-2026": {
+    "id": "2246417",
+    "conditionId": "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-russia-capture-all-of-donetsk-oblast-by",
+    "negRisk": false
+  },
+  "highest-temperature-in-atlanta-on-may-15-2026-88-89f": {
+    "id": "2247194",
+    "conditionId": "0x967a3de0687015e26a63252fcb2359c402f9a130b94f11af6ed59dfedd886c53",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-atlanta-on-may-15-2026",
+    "negRisk": true
+  },
+  "cs2-mis-ff-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2249662",
+    "conditionId": "0xe5aaa5bad9b27ee61cf6b641abb54aa81c02769b00419df99c594244ec6737d9",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mis-ff-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-mis-ff-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2249664",
+    "conditionId": "0x25941fd373243220618941774955997deb9b14c1e202795306c33ca15b5a6504",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-mis-ff-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-co-auryb-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2249673",
+    "conditionId": "0xbe3732950cb5c3df3a32a57ed15148d3d22aa89addb80cb36cbf1161e4ebe654",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-co-auryb-2026-05-13",
+    "negRisk": false
   }
 }
