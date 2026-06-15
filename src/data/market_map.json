@@ -7030,16 +7030,6 @@
     "eventSlug": "which-countries-will-donald-trump-visit-in-2026",
     "negRisk": false
   },
-  "will-donald-trump-visit-france-in-2026": {
-    "id": "665267",
-    "conditionId": "0x7fc755ce8c4a2c13073dfdb3946c64fba5fec5f38470d5002f7e63583a66528b",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-countries-will-donald-trump-visit-in-2026",
-    "negRisk": false
-  },
   "will-donald-trump-visit-russia-in-2026": {
     "id": "665268",
     "conditionId": "0x40c2dd3dc9e6fb511e58e2a67141b66a97aa569e6b59c9b1f14f65e734c173d1",
@@ -75959,36 +75949,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-esp-cvi-2026-06-15-esp": {
-    "id": "1897070",
-    "conditionId": "0xa5501b4dc0c99c382b1c2871ad9141c7f58509a0f962f70a38bb6566ec570049",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-esp-cvi-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-esp-cvi-2026-06-15-draw": {
-    "id": "1897071",
-    "conditionId": "0xc34b198e91f197098da3f782c066328e199a6342e6798753de2bfa9ae568ae93",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-esp-cvi-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-esp-cvi-2026-06-15-cvi": {
-    "id": "1897072",
-    "conditionId": "0xf29e8ca118bc47e9d5d162191382c8700213730e6f5959d69b006c64e16685a8",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-esp-cvi-2026-06-15",
-    "negRisk": true
-  },
   "fifwc-bel-egy-2026-06-15-bel": {
     "id": "1897073",
     "conditionId": "0x3ceb5b631318be5000758200590efe2b308a581d6787c3e7bc050bfd8f627627",
@@ -111532,26 +111492,6 @@
     "eventSlug": "lol-shg-cfo-2026-05-07",
     "negRisk": false
   },
-  "lol-mvk-gz-2026-05-12-game1-both-teams-slay-baron": {
-    "id": "2175483",
-    "conditionId": "0x64b804fa34d476d9b5083472858d0359d0dcf97fdd616655a52b064628057f2f",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game1-both-teams-slay-dragon": {
-    "id": "2175484",
-    "conditionId": "0xf4a9cef922dccc156e064916ed9e31187da3ff57db4a755cee7d792d68457e94",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
   "lol-mvk-gz-2026-05-12-game1-both-teams-destroy-inhibitors": {
     "id": "2175485",
     "conditionId": "0xa319ebef8c5e98c42b4ba97960d4d161a6ce7b320ad7cfe6c0f3698b7cf3a2ea",
@@ -111585,66 +111525,6 @@
   "lol-mvk-gz-2026-05-12-game1-odd-even-total-kills": {
     "id": "2175488",
     "conditionId": "0x2f0984f4515b29243e947985ee92039ddf071239f5f8246484d6a5199a7bc314",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game2-both-teams-slay-baron": {
-    "id": "2175489",
-    "conditionId": "0x82ae0dea179d7da886f2e4ade8fdf9cfa003aa70614fff1a6fcdc216caae5674",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game2-both-teams-slay-dragon": {
-    "id": "2175490",
-    "conditionId": "0x4d4d91db868d9dcb9168bb0c39ee9fb29d71d263991ea165ae76ecd04fb2aeaa",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game2-both-teams-destroy-inhibitors": {
-    "id": "2175491",
-    "conditionId": "0x8bd3a0b4d80be5531fdfac68c353bef7b742988863a8f2201080b5c4771a49b6",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game2-any-player-quadra-kill": {
-    "id": "2175492",
-    "conditionId": "0xe11d755d373ba76cc22a41cfb5930f4c480d36f44b08fb9baf7ffb22eaa292d8",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game2-any-player-penta-kill": {
-    "id": "2175493",
-    "conditionId": "0xe5f8f62bb72df685133bcf8603c5879a96261183cd5e7475c47bdbdcabfc812a",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game2-odd-even-total-kills": {
-    "id": "2175494",
-    "conditionId": "0x014aacd6950c6c1f47ef10ea7266fce90e4bd1ae6a2d7e45e4dcaba66b70b572",
     "endDate": "2026-05-12",
     "closed": false,
     "active": true,
@@ -117261,36 +117141,6 @@
     "eventSlug": "cs2-hypew-saw2-2026-05-12",
     "negRisk": false
   },
-  "cs2-waz-eclips1-2026-05-11-game1-odd-even-total-kills": {
-    "id": "2224847",
-    "conditionId": "0x981a9831d92170c7f24925b98c954513be45bed27a7c95a3b31693212f9ff5d8",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-eclips1-2026-05-11",
-    "negRisk": false
-  },
-  "cs2-waz-eclips1-2026-05-11-game2-odd-even-total-kills": {
-    "id": "2224849",
-    "conditionId": "0xf6030284c34d19ccd672f6fcaf6f07c41a9b6c6e34bbcbafef18fed1a7ae84a6",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-eclips1-2026-05-11",
-    "negRisk": false
-  },
-  "cs2-waz-eclips1-2026-05-11-game3-odd-even-total-kills": {
-    "id": "2224851",
-    "conditionId": "0x2525e623a9dc1f93dc9ee1e6953bca72e65abf1fa4cb77bf0e986bb9d6cecf75",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-eclips1-2026-05-11",
-    "negRisk": false
-  },
   "cs2-inf6-forzer-2026-05-11-game1-odd-even-total-kills": {
     "id": "2225318",
     "conditionId": "0xee6d135529279f8da39df3c2a60772b14bc8ea207c2d6e64550453e8efd44651",
@@ -119640,5 +119490,155 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-ftur-vita-2026-05-15",
     "negRisk": false
+  },
+  "cs2-inf1-kinoa-2026-05-16-game1-odd-even-total-kills": {
+    "id": "2250344",
+    "conditionId": "0xad528016a4e9e51dbde7da9ddea61ebf99a80e69ae0c85dc59ce8486eb9b63b0",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-kinoa-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-inf1-kinoa-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2250346",
+    "conditionId": "0x6a17e53a3201c86a36cef1421e3bb3b91f5c8c782d277f8e57cc7548439209d6",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-kinoa-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-inf1-kinoa-2026-05-16-game3-odd-even-total-kills": {
+    "id": "2250348",
+    "conditionId": "0x92a816a5eb48fd41d7a3cc3ce3712fba4afdfd3e626454709b2e21da1e618d1e",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-kinoa-2026-05-16",
+    "negRisk": false
+  },
+  "will-gold-gc-hit-high-4800-by-end-of-june": {
+    "id": "2251146",
+    "conditionId": "0x175764b1ef610460ba525853ae675eaa0e3f8d0080b1af6b45891402560c0493",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "gc-hit-jun-2026",
+    "negRisk": false
+  },
+  "will-keir-starmer-be-a-candidate-in-the-next-labour-party-leadership-election": {
+    "id": "2252167",
+    "conditionId": "0xa9aebaf0db62416ddd70acd8eef6bf17902bc1d31746d9286a1b3c3e4fc612bb",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "candidates-in-next-labour-leadership-election",
+    "negRisk": false
+  },
+  "will-wes-streeting-be-a-candidate-in-the-next-labour-party-leadership-election": {
+    "id": "2252168",
+    "conditionId": "0x7aa20656cfaabda288e3d94c1db790f1a6e4ad0f7b277403df976f0d44cd1c94",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "candidates-in-next-labour-leadership-election",
+    "negRisk": false
+  },
+  "will-ed-miliband-be-a-candidate-in-the-next-labour-party-leadership-election": {
+    "id": "2252169",
+    "conditionId": "0xa802710a0ed100d04a9a7ac3c4431199efd5b2e61fd90cba0a34c6aa4d37a033",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "candidates-in-next-labour-leadership-election",
+    "negRisk": false
+  },
+  "will-angela-rayner-be-a-candidate-in-the-next-labour-party-leadership-election": {
+    "id": "2252170",
+    "conditionId": "0x82f70f48cc8608aee1f9daf75f842cb9b5438b72cde0d120736cbd3c180255ce",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "candidates-in-next-labour-leadership-election",
+    "negRisk": false
+  },
+  "will-al-carns-be-a-candidate-in-the-next-labour-party-leadership-election": {
+    "id": "2252171",
+    "conditionId": "0xb0d456314cbe5014da46ff5d3e98782e127b51c6486a39dc15d5e03cb6cbbab6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "candidates-in-next-labour-leadership-election",
+    "negRisk": false
+  },
+  "will-andy-burnham-be-a-candidate-in-the-next-labour-party-leadership-election": {
+    "id": "2252172",
+    "conditionId": "0xb9baf4d76ae15a66739def76768e1631ad57267e7f4cf3a046e985b75113efd1",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "candidates-in-next-labour-leadership-election",
+    "negRisk": false
+  },
+  "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863": {
+    "id": "2252242",
+    "conditionId": "0x5e464d85eb49f22d876f3ed6168a7db5e2288e9ae1eb91effd2758e994676f86",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decision-in-september-762",
+    "negRisk": true
+  },
+  "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586": {
+    "id": "2252243",
+    "conditionId": "0xac02cbb049e46d6a3627c0fdf52fa554982a9025d45968207b362acb6ca4b830",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decision-in-september-762",
+    "negRisk": true
+  },
+  "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615": {
+    "id": "2252244",
+    "conditionId": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decision-in-september-762",
+    "negRisk": true
+  },
+  "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649": {
+    "id": "2252245",
+    "conditionId": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decision-in-september-762",
+    "negRisk": true
+  },
+  "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664": {
+    "id": "2252246",
+    "conditionId": "0x2e4b58fc18dbffd74d5275d89fb076943f21992763c45dcadd81391b83bde13c",
+    "endDate": "2026-09-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fed-decision-in-september-762",
+    "negRisk": true
   }
 }
