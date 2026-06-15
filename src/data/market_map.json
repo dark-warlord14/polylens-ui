@@ -7220,16 +7220,6 @@
     "eventSlug": "how-many-gold-cards-will-trump-sell-in-2026",
     "negRisk": true
   },
-  "us-iran-nuclear-deal-before-2027": {
-    "id": "665325",
-    "conditionId": "0x182390641d3b1b47cc64274b9da290efd04221c586651ba190880713da6347d9",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-iran-nuclear-deal-before-2027",
-    "negRisk": false
-  },
   "will-the-us-recognize-palestine-before-2027": {
     "id": "665326",
     "conditionId": "0x0acc45f7c62722af4ad639a0e1b08dd324d83a1d728d20f3cdeefd39375aa7f3",
@@ -24094,106 +24084,6 @@
     "acceptingOrders": true,
     "eventSlug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
     "negRisk": false
-  },
-  "will-civil-contract-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942040",
-    "conditionId": "0xc18b1b9c7ffca0f781bce2fe53538bb5b752fd41ec4757c9047e1a097ccfff1c",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-armenia-alliance-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942041",
-    "conditionId": "0xca83131929f53bb417dfbd8e67aa8bc0c38d40303dbdfa97601b1cb7bd7232b0",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-i-have-honor-alliance-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942042",
-    "conditionId": "0x28a5449552f62f685ae27710d2e2b898b1c3d43ba4e1ffb3f1ecb8bad0536225",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-armenian-national-congress-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942043",
-    "conditionId": "0x08897a930d5dfd30e447cc2e85c3fc97651fea9255c4265cb4449cd01f208a17",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-hanrapetutyun-party-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942044",
-    "conditionId": "0x11aca562687d598f032031849898ece8e22e70dce58d1d45f93d333e14ce0a8f",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-heritage-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942045",
-    "conditionId": "0x39d9071db58e76a13f891dff84b74356a10c245047733566a842520cd26c6b25",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-orinats-yerkir-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942046",
-    "conditionId": "0x6f3c86b70dcc31d5c5f148b9638d3040d6725d9421a4d59670c8d53120af28de",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-prosperous-armenia-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942047",
-    "conditionId": "0xc1e6e7ddb5bc4119391c57f62bc3f2ed1fdf1d2b02cbba15df7782a988fe74b4",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-bright-armenia-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942048",
-    "conditionId": "0xf5b5255c6e5e96ac3cb2ed9e1a54754ed9f1d7c874a609e2b534b17378a447b7",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
-  },
-  "will-strong-armenia-win-the-most-seats-in-the-2026-armenian-national-assembly-election": {
-    "id": "942050",
-    "conditionId": "0x5847ca055bf898415cfa3c18720d17c3174f04297d0772be8516e59706565d60",
-    "endDate": "2026-06-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "armenia-parliamentary-election-winner",
-    "negRisk": true
   },
   "will-the-republican-party-win-the-az-01-house-seat": {
     "id": "942082",
@@ -76202,76 +76092,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-ger-kor-2026-06-14-ger": {
-    "id": "1897058",
-    "conditionId": "0x00cf3efc18a950cf442049aa0770903f0ab8606212499e0e4196bf74c102c456",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ger-kor-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-nld-jpn-2026-06-14-nld": {
-    "id": "1897061",
-    "conditionId": "0x2153377bdb8920a0d3227e9a2a68ddb9a001025918b695fe55f66677836e62c6",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nld-jpn-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-nld-jpn-2026-06-14-draw": {
-    "id": "1897062",
-    "conditionId": "0x6bb8b2483eccb8fcae84cd42fd7d8e5e394689e0a06f95b189a77b4819cf0173",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nld-jpn-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-nld-jpn-2026-06-14-jpn": {
-    "id": "1897063",
-    "conditionId": "0x51fc7cfdaee135d6d0bed053e5fcd3652954414d9b9f4eef5dce2e9ea717f161",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nld-jpn-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-civ-ecu-2026-06-14-civ": {
-    "id": "1897064",
-    "conditionId": "0x8f92746709a4fc82f4d454e162046ac3590e3a5a7564540806a6c5f8a87e6738",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-civ-ecu-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-civ-ecu-2026-06-14-draw": {
-    "id": "1897065",
-    "conditionId": "0xa6c938b3402538af5faa626dc882bd7995db132df1c4ea669db7841df3557678",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-civ-ecu-2026-06-14",
-    "negRisk": true
-  },
-  "fifwc-civ-ecu-2026-06-14-ecu": {
-    "id": "1897066",
-    "conditionId": "0x3150ba668d15e1c248c71bcff71c67f1adf87063db7047f27f15ebbc9a1a6a0d",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-civ-ecu-2026-06-14",
-    "negRisk": true
-  },
   "fifwc-swe-tun-2026-06-14-swe": {
     "id": "1897067",
     "conditionId": "0xc6f7e4a015ec643eb49c749da19553a2257add76278a252805a12dfa85103269",
@@ -78171,26 +77991,6 @@
     "acceptingOrders": true,
     "eventSlug": "pete-hegseth-impeached-by-june-30",
     "negRisk": false
-  },
-  "will-team-liquid-win-lcs-2026-spring": {
-    "id": "1901180",
-    "conditionId": "0x47605fddde0e97c8936cb2b0e63526f6ddd43ae5e99cdbe8a947b5bc26681aa1",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcs-2026-spring-winner",
-    "negRisk": true
-  },
-  "will-lyon-win-lcs-2026-spring": {
-    "id": "1901184",
-    "conditionId": "0xbb00c0a2febb661d1a216a8e83b5ac65a4d574ce90eb94a1bfbc3967eb3704ac",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-lcs-2026-spring-winner",
-    "negRisk": true
   },
   "will-t1-esports-academy-win-lck-cl-2026": {
     "id": "1901217",
@@ -87598,16 +87398,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-g2a-projec-2026-04-20",
-    "negRisk": false
-  },
-  "lol-blg-ig1-2026-04-20-game1-kill-over-43pt5": {
-    "id": "2032193",
-    "conditionId": "0x4129bdf4112cab8b27396ddae635440809c74187fdf8ececf63f884a58bc615d",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-blg-ig1-2026-04-20",
     "negRisk": false
   },
   "bol1-abb-idp-2026-05-17-spread-home-1pt5": {
@@ -98000,26 +97790,6 @@
     "eventSlug": "cs2-waz-aabb-2026-04-27",
     "negRisk": false
   },
-  "cs2-sashia-en2-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2084468",
-    "conditionId": "0x7c9990676daa7e067390ffcb7aef5ca340ce6e9ef5e891982d31d9ea317b1b27",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-en2-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-sashia-en2-2026-04-27-game2-odd-even-total-kills": {
-    "id": "2084470",
-    "conditionId": "0x42e20f8001757a0eb3a9e761f6121ba122b3dcfe2ac8485a5fa185921a3d70ae",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-en2-2026-04-27",
-    "negRisk": false
-  },
   "cs2-furiaf-mw-2026-04-28-game1": {
     "id": "2084941",
     "conditionId": "0x2973e7774486ea42266bfa0b97db4f1856b1ca2af7c8280ec3247fc7571af681",
@@ -107971,16 +107741,6 @@
     "eventSlug": "united-rugby-championship-winner",
     "negRisk": true
   },
-  "will-la-rochelle-win-the-2026-top-14-final": {
-    "id": "2134655",
-    "conditionId": "0x997f14572a5f0315e842aeb2e080c65c3d8d871ac97853482163ad449ccfef99",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "french-top-14-winner",
-    "negRisk": true
-  },
   "will-montpellier-win-the-2026-top-14-final": {
     "id": "2134657",
     "conditionId": "0xec72d75ca4418811475d37030723c086183686acd68e2387e29bdeca7a7f5b78",
@@ -108729,16 +108489,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "hantavirus-vaccine-in-2026",
-    "negRisk": false
-  },
-  "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-june-30-2026-159-962-959": {
-    "id": "2155023",
-    "conditionId": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by",
     "negRisk": false
   },
   "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587-341-574-555-817": {
@@ -119633,5 +119383,255 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-efa-inf6-2026-05-12",
     "negRisk": false
+  },
+  "cs2-oldboy-vpf2-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2238929",
+    "conditionId": "0x53340430cd6cd1444d75a9a21d4b7d82c4b7628cb44324e6ec59f7fe9a4ee58d",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-oldboy-vpf2-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-oldboy-vpf2-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2238931",
+    "conditionId": "0x3279c5b5cdc54b5f6b7a1b4d6ba63dc6f1fabe6d8243de102c568036d47b489c",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-oldboy-vpf2-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-inf1-np1-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2238954",
+    "conditionId": "0x36fc1f14859132ed1d20e47f441c3db46876afe96957a8b62cce68b11bcfbfce",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-np1-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-inf1-np1-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2238956",
+    "conditionId": "0x5db39766742de69d6e0e8068ac64c51acb8ac85c6aae5a3bada7a3e0ddb4a31f",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-np1-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-ff-don-2026-05-12-game1-odd-even-total-kills": {
+    "id": "2241539",
+    "conditionId": "0x3f6393c46c74bfa6c76f47f199e26200f8a88b3b1dbf258c57ab8c17263134d5",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-don-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-ff-don-2026-05-12-game2-odd-even-total-kills": {
+    "id": "2241543",
+    "conditionId": "0xccb5f407ac891b0b8a8e6cc9da4329723df910d67787f9a793e7563320a46b05",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-don-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-ff-don-2026-05-12-game3-odd-even-total-kills": {
+    "id": "2241545",
+    "conditionId": "0x5564a3d42665f2598161ed9dc7e93fb39cc455fdae09a289e3611c564090c32f",
+    "endDate": "2026-05-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ff-don-2026-05-12",
+    "negRisk": false
+  },
+  "cs2-ence-pre-2026-05-13-game1-odd-even-total-kills": {
+    "id": "2241586",
+    "conditionId": "0xc38bad5bd3b04cc461c178f7fd2f075c612bb697b2dc57156a224aef507fc1b3",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-pre-2026-05-13",
+    "negRisk": false
+  },
+  "cs2-ence-pre-2026-05-13-game2-odd-even-total-kills": {
+    "id": "2241588",
+    "conditionId": "0x80d5549ab4d45f5ab16cf2cc43e7ab6219fa623c1508910c717a541b3134656a",
+    "endDate": "2026-05-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ence-pre-2026-05-13",
+    "negRisk": false
+  },
+  "israel-closes-its-airspace-by-june-30-324-253-464-332-827-713-671-846": {
+    "id": "2241674",
+    "conditionId": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "israel-closes-its-airspace-by",
+    "negRisk": false
+  },
+  "lol-dk-t1-2026-05-25-game1-odd-even-total-kills": {
+    "id": "2241709",
+    "conditionId": "0xe7b4de13fc9a3578ef260892932e130cb62a9763a91994de429873ed274c883e",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dk-t1-2026-05-25",
+    "negRisk": false
+  },
+  "lol-dk-t1-2026-05-25-game2-odd-even-total-kills": {
+    "id": "2241715",
+    "conditionId": "0x1ad7ff95dbdc9b982bf6e3d3bc9d194926f0d83f20797fcc5eb070631d019b31",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dk-t1-2026-05-25",
+    "negRisk": false
+  },
+  "lol-dk-t1-2026-05-25-game3-odd-even-total-kills": {
+    "id": "2241721",
+    "conditionId": "0x8eeb4cf9d9367b899514f2ddb402eee5b1ccf81f218458d55e43cd6dc5e52efc",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dk-t1-2026-05-25",
+    "negRisk": false
+  },
+  "lol-dk-t1-2026-05-25-game4-odd-even-total-kills": {
+    "id": "2241727",
+    "conditionId": "0x295434af1001c71a1ac3c5b7e56e40e49d4aaafc8731a3f8d5230c8148b386af",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dk-t1-2026-05-25",
+    "negRisk": false
+  },
+  "will-inflation-reach-more-than-4pt5-in-2026": {
+    "id": "2241741",
+    "conditionId": "0xf4a457c3a455917897fd89aa7d1cea256a8b325eded3c05c7ff771c948fbeaad",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "how-high-will-inflation-get-in-2026",
+    "negRisk": false
+  },
+  "doj-releases-biden-ghostwriter-tapes-by-june-30": {
+    "id": "2241918",
+    "conditionId": "0x00d11e3f087ad8170990bf3d476ba1a9548692afee1a74108a6c2477ee93ecfc",
+    "endDate": "2026-07-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "doj-releases-biden-ghostwriter-tapes-by",
+    "negRisk": false
+  },
+  "will-the-federal-gas-tax-be-suspended-by-june-30-2026": {
+    "id": "2242347",
+    "conditionId": "0x0a28812eeb15d7f7d6c768c2cf51c719170c8d9ff4bcbbbce98f57b5d80d0f7d",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "federal-gas-tax-suspended-by",
+    "negRisk": false
+  },
+  "will-the-federal-gas-tax-be-suspended-by-november-2-2026": {
+    "id": "2242348",
+    "conditionId": "0x638d1796353e74b0c3761686f0e83e9c3330841e547663bab97902b31f7e2bd9",
+    "endDate": "2026-11-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "federal-gas-tax-suspended-by",
+    "negRisk": false
+  },
+  "will-atlanta-hawks-win-the-2027-nba-finals": {
+    "id": "2243296",
+    "conditionId": "0x6a9ac156f2eee27c3c36e94c88c7384ed4201f58f2c9d1686df3012cfb97f9cc",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-boston-celtics-win-the-2027-nba-finals": {
+    "id": "2243297",
+    "conditionId": "0x97c8704c244c5c6eb076f2212347dc0aefcf1250e513f6c8aafa170f5398172d",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-brooklyn-nets-win-the-2027-nba-finals": {
+    "id": "2243298",
+    "conditionId": "0xb56f8dfc3e5929cf15036f4b8ecd24c9bfafa80c90bf550d396e43a45af42aa8",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-charlotte-hornets-win-the-2027-nba-finals": {
+    "id": "2243299",
+    "conditionId": "0xc25fedfbfa990c6c577ee469b9c183d54944d6fad74af5b6abd13a76f0250a95",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-chicago-bulls-win-the-2027-nba-finals": {
+    "id": "2243300",
+    "conditionId": "0x4cdf253f75bb475e60c6188733fcf09efc13619462367c757b430dfb571cd4c2",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-cleveland-cavaliers-win-the-2027-nba-finals": {
+    "id": "2243301",
+    "conditionId": "0xce903be5404ef830b1f9c235c05ce5c4181d6d358913c730b0f39ce8237902cd",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
+  },
+  "will-detroit-pistons-win-the-2027-nba-finals": {
+    "id": "2243302",
+    "conditionId": "0xbfc40c01252d9c9677859e9649eec406cae93e7866eda1b48b3b4b29da16027e",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2027-champion",
+    "negRisk": true
   }
 }
