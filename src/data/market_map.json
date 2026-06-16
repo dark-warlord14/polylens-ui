@@ -68246,46 +68246,6 @@
     "eventSlug": "betmoar-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "lol-tt-lgd-2026-03-27-game1-any-player-quadra-kill": {
-    "id": "1730564",
-    "conditionId": "0x58bb224e14dba9f131b4aa491c61374e11c94c18d59b7e5ff7258467c4c3dc7f",
-    "endDate": "2026-03-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tt-lgd-2026-03-27",
-    "negRisk": false
-  },
-  "lol-tt-lgd-2026-03-27-game1-any-player-penta-kill": {
-    "id": "1730566",
-    "conditionId": "0xe1c6f2081458f1b0d6b19c561df1898d98d06bcec726df05b083b2899e075ebf",
-    "endDate": "2026-03-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tt-lgd-2026-03-27",
-    "negRisk": false
-  },
-  "lol-tt-lgd-2026-03-27-game2-any-player-quadra-kill": {
-    "id": "1730571",
-    "conditionId": "0x9f839abf1f826e158cf47f1e9c0732f1598868f7065858e20563f5ade74078d4",
-    "endDate": "2026-03-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tt-lgd-2026-03-27",
-    "negRisk": false
-  },
-  "lol-tt-lgd-2026-03-27-game2-any-player-penta-kill": {
-    "id": "1730572",
-    "conditionId": "0xb2f580dc35bcedaf4db9fd48d3875b75836848672d9f038304ccd3eb594ffab6",
-    "endDate": "2026-03-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tt-lgd-2026-03-27",
-    "negRisk": false
-  },
   "noble-fdv-above-50m-one-day-after-launch": {
     "id": "1731309",
     "conditionId": "0xc7c99a2c2612576067c6acba21925eb648dad7de4a814e941fd059841e192dd5",
@@ -75429,16 +75389,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-natus-vincere-win-iem-cologne-major-2026": {
-    "id": "1892306",
-    "conditionId": "0x810aabb183a1df47b151a7e6918bf7603c19889055a75d8eddf42f188c876a28",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-aurora-win-iem-cologne-major-2026": {
     "id": "1892308",
     "conditionId": "0x6b15d5333d423f97c006bd201efa1f083af29819daea189d55219fccb1a4b9ab",
@@ -75949,16 +75899,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-bel-egy-2026-06-15-bel": {
-    "id": "1897073",
-    "conditionId": "0x3ceb5b631318be5000758200590efe2b308a581d6787c3e7bc050bfd8f627627",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bel-egy-2026-06-15",
-    "negRisk": true
-  },
   "fifwc-bel-egy-2026-06-15-draw": {
     "id": "1897074",
     "conditionId": "0x36f93dcdb75e18f9dd7f4bd4f976dd901562e6f779a86c8ac847f154e37e69d2",
@@ -75967,76 +75907,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "fifwc-bel-egy-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-bel-egy-2026-06-15-egy": {
-    "id": "1897075",
-    "conditionId": "0x3f9bec31cf8e8550470626fbd15382e20a18e46af27358cad575a5ef5bf660de",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bel-egy-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-ksa-ury-2026-06-15-ksa": {
-    "id": "1897076",
-    "conditionId": "0xaec9b992e0d877c321c7789af5d6fb64ad5e339714fb1000e1e97bf14159ea1a",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ksa-ury-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-ksa-ury-2026-06-15-draw": {
-    "id": "1897077",
-    "conditionId": "0x344327632a0ab1c28b40003f14bfe75cb7d5bd65c58b4e34199cfc17a77104fe",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ksa-ury-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-ksa-ury-2026-06-15-ury": {
-    "id": "1897078",
-    "conditionId": "0xbc54d73527785bdc7b443cfdf3b0d59558c5ac2bbffca23425ecfbd161b07317",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ksa-ury-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-irn-nzl-2026-06-15-irn": {
-    "id": "1897079",
-    "conditionId": "0xe70fd51f42e61fc309d8e57019a7b76c8dc7bd19b473351d56ff1e125ae0d9d4",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-irn-nzl-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-irn-nzl-2026-06-15-draw": {
-    "id": "1897080",
-    "conditionId": "0xcd05a73f2ddf6c07340b4f1c6c853c4754b2f4428045fec1b295c192e399e563",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-irn-nzl-2026-06-15",
-    "negRisk": true
-  },
-  "fifwc-irn-nzl-2026-06-15-nzl": {
-    "id": "1897081",
-    "conditionId": "0x4d32282db59ec449edbc191b4b487b7f8218c07d6f94b0c01e2e7ddf6964c26d",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-irn-nzl-2026-06-15",
     "negRisk": true
   },
   "fifwc-fra-sen-2026-06-16-fra": {
@@ -80956,26 +80826,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-bw-su-2026-04-16",
-    "negRisk": false
-  },
-  "lol-blg-jdg-2026-04-14-game1-kill-over-31pt5": {
-    "id": "1967438",
-    "conditionId": "0xdbee7b26ca08945656b499d9b8e2fd919d1044534f5fcba9f4bda2308c2910a1",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-blg-jdg-2026-04-14",
-    "negRisk": false
-  },
-  "lol-blg-jdg-2026-04-14-game2-kill-over-35pt5": {
-    "id": "1967894",
-    "conditionId": "0x5b1782d101c1a5f375fef48d93a3f58eed63a69656b44ecb3bffbb7176e4ab3c",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-blg-jdg-2026-04-14",
     "negRisk": false
   },
   "will-apple-stop-selling-macbook-neo": {
@@ -93676,16 +93526,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "d4vd-released-from-custody-in-2026",
-    "negRisk": false
-  },
-  "will-iran-play-in-the-world-cup": {
-    "id": "2060869",
-    "conditionId": "0xcc6b2547a182b3d42db7b4c59c9879db11b9632ef0ac87a720770f5d263af9d7",
-    "endDate": "2026-08-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-iran-play-in-the-world-cup",
     "negRisk": false
   },
   "will-marine-le-pen-be-the-national-rallys-candidate-for-the-2027-french-presidential-election": {
@@ -106658,26 +106498,6 @@
     "eventSlug": "cs2-mibra-vexa-2026-05-01",
     "negRisk": false
   },
-  "cs2-sinqu-kajo-2026-05-03-game1-odd-even-total-kills": {
-    "id": "2131330",
-    "conditionId": "0x5ad015e462383d2fe66c1cb9eea5710721e55a6d02aee1b106e37914fecb3b7b",
-    "endDate": "2026-05-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sinqu-kajo-2026-05-03",
-    "negRisk": false
-  },
-  "cs2-sinqu-kajo-2026-05-03-game2-odd-even-total-kills": {
-    "id": "2131332",
-    "conditionId": "0xec1967a3a0553d54d8512adf6629da3e995bb7a6743020c603ed9a1b0b042362",
-    "endDate": "2026-05-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sinqu-kajo-2026-05-03",
-    "negRisk": false
-  },
   "cs2-ence-tmvg-2026-05-03-game1-odd-even-total-kills": {
     "id": "2131341",
     "conditionId": "0xd6baed56986a92c363e2c81cb8c6ae43d01ff2a3f3453faa1333cd9f1254cc29",
@@ -106696,26 +106516,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-ence-tmvg-2026-05-03",
-    "negRisk": false
-  },
-  "cs2-kajo-bojong-2026-05-03-game1-odd-even-total-kills": {
-    "id": "2131352",
-    "conditionId": "0x979623ff22cbb4338524c78d5cc5f1aaa683b18baa93cc69187b1cef15a12353",
-    "endDate": "2026-05-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-kajo-bojong-2026-05-03",
-    "negRisk": false
-  },
-  "cs2-kajo-bojong-2026-05-03-game2-odd-even-total-kills": {
-    "id": "2131354",
-    "conditionId": "0x3db83edf5d99d74e71c613adabea045d2fac14da00dca4d98d704c172ae41ca3",
-    "endDate": "2026-05-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-kajo-bojong-2026-05-03",
     "negRisk": false
   },
   "kbo-lot-kt-2026-05-07": {
@@ -108686,126 +108486,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-mis-sta6-2026-05-06",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game1-both-teams-slay-baron": {
-    "id": "2163497",
-    "conditionId": "0xac68c4b821bf4826ec1ce6a2cc6f931030fe1a7889a31012aba438957d57c851",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game1-both-teams-slay-dragon": {
-    "id": "2163498",
-    "conditionId": "0x7d11c28f8e5a25e8253d59e6955590e0305c30369af893e764a2fbca1bd9a9d4",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game1-both-teams-destroy-inhibitors": {
-    "id": "2163499",
-    "conditionId": "0x4b510e893a10d9fd11abec58cb64d3d7ab8cd9cf99890c4dbcc15a9fde53e1ed",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game1-any-player-quadra-kill": {
-    "id": "2163500",
-    "conditionId": "0x3f2f7fa0f8e09d51fbf1e65b50f52ef0a45679f450c1c375b1a3f21513f890c3",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game1-any-player-penta-kill": {
-    "id": "2163501",
-    "conditionId": "0x1252bee1fd1a6f7041eb13835d03856ae8230d408f08012d2962a99751ca0f66",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game1-odd-even-total-kills": {
-    "id": "2163502",
-    "conditionId": "0x52c5f1deaa5b468239610cc4e9b7e2627c63e3eeb5e17c102a400c02473b92be",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game2-both-teams-slay-baron": {
-    "id": "2163503",
-    "conditionId": "0x869a6bdc100a9c0acc06f6bb6e0da72da38b61c47aaed0c0cc05b0214d955295",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game2-both-teams-slay-dragon": {
-    "id": "2163504",
-    "conditionId": "0x6fbf425595bdca223df36132b5296c93974b8883a909d30fcbecd235ceb60260",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game2-both-teams-destroy-inhibitors": {
-    "id": "2163505",
-    "conditionId": "0xf204d61f62274c6040723c4da52f5ec3b9a31a30e4fc7af09ac5735ae07eff47",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game2-any-player-quadra-kill": {
-    "id": "2163506",
-    "conditionId": "0x7a85caf2f47188afd76496f4936db4af2ccc39ae5b9ece2b76992b4cc9ca5cbf",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game2-any-player-penta-kill": {
-    "id": "2163507",
-    "conditionId": "0x77ce3f7b92d03ad922faf0c3a42a4d539a508b49e3c9e3793cf5543898cdc527",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game2-odd-even-total-kills": {
-    "id": "2163508",
-    "conditionId": "0x183fa4c5b9b5018f4138f9d5bce8cbea4ab5b3ae1f3baad771e827ff5d506638",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
     "negRisk": false
   },
   "lol-dcg-gam-2026-05-05-game3-both-teams-slay-baron": {
@@ -119639,6 +119319,326 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "fed-decision-in-september-762",
+    "negRisk": true
+  },
+  "trump-meets-with-korean-leader-lee-jae-myung-by-june-30": {
+    "id": "2252261",
+    "conditionId": "0xf9425f18c93759ec5378b8ca06a0e7dd93949093ca15c442b452457d1d801c8b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "trump-meets-with-korean-leader-lee-jae-myung-by",
+    "negRisk": false
+  },
+  "trump-meets-with-korean-leader-lee-jae-myung-by-december-31": {
+    "id": "2252262",
+    "conditionId": "0xf7da64e591bcbf92377f1f677f7813138c0f50e6816bab04e1b810ae05df17ca",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "trump-meets-with-korean-leader-lee-jae-myung-by",
+    "negRisk": false
+  },
+  "tesla-and-spacex-merger-officially-announced-by-december-31": {
+    "id": "2252540",
+    "conditionId": "0x85647246dede70416c9c71ea851d87facf4b5efe58c685f4acc5ea94a9487c10",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tesla-and-spacex-merger-officially-announced-by-june-30",
+    "negRisk": false
+  },
+  "fda-approves-daraxonrasib-this-year": {
+    "id": "2253151",
+    "conditionId": "0xc98bbd47829f1ce2577a077122c6c2ad92f81c8a0121ff76d35228db8fe06fd9",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fda-approves-daraxonrasib-this-year",
+    "negRisk": false
+  },
+  "powerslap-1-aprovo-ablack-2026-05-15-go-the-distance": {
+    "id": "2253527",
+    "conditionId": "0x775e997c111c111db459eeed2e3c9ca694c4106ed684fb0f5b7167d773402991",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "powerslap-1-aprovo-ablack-2026-05-15",
+    "negRisk": false
+  },
+  "will-geralt-of-rivia-die-during-the-witcher-season-5": {
+    "id": "2253808",
+    "conditionId": "0xeeaf0eac683832934734936c323a6e048106d9bab4479178e2d70a69ca1e0cd8",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-yennefer-of-vengerberg-die-during-the-witcher-season-5": {
+    "id": "2253809",
+    "conditionId": "0xff537f8096e0c7cd45be806a52423b0b5d52791b11d314669ad0270db123f003",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-princess-cirilla-die-during-the-witcher-season-5": {
+    "id": "2253810",
+    "conditionId": "0x4c8160fc310ee8599cef846f175de959909d23ec37976948462a6ae1b3e881fa",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-jaskier-die-during-the-witcher-season-5": {
+    "id": "2253811",
+    "conditionId": "0xb68f25f6dce752d54cba62cb373480de8a69899d9f5f95f2d6344f910a3d9b0a",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-vilgefortz-die-during-the-witcher-season-5": {
+    "id": "2253812",
+    "conditionId": "0xba54d9a9008a5a3b796b88012785c1f1d4d44d64dc4e13ed06107113bd2ce61f",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-emhyr-die-during-the-witcher-season-5": {
+    "id": "2253813",
+    "conditionId": "0xd481c6fb741f7a88de609415ff1a9f1ecb93599f1d961aac60befe025a4d703d",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-milva-die-during-the-witcher-season-5": {
+    "id": "2253814",
+    "conditionId": "0xd20ebbc736f4d39dfeba1f39d2ea744f9cf3e23c6b4217bc6f7ec843a0aee294",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-cahir-die-during-the-witcher-season-5": {
+    "id": "2253815",
+    "conditionId": "0x6d6b248dce9e2cd201d34232c3ab1abeeab23cacd2619591d784486ad0f8b8cc",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-regis-die-during-the-witcher-season-5": {
+    "id": "2253816",
+    "conditionId": "0xedc6b53f963f867cecfc8ca24bb33cc47706b7459f112b9f690d84baf408e9d4",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "who-will-die-in-the-witcher-season-5",
+    "negRisk": false
+  },
+  "will-brennan-oneill-win-the-2026-pll-mvp-award": {
+    "id": "2253846",
+    "conditionId": "0x86712cd5bcc8058c1e787558eab07bd7d57f83f06434f99992f57473230e8754",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-jim-brown-most-valuable-player",
+    "negRisk": true
+  },
+  "will-connor-shellenberger-win-the-2026-pll-mvp-award": {
+    "id": "2253847",
+    "conditionId": "0xcacda5b0cac20ef6112915541fa77817c7e82fda07d68b6d28c5ae0bbc58c398",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-jim-brown-most-valuable-player",
+    "negRisk": true
+  },
+  "will-michael-sowers-win-the-2026-pll-mvp-award": {
+    "id": "2253848",
+    "conditionId": "0x84bad6c5f898f72d2051f014438c03642ad9a200a3b1e4d9453a05a400fd4407",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-jim-brown-most-valuable-player",
+    "negRisk": true
+  },
+  "will-andrew-mcadorey-win-the-2026-pll-mvp-award": {
+    "id": "2253849",
+    "conditionId": "0xb2442a8e1e50c2840bd7bf07ea4d0d76ddd24432ac303f64b78ffa441ec9a00e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-jim-brown-most-valuable-player",
+    "negRisk": true
+  },
+  "will-jeff-teat-win-the-2026-pll-mvp-award": {
+    "id": "2253850",
+    "conditionId": "0xcb7eac05db621bc45df23cc1c47f7e2d3df9e449c4a800355fba5df35556a50d",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-jim-brown-most-valuable-player",
+    "negRisk": true
+  },
+  "will-brennan-oneill-win-the-2026-pll-attackman-of-the-year": {
+    "id": "2253958",
+    "conditionId": "0x18e2e71cef095e6a219677a0df879f76abcf7da65e1c83d4aa8d6926499ff6b4",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-attackman-of-the-year",
+    "negRisk": true
+  },
+  "will-connor-shellenberger-win-the-2026-pll-attackman-of-the-year": {
+    "id": "2253959",
+    "conditionId": "0xbc27dd9a3e79e8c248ee9aa640121a46f2edae42af84213d2dde642b52f8f994",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-attackman-of-the-year",
+    "negRisk": true
+  },
+  "will-michael-sowers-win-the-2026-pll-attackman-of-the-year": {
+    "id": "2253960",
+    "conditionId": "0x5e97e65a13f63df5d21dbdfd1beefae9b1d7d027a1f05811d8fbf7e0827f188e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-attackman-of-the-year",
+    "negRisk": true
+  },
+  "will-tj-malone-win-the-2026-pll-attackman-of-the-year": {
+    "id": "2253961",
+    "conditionId": "0x482af385f64ddf8ecda9aacf337675c8fa7cf140d42bdd67ec7657e58859cb0e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-attackman-of-the-year",
+    "negRisk": true
+  },
+  "will-kieran-mcardle-win-the-2026-pll-attackman-of-the-year": {
+    "id": "2253962",
+    "conditionId": "0x2c16dbaad9dc796a64d9ff7657696dc737659997eccaa1b3e6d3cc949cce8755",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-attackman-of-the-year",
+    "negRisk": true
+  },
+  "will-zed-williams-win-the-2026-pll-attackman-of-the-year": {
+    "id": "2253963",
+    "conditionId": "0xa3592c552ae139390a1d39023e5f3cc0ffda55cc29134636aed0916ab2523a9a",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-attackman-of-the-year",
+    "negRisk": true
+  },
+  "will-matt-campbell-win-the-2026-pll-midfielder-of-the-year": {
+    "id": "2253995",
+    "conditionId": "0xd6ee8c6b730b03d6dc2fab1b97c4d2ecaadf4bf8f8af12cef0057e3491cc157d",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-gait-brothers-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-andrew-mcadorey-win-the-2026-pll-midfielder-of-the-year": {
+    "id": "2253996",
+    "conditionId": "0x43943706a8cdc8e49e35d17f4878d11cf4f49c116da74470113bbc10059959d7",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-gait-brothers-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-jared-bernhardt-win-the-2026-pll-midfielder-of-the-year": {
+    "id": "2253997",
+    "conditionId": "0x3e673330bde5d40d6d28a42485f211915a2a7d21fbee188969e8f412bb93c1cf",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-gait-brothers-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-bryan-costabile-win-the-2026-pll-midfielder-of-the-year": {
+    "id": "2253998",
+    "conditionId": "0x2423d640deef7334bd6e0777fa405b4c811040fa1ad7ee2cd37ec83f075ca6c9",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-gait-brothers-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-zach-currier-win-the-2026-pll-midfielder-of-the-year": {
+    "id": "2253999",
+    "conditionId": "0xdf4417af5a8824d4e4f40a907094caa49e6ec973a7e6dfc0b480c15223c95be1",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-gait-brothers-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-shane-knobloch-win-the-2026-pll-midfielder-of-the-year": {
+    "id": "2254000",
+    "conditionId": "0x1d77d12cbdc22024edc395ab815c4eb7d1e4e3ce6e85e92ffbc587a0db512706",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-gait-brothers-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-gavin-adler-win-the-2026-pll-defensive-player-of-the-year": {
+    "id": "2254046",
+    "conditionId": "0x1b34e5ff83feee865939b841897703e0114c872599c20163a0c50e53e9e6ba2b",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
     "negRisk": true
   }
 }
