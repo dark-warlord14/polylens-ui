@@ -74159,26 +74159,6 @@
     "eventSlug": "will-ground-beef-hit-in-2026",
     "negRisk": false
   },
-  "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote": {
-    "id": "1845700",
-    "conditionId": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "switzerlands-june-referendum-what-will-pass",
-    "negRisk": false
-  },
-  "will-the-referendum-on-the-civilian-service-act-be-approved-in-switzerlands-june-14-2026-popular-vote": {
-    "id": "1845701",
-    "conditionId": "0x64d46c7e4cf283ef84da138bc30accd319bf7bd856e8e26797dbe50d4e3a67eb",
-    "endDate": "2026-06-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "switzerlands-june-referendum-what-will-pass",
-    "negRisk": false
-  },
   "concrete-fdv-above-50m-one-day-after-launch": {
     "id": "1845911",
     "conditionId": "0xd15bc502b75f6724f60f91838d2e2dcb12392f904edab6dc9751298cef70bba2",
@@ -80716,16 +80696,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-    "negRisk": false
-  },
-  "will-cursor-be-acquired-before-2027-459": {
-    "id": "1972155",
-    "conditionId": "0x8c245b393de03e7e166113b31db74108cce54b386dbc6e4524d813b47db91c66",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-companies-will-be-acquired-before-2027",
     "negRisk": false
   },
   "will-the-bank-of-korea-decrease-the-base-rate-after-the-july-meeting": {
@@ -93568,26 +93538,6 @@
     "eventSlug": "will-xi-meet-with-takaichi-by",
     "negRisk": false
   },
-  "will-iceman-be-no1-for-3-weeks-239": {
-    "id": "2062966",
-    "conditionId": "0x78e2751b90f4a3e878242df8c26f7243782c5b7b01e3006c92c17874635b95bf",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-weeks-will-iceman-be-no1-on-the-billboard-200-866",
-    "negRisk": true
-  },
-  "will-iceman-be-no1-for-4-weeks-or-more-245": {
-    "id": "2062967",
-    "conditionId": "0x04e6c15f41c52efc6b9c003f96f23437b6ad5f0ca93407d467b49383cd20d2b9",
-    "endDate": "2026-07-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-weeks-will-iceman-be-no1-on-the-billboard-200-866",
-    "negRisk": true
-  },
   "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia": {
     "id": "2063128",
     "conditionId": "0x16d89dc6276b2c65dbaa6644600b4e1984257dac7c98e2348ccf9ccc8ce46e67",
@@ -95725,26 +95675,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-no-country-replace-iran-in-the-2026-fifa-world-cup": {
-    "id": "2071287",
-    "conditionId": "0x0e77b1ad3dc69c6fcdf5d68f2bf0871453684237f5509d3eb7bbba23a8e990a7",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-team-will-replace-iran-at-world-cup",
-    "negRisk": true
-  },
-  "will-another-country-replace-iran-in-the-2026-fifa-world-cup": {
-    "id": "2071288",
-    "conditionId": "0xce74e7469281bf9ecbd73d2798a445117e199dda9269b6d47e43628462e4040d",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-team-will-replace-iran-at-world-cup",
     "negRisk": true
   },
   "world-cup-unbeaten-champion": {
@@ -108138,26 +108068,6 @@
     "eventSlug": "cs2-sng-aab-2026-05-06",
     "negRisk": false
   },
-  "cs2-sinqu-boyban-2026-05-05-game1-odd-even-total-kills": {
-    "id": "2162912",
-    "conditionId": "0x52af2cf1c6376d150360621e87e6e779f7874459d69cdc1b36f85eaf1c58253e",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sinqu-boyban-2026-05-05",
-    "negRisk": false
-  },
-  "cs2-sinqu-boyban-2026-05-05-game2-odd-even-total-kills": {
-    "id": "2162914",
-    "conditionId": "0xa0b5d94d33b6dff426f31d9d37ffb994076c9558e0e1da6c355c1e0a567d21eb",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sinqu-boyban-2026-05-05",
-    "negRisk": false
-  },
   "cs2-kajo-tmvg-2026-05-05-game1-odd-even-total-kills": {
     "id": "2162924",
     "conditionId": "0x23b055556efe816b3a7667eadd89db266e15055ebc5a89263a86435747a94379",
@@ -110552,26 +110462,6 @@
     "eventSlug": "cs2-mana-kinoa-2026-05-09",
     "negRisk": false
   },
-  "cs2-ence-ksm-2026-05-10-game1-odd-even-total-kills": {
-    "id": "2173376",
-    "conditionId": "0x20b70b8f248b80165fda23ba84e73f36eb06e988cb91a7358a3c04812af3b6be",
-    "endDate": "2026-05-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-ksm-2026-05-10",
-    "negRisk": false
-  },
-  "cs2-ence-ksm-2026-05-10-game2-odd-even-total-kills": {
-    "id": "2173378",
-    "conditionId": "0xb91ba1a0b6eae634bda26cd01a23da0e8daea304ed786da72608259403a247d3",
-    "endDate": "2026-05-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-ksm-2026-05-10",
-    "negRisk": false
-  },
   "cs2-sinqu-ksm-2026-05-10-game1-odd-even-total-kills": {
     "id": "2173398",
     "conditionId": "0xe847f32c94117e0b504cfccfe884b1a3913f449c02c6970da87a9a6707a73d76",
@@ -110700,126 +110590,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-9daplu-alkaa-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game2-both-teams-slay-baron": {
-    "id": "2175443",
-    "conditionId": "0x937fd014a3ba401c19e145c7b69cf179ba0e9a066e5b6bb60ccaf26975ca29e0",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game2-both-teams-slay-dragon": {
-    "id": "2175444",
-    "conditionId": "0x3571e9f7c354304e21ebd6d6df6d7e49c7cad50d00657384bcd5104fb0fb64b2",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game2-both-teams-destroy-inhibitors": {
-    "id": "2175445",
-    "conditionId": "0x1ac647736ae52ac986ac6d83372cd70cb0a40c91c7e8271d5c873c444bce3462",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game2-any-player-quadra-kill": {
-    "id": "2175446",
-    "conditionId": "0x8e557b3677129fabfdc969de4113ec5e352923a0219f03a5b7e29b321e49b29f",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game2-any-player-penta-kill": {
-    "id": "2175447",
-    "conditionId": "0x800f58047cc1743a97876e18fb657b09f986f444d41dfa63e7644d5552a03b0f",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game2-odd-even-total-kills": {
-    "id": "2175448",
-    "conditionId": "0x911ffa48e694f0da6af4da51e0f79b461c0a8d6b4d47e93790281415b3b0bd58",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game3-both-teams-slay-baron": {
-    "id": "2175449",
-    "conditionId": "0xa505ab446ac7c410b7d6274f96f4cc3922aa295ada62e8b266ee21eca832ce0f",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game3-both-teams-slay-dragon": {
-    "id": "2175450",
-    "conditionId": "0x15bd889fd67ffb03aaf9471e428cd10f2b2ae173a6e533646f5a2d91d23fa93c",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game3-both-teams-destroy-inhibitors": {
-    "id": "2175451",
-    "conditionId": "0x61030ff50532a06459297af5f941453a8efaabcc15c248775a94d652b0bdd9d1",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game3-any-player-quadra-kill": {
-    "id": "2175452",
-    "conditionId": "0xe6bc6aab01dca61fa83e1b121f0cb98fb3ce438be8695c13ac9115fab4e83134",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game3-any-player-penta-kill": {
-    "id": "2175453",
-    "conditionId": "0xe6c3e8778a69123266a2f17cb1ce78fdf3556a43a30e69c6e89addbb56208bea",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game3-odd-even-total-kills": {
-    "id": "2175454",
-    "conditionId": "0xc996744a83138ddeec332309bb15c1674566867422b7c48b4ee4d7e3a5c2c421",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
     "negRisk": false
   },
   "lol-mvk-gz-2026-05-12-game1-both-teams-destroy-inhibitors": {
@@ -119640,5 +119410,235 @@
     "acceptingOrders": true,
     "eventSlug": "premier-league-lacrosse-2026-champion",
     "negRisk": true
+  },
+  "will-maryland-whipsnakes-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255467",
+    "conditionId": "0x774420b2a5f30ab59e460112cf842b856ad5deb1fcab2d3cb8bafc165c5f5758",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "will-new-york-atlas-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255468",
+    "conditionId": "0x4aaa3693fc38b6d176be0f6d5fb3e2344ca4ab91a7326c86dca47e8366f01cb0",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "will-philadelphia-waterdogs-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255469",
+    "conditionId": "0xb68e7f4d06af5092a7bf80bd2f926f752c45adfdb7c37f557f49f3ec4c705aad",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "will-utah-archers-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255470",
+    "conditionId": "0x22a973466fec73d95941cc160638e7f3533507ea65736a59e1045645b5801482",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "nba-will-anthony-davis-be-traded-by-next-season": {
+    "id": "2255849",
+    "conditionId": "0xf7c1bad44b5b32f2a28a9b78c7d5bb465156581e89a16072ef943007633513ba",
+    "endDate": "2026-10-23",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-will-anthony-davis-be-traded-by-next-season",
+    "negRisk": false
+  },
+  "ai-data-center-in-space-by-december-31-2026": {
+    "id": "2255929",
+    "conditionId": "0x69d3a675bea6deac6d9fff88d7c8f243c0f09ae38e1a24e01b9b487abca4b762",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ai-data-center-in-space-by",
+    "negRisk": false
+  },
+  "ai-data-center-in-space-by-december-31-2027": {
+    "id": "2255930",
+    "conditionId": "0xc255e435d74caa1c3a45abafdabe4c4ec4f27b77ec454240c2beb5e5d9ef1f67",
+    "endDate": "2027-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ai-data-center-in-space-by",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-14-game3-both-teams-slay-baron": {
+    "id": "2256097",
+    "conditionId": "0x5beae14db530dfc21b0cc8983ed41eb355a1160002ebf9c88885f7ff35effc01",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-14",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-14-game3-both-teams-slay-dragon": {
+    "id": "2256098",
+    "conditionId": "0x595cf35ccd7b2f765308ec7bbfd35913dacd02e97f5b6e0a858c139e1a826b46",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-14",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-14-game3-both-teams-destroy-inhibitors": {
+    "id": "2256099",
+    "conditionId": "0xb267a23906974807303f8b81a56125f96d38aa95c68fe75cd06b9c2d92e40869",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-14",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-14-game3-any-player-quadra-kill": {
+    "id": "2256100",
+    "conditionId": "0xb1897940a3d0fa9bf1e028a4e6e280ec2292a06b95a84dc99e2e89635a4cab2e",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-14",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-14-game3-any-player-penta-kill": {
+    "id": "2256101",
+    "conditionId": "0xfc7b12194f4bfb93f7515e9b9c4958f668ca36e108f93c5db073ac29a3c4b655",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-14",
+    "negRisk": false
+  },
+  "lol-dcg-gam-2026-05-14-game3-odd-even-total-kills": {
+    "id": "2256102",
+    "conditionId": "0x20e097685a51891bf047c150a204fffdba6e11b80c5135340b18f8a2d284c2a9",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dcg-gam-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-oldboy-psna-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2257792",
+    "conditionId": "0xd298038ee17bc10ee7c3f3781a91fd3826f8da668983a1ceab025ea0894b5f63",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-oldboy-psna-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-oldboy-psna-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2257794",
+    "conditionId": "0x7166430ffe1dbfd12c4381488059d7f88b47b65e7fcb48ad8bc8e51fdc4e21e1",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-oldboy-psna-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-forzer-hec-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2258623",
+    "conditionId": "0x1100e7d53118e26458de73eb2d230d0381935305ea7371deefc258edd05a675c",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-hec-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-forzer-hec-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2258627",
+    "conditionId": "0x52a03aa4e882a0b0304bec0bc38a022488df8689311652921662252530e8fa70",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-hec-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-forzer-hec-2026-05-14-game3-odd-even-total-kills": {
+    "id": "2258631",
+    "conditionId": "0x21d0341dae4f1822b08c7e43acb36e0aeb88250a3e58c395a545e22180b2c417",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-forzer-hec-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-clutch-vpf2-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2258646",
+    "conditionId": "0xe263da6e63716140da264956339cb997ce78ac22b966ef9f58cd1c610f29f92d",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-vpf2-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-clutch-vpf2-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2258648",
+    "conditionId": "0xc265ae795c8f74340156e52e7d03fb7e91b81b9ca381f065a1d2ef486ad41758",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-vpf2-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-efa-np1-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2258657",
+    "conditionId": "0x54bb910ee637e69539b222346233622a0cd5a1c93ecc3ec89b5dffc57bbe4ecc",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-np1-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-efa-np1-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2258659",
+    "conditionId": "0xbc9e46644b557c7d4bd9792ab4ba76f3da3e530f41ba255f945feb1d84192665",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-efa-np1-2026-05-14",
+    "negRisk": false
+  },
+  "kbo-nc-doo-2026-05-20": {
+    "id": "2260256",
+    "conditionId": "0xccbb9b961dbe295adfedb8d15dd763f4697ec5f782ec0adbe2d9fd6ed0ba40cb",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-nc-doo-2026-05-20",
+    "negRisk": false
   }
 }
