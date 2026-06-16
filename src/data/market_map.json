@@ -9849,36 +9849,6 @@
     "eventSlug": "gdp-growth-in-2026",
     "negRisk": true
   },
-  "will-hakeem-jeffries-win-the-2026-new-york-8th-district-democratic-primary": {
-    "id": "677197",
-    "conditionId": "0x885af440160b32c882027f0ed610b6a9b311262a6a0518fa9529a050f078fad2",
-    "endDate": "2026-11-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-8-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-vance-bostic-win-the-2026-new-york-8th-district-democratic-primary": {
-    "id": "677198",
-    "conditionId": "0xa3f664300e2d8db84ab5dffcb4391bdc5cd3828c3900b61aaa7c5aed8b8e68af",
-    "endDate": "2026-11-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-8-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-chi-oss-win-the-2026-new-york-8th-district-democratic-primary": {
-    "id": "677199",
-    "conditionId": "0x545ce460563d360ed5fd36e87c995682b02d4d882ff590d3a1f72d7ed7792c8b",
-    "endDate": "2026-11-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-8-democratic-primary-winner",
-    "negRisk": true
-  },
   "will-half-life-3-be-announced-before-2027": {
     "id": "677218",
     "conditionId": "0x8af1519f0b6704eaa52ac0890275b011fbca31729bf93fd956899a2c7ea410c0",
@@ -60162,86 +60132,6 @@
     "eventSlug": "bank-of-england-rate-hike-in-2026",
     "negRisk": false
   },
-  "will-mike-thompson-advance-from-the-ca-04-primary-election": {
-    "id": "1447712",
-    "conditionId": "0x1972da460e8d3b6654e96ab3374003367af411c97244e25f981d1f67547c56e7",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-sharon-brown-advance-from-the-ca-04-primary-election": {
-    "id": "1447713",
-    "conditionId": "0x6655c73c7951254b4be7c32fdfde2a7a16f1f0f7f340f7bc1023ac37b3613f95",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-heath-fulkerson-advance-from-the-ca-04-primary-election": {
-    "id": "1447714",
-    "conditionId": "0xed129861c6e573b1b5bbe1817b16bf5ea047630ef14bdb7ac6994252281cfe38",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-mandy-ghusar-advance-from-the-ca-04-primary-election": {
-    "id": "1447715",
-    "conditionId": "0x08aad24a81ab0bea6a608d5a0f3900386c02555562a09cd39a78072b2c41146b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-eric-jones-advance-from-the-ca-04-primary-election": {
-    "id": "1447716",
-    "conditionId": "0x37e9fa09e605b87c7854ea2ae50c1f63b90f686f969a56cda41d519aa4f2d099",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-laurie-mackenzie-advance-from-the-ca-04-primary-election": {
-    "id": "1447717",
-    "conditionId": "0xa3547b73ba1e2d690d1073d3d215175534d557d542f20a3ff18e6cb9cdc5d9aa",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-trevor-merrell-advance-from-the-ca-04-primary-election": {
-    "id": "1447718",
-    "conditionId": "0x05371808e5c89d903911b9b3709c562e39e8cb0c842892278ef6e318225d0577",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
-  "will-john-wesley-tyler-advance-from-the-ca-04-primary-election": {
-    "id": "1447719",
-    "conditionId": "0x4e611acac5b5a79e40c5424ba2c40bed6cb4365f48536005ee58742ecf08f0b6",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ca-04-primary-winners",
-    "negRisk": false
-  },
   "will-john-larson-be-the-democratic-nominee-for-ct-01": {
     "id": "1447729",
     "conditionId": "0x5ffc4b0998e7e63eecf817ac89a9ee4b4c1276452b5e7d4a628ad6b9d0f026b9",
@@ -65798,46 +65688,6 @@
     "eventSlug": "bank-of-england-decision-in-june-221",
     "negRisk": true
   },
-  "bank-of-japan-decreases-interest-rates-after-the-june-2026-meeting": {
-    "id": "1654189",
-    "conditionId": "0xba7ce27f7204f5813d992cd3d71c72cc8138268041b2a80d52109f0a13b77a4f",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-japan-decision-in-june",
-    "negRisk": true
-  },
-  "no-change-in-bank-of-japans-interest-rates-after-the-june-2026-meeting": {
-    "id": "1654192",
-    "conditionId": "0xe2fc1b6f5e644f939e090c42c309a498db86fb3bc20c02f05021ab42f1567de7",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-japan-decision-in-june",
-    "negRisk": true
-  },
-  "bank-of-japan-increases-interest-rates-by-25-bps-after-the-june-2026-meeting": {
-    "id": "1654195",
-    "conditionId": "0xb3237c597bd198f2e5af2d9c2597c71cdda3ab88649a410a917798b3eec8cff4",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-japan-decision-in-june",
-    "negRisk": true
-  },
-  "bank-of-japan-increases-interest-rates-by-50-bps-after-the-june-2026-meeting": {
-    "id": "1654196",
-    "conditionId": "0xd175952df3f4312096d408a699c922af54d31b17b8d22afb35e8f09016053de9",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-japan-decision-in-june",
-    "negRisk": true
-  },
   "cs2-unity-g2a-2026-03-21-game1-odd-even-total-kills": {
     "id": "1654293",
     "conditionId": "0x13d4dd80e89ac228374b30e36c115013dbd8d5eade93398463c57f02456243da",
@@ -65887,36 +65737,6 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-sta6-b8acad-2026-03-21",
     "negRisk": false
-  },
-  "will-the-reserve-bank-of-australia-decrease-the-target-for-the-cash-rate-after-the-june-meeting": {
-    "id": "1654716",
-    "conditionId": "0xb803406ccafae5640ca20d7dd14d594343899dfb011b267897ee211c517e4aee",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reserve-bank-of-australia-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-reserve-bank-of-australia-make-no-change-to-the-target-for-the-cash-rate-after-the-june-meeting": {
-    "id": "1654717",
-    "conditionId": "0x8644f95a4ddf30f4428f7250e2a9ea3a9d3b2b52942e2116c61bc8c5bca2555a",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reserve-bank-of-australia-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-reserve-bank-of-australia-increase-the-target-for-the-cash-rate-after-the-june-meeting": {
-    "id": "1654718",
-    "conditionId": "0xd4719b9909ddfd1c2b1bac37d800e4cedbca38fcc36272030f70176cb4b23c1e",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "reserve-bank-of-australia-decision-in-june",
-    "negRisk": true
   },
   "will-the-bank-of-russia-decrease-the-key-rate-after-the-june-meeting": {
     "id": "1654931",
@@ -70790,16 +70610,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "fuse-energy-fdv-above-one-day-after-launch-774",
-    "negRisk": false
-  },
-  "lol-blg-jdg-2026-04-14-game3-any-player-quadra-kill": {
-    "id": "1810999",
-    "conditionId": "0x4ba4567f65e1c02354246f99155d1ab519ca25205d91bd45838da48b6425b7c4",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-blg-jdg-2026-04-14",
     "negRisk": false
   },
   "will-a-new-country-join-the-abraham-accords-by-june-30": {
@@ -75898,16 +75708,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-bel-egy-2026-06-15-draw": {
-    "id": "1897074",
-    "conditionId": "0x36f93dcdb75e18f9dd7f4bd4f976dd901562e6f779a86c8ac847f154e37e69d2",
-    "endDate": "2026-06-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bel-egy-2026-06-15",
-    "negRisk": true
   },
   "fifwc-fra-sen-2026-06-16-fra": {
     "id": "1897082",
@@ -95927,26 +95727,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-italy-replace-iran-in-the-2026-fifa-world-cup-298": {
-    "id": "2071285",
-    "conditionId": "0x69d02de291243190dc83c79bf52d38b3bd62d96c04646918d3faa24059b450fa",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-team-will-replace-iran-at-world-cup",
-    "negRisk": true
-  },
-  "will-uae-replace-iran-in-the-2026-fifa-world-cup-822": {
-    "id": "2071286",
-    "conditionId": "0x5b3622a357683cac6e331f6777a1b4954c73ef4f6cd870af751cd86985592893",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-team-will-replace-iran-at-world-cup",
-    "negRisk": true
-  },
   "will-no-country-replace-iran-in-the-2026-fifa-world-cup": {
     "id": "2071287",
     "conditionId": "0x0e77b1ad3dc69c6fcdf5d68f2bf0871453684237f5509d3eb7bbba23a8e990a7",
@@ -95960,16 +95740,6 @@
   "will-another-country-replace-iran-in-the-2026-fifa-world-cup": {
     "id": "2071288",
     "conditionId": "0xce74e7469281bf9ecbd73d2798a445117e199dda9269b6d47e43628462e4040d",
-    "endDate": "2026-08-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-team-will-replace-iran-at-world-cup",
-    "negRisk": true
-  },
-  "will-bolivia-replace-iran-in-the-2026-fifa-world-cup-579": {
-    "id": "2071289",
-    "conditionId": "0xd57732b457f10aaa8fb07b15da41c50ded7abb0d0080e5f74c47e171090086bf",
     "endDate": "2026-08-31",
     "closed": false,
     "active": true,
@@ -108488,66 +108258,6 @@
     "eventSlug": "cs2-mis-sta6-2026-05-06",
     "negRisk": false
   },
-  "lol-dcg-gam-2026-05-05-game3-both-teams-slay-baron": {
-    "id": "2163509",
-    "conditionId": "0xa3c4b73de26e567e1581ea6308d8f7acdf35cda451685cc12f2a94f68c5334e2",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game3-both-teams-slay-dragon": {
-    "id": "2163510",
-    "conditionId": "0x6a75a17125ee6697fa0f54e5941bd200c29572e559978114abce65f38f859184",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game3-both-teams-destroy-inhibitors": {
-    "id": "2163511",
-    "conditionId": "0x9657e09cfae2fed2e7b2e4938827cc788c33048712c9355e6b0e9e60dfec2512",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game3-any-player-quadra-kill": {
-    "id": "2163512",
-    "conditionId": "0xf8629c23b4cf9d4e7985e16dfa718c2644135d10d76a053ed273510e0d246911",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game3-any-player-penta-kill": {
-    "id": "2163513",
-    "conditionId": "0xf188ff5747bf12625560c657e5bbb3220348ba1f04e4c939076f23309f45b90f",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-05-game3-odd-even-total-kills": {
-    "id": "2163514",
-    "conditionId": "0x9cabab182a98f78b80d8f681e08301755cd7adb033a14ea4eb99fb6ee1f2b357",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-05",
-    "negRisk": false
-  },
   "cs2-alkaa-quin-2026-05-05-game1-odd-even-total-kills": {
     "id": "2163558",
     "conditionId": "0xd27a92be143e834d5d451ef49ee436434fa381b93213110315b2f5e39ab1cb22",
@@ -110990,66 +110700,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-9daplu-alkaa-2026-05-06",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game1-both-teams-slay-baron": {
-    "id": "2175437",
-    "conditionId": "0xeee143b24ca1bb32e5fdb935f271e814aae02ec045ad260a111cbfaa548c14e3",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game1-both-teams-slay-dragon": {
-    "id": "2175438",
-    "conditionId": "0x8c1e31b11cd3b50d45eacf4cff71360a92c3bff055b1030b6c8e7e922c79cfe1",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game1-both-teams-destroy-inhibitors": {
-    "id": "2175439",
-    "conditionId": "0xb629fff2635a6c84c01267a658d422dc1ebe57d591778ade2012e525aa45b063",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game1-any-player-quadra-kill": {
-    "id": "2175440",
-    "conditionId": "0xded7fcc381ac196b6c86c4ced0bdd09cb323e1480a98ecfa3f44a88a2bdc4c28",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game1-any-player-penta-kill": {
-    "id": "2175441",
-    "conditionId": "0x21820b0c46e4e5b435c35a9697e9b27177f2724b522a6207ae7db01dfd205374",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
-    "negRisk": false
-  },
-  "lol-shg-cfo-2026-05-07-game1-odd-even-total-kills": {
-    "id": "2175442",
-    "conditionId": "0x454ab3172a5cdd58a73e1898d9b1a9b099232829691cec8566fb8665a2191445",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-shg-cfo-2026-05-07",
     "negRisk": false
   },
   "lol-shg-cfo-2026-05-07-game2-both-teams-slay-baron": {
@@ -119639,6 +119289,356 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
+    "negRisk": true
+  },
+  "will-matt-dunn-win-the-2026-pll-defensive-player-of-the-year": {
+    "id": "2254047",
+    "conditionId": "0x43e7607124b561bf63ece0888b55a440826e0908a413be2c84d7fdbd9610a898",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
+    "negRisk": true
+  },
+  "will-jt-giles-harris-win-the-2026-pll-defensive-player-of-the-year": {
+    "id": "2254048",
+    "conditionId": "0x3e193144502a12772780cf617dc9a3eef0b22dfab7b045a9687abadcf063b6c2",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
+    "negRisk": true
+  },
+  "will-kenny-brower-win-the-2026-pll-defensive-player-of-the-year": {
+    "id": "2254049",
+    "conditionId": "0x8535dd5871bf55693f2a0c27be0bb6ea511582261cf501aa14bb38c2730ec875",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
+    "negRisk": true
+  },
+  "will-ben-randall-win-the-2026-pll-defensive-player-of-the-year": {
+    "id": "2254050",
+    "conditionId": "0x9a450eba3de0bcf6e78c982c4e59ac11f29a3072adbd829fa9649b4f07b91814",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
+    "negRisk": true
+  },
+  "will-aj-mercurio-win-the-2026-pll-defensive-player-of-the-year": {
+    "id": "2254051",
+    "conditionId": "0x271be535b26fcb029913048b6a68dc1a534d9907c0a79133815d35ad43aeca42",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dave-pietramala-defensive-player-of-the-year",
+    "negRisk": true
+  },
+  "will-logan-mcnaney-win-the-2026-pll-goalie-of-the-year": {
+    "id": "2254103",
+    "conditionId": "0x87c1c6fb86e87234da3688fd2c715d8cc512956a94ac641b86d2d623f6abac12",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-oren-lyons-goalie-of-the-year",
+    "negRisk": true
+  },
+  "will-dillon-ward-win-the-2026-pll-goalie-of-the-year": {
+    "id": "2254104",
+    "conditionId": "0x5eafb9dd2a6d093a10ecfad2963aa797451392c80829ed65c497fab46ea5b6b4",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-oren-lyons-goalie-of-the-year",
+    "negRisk": true
+  },
+  "will-matt-deluca-win-the-2026-pll-goalie-of-the-year": {
+    "id": "2254105",
+    "conditionId": "0xb3ce1a1c87ba4a2692e66e07850ed8d17000900cc6e3971ddcc99d32009ea58e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-oren-lyons-goalie-of-the-year",
+    "negRisk": true
+  },
+  "will-emmet-carroll-win-the-2026-pll-goalie-of-the-year": {
+    "id": "2254106",
+    "conditionId": "0xf5282388683afd8609fe0ddfccf3ae87f1e7aff26ca8cae981ac15a3981850db",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-oren-lyons-goalie-of-the-year",
+    "negRisk": true
+  },
+  "will-td-ierlan-win-the-2026-pll-face-off-player-of-the-year": {
+    "id": "2254158",
+    "conditionId": "0x3f294d49a96bc64d63151ef358d6281de86efea789d592c7ae590103040363e8",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-paul-cantabene-face-off-player-of-the-year",
+    "negRisk": true
+  },
+  "will-petey-lasalla-win-the-2026-pll-face-off-player-of-the-year": {
+    "id": "2254161",
+    "conditionId": "0x3f252a7cd19f5ed5709f0f49f98483af2567ef087657d7cb7ff830b3d4c3837b",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-paul-cantabene-face-off-player-of-the-year",
+    "negRisk": true
+  },
+  "will-connor-farrell-win-the-2026-pll-face-off-player-of-the-year": {
+    "id": "2254163",
+    "conditionId": "0xe1f8205a0dcb31ddb3419ef0ef07fe6c711d427097eb04932db8a5f404e6db9d",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-paul-cantabene-face-off-player-of-the-year",
+    "negRisk": true
+  },
+  "will-jake-piseno-win-the-2026-pll-long-stick-midfielder-of-the-year": {
+    "id": "2254552",
+    "conditionId": "0xf44421937b163ac10d6c79b7a3de2ecb05a769722a77a6016ebc2b726a35164f",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-brodie-merrill-long-stick-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-tyler-carpenter-win-the-2026-pll-long-stick-midfielder-of-the-year": {
+    "id": "2254554",
+    "conditionId": "0xd5a34ce370f3ddd58301ef38bfca2a3b509ab1974aec0c10ea34b6a4adc47592",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-brodie-merrill-long-stick-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-troy-reh-win-the-2026-pll-long-stick-midfielder-of-the-year": {
+    "id": "2254556",
+    "conditionId": "0xf6fb5414d4285f35094596b52fbb441efb7f693d97b7e4b3b47093da51bae2d0",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-brodie-merrill-long-stick-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-mason-woodward-win-the-2026-pll-long-stick-midfielder-of-the-year": {
+    "id": "2254559",
+    "conditionId": "0x37af9ab876772da85636f4e849e78c7bd12103fe037b090d748bd8f5a5dc2688",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-brodie-merrill-long-stick-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-colin-squires-win-the-2026-pll-long-stick-midfielder-of-the-year": {
+    "id": "2254562",
+    "conditionId": "0x44c3c54f5b849e6e44cf52ceb2578cd7a39fc0cf8f167e48f019f78d28d63957",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-brodie-merrill-long-stick-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-ethan-rall-win-the-2026-pll-long-stick-midfielder-of-the-year": {
+    "id": "2254564",
+    "conditionId": "0x8cedb12044bcba139f8f3914ac6733fc46ce95e832c8ec8dffba9072d2558f2a",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-brodie-merrill-long-stick-midfielder-of-the-year",
+    "negRisk": true
+  },
+  "will-ryan-terefenko-win-the-2026-pll-hard-hat-award-ssdm": {
+    "id": "2255171",
+    "conditionId": "0x32688cf035a539c1c4037e733f59f265b66e20c1543ccb811ba675cbdc35777a",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-george-boiardi-hard-hat-winner",
+    "negRisk": true
+  },
+  "will-brian-tevlin-win-the-2026-pll-hard-hat-award-ssdm": {
+    "id": "2255172",
+    "conditionId": "0x3aecda63106572eddc72537c4b02a1f89679a71c05526c83c7cae6a995523b42",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-george-boiardi-hard-hat-winner",
+    "negRisk": true
+  },
+  "will-dylan-hess-win-the-2026-pll-hard-hat-award-ssdm": {
+    "id": "2255173",
+    "conditionId": "0x69b8a2b2fb4ef12cd10a5c3b8ffc90a179ebf92281ecfc69a244af191e950c6d",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-george-boiardi-hard-hat-winner",
+    "negRisk": true
+  },
+  "will-matt-whitcher-win-the-2026-pll-hard-hat-award-ssdm": {
+    "id": "2255174",
+    "conditionId": "0x5e709b16c0a731a7a2fae944a40359f38d6fda40415a2f5e57ea4b3d509fdfb7",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-george-boiardi-hard-hat-winner",
+    "negRisk": true
+  },
+  "will-aidan-maguire-win-the-2026-pll-hard-hat-award-ssdm": {
+    "id": "2255175",
+    "conditionId": "0x56a24f6fbfc9379406d9b315b0b22681610f989944f43e8fa9833b1d66da42a3",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-george-boiardi-hard-hat-winner",
+    "negRisk": true
+  },
+  "will-tim-soudan-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255306",
+    "conditionId": "0x833e5ab22c6df3b506149d87de910cf4e3dced9454321aca462fc84e4b721188",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-jim-stagnitta-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255307",
+    "conditionId": "0xae0031626377c59a831c5f49ad75b17b26aaaa77c7f5e2960c1f31cb4ce9ee41",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-steven-brooks-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255308",
+    "conditionId": "0x73e90722fe7b8bd172af70058a98e99e49e985767a2ec6abbc3722f04f18e054",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-anthony-kelly-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255309",
+    "conditionId": "0xc128d7b6c40d209b631327efec91c483824a6adb09d8414e0199ed272f484007",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-mike-pressler-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255310",
+    "conditionId": "0xfc5ce8a6a0e0ebc6569a30ccbdc7ea30c55d256e085d061ba952bc8f8b752dda",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-bill-tierney-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255311",
+    "conditionId": "0x97c7581e3fce0be4a3936cace220fd48a1260a35a9ae66866d8504ad1e1ab644",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-chris-bates-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255312",
+    "conditionId": "0x9646f3291bd173172836caf5801593fd2d7041925879e26cc03f5e590314f695",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-brian-holman-win-the-2026-pll-coach-of-the-year": {
+    "id": "2255313",
+    "conditionId": "0xc718fd77933cfbd52dfd9bfac8b18abe5861b034551585becb22a57741dc9d1b",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-dick-edell-coach-of-the-year",
+    "negRisk": true
+  },
+  "will-boston-cannons-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255463",
+    "conditionId": "0x9df383f67a61c1db47842b16affdba86a076415bf8c6e89be54f191adfa9eb68",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "will-california-redwoods-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255464",
+    "conditionId": "0x48821b679beac56e476a0ab3e0721fc7aae6553758a662fbd71c1acd63a9e022",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "will-carolina-chaos-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255465",
+    "conditionId": "0x72a6699d49ab0f907bfd161ff5639764fc17f2573c8ce439e6bd3cdd209446cd",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
+    "negRisk": true
+  },
+  "will-denver-outlaws-be-named-the-2026-premier-league-lacrosse-champion": {
+    "id": "2255466",
+    "conditionId": "0x4eca160e0f3e1dc26b041a24101585213e91564b7ab1c3580f8ca7c98443c013",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "premier-league-lacrosse-2026-champion",
     "negRisk": true
   }
 }
