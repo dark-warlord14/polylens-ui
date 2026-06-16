@@ -70772,16 +70772,6 @@
     "eventSlug": "who-will-announce-presidential-run-before-2027",
     "negRisk": false
   },
-  "lol-tts1-eko-2026-04-01-game1-odd-even-total-kills": {
-    "id": "1816228",
-    "conditionId": "0xb73d6493e86f00c704764f397301acf77573bba8345642974643085fe1ddc475",
-    "endDate": "2026-04-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tts1-eko-2026-04-01",
-    "negRisk": false
-  },
   "will-max-verstappen-retire-from-f1-in-2026": {
     "id": "1817973",
     "conditionId": "0x679befe49e2c8f3d827e0633abd0c9f12a5c664ab8c3d3226d3fa41693c9bde0",
@@ -75688,36 +75678,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-fra-sen-2026-06-16-fra": {
-    "id": "1897082",
-    "conditionId": "0x04b6d6630d49e6513355ff045c96439c929335cb0d18da7792dea6c2fc717ead",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-fra-sen-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-fra-sen-2026-06-16-draw": {
-    "id": "1897083",
-    "conditionId": "0xbd175757f12ecc85b7aae7f1f35c8637e350227dd2967abd6e1373e245c51f49",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-fra-sen-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-fra-sen-2026-06-16-sen": {
-    "id": "1897084",
-    "conditionId": "0xc5c075c77d2b8a98606097f5e42c3e907a66debf4a4058131dc0160235fa8fed",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-fra-sen-2026-06-16",
-    "negRisk": true
   },
   "fifwc-irq-nor-2026-06-16-irq": {
     "id": "1897085",
@@ -92186,16 +92146,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "wnba-team-to-make-postseason",
-    "negRisk": false
-  },
-  "will-spacex-acquire-cursor-by-december-31-2026-675": {
-    "id": "2047984",
-    "conditionId": "0xc2dd20bc42378191ba1e6068f2afa8b2a6c13881a42ee03e211441f0a2f3aeac",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-spacex-acquire-cursor",
     "negRisk": false
   },
   "cs2-inf1-drama-2026-04-22-game1-odd-even-total-kills": {
@@ -119481,66 +119431,6 @@
     "eventSlug": "ai-data-center-in-space-by",
     "negRisk": false
   },
-  "lol-dcg-gam-2026-05-14-game3-both-teams-slay-baron": {
-    "id": "2256097",
-    "conditionId": "0x5beae14db530dfc21b0cc8983ed41eb355a1160002ebf9c88885f7ff35effc01",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-14",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-14-game3-both-teams-slay-dragon": {
-    "id": "2256098",
-    "conditionId": "0x595cf35ccd7b2f765308ec7bbfd35913dacd02e97f5b6e0a858c139e1a826b46",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-14",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-14-game3-both-teams-destroy-inhibitors": {
-    "id": "2256099",
-    "conditionId": "0xb267a23906974807303f8b81a56125f96d38aa95c68fe75cd06b9c2d92e40869",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-14",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-14-game3-any-player-quadra-kill": {
-    "id": "2256100",
-    "conditionId": "0xb1897940a3d0fa9bf1e028a4e6e280ec2292a06b95a84dc99e2e89635a4cab2e",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-14",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-14-game3-any-player-penta-kill": {
-    "id": "2256101",
-    "conditionId": "0xfc7b12194f4bfb93f7515e9b9c4958f668ca36e108f93c5db073ac29a3c4b655",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-14",
-    "negRisk": false
-  },
-  "lol-dcg-gam-2026-05-14-game3-odd-even-total-kills": {
-    "id": "2256102",
-    "conditionId": "0x20e097685a51891bf047c150a204fffdba6e11b80c5135340b18f8a2d284c2a9",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dcg-gam-2026-05-14",
-    "negRisk": false
-  },
   "cs2-oldboy-psna-2026-05-14-game1-odd-even-total-kills": {
     "id": "2257792",
     "conditionId": "0xd298038ee17bc10ee7c3f3781a91fd3826f8da668983a1ceab025ea0894b5f63",
@@ -119640,5 +119530,115 @@
     "acceptingOrders": true,
     "eventSlug": "kbo-nc-doo-2026-05-20",
     "negRisk": false
+  },
+  "kbo-kt-sam-2026-05-20": {
+    "id": "2260257",
+    "conditionId": "0x97954cb222b1b873fb98e88bce8f9f9544dd45c253ea99474ab4a2d1bd4a42b9",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-kt-sam-2026-05-20",
+    "negRisk": false
+  },
+  "kbo-lg-kia-2026-05-20": {
+    "id": "2260258",
+    "conditionId": "0xf0ae667d3e820614c232e1b707512237d00b76c1b91df545b2b1b48dedbd55f0",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-lg-kia-2026-05-20",
+    "negRisk": false
+  },
+  "kbo-lot-han-2026-05-20": {
+    "id": "2260260",
+    "conditionId": "0xaaa2068b74959a09aa19f9271bcc3a05288f11e8c0494c5f3a82a5f3f31cf1f2",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-lot-han-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-co-mis-2026-05-14-game1-odd-even-total-kills": {
+    "id": "2260909",
+    "conditionId": "0xa32df0fa48a018d1b17f3e5b4096240fc651aaa9f1793f0ffdd6113a32b77c35",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-co-mis-2026-05-14",
+    "negRisk": false
+  },
+  "cs2-co-mis-2026-05-14-game2-odd-even-total-kills": {
+    "id": "2260911",
+    "conditionId": "0x4831e07622355df84ec69058c27cf8dc12ab80b0f6461287657ee6dd167316ee",
+    "endDate": "2026-05-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-co-mis-2026-05-14",
+    "negRisk": false
+  },
+  "ukraine-election-called-by-december-31-2026": {
+    "id": "2261102",
+    "conditionId": "0xfaa78bad74daeb6e5296ae5785df7805275d00e84c81dc37954446132595caed",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ukraine-election-called-in-2025",
+    "negRisk": false
+  },
+  "andy-burnham-becomes-an-mp-by-june-30": {
+    "id": "2261135",
+    "conditionId": "0x36c602dc7d805c2d1fc931724693fe512f43110414a0cd455a7d8173d8e5546e",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "andy-burnham-becomes-an-mp-by-june-30",
+    "negRisk": false
+  },
+  "pll-red-atl-2026-06-05": {
+    "id": "2261464",
+    "conditionId": "0x4512c8a47b5ffc7863ddd2fc19e519c969b23098d2463d7868f8b08a06bb324d",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-red-atl-2026-06-05",
+    "negRisk": false
+  },
+  "sud-cara-bot-2026-05-27-exact-score-0-0": {
+    "id": "2261654",
+    "conditionId": "0x842481c7941207dd17f15e707013fecfe5b06b6be146f8a102a55c3c1a717ce0",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-0-1": {
+    "id": "2261655",
+    "conditionId": "0x94a18ad0b5bf6fd17a63c9d875afd83e008f0a784e2c153a19eece7367c83df8",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-1-0": {
+    "id": "2261656",
+    "conditionId": "0xd789ab9860ff61469ef1cd0411f4f0357e2aa5e888eedeb8d42858684d44002d",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
   }
 }
