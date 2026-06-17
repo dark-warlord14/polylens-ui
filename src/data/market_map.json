@@ -21325,56 +21325,6 @@
     "eventSlug": "south-carolina-governor-republican-primary-winner-784",
     "negRisk": true
   },
-  "will-the-fed-decrease-interest-rates-by-50-bps-after-the-june-2026-meeting": {
-    "id": "906972",
-    "conditionId": "0x4e4a7df876b0c04f0b8b29b9073eddfbaf5c787192da825ae7ca1031bc8cfd15",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decision-in-june-825",
-    "negRisk": true
-  },
-  "will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting": {
-    "id": "906973",
-    "conditionId": "0xdde06286a7b9464d344f410ab0b3d2ebc6469904e72c27fd982f65fdbf78768d",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decision-in-june-825",
-    "negRisk": true
-  },
-  "will-there-be-no-change-in-fed-interest-rates-after-the-june-2026-meeting": {
-    "id": "906974",
-    "conditionId": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decision-in-june-825",
-    "negRisk": true
-  },
-  "will-the-fed-increase-interest-rates-by-25-bps-after-the-june-2026-meeting": {
-    "id": "906975",
-    "conditionId": "0xa7cb4135c6d9c36da0e343874dd5b455de739c6d1b9f9f5583dd9320aacf5db2",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decision-in-june-825",
-    "negRisk": true
-  },
-  "will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting": {
-    "id": "906976",
-    "conditionId": "0xb01e70a56199a6d5467f47a2b94e75e7c7218c128c8d0b8beb6dafed2f0d15c2",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decision-in-june-825",
-    "negRisk": true
-  },
   "will-toby-doeden-win-the-2026-south-dakota-governor-republican-primary-election": {
     "id": "906977",
     "conditionId": "0xe53a3545d1b55e0075b3f4863d538e959dc722c066293a0f41ce5a429ee9fcd0",
@@ -25752,16 +25702,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bitcoin-all-time-high-by",
-    "negRisk": false
-  },
-  "fed-rate-cut-by-june-2026-meeting": {
-    "id": "949495",
-    "conditionId": "0x4d162a40c3e3f458b0e0017485d7f9e6ead0cdd0573e38b26e0d5420525ccfa4",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-rate-cut-by-629",
     "negRisk": false
   },
   "will-kamala-harris-announce-a-2028-run-for-president-by-june-30": {
@@ -38114,6 +38054,16 @@
     "eventSlug": "bulgaria-presidential-election",
     "negRisk": true
   },
+  "will-ndrey-gyurov-win-the-next-bulgarian-presidential-election": {
+    "id": "1194657",
+    "conditionId": "0xd0590fb2d44c3b5deb053fde7072206ee9041441e3ee0e5fb022a41caf79b407",
+    "endDate": "2026-11-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bulgaria-presidential-election",
+    "negRisk": true
+  },
   "will-russia-invade-another-country-in-2026": {
     "id": "1194695",
     "conditionId": "0x8011cff605bac25673a202332b678e823cd7d82abad9e9770db01ea625808229",
@@ -47673,36 +47623,6 @@
     "acceptingOrders": true,
     "eventSlug": "abstract-fdv-above-one-day-after-launch",
     "negRisk": false
-  },
-  "will-the-fed-pausepausepause-in-the-next-three-decisions-maraprjun": {
-    "id": "1288247",
-    "conditionId": "0x221e0b7d9646f5a4262509e8c4c856299c422e21571018dcb3d5bd288d70afd0",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-mar-jun",
-    "negRisk": true
-  },
-  "will-the-fed-pausepausecut-in-the-next-three-decisions-maraprjun": {
-    "id": "1288248",
-    "conditionId": "0x92410744b32432595f784c83740ecef014ff508e8c56c8152405c6d64880ac00",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-mar-jun",
-    "negRisk": true
-  },
-  "will-the-fed-decide-differently-in-the-next-three-decisions-maraprjun": {
-    "id": "1288251",
-    "conditionId": "0x982460624c93de97715ff5323897965b42c7e20ea01daeaad98e6833241d0612",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-mar-jun",
-    "negRisk": true
   },
   "will-silver-si-hit-high-230-by-end-of-june": {
     "id": "1293941",
@@ -66006,26 +65926,6 @@
     "eventSlug": "fed-decisions-apr-jul",
     "negRisk": true
   },
-  "will-the-fed-pausecutpause-in-the-next-three-decisions-aprjunjul": {
-    "id": "1697036",
-    "conditionId": "0x67e026765defb5e87a8f4523401bb1aabdcb66dd326ed80c09152776604771aa",
-    "endDate": "2026-07-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-apr-jul",
-    "negRisk": true
-  },
-  "will-the-fed-pausecutcut-in-the-next-three-decisions-aprjunjul": {
-    "id": "1697037",
-    "conditionId": "0x750e64d6e78ef869d2b410094bfec47969b584e152a6e3b90733039c58b3e6e8",
-    "endDate": "2026-07-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-apr-jul",
-    "negRisk": true
-  },
   "will-the-fed-decide-differently-in-the-next-three-decisions-aprjunjul": {
     "id": "1697038",
     "conditionId": "0x7618e80c410d107b9929455007e4ccf649630ac6aec6a76ebcd04ae9946dd514",
@@ -69820,16 +69720,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kristi-noem-divorce-by-august-31",
-    "negRisk": false
-  },
-  "fed-rate-hike-by-june-2026-meeting": {
-    "id": "1808545",
-    "conditionId": "0x2dd232eb66334eaf3e232c3b834e072ae1ee320d0bc1ad55ab4ed47be71eeddf",
-    "endDate": "2026-12-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-rate-hike-by",
     "negRisk": false
   },
   "fed-rate-hike-by-july-2026-meeting": {
@@ -75178,36 +75068,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-prt-cdr-2026-06-17-prt": {
-    "id": "1897094",
-    "conditionId": "0xcaaa1338d38b5c614196c9a926dd84babc3984442f2ec9b937a16284a199ec3a",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-prt-cdr-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-prt-cdr-2026-06-17-draw": {
-    "id": "1897095",
-    "conditionId": "0xff1afdef47475128b85467bd1a3a4a3182da0c27409d81c2dc6c7d55b5467dad",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-prt-cdr-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-prt-cdr-2026-06-17-cdr": {
-    "id": "1897096",
-    "conditionId": "0x26af99aaa2182c11f3f02ea8e9ee5527dd2d0f9680c73ffbd7bd0237cc64d5f2",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-prt-cdr-2026-06-17",
-    "negRisk": true
   },
   "fifwc-eng-hrv-2026-06-17-eng": {
     "id": "1897097",
@@ -84558,15 +84418,6 @@
     "eventSlug": "cs2-lph-navij1-2026-04-18",
     "negRisk": false
   },
-  "kevin-warsh-cuts-rates-at-first-fed-meeting": {
-    "id": "2008486",
-    "conditionId": "0xd5ab04c1da2051ee27f69f3dabd766be2ce27b4f136db4215b8d29c4b08656c3",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "kevin-warsh-cuts-rates-at-first-fed-meeting",
-    "negRisk": false
-  },
   "will-zohran-mamdani-release-another-song": {
     "id": "2008597",
     "conditionId": "0xbc75a1bbf0d8735a28d688e2213dd0e107fd75dee22b63c96ad3871096dd7b1b",
@@ -89048,16 +88899,6 @@
     "acceptingOrders": true,
     "eventSlug": "next-secretary-general-of-the-united-nations",
     "negRisk": true
-  },
-  "will-strc-dip-to-90-in-2026": {
-    "id": "2038179",
-    "conditionId": "0xa3921fd42e0f1f1d6af9e8787603c560cab5aaf88231e0702f77eb734fa6aa2e",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-strc-dip-to-90-in-2026",
-    "negRisk": false
   },
   "lol-wb-blg-2026-05-21-game1-any-player-quadra-kill": {
     "id": "2039053",
@@ -103528,96 +103369,6 @@
     "eventSlug": "bank-of-canada-decision-in-july",
     "negRisk": true
   },
-  "will-no-one-dissent-the-june-fed-decision": {
-    "id": "2118770",
-    "conditionId": "0x224380954b75aacc570002494a30357f6f28b2f65e9aadfb9188ee77f9814b01",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
-    "negRisk": true
-  },
-  "will-one-person-dissent-the-june-fed-decision": {
-    "id": "2118771",
-    "conditionId": "0xc1e347751836823553a0e932012f0ee8a90722bc2dc81644621f3830178fe878",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
-    "negRisk": true
-  },
-  "will-two-people-dissent-the-june-fed-decision": {
-    "id": "2118772",
-    "conditionId": "0x989d7909b7549fc45fbfcc5fcab478824a21d6810595ef7f88b462740c67c35f",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
-    "negRisk": true
-  },
-  "will-three-people-dissent-the-june-fed-decision": {
-    "id": "2118773",
-    "conditionId": "0xf1a79ba3cf274508795c6abb2a6cc7599da89d81b94c5579ad56276ad58ef18c",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
-    "negRisk": true
-  },
-  "will-four-or-more-people-dissent-the-june-fed-decision": {
-    "id": "2118774",
-    "conditionId": "0x46a8d4d0af9ea7d9ba8ad76c097aa925c6b1f1cc82d7dea0419e9715a78af2d7",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "how-many-dissent-at-the-next-fed-meeting-822",
-    "negRisk": true
-  },
-  "will-the-fed-cutpausepause-in-the-next-three-decisions-junjulsep": {
-    "id": "2118797",
-    "conditionId": "0x939991996943dc503bf17a76ec71cd68c6eccc8a67f0bc56389259722dffd8fd",
-    "endDate": "2026-09-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-jun-sep",
-    "negRisk": true
-  },
-  "will-the-fed-cutpausecut-in-the-next-three-decisions-junjulsep": {
-    "id": "2118798",
-    "conditionId": "0xe96aaa3201601142ed4ae92f086b42ad717c822bc84f59ffc2c98077c2b7a1b4",
-    "endDate": "2026-09-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-jun-sep",
-    "negRisk": true
-  },
-  "will-the-fed-cutcutpause-in-the-next-three-decisions-junjulsep": {
-    "id": "2118799",
-    "conditionId": "0x0db535388174e80feca135f1f09120239ea3b82a21f4c25ab8c2f9d3e402f08d",
-    "endDate": "2026-09-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-jun-sep",
-    "negRisk": true
-  },
-  "will-the-fed-cutcutcut-in-the-next-three-decisions-junjulsep": {
-    "id": "2118800",
-    "conditionId": "0x8ce59af7975a10eaf038ea88181f20cdf50e9b08f58bb7705a765c6e1338894f",
-    "endDate": "2026-09-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fed-decisions-jun-sep",
-    "negRisk": true
-  },
   "will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep": {
     "id": "2118801",
     "conditionId": "0xd17e44ec063959238b3e4587475977a584618f7e18892d7b13b47051dbaa9a35",
@@ -105918,16 +105669,6 @@
     "eventSlug": "cs2-haven-p2n-2026-05-02",
     "negRisk": false
   },
-  "lol-genga-foxy-2026-05-07-game2-odd-even-total-kills": {
-    "id": "2138744",
-    "conditionId": "0x859616b18ec6b855d6727584bbc375801d1512b88ec9bd58571f0e834439db04",
-    "endDate": "2026-05-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-genga-foxy-2026-05-07",
-    "negRisk": false
-  },
   "cs2-inf1-lph-2026-05-03-game1-odd-even-total-kills": {
     "id": "2142291",
     "conditionId": "0x6a676fe0cb17c37762fce76e33d12cfd8ffd2fd1c627863e621b66dbb834773d",
@@ -106526,26 +106267,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "us-x-iran-permanent-peace-deal-by",
-    "negRisk": false
-  },
-  "lol-hle1-dnf-2026-05-05-game2-any-player-quadra-kill": {
-    "id": "2155113",
-    "conditionId": "0x432055f443ac7d991b0a52b481f37e82e3989d1768a4410d520b951912afd3e6",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-hle1-dnf-2026-05-05",
-    "negRisk": false
-  },
-  "lol-hle1-dnf-2026-05-05-game2-any-player-penta-kill": {
-    "id": "2155114",
-    "conditionId": "0x07f4e2b30c83389f836df44609ebab9f47b638f3b4a305d73632931d00942be9",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-hle1-dnf-2026-05-05",
     "negRisk": false
   },
   "will-nicols-maduro-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
@@ -119632,6 +119353,286 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-1-2": {
+    "id": "2262488",
+    "conditionId": "0x4d014aa28d549d109d71a022500764efcd31ab85fe80268dac8795e267807d2f",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-2-1": {
+    "id": "2262489",
+    "conditionId": "0xa284f109be7ba023fdcadfce5bdfbcce4d9acf686ce81abbb56e03fca2063871",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-3-0": {
+    "id": "2262490",
+    "conditionId": "0x13f4bb6f766f5ed505e8ade08825f8861db5d16333f238af3b75504e689af9cf",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-1-3": {
+    "id": "2262491",
+    "conditionId": "0xbb4c583661a167b2491de765c1eaad27bcac5746c2e5fb87218f823181534999",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-halftime-result-home": {
+    "id": "2262492",
+    "conditionId": "0x018d4d49ac880b2b58de54337586f0e62f84d9c10e16eee0bed91a6211d76091",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-2-2": {
+    "id": "2262493",
+    "conditionId": "0x9e2861b33202890797b37b317b2ae9f6aaf61e4350f053e1f598e4863d357cba",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-halftime-result-draw": {
+    "id": "2262494",
+    "conditionId": "0x27212df05dea926acefb7fd7a6ff5f943f6152a1602edb2820a4c94fc08a7514",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-3-1": {
+    "id": "2262495",
+    "conditionId": "0x7758e8fe9134ca1ecf0f48264059d2f7bd069e846c9406d6b2d9abe345b7dd3f",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-halftime-result-away": {
+    "id": "2262496",
+    "conditionId": "0x281e74e90e2d4e8bb43ff28f68af43cc32741362c65ba276a4b0ab9b620817c6",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-2-3": {
+    "id": "2262497",
+    "conditionId": "0xf5b46e6ede251f6b1ff43df8e82a72d421378f9d44eb7ebdee0efcd4b6895cde",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-3-2": {
+    "id": "2262498",
+    "conditionId": "0x1dc1cfecc56cedc90c8e04fbc422624d11e203f2c365bbac4b2505f336321275",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-3-3": {
+    "id": "2262499",
+    "conditionId": "0x09e34833f4808d2d151d2bf9867e4cc6e95a8b730aca1fe4ae170d9714b2eb81",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-any-other": {
+    "id": "2262500",
+    "conditionId": "0x0992337bfe7346937d25e4663b0776d5488b5ffb7f12a8fca431775b9364990d",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-0-0": {
+    "id": "2262501",
+    "conditionId": "0x0278c6dd3de9118f9fb4902bc082cdf497e67cfcef6cd8a93d61b0639cc22f6d",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-0-1": {
+    "id": "2262502",
+    "conditionId": "0x1fa15c765de310389a7f12010139f590c2584a75e86070a101883090c5138441",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-1-0": {
+    "id": "2262503",
+    "conditionId": "0x4dd31a98ef649db161fa7f8c5afc2403334f625811f7587dd58c8bfac61f89d8",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-0-2": {
+    "id": "2262504",
+    "conditionId": "0x68d1dbad3ae728e02d131ce54085dcbfd455ed58cfe7d335763284e13bf6eab8",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-1-1": {
+    "id": "2262505",
+    "conditionId": "0xd58072e74e695b00104c80896fc9a4b1a0f56b9f609948cee1b9c25b003ba2d8",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-2-0": {
+    "id": "2262506",
+    "conditionId": "0x8b374ff3ea41826a44e23e78af084bc306b76fa4c81e0084891bd1761e402f2b",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-0-3": {
+    "id": "2262507",
+    "conditionId": "0x0bca1c4545fa2f84457fc5932c081cdedf9a4d03d0f7c6e4f53ec1807b4de863",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-1-2": {
+    "id": "2262508",
+    "conditionId": "0xf555e9fa0d466d2ceb19b35620de1c6c07800962a2f0c12bed1e538d7b4fb605",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-2-1": {
+    "id": "2262509",
+    "conditionId": "0x47aa6122dadefe07851968bb3bc3647e3767b7fc97a76d71d7ba0405551e727c",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-3-0": {
+    "id": "2262510",
+    "conditionId": "0xc5fbf414d18c6f5d408fa997cfc24c6881fdf91975b6c7211578c32a718c5405",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-1-3": {
+    "id": "2262511",
+    "conditionId": "0x58f6a01864a2e37c5961647cdde042fe3750fbc573bf81139dbe6f9afd6b7e48",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-2-2": {
+    "id": "2262512",
+    "conditionId": "0x41523ea128982eb89a40a618e34f59091f820dbffa76e4dd0c0f3c7926e4834e",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-3-1": {
+    "id": "2262513",
+    "conditionId": "0xff6d5afec15c7b2ce51f0d969bf0d07aa8ff9f37f285176dad1bc0e2b9385cce",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-2-3": {
+    "id": "2262514",
+    "conditionId": "0x3f28261ca281b85e032ad3b19125ff3d49f51177dc4fff4c9f8ec3aecf82f3f6",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-3-2": {
+    "id": "2262515",
+    "conditionId": "0x7137544e40c07bfd9dbc8dcbad8813db0f3618030337225986cb4121ced77dcf",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
     "negRisk": true
   }
 }
