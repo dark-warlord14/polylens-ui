@@ -116671,46 +116671,6 @@
     "eventSlug": "israel-closes-its-airspace-by",
     "negRisk": false
   },
-  "lol-dk-t1-2026-05-25-game1-odd-even-total-kills": {
-    "id": "2241709",
-    "conditionId": "0xe7b4de13fc9a3578ef260892932e130cb62a9763a91994de429873ed274c883e",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dk-t1-2026-05-25",
-    "negRisk": false
-  },
-  "lol-dk-t1-2026-05-25-game2-odd-even-total-kills": {
-    "id": "2241715",
-    "conditionId": "0x1ad7ff95dbdc9b982bf6e3d3bc9d194926f0d83f20797fcc5eb070631d019b31",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dk-t1-2026-05-25",
-    "negRisk": false
-  },
-  "lol-dk-t1-2026-05-25-game3-odd-even-total-kills": {
-    "id": "2241721",
-    "conditionId": "0x8eeb4cf9d9367b899514f2ddb402eee5b1ccf81f218458d55e43cd6dc5e52efc",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dk-t1-2026-05-25",
-    "negRisk": false
-  },
-  "lol-dk-t1-2026-05-25-game4-odd-even-total-kills": {
-    "id": "2241727",
-    "conditionId": "0x295434af1001c71a1ac3c5b7e56e40e49d4aaafc8731a3f8d5230c8148b386af",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dk-t1-2026-05-25",
-    "negRisk": false
-  },
   "will-inflation-reach-more-than-4pt5-in-2026": {
     "id": "2241741",
     "conditionId": "0xf4a457c3a455917897fd89aa7d1cea256a8b325eded3c05c7ff771c948fbeaad",
@@ -119627,6 +119587,46 @@
   "chi1-cud-ohf-2026-06-10-exact-score-1-0": {
     "id": "2262483",
     "conditionId": "0xdabfa9189e772a3b01a3792ea59ae3c9ca2119f15aebe77f53f24b50d7a7492a",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-0-2": {
+    "id": "2262484",
+    "conditionId": "0xd3e61696a4c0ac309ae35d539840c69d6b6471fb07a21497bac31d84f70a1a58",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-1-1": {
+    "id": "2262485",
+    "conditionId": "0xe6f0e9f93d8c56154b39e970d956b1e5754b6ada4e8ad6f5860004d53a67de24",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-2-0": {
+    "id": "2262486",
+    "conditionId": "0x5f7a6dd1ba30399bb7a89eb51fe5de4ca1447342947958997c126cde69b86ee5",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-0-3": {
+    "id": "2262487",
+    "conditionId": "0x0cf6971aa50f889028d510838985848104224876ce213a12da4cd5cf116b5c01",
     "endDate": "2026-06-11",
     "closed": false,
     "active": true,
