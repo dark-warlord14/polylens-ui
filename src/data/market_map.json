@@ -8799,16 +8799,6 @@
     "eventSlug": "guinea-bissau-national-peoples-assembly-election-winner",
     "negRisk": true
   },
-  "will-lionel-messi-play-in-the-world-cup": {
-    "id": "669799",
-    "conditionId": "0x160dbfb768f10eedc79d21400546975778e2d0f1ae7f53777a1edabd5baecf81",
-    "endDate": "2026-07-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-lionel-messi-play-in-the-world-cup",
-    "negRisk": false
-  },
   "nyse-marketwide-circuit-breaker-before-2027": {
     "id": "670058",
     "conditionId": "0x51cc0614ea1f7bec1578cc308d2514e2d2cbe0501707bba7f0eea17652956e44",
@@ -62882,106 +62872,6 @@
     "eventSlug": "will-israel-reopen-its-embassy-in-iran-in-2026",
     "negRisk": false
   },
-  "will-markwayne-mullin-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510486",
-    "conditionId": "0x5f19f131d0350bf72da18c958458a8c3a05908886d8cc8dcc798b7fc1b7ea3d8",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-nick-hankins-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510487",
-    "conditionId": "0x7fb3fb78e0a207cd9e3d7aa36efed87964a38d1464f123bb053d68241f140521",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-ron-meinhardt-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510488",
-    "conditionId": "0x61478e8924681a9a25ac25efb47da236381ea2d7ea8fd4299c0b2b1d673635ac",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-wayne-lonny-washington-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510489",
-    "conditionId": "0x14ad22bdc8b4156e707ab552a0224e6558e36511eb214909868a7ac563769cb3",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-stephanie-bice-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510490",
-    "conditionId": "0x2b671a9558b019e9849be788132af813b40aed20506e8d70e7a745033ffdbf6d",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-donelle-harder-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510491",
-    "conditionId": "0x93de63878af0282fa91c4d09930673dcc063c95b80a9c98c942b49f2844fc998",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-kevin-hern-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510492",
-    "conditionId": "0xe3cb2859934ee2fde166693fb9e89f22bdc0316c00dd5abc85e7ee0a53c9b071",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-john-m-oconnor-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510493",
-    "conditionId": "0xbe0bfd68ffcc38d9aac90386517e5bf80813815f89c5ac208174d0771abeccc4",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-matt-pinnell-be-the-republican-nominee-for-senate-in-oklahoma": {
-    "id": "1510494",
-    "conditionId": "0xb0addefded513cbf48c17c527c22758b17c6f341a312e590b73c5f4efd9140ac",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-tammy-swearengin-be-the-republican-nominee-for-senate-in-oklahoma-881": {
-    "id": "1510522",
-    "conditionId": "0x2b60e08cdcbbbfca2b01b65efa1f7ab7e28d6709e7caabc0ba1e0a22ff52858e",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-republican-senate-primary-winner",
-    "negRisk": true
-  },
   "nechirvan-barzani-out-as-kurdistan-regional-government-president": {
     "id": "1515474",
     "conditionId": "0x710fe8f847bc1bbe017c577257a9008cc40cea00e296aa354dd8bc4b6ab30a15",
@@ -65948,86 +65838,6 @@
     "eventSlug": "tech-layoffs-up-or-down-in-2026",
     "negRisk": false
   },
-  "will-rob-adkerson-be-the-republican-nominee-for-ga-11": {
-    "id": "1663772",
-    "conditionId": "0xc97d3ba4d206c07f62648a16d157a9cd42128b50b91e9e9f6be500919dd96519",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-william-brown-be-the-republican-nominee-for-ga-11": {
-    "id": "1663773",
-    "conditionId": "0xa603a4697874685ef88b8441141964a5d29f63b6e911c18395141beb46d476ff",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-lisa-carlquist-be-the-republican-nominee-for-ga-11": {
-    "id": "1663774",
-    "conditionId": "0x88f05449905a72ca9b24d590af4e1b07066f44867bb3c993cdddc2572ca6e036",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-john-cowan-be-the-republican-nominee-for-ga-11": {
-    "id": "1663775",
-    "conditionId": "0xcd4161173113a9bb31ac04921d150e6e8ad684c32e1cbde9288b7171a1451a1d",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-john-hobbs-be-the-republican-nominee-for-ga-11": {
-    "id": "1663776",
-    "conditionId": "0x3f8c88f140e10a6603f53db58121189cc5fbe0cc7e06adc2d2436fe77e23551e",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-uloma-ekpete-kama-be-the-republican-nominee-for-ga-11": {
-    "id": "1663777",
-    "conditionId": "0x639213ca6b23e6f8c59f34cebe043720b63cdab2b5189835f6b6a6a0a067efc4",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-chris-mora-be-the-republican-nominee-for-ga-11": {
-    "id": "1663778",
-    "conditionId": "0x2a26181867f6cc95e6c1f36afd355515f5e65e478cd6cae8bdbc12428624e459",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-tricia-pridemore-be-the-republican-nominee-for-ga-11": {
-    "id": "1663779",
-    "conditionId": "0x939d6122129c4948b4fc80becf911909c472a04b60e445139d602b25b167de1b",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ga-11-republican-primary-winner",
-    "negRisk": true
-  },
   "dota2-l1ga-pi-2026-03-21-game2-first-blood": {
     "id": "1668944",
     "conditionId": "0x2fdd80aa8f6eb236babd6a3db3b14921e9815ba6194378db0ab05f7f17dc8e66",
@@ -68594,6 +68404,16 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "tori-finance-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "tyler-robinson-convicted-of-homicide": {
+    "id": "1734780",
+    "conditionId": "0xdfea8851512360fb70c4b4ed29ed369b6dbcdfc58b2493b66cba65faab622129",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tyler-robinson-convicted-of-homicide",
     "negRisk": false
   },
   "will-gabriel-moreno-win-the-2026-nl-platinum-glove-award": {
@@ -75678,66 +75498,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-irq-nor-2026-06-16-irq": {
-    "id": "1897085",
-    "conditionId": "0xd986b03674d1e1bf54b9cf25448c667452975dc068ac12e36a0b23cf96cd1795",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-irq-nor-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-irq-nor-2026-06-16-draw": {
-    "id": "1897086",
-    "conditionId": "0x947996d016c91c138f34eb5ebf0a67a27af1254fb93e603e48889c2f178ddd0a",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-irq-nor-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-irq-nor-2026-06-16-nor": {
-    "id": "1897087",
-    "conditionId": "0xcee0d9074a1f8766b4f66d806608a4097d027c94f85de367410fbbb166a29424",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-irq-nor-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-arg-alg-2026-06-16-arg": {
-    "id": "1897088",
-    "conditionId": "0x2a7a6ab8f4984f1ae82eacd7fb408832a50e63162ac6b98fff1fe094b8e9d3b5",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-arg-alg-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-arg-alg-2026-06-16-draw": {
-    "id": "1897089",
-    "conditionId": "0x353bfdea6f2cae034f1cef73064086e6c904d60d58f96c69644789b510ba862f",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-arg-alg-2026-06-16",
-    "negRisk": true
-  },
-  "fifwc-arg-alg-2026-06-16-alg": {
-    "id": "1897090",
-    "conditionId": "0xc4dd64ba5844f4a50df03fc7dc37af5decf637aacb8527fd42ccb1fbc6068f5e",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-arg-alg-2026-06-16",
-    "negRisk": true
   },
   "fifwc-aut-jor-2026-06-17-aut": {
     "id": "1897091",
@@ -110542,46 +110302,6 @@
     "eventSlug": "cs2-9daplu-alkaa-2026-05-06",
     "negRisk": false
   },
-  "lol-mvk-gz-2026-05-12-game1-both-teams-destroy-inhibitors": {
-    "id": "2175485",
-    "conditionId": "0xa319ebef8c5e98c42b4ba97960d4d161a6ce7b320ad7cfe6c0f3698b7cf3a2ea",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game1-any-player-quadra-kill": {
-    "id": "2175486",
-    "conditionId": "0x527c8d3147cc6a485a0d3eebe3aceaf29b587656d744242cc781c575e768a689",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game1-any-player-penta-kill": {
-    "id": "2175487",
-    "conditionId": "0x88fa4f07c2c21f55c74434fae15d306c65f51eee735d33efc0ed001737ada8b6",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
-  "lol-mvk-gz-2026-05-12-game1-odd-even-total-kills": {
-    "id": "2175488",
-    "conditionId": "0x2f0984f4515b29243e947985ee92039ddf071239f5f8246484d6a5199a7bc314",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-mvk-gz-2026-05-12",
-    "negRisk": false
-  },
   "over-250k-committed-to-the-align-public-sale": {
     "id": "2175743",
     "conditionId": "0x67d64e4b8d56b5cea5173c34d3d61d54e4da7dddcd077c17445804812eede53b",
@@ -119640,5 +119360,278 @@
     "acceptingOrders": true,
     "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
     "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-0-2": {
+    "id": "2261657",
+    "conditionId": "0x6a6db04c717f6275cc815a5497287790e309ffd53122cfb0b88519ddf4efa48e",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-1-1": {
+    "id": "2261658",
+    "conditionId": "0xc2dbd3c0d23a3f5a465f2aa71f3683140a35b4c8997e34979d0a80ab3a719517",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-2-0": {
+    "id": "2261659",
+    "conditionId": "0x2847ce70ac31fb37572fd4cf5642295bcc671c0483fcc75bb39a05ed7bd3511b",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-0-3": {
+    "id": "2261660",
+    "conditionId": "0x4ec08aa0b69fcfa189940f15d7d23cb602e24ee15c9ae2253b6711bdefc36416",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-1-2": {
+    "id": "2261661",
+    "conditionId": "0xc6277ab76b4ab51250753102d20094d7a2ab67a9276fcb672589e22b5ea0c7d8",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-2-1": {
+    "id": "2261662",
+    "conditionId": "0xf917488655bf62cdf45f75c62b29bc372a35c1c6f5c82c6d17f414905bf2121a",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-3-0": {
+    "id": "2261663",
+    "conditionId": "0xb26a856449a13f562bc7429acf355940849b851bc47082b1ae1d7887425912ca",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-2-2": {
+    "id": "2261665",
+    "conditionId": "0xf250cd86a058718c21df6558cb609e09043c51dbb6425305b1bcc40a9a0eb152",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-2-3": {
+    "id": "2261667",
+    "conditionId": "0x94e1664cea8b05d39ff7ed30c0abf70984e9c62207534c683ef69a1fb523538f",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-3-2": {
+    "id": "2261668",
+    "conditionId": "0xc2c0fda4a5c379ed9a50ae030365b9b2cfd1c892277b2fa8a449dd77126a7194",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-3-3": {
+    "id": "2261669",
+    "conditionId": "0x1c1fc2109279070ac1902034634fba372c772c414c1896e2219ad6a62fe1f2d6",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "sud-cara-bot-2026-05-27-exact-score-any-other": {
+    "id": "2261670",
+    "conditionId": "0x50f3411b48c8d81460939791e3776bd2cf953f52dd6bf3b7fe6fd115184cbd16",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
+    "negRisk": true
+  },
+  "will-andy-burnham-win-the-2026-makerfield-by-election": {
+    "id": "2262261",
+    "conditionId": "0x77954e0830eafc9539916c591f717fb0635f6483bc9949524cb46483cd9b9d39",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "will-robert-kenyon-win-the-2026-makerfield-by-election": {
+    "id": "2262262",
+    "conditionId": "0x3c169e95aea67be5fac1529b3ad8e891fe97ec54d1f272fab43b02cce948f6c2",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "will-simon-finkelstein-win-the-2026-makerfield-by-election": {
+    "id": "2262263",
+    "conditionId": "0xabe82a80c5f69b8a663c5491946a3c62ccd056f17372269a80be084eb766ee22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "will-john-skipworth-win-the-2026-makerfield-by-election": {
+    "id": "2262264",
+    "conditionId": "0xd28b5c3b00f5346c5d7f4661f764bf0fff56816b2728d9f281eb172d464c3248",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "will-maria-deery-win-the-2026-makerfield-by-election": {
+    "id": "2262265",
+    "conditionId": "0x55a68ce06774f6d4e89c9204c912d3a4f83b30c723ef6ba0f05c1386d27765ee",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "will-james-thomas-bryer-win-the-2026-makerfield-by-election": {
+    "id": "2262266",
+    "conditionId": "0x61b47b942f5fa1b60b4d66542c00934c05cfcb108bf7d67dab69aa0c30e4e367",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "will-rebecca-shepherd-win-the-2026-makerfield-by-election": {
+    "id": "2262267",
+    "conditionId": "0x85980a4d08e4cf7911782b632108d17b124171c1e1610cf7861e260c6daf3538",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "makerfield-by-election-winner",
+    "negRisk": true
+  },
+  "nick-fuentes-federally-charged": {
+    "id": "2262294",
+    "conditionId": "0xf2191ab022c76bba26e7a4d0f6c73f79e78c7a1813ba8ea8594896250f867492",
+    "endDate": "2026-09-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nick-fuentes-federally-charged",
+    "negRisk": false
+  },
+  "will-sui-reach-3pt00-before-2027": {
+    "id": "2262295",
+    "conditionId": "0x763479b038976470de34775e06d5163f220639b271c0ace8bdf35108796244d0",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-reach-2pt50-before-2027": {
+    "id": "2262296",
+    "conditionId": "0xe45db2e551b2447014348b887416eb5d0b265389ba68379dfc5c7dc10b8e84b2",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-reach-2pt00-before-2027": {
+    "id": "2262297",
+    "conditionId": "0x82b60f0140c4233e161647813b2119b2cb1e4868a5619a60cfa0eb4355131aa4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-reach-1pt80-before-2027": {
+    "id": "2262298",
+    "conditionId": "0x0befd80a7fb6b5896318f433a9a2b970362231a31d5025e50cb3401dc962602a",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-reach-1pt60-before-2027": {
+    "id": "2262299",
+    "conditionId": "0x92aa13a2776a84f443f145fd9fe674b8d516e7bdd1c902d3d3cc1e329a64ea5f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-reach-1pt40-before-2027": {
+    "id": "2262300",
+    "conditionId": "0x2f643794bdd56985808fbcfc38cdc821f9fc57230e30fabb5d68902dc151baab",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-dip-to-0pt60-before-2027": {
+    "id": "2262303",
+    "conditionId": "0xf72262baca81dd9ef42d5ea93017343257e15d291cf74f96f7e9a5d9a4617d65",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-sui-dip-to-0pt40-before-2027": {
+    "id": "2262304",
+    "conditionId": "0x3a692df2a3936d64b0f7791ccfc4252a587e4ae1cda4d77fbcfeda61bba9fe35",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
   }
 }
