@@ -8000,16 +8000,6 @@
     "eventSlug": "who-will-trump-meet-with-in-2026",
     "negRisk": false
   },
-  "will-trump-meet-with-keir-starmer-in-2026": {
-    "id": "666598",
-    "conditionId": "0x16f8fc62c90a5fd7ff053fd23b1900884e59ad677b68c01f4df7a780c4081cc5",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-2026",
-    "negRisk": false
-  },
   "will-trump-meet-with-lai-ching-te-in-2026": {
     "id": "666599",
     "conditionId": "0xe9d59a33a4d94c334684fb785cacf7c200e760f2003ef76289bfb244387a5940",
@@ -13713,16 +13703,6 @@
   "will-gitlab-be-acquired-before-2027-944-667": {
     "id": "694940",
     "conditionId": "0x0a38466723190708a5d78ed194ddb097dd690f89a5ec4f73c4e5cc9e0a0fbd98",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-companies-will-be-acquired-before-2027",
-    "negRisk": false
-  },
-  "will-pizza-hut-be-acquired-before-2027-514-731": {
-    "id": "694941",
-    "conditionId": "0x638cad4278cb693a44655a76ee46535814473b2a3201e5e68b85c096fe54a786",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -84488,7 +84468,7 @@
     "eventSlug": "cs2-bsta-red7-2026-04-20",
     "negRisk": false
   },
-  "us-obtains-iranian-enriched-uranium-by-december-31-725-733": {
+  "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123": {
     "id": "2006983",
     "conditionId": "0x58998da8fa20593cf07618032acd580344a79279a8bcc3ed128b668d793c3d6f",
     "endDate": "2026-12-31",
@@ -84576,16 +84556,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-lph-navij1-2026-04-18",
-    "negRisk": false
-  },
-  "will-trump-meet-with-giorgia-meloni-by-december-31-2026": {
-    "id": "2008485",
-    "conditionId": "0x7e20c901df94dece914f2b7e4a3b01fa5784f8e55beacc56b1263527d3bb15dc",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-trump-meet-with-in-2026",
     "negRisk": false
   },
   "kevin-warsh-cuts-rates-at-first-fed-meeting": {
@@ -119632,6 +119602,36 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-0-0": {
+    "id": "2262481",
+    "conditionId": "0xd37a04ede9d70ba6584c8eef02c528b053ab42807787a25a29ded03dfcf82756",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-0-1": {
+    "id": "2262482",
+    "conditionId": "0xe5c32624428f71d5da013f239a1325d52a976b656ab76836044d2f08c5edd252",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-exact-score-1-0": {
+    "id": "2262483",
+    "conditionId": "0xdabfa9189e772a3b01a3792ea59ae3c9ca2119f15aebe77f53f24b50d7a7492a",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
     "negRisk": true
   }
 }
