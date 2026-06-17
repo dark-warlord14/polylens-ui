@@ -3559,6 +3559,16 @@
     "eventSlug": "ballon-dor-winner-2026",
     "negRisk": true
   },
+  "will-lionel-messi-win-the-2026-ballon-dor": {
+    "id": "608565",
+    "conditionId": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+    "endDate": "2026-10-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ballon-dor-winner-2026",
+    "negRisk": true
+  },
   "us-recession-by-end-of-2026": {
     "id": "609655",
     "conditionId": "0xfdc73f10edf0266756686f35b5712cffa828b0940fc015e0426c76c934c2105d",
@@ -10977,196 +10987,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "colorado-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-reagan-box-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679650",
-    "conditionId": "0x6e3eeb27b7b38793ae0aeae71a244a9dd916d984a98fd01bd99d043801e12aec",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-earl-carter-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679651",
-    "conditionId": "0x49fa404b1a63d4fb1cbc86dfac727e9bf5fd26db74318a857d82730ce5f7b325",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-christina-loren-clement-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679652",
-    "conditionId": "0xeaaf79ea0cee8fda14d15e9d0c28317a86f79af666206cf1f6fc00c1af04663e",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-mike-collins-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679653",
-    "conditionId": "0xc9ae2656fa5f75ea4626d490a89398d75222f37624c1dd32c3ebe763c4ecec77",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-derek-dooley-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679654",
-    "conditionId": "0x3b408ff1bc692be77ce9c3b1044ca4f6a0af3c1d2f245cb096c299005c4a0d48",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-christoph-laflare-chapman-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679655",
-    "conditionId": "0x9e98b03794f3acbb5c6bac329d4d3b08eb6db10938d60664d8074242384869c3",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jonathan-mccolumn-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679656",
-    "conditionId": "0x1bd1f092988348536b7b185846ba129bedea510c09c671086410656f25821c4a",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-rick-temple-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679657",
-    "conditionId": "0x4c7778d334643032fb53612b40a45e836a9954250f5d94dbbdc3f58ea2b1d0ee",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-vinson-watkins-be-the-republican-nominee-for-senate-in-georgia": {
-    "id": "679658",
-    "conditionId": "0xcfc905e481a8cef82e51b6ae88281d3bdb78939cec57d47f5a6c24d88f79e77d",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-dakarai-larriett-be-the-democratic-nominee-for-senate-in-alabama": {
-    "id": "679689",
-    "conditionId": "0x58b3694d040e4daee5afcb3123e369664f4e472906f53586c3e70bbca8ef9042",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-lamont-lavender-be-the-democratic-nominee-for-senate-in-alabama": {
-    "id": "679690",
-    "conditionId": "0xc8ee60dde50c9b61a233bd60a561d25ff42abb51daa1b650559b851ecc1aca60",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-kyle-sweetser-be-the-democratic-nominee-for-senate-in-alabama": {
-    "id": "679691",
-    "conditionId": "0xa4eed684bdfa42fef3fa9e11bf11666c1eea4cbfb11ab7951ec49891341619c9",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-mark-wheeler-be-the-democratic-nominee-for-senate-in-alabama": {
-    "id": "679692",
-    "conditionId": "0x79e4ed165173642ad0750242142e58206e0fe4155a6884d93c6b0c4fa80bd773",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-everett-wess-be-the-democratic-nominee-for-senate-in-alabama": {
-    "id": "679693",
-    "conditionId": "0xc686195f3430d7e557866f91e92fbe55b98d2935ce3a9a42926cfada945e20bc",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jared-hudson-be-the-republican-nominee-for-senate-in-alabama": {
-    "id": "679718",
-    "conditionId": "0xb7674b49efd8501f6ebe0d49129c7ef29b0db69660d38752208165a5387966d2",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-steve-marshall-be-the-republican-nominee-for-senate-in-alabama": {
-    "id": "679719",
-    "conditionId": "0xbe2113835fff9936d39836cf7a27d371df885a74b77659167361b8e847dc788b",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-barry-moore-be-the-republican-nominee-for-senate-in-alabama": {
-    "id": "679720",
-    "conditionId": "0x11d4960a26b0696cb8c854e409944e8a69fefba21c68554187f29615ff5d3457",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-morgan-murphy-be-the-republican-nominee-for-senate-in-alabama": {
-    "id": "679721",
-    "conditionId": "0x2cf9f1cb3931b3335a9cdeb442d1bb163f43c6d2a55075dea1f2533ccad42afd",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-republican-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-rodney-walker-be-the-republican-nominee-for-senate-in-alabama": {
-    "id": "679722",
-    "conditionId": "0x8cc9fbd5cce96e76b9f05fc5eaf665cd8426c569fbc9b1196bbd60f9a1aaa32e",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "alabama-republican-senate-primary-winner",
     "negRisk": true
   },
   "will-a-dllm-be-the-top-ai-model-before-2027": {
@@ -19385,36 +19205,6 @@
     "eventSlug": "new-york-governor-republican-primary-winner",
     "negRisk": true
   },
-  "will-cyndi-munson-win-the-2026-oklahoma-governor-democratic-primary-election": {
-    "id": "824965",
-    "conditionId": "0xc8e04fba8bc6d19cf3d53454b05a87a09601e4ff814ab0fc21c22106c6bd17f4",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-arya-azma-win-the-2026-oklahoma-governor-democratic-primary-election": {
-    "id": "824966",
-    "conditionId": "0xd969ad849584fede36fd2e103a502567db872a15960c8d80e17167b0921aebbc",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-constance-n-johnson-win-the-2026-oklahoma-governor-democratic-primary-election": {
-    "id": "824967",
-    "conditionId": "0x44277993368a2f9011cabfbee8894c7d71d3aad29c3049a8651c4d15db92ee04",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "oklahoma-governor-democratic-primary-winner",
-    "negRisk": true
-  },
   "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election": {
     "id": "825091",
     "conditionId": "0x6f78fd69fd6dafb695a8f4074dac11971b1da612bd150aa0c837efbd86417292",
@@ -19764,86 +19554,6 @@
     "acceptingOrders": true,
     "eventSlug": "katy-perry-and-justin-trudeau-engaged-by-end-of-2026",
     "negRisk": false
-  },
-  "will-chris-carr-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837726",
-    "conditionId": "0x30b8301e5003c810b41dd84cd3d4db213eeb4cc853f81996ebe9df5f425e058d",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-clark-dean-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837727",
-    "conditionId": "0x9ea4539099e621110f6504cdd3990cea4e9467823fff553cc7bd83a0bbb73a99",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-burt-jones-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837728",
-    "conditionId": "0xb20ab327dc64a405ec80a0775c5947b594581abc61d814316abc355064e16e5a",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-brad-raffensperger-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837729",
-    "conditionId": "0xda66c20ca25d623bd0fa83ae36af6cb3cf523977643f4a3fa23bb55c71f853a9",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-ken-yasger-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837730",
-    "conditionId": "0xf04b0cc3e57c68258e03931624e27ee90bc53735f4ca36a9a957441420426984",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-gregg-kirkpatrick-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837731",
-    "conditionId": "0x31e5519d3dff3699b7884d8ef6da5fc5bc1abdf937442dcfdd56ff9469dc6168",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-leland-olinger-ii-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837732",
-    "conditionId": "0x4c359a12cc65836f53b504d4183f80f9a64e8c3373bd7bebaaef1c65ff48611f",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-rick-jackson-win-the-2026-georgia-governor-republican-primary-election": {
-    "id": "837734",
-    "conditionId": "0x79d5f2d519b21ebcb57ea1f926b5f37beecb2b8c41a3d44f06e206240f4e31dc",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "georgia-governor-republican-primary-winner",
-    "negRisk": true
   },
   "meloni-out-as-prime-minister-of-italy-by-june-30": {
     "id": "838479",
@@ -65488,16 +65198,6 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-80-by-end-of-june-412-888-131": {
-    "id": "1652706",
-    "conditionId": "0xbaf252e7ac957d6636a6916da51892c9f42e59bfbf808bd4d8e16f194694d2b5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cl-hit-jun-2026",
-    "negRisk": false
-  },
   "cs2-inf1-biga-2026-03-20-game1-odd-even-total-kills": {
     "id": "1653640",
     "conditionId": "0x8d6fc630a5c2f30d71e30168470a512e2d28e953a56b87e17c7968908f756db0",
@@ -75498,36 +75198,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-aut-jor-2026-06-17-aut": {
-    "id": "1897091",
-    "conditionId": "0x15869f0d05e99ad5789f647685b2eedbbe4201f8910a2bdb70e5716bd3674e8f",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-aut-jor-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-aut-jor-2026-06-17-draw": {
-    "id": "1897092",
-    "conditionId": "0x2d17b7b5c8701296c4348f016076a948f25cb83e23c8b863bfa1e22ed493ae53",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-aut-jor-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-aut-jor-2026-06-17-jor": {
-    "id": "1897093",
-    "conditionId": "0x5256dfc89708ca138d1dc892c81991f2798694e077d86843707aeb2b615b1e15",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-aut-jor-2026-06-17",
-    "negRisk": true
   },
   "fifwc-prt-cdr-2026-06-17-prt": {
     "id": "1897094",
@@ -119633,5 +119303,335 @@
     "acceptingOrders": true,
     "eventSlug": "what-price-will-sui-hit-in-2026",
     "negRisk": false
+  },
+  "will-sui-dip-to-0pt20-before-2027": {
+    "id": "2262305",
+    "conditionId": "0x47ec255a588be7887b6778675f44708bed0fc9c938ed7016eaea2d41d3df2373",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "what-price-will-sui-hit-in-2026",
+    "negRisk": false
+  },
+  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-05": {
+    "id": "2262322",
+    "conditionId": "0x5af250027e9a56e9fc21b4564804a4c37d7625f951f8908661af930a67751b06",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-510": {
+    "id": "2262323",
+    "conditionId": "0x139d0850e2d7b59914905e07c2ce2932efd1ca920aa1e27189c1e7c4ee5f0a8b",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-1015": {
+    "id": "2262324",
+    "conditionId": "0xd40dd28a2d81c60016ffea7656ffad6c198d72a7212896d1b9f10696f63fc568",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-15": {
+    "id": "2262325",
+    "conditionId": "0x392654f5e17d9ebf4c7d819ac597ddbbfb22706958e76447e38f3da2e241f930",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "will-spencer-pratt-win-the-first-round-of-the-2026-los-angeles-mayoral-election": {
+    "id": "2262326",
+    "conditionId": "0xe4337bde0b6e6c1773feeafc3e568eca4db2d6ff2f70b925e6204ba94d1e6ec3",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "will-nithya-raman-win-the-first-round-of-the-2026-los-angeles-mayoral-election": {
+    "id": "2262327",
+    "conditionId": "0xe2d37c04daaab16fb7234c36e4fa14bfe1080cf3cf6c799ec03af6b019996d8f",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "will-another-candidate-win-the-first-round-of-the-2026-los-angeles-mayoral-election": {
+    "id": "2262328",
+    "conditionId": "0x1de5612d6b83066a3f73420bf667d9bdcc74c66b29d27f8a59587964e7a18170",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
+    "negRisk": true
+  },
+  "russia-coup-attempt-in-2026": {
+    "id": "2262329",
+    "conditionId": "0xf91ca58d99ac47e4c6a8c324419f082b3d09744179b1a8b6540a3c20c6c23c7d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-coup-attempt-in-2026",
+    "negRisk": false
+  },
+  "japan-declassifies-new-ufo-files-in-2026": {
+    "id": "2262421",
+    "conditionId": "0xb42726ca8eda8a64489bb13d842476d691b73d07c8019bcc92ea08f72429002c",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "japan-declassifies-new-ufo-files-in-2026",
+    "negRisk": false
+  },
+  "bol1-nap-aur-2026-06-10-halftime-result-home": {
+    "id": "2262458",
+    "conditionId": "0xbac20c28c29269884a1ad78e69bfca4afb1807abcd3fd373d82055fc309535ad",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-halftime-result-draw": {
+    "id": "2262459",
+    "conditionId": "0xfe58e577e80e5829e0a3cd3c62adf791aad1fbdff682fc6c544f765e5c4dacbf",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-halftime-result-away": {
+    "id": "2262460",
+    "conditionId": "0x56a7b1d761d2ee8369b754ce8913b3a8f904c4261e4c37ad567f18daa77a45f6",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-0-0": {
+    "id": "2262461",
+    "conditionId": "0xcdd250311b08eb5468998105f8e297e964d50b2e245064d8877f96ebdf1118e2",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-0-1": {
+    "id": "2262462",
+    "conditionId": "0x4494900af556d3dca744bcd9cb71c4839cf433df13c13fccdd0d9bdc212b1cca",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-1-0": {
+    "id": "2262463",
+    "conditionId": "0x3b13e968a7e0ca849d6d88825f6a0a20f41a35c1b54e44a6ce2cadeca90a22b4",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-halftime-result-home": {
+    "id": "2262464",
+    "conditionId": "0xaf6c720f5ff89c33cc10f566929e455332e05afdbf2fddb1af5f5689202adc1f",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-0-2": {
+    "id": "2262465",
+    "conditionId": "0x8e682bb368451602243bb40ab1fe7b092fc42b6329d25aca0ce0ab93de8c27a4",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-1-1": {
+    "id": "2262466",
+    "conditionId": "0x9b7e9741291ef6a664b823855ca0d40c95216a998b15bd2a0a89c79266662e01",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-halftime-result-draw": {
+    "id": "2262467",
+    "conditionId": "0x799945938e5d7b0418bd42273272d80ccd0eefc454ca6e4f1bd48a7749c23554",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "chi1-cud-ohf-2026-06-10-halftime-result-away": {
+    "id": "2262468",
+    "conditionId": "0xde3f56791dc3d4984762079d97a58fcbf89cdf6908bd25da0416f9f9397ac36c",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chi1-cud-ohf-2026-06-10-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-2-0": {
+    "id": "2262469",
+    "conditionId": "0x6882bb212c94d90b60f8f651d219dc0e237359af20569fe095fbf85811d7f807",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-0-3": {
+    "id": "2262470",
+    "conditionId": "0xcd5cf79fd6de0cdffb4ded2b77fe8336cb1a3a7b82ee2dc76ecc7015225b51fd",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-1-2": {
+    "id": "2262471",
+    "conditionId": "0xd322743a7d2bcdeedd2321c2e86bec40f5ac3477406b15a8414f7c1c0f8249f8",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-2-1": {
+    "id": "2262472",
+    "conditionId": "0x2ab8857f7f25ff3ac0e019bb9789acc3283b881fd46ad3914932bab0b5c9830d",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-3-0": {
+    "id": "2262473",
+    "conditionId": "0xf5d277659be2d1b8d4f677f59399a63abbaa1c6277c75e521b314df2c96348d5",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-1-3": {
+    "id": "2262474",
+    "conditionId": "0xd859c994700fcf343e35cbe72e18ee40c3df5925c16220fabbb6d6d9dd906693",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-2-2": {
+    "id": "2262475",
+    "conditionId": "0x4a152bbb353f1ad1458a2ddbbc7295582453f46a5b34fd07e9f822698ceeee45",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-3-1": {
+    "id": "2262476",
+    "conditionId": "0xcec3b496e1cbb891bacc76191c9f4cf7c3e3069a9af984288f607ddc2a01e4e6",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-2-3": {
+    "id": "2262477",
+    "conditionId": "0xb09f8f1e29a2a106e87086e6a479cd4fd75f7d9a4b8ba74884ad2c638262edf0",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-3-2": {
+    "id": "2262478",
+    "conditionId": "0xd32dd837b7c48474c363cbc612bb78a9059b57145f040b8e1a6930325fca4d40",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-3-3": {
+    "id": "2262479",
+    "conditionId": "0xcab6de273146ab50f4e48e24a1394e6144027851bc5f82ab760f8453a9382533",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-aur-2026-06-10-exact-score-any-other": {
+    "id": "2262480",
+    "conditionId": "0x1db7aa3ccb59e9b128d3ad2b42d69573690c919ca9dda566ec586d523ded17d1",
+    "endDate": "2026-06-10",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-aur-2026-06-10-exact-score",
+    "negRisk": true
   }
 }
