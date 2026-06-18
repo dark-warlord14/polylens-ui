@@ -30850,16 +30850,6 @@
     "eventSlug": "tim-walz-in-jail-by-march-31",
     "negRisk": false
   },
-  "will-maya-joint-win-the-2026-womens-french-open": {
-    "id": "1087805",
-    "conditionId": "0xe2b3ababbaa7e71894b0496be696a23b7375e31e54fdd11fa355c94c47dda852",
-    "endDate": "2026-06-06",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-french-open-winner",
-    "negRisk": true
-  },
   "will-jannik-sinner-be-the-2026-mens-wimbledon-winner": {
     "id": "1087890",
     "conditionId": "0x16b3e96fc29f37ff8a5309e82e1ebd11b6658b171dd788104d9a88c12cceebb6",
@@ -31000,16 +30990,6 @@
     "eventSlug": "2026-mens-wimbledon-winner",
     "negRisk": true
   },
-  "will-lorenzo-musetti-be-the-2026-mens-wimbledon-winner": {
-    "id": "1087905",
-    "conditionId": "0x369ea053f2da9cf6f7a985594c890439968cee9cd47e9b8c28733699c868eefb",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-wimbledon-winner",
-    "negRisk": true
-  },
   "will-matteo-berrettini-be-the-2026-mens-wimbledon-winner": {
     "id": "1087906",
     "conditionId": "0x52ddc11391658a2a0b04c61ccecb42bf379669ef3a5341de436b9b817bf06180",
@@ -31023,16 +31003,6 @@
   "will-stefanos-tsitsipas-be-the-2026-mens-wimbledon-winner": {
     "id": "1087907",
     "conditionId": "0x511c1d5231811bf577de92b81a378b670d573c2964ef97d2b9f6c5cebd4d39da",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-wimbledon-winner",
-    "negRisk": true
-  },
-  "will-sebastian-korda-be-the-2026-mens-wimbledon-winner": {
-    "id": "1087908",
-    "conditionId": "0xa41ae3c63f3ea5675bbb165adf509d86ed6cc511193987a6d379f139c87a170f",
     "endDate": "2026-07-12",
     "closed": false,
     "active": true,
@@ -31213,16 +31183,6 @@
   "will-karen-khachanov-be-the-2026-mens-wimbledon-winner": {
     "id": "1087926",
     "conditionId": "0x2f0cac0c384be591b0c6bac1b06ac59bc81b1a8180ea62d356e6654e9044b3f4",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-mens-wimbledon-winner",
-    "negRisk": true
-  },
-  "will-tom-mach-be-the-2026-mens-wimbledon-winner": {
-    "id": "1087927",
-    "conditionId": "0xaf4c7ed63126ed1f1058c87ce48155fcee0833238a581c6de93f759a0f40c48a",
     "endDate": "2026-07-12",
     "closed": false,
     "active": true,
@@ -63718,76 +63678,6 @@
     "eventSlug": "o1-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "will-o1-launch-a-token-by-june-30-2026": {
-    "id": "1554894",
-    "conditionId": "0xdd3d42c081d91ecf2a99f5db66968f3e88daf162eec39f0e1d9ec6f50072e33b",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-o1-launch-a-token-by-september-30-2026": {
-    "id": "1554895",
-    "conditionId": "0xec37b4aa424a2dafd3708afad60b817b7a3c05d20133af5ae6d9e89708ac4d57",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-o1-launch-a-token-by-december-31-2026": {
-    "id": "1554896",
-    "conditionId": "0xcd7f93a5e2d0919298caceeb694b7541cb04ab3891698987c8f8686eaa30b01e",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-o1-launch-a-token-by-march-31-2027": {
-    "id": "1554897",
-    "conditionId": "0x55a990a1ec15480a5b8f3e91ad912b7bb0e564ad79ab4bc22261017af8f1f279",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-o1-launch-a-token-by-june-30-2027": {
-    "id": "1554898",
-    "conditionId": "0x984a4d8a55d9de984811a3be1350461b1fe418a3a9c8be183f27eebee8d3044c",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-o1-launch-a-token-by-september-30-2027": {
-    "id": "1554899",
-    "conditionId": "0xaf35affe20a84d95d4bb87bca25dc118cecf8b4abd7917e89dd052cf4bc9eed9",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
-  "will-o1-launch-a-token-by-december-31-2027": {
-    "id": "1554900",
-    "conditionId": "0x6482e21c7b0fa011b9648bf54a61f7eee11d50826ab86acfe6c795205c45f507",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-o1-launch-a-token-by",
-    "negRisk": false
-  },
   "cs2-sta6-inf1-2026-03-14-game1-odd-even-total-kills": {
     "id": "1556807",
     "conditionId": "0xf37d4838533991ac8cf877960706449aad1585a6429217df097c582707fc5558",
@@ -65128,46 +65018,6 @@
     "eventSlug": "cs2-lph-np3-2026-03-20",
     "negRisk": false
   },
-  "bank-of-england-decreases-interest-rates-by-50-bps-after-june-2026-meeting": {
-    "id": "1653965",
-    "conditionId": "0x4057e6709481119273eb7189872001e8a22094db5ed39da02546438d1b699f4e",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-england-decision-in-june-221",
-    "negRisk": true
-  },
-  "bank-of-england-decreases-interest-rates-by-25-bps-after-june-2026-meeting": {
-    "id": "1653966",
-    "conditionId": "0x077bef5e0626b2da84f4075558ef75436218c705fefe9c419e68c27b46dc5b23",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-england-decision-in-june-221",
-    "negRisk": true
-  },
-  "no-change-in-bank-of-englands-interest-rates-after-june-2026-meeting": {
-    "id": "1653967",
-    "conditionId": "0x817d4b78894e48d96d85a6e016bd12958d3d2a11915f10988f66b45de2751ac0",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-england-decision-in-june-221",
-    "negRisk": true
-  },
-  "bank-of-england-increases-interest-rates-after-june-2026-meeting": {
-    "id": "1653968",
-    "conditionId": "0x5d67e894a960a0485f73815e468702674b3c8de4ed5edae0ed94dbc10473eb74",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-england-decision-in-june-221",
-    "negRisk": true
-  },
   "cs2-unity-g2a-2026-03-21-game1-odd-even-total-kills": {
     "id": "1654293",
     "conditionId": "0x13d4dd80e89ac228374b30e36c115013dbd8d5eade93398463c57f02456243da",
@@ -66175,16 +66025,6 @@
     "acceptingOrders": true,
     "eventSlug": "scotus-bars-counting-mail-ballots-after-election-day",
     "negRisk": false
-  },
-  "bank-of-england-increases-interest-rates-by-50-bps-after-june-2026-meeting": {
-    "id": "1710206",
-    "conditionId": "0x268e100a44b2e89149a1f9a335e397b551fbbfd68b2ec13f032f5288a364f554",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-england-decision-in-june-221",
-    "negRisk": true
   },
   "ng-up-or-down-on-march-26-2026": {
     "id": "1715874",
@@ -77056,16 +76896,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-furia-make-a-roster-change-before-july",
-    "negRisk": false
-  },
-  "will-parivision-make-a-roster-change-before-july": {
-    "id": "1918666",
-    "conditionId": "0x868131aa7e00a17dffb13b4a445ca4c81ffeedb09640fea12dbfda2678f44fd2",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-parivision-make-a-roster-change-before-july",
     "negRisk": false
   },
   "will-aurora-make-a-roster-change-before-july": {
@@ -95526,46 +95356,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-lph-33-2026-04-26",
-    "negRisk": false
-  },
-  "cs2-sinqu-tmvg-2026-04-26-game1-odd-even-total-kills": {
-    "id": "2084432",
-    "conditionId": "0xe155dc37743825b4bc18b35048fba4b2fdb427efa3f416853b90813b18a13363",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sinqu-tmvg-2026-04-26",
-    "negRisk": false
-  },
-  "cs2-sinqu-tmvg-2026-04-26-game2-odd-even-total-kills": {
-    "id": "2084434",
-    "conditionId": "0x83fc579858fa8205dc0036d58e27ecce2be9de0e2af2b8885146f899190b6ca4",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sinqu-tmvg-2026-04-26",
-    "negRisk": false
-  },
-  "cs2-kajo-ksm-2026-04-26-game1-odd-even-total-kills": {
-    "id": "2084444",
-    "conditionId": "0xcaeeb552379473645dcf1c9def209431f695e66cf73b075b5694b3df45d49b0d",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-kajo-ksm-2026-04-26",
-    "negRisk": false
-  },
-  "cs2-kajo-ksm-2026-04-26-game2-odd-even-total-kills": {
-    "id": "2084446",
-    "conditionId": "0x9dfebe4bbfe958644437f0225ab406aa8335b1cd334335578c3877db8135ea65",
-    "endDate": "2026-04-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-kajo-ksm-2026-04-26",
     "negRisk": false
   },
   "cs2-furiaf-mw-2026-04-28-game1": {
@@ -119633,6 +119423,216 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "russia-x-ukraine-ceasefire-by",
+    "negRisk": false
+  },
+  "russia-x-ukraine-ceasefire-by-october-31-2026": {
+    "id": "2264327",
+    "conditionId": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-ceasefire-by",
+    "negRisk": false
+  },
+  "russia-x-ukraine-ceasefire-by-december-31-2026": {
+    "id": "2264328",
+    "conditionId": "0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-ceasefire-by",
+    "negRisk": false
+  },
+  "cs2-kinoa-pre-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2265357",
+    "conditionId": "0xceee47c4ba7602fe86afc2da3b9829b792ca95be9a3a845b2ba78f5a6d2723ef",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kinoa-pre-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-kinoa-pre-2026-05-15-game2-odd-even-total-kills": {
+    "id": "2265359",
+    "conditionId": "0x2221a9d7bed5e19c723d171139231473c20e79e8220cb8f9b229893f1ea901d6",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kinoa-pre-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-kinoa-pre-2026-05-15-game3-odd-even-total-kills": {
+    "id": "2265361",
+    "conditionId": "0xb1695e53af8a84abb804c36f9dcc0965ff7069409a31806a070b3af1c63a43a6",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kinoa-pre-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-don-forzer-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2265368",
+    "conditionId": "0x19503de8b7d3ce9d48fd4af734839fc0dde4dcb424ed60f384f45226c6ca305c",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-don-forzer-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-don-forzer-2026-05-15-game2-odd-even-total-kills": {
+    "id": "2265370",
+    "conditionId": "0x139748aa4310c655c6970d1407871dedb8e17bcf2f6e8db3cb21cd89b6ff1724",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-don-forzer-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-eac-algo1-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2265379",
+    "conditionId": "0x785cce9bd9fd25bad2051cc136c23a4fc87cf72a2e9cc445b419f34b047f15df",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-eac-algo1-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-eac-algo1-2026-05-15-game2-odd-even-total-kills": {
+    "id": "2265381",
+    "conditionId": "0x63e4eac89fdd7e37d3ba30044098342723acd51ee4f172bd81a277b84fe0f2ee",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-eac-algo1-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-eac-algo1-2026-05-15-game3-odd-even-total-kills": {
+    "id": "2265383",
+    "conditionId": "0xae2db35a53db8111003c05cccfb07af97c0c4368b4670820e8ec5de4f13d9919",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-eac-algo1-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-inf6-efa-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2265390",
+    "conditionId": "0x51adb0ec971ab288fd4b5b5cdbb2e8b7c74a4b2b429aad458a436537ee2bebc0",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-efa-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-inf6-efa-2026-05-15-game2-odd-even-total-kills": {
+    "id": "2265392",
+    "conditionId": "0x2e54eff5201fd92dec87da1f211e0bd03bcb093e570dc72d52ad51b46fae3524",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf6-efa-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-biga-mis-2026-05-16-game1-odd-even-total-kills": {
+    "id": "2265412",
+    "conditionId": "0x91a42593e005aa2e3d74db48f9adf4253d07d44d9ab308bce5a7ef490c247d1b",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-mis-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-biga-mis-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2265414",
+    "conditionId": "0xc4fc9d12664214594f510a3187fab4e8478f66187b9b4d3ba446794728e606ed",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-mis-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-biga-mis-2026-05-16-game3-odd-even-total-kills": {
+    "id": "2265416",
+    "conditionId": "0x1653e5b9a67f74ceac4efcc8d0eddcb3609e88774d21d96c49f479f87afb0360",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-mis-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-wraith-mana-2026-05-16-game1-odd-even-total-kills": {
+    "id": "2265423",
+    "conditionId": "0x14a7f5e58ac5f303c4a26127e14007810f468aaa1eee8c9cba9de962caf7095d",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-wraith-mana-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-wraith-mana-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2265425",
+    "conditionId": "0x7a4c7c2795713b0b41eccd2852a8b608ad917677f30b53cf4572dbfd74873a81",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-wraith-mana-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-masq-psna-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2267043",
+    "conditionId": "0x38b9a1cb21460bfb14586280394870981ee155e44e7831997da234bd6ddc9fb7",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-psna-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-masq-psna-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2267045",
+    "conditionId": "0xec3933cf3effd11a4ce26a8171cb2c472718220e4dd96a210a69f12e9eb007df",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-psna-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-ldp-dfxpee-2026-05-15-game1-odd-even-total-kills": {
+    "id": "2267192",
+    "conditionId": "0xa1e5a2209fbab743ca17566d2bf9a79d41a5265f3899d428fcb92a1deaf36ab8",
+    "endDate": "2026-05-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ldp-dfxpee-2026-05-15",
+    "negRisk": false
+  },
+  "cs2-bsta-vsc-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2267486",
+    "conditionId": "0x68602a6d1639198dfb8b21b82e7f5374c583b9c5e6edaad74afae8a17f7f7813",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bsta-vsc-2026-05-16",
     "negRisk": false
   }
 }
