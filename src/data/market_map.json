@@ -31520,16 +31520,6 @@
     "eventSlug": "2026-womens-wimbledon-winner",
     "negRisk": true
   },
-  "will-sonay-kartal-be-the-2026-womens-wimbledon-winner": {
-    "id": "1088137",
-    "conditionId": "0x5b02c9d2dc0095a784306fbca9f83d1a5454359560d22192b030be61152c85e4",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-wimbledon-winner",
-    "negRisk": true
-  },
   "will-dayana-yastremska-be-the-2026-womens-wimbledon-winner": {
     "id": "1088138",
     "conditionId": "0x407a44671aae8c530cf3d290e7e0db9cf8ee2e2ef7bb5e947e4eac09993e2b13",
@@ -58522,16 +58512,6 @@
     "eventSlug": "will-the-chicago-bears-leave-illinois-by-dec-31",
     "negRisk": false
   },
-  "wta-blinkov-jovic-2026-02-23-set-totals-2pt5": {
-    "id": "1412525",
-    "conditionId": "0x35f30bba903e40ce7873d9fa0ac899b481e38ba6b7b644a7ac803a34ba9529b1",
-    "endDate": "2026-03-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "wta-blinkov-jovic-2026-02-23",
-    "negRisk": false
-  },
   "katy-perry-confirmed-pregnant-by-june-30": {
     "id": "1414665",
     "conditionId": "0xf3c082e1721097384d2d7fe28b6f3628290fd6683b857fb1e3fb9dfad7762749",
@@ -74309,16 +74289,6 @@
     "eventSlug": "arch-wnba-2026-champion",
     "negRisk": true
   },
-  "will-betboom-win-iem-cologne-major-2026": {
-    "id": "1892283",
-    "conditionId": "0x1b6eab50dbd311232b55f08c226a8b713a8571adb1a72494ee2fe12356cbd00a",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-team-spirit-win-iem-cologne-major-2026": {
     "id": "1892297",
     "conditionId": "0x10cfe107f46a1f4465e41501bebf20edda4f16ef47b702a4f45cacce90e01d16",
@@ -74868,36 +74838,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-cze-rsa-2026-06-18-cze": {
-    "id": "1897106",
-    "conditionId": "0x825bc4151fd9c139c4f0400c1a6f5d60cf67b2d04f12d69fd9fb5de67b13e4bc",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cze-rsa-2026-06-18",
-    "negRisk": true
-  },
-  "fifwc-cze-rsa-2026-06-18-draw": {
-    "id": "1897107",
-    "conditionId": "0x0fac1fde9bf271efa6a8bcd382db88003f661f051ee7644c85ff96a6a4b2e57a",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cze-rsa-2026-06-18",
-    "negRisk": true
-  },
-  "fifwc-cze-rsa-2026-06-18-rsa": {
-    "id": "1897108",
-    "conditionId": "0x845d6997f4b60fbcf81e8cac4510bb18988efe56e0318d77e476124c9ce80ce8",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cze-rsa-2026-06-18",
-    "negRisk": true
   },
   "fifwc-che-bih-2026-06-18-che": {
     "id": "1897109",
@@ -78706,26 +78646,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kbo-lg-sam-2026-04-17",
-    "negRisk": false
-  },
-  "atp-zhou-kotov-2026-04-12-match-total-21pt5": {
-    "id": "1948564",
-    "conditionId": "0x885f41e10d6f536e1f12c9e67213619b489d65976fe197dce35f09ab2c4a2321",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "atp-zhou-kotov-2026-04-12",
-    "negRisk": false
-  },
-  "atp-zhou-kotov-2026-04-12-match-total-22pt5": {
-    "id": "1948569",
-    "conditionId": "0x5f77959d4288d23833028d5757e3133e8fb2bb6a4419f70a6fc85f94441af99a",
-    "endDate": "2026-04-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "atp-zhou-kotov-2026-04-12",
     "negRisk": false
   },
   "bol1-nap-aur-2026-05-08-nap": {
@@ -119634,5 +119554,81 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-bsta-vsc-2026-05-16",
     "negRisk": false
+  },
+  "cs2-bsta-vsc-2026-05-16-game2-odd-even-total-rounds": {
+    "id": "2267487",
+    "conditionId": "0x2ecce2bbbb0bbb0f2125e458d0de85b9c09bdaab60cbe431647a8319bfb8e08c",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bsta-vsc-2026-05-16",
+    "negRisk": false
+  },
+  "will-the-next-google-gemini-pro-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1480": {
+    "id": "2268703",
+    "conditionId": "0xf0cbcf854538983ce5dc0b4e784692b8a703caf7565c5fd108d63093e14e30c9",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-google-gemini-pro-model-arena-debut",
+    "negRisk": false
+  },
+  "will-the-next-google-gemini-pro-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1490": {
+    "id": "2268704",
+    "conditionId": "0xe4c73435f4bdb89f5b5e7bd55b8c571e4e80a998177328bf7a35f0495cfb8864",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-google-gemini-pro-model-arena-debut",
+    "negRisk": false
+  },
+  "will-the-next-google-gemini-pro-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1500": {
+    "id": "2268705",
+    "conditionId": "0xbdc6833f8a1907f7103fd11b3212a270abdc79fca68c247942efd492956b38ac",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-google-gemini-pro-model-arena-debut",
+    "negRisk": false
+  },
+  "will-the-next-google-gemini-pro-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1510": {
+    "id": "2268706",
+    "conditionId": "0x073ca5657f1176276aab63652f31aa3c80aa07b4cd28c299373bbc264c5e13a9",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-google-gemini-pro-model-arena-debut",
+    "negRisk": false
+  },
+  "lol-t1-drx-2026-05-20-game2-any-player-quadra-kill": {
+    "id": "2268730",
+    "conditionId": "0xc3ac2f31c35d30084d856fdba9e3c6ee9bab95a7d06b0277901267dfa211b42c",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
+  },
+  "lol-t1-drx-2026-05-20-game2-any-player-penta-kill": {
+    "id": "2268731",
+    "conditionId": "0x08df9434e2e8dce5d1cf6cf38a0a91d7e96eccef1d9ef4291820ca911734e726",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
+  },
+  "will-gpt-5pt6-be-released-between-june-15-and-june-21-2026": {
+    "id": "2268862",
+    "conditionId": "0xee786ee609e3a767dfc625f3b6fb73f8cf143abfff4ca2ee7caf5cbf3a93089f",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "when-will-gpt-5pt6-be-released",
+    "negRisk": true
   }
 }
