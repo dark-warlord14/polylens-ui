@@ -31660,6 +31660,16 @@
     "eventSlug": "2026-womens-wimbledon-winner",
     "negRisk": true
   },
+  "will-maja-chwalinska-be-the-2026-womens-wimbledon-winner": {
+    "id": "1088153",
+    "conditionId": "0x406960f247849521a944271aa648629e1bed1733ee2089ced78e6af1cff18953",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-womens-wimbledon-winner",
+    "negRisk": true
+  },
   "will-jannik-sinner-win-the-2026-mens-us-open": {
     "id": "1088471",
     "conditionId": "0x65bbe9ee978b2e7f99596407bd92599db3600cbd19e0ef6cba303553c5cd3b84",
@@ -63588,76 +63598,6 @@
     "eventSlug": "will-microstrategy-announce-holding-800k-btc-by-december-31-2026",
     "negRisk": false
   },
-  "o1-fdv-above-100m-one-day-after-launch-167": {
-    "id": "1554877",
-    "conditionId": "0xd638c61e552201ba3badd247a361aaa4a3440f15403483bff1e68eb0d6cdc7e3",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "o1-fdv-above-200m-one-day-after-launch-939": {
-    "id": "1554878",
-    "conditionId": "0xf3400bee676ed90a83bff9b6bfa88bcf0abca0048792f047726146a7fd3611e2",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "o1-fdv-above-300m-one-day-after-launch-692": {
-    "id": "1554879",
-    "conditionId": "0xf000e6e58568fc7670e15d1baa7dabe7052b52886472e7825330a908beea1de2",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "o1-fdv-above-400m-one-day-after-launch-551": {
-    "id": "1554880",
-    "conditionId": "0xfb9a43b24982147467eabb56395807fa3c4e497a20d03867f6b5eb023abed8aa",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "o1-fdv-above-500m-one-day-after-launch-144": {
-    "id": "1554881",
-    "conditionId": "0x00168497e9fb3e59718b7bbe884ac9fd31ed3376b0e6f17fc04f4714d4e91210",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "o1-fdv-above-700m-one-day-after-launch-473": {
-    "id": "1554882",
-    "conditionId": "0x1d0f4f9e01bad72b480170ba756d29fabaa7011fccf1854076e6ebdc7e14be0f",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "o1-fdv-above-1b-one-day-after-launch-975": {
-    "id": "1554883",
-    "conditionId": "0xeeb63b6f2661223796e73f7a2d50d25c9a37de7d120e37ba1a299312b22adfea",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "o1-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
   "cs2-sta6-inf1-2026-03-14-game1-odd-even-total-kills": {
     "id": "1556807",
     "conditionId": "0xf37d4838533991ac8cf877960706449aad1585a6429217df097c582707fc5558",
@@ -74838,36 +74778,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-che-bih-2026-06-18-che": {
-    "id": "1897109",
-    "conditionId": "0x870bb248c96c52dcf35390a66542471c5bba2896942d6bc97ade41a418646ba8",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-che-bih-2026-06-18",
-    "negRisk": true
-  },
-  "fifwc-che-bih-2026-06-18-draw": {
-    "id": "1897110",
-    "conditionId": "0x04f0f21d77609ef19ef1c36749a8f522e471802384f484b80de4f789b1a90bb4",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-che-bih-2026-06-18",
-    "negRisk": true
-  },
-  "fifwc-che-bih-2026-06-18-bih": {
-    "id": "1897111",
-    "conditionId": "0x271f673391000932a03311e9a6ce6152eb4e1a60bda85a9ce7c14e87dadcdfd4",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-che-bih-2026-06-18",
-    "negRisk": true
   },
   "fifwc-can-qat-2026-06-18-can": {
     "id": "1897112",
@@ -97788,16 +97698,6 @@
     "eventSlug": "will-elon-musk-and-sam-altman-settle",
     "negRisk": false
   },
-  "elon-musk-wins-10b-settlement-against-altmanopenai": {
-    "id": "2100840",
-    "conditionId": "0x19b45e016995823419255364ed7c49423d411e7dbc712c6abf4e0e0222740109",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "elon-musk-wins-10b-settlement-against-altmanopenai",
-    "negRisk": false
-  },
   "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election": {
     "id": "2100981",
     "conditionId": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
@@ -105568,26 +105468,6 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-pot-nap-2026-05-31",
     "negRisk": true
-  },
-  "cs2-ksm-boyban-2026-05-04-game1-odd-even-total-kills": {
-    "id": "2150571",
-    "conditionId": "0x1c63466ed25cb68de60e282bef71990d7824c01030f846a96e43615ea2056b5c",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ksm-boyban-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-ksm-boyban-2026-05-04-game2-odd-even-total-kills": {
-    "id": "2150575",
-    "conditionId": "0x639302c322c3081a15946c9cc2e4b01ccb09c3503611c8a26ccc2ff51a279362",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ksm-boyban-2026-05-04",
-    "negRisk": false
   },
   "cs2-cad-p2n-2026-05-04-game1-odd-even-total-kills": {
     "id": "2150596",
@@ -119629,6 +119509,126 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "when-will-gpt-5pt6-be-released",
+    "negRisk": true
+  },
+  "will-gpt-5pt6-be-released-between-june-22-and-june-28-2026": {
+    "id": "2268863",
+    "conditionId": "0x0fc751446629fdf52b5ce3f816a52d443dafe0e6dc68a4001ec14bdb38fb39d5",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "when-will-gpt-5pt6-be-released",
+    "negRisk": true
+  },
+  "will-gpt-5pt6-not-be-released-by-june-28-2026": {
+    "id": "2268864",
+    "conditionId": "0x719a14817b23ca134ba7b4d5050026cbf6ae779bfffd20c370515453e4a8b0fe",
+    "endDate": "2026-06-28",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "when-will-gpt-5pt6-be-released",
+    "negRisk": true
+  },
+  "next-token-sale-on-coinbase-by-june-30-2026": {
+    "id": "2269044",
+    "conditionId": "0x80e2a53ef9ea3f4e290a7f15494e28428bdb84ffceebd512e35e9fbebf7813ff",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "next-token-sale-on-coinbase-by-july-31-2026": {
+    "id": "2269045",
+    "conditionId": "0x7b15b71f7106497c3d001e140f4e8127dbf879e53a23fae46be28ddebe754652",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "next-token-sale-on-coinbase-by-august-31-2026": {
+    "id": "2269046",
+    "conditionId": "0xfc6b19de7e642ab1396ad2ac20bf780aeb239086a53600477f8c6ab262b75da0",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "next-token-sale-on-coinbase-by-september-30-2026": {
+    "id": "2269047",
+    "conditionId": "0x689ba2a39533d233a48398d80246f0972288d34f960b548c67f092cc9f150ee5",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "next-token-sale-on-coinbase-by-october-31-2026": {
+    "id": "2269048",
+    "conditionId": "0x752cf499958880854d7880ad46d9078217a7b3c99d0d11ede911d4cd24bc491b",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "next-token-sale-on-coinbase-by-november-30-2026": {
+    "id": "2269049",
+    "conditionId": "0xcd0ec66854cd43b029408320adeaaf55dc922223038a3a7419350d6b3ef68d7d",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "next-token-sale-on-coinbase-by-december-31-2026": {
+    "id": "2269050",
+    "conditionId": "0x3835a05f6ef459d5b4d0c346332b1be7bb314620ff054d0457114335ae1376f3",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-token-sale-on-coinbase-by",
+    "negRisk": false
+  },
+  "ebola-pandemic-in-2026": {
+    "id": "2270137",
+    "conditionId": "0xb5911777e97da4199e822f42667f3afd8dfb7f9356f4d0fd553861d2368a1be1",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ebola-pandemic-in-2026",
+    "negRisk": false
+  },
+  "ebola-case-in-the-us-by-june-30": {
+    "id": "2270164",
+    "conditionId": "0x0a632e4dc9cce43da54a282cb46784ee9a13b0e0825c831f4d122531143e8ace",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ebola-case-in-the-us-by-june-30",
+    "negRisk": false
+  },
+  "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-june-30-986": {
+    "id": "2270165",
+    "conditionId": "0x02b7f820cd1902f9229012fe20f928a33af95ad539e1941a21794cb1d5e04238",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-company-end-of-june-849",
     "negRisk": true
   }
 }
