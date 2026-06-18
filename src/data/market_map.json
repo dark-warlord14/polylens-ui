@@ -38494,16 +38494,6 @@
     "eventSlug": "kylie-jenner-confirmed-pregnant-in-2026",
     "negRisk": false
   },
-  "will-zendaya-and-tom-holland-get-married-by-december-31": {
-    "id": "1222010",
-    "conditionId": "0xc589adfd317b954b8fd645dec08a41eb3ffa08147a42b113cd8e1df7ac68d674",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-zendaya-and-tom-holland-get-married-by-december-31",
-    "negRisk": false
-  },
   "new-mlb-cba-by-dec-1": {
     "id": "1222896",
     "conditionId": "0xf9220d5815e0f660327989717f4872c42899c4872b300bc038b83c96ecc4d61b",
@@ -65936,36 +65926,6 @@
     "eventSlug": "fed-decisions-apr-jul",
     "negRisk": true
   },
-  "will-the-bank-of-brazil-increase-the-selic-rate-after-june-2026-meeting": {
-    "id": "1697099",
-    "conditionId": "0x1b9241de79ca65e8ce76396b3845854363e5ae949f9eba70986f923fb4ecc9ce",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-brazil-decision-in-june",
-    "negRisk": true
-  },
-  "no-change-in-the-selic-rate-after-bank-of-brazils-june-2026-meeting": {
-    "id": "1697100",
-    "conditionId": "0x0111a2756734a64f9d70fd6b8f8ed3bb583b19935a2fccc62b0c98b3f1557eac",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-brazil-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-bank-of-brazil-decrease-the-selic-rate-after-june-2026-meeting": {
-    "id": "1697101",
-    "conditionId": "0xa68cd3b1f9fa774651b49a0679fe8d68e8dbf7d1b30d8bf4e9525704d0e72718",
-    "endDate": "2026-06-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-brazil-decision-in-june",
-    "negRisk": true
-  },
   "cs2-nosr-oly-2026-03-24-game1-odd-even-total-kills": {
     "id": "1700773",
     "conditionId": "0xe9b485ce8f9a6388c38e6321b582dfecead0c0250bd75c27baa4e37390ce48e8",
@@ -75069,96 +75029,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-eng-hrv-2026-06-17-eng": {
-    "id": "1897097",
-    "conditionId": "0xb361c29b5481164886627cb175ed76792df30902e66ec329c0a3853f807fe8e9",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-eng-hrv-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-eng-hrv-2026-06-17-draw": {
-    "id": "1897098",
-    "conditionId": "0x7c200c3facd45c4307c4d52d47a7d0d86fe219ff25eba92ff88a674d974c4ec3",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-eng-hrv-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-eng-hrv-2026-06-17-hrv": {
-    "id": "1897099",
-    "conditionId": "0x90b9d20ece132c342654f98e0826e972134b10f58d4789c2662bdc00eee44b13",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-eng-hrv-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-gha-pan-2026-06-17-gha": {
-    "id": "1897100",
-    "conditionId": "0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-gha-pan-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-gha-pan-2026-06-17-draw": {
-    "id": "1897101",
-    "conditionId": "0xc17c0b2fbaaf76f218153cc4d4c6c0dca65c9138317e2cbd1903c63ab70dc1ef",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-gha-pan-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-gha-pan-2026-06-17-pan": {
-    "id": "1897102",
-    "conditionId": "0xeb0de200851ebb80eb722c8b02e2226fe76e91e86a7cfe7e38042632e42d5ae9",
-    "endDate": "2026-06-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-gha-pan-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-uzb-col-2026-06-17-uzb": {
-    "id": "1897103",
-    "conditionId": "0x0ef9d17aff09c873dc47a93cfb13c42ab6274b4493e022fed1f228193714540d",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-uzb-col-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-uzb-col-2026-06-17-draw": {
-    "id": "1897104",
-    "conditionId": "0x3e0e84f19abf090dae4490caf1d7f74d5cbaa5d49fa0d64bee52a42b0f71c7e4",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-uzb-col-2026-06-17",
-    "negRisk": true
-  },
-  "fifwc-uzb-col-2026-06-17-col": {
-    "id": "1897105",
-    "conditionId": "0x2f00e48e914ba6606867a6347e90c48cc1fd4da66cc196a191786637f40848e9",
-    "endDate": "2026-06-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-uzb-col-2026-06-17",
-    "negRisk": true
-  },
   "fifwc-cze-rsa-2026-06-18-cze": {
     "id": "1897106",
     "conditionId": "0x825bc4151fd9c139c4f0400c1a6f5d60cf67b2d04f12d69fd9fb5de67b13e4bc",
@@ -79637,16 +79507,6 @@
     "acceptingOrders": true,
     "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
     "negRisk": true
-  },
-  "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597": {
-    "id": "1962237",
-    "conditionId": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-x-iran-permanent-peace-deal-by",
-    "negRisk": false
   },
   "will-variational-launch-a-token-by-september-30-2026-873": {
     "id": "1962606",
@@ -85297,26 +85157,6 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-abb-idp-2026-05-17",
     "negRisk": true
-  },
-  "lol-t1a-bro1-2026-04-25-game1-odd-even-total-kills": {
-    "id": "2026870",
-    "conditionId": "0x616af46e3225d5d4688a205ab3da67c9fb09e7b8d0f48076419efdf687a0c160",
-    "endDate": "2026-04-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-t1a-bro1-2026-04-25",
-    "negRisk": false
-  },
-  "lol-t1a-bro1-2026-04-25-game2-odd-even-total-kills": {
-    "id": "2026876",
-    "conditionId": "0xdae71ca4ee9cc5b3fe6789585d8b6e6fdc69efd3a3b94bfa2e866dbc3e25957b",
-    "endDate": "2026-04-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-t1a-bro1-2026-04-25",
-    "negRisk": false
   },
   "cs2-reda-quin-2026-04-20-game1-odd-even-total-kills": {
     "id": "2028298",
@@ -97328,56 +97168,6 @@
     "eventSlug": "cs2-rt1-xi-2026-04-28",
     "negRisk": false
   },
-  "cs2-tmvg-bojong-2026-04-28-game1-odd-even-total-kills": {
-    "id": "2096179",
-    "conditionId": "0x4e6dd6c69588db80378c062585d3bbca79e6c7a7e82f1c02c8afb6b4f86442d4",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-tmvg-bojong-2026-04-28",
-    "negRisk": false
-  },
-  "cs2-tmvg-bojong-2026-04-28-game2-odd-even-total-kills": {
-    "id": "2096184",
-    "conditionId": "0xe27ec384a2a46c333727c51df9eeec619a6e95f0251d6f48e949151f4c107733",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-tmvg-bojong-2026-04-28",
-    "negRisk": false
-  },
-  "cs2-cirahv-ksm-2026-04-28-game1-odd-even-total-kills": {
-    "id": "2096202",
-    "conditionId": "0x47009dec590b360967ea6901f836190d7853ac674a3713ea0e8adce3a722ba5d",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-cirahv-ksm-2026-04-28",
-    "negRisk": false
-  },
-  "cs2-cirahv-ksm-2026-04-28-game2-odd-even-total-kills": {
-    "id": "2096206",
-    "conditionId": "0x3dcff65a820bb2e181d8cf3d019de7a93bae1126b246dba4d150028f9cbb3a94",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-cirahv-ksm-2026-04-28",
-    "negRisk": false
-  },
-  "cs2-cirahv-ksm-2026-04-28-game3-odd-even-total-kills": {
-    "id": "2096208",
-    "conditionId": "0xca572a482a31eb3035946c853c924d60db440ef4dfbc1664e65db5c65c3436ff",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-cirahv-ksm-2026-04-28",
-    "negRisk": false
-  },
   "will-pam-bondi-be-held-in-contempt-of-congress-by-june-30": {
     "id": "2097553",
     "conditionId": "0x00a8f9e16e2a7beee81ebdd05a5cf3d1482c85ae672f9bb0da2d048c4ff1f1b0",
@@ -106259,16 +106049,6 @@
     "eventSlug": "hantavirus-vaccine-in-2026",
     "negRisk": false
   },
-  "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587-341-574-555-817": {
-    "id": "2155052",
-    "conditionId": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-x-iran-permanent-peace-deal-by",
-    "negRisk": false
-  },
   "will-nicols-maduro-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026": {
     "id": "2155242",
     "conditionId": "0x7590cbc21f9c580c11c83294b29070e4ce8629ef869058d84128407ae7ec36dd",
@@ -109291,26 +109071,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "next-openai-model-arena-debut-685",
-    "negRisk": false
-  },
-  "lol-hle1-dk-2026-05-12-game2-odd-even-total-kills": {
-    "id": "2170063",
-    "conditionId": "0xbb302e21087ad87cdb3fde10ba05c5b8823c5dcae2bc53ae826911f8adc058ab",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-hle1-dk-2026-05-12",
-    "negRisk": false
-  },
-  "lol-hle1-dk-2026-05-12-game3-odd-even-total-kills": {
-    "id": "2170069",
-    "conditionId": "0x082fc56c4fe27875be065c3bfc49ead328df0da89edb90bd73e1e581c79f30ae",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-hle1-dk-2026-05-12",
     "negRisk": false
   },
   "bab-el-mandeb-strait-effectively-closed-by-june-30-571": {
@@ -119634,5 +119394,245 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
     "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-3-3": {
+    "id": "2262516",
+    "conditionId": "0xcc689c6d38df1eee7273f5f9bdc8e30d5b9c31ac6a1087d402d0b8775175e782",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "bol1-oru-uvi-2026-06-10-exact-score-any-other": {
+    "id": "2262517",
+    "conditionId": "0x06b7b9999af711bd0cb1b222fa095c782ef72c29bd479fabc93cdd8fa01d73a9",
+    "endDate": "2026-06-11",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-oru-uvi-2026-06-10-exact-score",
+    "negRisk": true
+  },
+  "will-rakesh-christian-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262563",
+    "conditionId": "0x1a4fe35be3aa660680e73282df67a8f8a40bfbab009c7c1dd29321d41b62aa47",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-david-collenberg-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262564",
+    "conditionId": "0xef9d07f5ad484c97e3f87a5e7553571aa25a0cc55a9ea08485869ad947a9a0ff",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-sean-collinson-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262565",
+    "conditionId": "0x6d6223bd24d0fd80ba852cea142f17a1dc318797a09c5cd64a1b9563260f426f",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-david-fennell-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262566",
+    "conditionId": "0x1eb54f6e355cf04c8a9c90a3134f75ce79544ad09f4840c759b4c0e660113c1a",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-josh-fryday-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262567",
+    "conditionId": "0xc9153bf055a523d227cd45ef73263fc7b99b100f368d00b2fb590bdbf4beb224",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-janelle-kellman-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262568",
+    "conditionId": "0xcdf2cd19f22099c768f16309a7a3558a9289dc21d7103222c0d0882b3c276255",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-jeyson-lopez-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262569",
+    "conditionId": "0xfa40617b6a58cb3ccfc681d48ccee1ff0948c8d97ff14d976c29cce573dabf70",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-ebie-lynch-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262570",
+    "conditionId": "0xba6f8ef268e5f8e676e660206215ef1f6462c3b538fbede5c8f8bcdc2552c964",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-fiona-ma-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262571",
+    "conditionId": "0x01ea731cba0e367543fb500f39494c0fa53db9fbf2d93c01609d9130aefb3772",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-oliver-ma-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262572",
+    "conditionId": "0x414f28fde5f57ff12af01c0bedb5704bafbe2fee6c5a80d89fde0bfc6084e1ac",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "will-michael-tubbs-win-the-california-lieutenant-governor-election-in-2026": {
+    "id": "2262573",
+    "conditionId": "0x8d1a639e3619dd6f58d1fea007fdb32ea0d747c094753443ef9b9647352b079d",
+    "endDate": "2026-11-03",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "california-lieutenant-governor-election-winner",
+    "negRisk": true
+  },
+  "jung-chung-rae-out-as-dp-leader-in-2026": {
+    "id": "2262717",
+    "conditionId": "0x007aa0430cbc24e2a8b39a59dfa5f2d321053d667bf01aa2801c9ba48ea80326",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "jung-chung-rae-out-as-dp-leader-in-2026",
+    "negRisk": false
+  },
+  "will-little-joe-escape-again": {
+    "id": "2263388",
+    "conditionId": "0xd19131fb51b57eae97a9d67333b10848677455a7a48994288c8a3f2478eafc60",
+    "endDate": "2026-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-little-joe-escape-again",
+    "negRisk": false
+  },
+  "nick-fuentes-arrested-by-june-30": {
+    "id": "2263410",
+    "conditionId": "0x7933903d0f2e33d3366ad8bcd8ab5c47bd3d88855662638b33cc2a242fb659da",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nick-fuentes-arrested-by-june-30",
+    "negRisk": false
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-negative": {
+    "id": "2264061",
+    "conditionId": "0x8241ab26174b6e989f16778c8d69e551b122ab52239ccfa36a9fdd53aec1c268",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-between-0-and-0pt1": {
+    "id": "2264062",
+    "conditionId": "0x73bbda15acb80880194c33ada8e038c4e8445ccd42e1f989ea4289b28ef5c4c3",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-between-0pt2-and-0pt3": {
+    "id": "2264063",
+    "conditionId": "0x007ff7e4ca6af464926fdc7b1e5ae73f1c77edcb3ff65ddfa8bab2c0a15b64b6",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-between-0pt4-and-0pt5": {
+    "id": "2264064",
+    "conditionId": "0xa27ff3ff7dde4f569cb9bcb70a076634938533e9d05959d639870b1780e61ea7",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-between-0pt6-and-0pt7": {
+    "id": "2264065",
+    "conditionId": "0x36eed5052338012485c2b0d70b0f656ec4b1afea48cfec97c87bf4e0d77f786d",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-between-0pt8-and-0pt9": {
+    "id": "2264066",
+    "conditionId": "0x4411c2028567ec5f4f8e8427883616f1f4ed48f57f1f480c1b8b853b4adf37f5",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "will-uk-gdp-growth-in-q2-2026-be-at-least-1pt0": {
+    "id": "2264067",
+    "conditionId": "0x5a9113ba12bb2294eca1e5da2d14d7a87d9047ad1e61655be311e104dfc06cee",
+    "endDate": "2026-08-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "uk-gdp-growth-in-q2-2026-qoq",
+    "negRisk": true
+  },
+  "russia-x-ukraine-ceasefire-by-june-30-2026-631": {
+    "id": "2264326",
+    "conditionId": "0x6ecd13f937019c63bdc10848a4ee1e048ab6a84b6d0b20b77f122ce8b5676e8e",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "russia-x-ukraine-ceasefire-by",
+    "negRisk": false
   }
 }
