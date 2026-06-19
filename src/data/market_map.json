@@ -46986,26 +46986,6 @@
     "eventSlug": "anthropic-claude-score-on-humanitys-last-exam-by-june-30",
     "negRisk": false
   },
-  "will-any-xai-grok-model-score-at-least-25-on-the-frontiermath-exam": {
-    "id": "1285765",
-    "conditionId": "0x97accabd34ec0d450a476d42fb8c5e5726e4358839348250a1b9786e8f521e3f",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "xai-grok-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
-  "will-any-xai-grok-model-score-at-least-30-on-the-frontiermath-exam": {
-    "id": "1285766",
-    "conditionId": "0x2fafa519bbd192973eaa173e6b71fb816ba8f8eeb2dd8f0fd6dbe19c68635dff",
-    "endDate": "2026-02-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "xai-grok-score-on-frontiermath-benchmark-by-june-30",
-    "negRisk": false
-  },
   "will-any-xai-grok-model-score-at-least-35-on-the-frontiermath-exam-998": {
     "id": "1285767",
     "conditionId": "0x280709140d0964636b0afdcc012d160d9791701b58ece322ef8b852aeef922b7",
@@ -73741,16 +73721,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-g2-win-iem-cologne-major-2026": {
-    "id": "1892299",
-    "conditionId": "0x0937e92157c668597b425daa34f89eab4b8e3493b3c2c6a71b99d1dff333253c",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-vitality-win-iem-cologne-major-2026": {
     "id": "1892305",
     "conditionId": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
@@ -96020,96 +95990,6 @@
     "eventSlug": "bol1-idp-pot-2026-05-23-more-markets",
     "negRisk": false
   },
-  "chi1-cud-ohf-2026-05-23-spread-home-1pt5": {
-    "id": "2095477",
-    "conditionId": "0x5ec76725a20fe4ccbb1002906992507bab8578fe9c0cf8141de3d2b98a0374f8",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-spread-away-1pt5": {
-    "id": "2095480",
-    "conditionId": "0x30b164882465806a091c4fff95bc7c9a548a864a562816f87c2cd647256cd06d",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-spread-home-2pt5": {
-    "id": "2095482",
-    "conditionId": "0x455289a00709b124473deebeab518b3754c2ba9bfd9b0427a2c326b0a46d0029",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-spread-away-2pt5": {
-    "id": "2095485",
-    "conditionId": "0xbe27bd4aff00feb323651425189b6742073e649700085bb407b96591662aeb06",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-total-1pt5": {
-    "id": "2095487",
-    "conditionId": "0xec752c2adbdf3bfad8692f55f7b90c0e18a06a3fffde894fc888c548a5a2a5ae",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-total-2pt5": {
-    "id": "2095490",
-    "conditionId": "0x7f7d8e8a9bb01f62995f1626adc23bcacd49de184b195a6e6663cdef49c8d2e0",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-total-3pt5": {
-    "id": "2095491",
-    "conditionId": "0x15cfae9f7cf2ef1a1bb687811ec49b8928d42f10728cffc798dabc40c726d13f",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-total-4pt5": {
-    "id": "2095496",
-    "conditionId": "0xc22d3bb9b7ae87719173e281d330d61b049471dd28c8aaedd4e528d44a9965ba",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
-  "chi1-cud-ohf-2026-05-23-btts": {
-    "id": "2095498",
-    "conditionId": "0xbf5cd82fd31d1d9fc9d351bd455a8d68e4ed52c159e48616d937d2ea21ca6914",
-    "endDate": "2026-05-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-05-23-more-markets",
-    "negRisk": false
-  },
   "cs2-rt1-xi-2026-04-28-game1-odd-even-total-kills": {
     "id": "2096130",
     "conditionId": "0x05d67e3e25ac1a730c04b402ef1d349e68f8b95898a4767e448644ebde663c32",
@@ -105839,16 +105719,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-sng-aab-2026-05-06",
-    "negRisk": false
-  },
-  "cs2-kajo-tmvg-2026-05-05-game2-odd-even-total-kills": {
-    "id": "2162928",
-    "conditionId": "0xd63308256537f161d32c7c6b094545fbb82c4cf77f7a68300423a4bac7eb28aa",
-    "endDate": "2026-05-05",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-kajo-tmvg-2026-05-05",
     "negRisk": false
   },
   "cs2-haven-vpf-2026-05-05-game1-odd-even-total-kills": {
@@ -119648,6 +119518,136 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gua-oru-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-halftime-result-away": {
+    "id": "2278943",
+    "conditionId": "0xf6f911dff653ddfe58bd1f54684a5a13876307240b46fdf3b6365c0043078551",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-0-0": {
+    "id": "2278944",
+    "conditionId": "0x935691bc970a3610972e9166435e78816231b0934de42287026c43e84da47f9e",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-0-1": {
+    "id": "2278945",
+    "conditionId": "0x9817d1bff81c1a1b4cd863faeecf5363e4e744115b3bbe66ca7d3a34ea941340",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-1-0": {
+    "id": "2278946",
+    "conditionId": "0xded783d5fa8bb13a2a48f848dc91b8a71546b1701f30b1b6c22eb7ecf2b747b1",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-0-2": {
+    "id": "2278947",
+    "conditionId": "0x6d10ad4e3b7133f3a7fb4a407a199cc1be1700a54247b54e9bfb43fa553992f0",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-1-1": {
+    "id": "2278948",
+    "conditionId": "0xcda5d87e0ba24b9df4b4503d1d99c7e97e8d00034debcb5d97ded87d645cffb9",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-2-0": {
+    "id": "2278949",
+    "conditionId": "0x5edae3d7da009701b0a85687042564a46e9669921f5a354144f8c652482147e5",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-0-3": {
+    "id": "2278950",
+    "conditionId": "0x3fb46d758c424d6499cd3ced10b52f97608af604e2a7bbd5fbea8b704a145993",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-1-2": {
+    "id": "2278951",
+    "conditionId": "0xd3e585c394c0ea5365b0f02d7089d2174a776375eebe93d795bf4c87366c1803",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-2-1": {
+    "id": "2278952",
+    "conditionId": "0x9b1d577901ce00500f6c1e2579315b03fd04d7d7731bbc73633278d503f6837b",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-3-0": {
+    "id": "2278953",
+    "conditionId": "0xabd1503a9f7a05ab8f90037e7fc65ace5e8e2f1b6d288474a9b0403556de84a0",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-1-3": {
+    "id": "2278954",
+    "conditionId": "0x7f71785cab00fcf104eb22a7cf1f96741983d3153a33d8f5fc7c76fb794ff566",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-2-2": {
+    "id": "2278955",
+    "conditionId": "0xd8520714d549a0290fe067fa6e24a23ac494f069ca6e7d2940e4130f6982b7dc",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
     "negRisk": true
   }
 }
