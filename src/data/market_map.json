@@ -19027,56 +19027,6 @@
     "eventSlug": "new-hampshire-governor-democratic-primary-winner",
     "negRisk": true
   },
-  "will-elise-stefanik-win-the-2026-new-york-governor-republican-primary-election": {
-    "id": "824319",
-    "conditionId": "0xbab5703006a17b1339ad99c904505693d56ad2f8ded327fdc953fd1a3f21a425",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-pat-hahn-win-the-2026-new-york-governor-republican-primary-election": {
-    "id": "824320",
-    "conditionId": "0x031d44b0c31fb5c8a50eee6598439a41b66a4fbf0006ace729194a2fab4e1500",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-david-tulley-win-the-2026-new-york-governor-republican-primary-election": {
-    "id": "824321",
-    "conditionId": "0x2ab732c4416793d54052b0e810ccda61018766fb4486be18c5f145f2918b4a0d",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-betsy-mccaughey-win-the-2026-new-york-governor-republican-primary-election": {
-    "id": "824322",
-    "conditionId": "0xa6442927ed30cc021de8b5c47a6262d69d0166a095bda068d2e7996df0694c63",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-bruce-blakeman-win-the-2026-new-york-governor-republican-primary-election": {
-    "id": "824323",
-    "conditionId": "0x142eb6d138c289acf13177a69971aca9ddfb494313c30818c6211ec91f1ebf6e",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-governor-republican-primary-winner",
-    "negRisk": true
-  },
   "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election": {
     "id": "825091",
     "conditionId": "0x6f78fd69fd6dafb695a8f4074dac11971b1da612bd150aa0c837efbd86417292",
@@ -19437,69 +19387,9 @@
     "eventSlug": "meloni-out-as-prime-minister-of-italy-by-june-30",
     "negRisk": false
   },
-  "will-mexico-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839357",
-    "conditionId": "0x6539e18b791b6107030843e6347040fb5e17211c9ba63b79db8bc0f162627821",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-a-winner",
-    "negRisk": true
-  },
-  "will-south-africa-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839358",
-    "conditionId": "0xc68a09ebb3f9aba4a0824a05bd451e827579b459fa3d72d381936ed027556a7a",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-a-winner",
-    "negRisk": true
-  },
-  "will-south-korea-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839359",
-    "conditionId": "0xb366117d881a5adac00775548d46fe437db5ac77ce1fc8af63a4cd6957c9a70d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-a-winner",
-    "negRisk": true
-  },
-  "will-czechia-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839360",
-    "conditionId": "0xd294f77d08d734816c146c5fdf30326a4a61abba79a1e8b7abd49c33725ef2d1",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-a-winner",
-    "negRisk": true
-  },
   "will-canada-win-group-a-in-the-2026-fifa-world-cup": {
     "id": "839394",
     "conditionId": "0xec3db24e9dd340f3e1aa8f68d730c666845c8e85f90f2a49df03290b18c66f74",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-b-winner",
-    "negRisk": true
-  },
-  "will-the-winner-of-bosnia-and-herzegovinaitalynorthern-irelandwales-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839395",
-    "conditionId": "0xfc4f6cd761f0f4042cc22b530664140a750a5fd77672987a5c2e2a23d3a293cb",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-b-winner",
-    "negRisk": true
-  },
-  "will-qatar-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839396",
-    "conditionId": "0x2df38216c0a37f8441bb3b132c654783479625c179594a254a8634e77c189f04",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -20967,16 +20857,6 @@
     "eventSlug": "maine-governor-republican-primary-winner",
     "negRisk": true
   },
-  "will-robert-charles-win-the-2026-maine-governor-republican-primary-election": {
-    "id": "904693",
-    "conditionId": "0xfbe834154a7b7d8ec4ccd0f5468b58a113bdbf0e7c0a41876ae8b014ab94631b",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-governor-republican-primary-winner",
-    "negRisk": true
-  },
   "will-david-jones-win-the-2026-maine-governor-republican-primary-election": {
     "id": "904694",
     "conditionId": "0x9f8bb7bf0e271ed0a67f0145005a5be21d9750f65b35d647c88866251b04d5f4",
@@ -21010,26 +20890,6 @@
   "will-ben-midgley-win-the-2026-maine-governor-republican-primary-election": {
     "id": "904697",
     "conditionId": "0xbf63a5bf27c5afcd8220698223ddf84a0964df2303cceb4324cf784ef3014776",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-robert-wessels-win-the-2026-maine-governor-republican-primary-election": {
-    "id": "904698",
-    "conditionId": "0x0d23cf1fa32998b05dd80673309620eb035ca116f9a0b02b3e8528ea3321bf01",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maine-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-garrett-mason-win-the-2026-maine-governor-republican-primary-election": {
-    "id": "904700",
-    "conditionId": "0x3849b5ccdb804bc5a3c1792bfc2d69aac25c3b6d2eb8694d442223069a3e7bf8",
     "endDate": "2026-06-09",
     "closed": false,
     "active": true,
@@ -93180,16 +93040,6 @@
     "eventSlug": "bol1-ant-abb-2026-05-22",
     "negRisk": true
   },
-  "will-mexico-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070731",
-    "conditionId": "0x765c607f355d16dcab5ac2cdd29a37779d1428a071b866bf767badc62346ec6c",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-south-korea-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070732",
     "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
@@ -96050,36 +95900,6 @@
     "eventSlug": "cs2-dia-brawls-2026-04-27",
     "negRisk": false
   },
-  "cs2-ence-bojong-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2093133",
-    "conditionId": "0x1d949e3518020396e0bee6d3edfbf99944d9abcc9f6c83630fb856de9b043b90",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-bojong-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-ence-bojong-2026-04-27-game2-odd-even-total-kills": {
-    "id": "2093135",
-    "conditionId": "0x48e3829f6d030fce0ad4e8a2dea1e9e249070cc2c22026a831f2e969330d3234",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-bojong-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-ence-bojong-2026-04-27-game3-odd-even-total-kills": {
-    "id": "2093138",
-    "conditionId": "0x1a6aa5e3a511ba00005445619034ee1a51c296b1f6c65da10c9fb32231e5f1cd",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-bojong-2026-04-27",
-    "negRisk": false
-  },
   "cs2-ence-boyban-2026-04-27-game1-odd-even-total-kills": {
     "id": "2093149",
     "conditionId": "0x32e2179649afe9d14d55656a442aad107f50511b3c05f4ff7c4d8f49f13e2f29",
@@ -97458,16 +97278,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "metamask-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "will-elon-musk-and-sam-altman-settle": {
-    "id": "2100687",
-    "conditionId": "0x140eb203cfebb00d88630f849849315352dfacc59af0bc1a0636721f60c38a0f",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-elon-musk-and-sam-altman-settle",
     "negRisk": false
   },
   "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election": {
@@ -117714,16 +117524,6 @@
     "eventSlug": "andy-burnham-becomes-an-mp-by-june-30",
     "negRisk": false
   },
-  "pll-red-atl-2026-06-05": {
-    "id": "2261464",
-    "conditionId": "0x4512c8a47b5ffc7863ddd2fc19e519c969b23098d2463d7868f8b08a06bb324d",
-    "endDate": "2026-06-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "pll-red-atl-2026-06-05",
-    "negRisk": false
-  },
   "sud-cara-bot-2026-05-27-exact-score-0-0": {
     "id": "2261654",
     "conditionId": "0x842481c7941207dd17f15e707013fecfe5b06b6be146f8a102a55c3c1a717ce0",
@@ -117872,69 +117672,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "sud-cara-bot-2026-05-27-exact-score",
-    "negRisk": true
-  },
-  "will-andy-burnham-win-the-2026-makerfield-by-election": {
-    "id": "2262261",
-    "conditionId": "0x77954e0830eafc9539916c591f717fb0635f6483bc9949524cb46483cd9b9d39",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
-    "negRisk": true
-  },
-  "will-robert-kenyon-win-the-2026-makerfield-by-election": {
-    "id": "2262262",
-    "conditionId": "0x3c169e95aea67be5fac1529b3ad8e891fe97ec54d1f272fab43b02cce948f6c2",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
-    "negRisk": true
-  },
-  "will-simon-finkelstein-win-the-2026-makerfield-by-election": {
-    "id": "2262263",
-    "conditionId": "0xabe82a80c5f69b8a663c5491946a3c62ccd056f17372269a80be084eb766ee22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
-    "negRisk": true
-  },
-  "will-john-skipworth-win-the-2026-makerfield-by-election": {
-    "id": "2262264",
-    "conditionId": "0xd28b5c3b00f5346c5d7f4661f764bf0fff56816b2728d9f281eb172d464c3248",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
-    "negRisk": true
-  },
-  "will-maria-deery-win-the-2026-makerfield-by-election": {
-    "id": "2262265",
-    "conditionId": "0x55a68ce06774f6d4e89c9204c912d3a4f83b30c723ef6ba0f05c1386d27765ee",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
-    "negRisk": true
-  },
-  "will-james-thomas-bryer-win-the-2026-makerfield-by-election": {
-    "id": "2262266",
-    "conditionId": "0x61b47b942f5fa1b60b4d66542c00934c05cfcb108bf7d67dab69aa0c30e4e367",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
-    "negRisk": true
-  },
-  "will-rebecca-shepherd-win-the-2026-makerfield-by-election": {
-    "id": "2262267",
-    "conditionId": "0x85980a4d08e4cf7911782b632108d17b124171c1e1610cf7861e260c6daf3538",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "makerfield-by-election-winner",
     "negRisk": true
   },
   "nick-fuentes-federally-charged": {
@@ -118437,36 +118174,6 @@
     "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
     "negRisk": true
   },
-  "chi1-cud-ohf-2026-06-10-exact-score-2-1": {
-    "id": "2262489",
-    "conditionId": "0xa284f109be7ba023fdcadfce5bdfbcce4d9acf686ce81abbb56e03fca2063871",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
-    "negRisk": true
-  },
-  "chi1-cud-ohf-2026-06-10-exact-score-3-0": {
-    "id": "2262490",
-    "conditionId": "0x13f4bb6f766f5ed505e8ade08825f8861db5d16333f238af3b75504e689af9cf",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
-    "negRisk": true
-  },
-  "chi1-cud-ohf-2026-06-10-exact-score-1-3": {
-    "id": "2262491",
-    "conditionId": "0xbb4c583661a167b2491de765c1eaad27bcac5746c2e5fb87218f823181534999",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
-    "negRisk": true
-  },
   "bol1-oru-uvi-2026-06-10-halftime-result-home": {
     "id": "2262492",
     "conditionId": "0x018d4d49ac880b2b58de54337586f0e62f84d9c10e16eee0bed91a6211d76091",
@@ -118477,16 +118184,6 @@
     "eventSlug": "bol1-oru-uvi-2026-06-10-halftime-result",
     "negRisk": true
   },
-  "chi1-cud-ohf-2026-06-10-exact-score-2-2": {
-    "id": "2262493",
-    "conditionId": "0x9e2861b33202890797b37b317b2ae9f6aaf61e4350f053e1f598e4863d357cba",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
-    "negRisk": true
-  },
   "bol1-oru-uvi-2026-06-10-halftime-result-draw": {
     "id": "2262494",
     "conditionId": "0x27212df05dea926acefb7fd7a6ff5f943f6152a1602edb2820a4c94fc08a7514",
@@ -118495,16 +118192,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-oru-uvi-2026-06-10-halftime-result",
-    "negRisk": true
-  },
-  "chi1-cud-ohf-2026-06-10-exact-score-3-1": {
-    "id": "2262495",
-    "conditionId": "0x7758e8fe9134ca1ecf0f48264059d2f7bd069e846c9406d6b2d9abe345b7dd3f",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
     "negRisk": true
   },
   "bol1-oru-uvi-2026-06-10-halftime-result-away": {
@@ -118530,16 +118217,6 @@
   "chi1-cud-ohf-2026-06-10-exact-score-3-2": {
     "id": "2262498",
     "conditionId": "0x1dc1cfecc56cedc90c8e04fbc422624d11e203f2c365bbac4b2505f336321275",
-    "endDate": "2026-06-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "chi1-cud-ohf-2026-06-10-exact-score",
-    "negRisk": true
-  },
-  "chi1-cud-ohf-2026-06-10-exact-score-3-3": {
-    "id": "2262499",
-    "conditionId": "0x09e34833f4808d2d151d2bf9867e4cc6e95a8b730aca1fe4ae170d9714b2eb81",
     "endDate": "2026-06-11",
     "closed": false,
     "active": true,
@@ -119642,5 +119319,335 @@
     "acceptingOrders": true,
     "eventSlug": "cs2-mibra-odka-2026-05-18",
     "negRisk": false
+  },
+  "cs2-clutch-eac-2026-05-16-game1-odd-even-total-kills": {
+    "id": "2275544",
+    "conditionId": "0x95e8e31d56082e07356550ed9046b72c4f03d641afe04ae9e91ae04bb6655627",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-eac-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-clutch-eac-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2275546",
+    "conditionId": "0x618bd710d032553140bc1f21ea1eab52f9197e48959c086dd0e368538354d65c",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-eac-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-clutch-eac-2026-05-16-game3-odd-even-total-kills": {
+    "id": "2275548",
+    "conditionId": "0x6f82cbf05c42e3d0aa2191895e6552869ef7b7191bfbcb809c266ebec79dc591",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-clutch-eac-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-lavked-inf6-2026-05-16-game1-odd-even-total-kills": {
+    "id": "2275555",
+    "conditionId": "0xec843683a334606354c626c512508ac5ce1f57b9feed57d2f2d21d1dd3cd35ab",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-inf6-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-lavked-inf6-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2275557",
+    "conditionId": "0xf19639dbcdf05d81b19190c699d21e49a9b140a61a45596bfff0ea81422695dc",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-inf6-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-33-don-2026-05-16-game1-odd-even-total-kills": {
+    "id": "2275587",
+    "conditionId": "0x0a18b79b92490cf4459bc6187232950e2fcdeb7727bce3a8c10e3f344f08572e",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-33-don-2026-05-16",
+    "negRisk": false
+  },
+  "cs2-33-don-2026-05-16-game2-odd-even-total-kills": {
+    "id": "2275589",
+    "conditionId": "0x690aeb4ade8f33e860ec09a2f89fce0cf84b05f32788bbfd07474f4e348f653e",
+    "endDate": "2026-05-16",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-33-don-2026-05-16",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-exact-score-0-0": {
+    "id": "2275797",
+    "conditionId": "0x6d2ea76b168a35974a435faf9b31a829c3b02e3a9d4ee06ee72f2ea039537aea",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-0-1": {
+    "id": "2275798",
+    "conditionId": "0x1f849339face974cf0396af6c85e84908e58109b37e51c10fdd72ecefe16284e",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-1-0": {
+    "id": "2275799",
+    "conditionId": "0x28e1b3a64772cf7c8b5ebd3e8975fccadb8045ad3d2af997b330715f755fecc9",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-0-2": {
+    "id": "2275800",
+    "conditionId": "0xc12b0ff3bb89b9e8a225f6b0b08d29a648592a611b0f995ec7ca75dd697fcdd0",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-1-1": {
+    "id": "2275801",
+    "conditionId": "0xac72295cb02d5c03899b7fd57602120af84217b8ce8b711d67becf272ed16edc",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-2-0": {
+    "id": "2275802",
+    "conditionId": "0xe99f1c46c295ab53ff897af79d4d99831c92ce3a782626418484bab66376dd9a",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-0-3": {
+    "id": "2275803",
+    "conditionId": "0x4aee0c8264b29841f6f99bf36e174d51f6268004a63913b4d92e4d3f3458af84",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-1-2": {
+    "id": "2275804",
+    "conditionId": "0xa088cb1b67dea2485aaa2271cbff2d4010531b97a2ba7fdfa8e0ebc032c21d91",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-2-1": {
+    "id": "2275805",
+    "conditionId": "0xac55746cc270807a2b91b44df623da731a55f2b0fa45fe195d0b528a304891e9",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-3-0": {
+    "id": "2275806",
+    "conditionId": "0xb0172e85293daa3e61fa495e1921bff6849761da76c46d5252bc653725788210",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-1-3": {
+    "id": "2275807",
+    "conditionId": "0xd129b43082e2d25980b1fda4e37814cac5f82a2957a1f052f823a53c628fd7d4",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-2-2": {
+    "id": "2275808",
+    "conditionId": "0xd734948709a130df4402d0cb35a6f403337ccaab9a0e3dd4caa3a70f0684edf4",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-3-1": {
+    "id": "2275809",
+    "conditionId": "0x90b00bfdff7b43212cbbd104bae50c2ebbb0a0ff9b2e607269e1a280b9fa0d47",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-2-3": {
+    "id": "2275810",
+    "conditionId": "0xac88608d6ca8a050fd6f7c38e3da3936a4a0f5941a8714735e701d024826e3a9",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-3-2": {
+    "id": "2275811",
+    "conditionId": "0x3be77adb57af7aa3c7eb5e01f155915de3b6d494cd973cf41b3f69c2d003d0a2",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "el2-not-sal-2026-05-25-exact-score-3-3": {
+    "id": "2275812",
+    "conditionId": "0x1cec4ecb87b8f740d5778424715be170f533df66af6c88f3b5d098d20c7275dc",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
+    "negRisk": true
+  },
+  "will-meta-platforms-inc-meta-hit-low-660-in-may": {
+    "id": "2278824",
+    "conditionId": "0x12ea95e31d3dc5067fbd8fd929cd80f69a8de9aa8d0132f0d09adc3bbc989f6a",
+    "endDate": "2026-06-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": null,
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-nap": {
+    "id": "2278847",
+    "conditionId": "0xc2a9f6c7c9853adc4e07f7624a1e02d3f349a0d834f993d67911b4a47baba441",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-draw": {
+    "id": "2278849",
+    "conditionId": "0x6f15512e2de2d5687f86ef0a1d2ea30aff744b2aec73fe7a63b77f372ee29298",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-tom": {
+    "id": "2278850",
+    "conditionId": "0x42897702f07918eb2d4f2d35b0b9ae01cddd7c843a6f8ffc9df5b5c4f8714148",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-halftime-result-home": {
+    "id": "2278854",
+    "conditionId": "0x30a47a0b629f60a5bbebd6e349876dd09492e2dbad394a18f400e335fd7c63c8",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-halftime-result-draw": {
+    "id": "2278855",
+    "conditionId": "0x96c6151b7542389e36f6c9ee64745ddaa997cef126c21273abb63e795f91fd2a",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-halftime-result-away": {
+    "id": "2278856",
+    "conditionId": "0x4ea33bd84466a7f16b0afdc55cc817af01fd324112c058f1b4363991618bbe0f",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-halftime-result",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-exact-score-0-0": {
+    "id": "2278866",
+    "conditionId": "0xb7535a751438294c9d36bf3dadc50e64c59395015fc451e3b97e70ba27aa640e",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-exact-score-0-1": {
+    "id": "2278868",
+    "conditionId": "0x4b8faf668a7dc49365c5f14c00ef3346ddf00c2bec867852833f49209342112c",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-exact-score",
+    "negRisk": true
+  },
+  "bol1-nap-tom-2026-06-12-exact-score-1-0": {
+    "id": "2278870",
+    "conditionId": "0xfa3a753f95143a6d406707f237eac05a97df52d2a340dd17e65de344368b4708",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-exact-score",
+    "negRisk": true
   }
 }
