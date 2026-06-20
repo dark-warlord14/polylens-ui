@@ -19407,16 +19407,6 @@
     "eventSlug": "world-cup-group-d-winner",
     "negRisk": true
   },
-  "will-paraguay-win-group-d-in-the-2026-fifa-world-cup": {
-    "id": "839421",
-    "conditionId": "0x73b5c4c8e2cc6e60d97fe6747c19efd3c4d63b6983590bb82d8852d5f1fc46cc",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-d-winner",
-    "negRisk": true
-  },
   "will-australia-win-group-d-in-the-2026-fifa-world-cup": {
     "id": "839422",
     "conditionId": "0x802b8daacb36b5ea95011670cd004bffe3df70bc9a774da929fbd99074411e91",
@@ -73721,16 +73711,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-vitality-win-iem-cologne-major-2026": {
-    "id": "1892305",
-    "conditionId": "0xdf6e9ed2eaf69707c7a1162a240ca025a02b0a5028dc286c9248769e0044bdf7",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-aurora-win-iem-cologne-major-2026": {
     "id": "1892308",
     "conditionId": "0x6b15d5333d423f97c006bd201efa1f083af29819daea189d55219fccb1a4b9ab",
@@ -74240,96 +74220,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-usa-aus-2026-06-19-usa": {
-    "id": "1897118",
-    "conditionId": "0x7ebb07134794576c154f06fbaa1cc61a5292d58e280ce98207977771c0326c27",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-usa-aus-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-usa-aus-2026-06-19-draw": {
-    "id": "1897119",
-    "conditionId": "0xffa05800960fb8b1532c0f3f99f51b4996c9b447b0b195635e644e071e4b63e7",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-usa-aus-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-usa-aus-2026-06-19-aus": {
-    "id": "1897120",
-    "conditionId": "0xb1fca83dd9b3046c8db3ae0de2c8d56ee5d17d3aad54b7bbfa5c65000f6df350",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-usa-aus-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-sco-mar-2026-06-19-sco": {
-    "id": "1897121",
-    "conditionId": "0x5fac5a47f11802e8a7b82d76e05461bd4551fe199041fb45c5e6228c56532d4a",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sco-mar-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-sco-mar-2026-06-19-draw": {
-    "id": "1897122",
-    "conditionId": "0x577cffeb67b4b292a9f8e29b967e5de1c409333fabb752cf5057768c5e900422",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sco-mar-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-sco-mar-2026-06-19-mar": {
-    "id": "1897123",
-    "conditionId": "0xbc28e92d1fa999e842caf926cff56a580fb477f26d8c44c99aa29beb78062241",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sco-mar-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-bra-hai-2026-06-19-bra": {
-    "id": "1897124",
-    "conditionId": "0xc90381f6021b8dc8d07dd3d783d3927f34706f8ce1ed097b21cc92f31b5be076",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bra-hai-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-bra-hai-2026-06-19-draw": {
-    "id": "1897125",
-    "conditionId": "0xd414a4bdb4c86f835fb31e432ab3ea15e374fe7f39b6b0a224c7a521378967ea",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bra-hai-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-bra-hai-2026-06-19-hai": {
-    "id": "1897126",
-    "conditionId": "0xc7a9f8cf846f6eba833fc69da7340af7c150e6cf72fc9501507a4431bbcde19e",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bra-hai-2026-06-19",
-    "negRisk": true
   },
   "fifwc-tur-par-2026-06-19-tur": {
     "id": "1897127",
@@ -76040,76 +75930,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-trump-attend-nato-summit-279",
     "negRisk": false
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-less-than-200k": {
-    "id": "1912031",
-    "conditionId": "0xd226c6e56fb56bb1447811bc47c371420562b9ca3dcb226deed368f486a37f65",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-between-200k-and-250k": {
-    "id": "1912032",
-    "conditionId": "0x9dd0219eb57b21d53d9f563026f97a889f13130aecfff043e6c72685b35a62fd",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-between-250k-and-300k": {
-    "id": "1912033",
-    "conditionId": "0xf7d43d04efb874daca551c0b0c67095595afb960c4517188687087c5427003fe",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-between-300k-and-350k": {
-    "id": "1912034",
-    "conditionId": "0xfce7a369c452036112a590de72a867155df2100783497f76fc1dd9228fcfd4fa",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-between-350k-and-400k": {
-    "id": "1912035",
-    "conditionId": "0x1dc0ba41c11e0088509a2b3d38bcbc83c7ca5fc581f02102df161ae0cb1ed4ae",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-between-400k-and-450k": {
-    "id": "1912036",
-    "conditionId": "0x7c6e62c6659b09d685292c944a69cb8487b3a6833a81ad29e8e117bf6f86039d",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
-  },
-  "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-debut-week-album-sales-be-at-least-450k": {
-    "id": "1912037",
-    "conditionId": "0xa0de46b27ad846a9e1085a8d2e81fc71c593187086864b769c0f62d3909511d5",
-    "endDate": "2026-06-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-first-week-album-sales",
-    "negRisk": true
   },
   "will-natus-vincere-make-a-roster-change-before-july": {
     "id": "1912122",
@@ -92900,16 +92720,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-usa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070743",
-    "conditionId": "0x6bac5bbce7d0ef0a0e036fea1eb9ec66835c9795a553e766fa305b3a8b065d93",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-australia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070744",
     "conditionId": "0x38f5caccf3b53ef5abeb0056838e4e5df3f000e97a4fad7eb55431781b427d2c",
@@ -95618,36 +95428,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-dia-brawls-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-ence-boyban-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2093149",
-    "conditionId": "0x32e2179649afe9d14d55656a442aad107f50511b3c05f4ff7c4d8f49f13e2f29",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-boyban-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-ence-boyban-2026-04-27-game2-odd-even-total-kills": {
-    "id": "2093151",
-    "conditionId": "0x5b6eecfb1aece0852b30b649a852d590ab4528b4099e673d1c47eef79b452194",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-boyban-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-ence-boyban-2026-04-27-game3-odd-even-total-kills": {
-    "id": "2093153",
-    "conditionId": "0xca801cd81cac0d315f76b9a8e20ee567d59a3fe6897498669cfd4b5262c1e11e",
-    "endDate": "2026-04-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ence-boyban-2026-04-27",
     "negRisk": false
   },
   "cs2-navij1-pre-2026-04-28-game1-odd-even-total-kills": {
@@ -104111,39 +103891,9 @@
     "eventSlug": "super-rugby-pacific-winner",
     "negRisk": true
   },
-  "will-leinster-win-the-2026-united-rugby-championship-grand-final": {
-    "id": "2134626",
-    "conditionId": "0xb476f0a450d07b9710c56a7586c360b966ec15da3d760a6f9d63354039d9fc56",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "united-rugby-championship-winner",
-    "negRisk": true
-  },
-  "will-bulls-win-the-2026-united-rugby-championship-grand-final": {
-    "id": "2134636",
-    "conditionId": "0x0926558f39a70f1c50345d9f772341421b6c91f372c96f0d6222e97848a1e99d",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "united-rugby-championship-winner",
-    "negRisk": true
-  },
   "will-montpellier-win-the-2026-top-14-final": {
     "id": "2134657",
     "conditionId": "0xec72d75ca4418811475d37030723c086183686acd68e2387e29bdeca7a7f5b78",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "french-top-14-winner",
-    "negRisk": true
-  },
-  "will-racing-92-win-the-2026-top-14-final": {
-    "id": "2134660",
-    "conditionId": "0x4eed51b1a718fbbee321362b5d196871820c89261bd09ebb207404ce91f0cc1d",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -119649,5 +119399,255 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
     "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-3-1": {
+    "id": "2278956",
+    "conditionId": "0x8756de213d66bb21977806f50256657b7011f3450b436b828dc8129221c0c188",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-2-3": {
+    "id": "2278957",
+    "conditionId": "0x77853d8dd407693bf483154cbe5fe5d4dcaa48109a58584db15297edd512d400",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-3-2": {
+    "id": "2278958",
+    "conditionId": "0x3e3deb3d8f3fcf9d76f0ff9cdd6324562eda2f55a4b2388e4dd5e15292422625",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-3-3": {
+    "id": "2278959",
+    "conditionId": "0xa7ba9b57d405d930930a49c69584799ba6fdc29be2becc9dab5192b2cedcd0ee",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gua-oru-2026-06-13-exact-score-any-other": {
+    "id": "2278960",
+    "conditionId": "0xed1cd33e34fff5fee3195e53781feeaf787c1e4c6c7d8392c985c78a1cb2f151",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "cs2-pre-algo1-2026-05-17-game1-odd-even-total-kills": {
+    "id": "2281274",
+    "conditionId": "0xdbf7e55525b3710dacf5ab9ca91acfb3f01bdd407e37bb17a3068fefdf65c4b3",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-algo1-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-pre-algo1-2026-05-17-game2-odd-even-total-kills": {
+    "id": "2281276",
+    "conditionId": "0x112fde92c0592e2e0f20af485c8c03c415913fed499fd99f5f57b2053ac060bf",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-algo1-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-pre-algo1-2026-05-17-game3-odd-even-total-kills": {
+    "id": "2281278",
+    "conditionId": "0xd14484d2ec7348472214066283cfd671706b671b03cdb6fe389fabab2eb12ca6",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pre-algo1-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-kinoa-eac-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2281296",
+    "conditionId": "0xd774de6f711d8cb0eb7eef6a9897fbc9b54fb3fb23aa78ebafee232d9179610a",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kinoa-eac-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-kinoa-eac-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2281298",
+    "conditionId": "0x17a6f21c4eba18eb1e69b6242e912d9e1fdfb28aef36077e19aa1a93c2ab2dd9",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kinoa-eac-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-kinoa-eac-2026-05-18-game3-odd-even-total-kills": {
+    "id": "2281300",
+    "conditionId": "0xb13859c5d95359785a43365d85b2279d80930653a4c317ceeee0f4a7a6f09291",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-kinoa-eac-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-biga-wraith-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2281307",
+    "conditionId": "0xfc33119802b18f786ca6aee6fea2732968f1bb78a5c7dcc76f694728bf57ed66",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-wraith-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-biga-wraith-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2281309",
+    "conditionId": "0x1c3d36d09e21a267d51b3fabd5b1271e245133306a0e70fe0d110d6301158b0c",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-wraith-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-biga-wraith-2026-05-18-game3-odd-even-total-kills": {
+    "id": "2281311",
+    "conditionId": "0x9c84a4d2dc5f90a8ff62c2348b3ebf2b9dddd762d40b3df21b55ceaea8a83a56",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-biga-wraith-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-vita-pre-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2281485",
+    "conditionId": "0x9eb5d9b3fd1abeb2e9f2e269ac6eb3fa94294284c4c64630929d6d0c12397428",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vita-pre-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-vita-pre-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2281487",
+    "conditionId": "0x11c70ce869aef08d0412c1e97582d6c8996638f1809d9248a966be131fda88a1",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vita-pre-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-vita-pre-2026-05-18-game3-odd-even-total-kills": {
+    "id": "2281489",
+    "conditionId": "0xe87597fbb86cfd2c86c1dc30c61f03330814653af6bd0de9cef0a3bceddf1a90",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-vita-pre-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-lavked-don-2026-05-17-game1-odd-even-total-kills": {
+    "id": "2282647",
+    "conditionId": "0x964e97da24f661154cd7767ce1718f3c0be507040ec53dde2c1eca3b0bc2e299",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-don-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-lavked-don-2026-05-17-game2-odd-even-total-kills": {
+    "id": "2282649",
+    "conditionId": "0xcc3826d88f46fde8e10cf7b519076676e1402a969ab17e07f95e647ad224dc94",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-don-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-lavked-don-2026-05-17-game3-odd-even-total-kills": {
+    "id": "2282651",
+    "conditionId": "0xf4680a153203c52f45c356acf2b395ddeeab96953753a5e722be16020fb445bf",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lavked-don-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-2007-hypew-2026-05-17-game1-odd-even-total-kills": {
+    "id": "2282859",
+    "conditionId": "0x2a36d59783a31d0287ddbfe19620d1abff2347ce2370f78f6654ee6f519c05ff",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-2007-hypew-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-2007-hypew-2026-05-17-game2-odd-even-total-kills": {
+    "id": "2282861",
+    "conditionId": "0x46bef905ca2e119035bee49e04b884fe8c04ddd7f3b72745546fccc580a0e589",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-2007-hypew-2026-05-17",
+    "negRisk": false
+  },
+  "cs2-2007-hypew-2026-05-17-game3-odd-even-total-kills": {
+    "id": "2282863",
+    "conditionId": "0xfe2bcc4bcd39718dc34022fbe790ad0585d78758d9bad6b1b71fb3371a8b9ba1",
+    "endDate": "2026-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-2007-hypew-2026-05-17",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-spread-home-1pt5": {
+    "id": "2283401",
+    "conditionId": "0x21c60b1ca7acdd523a5bd5a590e28fed55ac233f61d3ce276fa07f8c9b48b1e2",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-spread-away-1pt5": {
+    "id": "2283402",
+    "conditionId": "0xd25f7b5463cf8fdcf101e4ae143496f95fbd34966905c2f8ce8759ff39c555b3",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
   }
 }
