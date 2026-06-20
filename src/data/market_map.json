@@ -589,16 +589,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-turkiye-win-the-2026-fifa-world-cup": {
-    "id": "558985",
-    "conditionId": "0x106ccc4508432a065a67394837d4c2c529a8d77ed69fa3ba90b81eedf5236598",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "xi-jinping-out-before-2027": {
     "id": "559651",
     "conditionId": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
@@ -19387,29 +19377,9 @@
     "eventSlug": "world-cup-group-c-winner",
     "negRisk": true
   },
-  "will-usa-win-group-d-in-the-2026-fifa-world-cup": {
-    "id": "839420",
-    "conditionId": "0xcbc96c93a1e80ffb7b5efeb2bd6c6a587ec16957eec8d2e823988cc51d6dac30",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-d-winner",
-    "negRisk": true
-  },
   "will-australia-win-group-d-in-the-2026-fifa-world-cup": {
     "id": "839422",
     "conditionId": "0x802b8daacb36b5ea95011670cd004bffe3df70bc9a774da929fbd99074411e91",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-d-winner",
-    "negRisk": true
-  },
-  "will-the-winner-of-kosovoromaniaslovakiatrkiye-playoff-win-group-d-in-the-2026-fifa-world-cup": {
-    "id": "839423",
-    "conditionId": "0x89575358da49d30f52b7d372b92c0dbaaaeb6d1537be96ebbc700d66d78249e5",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -101251,16 +101221,6 @@
     "eventSlug": "world-cup-most-clean-sheets-gk",
     "negRisk": true
   },
-  "will-johny-placide-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118047",
-    "conditionId": "0xf8638ebe2d21759167ec4d0118da81670d9534f7be17317cb9d3463f941655be",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
   "will-alireza-beiranvand-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118048",
     "conditionId": "0x86d3c738f2a1b52d9f7f1ad83c6bb743752199cef0a2cc1dc9a018768c8cd926",
@@ -101484,16 +101444,6 @@
   "will-mouez-hassen-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118070",
     "conditionId": "0x6b3a346591302cc7c7f900ecec83fdb8a3700447626fcf148937da8fbf84d71c",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-mert-gnok-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118071",
-    "conditionId": "0x389178abf8b85fd39d89cb39f2611e169576d497d748c6ae93eda832fe84cc4f",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -104374,16 +104324,6 @@
   "cs2-cirahv-sinqu-2026-05-04-game1-odd-even-total-kills": {
     "id": "2150618",
     "conditionId": "0x2602d843543996f985880d61cf0baa403b9c758bc2669e1d5b97ad840f93b418",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-cirahv-sinqu-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-cirahv-sinqu-2026-05-04-game2-odd-even-total-kills": {
-    "id": "2150622",
-    "conditionId": "0xa6fc48ca12e783a37831326d2c39b2ac1a3798c23d1bea93d25feb0b640217b6",
     "endDate": "2026-05-04",
     "closed": false,
     "active": true,
@@ -119648,6 +119588,66 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-spread-home-1pt5": {
+    "id": "2283912",
+    "conditionId": "0x66e9533cf662cad1ec73f783b78e0a9261252918deadf7947a2a064709c22f37",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-spread-away-1pt5": {
+    "id": "2283913",
+    "conditionId": "0xef29ca686b304c2d400bd6256880f0acf4049419cb987bed5e89729b31503fbc",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-spread-home-2pt5": {
+    "id": "2283914",
+    "conditionId": "0x497906ca313004fe535b81990f185c50fa0a9a6dd59a629bd93592ad530eb83a",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-spread-away-2pt5": {
+    "id": "2283915",
+    "conditionId": "0x5a32267915b5ce380bba51d87bdce0b3cd2875e5a8a570828bd66cc336520186",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-total-0pt5": {
+    "id": "2283917",
+    "conditionId": "0xca9c872bc61890a74e43acfc700f1613e92efa26a34d92cc027ef6b5386c6451",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-total-1pt5": {
+    "id": "2283919",
+    "conditionId": "0x606a34734c6ef46871997796b50aa2b2595188334c5af9a16cc1d28bc7d40eb3",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
     "negRisk": false
   }
 }
