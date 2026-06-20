@@ -519,16 +519,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-haiti-win-the-2026-fifa-world-cup": {
-    "id": "558977",
-    "conditionId": "0x506f80bcf76bc75e6b31a250e2d754f347c4c231665326931d58bdb339ba1913",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-curaao-win-the-2026-fifa-world-cup": {
     "id": "558978",
     "conditionId": "0xdb4b2f370c3d0e996fbb32213c87aa5402936e3d4882432b6738e2f5661b79a6",
@@ -72263,16 +72253,6 @@
     "eventSlug": "will-taylor-swift-release-taylor-swift-taylors-version-in-2026",
     "negRisk": false
   },
-  "2026-hockey-american-hockey-league-winner-chicago-wolves": {
-    "id": "1834045",
-    "conditionId": "0x8563ed56efbb24acc5efdc00ba79e88e8019af7ce602994a78a581dcfced137c",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-hockey-american-hockey-league-winner",
-    "negRisk": true
-  },
   "2026-hockey-american-hockey-league-winner-toronto-marlies": {
     "id": "1834067",
     "conditionId": "0x21c429c369b17dcb27e0983dc91f1a70e47d88d18490d631e9a4905d1e21bf18",
@@ -74220,36 +74200,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-tur-par-2026-06-19-tur": {
-    "id": "1897127",
-    "conditionId": "0x7bed81b0bd1cbe7cae0ad49fcf2d9e068d1ea2da49a36e638712daa55712a184",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tur-par-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-tur-par-2026-06-19-draw": {
-    "id": "1897130",
-    "conditionId": "0xb1a0254ee2dfe4fc6bb05e521cd068d463245f3763cac6ed3c464d6499a8cc07",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tur-par-2026-06-19",
-    "negRisk": true
-  },
-  "fifwc-tur-par-2026-06-19-par": {
-    "id": "1897133",
-    "conditionId": "0x4a2085d9d7302a081b64016124cf1981a5bcb1118392c9d645f1abb57ea14d65",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tur-par-2026-06-19",
-    "negRisk": true
   },
   "fifwc-nld-swe-2026-06-20-nld": {
     "id": "1897144",
@@ -92710,16 +92660,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-haiti-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070742",
-    "conditionId": "0x5ea45b0916e7ff547035047d0bd72502c1d1431c6196215f532741e14f997317",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-australia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070744",
     "conditionId": "0x38f5caccf3b53ef5abeb0056838e4e5df3f000e97a4fad7eb55431781b427d2c",
@@ -92733,16 +92673,6 @@
   "will-paraguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070745",
     "conditionId": "0x0cbb73759bb6ad83040cc6edb908a7dbd51855618082d2f5dd3b58937a79b306",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-turkiye-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070746",
-    "conditionId": "0x8c28874af6349a7e58f30909eecac5197bfdaa033b03ad98510853958ee41558",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -93680,16 +93610,6 @@
     "eventSlug": "world-cup-nation-to-reach-final",
     "negRisk": false
   },
-  "will-haiti-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071529",
-    "conditionId": "0x60b474a2554a4e230d4a13a8617e8a23ed44ffc88edb0c3e58f1a6a7afc5f81a",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
   "will-usa-reach-the-2026-fifa-world-cup-final": {
     "id": "2071530",
     "conditionId": "0xf0da2d17e6a966439fdb10c3623972da50825e6dbec55bf43ce651fbb8952bca",
@@ -93713,16 +93633,6 @@
   "will-paraguay-reach-the-2026-fifa-world-cup-final": {
     "id": "2071532",
     "conditionId": "0x5cf5dfd0b0ac6109c41cc61ee492368d95d7989be09b0854ca322974c9f86435",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-turkiye-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071533",
-    "conditionId": "0x19f232d352d8c07eb72f982713c7d026a9e216f55fcd1982417ad720b8eaa53a",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -119643,6 +119553,96 @@
   "el2-not-sal-2026-05-25-spread-away-1pt5": {
     "id": "2283402",
     "conditionId": "0xd25f7b5463cf8fdcf101e4ae143496f95fbd34966905c2f8ce8759ff39c555b3",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-spread-home-2pt5": {
+    "id": "2283403",
+    "conditionId": "0x4bac4f18bda0bdb8ed50efa5727663cbe81578f536c2d3db7f0ee002a39a9a0a",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-spread-away-2pt5": {
+    "id": "2283404",
+    "conditionId": "0xad1a62ec640f5462afd7864cd1dd0a60e2a71e13e83406800a719f307744498a",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-total-0pt5": {
+    "id": "2283405",
+    "conditionId": "0x679ac644c8cc8bd94d9086bc84c63ecfaa3995fbd4b69232e58eda42b4a12b32",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-total-1pt5": {
+    "id": "2283406",
+    "conditionId": "0xb6e3488853d65b4ba3c4ae740f46cf5f41af1bf47b67eebc6ee8f13431c7d851",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-total-2pt5": {
+    "id": "2283407",
+    "conditionId": "0x932a4b3cb22083b3be909dbd3fd70e330feee8b9a9b10a62d8114ebb5c2bd68b",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-total-3pt5": {
+    "id": "2283408",
+    "conditionId": "0xfe7126caf6632fe4cc4e7f9b3a6c02f08b3c2922caec872d31d8819daa681446",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-total-4pt5": {
+    "id": "2283409",
+    "conditionId": "0x82105ea1d8c38afdf7db2120b9a4d2c0fb389ea0a1ae248eb774efe24bd3a99e",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-total-5pt5": {
+    "id": "2283410",
+    "conditionId": "0x1b7bcbf1e0a45f039fd888db6f3f9a0076a2b55e64ffecded2f694e182572aef",
+    "endDate": "2026-05-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
+    "negRisk": false
+  },
+  "el2-not-sal-2026-05-25-btts": {
+    "id": "2283411",
+    "conditionId": "0xa043f487b01929313ccfdd44ebde7ca5355bc584afdebf80d153de7ce4172483",
     "endDate": "2026-05-25",
     "closed": false,
     "active": true,
