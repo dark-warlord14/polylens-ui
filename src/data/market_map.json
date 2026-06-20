@@ -73471,16 +73471,6 @@
     "eventSlug": "iem-cologne-major-2026-winner",
     "negRisk": true
   },
-  "will-aurora-win-iem-cologne-major-2026": {
-    "id": "1892308",
-    "conditionId": "0x6b15d5333d423f97c006bd201efa1f083af29819daea189d55219fccb1a4b9ab",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-falcons-win-iem-cologne-major-2026": {
     "id": "1892309",
     "conditionId": "0xfc1f0e02955453a09c0e74e473980de7fbee597a8859eadf0c7ec9e8b0237562",
@@ -73980,36 +73970,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-nld-swe-2026-06-20-nld": {
-    "id": "1897144",
-    "conditionId": "0xde92d563a6d742a4750c8c83a9c490ee5b02bd5d972a1765ab41c0f9095ef6c0",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nld-swe-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-nld-swe-2026-06-20-draw": {
-    "id": "1897145",
-    "conditionId": "0x28c19c840bd010dc279a8f14a417a9389c18801b271b407d7634425e8305de0b",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nld-swe-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-nld-swe-2026-06-20-swe": {
-    "id": "1897146",
-    "conditionId": "0xfd2cd91be3b1215099cea2512b3c98c3e2da290064dfc0ca815d4e315fb6fdf9",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nld-swe-2026-06-20",
-    "negRisk": true
   },
   "fifwc-ger-civ-2026-06-20-ger": {
     "id": "1897147",
@@ -103541,26 +103501,6 @@
     "eventSlug": "french-top-14-winner",
     "negRisk": true
   },
-  "will-exeter-chiefs-win-the-2026-english-premiership-rugby-final": {
-    "id": "2134687",
-    "conditionId": "0x02479a60c19c73f6f3ee1d15bfcd7fec6a99b4f58c3c982f5424c1226872e22f",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "premiership-rugby-winner",
-    "negRisk": true
-  },
-  "will-northampton-saints-win-the-2026-english-premiership-rugby-final": {
-    "id": "2134692",
-    "conditionId": "0xf0e59059347942a2de1877abb8b9b0999c4f7f4ea318c27b7dae99a988472a3a",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "premiership-rugby-winner",
-    "negRisk": true
-  },
   "cs2-pitsto-hec-2026-05-02-game1-odd-even-total-kills": {
     "id": "2136588",
     "conditionId": "0xd7d86b2155d531967211f182ee47b8889a37693fac2c90ed0e723e291b11a50b",
@@ -119649,5 +119589,65 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
     "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-total-5pt5": {
+    "id": "2283966",
+    "conditionId": "0xf7d96a9932ede33d4c619a6b5e720fa728912a5a2828b22b082200b4e1631fd1",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-btts": {
+    "id": "2283967",
+    "conditionId": "0x00055bc94dbe17419aed8df1310fb31ca673051b5162bcb837d3908dde4e4a34",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "mlb-tb-nyy-2026-05-23": {
+    "id": "2284198",
+    "conditionId": "0x0da3005f7d57b33cac257bcd4633611dd601709d2fa8bcb55749a98a3114d99f",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-nyy-2026-05-23",
+    "negRisk": false
+  },
+  "mlb-tb-nyy-2026-05-23-nrfi": {
+    "id": "2284199",
+    "conditionId": "0xd16a6b989616c8929d635f4d7415c34b6c650c2d2e96464fe33df8954e424f66",
+    "endDate": "2026-05-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-tb-nyy-2026-05-23",
+    "negRisk": false
+  },
+  "dogecoin-up-or-down-on-may-19-2026": {
+    "id": "2285113",
+    "conditionId": "0x6794bd77c56e7fa8b20d85c4ac1e8ca6f646eddcbb8f2766e5cc23a14ff672cb",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dogecoin-up-or-down-on-may-19-2026",
+    "negRisk": false
+  },
+  "will-yair-rodriguez-fight-arnold-allen-next": {
+    "id": "2285377",
+    "conditionId": "0xee2ab6c984ad827cf9083dd97c1b47d32977092a4fafbac7787181a3488b5a76",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
   }
 }
