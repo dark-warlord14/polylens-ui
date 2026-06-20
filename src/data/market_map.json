@@ -75381,16 +75381,6 @@
     "eventSlug": "kanye-blocked-from-entering-another-country-by-june-30",
     "negRisk": false
   },
-  "cs2-csdiil-encea1-2026-04-07-game3-odd-even-total-kills": {
-    "id": "1909393",
-    "conditionId": "0x12667684eaf2aceb0c678161f30877665e57fc3d581c337c793229a7f407d4d1",
-    "endDate": "2026-04-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-csdiil-encea1-2026-04-07",
-    "negRisk": false
-  },
   "cs2-bandac-ytigeres-2026-04-07-game1-odd-even-total-kills": {
     "id": "1909400",
     "conditionId": "0x7143869a1de6e9920f6f2f03e114984c185bcaa9206a7c6cd5335595c22a6f25",
@@ -119643,6 +119633,16 @@
   "bol1-nap-tom-2026-06-12-total-3pt5": {
     "id": "2283964",
     "conditionId": "0xcf3c72cd70ff14060a7eb463d1e767705f39928d43adeb794225c7f790819fbf",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-total-4pt5": {
+    "id": "2283965",
+    "conditionId": "0x505003b5f1f2b97b4fc7e297e8b500e9e97ba235f1d2528ed10e5be89ac7ef0a",
     "endDate": "2026-06-12",
     "closed": false,
     "active": true,
