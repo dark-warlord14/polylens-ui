@@ -24676,186 +24676,6 @@
     "eventSlug": "nasdaq-round-the-clock-trading-by-june-30",
     "negRisk": false
   },
-  "will-fuerza-popular-fp-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947220",
-    "conditionId": "0xa44566e684a257c0f0c2a6416edf100722472ca3ecab7ad3222db79bdbe9f3bc",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-per-libre-pl-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947221",
-    "conditionId": "0x1ff90b3af55846972c3c264e02f0078a7c0821c864fc62cd4b98b17242296678",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-accin-popular-ap-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947222",
-    "conditionId": "0x12ad7d12be6be9f3822d978dfe51bb1a59d5208422bda6155616a992937a9b9d",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-alianza-para-el-progreso-app-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947223",
-    "conditionId": "0x132225a15f2d05b147a54a7096b3a4100f581eaad079fd64ce5df8082d4b6746",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-avanza-pas-partido-de-integracin-social-avp-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947224",
-    "conditionId": "0x79879ec1f3baa9e40ec709b8cf80b2808f6f55920c31a6cd4fa249f6e9d5be36",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-renovacin-popular-rp-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947225",
-    "conditionId": "0xc4a9db7a0c81b75bc0b2009481b4e498a63c21e6f24949b6f1758c3986c270eb",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-somos-per-sp-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947226",
-    "conditionId": "0x7992be6bdda4f7ab2224831f9bd7cd3192ccb9c02640bcf61ff6c389f7cda056",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-podemos-per-pp-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947227",
-    "conditionId": "0x94bd997304da0c9f10bab538756814a3a5ce26bd28cf72343a9a5058f58f4db2",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-juntos-por-el-per-jp-win-the-most-seats-in-the-2026-peruvian-senate-election": {
-    "id": "947228",
-    "conditionId": "0x05b3c4a8779f467c490d05894d66634e7ed0bc982eed4463ca90fd1f59b78d1f",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-senate-election-winner",
-    "negRisk": true
-  },
-  "will-fuerza-popular-fp-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947240",
-    "conditionId": "0x83b661c9e68dde865ac656f20a57572e7168239445bdbde65ea6665b7a4100e4",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-per-libre-pl-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947241",
-    "conditionId": "0x05347b99afe166460607383ff61a796cb5f413a5a15504874bc9f587a1d5fb12",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-accin-popular-ap-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947242",
-    "conditionId": "0x5ebc51061f4bc2bd1f50dcd736b43de3cc0e471de8b4d6e6b3951670a57d03eb",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-alianza-para-el-progreso-app-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947243",
-    "conditionId": "0x40a7ea3a3be12c58027b38ad54e67d13e1470a08e2d90b4f755d8583d2e62586",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-avanza-pas-partido-de-integracin-social-avp-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947244",
-    "conditionId": "0xfd65fcde6ffd88ac7be03616cf44556630bd1f7530d7a9682c45fe8b726ae342",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-renovacin-popular-rp-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947245",
-    "conditionId": "0x554542102403f12796b0f8b519adbcd966c12f7ec6652392ef78fb653de4f7bf",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-somos-per-sp-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947246",
-    "conditionId": "0x36c233eb5eeec3300332ee463027adb6a7bb521df9780d9e7e0c028c7f1d0b9d",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-podemos-per-pp-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947247",
-    "conditionId": "0x41432f60cff78fa0e2da59012711172a6a356a7edb9a6384ca20d69bd26ea7ba",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
-  "will-juntos-por-el-per-jp-win-the-most-seats-in-the-2026-peruvian-chamber-of-deputies-election": {
-    "id": "947248",
-    "conditionId": "0xef6bd8e629dd6f51b02c9c57adc5c6e4251c8d427109eff08bebcdd3462e923b",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "peru-chamber-of-deputies-election-winner",
-    "negRisk": true
-  },
   "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election": {
     "id": "947268",
     "conditionId": "0xae6d3d20bc8f742922dc40880cd8a8671c10385a9912fa7cd670fba0643dfe96",
@@ -72223,16 +72043,6 @@
     "eventSlug": "will-taylor-swift-release-taylor-swift-taylors-version-in-2026",
     "negRisk": false
   },
-  "2026-hockey-american-hockey-league-winner-toronto-marlies": {
-    "id": "1834067",
-    "conditionId": "0x21c429c369b17dcb27e0983dc91f1a70e47d88d18490d631e9a4905d1e21bf18",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-hockey-american-hockey-league-winner",
-    "negRisk": true
-  },
   "2026-basketball-liga-nacional-de-bsquetbol-winner-gimnasia-y-esgrima-de-comodoro-rivadavia": {
     "id": "1834089",
     "conditionId": "0x310d19c17287ab7cea30ff4f6a79a235c03421f7b8fe5b34b6195ab81b407247",
@@ -75569,26 +75379,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kanye-blocked-from-entering-another-country-by-june-30",
-    "negRisk": false
-  },
-  "cs2-csdiil-encea1-2026-04-07-game1-odd-even-total-kills": {
-    "id": "1909389",
-    "conditionId": "0xd06ed748ddc427c8d04d2cbbd4b082845ecc26e510999fff1e3e650336ed6af2",
-    "endDate": "2026-04-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-csdiil-encea1-2026-04-07",
-    "negRisk": false
-  },
-  "cs2-csdiil-encea1-2026-04-07-game2-odd-even-total-kills": {
-    "id": "1909391",
-    "conditionId": "0xc531543a5c7b5d8f4c1ce27c72d930f6047731db8ea91620db370b9a1b60494a",
-    "endDate": "2026-04-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-csdiil-encea1-2026-04-07",
     "negRisk": false
   },
   "cs2-csdiil-encea1-2026-04-07-game3-odd-even-total-kills": {
@@ -103731,26 +103521,6 @@
     "eventSlug": "will-tucker-carlson-announce-presidential-run-by-june-30",
     "negRisk": false
   },
-  "will-chiefs-win-the-2026-super-rugby-pacific-grand-final": {
-    "id": "2134583",
-    "conditionId": "0x7aba816b62304ffdaa8c8b084041240a08b0e86a0fe60aff8b7f38fc75dd8cff",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "super-rugby-pacific-winner",
-    "negRisk": true
-  },
-  "will-hurricanes-win-the-2026-super-rugby-pacific-grand-final": {
-    "id": "2134586",
-    "conditionId": "0x39276277726fbadfcab01916bc8f125a56b2dc85cf767b87a39a03689b08f5c0",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "super-rugby-pacific-winner",
-    "negRisk": true
-  },
   "will-montpellier-win-the-2026-top-14-final": {
     "id": "2134657",
     "conditionId": "0xec72d75ca4418811475d37030723c086183686acd68e2387e29bdeca7a7f5b78",
@@ -104319,16 +104089,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-cad-p2n-2026-05-04",
-    "negRisk": false
-  },
-  "cs2-cirahv-sinqu-2026-05-04-game1-odd-even-total-kills": {
-    "id": "2150618",
-    "conditionId": "0x2602d843543996f985880d61cf0baa403b9c758bc2669e1d5b97ad840f93b418",
-    "endDate": "2026-05-04",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-cirahv-sinqu-2026-05-04",
     "negRisk": false
   },
   "doj-reopens-powell-investigation-by-june-30": {
@@ -119648,6 +119408,246 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-total-2pt5": {
+    "id": "2283921",
+    "conditionId": "0x8c704c43d4ef22529261ed7a683a26a6d4a770a802d2c7958a4f44a47c2e74c0",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-total-3pt5": {
+    "id": "2283923",
+    "conditionId": "0x48ff50592094752739bef23e1ea2a3c6e2af997d02478a90e563f7de2ee8789f",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-total-4pt5": {
+    "id": "2283925",
+    "conditionId": "0x6dcc70ec7230dbaa503dec9d04b80ae9e5a4212d3248f1283f1919694a100af8",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-total-5pt5": {
+    "id": "2283927",
+    "conditionId": "0xd4eab8a2c4b8ae2a2176424142263345b627336b3d3442778d12141ea02a9dbd",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gua-oru-2026-06-13-btts": {
+    "id": "2283929",
+    "conditionId": "0xb60911b2b9149f02f6c902519be6907cc03d261e4ac25a2129f3e76a03575df4",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gua-oru-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-spread-home-1pt5": {
+    "id": "2283933",
+    "conditionId": "0xf2f17aa41d8ab54a043627bc2da6218f4a4a16546ed6e17bab662fee0f777027",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-spread-away-1pt5": {
+    "id": "2283935",
+    "conditionId": "0xcc147784290c6aae030f03286658f5c2a323bcfdc09ff4f1f8d64bbf2674484e",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-spread-home-2pt5": {
+    "id": "2283936",
+    "conditionId": "0x858793403355e35bb0e3099d4171664e2012d4ed3b94c75e0efe0241695253c0",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-spread-away-2pt5": {
+    "id": "2283937",
+    "conditionId": "0x296d5d06c7ccd0a3422ba399697464a4a674218e5867ada067c3de3f9cc6ed67",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-total-0pt5": {
+    "id": "2283939",
+    "conditionId": "0x09247218a7496715eb9a9013896ce1fcaffe33f8621ee818db21fef105d8c77b",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-total-1pt5": {
+    "id": "2283941",
+    "conditionId": "0xe7a6e3a645c15ff5cc2d8e04e4859a21ff46c532be2106b4a2da83a082f936fe",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-total-2pt5": {
+    "id": "2283943",
+    "conditionId": "0x69383863c396c5e3223d772a96059a2e95ee8368f3dc4556f073ed9c1552a664",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-total-3pt5": {
+    "id": "2283945",
+    "conditionId": "0xd8025cb499cd9143098511dc17062ee81810f5f3e1503edec6814dd7b74f2308",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-total-4pt5": {
+    "id": "2283947",
+    "conditionId": "0xdaf6228059a79a646e8f32f68affed79c9cd7b83693ed2e7263ce274a5e93853",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-total-5pt5": {
+    "id": "2283950",
+    "conditionId": "0x3427dfa427bf893cb282be1bf8ba005e623b1729fed41cf8b7e16e4fdf18af89",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-aur-abb-2026-06-12-btts": {
+    "id": "2283952",
+    "conditionId": "0x55e9b05614fd1bcc6a4d2f0741ece800b3b70648ea9a243c576fdc7ab687665b",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-aur-abb-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-spread-home-1pt5": {
+    "id": "2283956",
+    "conditionId": "0xdddb30f8d700019c00fa7242e0c8ae876bab9ca96e0e1c1927fb92c501f760b8",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-spread-away-1pt5": {
+    "id": "2283958",
+    "conditionId": "0x2e268b81493e0744ab13afcf13463c517f2c0b8bfd3f67224d3b305b49307b47",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-spread-home-2pt5": {
+    "id": "2283959",
+    "conditionId": "0xac9393f7c8ddc9b2fae38f149fe77d155b90ec86430a1da8d9eae08c5a1180a9",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-spread-away-2pt5": {
+    "id": "2283960",
+    "conditionId": "0x62b3a1b3bb00f2f4647440f6479e92bb618a2f815ce80260e37de70f825bf49e",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-total-0pt5": {
+    "id": "2283961",
+    "conditionId": "0xf28b5a256a16b1f9c1d146217c56bf3da7acd3ed8b60e80275d90dedcb2e33c9",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-total-1pt5": {
+    "id": "2283962",
+    "conditionId": "0xa8990ff381034b812788a9af4422c4616fd673acd8700ca887e8ae132b07a3e8",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-total-2pt5": {
+    "id": "2283963",
+    "conditionId": "0x38504fea1db7744d86e22787e32f04e8b7387e033b3e7e343daebab088fb2f03",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
+    "negRisk": false
+  },
+  "bol1-nap-tom-2026-06-12-total-3pt5": {
+    "id": "2283964",
+    "conditionId": "0xcf3c72cd70ff14060a7eb463d1e767705f39928d43adeb794225c7f790819fbf",
+    "endDate": "2026-06-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-nap-tom-2026-06-12-more-markets",
     "negRisk": false
   }
 }
