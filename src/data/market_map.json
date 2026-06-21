@@ -77700,156 +77700,6 @@
     "eventSlug": "dota2-nemiga-1win-2026-04-12",
     "negRisk": false
   },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-oman-869": {
-    "id": "1961523",
-    "conditionId": "0x026750b9545df1861e77a85eb5461e621955344738355a6c7fe69bc78510d5d6",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-846": {
-    "id": "1961525",
-    "conditionId": "0x9e4b8175217a1423b682116f75e901ce695bdca6271bafed276879211267a098",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-qatar-436": {
-    "id": "1961526",
-    "conditionId": "0xc7373d242a34de5c184ffdc9707e7b179ea6aa8f8600686ca2ddecbdbec9457b",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-switzerland-861": {
-    "id": "1961527",
-    "conditionId": "0x291ff8aa0b7439389820e49584499d6dc65cf617dde1a47c4b84d05f42c85639",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-austria-512": {
-    "id": "1961528",
-    "conditionId": "0x061d30d493488624cb80cce362179251bd837ea6a0664ed4d7fd6a126ab8caa7",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-turkey-583": {
-    "id": "1961529",
-    "conditionId": "0x3a77d00f9f4a9a588a79d72a27cbdd07f8de96882b3d710badecd1b26e08764b",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-iran-484": {
-    "id": "1961530",
-    "conditionId": "0x30d6852a292eb101cc92a9eed7b2b7be612031f820c34228a2771bdc4343c9c4",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-the-united-states-744": {
-    "id": "1961531",
-    "conditionId": "0x991149c636b6756e36eb0af09200e7da254b07c488b708ef794f2595dc0b017b",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-egypt-743": {
-    "id": "1961532",
-    "conditionId": "0x2a903c12cade39c8cf0e348772644b657b6d6045c61295082dac8a9f717f5221",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-666": {
-    "id": "1961534",
-    "conditionId": "0x6967cb835a1ee6ec2b4e3a05ea32d91a10c6e72eeb50539018d0d7ec90305ada",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-kazakhstan-356": {
-    "id": "1961535",
-    "conditionId": "0xe9e2214285465e1d1fc3eaa2a3072c98346fd1dee8e6956768c5e41d4d0acd93",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-russia-252": {
-    "id": "1961537",
-    "conditionId": "0xfa8eeaa9872ac4fbe207d4ff0f559b3a59a3dc0a5350f03b3ccc6e9af79039c4",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-844": {
-    "id": "1961538",
-    "conditionId": "0x4cb5cc8406ef25b58f86ae5157f7dd6fc9bb28171f748aa61dec606776090a45",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-another-european-country-641": {
-    "id": "1961539",
-    "conditionId": "0xd45b7c592c566c75d5ee5a225d4ed0e2c75c84f06dd28c9c458f2bbfb6dcb0d3",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-another-country-367": {
-    "id": "1961540",
-    "conditionId": "0xfec5144509bab2118c9c172a71a3705e269a61aca2ab1de20cb23f0e17200661",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
   "will-variational-launch-a-token-by-september-30-2026-873": {
     "id": "1962606",
     "conditionId": "0x9ddae4ff01088555d2a7f99abf31532627c97e7452ec2a423f15da4076cce215",
@@ -79903,16 +79753,6 @@
   "will-marco-rubio-attend-the-next-us-x-iran-diplomatic-meeting": {
     "id": "1986505",
     "conditionId": "0xa65e9c75c4ad990e97e598f4c279887da5d51e0dddb781fcca0691c1c2798d9e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-attend-the-next-us-x-iran-diplomatic-meeting",
-    "negRisk": false
-  },
-  "will-jd-vance-attend-the-next-us-x-iran-diplomatic-meeting": {
-    "id": "1986506",
-    "conditionId": "0x7e5228c4aa228752fb75ec1ffcb315a5f2fef812d746ceb6601cee285366d1a8",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -119648,6 +119488,166 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-idp-ori-2026-06-13",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-draw": {
+    "id": "2286667",
+    "conditionId": "0x8c2d8f94d2025829207bd1d98cf42178d051d96c64ab6f4b627d6085c6b7290c",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-ori": {
+    "id": "2286676",
+    "conditionId": "0x43a0379c6cea791ec5f175acb6080f5c716e6d5c8e24055a90cabb84f149f8d0",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-halftime-result-home": {
+    "id": "2286684",
+    "conditionId": "0x304584acd5d417566070b2991af77195387c360208fbde1bcad06c72e0004f1e",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-halftime-result-draw": {
+    "id": "2286685",
+    "conditionId": "0x64716249d122b39e72887ac32429b5c4e166032b916ac2dd08588464d33cb66b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-halftime-result-away": {
+    "id": "2286686",
+    "conditionId": "0x6142d9598d91485f38ebd0a17031525bd9ad16b95efad8ef1f7cd0719c9595b6",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-0-0": {
+    "id": "2286687",
+    "conditionId": "0x842fc0e3c13f46340396565fff0305eb35916f3cafa94fd53d989c1fe607004d",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-0-1": {
+    "id": "2286688",
+    "conditionId": "0xb35ec73d0ea1aa85dcde0fc13406e67424293b5c94910fb44e5d92f6b69cf02b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-1-0": {
+    "id": "2286689",
+    "conditionId": "0xa5cbb976590aab49baf059e2f9f98a49bed5643b50953a5f3c0fa1dafa983757",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-0-2": {
+    "id": "2286690",
+    "conditionId": "0xabdd6e3e10273dac43f8c9a24a54aafd40e2e9e974ca9425eea4461366a836f4",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-1-1": {
+    "id": "2286691",
+    "conditionId": "0x102ae82452044f31b42fe81d3a628f5e1f5b59895560db56550bd85978d51e6d",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-2-0": {
+    "id": "2286692",
+    "conditionId": "0xb0bb3eabfd12ebb785db9865e38150f474b644706b63fdb8cef9150864e2c8a7",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-0-3": {
+    "id": "2286694",
+    "conditionId": "0xbc3124a7533aa6f94c6ae0bc062c444e11a20b610008075cf27e8b6c1cc6a9c6",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-1-2": {
+    "id": "2286695",
+    "conditionId": "0xa4a60497bf625885a19bc4e441ac0212888f6c9d5dc513e02c20f9c67cd5a61e",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-2-1": {
+    "id": "2286696",
+    "conditionId": "0xaf8127d900afd461d43666904bceecefb8e1e85f589c5d38d90de1fb4ffa34e1",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-3-0": {
+    "id": "2286697",
+    "conditionId": "0xee2b04f3354670adbb4ff7d0001909d72b46f2eac2d01d45c604f78c7b705b1c",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-1-3": {
+    "id": "2286698",
+    "conditionId": "0xed36305e5ebfaca0ddc88a6e42d5e125ed3dfda28c1ea4d1c06d34aa38b21b1f",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
     "negRisk": true
   }
 }
