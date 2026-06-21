@@ -19387,36 +19387,6 @@
     "eventSlug": "world-cup-group-d-winner",
     "negRisk": true
   },
-  "will-germany-win-group-e-in-the-2026-fifa-world-cup": {
-    "id": "839429",
-    "conditionId": "0x9c964b8dceb1b3fdf8ef5a53f24bd93a6d7464ef300ab11c336a7b791cdb6f3d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-e-winner",
-    "negRisk": true
-  },
-  "will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup": {
-    "id": "839431",
-    "conditionId": "0xa681d4cd61508a023cd9f194a0435421ad25db02d0db8a4aeb56ea97b1854716",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-e-winner",
-    "negRisk": true
-  },
-  "will-ecuador-win-group-e-in-the-2026-fifa-world-cup": {
-    "id": "839432",
-    "conditionId": "0xe4fe66449f041a76388f0e525f40c4b1543b37577810cfe2747d7ca9ef19bb07",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-e-winner",
-    "negRisk": true
-  },
   "will-netherlands-win-group-f-in-the-2026-fifa-world-cup": {
     "id": "839434",
     "conditionId": "0x9ad73ff7534b1051e2dad167a0b1617ae20f64f20770ae8bf89a59a7a7290669",
@@ -73951,36 +73921,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-tun-jpn-2026-06-21-tun": {
-    "id": "1897153",
-    "conditionId": "0x4c848328019296227bc205bb575cde555ed13f6fe5159e3f72636b4afd79dccd",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tun-jpn-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-tun-jpn-2026-06-21-draw": {
-    "id": "1897154",
-    "conditionId": "0x264e6793ab225b8fd861f13934ee8a826a864116e1dd727b38a65e2f7cd3f67c",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tun-jpn-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-tun-jpn-2026-06-21-jpn": {
-    "id": "1897155",
-    "conditionId": "0x051e0ea5b3c394114eacf8ce5e944ca63cbb6ccdef1d086cadc5dd129a3804e6",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tun-jpn-2026-06-21",
-    "negRisk": true
-  },
   "fifwc-esp-ksa-2026-06-21-esp": {
     "id": "1897161",
     "conditionId": "0x2fcf3968f5feff8c544b1be614f1c7aed22f5051949478bc0b39f9e966cab02a",
@@ -92320,16 +92260,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-tunisia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070753",
-    "conditionId": "0xebbdac391050303b03d01e3f53ee84050698d01a04dbeace9ecda45daef6fb4d",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-sweden-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070754",
     "conditionId": "0xbea8b7504ec86c42abb39512b385c4dc695ba6c1d3f4d3aa9dd0ceddb0957338",
@@ -93273,16 +93203,6 @@
   "will-japan-reach-the-2026-fifa-world-cup-final": {
     "id": "2071539",
     "conditionId": "0xdb7f8c5d178965b491474fdd6f18b25d2cb7042c5e300d405bffba04e8e4ea6c",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-tunisia-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071540",
-    "conditionId": "0x40e39f6d58df031bfa795e8cf2798a6c16fc89f3a9f4b4ec80ba1ec63a4c1861",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -101044,16 +100964,6 @@
   "will-yann-sommer-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118069",
     "conditionId": "0xf4bbe3a8b4be0bf60f355c0df119ce891b9ae03ba36d6f1a863b33557076a666",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-mouez-hassen-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118070",
-    "conditionId": "0x6b3a346591302cc7c7f900ecec83fdb8a3700447626fcf148937da8fbf84d71c",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -119648,6 +119558,96 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-uvi-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-halftime-result-away": {
+    "id": "2286640",
+    "conditionId": "0xb00224c32595bf1d9da9ee0af99074cef4366281107d8655dd22695764173f7c",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-0-0": {
+    "id": "2286641",
+    "conditionId": "0xdbea230574ce05775c875c568a687ed7b4cf9f8ef009567b905c4d936643df80",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-0-1": {
+    "id": "2286642",
+    "conditionId": "0x42c186fd37207893dd037b5bf12d966ec624bd390036e49ba54673b954b3c22c",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-1-0": {
+    "id": "2286643",
+    "conditionId": "0x4e519284ba209d0e2138b42061466e3a0d79c7aabe344947f6b25a3e62eed164",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-0-2": {
+    "id": "2286644",
+    "conditionId": "0xc46a218f46e7bcca6edd40aba5a9fcd5bace0e02321f69f61bd6cfed4f0d9b2c",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-1-1": {
+    "id": "2286646",
+    "conditionId": "0x96dbba0d6b1337a61cc34e334f5694b8fa560380fe8a25465e0c1cd1ebec2fe0",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-2-0": {
+    "id": "2286647",
+    "conditionId": "0xd18881d4ceaa436c30534eb032a8e6423ceaef7c8c3e5902788826123b79ec07",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-0-3": {
+    "id": "2286648",
+    "conditionId": "0xec546eb3a950868633cea233a986090e14ed2c3392a5263ede81f74e187a3366",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-1-2": {
+    "id": "2286649",
+    "conditionId": "0x87304ce4b483132cce338114041fee06a9a2f297c39fc4e699754dd7bcbbaedf",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
     "negRisk": true
   }
 }
