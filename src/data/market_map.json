@@ -47884,16 +47884,6 @@
     "eventSlug": "epstein-or-maxwell-confirmed-mossad-operatives-by-june-30",
     "negRisk": false
   },
-  "will-team-falcons-win-a-s-tier-event-in-2026": {
-    "id": "1321191",
-    "conditionId": "0x5e86f4cefb1811bae82ac897223f80329e91d984017d9d364fb64b311cd3d962",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-team-falcons-win-a-s-tier-event-in-2026",
-    "negRisk": false
-  },
   "will-project-hail-mary-get-the-most-oscar-nominations-at-the-99th-academy-awards": {
     "id": "1321498",
     "conditionId": "0x1a7c6656098abf4de8e475bd097ab63e6fba250a5dde06221bc5c762bf0a7d9e",
@@ -71993,16 +71983,6 @@
     "eventSlug": "2026-basketball-liga-nacional-de-bsquetbol-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-nacional-de-bsquetbol-winner-quimsa-de-santiago-del-estero": {
-    "id": "1834098",
-    "conditionId": "0xf7ecdf75677cbe3bceee2c1503e773700a16c299971c72abb7a14fc97f8d11e0",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-nacional-de-bsquetbol-winner",
-    "negRisk": true
-  },
   "2026-basketball-turkey-bsl-winner-beikta-gain": {
     "id": "1834137",
     "conditionId": "0x6dd21c7cfc6f148bd8713d917c76933225bc179c6da519fd76044e8b534983c7",
@@ -72026,16 +72006,6 @@
   "2026-basketball-germany-bbl-winner-alba-berlin": {
     "id": "1834153",
     "conditionId": "0xde61d80b3d37e12cc65a70e12c418518ea5805610655e93ecf6f112dccff1dc1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
-    "negRisk": true
-  },
-  "2026-basketball-germany-bbl-winner-bayern-munich": {
-    "id": "1834155",
-    "conditionId": "0xe9792ece93ef3da0fbc1664f58d7e32887e84d58f1cad0490b380f7af5649fab",
     "endDate": "2026-05-31",
     "closed": false,
     "active": true,
@@ -73401,26 +73371,6 @@
     "eventSlug": "arch-wnba-2026-champion",
     "negRisk": true
   },
-  "will-falcons-win-iem-cologne-major-2026": {
-    "id": "1892309",
-    "conditionId": "0xfc1f0e02955453a09c0e74e473980de7fbee597a8859eadf0c7ec9e8b0237562",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
-  "will-furia-win-iem-cologne-major-2026": {
-    "id": "1892311",
-    "conditionId": "0xa5c032ea59bef7295facaa3b2eada44ae2509eaff4b45d9896f48290f7f99510",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-atlanta-dream-win-the-2026-wnba-finals-857": {
     "id": "1892487",
     "conditionId": "0x4c9590ea909dcc59d896ac0742053dbb5727dc0bdd66380304b153022f512edb",
@@ -73900,36 +73850,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-esp-ksa-2026-06-21-esp": {
-    "id": "1897161",
-    "conditionId": "0x2fcf3968f5feff8c544b1be614f1c7aed22f5051949478bc0b39f9e966cab02a",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-esp-ksa-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-esp-ksa-2026-06-21-draw": {
-    "id": "1897162",
-    "conditionId": "0x55aa84891f31cedeaef953dfabbb56214ed9549f2ca3ddfe10d395bc58def557",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-esp-ksa-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-esp-ksa-2026-06-21-ksa": {
-    "id": "1897163",
-    "conditionId": "0x3abd1b7cf1488504d51a36c1e3f944597dfe6e0545a6fd34ef3d4a3746f90e59",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-esp-ksa-2026-06-21",
-    "negRisk": true
   },
   "fifwc-bel-irn-2026-06-21-bel": {
     "id": "1897168",
@@ -79753,26 +79673,6 @@
   "will-marco-rubio-attend-the-next-us-x-iran-diplomatic-meeting": {
     "id": "1986505",
     "conditionId": "0xa65e9c75c4ad990e97e598f4c279887da5d51e0dddb781fcca0691c1c2798d9e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-attend-the-next-us-x-iran-diplomatic-meeting",
-    "negRisk": false
-  },
-  "will-jared-kushner-attend-the-next-us-x-iran-diplomatic-meeting": {
-    "id": "1986507",
-    "conditionId": "0xf0abc9c2b0726ec594aa6547d121e46d5264d778f20acd00689d5c21b5e38d18",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-attend-the-next-us-x-iran-diplomatic-meeting",
-    "negRisk": false
-  },
-  "will-steve-witkoff-attend-the-next-us-x-iran-diplomatic-meeting": {
-    "id": "1986508",
-    "conditionId": "0x7e591fb31786d46761d906abbffbcec8eba519b649909bfb2d7833609a960782",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -101671,16 +101571,6 @@
     "eventSlug": "israel-x-iran-permanent-peace-deal-by",
     "negRisk": false
   },
-  "will-jd-vance-have-a-diplomatic-meeting-with-iran-by-june-30-2026": {
-    "id": "2126547",
-    "conditionId": "0xc45a4c5c01082f8c727add1be91ab92d6c4fb782dddc6ec0e92b7b992fa62202",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "jd-vance-diplomatic-meeting-with-iran-by-876",
-    "negRisk": false
-  },
   "cs2-pre-algo1-2026-05-01-game1-odd-even-total-kills": {
     "id": "2126573",
     "conditionId": "0xcf9cbba70997a3822dbad201475de56730f838003ebcc408121d2ee7404a9c87",
@@ -119648,6 +119538,116 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-2-2": {
+    "id": "2286699",
+    "conditionId": "0xaf47cb3241e14efd0a595ad7f73bdea63005bea0bc1ec34d76209bb223a0499d",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-3-1": {
+    "id": "2286700",
+    "conditionId": "0x5ba210e7d298036ee19ac2ee4986232b1c747985920838328dc67e803455bfc2",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-2-3": {
+    "id": "2286701",
+    "conditionId": "0xbdbfcaa7ea9ce1f6e79d23865fbdd9385dd7a0be8c5d9e6d62b7e84655e78173",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-3-2": {
+    "id": "2286703",
+    "conditionId": "0x39b71dc4217788386b81b6ddc42cb99090547cf21ff2581f82073a85a08f3df7",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-3-3": {
+    "id": "2286704",
+    "conditionId": "0x311510c894e9be298e17e46417f307a308db381a1c269a59da81b1d22d45b3fc",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-exact-score-any-other": {
+    "id": "2286705",
+    "conditionId": "0xbe591b3e52ccd30da11e9f541a04b482ea1246e99996ff54b43d33f585599097",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-alw": {
+    "id": "2286710",
+    "conditionId": "0x16ee5beaafae7c3824d7a3432e665bc546d186e25e594106e53e0adda8351100",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-draw": {
+    "id": "2286711",
+    "conditionId": "0x84eab7b83c4369de5dd3acb3f24189cde402fca91aac37dee7991e7666886b98",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-ant": {
+    "id": "2286721",
+    "conditionId": "0x4c813f914b5e4696d09d59f7d350784ed76cb5371d2d99082fab7870b71a58ef",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-halftime-result-home": {
+    "id": "2286730",
+    "conditionId": "0x1849ff8d0edae26182e14aecbd4018499ef5686c251fe327ced00ba355621e98",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-halftime-result-draw": {
+    "id": "2286731",
+    "conditionId": "0x98c3f8948ebfa6a7c2f1f2504559ca80f248054ac5eba2524d57639b0bc961d0",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-halftime-result",
     "negRisk": true
   }
 }
