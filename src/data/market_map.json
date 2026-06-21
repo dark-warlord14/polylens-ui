@@ -2419,7 +2419,7 @@
     "eventSlug": "macron-out-in-2025",
     "negRisk": false
   },
-  "starmer-out-by-june-30-2026-862-594-548-219-739-726": {
+  "starmer-out-by-june-30-2026-862-594-548-219-739-726-569-741-645": {
     "id": "597967",
     "conditionId": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
     "endDate": "2026-06-30",
@@ -8090,7 +8090,7 @@
     "eventSlug": "who-will-trump-meet-with-in-2026",
     "negRisk": false
   },
-  "starmer-out-by-december-31-2026-936-416-977-234-134-475-773-619-238-317": {
+  "starmer-out-by-december-31-2026-936-416-977-234-134-475-773-619-238-317-653-834-567": {
     "id": "666655",
     "conditionId": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
     "endDate": "2026-12-31",
@@ -19390,16 +19390,6 @@
   "will-germany-win-group-e-in-the-2026-fifa-world-cup": {
     "id": "839429",
     "conditionId": "0x9c964b8dceb1b3fdf8ef5a53f24bd93a6d7464ef300ab11c336a7b791cdb6f3d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-e-winner",
-    "negRisk": true
-  },
-  "will-curaao-win-group-e-in-the-2026-fifa-world-cup": {
-    "id": "839430",
-    "conditionId": "0x8adc5c917d97705182fae774e197254a67438d12609ab19eaba341245a654a2e",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -73461,16 +73451,6 @@
     "eventSlug": "arch-wnba-2026-champion",
     "negRisk": true
   },
-  "will-team-spirit-win-iem-cologne-major-2026": {
-    "id": "1892297",
-    "conditionId": "0x10cfe107f46a1f4465e41501bebf20edda4f16ef47b702a4f45cacce90e01d16",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "iem-cologne-major-2026-winner",
-    "negRisk": true
-  },
   "will-falcons-win-iem-cologne-major-2026": {
     "id": "1892309",
     "conditionId": "0xfc1f0e02955453a09c0e74e473980de7fbee597a8859eadf0c7ec9e8b0237562",
@@ -73970,66 +73950,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-ger-civ-2026-06-20-ger": {
-    "id": "1897147",
-    "conditionId": "0x232342e2a9200b203703a816f9d99d1c6a872333567af16f43d67a255e1a6aa8",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ger-civ-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-ger-civ-2026-06-20-draw": {
-    "id": "1897148",
-    "conditionId": "0x2b4abd4c4f6336b33cdaf7aa65430ef1f4afe7122d1678b1f3d022b4357cdbf5",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ger-civ-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-ger-civ-2026-06-20-civ": {
-    "id": "1897149",
-    "conditionId": "0xd9a23115df9698780e32b300739bcacadc9395e826d1b4c4608d404175d7ccea",
-    "endDate": "2026-06-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ger-civ-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-ecu-kor-2026-06-20-ecu": {
-    "id": "1897150",
-    "conditionId": "0xa90ce8b69a218dced329076162df3b79f99596d1dc71d93bd30a64a2c8b6ba3e",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ecu-kor-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-ecu-kor-2026-06-20-draw": {
-    "id": "1897151",
-    "conditionId": "0xa6cd933c6cc3487b1a8505ecfad35d38428cbc9e3df01cc81fa10219b8724d25",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ecu-kor-2026-06-20",
-    "negRisk": true
-  },
-  "fifwc-ecu-kor-2026-06-20-kor": {
-    "id": "1897152",
-    "conditionId": "0x9e030ad2c9ecc0037a1056f1641d913bddd5c7b26c100267fb8b22a4fb64936e",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ecu-kor-2026-06-20",
-    "negRisk": true
   },
   "fifwc-tun-jpn-2026-06-21-tun": {
     "id": "1897153",
@@ -83110,26 +83030,6 @@
     "eventSlug": "cs2-phanto-xi-2026-04-18",
     "negRisk": false
   },
-  "cs2-tnc-sashia-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012069",
-    "conditionId": "0xff61d11a50a9cae8c1f803326cde5142590d647ab8e130611629a7526291b7d7",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-tnc-sashia-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-rbls-sashia-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012072",
-    "conditionId": "0x388d3aea22550a5430791aca1543a80e563fe15682b876d0bfa9ee7de3faea2b",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-rbls-sashia-2026-04-18",
-    "negRisk": false
-  },
   "cs2-bojong-masq-2026-04-18-game1-odd-even-total-kills": {
     "id": "2012211",
     "conditionId": "0x28a037d8c97ecdf003db3364e8f96332d5914265b495b5293028929f0e448c37",
@@ -91051,26 +90951,6 @@
     "eventSlug": "japanese-parliament-dissolved-in-2026",
     "negRisk": false
   },
-  "will-sd-almeria-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062456",
-    "conditionId": "0x313fbdeab3b8236a30c262924a0bf1f37e2965bc22a93847b5a6535d57be193b",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
-  "will-malaga-cf-achieve-promotion-from-laliga-2-to-laliga-for-the-2026-27-season": {
-    "id": "2062489",
-    "conditionId": "0x8d569a2b58d151d93d5828e2ca60ca71906b0d175b15caf9b23c2f3a8744f96c",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "laliga-2-team-promoted-to-laliga",
-    "negRisk": false
-  },
   "will-xi-meet-with-takaichi-by-june-30-2026": {
     "id": "2062639",
     "conditionId": "0x179f2b47849751132bcd6ae56cc715fe881a419ce5259f6f3fa823809fa2ac27",
@@ -92383,16 +92263,6 @@
   "will-paraguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070745",
     "conditionId": "0x0cbb73759bb6ad83040cc6edb908a7dbd51855618082d2f5dd3b58937a79b306",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-germany-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070747",
-    "conditionId": "0xb8316d5b3cbd3a92e130a27a93c8eaf8faa29a09b3b3287787b621686889f9f5",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -103474,16 +103344,6 @@
   "will-montpellier-win-the-2026-top-14-final": {
     "id": "2134657",
     "conditionId": "0xec72d75ca4418811475d37030723c086183686acd68e2387e29bdeca7a7f5b78",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "french-top-14-winner",
-    "negRisk": true
-  },
-  "will-stade-franais-win-the-2026-top-14-final": {
-    "id": "2134662",
-    "conditionId": "0xcd23c4432988663bb68b9cb5307a7b1124c64de6fc2e742aa0d8c1795bb1aeab",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -119648,6 +119508,146 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "will-youssef-zalal-fight-arnold-allen-next": {
+    "id": "2285378",
+    "conditionId": "0x041e67285ee15479111fa7711b34bd707183f9a1066c8610377f1e32d505273c",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "will-lerone-murphy-fight-arnold-allen-next": {
+    "id": "2285379",
+    "conditionId": "0x0c0dea7d503da95f8562f4a88354af121f69b416ebd6a1cd54eec895a0b4b02a",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "will-aljamain-sterling-fight-arnold-allen-next": {
+    "id": "2285380",
+    "conditionId": "0x1d78b5cb8af3a73e6c6218ccbee3309d06aaa4a3f52a483ab1ceaa52bf01f8b3",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "will-alexander-volkanovski-fight-arnold-allen-next": {
+    "id": "2285381",
+    "conditionId": "0x5ccb3e992bc5097636c55ee02217a1f807378288249dea16331054e2d16d8992",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "will-movsar-evloev-fight-arnold-allen-next": {
+    "id": "2285382",
+    "conditionId": "0xa97e1d8838d4f2565d2376683bf824fcc92c91fb9a1e112b890ee47d5f181966",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "will-jean-silva-fight-arnold-allen-next": {
+    "id": "2285383",
+    "conditionId": "0x74925f325c86fee086fb30493b27eec741352dab00724978e81e94e7d6a83f95",
+    "endDate": "2027-05-17",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-who-will-arnold-allen-fight-next",
+    "negRisk": true
+  },
+  "atp-doubles-duncrib-bianshe-2026-05-19-first-set-total-8pt5": {
+    "id": "2285857",
+    "conditionId": "0xe8b7964f8dd911b63caa78005d75bc64c82e261c641d6b12703fe200cad50ada",
+    "endDate": "2026-05-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-doubles-duncrib-bianshe-2026-05-19",
+    "negRisk": false
+  },
+  "atp-doubles-duncrib-bianshe-2026-05-19-first-set-total-9pt5": {
+    "id": "2285860",
+    "conditionId": "0xcdc928eea9dcb2c1a5bf0d1be3b19a74fd5d06d412aaf2742ab4d15944409e99",
+    "endDate": "2026-05-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-doubles-duncrib-bianshe-2026-05-19",
+    "negRisk": false
+  },
+  "atp-doubles-duncrib-bianshe-2026-05-19-first-set-total-10pt5": {
+    "id": "2285862",
+    "conditionId": "0x464caacda7674896599d540dd79d9f1d5e9caf1b31884214a6831a0f52661617",
+    "endDate": "2026-05-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-doubles-duncrib-bianshe-2026-05-19",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-gvs": {
+    "id": "2286617",
+    "conditionId": "0x24cc423b37607b635ac8150f645cf80305f6eadf0da348308aae856bce6afd25",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-draw": {
+    "id": "2286619",
+    "conditionId": "0xbdf30ccd17e67feb85f70cd2ff5b649d941b47ecc79705d0ba0866d368ffe37e",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-uvi": {
+    "id": "2286627",
+    "conditionId": "0xd358e1f66a29d881c99522fa8d88bce232b6080c58d0e4e911c1da610c977948",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-halftime-result-home": {
+    "id": "2286638",
+    "conditionId": "0x77dae1ba70f3d0d3c3980c6f0bef31de8edb8ca75e269132e0717902bea96ba6",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-halftime-result",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-halftime-result-draw": {
+    "id": "2286639",
+    "conditionId": "0x1a0cefe6800581f952d940d2958dd6c7620bcce4969cfc9533aeda427ef68a41",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-halftime-result",
     "negRisk": true
   }
 }
