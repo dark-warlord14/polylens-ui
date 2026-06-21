@@ -289,16 +289,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-tunisia-win-the-2026-fifa-world-cup-165": {
-    "id": "558954",
-    "conditionId": "0xff0cfa9506cfa95759e4c7591654195bd26e3011f9882b51439135e04f2b69f1",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-ecuador-win-the-2026-fifa-world-cup-986": {
     "id": "558955",
     "conditionId": "0xbaf7780f9059e34b84301fd411f8dc573b4d56adfe6e0cda33daf304b1438da4",
@@ -19410,16 +19400,6 @@
   "will-sweden-win-group-f-in-the-2026-fifa-world-cup": {
     "id": "839436",
     "conditionId": "0x8bd82f13e633448c85e5c79428afcbf2b15bdb1e3c9f6ddbea62cb164f6fb23e",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-f-winner",
-    "negRisk": true
-  },
-  "will-tunisia-win-group-f-in-the-2026-fifa-world-cup": {
-    "id": "839437",
-    "conditionId": "0xeb021bae39c99ec2915555e9463bc6b9f14606da6257adab38ee9eb47b3ee17b",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -77720,29 +77700,9 @@
     "eventSlug": "dota2-nemiga-1win-2026-04-12",
     "negRisk": false
   },
-  "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-june-30-2026-673": {
-    "id": "1961522",
-    "conditionId": "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
   "will-the-next-diplomatic-us-iran-meeting-be-in-oman-869": {
     "id": "1961523",
     "conditionId": "0x026750b9545df1861e77a85eb5461e621955344738355a6c7fe69bc78510d5d6",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-the-uae-638": {
-    "id": "1961524",
-    "conditionId": "0xe24b9a3e9c3dbf6540d71a0a49dde378e2aa639241d93221f5a9109fd86ff3d0",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -77830,16 +77790,6 @@
     "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
     "negRisk": true
   },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-italy-332": {
-    "id": "1961533",
-    "conditionId": "0x549491140b9b057ecbc6606b0a7e15e860ae16c9778e95751291bdc9c13bfaa9",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
   "will-the-next-diplomatic-us-iran-meeting-be-in-iraq-666": {
     "id": "1961534",
     "conditionId": "0x6967cb835a1ee6ec2b4e3a05ea32d91a10c6e72eeb50539018d0d7ec90305ada",
@@ -77853,16 +77803,6 @@
   "will-the-next-diplomatic-us-iran-meeting-be-in-kazakhstan-356": {
     "id": "1961535",
     "conditionId": "0xe9e2214285465e1d1fc3eaa2a3072c98346fd1dee8e6956768c5e41d4d0acd93",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "where-will-the-next-us-iran-diplomatic-meeting-happen-455",
-    "negRisk": true
-  },
-  "will-the-next-diplomatic-us-iran-meeting-be-in-pakistan-295": {
-    "id": "1961536",
-    "conditionId": "0x0f3062f421a43ab9af2f3dc9c3eef48e2aab38a4c9858aca7651947642c4c964",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -82938,36 +82878,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-xi-eliten1-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-aab-inf6-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012039",
-    "conditionId": "0x2d604834e0af11d7d3c61b8e4378f9c6dab7d2d08ef67fb8af2c7877135c19ce",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-inf6-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-sashia-immune-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012042",
-    "conditionId": "0xd17305a92b6c1e2a7a8fa4498c9b284bc0c5c755524140a534acae96d3c42a22",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-immune-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-phanto-xi-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012045",
-    "conditionId": "0x7cacebe6d8206ecf796b709b6ff6e064835a62889837388c3c553be169273dfc",
-    "endDate": "2026-04-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-phanto-xi-2026-04-18",
     "negRisk": false
   },
   "cs2-bojong-masq-2026-04-18-game1-odd-even-total-kills": {
@@ -97268,16 +97178,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "james-comey-sentenced-to-prison-in-2026",
-    "negRisk": false
-  },
-  "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883-134-598-264": {
-    "id": "2109450",
-    "conditionId": "0x6fa13f31cceaf10ed3190df6e2aca0a93ab0d6fb46fd279003f17d4cdccee164",
-    "endDate": "2026-05-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "us-x-iran-diplomatic-meeting-by-329",
     "negRisk": false
   },
   "will-alex-cora-be-the-next-permanent-manager-of-the-philadelphia-phillies": {
@@ -119648,6 +119548,106 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-2-1": {
+    "id": "2286650",
+    "conditionId": "0x6721a804a6932961fc6c695fff9fff2fe4d4c7c8a2ac2427790bc5748ec1d8c5",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-3-0": {
+    "id": "2286651",
+    "conditionId": "0x6d9d4456be98e7ce077d039733588c093194a8efb835fb68dfcfabf5f19a268f",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-1-3": {
+    "id": "2286652",
+    "conditionId": "0x9ad1fbce4cad9272a52b3247a528c5df7982023d0e1778043fb1bcc17b87a535",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-2-2": {
+    "id": "2286653",
+    "conditionId": "0xaa0500a4715ac326267c86525f5a1116581bbd49d2b153315072140f838808e3",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-3-1": {
+    "id": "2286655",
+    "conditionId": "0x26921fbd7f7dd44beabc243745aa341b3539b5f065ef7201dbe0c9a9e4a40ea4",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-2-3": {
+    "id": "2286656",
+    "conditionId": "0xf9d96fbe3d39597fb1a05992b3e0effe0a9e838e24b888b3a49e1ec8a1fd2a5c",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-3-2": {
+    "id": "2286657",
+    "conditionId": "0xc29e841c42b8c14bf04fed1672501c3465dddc948305713336b5380715a9715d",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-3-3": {
+    "id": "2286658",
+    "conditionId": "0xad3c32706340077f10f9810cd8cde3c920c0d617deb8e7f7da96106abd7e86ec",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-gvs-uvi-2026-06-13-exact-score-any-other": {
+    "id": "2286659",
+    "conditionId": "0x89f907d97e6e705d594ba4a10f7c142b2a60196c9de2154c36a54d667e17c273",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-exact-score",
+    "negRisk": true
+  },
+  "bol1-idp-ori-2026-06-13-idp": {
+    "id": "2286664",
+    "conditionId": "0xbbca9a6c2062d30daf2e8cd455721831dbd67de76254b7c4495ba02e3003ddf6",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13",
     "negRisk": true
   }
 }
