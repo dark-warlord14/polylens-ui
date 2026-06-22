@@ -2409,16 +2409,6 @@
     "eventSlug": "macron-out-in-2025",
     "negRisk": false
   },
-  "starmer-out-by-june-30-2026-862-594-548-219-739-726-569-741-645": {
-    "id": "597967",
-    "conditionId": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "starmer-out-in-2025",
-    "negRisk": false
-  },
   "will-the-next-uk-election-is-called-by-june-30-2026": {
     "id": "598936",
     "conditionId": "0x1ec6f87bc7d6d0976bbaee5883577bc51be4ba5ef7c0127ccd96e9d64136df40",
@@ -8078,16 +8068,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "who-will-trump-meet-with-in-2026",
-    "negRisk": false
-  },
-  "starmer-out-by-december-31-2026-936-416-977-234-134-475-773-619-238-317-653-834-567": {
-    "id": "666655",
-    "conditionId": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "starmer-out-in-2025",
     "negRisk": false
   },
   "will-robert-f-kennedy-jr-leave-the-trump-administration-before-2027": {
@@ -30925,6 +30905,16 @@
   "will-maja-chwalinska-be-the-2026-womens-wimbledon-winner": {
     "id": "1088153",
     "conditionId": "0x406960f247849521a944271aa648629e1bed1733ee2089ced78e6af1cff18953",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2026-womens-wimbledon-winner",
+    "negRisk": true
+  },
+  "will-serena-williams-be-the-2026-womens-wimbledon-winner": {
+    "id": "1088154",
+    "conditionId": "0xe0da1bdf5e5ba07e107ae4ed7705b186e125ca07bf399e00a713552d26fe7ad3",
     "endDate": "2026-07-12",
     "closed": false,
     "active": true,
@@ -115654,16 +115644,6 @@
     "eventSlug": "ukraine-election-called-in-2025",
     "negRisk": false
   },
-  "andy-burnham-becomes-an-mp-by-june-30": {
-    "id": "2261135",
-    "conditionId": "0x36c602dc7d805c2d1fc931724693fe512f43110414a0cd455a7d8173d8e5546e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "andy-burnham-becomes-an-mp-by-june-30",
-    "negRisk": false
-  },
   "sud-cara-bot-2026-05-27-exact-score-0-0": {
     "id": "2261654",
     "conditionId": "0x842481c7941207dd17f15e707013fecfe5b06b6be146f8a102a55c3c1a717ce0",
@@ -119643,6 +119623,26 @@
   "bol1-alw-ant-2026-06-14-exact-score-2-3": {
     "id": "2286748",
     "conditionId": "0x81b617b9c8c0766bc60ac81f553ded3d86bb5f3b57d7970150d35b8cb735a612",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-3-2": {
+    "id": "2286749",
+    "conditionId": "0x9ea10160b48bef419f66620fe39cf16ef772fadc0dfcc9259a553a7063dac80d",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-3-3": {
+    "id": "2286750",
+    "conditionId": "0xbac59996bc7edac28f5110f3ebbb883f0046013836da2b5124ee8a0970310f4b",
     "endDate": "2026-06-14",
     "closed": false,
     "active": true,
