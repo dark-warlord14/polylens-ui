@@ -19437,16 +19437,6 @@
     "eventSlug": "world-cup-group-g-winner",
     "negRisk": true
   },
-  "will-new-zealand-win-group-g-in-the-2026-fifa-world-cup": {
-    "id": "839442",
-    "conditionId": "0x6d4e4bf288d8caa229a72a48b985722df1b803e11a9d0d7e9a3fa8275ecccb34",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-g-winner",
-    "negRisk": true
-  },
   "will-spain-win-group-h-in-the-2026-fifa-world-cup": {
     "id": "839561",
     "conditionId": "0x766aa2fb8fafc6f063de001e1d441d0e64d84f164093feb087226b47ffc32af1",
@@ -56104,6 +56094,16 @@
     "eventSlug": "mlb-2026-nl-mvp",
     "negRisk": true
   },
+  "will-kyle-schwarber-win-the-2026-national-league-mvp-award": {
+    "id": "1394952",
+    "conditionId": "0xccb39cd322612b2186dd8881a97bd7f9f9fbc5d639929a16eb0466f1859e988d",
+    "endDate": "2026-11-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-2026-nl-mvp",
+    "negRisk": true
+  },
   "will-tarik-skubal-win-the-2026-al-cy-young-award": {
     "id": "1395035",
     "conditionId": "0x77f3245af5c8ce72dedf0575e096ab97c9cb5721e610dc3806b69b21bf1e3b6b",
@@ -79538,26 +79538,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "united-x-american-airlines-merger-announced-in-2026",
-    "negRisk": false
-  },
-  "will-donald-trump-attend-the-next-us-x-iran-diplomatic-meeting": {
-    "id": "1986504",
-    "conditionId": "0xbdb17bc42314c7879e6bde4a15136a9a0f16605f6e530462b9dad774d1e63d86",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-attend-the-next-us-x-iran-diplomatic-meeting",
-    "negRisk": false
-  },
-  "will-marco-rubio-attend-the-next-us-x-iran-diplomatic-meeting": {
-    "id": "1986505",
-    "conditionId": "0xa65e9c75c4ad990e97e598f4c279887da5d51e0dddb781fcca0691c1c2798d9e",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-attend-the-next-us-x-iran-diplomatic-meeting",
     "negRisk": false
   },
   "will-israel-make-eric-adams-a-citizen": {
@@ -116920,16 +116900,6 @@
     "eventSlug": "lol-t1-drx-2026-05-20",
     "negRisk": false
   },
-  "will-gpt-5pt6-be-released-between-june-15-and-june-21-2026": {
-    "id": "2268862",
-    "conditionId": "0xee786ee609e3a767dfc625f3b6fb73f8cf143abfff4ca2ee7caf5cbf3a93089f",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "when-will-gpt-5pt6-be-released",
-    "negRisk": true
-  },
   "will-gpt-5pt6-be-released-between-june-22-and-june-28-2026": {
     "id": "2268863",
     "conditionId": "0x0fc751446629fdf52b5ce3f816a52d443dafe0e6dc68a4001ec14bdb38fb39d5",
@@ -119643,6 +119613,36 @@
   "bol1-alw-ant-2026-06-14-exact-score-1-3": {
     "id": "2286745",
     "conditionId": "0x4d4560f837d5bfc5f143ca43ca7942ed6ab248f4f66628e068b186789e76ee59",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-2-2": {
+    "id": "2286746",
+    "conditionId": "0x3cf719dde73991ab71dfa3aca99dc6e33d5e93cad0c769c41853058703406688",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-3-1": {
+    "id": "2286747",
+    "conditionId": "0xfada742dfeccf809542233a1d5588b90bade8dbab5913dfa90067d1bfa765fb0",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-2-3": {
+    "id": "2286748",
+    "conditionId": "0x81b617b9c8c0766bc60ac81f553ded3d86bb5f3b57d7970150d35b8cb735a612",
     "endDate": "2026-06-14",
     "closed": false,
     "active": true,
