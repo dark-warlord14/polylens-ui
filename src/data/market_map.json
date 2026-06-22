@@ -30542,16 +30542,6 @@
     "eventSlug": "2026-womens-wimbledon-winner",
     "negRisk": true
   },
-  "will-markta-vondrouov-be-the-2026-womens-wimbledon-winner": {
-    "id": "1088114",
-    "conditionId": "0xb141e4b9b85fdc779a74e5ad328ce2ddbdd04c486540e9c81675c123e147f724",
-    "endDate": "2026-07-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-womens-wimbledon-winner",
-    "negRisk": true
-  },
   "will-qinwen-zheng-be-the-2026-womens-wimbledon-winner": {
     "id": "1088115",
     "conditionId": "0xc5417fa97dc8810200055b509590edc97863bd4d72490907040017af0c4331d2",
@@ -73811,36 +73801,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-arg-aut-2026-06-22-arg": {
-    "id": "1897193",
-    "conditionId": "0x5bdcf0fd010eba1a55a0f3de9be6612fc72038279a734e994ce2e34664a3cfe4",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-arg-aut-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-arg-aut-2026-06-22-draw": {
-    "id": "1897194",
-    "conditionId": "0xac111edf9fdf6fab06525d9a0216c16a2e54483c0df7ac58f1a83e9fa53b0c72",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-arg-aut-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-arg-aut-2026-06-22-aut": {
-    "id": "1897197",
-    "conditionId": "0x73b3d2eee243a7f5438e12b72e2f33da013b0f3963302ee62bbc9198df121515",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-arg-aut-2026-06-22",
-    "negRisk": true
-  },
   "fifwc-fra-irq-2026-06-22-fra": {
     "id": "1897202",
     "conditionId": "0xe2c2cba80ca7e745aef3ff3c3a359db4d862f2b0ea40a9821bb137bb9e31b40f",
@@ -91883,16 +91843,6 @@
   "will-iraq-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070766",
     "conditionId": "0xcb1bcc07313aefb781b5e6426625e525d4071c93d2115a558808ef4495da50a4",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-argentina-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070767",
-    "conditionId": "0x8e534d6f28c124e3d7414561be384e79c4b108420d1c43a9a965289e2ec25576",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -114744,26 +114694,6 @@
     "eventSlug": "fed-decision-in-september-762",
     "negRisk": true
   },
-  "trump-meets-with-korean-leader-lee-jae-myung-by-june-30": {
-    "id": "2252261",
-    "conditionId": "0xf9425f18c93759ec5378b8ca06a0e7dd93949093ca15c442b452457d1d801c8b",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-meets-with-korean-leader-lee-jae-myung-by",
-    "negRisk": false
-  },
-  "trump-meets-with-korean-leader-lee-jae-myung-by-december-31": {
-    "id": "2252262",
-    "conditionId": "0xf7da64e591bcbf92377f1f677f7813138c0f50e6816bab04e1b810ae05df17ca",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "trump-meets-with-korean-leader-lee-jae-myung-by",
-    "negRisk": false
-  },
   "tesla-and-spacex-merger-officially-announced-by-december-31": {
     "id": "2252540",
     "conditionId": "0x85647246dede70416c9c71ea851d87facf4b5efe58c685f4acc5ea94a9487c10",
@@ -119649,5 +119579,75 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
     "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-any-other": {
+    "id": "2286751",
+    "conditionId": "0xce21819032555b00216973811d8ef564f74d3fd6d7a54aac15e0544522ad7520",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "ex-cuba-leader-raul-castro-in-us-custody-by-june-30": {
+    "id": "2287570",
+    "conditionId": "0x5402e80909b4c38c8232b6887e6ac991c7e299a64b64751b82bdd922c3e424f2",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ex-cuba-leader-raul-castro-in-us-custody-by",
+    "negRisk": false
+  },
+  "cs2-sng-inf1-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2288038",
+    "conditionId": "0x7b789f74e0f0525aea432b17e4bfa18e96f4031946445a8d2b91bd6df06c7a1c",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-inf1-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-sng-inf1-2026-05-19-game2-odd-even-total-kills": {
+    "id": "2288040",
+    "conditionId": "0x2e78492c5e61900a37d9106bc4d24e6cc8f8c815eb7be2708a55a86b5228bcd0",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-sng-inf1-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-rt1-mana-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2288068",
+    "conditionId": "0x0d834be6066f3a9c178fca62a0ae288d0ad15736a607d953db8d2139067ea06c",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-rt1-mana-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-rt1-mana-2026-05-19-game2-odd-even-total-kills": {
+    "id": "2288070",
+    "conditionId": "0xd1536bcb6416f21336c3db5bf39c5930216d5e429c30ac9691272d1414cc1db1",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-rt1-mana-2026-05-19",
+    "negRisk": false
+  },
+  "lol-t1-drx-2026-05-20-game2-kill-over-32pt5": {
+    "id": "2288199",
+    "conditionId": "0xb542e2e1b2f89ec2486b25645b09d1f8be6a271113ac439d4ee2fcb8905acd5f",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
   }
 }
