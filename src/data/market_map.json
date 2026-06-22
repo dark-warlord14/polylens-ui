@@ -19467,16 +19467,6 @@
     "eventSlug": "world-cup-group-h-winner",
     "negRisk": true
   },
-  "will-saudi-arabia-win-group-h-in-the-2026-fifa-world-cup": {
-    "id": "839563",
-    "conditionId": "0x8f9555e6c4da9369ac9bc23c250bb697aab93593cc06776febe0fad48add06ec",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-h-winner",
-    "negRisk": true
-  },
   "will-uruguay-win-group-h-in-the-2026-fifa-world-cup": {
     "id": "839564",
     "conditionId": "0xd136f80c161a40baa5890a7792a2a5bf264de0d5ef2711a23e4564b429969ff8",
@@ -71973,16 +71963,6 @@
     "eventSlug": "will-taylor-swift-release-taylor-swift-taylors-version-in-2026",
     "negRisk": false
   },
-  "2026-basketball-liga-nacional-de-bsquetbol-winner-gimnasia-y-esgrima-de-comodoro-rivadavia": {
-    "id": "1834089",
-    "conditionId": "0x310d19c17287ab7cea30ff4f6a79a235c03421f7b8fe5b34b6195ab81b407247",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-nacional-de-bsquetbol-winner",
-    "negRisk": true
-  },
   "2026-basketball-turkey-bsl-winner-beikta-gain": {
     "id": "1834137",
     "conditionId": "0x6dd21c7cfc6f148bd8713d917c76933225bc179c6da519fd76044e8b534983c7",
@@ -72001,16 +71981,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "2026-basketball-turkey-bsl-winner",
-    "negRisk": true
-  },
-  "2026-basketball-germany-bbl-winner-alba-berlin": {
-    "id": "1834153",
-    "conditionId": "0xde61d80b3d37e12cc65a70e12c418518ea5805610655e93ecf6f112dccff1dc1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-germany-bbl-winner",
     "negRisk": true
   },
   "2026-basketball-liga-endesa-winner-fc-barcelona": {
@@ -73850,96 +73820,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-bel-irn-2026-06-21-bel": {
-    "id": "1897168",
-    "conditionId": "0xebb200cb08bbe89c2523a345947d083a992e27cc479cf1b5568407751e026d2c",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bel-irn-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-bel-irn-2026-06-21-draw": {
-    "id": "1897171",
-    "conditionId": "0x11e878643f63c75e36d58024033ae710c19e696f652fa05ba705ab019402a633",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bel-irn-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-bel-irn-2026-06-21-irn": {
-    "id": "1897173",
-    "conditionId": "0xc4a229b06046a4a30d9b5cd73fc6364f6b7cdc48efc33bfc6b24a2806aa93f30",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bel-irn-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-ury-cvi-2026-06-21-ury": {
-    "id": "1897177",
-    "conditionId": "0x08d56195e88cedb87eeff396bd35e8b67d031e586169b3bc937b3095b3cdfe43",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ury-cvi-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-ury-cvi-2026-06-21-draw": {
-    "id": "1897179",
-    "conditionId": "0x2d8a8c670430061537dd6cb60c0fee0d0e0a4a3430fd00fcb390301f53e7b4d9",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ury-cvi-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-ury-cvi-2026-06-21-cvi": {
-    "id": "1897181",
-    "conditionId": "0x21454470816337a6dadbea2140070a57ec40146b8e65bba2fbf8e4216ea6f0a1",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ury-cvi-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-nzl-egy-2026-06-21-nzl": {
-    "id": "1897186",
-    "conditionId": "0x3a3de929cb6fb7a4eff6aeae1b515895de1e358ed9a2adc24eb04862251d132d",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nzl-egy-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-nzl-egy-2026-06-21-draw": {
-    "id": "1897187",
-    "conditionId": "0x0f8de21a80996a54ced1327cbf4e0702d417e1f49ec6ebe267bc5664c7f36d90",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nzl-egy-2026-06-21",
-    "negRisk": true
-  },
-  "fifwc-nzl-egy-2026-06-21-egy": {
-    "id": "1897188",
-    "conditionId": "0x16c981b47490212bbb7d70edcccc419a84ff5771bc85c1b7abae37128975953e",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nzl-egy-2026-06-21",
-    "negRisk": true
   },
   "fifwc-arg-aut-2026-06-22-arg": {
     "id": "1897193",
@@ -119648,6 +119528,126 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-alw-ant-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-halftime-result-away": {
+    "id": "2286732",
+    "conditionId": "0xc6bf904f636b4327d856de25478f892ca540019699755613b7dab169e6de8396",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-0-0": {
+    "id": "2286733",
+    "conditionId": "0x2afd05fcd0cb853f9cda5c82f5fafd5f876411513220c075a1e881b0fef9aa5d",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-0-1": {
+    "id": "2286735",
+    "conditionId": "0xa26a0c96ff13fdfb608b14b67bd78ccfd0ca46b939c2387a9bae5d2b30865600",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-1-0": {
+    "id": "2286736",
+    "conditionId": "0x0d9d0e185732fc89bf7582e8a62d1f24bbca15a8a92670468e666a1a8b41199b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-0-2": {
+    "id": "2286737",
+    "conditionId": "0xd7198aa4fa1bc299f96bf249af7b935be83252ce2f7f5016d858ad2509df06ab",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-1-1": {
+    "id": "2286738",
+    "conditionId": "0x837368e4e8d7a1cbb317b7203ae48253dce5aab680c972f21f568bb3f8faf268",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-2-0": {
+    "id": "2286739",
+    "conditionId": "0x9a401c1b6ae6747835bf9e16e9e9120395063a4b65302f3004b996c38004c42b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-0-3": {
+    "id": "2286740",
+    "conditionId": "0x0a1a20d206cc8732594979a33bed230b0de8e6e10c911def31f86fa1d2f4512f",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-1-2": {
+    "id": "2286741",
+    "conditionId": "0x2c8a0016d59a702b7942127d69ba3739209fd771b4f866ab035f777870671aff",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-2-1": {
+    "id": "2286742",
+    "conditionId": "0xb388d4956259d1c1ab6dd00f0b6ad91bc59239bc504c39670508853f3636a35e",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-3-0": {
+    "id": "2286744",
+    "conditionId": "0xd7ea43b6e13c07a173f9d92365c60aa0795b71879147313e17e9c3c61359659d",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-alw-ant-2026-06-14-exact-score-1-3": {
+    "id": "2286745",
+    "conditionId": "0x4d4560f837d5bfc5f143ca43ca7942ed6ab248f4f66628e068b186789e76ee59",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-exact-score",
     "negRisk": true
   }
 }
