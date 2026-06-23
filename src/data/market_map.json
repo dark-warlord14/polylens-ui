@@ -19497,16 +19497,6 @@
     "eventSlug": "world-cup-group-j-winner",
     "negRisk": true
   },
-  "will-algeria-win-group-j-in-the-2026-fifa-world-cup": {
-    "id": "839970",
-    "conditionId": "0xa7b34c55da0fcd45908bbc802c5fbd5f650e9b4dbb8639bfcd32baee8c62e243",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-j-winner",
-    "negRisk": true
-  },
   "will-austria-win-group-j-in-the-2026-fifa-world-cup": {
     "id": "839971",
     "conditionId": "0xf8e8b9cd02f6658ad6011530ece2650290aa528c8e27c8e6ea16e742d4e764f7",
@@ -23720,7 +23710,7 @@
   "will-troy-green-be-the-democratic-nominee-for-senate-in-oklahoma": {
     "id": "943395",
     "conditionId": "0xdbe2f22b6f905331858d5f20a742b9812fcf85976cbe031633f85267ac9193da",
-    "endDate": "2026-06-16",
+    "endDate": "2026-08-25",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -23730,7 +23720,7 @@
   "will-nkiyla-jasmine-thomas-be-the-democratic-nominee-for-senate-in-oklahoma": {
     "id": "943396",
     "conditionId": "0x1f1c63908f6c1e3b49559fa80ddef36baa9c5482d52e6a7852c90303807ee22e",
-    "endDate": "2026-06-16",
+    "endDate": "2026-08-25",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -23740,7 +23730,7 @@
   "will-jim-priest-be-the-democratic-nominee-for-senate-in-oklahoma": {
     "id": "943398",
     "conditionId": "0xac50f53a650c8de904c6944b02758d2c156409b8578a7d6838cdede8fc6cc7ba",
-    "endDate": "2026-06-16",
+    "endDate": "2026-08-25",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -23750,7 +23740,7 @@
   "will-rebekah-lavann-be-the-democratic-nominee-for-senate-in-oklahoma": {
     "id": "943399",
     "conditionId": "0x7213a32550c53fe4bd61ebf28b4a9bfa02ba2725890283e07ce265be8b111ec6",
-    "endDate": "2026-06-16",
+    "endDate": "2026-08-25",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -73801,66 +73791,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-fra-irq-2026-06-22-fra": {
-    "id": "1897202",
-    "conditionId": "0xe2c2cba80ca7e745aef3ff3c3a359db4d862f2b0ea40a9821bb137bb9e31b40f",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-fra-irq-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-fra-irq-2026-06-22-draw": {
-    "id": "1897204",
-    "conditionId": "0x1a319ce803f4e711b25af81a1d8bfb59c5cc6e5ef09ac046fc65e652c98e714e",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-fra-irq-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-fra-irq-2026-06-22-irq": {
-    "id": "1897206",
-    "conditionId": "0x4882b26f86a381553f8b5742e99c615a2ef95599c64feacba3fb826d18e745aa",
-    "endDate": "2026-06-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-fra-irq-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-nor-sen-2026-06-22-nor": {
-    "id": "1897211",
-    "conditionId": "0x9814196ae917e1c962ce23612be50554586828a996b06c800d502a137001bc25",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nor-sen-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-nor-sen-2026-06-22-draw": {
-    "id": "1897212",
-    "conditionId": "0x7e88fd883e66a95417ac88e33876c14479a06e7aaae4c23494233622e2ee0467",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nor-sen-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-nor-sen-2026-06-22-sen": {
-    "id": "1897213",
-    "conditionId": "0x6a6255f95ea0e78d9e8d016908e386989e3e92ef5127b56c7234bd5eafbb3dc5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nor-sen-2026-06-22",
-    "negRisk": true
-  },
   "fifwc-jor-alg-2026-06-22-jor": {
     "id": "1897218",
     "conditionId": "0xaffbeeaef4c956c9e55932d3384eb7ad02640d6a421f3e749f208cb9047cf982",
@@ -91803,16 +91733,6 @@
   "will-cape-verde-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070762",
     "conditionId": "0xf75a1084ea00a19ec34957397ea4d0a33258395ba6b50a2d4186ee0f77910c25",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-france-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070763",
-    "conditionId": "0x6f814a95b780d7e8b14e9a8ce9d34f7afa1b25be62830aefb3781a6aa9afbf16",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -119648,6 +119568,86 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
+  },
+  "cuba-leader-miguel-diaz-canel-in-us-custody-by-june-30": {
+    "id": "2288598",
+    "conditionId": "0x556ed1bd68b90391ba6aba834f61af5048c556fbfbfe81b9cef317fe81f04717",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cuba-leader-miguel-diaz-canel-in-us-custody-by-june-30",
+    "negRisk": false
+  },
+  "cs2-bsta-reda-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2289036",
+    "conditionId": "0xa3e63221744595c2ba32424b5b4f63d94aa08bebd6ad06124d1cbb730d2803b3",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bsta-reda-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-bsta-reda-2026-05-19-game1-odd-even-total-rounds": {
+    "id": "2289037",
+    "conditionId": "0x43fed1ffd9ede36bd80991a2d2db5c35c9c4ad143e7fe7ea5e93df867f78e2e7",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bsta-reda-2026-05-19",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11": {
+    "id": "2289164",
+    "conditionId": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-go-the-distance": {
+    "id": "2289177",
+    "conditionId": "0xdafe21a7e2347ac8966d538e84417aa3e76b479066d12f1f480dddb41d0abcc8",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-win-by-ko-tko": {
+    "id": "2289185",
+    "conditionId": "0x1d74554c897b0dfbe7a30650ecdc5e03a032c66467158906c2b9c76362f3101a",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-holloway-win-by-ko-tko": {
+    "id": "2289186",
+    "conditionId": "0x775f42b26ed999f5043f89932f06e01226651601c69368930bf5cf31359e6952",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-mcgregor-win-by-ko-tko": {
+    "id": "2289199",
+    "conditionId": "0x83f5724151afc1545bcd34df014e1d5d43a591b668262bc07b9f4f8863970a91",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
     "negRisk": false
   }
 }
