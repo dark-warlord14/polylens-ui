@@ -17661,16 +17661,6 @@
     "eventSlug": "which-states-will-donald-trump-visit-in-2026",
     "negRisk": false
   },
-  "will-donald-trump-visit-pennsylvania-in-2026": {
-    "id": "734894",
-    "conditionId": "0x902e22d654fa7f8669e3d2c655f8ccf1d182c973a33704f1b1b273adaae53b5a",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-states-will-donald-trump-visit-in-2026",
-    "negRisk": false
-  },
   "will-donald-trump-visit-rhode-island-in-2026": {
     "id": "734895",
     "conditionId": "0x242a95d3261445ae49eecf8e1206e24b6d151d523a55ef6f898a66c2ec74b23d",
@@ -19335,16 +19325,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-c-winner",
-    "negRisk": true
-  },
-  "will-australia-win-group-d-in-the-2026-fifa-world-cup": {
-    "id": "839422",
-    "conditionId": "0x802b8daacb36b5ea95011670cd004bffe3df70bc9a774da929fbd99074411e91",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-d-winner",
     "negRisk": true
   },
   "will-netherlands-win-group-f-in-the-2026-fifa-world-cup": {
@@ -26715,16 +26695,6 @@
     "acceptingOrders": true,
     "eventSlug": "ecb-rate-cut-in-2026",
     "negRisk": false
-  },
-  "tur-goz-riz-2026-01-19-draw": {
-    "id": "1005057",
-    "conditionId": "0xdad7959d3af0245ab15ed2dd5032f9f02e74ebec44cb1659f880f54225f7b847",
-    "endDate": "2026-01-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "tur-goz-riz-2026-01-19",
-    "negRisk": true
   },
   "puffpaw-fdv-above-50m-one-day-after-launch": {
     "id": "1005343",
@@ -38674,16 +38644,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "measles-cases-in-us-in-2026",
-    "negRisk": false
-  },
-  "col1-llf-cab-2026-01-24-total-3pt5": {
-    "id": "1252394",
-    "conditionId": "0xa5a069d77ecd1efed825c53a3ca096f9ff2a3e30436f61fd5b5584f808c47990",
-    "endDate": "2026-01-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "col1-llf-cab-2026-01-24-more-markets",
     "negRisk": false
   },
   "chi1-cd1-ohf-2026-02-01-total-1pt5": {
@@ -64300,16 +64260,6 @@
     "eventSlug": "tech-layoffs-up-or-down-in-2026",
     "negRisk": false
   },
-  "dota2-l1ga-pi-2026-03-21-game2-first-blood": {
-    "id": "1668944",
-    "conditionId": "0x2fdd80aa8f6eb236babd6a3db3b14921e9815ba6194378db0ab05f7f17dc8e66",
-    "endDate": "2026-03-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-l1ga-pi-2026-03-21",
-    "negRisk": false
-  },
   "criclcl-kon-sou-2026-03-24-completed-match": {
     "id": "1673156",
     "conditionId": "0xa146d6ce8a8f161f87cdc2cdcadce4110abdea589c5335c5b77f16454648a2d9",
@@ -73721,36 +73671,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-prt-uzb-2026-06-23-prt": {
-    "id": "1897228",
-    "conditionId": "0x7fb8010a0cdc4ac4f7e93fb7a532731fbb81f951dd451f2402648eaa3cf285e1",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-prt-uzb-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-prt-uzb-2026-06-23-draw": {
-    "id": "1897230",
-    "conditionId": "0x3dac1c6e41591af519fee14c8b7e47022825b19e04e643b115ca407c6a722617",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-prt-uzb-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-prt-uzb-2026-06-23-uzb": {
-    "id": "1897231",
-    "conditionId": "0x887f26cf6ab07f7aebdf203280c1f1cddbe1cd494f420316b94a2647238f48d1",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-prt-uzb-2026-06-23",
-    "negRisk": true
-  },
   "fifwc-eng-gha-2026-06-23-eng": {
     "id": "1897236",
     "conditionId": "0xff1ec56e0e47033727e33deab740896fbf1c6bb8a2b0068efdba3d900c7ba7a2",
@@ -75760,16 +75680,6 @@
     "eventSlug": "will-top-esports-make-a-roster-change-before-july",
     "negRisk": false
   },
-  "will-bilibili-gaming-make-a-roster-change-before-july": {
-    "id": "1923756",
-    "conditionId": "0xedd6f583beb92839a74d2c5c66bb26cfe6b87d82056580c57a78b2f2e0eb8fe5",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-bilibili-gaming-make-a-roster-change-before-july",
-    "negRisk": false
-  },
   "will-ninjas-in-pyjamas-make-a-roster-change-before-july": {
     "id": "1923757",
     "conditionId": "0xf838b92f94a3324c68a1aa8c37b93ca9d51dc5b6c9dbf563b6d5e820e7ac1c2c",
@@ -75908,16 +75818,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-waz-aab-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-sashia-immune-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928506",
-    "conditionId": "0x24b348a508f03ff2892f5f8cd72c1bafe53c96c225733e47e0909f7d38f05dca",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-immune-2026-04-10",
     "negRisk": false
   },
   "cs2-lgod-saw2-2026-04-10-game1-odd-even-total-kills": {
@@ -77328,16 +77228,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-vpf-z7-2026-04-13",
-    "negRisk": false
-  },
-  "dota2-l1ga-nemiga-2026-04-13-game1-first-blood": {
-    "id": "1966537",
-    "conditionId": "0xab1de2dc49aaa82d12fc74d8445551aa8c8bc990c81d087d13e038a751a9e003",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-l1ga-nemiga-2026-04-13",
     "negRisk": false
   },
   "cs2-vpp-don-2026-04-13-game1-odd-even-total-kills": {
@@ -82160,16 +82050,6 @@
     "eventSlug": "cs2-aab-eliten1-2026-04-18",
     "negRisk": false
   },
-  "cs2-inf6-xi-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012010",
-    "conditionId": "0xa46e1a9e9db96b691323a2bd0584f7a0fb6c1becbe37cf91442cb36282142482",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-inf6-xi-2026-04-18",
-    "negRisk": false
-  },
   "cs2-aab-xi-2026-04-18-game1-odd-even-total-kills": {
     "id": "2012013",
     "conditionId": "0xdb2aa5300d9b34c68aaa658ff9cab545e9027bdab8bc71728272f902d30d2e57",
@@ -82178,26 +82058,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-aab-xi-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-sashia-z7-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012016",
-    "conditionId": "0x63674e4eadff2b21409a4c31a99c9bc2a190d4a7bfd77df30dbf8d24fcbbabc5",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-z7-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-aab-phanto-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012027",
-    "conditionId": "0x21a2708889dd61c68c030ed236fefbb93ff6028290897998f3e5b6fca856e83c",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-phanto-2026-04-18",
     "negRisk": false
   },
   "cs2-bojong-masq-2026-04-18-game1-odd-even-total-kills": {
@@ -95250,7 +95110,7 @@
     "eventSlug": "gpt-5pt6-released-by",
     "negRisk": false
   },
-  "gpt-5pt6-released-by-july-31-2026-454-326-913-252-967-594-228": {
+  "gpt-5pt6-released-by-july-31-2026-454-326-913-252-967-594-228-346-674-229": {
     "id": "2100070",
     "conditionId": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
     "endDate": "2026-07-31",
@@ -117020,166 +116880,6 @@
     "eventSlug": "cs2-33-don-2026-05-16",
     "negRisk": false
   },
-  "el2-not-sal-2026-05-25-exact-score-0-0": {
-    "id": "2275797",
-    "conditionId": "0x6d2ea76b168a35974a435faf9b31a829c3b02e3a9d4ee06ee72f2ea039537aea",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-0-1": {
-    "id": "2275798",
-    "conditionId": "0x1f849339face974cf0396af6c85e84908e58109b37e51c10fdd72ecefe16284e",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-1-0": {
-    "id": "2275799",
-    "conditionId": "0x28e1b3a64772cf7c8b5ebd3e8975fccadb8045ad3d2af997b330715f755fecc9",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-0-2": {
-    "id": "2275800",
-    "conditionId": "0xc12b0ff3bb89b9e8a225f6b0b08d29a648592a611b0f995ec7ca75dd697fcdd0",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-1-1": {
-    "id": "2275801",
-    "conditionId": "0xac72295cb02d5c03899b7fd57602120af84217b8ce8b711d67becf272ed16edc",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-2-0": {
-    "id": "2275802",
-    "conditionId": "0xe99f1c46c295ab53ff897af79d4d99831c92ce3a782626418484bab66376dd9a",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-0-3": {
-    "id": "2275803",
-    "conditionId": "0x4aee0c8264b29841f6f99bf36e174d51f6268004a63913b4d92e4d3f3458af84",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-1-2": {
-    "id": "2275804",
-    "conditionId": "0xa088cb1b67dea2485aaa2271cbff2d4010531b97a2ba7fdfa8e0ebc032c21d91",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-2-1": {
-    "id": "2275805",
-    "conditionId": "0xac55746cc270807a2b91b44df623da731a55f2b0fa45fe195d0b528a304891e9",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-3-0": {
-    "id": "2275806",
-    "conditionId": "0xb0172e85293daa3e61fa495e1921bff6849761da76c46d5252bc653725788210",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-1-3": {
-    "id": "2275807",
-    "conditionId": "0xd129b43082e2d25980b1fda4e37814cac5f82a2957a1f052f823a53c628fd7d4",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-2-2": {
-    "id": "2275808",
-    "conditionId": "0xd734948709a130df4402d0cb35a6f403337ccaab9a0e3dd4caa3a70f0684edf4",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-3-1": {
-    "id": "2275809",
-    "conditionId": "0x90b00bfdff7b43212cbbd104bae50c2ebbb0a0ff9b2e607269e1a280b9fa0d47",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-2-3": {
-    "id": "2275810",
-    "conditionId": "0xac88608d6ca8a050fd6f7c38e3da3936a4a0f5941a8714735e701d024826e3a9",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-3-2": {
-    "id": "2275811",
-    "conditionId": "0x3be77adb57af7aa3c7eb5e01f155915de3b6d494cd973cf41b3f69c2d003d0a2",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
-  "el2-not-sal-2026-05-25-exact-score-3-3": {
-    "id": "2275812",
-    "conditionId": "0x1cec4ecb87b8f740d5778424715be170f533df66af6c88f3b5d098d20c7275dc",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-exact-score",
-    "negRisk": true
-  },
   "will-meta-platforms-inc-meta-hit-low-660-in-may": {
     "id": "2278824",
     "conditionId": "0x12ea95e31d3dc5067fbd8fd929cd80f69a8de9aa8d0132f0d09adc3bbc989f6a",
@@ -118058,116 +117758,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-2007-hypew-2026-05-17",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-spread-home-1pt5": {
-    "id": "2283401",
-    "conditionId": "0x21c60b1ca7acdd523a5bd5a590e28fed55ac233f61d3ce276fa07f8c9b48b1e2",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-spread-away-1pt5": {
-    "id": "2283402",
-    "conditionId": "0xd25f7b5463cf8fdcf101e4ae143496f95fbd34966905c2f8ce8759ff39c555b3",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-spread-home-2pt5": {
-    "id": "2283403",
-    "conditionId": "0x4bac4f18bda0bdb8ed50efa5727663cbe81578f536c2d3db7f0ee002a39a9a0a",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-spread-away-2pt5": {
-    "id": "2283404",
-    "conditionId": "0xad1a62ec640f5462afd7864cd1dd0a60e2a71e13e83406800a719f307744498a",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-total-0pt5": {
-    "id": "2283405",
-    "conditionId": "0x679ac644c8cc8bd94d9086bc84c63ecfaa3995fbd4b69232e58eda42b4a12b32",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-total-1pt5": {
-    "id": "2283406",
-    "conditionId": "0xb6e3488853d65b4ba3c4ae740f46cf5f41af1bf47b67eebc6ee8f13431c7d851",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-total-2pt5": {
-    "id": "2283407",
-    "conditionId": "0x932a4b3cb22083b3be909dbd3fd70e330feee8b9a9b10a62d8114ebb5c2bd68b",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-total-3pt5": {
-    "id": "2283408",
-    "conditionId": "0xfe7126caf6632fe4cc4e7f9b3a6c02f08b3c2922caec872d31d8819daa681446",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-total-4pt5": {
-    "id": "2283409",
-    "conditionId": "0x82105ea1d8c38afdf7db2120b9a4d2c0fb389ea0a1ae248eb774efe24bd3a99e",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-total-5pt5": {
-    "id": "2283410",
-    "conditionId": "0x1b7bcbf1e0a45f039fd888db6f3f9a0076a2b55e64ffecded2f694e182572aef",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
-    "negRisk": false
-  },
-  "el2-not-sal-2026-05-25-btts": {
-    "id": "2283411",
-    "conditionId": "0xa043f487b01929313ccfdd44ebde7ca5355bc584afdebf80d153de7ce4172483",
-    "endDate": "2026-05-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "el2-not-sal-2026-05-25-more-markets",
     "negRisk": false
   },
   "bol1-gua-oru-2026-06-13-spread-home-1pt5": {
@@ -119649,5 +119239,415 @@
     "acceptingOrders": true,
     "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
     "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-16c": {
+    "id": "2290102",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-17c": {
+    "id": "2290103",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-18c": {
+    "id": "2290104",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-19c": {
+    "id": "2290105",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-20c": {
+    "id": "2290106",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-21c": {
+    "id": "2290107",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-22c": {
+    "id": "2290108",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-23c": {
+    "id": "2290109",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-24corhigher": {
+    "id": "2290110",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "atp-norrie-navone-2026-05-20-first-set-winner-Norrie-vs-Navone": {
+    "id": "2290470",
+    "conditionId": "0x045c0b5a18204ca2a4a63d79a7621c207da558477a72930659bfbac71f6c32fc",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-norrie-navone-2026-05-20",
+    "negRisk": false
+  },
+  "atp-norrie-navone-2026-05-20-first-set-total-8pt5": {
+    "id": "2290475",
+    "conditionId": "0x0f1aff07364f695f8ef2744124269027a443c5c787977930367b7ee76db7ef1c",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-norrie-navone-2026-05-20",
+    "negRisk": false
+  },
+  "atp-norrie-navone-2026-05-20-first-set-total-9pt5": {
+    "id": "2290477",
+    "conditionId": "0x3563dfa84c2c0cba5b8299e4932d953c78724d8c32fd7637b1956d19bb15f9bb",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-norrie-navone-2026-05-20",
+    "negRisk": false
+  },
+  "atp-norrie-navone-2026-05-20-first-set-total-10pt5": {
+    "id": "2290479",
+    "conditionId": "0xef30c58780b72c52082e58e4952f0bef306524c8809f1b079004380c7c787664",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "atp-norrie-navone-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-brawls-clutch1-2026-05-18": {
+    "id": "2290675",
+    "conditionId": "0x30f2fa0734d24f972bfc79b4aeafb82815edbf8411a26951fc1dd0b14ce5405e",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-brawls-clutch1-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-brawls-clutch1-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2290676",
+    "conditionId": "0xb79ea29187cfdaa1a8dae131e4ccb15439b394ba76002e8ceb57683f6a958b10",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-brawls-clutch1-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-brawls-clutch1-2026-05-18-game1-odd-even-total-rounds": {
+    "id": "2290677",
+    "conditionId": "0x184141c91aaae858b7275ec6102b7b2a6fdaddab22b20ad0b6356eaa0b1905d3",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-brawls-clutch1-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-inf1-drama-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2291132",
+    "conditionId": "0x8bc1f94416255edeb2c79db3804634aafa1df5591d1ecd06269ec487a712d209",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-drama-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-inf1-drama-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2291134",
+    "conditionId": "0x5a951f528f435c83965f6cf641ef76567796b68b4dda733da02b563b80c290e9",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-drama-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-inf1-drama-2026-05-18-game3-odd-even-total-kills": {
+    "id": "2291136",
+    "conditionId": "0xa17059718d3b3730289e87cb22ba0bd49efd0cefbd072b8230a1b1d28d3939ab",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-inf1-drama-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-shishk-pitsto-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2291143",
+    "conditionId": "0x4642cf2063cd324be43c3002af45687d04f0c636234811108125cbb90e4c1296",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-pitsto-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-shishk-pitsto-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2291145",
+    "conditionId": "0xac74d28193529c1a24b05fec68aef2d705c35df46696d1062194afa7534732c1",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-pitsto-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-xept-dia-2026-05-18-game1-odd-even-total-kills": {
+    "id": "2291154",
+    "conditionId": "0xcdb739eddd71f760bad3d798a4932e0b3823505849570834311dcd3ddf7cf0d8",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xept-dia-2026-05-18",
+    "negRisk": false
+  },
+  "cs2-xept-dia-2026-05-18-game2-odd-even-total-kills": {
+    "id": "2291156",
+    "conditionId": "0x5e162c6834643684c2918b20a23e2ba3406377271bec0d49dc35bc751d9d2585",
+    "endDate": "2026-05-18",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-xept-dia-2026-05-18",
+    "negRisk": false
+  },
+  "bitcoin-up-or-down-may-20-2026-6am-et": {
+    "id": "2291633",
+    "conditionId": "0x644a99471995aff0c0642f122c1b33073695c26fe96020f9be400e9aa491e0f5",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bitcoin-up-or-down-may-20-2026-6am-et",
+    "negRisk": false
+  },
+  "solana-up-or-down-may-20-2026-6am-et": {
+    "id": "2291651",
+    "conditionId": "0x89d37edb6880ef2b42dae09260c91bd55838ea359910629cb76dcf187ee710e7",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "solana-up-or-down-may-20-2026-6am-et",
+    "negRisk": false
+  },
+  "xrp-up-or-down-may-20-2026-6am-et": {
+    "id": "2291652",
+    "conditionId": "0xef1e9d65592e314f9ff3a48a66fa584a62e8d0918e59f4a7660aa2fe2cad1437",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "xrp-up-or-down-may-20-2026-6am-et",
+    "negRisk": false
+  },
+  "dogecoin-up-or-down-may-20-2026-6am-et": {
+    "id": "2291653",
+    "conditionId": "0x73a6ed2c343826f59c0ec40b930ee7fbcacb1b4ca2121bb63ed710314f0a7be0",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dogecoin-up-or-down-may-20-2026-6am-et",
+    "negRisk": false
+  },
+  "hype-up-or-down-may-20-2026-6am-et": {
+    "id": "2291658",
+    "conditionId": "0x2787a78550c94d98b30375293ea09fcec1e037f6e0b297dcd6d1d783439a9878",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "hype-up-or-down-may-20-2026-6am-et",
+    "negRisk": false
+  },
+  "bnb-up-or-down-may-20-2026-6am-et": {
+    "id": "2291659",
+    "conditionId": "0x459db3bf74404793723b76c5b2259a5117c71020d05403f6e6e8bcdee2669752",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bnb-up-or-down-may-20-2026-6am-et",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-spread-home-1pt5": {
+    "id": "2292020",
+    "conditionId": "0xe29ac37b6c6bcfaf76d244ed25acb14e7ccae93457668d9491d478516bf10efb",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-spread-away-1pt5": {
+    "id": "2292023",
+    "conditionId": "0xe0a9431addaca0ad88e1a471d381368d1aca861be2a2ddbdfed0759b66908440",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-spread-home-2pt5": {
+    "id": "2292025",
+    "conditionId": "0xe1d174563f940540ae83b50af5128580063e5a08694d16cef0b139447ac61be0",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-spread-away-2pt5": {
+    "id": "2292027",
+    "conditionId": "0x5bd072e6bb22b1bb744b7e5e685d028ca4a75eb73b17af95f7a77a0e93fc4dc6",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-total-0pt5": {
+    "id": "2292030",
+    "conditionId": "0xb651a088b4420aaa4d3e21982c026ea04642f040c9c0c715d06b7222d9c326a2",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-total-1pt5": {
+    "id": "2292032",
+    "conditionId": "0xb1e9780d9e1d6658384a86897e26be44fa12d1300d0f4fcfb6b613d4e5730445",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-total-2pt5": {
+    "id": "2292035",
+    "conditionId": "0xf3021df702cb7ac4e40e67d0a302615e707d93ded13b97a648cd34d2e89eddcf",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-total-3pt5": {
+    "id": "2292038",
+    "conditionId": "0x271d79d3db9d47fb8282822e4d7c5d7591e2433e009a66cd739c89fdae6b9eb4",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-total-4pt5": {
+    "id": "2292040",
+    "conditionId": "0x015feca87beec599754c1f634552b71b2899ecaa185fce80da13e05b17e19832",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-total-5pt5": {
+    "id": "2292042",
+    "conditionId": "0x14d5dfe16e83e7a0a30138d25bd70ffddad6637293e2095546b10bf02495e285",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-alw-ant-2026-06-14-btts": {
+    "id": "2292044",
+    "conditionId": "0x5e24fb559a29d286a4abb2df7bf2cda3921aa00e77925ed69e64b95d6bd7a30c",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-alw-ant-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-spread-home-1pt5": {
+    "id": "2292051",
+    "conditionId": "0x4d79116207171fb67ec775f180ec8157d66b9b537fecc5246017012ebebc479f",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
   }
 }
