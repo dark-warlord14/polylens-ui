@@ -67955,7 +67955,7 @@
     "eventSlug": "arcium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "arcium-fdv-above-500m-one-day-after-launch": {
+  "arcium-fdv-above-500m-one-day-after-launch-313": {
     "id": "1747800",
     "conditionId": "0xfa22e8545ef8037416035dca24f9ea07e7be0485213315b264eecb6cc10a51a0",
     "endDate": "2028-01-01",
@@ -67965,7 +67965,7 @@
     "eventSlug": "arcium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "arcium-fdv-above-800m-one-day-after-launch": {
+  "arcium-fdv-above-800m-one-day-after-launch-446": {
     "id": "1747801",
     "conditionId": "0xa007336ca90e34b9d0809e3206622317adaf77a41f160f5f674ea3b27fe3d642",
     "endDate": "2028-01-01",
@@ -67975,7 +67975,7 @@
     "eventSlug": "arcium-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "arcium-fdv-above-1b-one-day-after-launch": {
+  "arcium-fdv-above-1b-one-day-after-launch-469": {
     "id": "1747802",
     "conditionId": "0xf82e5f2bc5279fa6e48aabf377a35410ba05e39c8b2bbeda88e4d8ee87e0aba4",
     "endDate": "2028-01-01",
@@ -82188,26 +82188,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-sashia-z7-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-eliten1-phanto-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012021",
-    "conditionId": "0xcb18c90cde3dc7bd6962fc71931d96025d19049f2b2b525fbefcce5dc80952f7",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-eliten1-phanto-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-immune-z7-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012024",
-    "conditionId": "0xe96376bec72ac25a1b40c3fbf0e91d67dcc256262705a2470fb77d3d33efd5e9",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-immune-z7-2026-04-18",
     "negRisk": false
   },
   "cs2-aab-phanto-2026-04-18-game1-odd-even-total-kills": {
@@ -119648,6 +119628,26 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-14corbelow": {
+    "id": "2290100",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-20-2026-15c": {
+    "id": "2290101",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-20-2026",
     "negRisk": true
   }
 }
