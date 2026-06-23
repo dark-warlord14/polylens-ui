@@ -49014,16 +49014,6 @@
     "eventSlug": "will-eurusd-hit-in-2026",
     "negRisk": false
   },
-  "will-eurusd-hit-1pt14-low-in-2026": {
-    "id": "1335143",
-    "conditionId": "0xce3db986c20f4bfc4bb65f467f124e269833abee42a7442a8244be7b4ffbbb8a",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-eurusd-hit-in-2026",
-    "negRisk": false
-  },
   "will-eurusd-hit-1pt12-low-in-2026": {
     "id": "1335144",
     "conditionId": "0x3c868e9850a59e8f123d363aa8446c05dd267b8946a75abf0d99535474eb3981",
@@ -77350,16 +77340,6 @@
     "eventSlug": "dota2-l1ga-nemiga-2026-04-13",
     "negRisk": false
   },
-  "dota2-carst-glyph-2026-04-13-game2-first-blood": {
-    "id": "1966759",
-    "conditionId": "0xa4bcc4252ff4973374f4f037b44269c44433a165f08d71844c73cbdff162139f",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-carst-glyph-2026-04-13",
-    "negRisk": false
-  },
   "cs2-vpp-don-2026-04-13-game1-odd-even-total-kills": {
     "id": "1967021",
     "conditionId": "0xb93e36e306404815baaf22b029b114e960fd8a21ebc77b52c7e6b6b89502541f",
@@ -82238,36 +82218,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-aab-phanto-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-eliten1-inf6-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012030",
-    "conditionId": "0xfbbde0b71fee94065a474d548c9ebaf7111cccd8cc7311c94180fdfe82fb8261",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-eliten1-inf6-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-phanto-inf6-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012033",
-    "conditionId": "0x3d6eeb0b3b336d13cdc7764ad032a397aec7bf1243e4f01c8a2a9670ca64e621",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-phanto-inf6-2026-04-18",
-    "negRisk": false
-  },
-  "cs2-xi-eliten1-2026-04-18-game1-odd-even-total-kills": {
-    "id": "2012036",
-    "conditionId": "0xedbcce29f9c094966f221e61f19b5966b66f4c5f5d22e3e531e1781e7b65ea1e",
-    "endDate": "2026-04-18",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-xi-eliten1-2026-04-18",
     "negRisk": false
   },
   "cs2-bojong-masq-2026-04-18-game1-odd-even-total-kills": {
@@ -119642,6 +119592,56 @@
   },
   "highest-temperature-in-jinan-on-may-20-2026-20c": {
     "id": "2290083",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-21c": {
+    "id": "2290084",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-22c": {
+    "id": "2290085",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-23c": {
+    "id": "2290086",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-24c": {
+    "id": "2290087",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-25corhigher": {
+    "id": "2290088",
     "conditionId": "",
     "endDate": "2026-05-20",
     "closed": false,
