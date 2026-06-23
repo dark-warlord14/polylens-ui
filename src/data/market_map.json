@@ -359,16 +359,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-jordan-win-the-2026-fifa-world-cup-233": {
-    "id": "558962",
-    "conditionId": "0x33a87d02fa01e958929385c74b8627d32cc4474e9ebd312d268865c5207147fa",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-morocco-win-the-2026-fifa-world-cup-464": {
     "id": "558963",
     "conditionId": "0x37a6de1b21803e5f3fb1965116218215d79963af4f7e51659696366267a63a03",
@@ -19465,36 +19455,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-i-winner",
-    "negRisk": true
-  },
-  "will-argentina-win-group-j-in-the-2026-fifa-world-cup": {
-    "id": "839969",
-    "conditionId": "0x174018cba2df7afe76f434e8ca93e55c76f2eb13015a5caf941ce6d270ba6264",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-j-winner",
-    "negRisk": true
-  },
-  "will-austria-win-group-j-in-the-2026-fifa-world-cup": {
-    "id": "839971",
-    "conditionId": "0xf8e8b9cd02f6658ad6011530ece2650290aa528c8e27c8e6ea16e742d4e764f7",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-j-winner",
-    "negRisk": true
-  },
-  "will-jordan-win-group-j-in-the-2026-fifa-world-cup": {
-    "id": "839972",
-    "conditionId": "0xbb9b4e331b792321469b9e49273203c997b7ee028d38d88a9fb2c730d35682a9",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-j-winner",
     "negRisk": true
   },
   "will-portugal-win-group-k-in-the-2026-fifa-world-cup": {
@@ -119642,6 +119602,46 @@
   },
   "highest-temperature-in-jinan-on-may-20-2026-16c": {
     "id": "2290079",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-17c": {
+    "id": "2290080",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-18c": {
+    "id": "2290081",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-19c": {
+    "id": "2290082",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-20c": {
+    "id": "2290083",
     "conditionId": "",
     "endDate": "2026-05-20",
     "closed": false,
