@@ -19457,26 +19457,6 @@
     "eventSlug": "world-cup-group-i-winner",
     "negRisk": true
   },
-  "will-senegal-win-group-i-in-the-2026-fifa-world-cup": {
-    "id": "839960",
-    "conditionId": "0x0174a32ce50b11c793acc6a643e1d583c99fa52016a319eab4052f9a59f4eb18",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-i-winner",
-    "negRisk": true
-  },
-  "will-the-winner-of-boliviairaqsuriname-playoff-win-group-i-in-the-2026-fifa-world-cup": {
-    "id": "839961",
-    "conditionId": "0x95631f2ff3207bc553eae1632c54eccdecdc38554e0b3f6894e73b7f22f83028",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-i-winner",
-    "negRisk": true
-  },
   "will-norway-win-group-i-in-the-2026-fifa-world-cup": {
     "id": "839962",
     "conditionId": "0x9da323e862ca9e583ae67a5130c8c79960cf173e7d76165cefd4ecd7f9333b90",
@@ -73791,36 +73771,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-jor-alg-2026-06-22-jor": {
-    "id": "1897218",
-    "conditionId": "0xaffbeeaef4c956c9e55932d3384eb7ad02640d6a421f3e749f208cb9047cf982",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jor-alg-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-jor-alg-2026-06-22-draw": {
-    "id": "1897221",
-    "conditionId": "0x26954c84bed166fa0da034c310e3bd62e7afa32d299314c352bc32eb08e5a210",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jor-alg-2026-06-22",
-    "negRisk": true
-  },
-  "fifwc-jor-alg-2026-06-22-alg": {
-    "id": "1897223",
-    "conditionId": "0x0d2071920da35396162280a1af346e1f799ed45e019ed43fae0c88dc1ac4b4d6",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jor-alg-2026-06-22",
-    "negRisk": true
-  },
   "fifwc-prt-uzb-2026-06-23-prt": {
     "id": "1897228",
     "conditionId": "0x7fb8010a0cdc4ac4f7e93fb7a532731fbb81f951dd451f2402648eaa3cf285e1",
@@ -91750,16 +91700,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-norway-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070765",
-    "conditionId": "0x35e0edf13c676c05379882d01980fb360b7885884d56c57f228cd306018efb3d",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-iraq-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070766",
     "conditionId": "0xcb1bcc07313aefb781b5e6426625e525d4071c93d2115a558808ef4495da50a4",
@@ -91783,16 +91723,6 @@
   "will-algeria-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070769",
     "conditionId": "0xa8cc82d418a2a52f1a8af46d00f8b87353b1926b1e59add939946c195e8f541f",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-jordan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070770",
-    "conditionId": "0xb2ddb90e1715deedf1fb1a1422aed272d2a1141f8e5e0ca6f1accb3a21a5eb77",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -92733,16 +92663,6 @@
   "will-algeria-reach-the-2026-fifa-world-cup-final": {
     "id": "2071556",
     "conditionId": "0x0f249191f4ea8283d6ce045431ac27dfc9ff98a597dfe0feb805a28b82adfba4",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-jordan-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071557",
-    "conditionId": "0x522fd0f8c21e522828a660252df7cd99459fdcaf790ca058fd5f7df1a459fe5b",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -95430,7 +95350,7 @@
     "eventSlug": "us-fertility-rate-up-in-q1-2026",
     "negRisk": false
   },
-  "gpt-5pt6-released-by-june-30-2026-522-692-467": {
+  "gpt-5pt6-released-by-june-30-2026-522-692-467-639": {
     "id": "2100069",
     "conditionId": "0xe69b388ee2691abc5a2b4d66d9212053782c88f30e26f3b791111e562d327224",
     "endDate": "2026-06-30",
@@ -95440,7 +95360,7 @@
     "eventSlug": "gpt-5pt6-released-by",
     "negRisk": false
   },
-  "gpt-5pt6-released-by-july-31-2026-454-326-913": {
+  "gpt-5pt6-released-by-july-31-2026-454-326-913-252-967-594-228": {
     "id": "2100070",
     "conditionId": "0xadc76ee95ed51195ce46e91570ef08e6bd7002cb8929bc81de4b64c4f16852e4",
     "endDate": "2026-07-31",
@@ -119649,5 +119569,85 @@
     "acceptingOrders": true,
     "eventSlug": "ufc-max1-con-2026-07-11",
     "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-win-by-submission": {
+    "id": "2289215",
+    "conditionId": "0xcf205565b16eea19d6452a68394bd5946483c98dc32f6460b4841d8ab26b7850",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-totals-0pt5": {
+    "id": "2289224",
+    "conditionId": "0x81a58db64eab71267d228a2abf12b6f8085dc3ff0e405ce746a0e27d7dd6b337",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-totals-1pt5": {
+    "id": "2289229",
+    "conditionId": "0xff035cf5c3f70463256404b8babfa41c8540f042b250b4f40aed014349eb3a69",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-totals-2pt5": {
+    "id": "2289234",
+    "conditionId": "0x177ae0e9894cf4805314073a76393490d48411f286246e805dea457580891366",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-totals-3pt5": {
+    "id": "2289251",
+    "conditionId": "0x4d264f373ab72a113c21aff46d178b67480d5ee37b1e1232b134cfeb9def8fcb",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "ufc-max1-con-2026-07-11-totals-4pt5": {
+    "id": "2289264",
+    "conditionId": "0xf56374659d7c5a8f277a9c108437570f3e2b4f8f1375f132fe347150633b58ff",
+    "endDate": "2026-07-12",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-max1-con-2026-07-11",
+    "negRisk": false
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-15corbelow": {
+    "id": "2290078",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-20-2026-16c": {
+    "id": "2290079",
+    "conditionId": "",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-20-2026",
+    "negRisk": true
   }
 }
