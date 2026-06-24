@@ -2029,16 +2029,6 @@
     "eventSlug": "colombia-presidential-election",
     "negRisk": true
   },
-  "will-juan-manuel-galn-win-the-2026-colombian-presidential-election": {
-    "id": "569364",
-    "conditionId": "0xb21bc2b511694c76f3ff6664836dd3561a916acf59b405b8f21f2ae8af7016fd",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
   "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election": {
     "id": "569366",
     "conditionId": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
@@ -19450,16 +19440,6 @@
   "will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup": {
     "id": "840172",
     "conditionId": "0xeb188213dda8c13a4783822755d725a5ac3fa80f5c38879762e395cac46873df",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-k-winner",
-    "negRisk": true
-  },
-  "will-uzbekistan-win-group-k-in-the-2026-fifa-world-cup": {
-    "id": "840173",
-    "conditionId": "0xd48dffff4da2d0b4cb315e82899b1d2c900e53de4a9503878a2efcbf20827a53",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -67865,76 +67845,6 @@
     "eventSlug": "pro-football-2026-mvp-winner",
     "negRisk": true
   },
-  "arcium-fdv-above-50m-one-day-after-launch": {
-    "id": "1747796",
-    "conditionId": "0x4229acb9472e339f7980b6ec3bbc2e79edd7dc8e9de56e8c700811dea3d2bafa",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "arcium-fdv-above-100m-one-day-after-launch": {
-    "id": "1747797",
-    "conditionId": "0xe776a0637704c4afdc6ad5eeda3589567c338897db8adeb547dc3adee58e034d",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "arcium-fdv-above-200m-one-day-after-launch": {
-    "id": "1747798",
-    "conditionId": "0xe8895707ed4f70e213b9dfb2b30b95e1820168ce716b53fa1fee613f839c877e",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "arcium-fdv-above-300m-one-day-after-launch": {
-    "id": "1747799",
-    "conditionId": "0xb97711083adb39b218473a5b5c564944e0841a3cb566f5d3fe1bbddd7e5d90a6",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "arcium-fdv-above-500m-one-day-after-launch-313": {
-    "id": "1747800",
-    "conditionId": "0xfa22e8545ef8037416035dca24f9ea07e7be0485213315b264eecb6cc10a51a0",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "arcium-fdv-above-800m-one-day-after-launch-446": {
-    "id": "1747801",
-    "conditionId": "0xa007336ca90e34b9d0809e3206622317adaf77a41f160f5f674ea3b27fe3d642",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "arcium-fdv-above-1b-one-day-after-launch-469": {
-    "id": "1747802",
-    "conditionId": "0xf82e5f2bc5279fa6e48aabf377a35410ba05e39c8b2bbeda88e4d8ee87e0aba4",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "arcium-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
   "mlb-perfect-game-thrown-in-2026-season": {
     "id": "1747867",
     "conditionId": "0x9f94a767a39b26dcb4f471de7c57575ba43e6482aaf213726a90f633bc68c05a",
@@ -71853,26 +71763,6 @@
     "eventSlug": "2026-basketball-liga-endesa-winner",
     "negRisk": true
   },
-  "2026-basketball-pro-a-winner-as-monaco": {
-    "id": "1834239",
-    "conditionId": "0x1be717c86bd4c069adf7a7e6cace4c804e16d6b38447a7892b773c4f9bee16e6",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-pro-a-winner",
-    "negRisk": true
-  },
-  "2026-basketball-pro-a-winner-paris-basketball": {
-    "id": "1834251",
-    "conditionId": "0xa7f35e22d750351613c07cbfda805e7cded375ed641798896f6256ecc7757741",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-pro-a-winner",
-    "negRisk": true
-  },
   "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1834974",
     "conditionId": "0x654f819503e93e6d936c2b304d69e3594ef16d09c26f54740c61b8934102dff2",
@@ -73670,66 +73560,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-eng-gha-2026-06-23-eng": {
-    "id": "1897236",
-    "conditionId": "0xff1ec56e0e47033727e33deab740896fbf1c6bb8a2b0068efdba3d900c7ba7a2",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-eng-gha-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-eng-gha-2026-06-23-draw": {
-    "id": "1897238",
-    "conditionId": "0x17d821a9197f8de3acbb8a0140e70cea9461e95871c58ae7aa9c608d53ad00d0",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-eng-gha-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-eng-gha-2026-06-23-gha": {
-    "id": "1897240",
-    "conditionId": "0x66b7ad48448f8846395b8df8edb5f20f99bed8e79928b1b9d2cf3a19d70dbdf8",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-eng-gha-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-pan-hrv-2026-06-23-pan": {
-    "id": "1897246",
-    "conditionId": "0xd0c0909f0cb7e0fd1e5d8c9c9eae86fec21ff6aa53f812d58c285e88c64a32e5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-pan-hrv-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-pan-hrv-2026-06-23-draw": {
-    "id": "1897247",
-    "conditionId": "0x2575e6ffba4b0221654217dc5cd283c969816a2f2ed4729b39276438e8609077",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-pan-hrv-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-pan-hrv-2026-06-23-hrv": {
-    "id": "1897249",
-    "conditionId": "0x652a7e27819c8aa682f1013295dd637c000133862850d96143e48a1815b94d38",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-pan-hrv-2026-06-23",
-    "negRisk": true
   },
   "fifwc-col-cdr-2026-06-23-col": {
     "id": "1897254",
@@ -91540,16 +91370,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-panama-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070777",
-    "conditionId": "0x71c3fec5d09820f4bc86f4c3c0c4c750190fcdcd3009d3454629073c8f7e02ec",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-ghana-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070778",
     "conditionId": "0x2d93d3f277602a22f90c8ddcfd775945542d6b4a99449db03489de13609f3290",
@@ -92473,16 +92293,6 @@
   "will-croatia-reach-the-2026-fifa-world-cup-final": {
     "id": "2071563",
     "conditionId": "0xf66f166ef5b30b74fdcd4a5be870393e05b874074ba5c9c2180b1b9d781706d7",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-panama-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071564",
-    "conditionId": "0x8f29ecb911257a128b7f7234ac9e8a8ac6390ff9f5329d4797c50c44c9ae97f4",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -103454,7 +103264,7 @@
   "romanian-parliament-dissolved-by-july-31": {
     "id": "2158806",
     "conditionId": "0x403a2992ce3adb0df0af7054074191b5dffe20fbd3bdcd4b993224529f6d4e4b",
-    "endDate": "2026-06-30",
+    "endDate": "2026-07-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -104905,176 +104715,6 @@
     "eventSlug": "which-airlines-will-announce-bankruptcy-by-december-31",
     "negRisk": false
   },
-  "will-aj-dybantsa-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167557",
-    "conditionId": "0xe29f931a4af5db6e052f98495b855d545be5e2accca16c3f3179fc3546c04227",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-darryn-peterson-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167558",
-    "conditionId": "0x9fe1bd3fac672d82df92a875b38eee5e5135940001b645484b845def4d397a96",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-cameron-boozer-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167559",
-    "conditionId": "0x421bf4d42c7309fa60e9a97228043d7d9b4944f23eddaaa34cc7edce425fd7a4",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-caleb-wilson-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167560",
-    "conditionId": "0x8622b2b93b150267776df0b1aab1dd633d19dcd6edebaeecac435ea6e988ac09",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-kingston-flemings-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167561",
-    "conditionId": "0x8fd6428eeb824f6b8a507ee6ec25d8d3e12a8e8a2d8d977c93c7ac4f5554cc5d",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-darius-acuff-jr-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167562",
-    "conditionId": "0x7799469a7433a4bd72d8ee49b05178c60b30fe7f9aebfd985a40bcf9456918d1",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-keaton-wagler-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167563",
-    "conditionId": "0x0301909f18195b3757f4f7dd66f4182604d29cd7e6dd62d6e9f2c9f5e3af142c",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-mikel-brown-jr-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167564",
-    "conditionId": "0x9cda4281914baa8fce899e8a634c69d785694de5f16096bcb1ca9348fe319919",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-labaron-philon-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167565",
-    "conditionId": "0xe64525f3c0347db3ff5d1fe929a93019bc1ff3f3957939629b188c6a03536759",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-will-quaintance-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167566",
-    "conditionId": "0x9d7ec5a261a0cdf10d0f6f0ead9e20d09dd4ddc3484767d4bbcf384fee2468a3",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-yaxel-lendeborg-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167567",
-    "conditionId": "0x380f03b9d7cfc05cd85e836efb2ce762f4a920ebbaed46148b9d5e22ece90eaa",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-hannes-steinbach-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167568",
-    "conditionId": "0xa86ba09cac76c5bae81a78c61f1763d4c6968048ef72e8ab436e40121ebc98db",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-nate-ament-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167569",
-    "conditionId": "0xdf48dd25fd867922e7f2841ff214ff116a4f84d495fe6cecaca860912db02307",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-bennett-stirtz-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167570",
-    "conditionId": "0xaa688f4934a3fffceb441101175e5a4d054774f59cb2a9af1ea8f465255318d1",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-karim-lopez-be-the-2nd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167571",
-    "conditionId": "0x8e8e2d8c697bd1ac8d3fd05a994d24b0eeb3413d7c107d87a03db15489b40c48",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-2nd-overall-pick",
-    "negRisk": true
-  },
-  "will-aj-dybantsa-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167607",
-    "conditionId": "0x413abce4e1d66ccc3e9580cea1b3dfa1c939b78c5ecdefa99a139bc6def83316",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-darryn-peterson-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167608",
-    "conditionId": "0xa6da7cc489a5c501aaed204e7d3bdaf4b3d10b6714f33dcfe3d877d720858228",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
   "will-cameron-boozer-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
     "id": "2167609",
     "conditionId": "0x79285b82cd5f64c04826cde68b1d90d781c69e26fbbd6dc76db61c7f6cf7f478",
@@ -105085,269 +104725,9 @@
     "eventSlug": "2026-nba-draft-3rd-overall-pick",
     "negRisk": true
   },
-  "will-caleb-wilson-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167610",
-    "conditionId": "0x9a8d6793a30420be4da97a6ff636af0ff5310013a138434f003158ea9e559e08",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-kingston-flemings-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167611",
-    "conditionId": "0xa92bc3764c314f70cd6e92e135de7f804f2e54d441efa95f70d32adcc73044cd",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-darius-acuff-jr-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167612",
-    "conditionId": "0x2b69053c2b6fc38db5dff13e0cf7f8ea299c698ad47d3d052a8274b4ba7c1177",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-keaton-wagler-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167613",
-    "conditionId": "0x810b49edf64f351a5343549db44af778669fef97941ca89e6624884820ac580b",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-mikel-brown-jr-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167614",
-    "conditionId": "0x2bb706b0250f1ac2491140b84d806650737fc4e9b9607e24442c572ae6b9a686",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-labaron-philon-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167615",
-    "conditionId": "0x2e0401f9e48087b1de19715c194255bd526f3308b9de3b5db15e662bb0494ad3",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-will-quaintance-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167616",
-    "conditionId": "0x5a4694af552e3d70a99cd02afb471e6fa9bc98a8acc7c074fe9c7616e73d09bc",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-yaxel-lendeborg-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167617",
-    "conditionId": "0x7e0dec67f2df654cd6456b0336a974b2a07cc68955710a8c66ec4737c1e125cb",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-hannes-steinbach-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167618",
-    "conditionId": "0x74f10e7ca8ec4f865ddaac9184b582d445bb2329f92c1bfcf08e26ac376cafad",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-nate-ament-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167619",
-    "conditionId": "0x2e16e75963b2e2b1d8dfe5aa7d10076e59e4dd5ed9f7fa1b0a25ff18a1a06e24",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-bennett-stirtz-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167620",
-    "conditionId": "0xfa9c36631c1642e9749a35adf19bc9a5ed4730058d6bf8f09c1cada8361bf787",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-karim-lopez-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167621",
-    "conditionId": "0xabc40c9113a3297577138715cf9df61fe736e9753313474f3b1003880919e7c6",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-aj-dybantsa-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167650",
-    "conditionId": "0x2b9b24347f41590d99b7a2907ebc146c5d71d3748ce18ae285a9808a9b2f30ed",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-darryn-peterson-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167651",
-    "conditionId": "0x64c7ab0dfa6352bb706870921f6021aba84868c768315f951debfdd406232e1f",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-cameron-boozer-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167652",
-    "conditionId": "0x3e26dbf02b13dde18ee72dcf997ee973da9b15007bae6bfdaf8925c4e570a781",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
   "will-caleb-wilson-be-the-4th-overall-pick-in-the-2026-nba-draft": {
     "id": "2167653",
     "conditionId": "0xba075168e977e0ffc3f4f20b7db591d9733788fd57da5c3d58650a1980c67d14",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-kingston-flemings-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167654",
-    "conditionId": "0x8d86c18715bcf0849908e61bf9f5a56f02083d74e20ebf11da6e4a3e8238a250",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-darius-acuff-jr-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167655",
-    "conditionId": "0x0d7ed43e9004dfda552a7adf27a2fd60f95a9a0ff626ccdc3d51344206c295d1",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-keaton-wagler-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167656",
-    "conditionId": "0x1c908d8de76fb17ddf4c04f13c569fe64bca3d8bd3e2607a24cea5890825e31c",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-mikel-brown-jr-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167657",
-    "conditionId": "0x3d4c9526baeaf08d68119da292b1e5629e4790329ad641193014e00dedf98094",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-labaron-philon-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167658",
-    "conditionId": "0x22ab1099e2dc1b944562cbd8d2bb55eb0c74024fc9fe6c0c02c63bd6349eb2ae",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-will-quaintance-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167659",
-    "conditionId": "0xb3ef0594c06ce7b72865084354f5b6a5ce0e72a21ef5c0cc75fe9760e65ce5b1",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-yaxel-lendeborg-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167660",
-    "conditionId": "0x7c5675da25651d969b0de005ce9483eb8243f68c0639380d3d5c84ceefbfb33c",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-hannes-steinbach-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167661",
-    "conditionId": "0xb4500a8d46ac858e3fb236521227955e47aebe897f2fc58c6e9541a7a278e29d",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-nate-ament-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167662",
-    "conditionId": "0x8f5e7403f9f1a2fe0a7a63901577cd5c1f89dc07a2a757c0c08b6d5bc9c21452",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-bennett-stirtz-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167663",
-    "conditionId": "0x4fce6cc78776a8c6851397a67b95ca25b9aa201672084eb4aed83b0b9b940cbf",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
-  "will-karim-lopez-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167664",
-    "conditionId": "0x320640dfd4f90cd10c9bb20479522d35fe5c58fecd993cbc2266180b524f28d6",
     "endDate": "2026-06-24",
     "closed": false,
     "active": true,
@@ -105675,149 +105055,9 @@
     "eventSlug": "which-coalition-will-form-the-next-romanian-government",
     "negRisk": true
   },
-  "will-aj-dybantsa-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167718",
-    "conditionId": "0x223e52ae3870493f7c7bbe148fc359f113f47387dd38af3ceb3d7be5c88222ed",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-darryn-peterson-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167719",
-    "conditionId": "0x664003f1aece788384d7a1f7bf082a4272e26b74ff0ab44bda9e46a6604bc4d6",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-cameron-boozer-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167720",
-    "conditionId": "0x97cf4a796ce0f6df220864b2094cf32b25798a9f342755a8669053b19071514b",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-caleb-wilson-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167721",
-    "conditionId": "0xa2a7f9b5aa6fc98f3d6f069cea3be057b030666ca44327c8495402bd17f009eb",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-kingston-flemings-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167722",
-    "conditionId": "0x05faadb5a40a76a66fd7252e2dc08a315af60421bfc14c5b7ae955c8254ff635",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-darius-acuff-jr-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167723",
-    "conditionId": "0x269cb14cd030b574d474db66c2d47818193ba2fab77b3ad686376a879a74b74e",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
   "will-keaton-wagler-be-the-5th-overall-pick-in-the-2026-nba-draft": {
     "id": "2167724",
     "conditionId": "0xdc8c473640a8d0a7c448208c0a00992292f34abb4591df246e418eaef00eda72",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-mikel-brown-jr-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167725",
-    "conditionId": "0x977ad53d16d321527ba5a284ec9dee11ebc83c6f61000245ecff9db054e8f9c7",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-labaron-philon-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167726",
-    "conditionId": "0x6f2d231c85521cc60f8c8b2e9d0c579197ccacfede22e8e403df45269862272f",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-will-quaintance-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167727",
-    "conditionId": "0x7e4c365244b43e6fe61fc106d0c2095c43dfb3d62e51b2fdda0512ccc49d3adc",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-yaxel-lendeborg-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167728",
-    "conditionId": "0xc8ad40bce2905fbb5a77414f242ed73a3ba8331c4264b12fb12afee7e4bc0627",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-hannes-steinbach-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167729",
-    "conditionId": "0x8eeb590c3f80b003ba08d69eb0b38648831e3662a6131f8f9fa61bb1ea83b390",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-nate-ament-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167730",
-    "conditionId": "0x528f1080e9a7f2ccb199c988a49db4a02e5ea3aab8616f12fd8f8b4b2c0c3970",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-bennett-stirtz-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167731",
-    "conditionId": "0xa2176fd78d0d653d4e31b40f1bb0cf30faf935dec68f1ebfec3ecba7a118dc7c",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
-    "negRisk": true
-  },
-  "will-karim-lopez-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167732",
-    "conditionId": "0x191d91578b2243ba0bc4e3427c6a745a8fa3000a7fa788ba7241f1589b264071",
     "endDate": "2026-06-24",
     "closed": false,
     "active": true,
@@ -105838,7 +105078,7 @@
   "will-the-next-prime-minister-of-romania-be-a-member-of-psd-482": {
     "id": "2168338",
     "conditionId": "0xc4dd096c91182cf8b22bd5855dc1fe7b22ab7259a08b5f1d3326b8e154f5d6af",
-    "endDate": "2026-06-30",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -105848,7 +105088,7 @@
   "will-the-next-prime-minister-of-romania-be-a-member-of-pnl-357": {
     "id": "2168339",
     "conditionId": "0x20b0fe4bd89a35ace4b10b9aac43538b5433f4cd60150dcd0f2673378706b1a4",
-    "endDate": "2026-06-30",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -105858,7 +105098,7 @@
   "will-the-next-prime-minister-of-romania-be-a-member-of-aur-516": {
     "id": "2168340",
     "conditionId": "0x73044646e10c2924aad5b53689c078bd5840dcb359525dda1c7c2729561c342b",
-    "endDate": "2026-06-30",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -105868,7 +105108,7 @@
   "will-the-next-prime-minister-of-romania-be-a-member-of-usr-356": {
     "id": "2168341",
     "conditionId": "0x6ccf18eb9332f9beb566367f3aa2b42dd247cb0f78063d3009e11d2dbe947494",
-    "endDate": "2026-06-30",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -105878,7 +105118,7 @@
   "will-the-next-prime-minister-of-romania-be-a-member-of-udmr-194": {
     "id": "2168342",
     "conditionId": "0xed799a730c125d1770e7f6939267bc3cbe4c32b1f22ee552e77689d1463ac09d",
-    "endDate": "2026-06-30",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -105888,7 +105128,7 @@
   "will-the-next-prime-minister-of-romania-be-an-independent-or-a-technocrat": {
     "id": "2168343",
     "conditionId": "0xbf3e73c18f9fba93022128610729e6d8b399ba9e41ee2c0bc01400344923f9c8",
-    "endDate": "2026-06-30",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -119648,6 +118888,766 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-spread-away-1pt5": {
+    "id": "2292053",
+    "conditionId": "0xf95aa7a8d5c27d5223b0a4c1547a2cf33b5c3056e5cb7cd9a9aef7cfd2802ef7",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-spread-home-2pt5": {
+    "id": "2292054",
+    "conditionId": "0x7c82b8744c7bd2d0c9e1e1ba47a0edabc8dddecef3439471f88a47b540e6d286",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-spread-away-2pt5": {
+    "id": "2292055",
+    "conditionId": "0x308976b109a7281228bb2367611e8160c45fc33257a594b2c755a6e5d003247c",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-total-0pt5": {
+    "id": "2292057",
+    "conditionId": "0x4dd816aed09120e50fe55d79ae3d00c678d2301d0de304cb73579cee281324dd",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-total-1pt5": {
+    "id": "2292060",
+    "conditionId": "0x701fad9b2425adc7f97f2ee5a112bd1d20dacfe7d5bce6a3ce100daa8bdff995",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-total-2pt5": {
+    "id": "2292063",
+    "conditionId": "0x230d3530d4208020acf0492e30c2e3ba5d1c458fe1964d2bacce3cce1370dd18",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-total-3pt5": {
+    "id": "2292066",
+    "conditionId": "0xf841fd7607bf3c3010b6e4445714591e658906df1e962f73b57a0ff7423fc7ed",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-total-4pt5": {
+    "id": "2292069",
+    "conditionId": "0x9427c4cf19d2514623bc7095a55cc46c89eb8c8c9b9f6846bffcdeae8e35de71",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-total-5pt5": {
+    "id": "2292072",
+    "conditionId": "0x9b54a3dfa1dbcb4cf9b0456f64fae0692c2f4b1378de45d0d8e0caa633241bf4",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-idp-ori-2026-06-13-btts": {
+    "id": "2292074",
+    "conditionId": "0x03c714bc59ee2519a5d07e8b64b49539efd95393d27bb26c00fdc72ea2f93b33",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-idp-ori-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-spread-home-1pt5": {
+    "id": "2292079",
+    "conditionId": "0x47fdb41f7e41cdf05b3c568905fda4ba9be5d8399708180f03f4ea24f1d760c8",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-spread-away-1pt5": {
+    "id": "2292081",
+    "conditionId": "0x4ba1cac25577c19c652ade580d40b82e2f74378a7e13a42dbdb57c4f4b93d49d",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-spread-home-2pt5": {
+    "id": "2292082",
+    "conditionId": "0x10a4d48d854fc438f723a8fbe494904150828a116cfb9008734db4f933f297c8",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-spread-away-2pt5": {
+    "id": "2292083",
+    "conditionId": "0xbce0056ac3875723307104812a841afeeefe421046778b29c1f0155ef9cf0514",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-total-0pt5": {
+    "id": "2292085",
+    "conditionId": "0x289740efdb33eff8a40a76342a5129bf7af7ac2d192e8d0a1977f771d30c2e3d",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-total-1pt5": {
+    "id": "2292087",
+    "conditionId": "0x9d4788eb4e0409c28d1c03575dded2851cad3d516f891a5e74ac7b7a1301de82",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-total-2pt5": {
+    "id": "2292089",
+    "conditionId": "0xaf4f5aeed5d0b098955179d5ce0157509075dda05d1f91191571e1a620ab1ce3",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-total-3pt5": {
+    "id": "2292090",
+    "conditionId": "0x8bd99f5dca55911a7080138b8c2b5dfa2a27f09437be131d7ceaa784462187bb",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-total-4pt5": {
+    "id": "2292092",
+    "conditionId": "0x7194e5ee6154a31be25ce324982a1339a5ca10a47add5f2ba7ebbb1732e8d0d5",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-total-5pt5": {
+    "id": "2292095",
+    "conditionId": "0x5784451ec3b81862be352bdf703e540ee9a363f874113dd678f5236547cc3d47",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "bol1-gvs-uvi-2026-06-13-btts": {
+    "id": "2292097",
+    "conditionId": "0x9932a649785ba35825da3ea344f5dcd337021aa204b8dec2cbe3ed3c98fae462",
+    "endDate": "2026-06-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-gvs-uvi-2026-06-13-more-markets",
+    "negRisk": false
+  },
+  "mlb-stl-cin-2026-05-24": {
+    "id": "2292417",
+    "conditionId": "0x8d8e0630bd63491f2a77d1e0fb0f2750ec4ff118151bade96b00700813d7c467",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-stl-cin-2026-05-24",
+    "negRisk": false
+  },
+  "mlb-stl-cin-2026-05-24-nrfi": {
+    "id": "2292418",
+    "conditionId": "0x0736763450f5c391d6163ff2aef3c46cf0c21e458378d007a8cf1417e4f67728",
+    "endDate": "2026-05-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-stl-cin-2026-05-24",
+    "negRisk": false
+  },
+  "lol-dfma-rck-2026-05-22-game3-both-teams-destroy-inhibitors": {
+    "id": "2292935",
+    "conditionId": "0x1fc95f553a1ccbda8a1c045b962c34b43d362b116c6ac8db80bb29345e393366",
+    "endDate": "2026-05-22",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-dfma-rck-2026-05-22",
+    "negRisk": false
+  },
+  "will-ed-gallrein-win-the-2026-ky-04-republican-primary-election-by-9-or-more": {
+    "id": "2293126",
+    "conditionId": "0xbffe7025d24426e00f97362e0903a084c31b6eedd9c294200ce87b12f7239657",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-ed-gallrein-win-the-2026-ky-04-republican-primary-election-by-between-3-and-6-533": {
+    "id": "2293127",
+    "conditionId": "0x34bf878d733f7f7bc32641aadf122781d945f74125554da36b04fcbcffa9e0be",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-ed-gallrein-win-the-2026-ky-04-republican-primary-election-by-less-than-3-227": {
+    "id": "2293128",
+    "conditionId": "0x2335314f9c8aeb35917ccd6ddd7e304152fc413725a284d604e61c1e2118a3fa",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-thomas-massie-win-the-2026-ky-04-republican-primary-election-by-less-than-3-293": {
+    "id": "2293129",
+    "conditionId": "0xa210dbd74e576b275801cb12e5b8bf6dc7ded05098de229fc705450aa04fa50a",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-thomas-massie-win-the-2026-ky-04-republican-primary-election-by-between-3-and-6-399": {
+    "id": "2293130",
+    "conditionId": "0x316b960006f1458a40b8917503063b91202b4a31045fce484fb96ddd3ccca09c",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-thomas-massie-win-the-2026-ky-04-republican-primary-election-by-6-or-more-981": {
+    "id": "2293131",
+    "conditionId": "0x98b16f5485ced780bf6ac72525f49c2ade2e3d7e787c59bb81cb42cd2a3199c0",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-another-outcome-occur-in-the-2026-ky-04-republican-primary-election-382": {
+    "id": "2293132",
+    "conditionId": "0xae38ff122064aa358bbe5c3e041974e1b3ebcb4aa40eb3258c24c679b3941322",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-ed-gallrein-win-the-2026-ky-04-republican-primary-election-by-between-6-and-9": {
+    "id": "2293260",
+    "conditionId": "0x55146178c7ceb96a5f5cefd8e54a44e3b1770b191dbf5bc348647898b8ab5d14",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-margin-of-victory",
+    "negRisk": true
+  },
+  "will-turnout-in-the-2026-ky-04-republican-primary-be-below-80000-voters": {
+    "id": "2293323",
+    "conditionId": "0x5f708a5b1ede40cec00836e527c0a1fab96dd04fab4d523282cdbb8462ed7da1",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-turnout",
+    "negRisk": true
+  },
+  "will-turnout-in-the-2026-ky-04-republican-primary-be-between-80000-and-90000-voters": {
+    "id": "2293324",
+    "conditionId": "0x02e8cc4ceb96fe445ea0c9dfcedb81ef558620d0252ddbb5649b8e7f23264f0a",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-turnout",
+    "negRisk": true
+  },
+  "will-turnout-in-the-2026-ky-04-republican-primary-be-between-90000-and-100000-voters": {
+    "id": "2293325",
+    "conditionId": "0x5205820c31830565e3e9605d4faac0712715ada1f91bc44cd4d74a9cd61fd43c",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-turnout",
+    "negRisk": true
+  },
+  "will-turnout-in-the-2026-ky-04-republican-primary-be-between-100000-and-110000-voters": {
+    "id": "2293326",
+    "conditionId": "0xf4819a7ebc7208ae9457f0c7719303fa66d051765bd01ab288ca33f4e76ea777",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-turnout",
+    "negRisk": true
+  },
+  "will-turnout-in-the-2026-ky-04-republican-primary-be-between-110000-and-120000-voters": {
+    "id": "2293327",
+    "conditionId": "0x76de51c4cb0e0a7cff90768bde4d70c7f61e744742902dbd4803ede9f85a87d1",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-turnout",
+    "negRisk": true
+  },
+  "will-turnout-in-the-2026-ky-04-republican-primary-be-120000-voters-or-higher": {
+    "id": "2293328",
+    "conditionId": "0x165de2581b1f73f1b55a01682d6c14dd1c75f7bc0b9451b7aeb89ede43312f79",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ky-04-republican-primary-turnout",
+    "negRisk": true
+  },
+  "aaron-taylor-johnson-announced-as-next-james-bond-655": {
+    "id": "2293852",
+    "conditionId": "0x42133d49db1b92415e718af33f00d83fc0812bfad990496ec92ce6b93b259cb6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "james-norton-announced-as-next-james-bond-289": {
+    "id": "2293853",
+    "conditionId": "0x19f5d7740459f84af8156440acabe28bfeb43dc1b2d7c3f5418aa14f64c75a0b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "paul-mescal-announced-as-next-james-bond-885": {
+    "id": "2293854",
+    "conditionId": "0x1d6b738eec27296a3add3fd93de0a59aa61a3cc467b76b912ab1a931b4cd0436",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "jacob-elordi-announced-as-next-james-bond": {
+    "id": "2293855",
+    "conditionId": "0x7eb5fde072782612d015d882bd99c396168f96c21c6c7260e2f24d9832a82a9b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "harris-dickinson-announced-as-next-james-bond": {
+    "id": "2293856",
+    "conditionId": "0x07dc148f68d0e4adf051bcd4fae2db36018f09ba30847a41cdd047d754f8f7e6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "tom-hardy-announced-as-next-james-bond-891": {
+    "id": "2293857",
+    "conditionId": "0x6522a47a9d908d3f7667044c4de2621d78319bdca65266e6fa933caa2366b64a",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "pierce-brosnan-announced-as-next-james-bond": {
+    "id": "2293858",
+    "conditionId": "0xdb1a1caae5f7b00f93408abfc123c43c5c74f82e6c978b527d6dbdd6f53d531d",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "tom-holland-announced-as-next-james-bond": {
+    "id": "2293859",
+    "conditionId": "0xb1d360baed14a5d51d8f7c0439afe0e14e332da127fc89ccc6fd7a4587900794",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "henry-cavill-announced-as-next-james-bond-886": {
+    "id": "2293860",
+    "conditionId": "0xaac4b77e275cbbd0cc1428547805072006408a460377d6b79788284f08ba90df",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "callum-turner-announced-as-next-james-bond-288": {
+    "id": "2293862",
+    "conditionId": "0xdf55222217299506bd9b7b348ac3be51137ac480da920567722824f0c40c5fc0",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "jack-lowdon-announced-as-next-james-bond-917": {
+    "id": "2293863",
+    "conditionId": "0x490b4abcc5b23958f5515716fbab843574f9cffef4bc52eac3a3939809757b46",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "theo-james-announced-as-next-james-bond-893": {
+    "id": "2293864",
+    "conditionId": "0x2d215dfc6dc0e7be3bf0bc077adc3ab5dc562cdfe455bfff02a6723f1c98cf48",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "james-collier-announced-as-next-james-bond-537": {
+    "id": "2293865",
+    "conditionId": "0xb4d153acdc852fa97e8455f714778f059711623e67c3f3ee1b5d81b761485ea4",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "josh-oconnor-announced-as-next-james-bond": {
+    "id": "2293866",
+    "conditionId": "0x7de7918ba7be54764ec10958af792776d0dc2f77bff0d8aaaeac7c6f97015b77",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "timothee-chalamet-announced-as-next-james-bond": {
+    "id": "2293867",
+    "conditionId": "0x2f0c81548525ae3879f2855f75c112631a6338fafc7042d27db74723742b0c24",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "michael-b-jordan-announced-as-next-james-bond": {
+    "id": "2293868",
+    "conditionId": "0x28cb5e0034ff3c29ff315a95596282c905bc3c963b5f7b3c6ef65ee9f33c4196",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "no-one-announced-as-next-james-bond": {
+    "id": "2293900",
+    "conditionId": "0xdfd9e88f948c6875027c881dcb50daf56ae577b0e4c4349779e7bd448ddc3a0b",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "next-james-bond-actor-398",
+    "negRisk": true
+  },
+  "will-brady-cook-be-the-jets-week-1-starting-qb": {
+    "id": "2293901",
+    "conditionId": "0xa13e9a73e7300c9d98ef37d03fe8c1f440f97c973b1e5d057c1d51c3561d884f",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-jets-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-geno-smith-be-the-jets-week-1-starting-qb": {
+    "id": "2293902",
+    "conditionId": "0x0c9c083a86ff68e02740d9442902412f1301e70462f6d58e8654f96bf879aee7",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-jets-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-cade-klubnik-be-the-jets-week-1-starting-qb": {
+    "id": "2293903",
+    "conditionId": "0x89aed07c9a3b903c33e7fab94dd59b703bb90cee0bdcbb7f2d46bdef77bfdc3e",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-jets-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-bailey-zappe-be-the-jets-week-1-starting-qb": {
+    "id": "2293904",
+    "conditionId": "0x5ac6665ad8b6af1405165bb1e862f2a798ba74dc2705eae96638a52c757328ae",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-jets-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-kyler-murray-be-the-vikings-week-1-starting-qb": {
+    "id": "2293923",
+    "conditionId": "0x2d629302e23dd9cc7f02bc0c6f1cdaeac1796342f79f6a185bd7071d559fd91b",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-vikings-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-carson-wentz-be-the-vikings-week-1-starting-qb": {
+    "id": "2293924",
+    "conditionId": "0x53ca3f7a8db4493ac4c07c7d941ebb5386cb13dc8460f716e85d57c4f14e4076",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-vikings-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-max-brosmer-be-the-vikings-week-1-starting-qb": {
+    "id": "2293925",
+    "conditionId": "0x6bb4096dbd30d650e17fa098e87f9626321d11d6eba3899f3fbcda94ff2c29af",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-vikings-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-jj-mccarthy-be-the-vikings-week-1-starting-qb": {
+    "id": "2293926",
+    "conditionId": "0x7abc00faf9ec2646d4744253eb4bd88d4b79292afed1f92e261c17f68a2a70b9",
+    "endDate": "2026-09-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pro-football-vikings-week-1-starting-qb",
+    "negRisk": true
+  },
+  "will-sofia-host-eurovision-2027": {
+    "id": "2294031",
+    "conditionId": "0x0cfaa8fabad4d452be63950f47b07339ce192820df5d64569496fb91eb55b502",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurovision-2027-city",
+    "negRisk": true
+  },
+  "will-burgas-host-eurovision-2027": {
+    "id": "2294032",
+    "conditionId": "0xb0f15a2e601a224e803babc18f2cb93442921dc45930ec0ecef32e48d8cac352",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurovision-2027-city",
+    "negRisk": true
+  },
+  "will-plovdiv-host-eurovision-2027": {
+    "id": "2294033",
+    "conditionId": "0x6e7fca5692fbd77fa9e76108ef4aee49d78c392f2ca0dbbadc3dcc440109de78",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurovision-2027-city",
+    "negRisk": true
+  },
+  "will-varna-host-eurovision-2027": {
+    "id": "2294034",
+    "conditionId": "0x6fa374fadb2569c38a09875278900aaa45666a926f1fbd42f93d95b549ee306c",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "eurovision-2027-city",
+    "negRisk": true
+  },
+  "will-matthew-stafford-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294162",
+    "conditionId": "0x5538ecf0686d22a42b317be53b35d1ff2b108293799ccae7c9f3531f626780d2",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-myles-garrett-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294163",
+    "conditionId": "0xe8be61c918a898d7ad0ddca8710daeb2798a17a97e018c148b873b052521f69d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-puka-nacua-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294164",
+    "conditionId": "0xd936e611dc06b64b69140c7d46975f8b2f91590be8da65fa668fcb23a6ac5cb5",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bijan-robinson-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294165",
+    "conditionId": "0x50b2fbca2109564f5ad8946e9f5174933c9960a829cc6284b2ba92dbe6f43261",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-drake-maye-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294166",
+    "conditionId": "0xfdf046297f74c9253c6199f2e08749dd463764eef50280e2675a625b91e009ae",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-kenneth-walker-iii-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294167",
+    "conditionId": "0x8922bbe132af417f84f5ad6284bf6537ec2cff67f7ba29ab5af76114c79cc801",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jaxon-smith-njigba-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294168",
+    "conditionId": "0x64edae5b6fdd5cc2608c17c22b77f7b926c373e43171c306df19d3714a424ef6",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jonathan-taylor-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294170",
+    "conditionId": "0x99b1a9400ac4d4e5c7d5b397f2ec39c8194788c223455b5955b3abe423a60693",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-patrick-mahomes-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294171",
+    "conditionId": "0xa36b7c5dc75daf0072617391d74050072c9404a5d7b523438b768b2a8023f810",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
     "negRisk": false
   }
 }
