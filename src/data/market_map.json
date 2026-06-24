@@ -2029,16 +2029,6 @@
     "eventSlug": "colombia-presidential-election",
     "negRisk": true
   },
-  "will-mauricio-cardenas-win-the-2026-colombian-presidential-election": {
-    "id": "569367",
-    "conditionId": "0x0622b01925e56a091f248c42fb194d3b86d58165f6647d6bcb7afc6fb4638531",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
   "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election": {
     "id": "569368",
     "conditionId": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
@@ -2059,39 +2049,9 @@
     "eventSlug": "colombia-presidential-election",
     "negRisk": true
   },
-  "will-enrique-pealosa-win-the-2026-colombian-presidential-election": {
-    "id": "569371",
-    "conditionId": "0xd8f77503edba0515f30d6c97da303e6d95f290ba52042d3553da5012df1c9fcb",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-juan-carlos-pinzn-win-the-2026-colombian-presidential-election": {
-    "id": "569372",
-    "conditionId": "0x109985b203700a3201125daee47e511f6de4ff2cf138d66a3f2adb557c36c0eb",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
   "will-paloma-valencia-win-the-2026-colombian-presidential-election": {
     "id": "569373",
     "conditionId": "0xd6591e966aebf061547ef34cdf3494ed318969887c8b7fb53f10ed5d5461a547",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-carlos-felipe-crdoba-win-the-2026-colombian-presidential-election": {
-    "id": "569374",
-    "conditionId": "0xdedef5719a21db8c17a43b9a53558b0ef775f03a1f8efe16960929556b90e29a",
     "endDate": "2026-06-21",
     "closed": false,
     "active": true,
@@ -98311,16 +98271,6 @@
     "eventSlug": "world-cup-most-clean-sheets-gk",
     "negRisk": true
   },
-  "will-luis-meja-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118058",
-    "conditionId": "0x06f26c174c63631e33fcc073e0dbf1607f96376fe1f280b88835327aa63f0d57",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
   "will-carlos-coronel-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118059",
     "conditionId": "0x5dd5fbca3da14e0e653b1ce36ef210372cf46ae9453c02e38925017daa4cc26c",
@@ -119643,6 +119593,56 @@
   "will-steven-gerrard-be-the-next-manager-of-manchester-city-fc": {
     "id": "2296318",
     "conditionId": "0x30aa6f843c200bc106dd1ba6ca193492c1e00d787c62dec74d30b3f412e14336",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-alex-ferguson-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296319",
+    "conditionId": "0x140b7ef999cb0efd4a7e2c530ddf48f15e0c52a5de21b83bfb0ab099ff44cb28",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-mario-balotelli-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296320",
+    "conditionId": "0x2dad5b96cdf93f77eae791fc0bb43af726df8804565c9062a5a38d902ee7f6b2",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-julian-nagelsmann-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296321",
+    "conditionId": "0x7cacf52fc9477150c2ea1aa22271fe9abde877e285c1c479848ed3861c5dcb75",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-david-silva-be-the-next-manager-of-manchester-city-fc-262": {
+    "id": "2296323",
+    "conditionId": "0x25fb70959f429e3badff4e07dc023429bebd5083279758c398e9bba8de7ced90",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-yaya-toure-be-the-next-manager-of-manchester-city-fc-238": {
+    "id": "2296324",
+    "conditionId": "0x748543206379ba46b290ef670e41841b84dd3f2b01f32563288e9c4e81300625",
     "endDate": "2026-09-01",
     "closed": false,
     "active": true,
