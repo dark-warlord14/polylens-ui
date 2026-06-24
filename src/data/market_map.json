@@ -1999,26 +1999,6 @@
     "eventSlug": "colombia-presidential-election",
     "negRisk": true
   },
-  "will-gustavo-bolvar-win-the-2026-colombian-presidential-election": {
-    "id": "569362",
-    "conditionId": "0x60084cd46b5b91797ad397f4c1ffb5d3fcec7c134b705d2796c0f571eedad3b7",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-sergio-fajardo-win-the-2026-colombian-presidential-election": {
-    "id": "569363",
-    "conditionId": "0x358a4c706ce29a1847d26244857c6272e5359a17aad079f5672c8fb40d50d66c",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
   "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election": {
     "id": "569366",
     "conditionId": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
@@ -46904,7 +46884,7 @@
     "eventSlug": "cap-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "cap-fdv-above-250m-one-day-after-launch": {
+  "cap-fdv-above-250m-one-day-after-launch-224": {
     "id": "1322380",
     "conditionId": "0x198e2ff99d1eea57a7bebb8c55e7e738518c7631d252df65864b6bf61085e6dd",
     "endDate": "2028-01-01",
@@ -46914,7 +46894,7 @@
     "eventSlug": "cap-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "cap-fdv-above-500m-one-day-after-launch": {
+  "cap-fdv-above-500m-one-day-after-launch-676": {
     "id": "1322381",
     "conditionId": "0xf130d32c62f81f79b0eaacc82723b284c79758573e9ae3f7a5c0330c38dd5bff",
     "endDate": "2028-01-01",
@@ -46924,7 +46904,7 @@
     "eventSlug": "cap-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "cap-fdv-above-800m-one-day-after-launch": {
+  "cap-fdv-above-800m-one-day-after-launch-714": {
     "id": "1322382",
     "conditionId": "0x13741fbc73fb8fe44d3cc4e8ce1f38d50d0a3afeb76aff5a8195071dd54a2342",
     "endDate": "2028-01-01",
@@ -51944,7 +51924,7 @@
     "eventSlug": "will-trump-wear-a-yarmulke-in-2026",
     "negRisk": false
   },
-  "cap-fdv-above-1b-one-day-after-launch": {
+  "cap-fdv-above-1b-one-day-after-launch-381": {
     "id": "1363511",
     "conditionId": "0x3708f8525325f25887d7b87df0b70c141bd0e2c77bd698e2663e6ee6c21614a8",
     "endDate": "2028-01-01",
@@ -51954,7 +51934,7 @@
     "eventSlug": "cap-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "cap-fdv-above-2b-one-day-after-launch": {
+  "cap-fdv-above-2b-one-day-after-launch-361": {
     "id": "1363512",
     "conditionId": "0x461326cb0bb11e73a44f944b194068466c8f09aad46de68e38fdddc2a1cf6f90",
     "endDate": "2028-01-01",
@@ -51964,7 +51944,7 @@
     "eventSlug": "cap-fdv-above-one-day-after-launch",
     "negRisk": false
   },
-  "cap-fdv-above-4b-one-day-after-launch": {
+  "cap-fdv-above-4b-one-day-after-launch-669": {
     "id": "1363513",
     "conditionId": "0x4ac65964b7cebf0aec2bb6d7034188352b37f3a1fb33e71f0b5f278b85eee4d7",
     "endDate": "2028-01-01",
@@ -119643,6 +119623,26 @@
   "will-yaya-toure-be-the-next-manager-of-manchester-city-fc-238": {
     "id": "2296324",
     "conditionId": "0x748543206379ba46b290ef670e41841b84dd3f2b01f32563288e9c4e81300625",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-mansour-bin-zayed-al-nahyan-be-the-next-manager-of-manchester-city-fc-249": {
+    "id": "2296325",
+    "conditionId": "0xafc612af2ddcaeee70148f8ab5f56ec4059d8ee3012aae269f44a9ebcee957a7",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-wayne-rooney-be-the-next-manager-of-manchester-city-fc-729": {
+    "id": "2296326",
+    "conditionId": "0xd84054dc989c62e03e39d72c7bef5c040a512eaed29a6a16ea2d16bf02a68cfc",
     "endDate": "2026-09-01",
     "closed": false,
     "active": true,
