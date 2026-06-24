@@ -509,16 +509,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-team-z-win-the-2026-fifa-world-cup-316": {
-    "id": "558979",
-    "conditionId": "0x9779c09fd4dd0a1c82dd82618269c2aa5669d91305293b396d1e0b8a166b566e",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-sweden-win-the-2026-fifa-world-cup": {
     "id": "558980",
     "conditionId": "0xd0dbdc94b28c5cffeef64ed6b13e5f0f2324fb177e5ffaa634b48c88fe18d5e7",
@@ -11048,26 +11038,6 @@
     "eventSlug": "will-a-new-country-buy-bitcoin-by-184",
     "negRisk": false
   },
-  "will-kathy-hochul-win-the-2026-new-york-democratic-gubernatorial-primary": {
-    "id": "681244",
-    "conditionId": "0x1ca279b0cc1f024a50e099c80fa1dcb3cd905571375919940b62ea864270022e",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-democratic-governor-primary-winner",
-    "negRisk": true
-  },
-  "will-antonio-delgado-win-the-2026-new-york-democratic-gubernatorial-primary": {
-    "id": "681245",
-    "conditionId": "0x067afb2f6029c335dae56c2f1804ee84853c601707f4bf820357e0f65dc125ca",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "new-york-democratic-governor-primary-winner",
-    "negRisk": true
-  },
   "us-takes-panama-canal-before-2027": {
     "id": "681313",
     "conditionId": "0x0686076be591223c6da6a594c12b4a47083fbd77a37ddc96f484eba3b13e3669",
@@ -13650,196 +13620,6 @@
     "eventSlug": "who-will-announce-presidential-run-before-2027",
     "negRisk": false
   },
-  "will-micah-lasher-be-the-democratic-nominee-for-ny-12": {
-    "id": "695082",
-    "conditionId": "0x3ff129c6f6737846a0b7912778da9c68f3766fbe4c8056224bd12de7e3ecfc10",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-jack-schlossberg-be-the-democratic-nominee-for-ny-12": {
-    "id": "695083",
-    "conditionId": "0xd42612a6ea2c06736853604ee6287f64f94aca371144b1254a6a19fcb27b01ae",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-cameron-kasky-be-the-democratic-nominee-for-ny-12": {
-    "id": "695084",
-    "conditionId": "0x74d26fda5f74ce870cba8688df741d844a31e163ccf5bde2cd4131d37bf0e6ad",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-alex-bores-be-the-democratic-nominee-for-ny-12": {
-    "id": "695085",
-    "conditionId": "0x1af009052969324fe877b8339e173ae39c8c8c6b7db75a41cd091bfe4ec04265",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-lina-khan-be-the-democratic-nominee-for-ny-12": {
-    "id": "695086",
-    "conditionId": "0x06008a6094638fc298e8584f0480e91912484e1495c453fb633703b1123a0319",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-erik-bottcher-be-the-democratic-nominee-for-ny-12": {
-    "id": "695087",
-    "conditionId": "0x19aabab6291e74f8a7772d6af05ec36eb9f761a424e63db89ee9df20e2552006",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-julie-menin-be-the-democratic-nominee-for-ny-12": {
-    "id": "695088",
-    "conditionId": "0xc8aeb76f86dca7a268761a448886c92e8cdb5ae8e4f3b0cbd27a4d6543e719c5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-carolyn-maloney-be-the-democratic-nominee-for-ny-12": {
-    "id": "695089",
-    "conditionId": "0x1a42c8f234fc67eeb2ef2956ae76626bb0c237ba3eb528eafc57ecee4da7dc6e",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-chelsea-clinton-be-the-democratic-nominee-for-ny-12": {
-    "id": "695090",
-    "conditionId": "0x148c4361843c17eb67e73a1959636a3abe00a1b7bce74373f455416cf08be343",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-andrew-cuomo-be-the-democratic-nominee-for-ny-12": {
-    "id": "695091",
-    "conditionId": "0xc860655f306be6583fdc133e1100ca0299a0288c992f622fd2cb9a3ad8d5b0eb",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-liam-elkind-be-the-democratic-nominee-for-ny-12": {
-    "id": "695092",
-    "conditionId": "0x34b4e1972eab434a3bc0a04a61ce5583a9ac1eafe4ccca737dba874b3e03d201",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-brad-hoylman-sigal-be-the-democratic-nominee-for-ny-12": {
-    "id": "695093",
-    "conditionId": "0xd9f75a28eb0c3fc244e6705515389405c1fb571279ab4e868b3dba481a93ff51",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-scott-stringer-be-the-democratic-nominee-for-ny-12": {
-    "id": "695094",
-    "conditionId": "0xd141449a066191a2d5da1bf3592b03166f44b117040d1bf654af9aa786d47a65",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-keith-powers-be-the-democratic-nominee-for-ny-12": {
-    "id": "695095",
-    "conditionId": "0xc38a6c93900b044c012101b94beb87b5f91e7b663d2ad649fc1c1705ecbbb93a",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-liz-krueger-be-the-democratic-nominee-for-ny-12": {
-    "id": "695096",
-    "conditionId": "0xd8463b0f21f0409ca387a5b27af12aa564021022a28752ddd45f13044d7cff4f",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-gale-brewer-be-the-democratic-nominee-for-ny-12": {
-    "id": "695097",
-    "conditionId": "0xaeee4ad841c77e47cd28a142431e7dbb83eb96e7de7fd3b870e5c2de77a5c3ad",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-cynthia-nixon-be-the-democratic-nominee-for-ny-12": {
-    "id": "695098",
-    "conditionId": "0x526d399a11c39303f7ad9d98dc5746ae1a085e48ab201677ec4411fd5d89c201",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-brad-lander-be-the-democratic-nominee-for-ny-12": {
-    "id": "695099",
-    "conditionId": "0x259afdf3f12a61c6ac368b2648242a2e94b6caf59f936453320f99f464987b7d",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
-  "will-george-conway-be-the-democratic-nominee-for-ny-12": {
-    "id": "695100",
-    "conditionId": "0xd1dcc98673debc97919f9dd8584bfa16ee8f37996d78c24679f0cf4045a99b45",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-12",
-    "negRisk": true
-  },
   "new-covid-variant-of-concern-before-2027": {
     "id": "695208",
     "conditionId": "0xe3135fcd741f2786fd9865d63cfd4291c32bdda0a398d35de09f23b870e300f8",
@@ -15519,266 +15299,6 @@
     "eventSlug": "which-party-will-win-the-house-race-for-the-ca-27-seat",
     "negRisk": true
   },
-  "will-antonio-reynoso-be-the-democratic-nominee-for-ny-07": {
-    "id": "703772",
-    "conditionId": "0xdc00146a77dbe0f17e69b4c5d71e9358b0e9eaae4908ab993e0fff0c566abb11",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-julia-salazar-be-the-democratic-nominee-for-ny-07": {
-    "id": "703773",
-    "conditionId": "0xe283fb11c9c51f44e8001edbfaa0ad06abc55ac04190ebe4ed8b2d80d301f4f9",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-kristen-gonzalez-be-the-democratic-nominee-for-ny-07": {
-    "id": "703774",
-    "conditionId": "0x1288e00f4c7d1c05c0da3cf1ffa8b16261ea2b92cd1fa569110381f47e753578",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-jennifer-gtierrez-be-the-democratic-nominee-for-ny-07": {
-    "id": "703775",
-    "conditionId": "0x1fcbb222f49bb80d4d54f5004d44c6c7dfc808fd01bc17455c9178e57aaa4744",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-julie-won-be-the-democratic-nominee-for-ny-07": {
-    "id": "703776",
-    "conditionId": "0x5016734473b5f5d63393b1559c1def892e9a0fe69b346700639738d184f6b46e",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-sandy-nurse-be-the-democratic-nominee-for-ny-07": {
-    "id": "703777",
-    "conditionId": "0x3ba33019597fed0ac08883526cb60776580029f4f26d186c22ab070a04309693",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-lincoln-restler-be-the-democratic-nominee-for-ny-07": {
-    "id": "703778",
-    "conditionId": "0x5b9ae5fb1419357dd7930e7f1748e52272ae1f6165c2fbc6ddd35938f84b8ecc",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-tiffany-cabn-be-the-democratic-nominee-for-ny-07": {
-    "id": "703779",
-    "conditionId": "0xd1bcfc4a64cac5d80bae6fa2139a253a61915079ba1e5bf352a3d0c979bd9854",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-claire-valdez-be-the-democratic-nominee-for-ny-07": {
-    "id": "703780",
-    "conditionId": "0xc47d5386411a75a6b87c78cafd47993a42ad8b8b0df166e9722a275269449612",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-07-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-brad-lander-be-the-democratic-nominee-for-ny-10": {
-    "id": "703845",
-    "conditionId": "0x3ad92107dbab2fdf45b0ed92dc5a7f721210759a648ae53fe363e26e3f62d29f",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-10-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-dan-goldman-be-the-democratic-nominee-for-ny-10": {
-    "id": "703846",
-    "conditionId": "0x8294f5eaebd9699d10c62965a17015b6b59bb2a5dfe96063e17b7125885c2499",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-10-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-alexa-avils-be-the-democratic-nominee-for-ny-10": {
-    "id": "703847",
-    "conditionId": "0x501fff7cf47033b30139eea20604a349fae37d88d8944d24750fc8836a77c621",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-10-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-cameron-kasky-be-the-democratic-nominee-for-ny-10": {
-    "id": "703848",
-    "conditionId": "0x5fc9f424add456eb436005793d60d9959526dcaa52aded3f2084e4b68d6b0e0b",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-10-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-yuh-line-niou-be-the-democratic-nominee-for-ny-10": {
-    "id": "703849",
-    "conditionId": "0x8f3976d4104b6b3b4a716ef834d04e42411a4bec8dea79c58e5f5fa5241cf2b3",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-10-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-ritchie-torres-be-the-democratic-nominee-for-ny-15": {
-    "id": "703866",
-    "conditionId": "0xe8ddce0b363dec3cd83336187125c4b23ba35ddd9ab082356b38f1cb122f3ae9",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-15-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-michael-blake-be-the-democratic-nominee-for-ny-15": {
-    "id": "703867",
-    "conditionId": "0x1522a8bc6e0edaec715b93b1bb35558ff56906ede6bcbe55282267a8a167fa64",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-15-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-amanda-septimo-be-the-democratic-nominee-for-ny-15": {
-    "id": "703868",
-    "conditionId": "0xe34353946e1b980f8ff778a5deab963630446b5286b870e230ec59b017dfdf12",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-15-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-dalourny-nemorin-be-the-democratic-nominee-for-ny-15": {
-    "id": "703869",
-    "conditionId": "0xe03ff7a92557db1422537bd232deff224eb7349e0d9978957e4d471fee5ec7e0",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-15-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-cait-conley-be-the-democratic-nominee-for-ny-17": {
-    "id": "703888",
-    "conditionId": "0xed5dbf2e63a4222099bcbaf60c4c70333b29c2940d0f127c8da2ee0920632d34",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-beth-davidson-be-the-democratic-nominee-for-ny-17": {
-    "id": "703889",
-    "conditionId": "0xd81e304a53cfdac107189a8ab1fe862416c4f6de3a009b3243d057eb89fa8491",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-peter-chatzky-be-the-democratic-nominee-for-ny-17": {
-    "id": "703890",
-    "conditionId": "0x7b7c97eb76261b7882ec6be8a513befda092962a2df22e264f3edb492c514cfc",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-effie-phillips-staley-be-the-democratic-nominee-for-ny-17": {
-    "id": "703891",
-    "conditionId": "0xcff21408bae4d1c6f2a293c097404979f083d2948af2fb09cf64efb0bbca6bb5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-jessica-reinmann-be-the-democratic-nominee-for-ny-17": {
-    "id": "703892",
-    "conditionId": "0x94f708df5fd7433abdd30a31d97aeeaeecb9b70a702b0fa5701a4fbc71ec0e70",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-mike-sacks-be-the-democratic-nominee-for-ny-17": {
-    "id": "703893",
-    "conditionId": "0x1d5ca2609a6f9d766ebe64d64880a26fb4d1011594ed9e24a778a46bb950e7f1",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-john-sullivan-be-the-democratic-nominee-for-ny-17": {
-    "id": "703894",
-    "conditionId": "0x2bd667f7f1244c97b363c87f63d9ba201f6840fc45bbd8e88b9e8d2cb3a1ce04",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
-  "will-john-cappello-be-the-democratic-nominee-for-ny-17": {
-    "id": "703895",
-    "conditionId": "0x6edfc36d561a2c62c0cc65cf87580abe9697b6078d0109f9543841df22f370d9",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-17",
-    "negRisk": true
-  },
   "will-dan-koh-be-the-democratic-nominee-for-ma-06": {
     "id": "704002",
     "conditionId": "0xd2481bf85502225a8cfe44cdb7156dc3d8c4e73dc3b287c3177549ceb151f29a",
@@ -16288,116 +15808,6 @@
     "acceptingOrders": true,
     "eventSlug": "ostium-fdv-above-one-day-after-launch",
     "negRisk": false
-  },
-  "will-ben-mcadams-be-the-democratic-nominee-for-ut-01": {
-    "id": "704280",
-    "conditionId": "0x89c32a0f93d0fb5b46225e4ac76f3e00a8614f55e6aa365e0152d5ee92722a81",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-nate-blouin-be-the-democratic-nominee-for-ut-01": {
-    "id": "704281",
-    "conditionId": "0x49f4f5e99bc76806bdce33713e6958a3a35c55405d909b9f546b2632d9ec55c3",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-kathleen-riebe-be-the-democratic-nominee-for-ut-01": {
-    "id": "704282",
-    "conditionId": "0x3de0fb8cffb61cfad1760e04df8b38240041819c29ec44d13306921a72546dc5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-caroline-gleich-be-the-democratic-nominee-for-ut-01": {
-    "id": "704283",
-    "conditionId": "0xbe4ca5f28c6dddd649cd4c591dce82224f42dcf412269c48b40f72e3b52a3fe1",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-kael-weston-be-the-democratic-nominee-for-ut-01": {
-    "id": "704284",
-    "conditionId": "0x993eb1467e31c7f0fd9f4b53330f75fbb1823baee32134dcdbbf7dbeeffdf08a",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-erin-mendenhall-be-the-democratic-nominee-for-ut-01": {
-    "id": "704285",
-    "conditionId": "0x69aed82206133e3ca1296be4b814a35dfe5c37437c3c44d6249df59cd21964bc",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-jenny-wilson-be-the-democratic-nominee-for-ut-01": {
-    "id": "704286",
-    "conditionId": "0x3963f846fe0d263fa09486dde4f33910311080202c712e7113e1c20dc4ca0106",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-brian-king-be-the-democratic-nominee-for-ut-01": {
-    "id": "704287",
-    "conditionId": "0xb11f813549d76aea360921b3a0eaad4c3fa5fc4973593e69e5939aa54cb0c4ce",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-luz-escamilla-be-the-democratic-nominee-for-ut-01": {
-    "id": "704288",
-    "conditionId": "0xb989c3e37e8c91b939e2da52ac61f36b2471948b1ac93c5f9161a305055c693f",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-liban-mohamed-be-the-democratic-nominee-for-ut-01": {
-    "id": "704289",
-    "conditionId": "0xba9267cbe35ba4637c9847d2ef4413a77309c8fc0a51d7042e7669707e12ff96",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-michael-farrell-be-the-democratic-nominee-for-ut-01": {
-    "id": "704290",
-    "conditionId": "0x9866d5df96d28b62bc23a2384706f1d8f750f4653259f504a8828978128dd200",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ut-01-democratic-primary-winner",
-    "negRisk": true
   },
   "will-plasma-reach-0pt24-by-december-31-2026-779-911-453-977-147": {
     "id": "704333",
@@ -17790,46 +17200,6 @@
     "acceptingOrders": true,
     "eventSlug": "timothy-chalamet-confirmed-to-be-esdeekid-by-june-30",
     "negRisk": false
-  },
-  "will-laura-gillen-be-the-democratic-nominee-for-ny-04": {
-    "id": "787524",
-    "conditionId": "0xd426b5e37b1adeb4a30ed0ece09fe70b5ca0aee2392a43c97b18af26b3fec447",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-04",
-    "negRisk": true
-  },
-  "will-gian-jones-be-the-democratic-nominee-for-ny-04": {
-    "id": "787525",
-    "conditionId": "0x3aa954bfa31f711f5931faf1c10c348c836489775295df087999120eeacccd55",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-04",
-    "negRisk": true
-  },
-  "will-nicholas-sciretta-be-the-democratic-nominee-for-ny-04": {
-    "id": "787526",
-    "conditionId": "0x576b5f5f1ec1fb585d195f3310148efabbd11ec45679b7835228fb3431c648a4",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-04",
-    "negRisk": true
-  },
-  "will-taylor-darling-be-the-democratic-nominee-for-ny-04": {
-    "id": "787527",
-    "conditionId": "0x45e9f73bf450dbfa9bc56a6e9361b18c2e66cfa503222e3bc5aec0e366036cf8",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "who-will-be-the-democratic-nominee-for-ny-04",
-    "negRisk": true
   },
   "will-kaela-berg-be-the-democratic-nominee-for-mn-02": {
     "id": "787547",
@@ -19437,16 +18807,6 @@
     "eventSlug": "world-cup-group-k-winner",
     "negRisk": true
   },
-  "will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup": {
-    "id": "840172",
-    "conditionId": "0xeb188213dda8c13a4783822755d725a5ac3fa80f5c38879762e395cac46873df",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-k-winner",
-    "negRisk": true
-  },
   "will-colombia-win-group-k-in-the-2026-fifa-world-cup": {
     "id": "840174",
     "conditionId": "0x881c23cb7b27ca775bfc550550ee94e6dc980a1b4dff7ca7f6f5f24e95bff060",
@@ -19480,16 +18840,6 @@
   "will-ghana-win-group-l-in-the-2026-fifa-world-cup": {
     "id": "840398",
     "conditionId": "0x79c8ff02f4fab8be39ef267ae8ed16a03210765e686f221fe3a6811ed0b979e8",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-l-winner",
-    "negRisk": true
-  },
-  "will-panama-win-group-l-in-the-2026-fifa-world-cup": {
-    "id": "840402",
-    "conditionId": "0xab04b157643c85023622ad9db79bbaa4d472e6e23456b19653a2c29b973641ac",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -20577,66 +19927,6 @@
     "eventSlug": "rhode-island-governor-republican-primary-winner",
     "negRisk": true
   },
-  "will-pamela-evette-win-the-2026-south-carolina-governor-republican-primary-election-972": {
-    "id": "906945",
-    "conditionId": "0x2ff32cec61a2e9924b5e1207974fdb171efe4568bff1aff58b3d15b26237b36b",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-republican-primary-winner-784",
-    "negRisk": true
-  },
-  "will-josh-kimbrell-win-the-2026-south-carolina-governor-republican-primary-election-834": {
-    "id": "906946",
-    "conditionId": "0xe4acd5fd05f0bc4da313ca9fccc9dfad86e6048b91c2cdd84c5dc4b28f9e03de",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-republican-primary-winner-784",
-    "negRisk": true
-  },
-  "will-nancy-mace-win-the-2026-south-carolina-governor-republican-primary-election-591": {
-    "id": "906947",
-    "conditionId": "0xf561223517565f676701a566c17c4f460cfc5bf7d437dc4cc9ba194c4c099509",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-republican-primary-winner-784",
-    "negRisk": true
-  },
-  "will-ralph-norman-win-the-2026-south-carolina-governor-republican-primary-election-447": {
-    "id": "906948",
-    "conditionId": "0x4d1f770b1b4af4fd7e9cbd1f6eb24419b56d826af14537102aa5444202270505",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-republican-primary-winner-784",
-    "negRisk": true
-  },
-  "will-alan-wilson-win-the-2026-south-carolina-governor-republican-primary-election-725": {
-    "id": "906949",
-    "conditionId": "0xfec5e4fb10dd82bc4fb945dfed9c126a244f1bc3311a6a28c7a1515580ebc190",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-republican-primary-winner-784",
-    "negRisk": true
-  },
-  "will-rom-reddy-win-the-2026-south-carolina-governor-republican-primary-election": {
-    "id": "906950",
-    "conditionId": "0x10a20956b691ec23cc56b1a23c9854fbb41bae159636491274989758d74d80a6",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "south-carolina-governor-republican-primary-winner-784",
-    "negRisk": true
-  },
   "will-toby-doeden-win-the-2026-south-dakota-governor-republican-primary-election": {
     "id": "906977",
     "conditionId": "0xe53a3545d1b55e0075b3f4863d538e959dc722c066293a0f41ce5a429ee9fcd0",
@@ -20755,86 +20045,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "tennessee-governor-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-carl-brunner-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907350",
-    "conditionId": "0x027a2748a9a0bb210298e93885e2ec0f8eceeb688412b403cb581aa682ecf49d",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-ed-hale-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907351",
-    "conditionId": "0x16711932e48692c37b0be92837cc09c015063d8cbf124e916f393f143d741af0",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-john-myrick-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907352",
-    "conditionId": "0xb1130b9f66b14f31d8b512acaeadb080788878e3f75323f7165b015187da0401",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-kurt-wedekind-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907353",
-    "conditionId": "0x42687789e11d98c6cd856a84f7bc35b26cc4f0602d6741d65004e83623636878",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-christopher-bouchat-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907354",
-    "conditionId": "0xd726346176b30835500d99ddf5e601e07d1c3987e486f2f3f4ee3305a8128419",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-steve-hershey-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907355",
-    "conditionId": "0x2b1e2ed2651c64aebb310db8db003c5ef47a1346508ad7f8d3b14ae5fe3fcccb",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-larry-hogan-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907356",
-    "conditionId": "0x8c128a0cba1a284ee5c41413da1caedbeb56eb7310e1cbaf50d9111142696781",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-dan-cox-win-the-2026-maryland-governor-republican-primary-election": {
-    "id": "907358",
-    "conditionId": "0x3d6221450862c69f69e9b278a9119fc3e11f1c794650f7cddf283d4adefeee20",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "maryland-governor-republican-primary-winner",
     "negRisk": true
   },
   "will-mike-kennealy-win-the-2026-massachusetts-governor-republican-primary-election": {
@@ -25436,96 +24646,6 @@
     "eventSlug": "nh-01-republican-primary-winner",
     "negRisk": true
   },
-  "will-jay-byars-be-the-republican-nominee-for-sc-01": {
-    "id": "960222",
-    "conditionId": "0xdd85dffd2e1381f41f850933f6947beb5f78d730a368f456a704fa325c1bc2da",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-logan-cunningham-be-the-republican-nominee-for-sc-01": {
-    "id": "960223",
-    "conditionId": "0x9f8168df551539ef9ec6c04c092cd0c6823d935762057d1b93935b3b015569a6",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-jack-ellison-be-the-republican-nominee-for-sc-01": {
-    "id": "960224",
-    "conditionId": "0x41c0e67c0d783eeabe9a3e4a9f142963bff2a72e3ce37aa799bcbe6a3407d1bc",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-jenny-costa-honeycutt-be-the-republican-nominee-for-sc-01": {
-    "id": "960225",
-    "conditionId": "0x2e92fa10b84fb9764c7b67142c8c0fec75d10e5fa38582b4f2cb83c1597d6305",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-sam-mccown-be-the-republican-nominee-for-sc-01": {
-    "id": "960226",
-    "conditionId": "0xca8db0967278b9c2714267ea64c26257b89313c4669f2b2f96139b687a9b1401",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-justin-myers-be-the-republican-nominee-for-sc-01": {
-    "id": "960227",
-    "conditionId": "0xb90e404c5b19c90d92e35f70090157b7403caeb54cbdfdc18a19385438b465e6",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-alex-pelbath-be-the-republican-nominee-for-sc-01": {
-    "id": "960228",
-    "conditionId": "0x1743369a669efb77a1522e296a1b894f23289cf7f4eb0ced7a6294ec118ba674",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-mark-smith-be-the-republican-nominee-for-sc-01": {
-    "id": "960229",
-    "conditionId": "0x04a4267965c6e60f8b8d3bcc06e90e329707ad13d8b6007e42ed67acde8ebab7",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
-  "will-dan-brown-be-the-republican-nominee-for-sc-01": {
-    "id": "960230",
-    "conditionId": "0x5a489def108e8c7e3c27255f6f1e0abdf1e3f3d7d3b430e6768775b160e7e58a",
-    "endDate": "2026-06-09",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "sc-01-republican-primary-winner",
-    "negRisk": true
-  },
   "will-marie-gluesenkamp-perez-advance-to-the-general-election-for-wa-03": {
     "id": "960319",
     "conditionId": "0xef720745be0a15b63c392854dacae4227a9deafe11fdf6afe79bdf45754dd10a",
@@ -26224,116 +25344,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "mi-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-grace-meng-be-the-democratic-nominee-for-ny-06": {
-    "id": "973388",
-    "conditionId": "0xda7a201c01efd88a01d48062b5ceffcce65757b7080a6c2ef01c75a7352e20ba",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-06-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-charles-park-be-the-democratic-nominee-for-ny-06": {
-    "id": "973389",
-    "conditionId": "0xa35e08ad7737b6a9e4c968ad5a091b24eeba6a76fbfcfede25d245dbc9b686a9",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-06-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-yan-xiong-be-the-democratic-nominee-for-ny-06": {
-    "id": "973390",
-    "conditionId": "0x59f4dc0d1a0093ef8c1ee8f024fbd86435e3acfa0e0614d5d3643a88c39a69a5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-06-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-adriano-espaillat-be-the-democratic-nominee-for-ny-13": {
-    "id": "973439",
-    "conditionId": "0xba8526e4bf87c26c043d7048d364508d066117c173a91f2c56a82128fdc9102c",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-jaleel-amador-be-the-democratic-nominee-for-ny-13": {
-    "id": "973440",
-    "conditionId": "0xe93e70dba8f12060ef544e9ef6b0accc90d4e134994cabf7ac7a13c519524f90",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-darializa-avila-chevalier-be-the-democratic-nominee-for-ny-13": {
-    "id": "973441",
-    "conditionId": "0x09e25ccabb32e8d68fed95405ffe3975ffcb2af7de61b1de2f4eb22f1b375029",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-theo-chino-tavarez-be-the-democratic-nominee-for-ny-13": {
-    "id": "973442",
-    "conditionId": "0xa103fd29e21844a2c37dbae0ddd5abc05c9a899652f82b185b1cfd02d18e052e",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-james-felton-keith-be-the-democratic-nominee-for-ny-13": {
-    "id": "973443",
-    "conditionId": "0x7406898e6ec1bfc478fb7c0b0ee2c425f651ad48700739caaa05d7ffada6c326",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-matt-miller-be-the-democratic-nominee-for-ny-13": {
-    "id": "973444",
-    "conditionId": "0xc3a4cae673b27efa91532ddb90b398930318186e51e01ff0c8eb783a0dbcd4e7",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-megan-rodriguez-be-the-democratic-nominee-for-ny-13": {
-    "id": "973445",
-    "conditionId": "0x15dd98954f5a3d5bc21a6fe182d76bbde3e29af1465195df74a6f82c5be6fb2c",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-oscar-romero-be-the-democratic-nominee-for-ny-13": {
-    "id": "973446",
-    "conditionId": "0x422eecd1eec8d501c70508387d11b1ca7550da75002dcdc448d4d99236df53a9",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "ny-13-democratic-primary-winner",
     "negRisk": true
   },
   "will-ilhan-omar-be-the-democratic-nominee-for-mn-05": {
@@ -28855,96 +27865,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-tim-walz-resign-by",
     "negRisk": false
-  },
-  "will-darryn-peterson-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066079",
-    "conditionId": "0xb6b2080f536c5cd602771b1918c5be119044d826e076b5fbe92753c2b243ed35",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-cameron-boozer-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066080",
-    "conditionId": "0xcccd3888aa379e8ef671ecf2e02b33cbccc6b54ddb1c6cc4f0f28c77ede6f789",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-aj-dybantsa-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066081",
-    "conditionId": "0xaf13295bb3ad70cbb2939479477adb281b6b65a2362c1a5ea3fc9451644275f4",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-caleb-wilson-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066082",
-    "conditionId": "0xe28c0e484cd0707449bb2159b48c59f54cee9990525557dba6247948d19437ed",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-koa-peat-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066083",
-    "conditionId": "0xaa085ad4726ceb5a6315dd0c0d1922bb4dd3de69af5b27b0e632b2e0ebfa2d23",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-nate-ament-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066084",
-    "conditionId": "0x9058616cdf098ebf0cfa084ef0e1e713d3a4a3673ff0dace425601af18036454",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-mikel-brown-jr-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066085",
-    "conditionId": "0x951732f4750d0ff0f95122976a309292707449a0de6f9bf2c5f1dc78260572c2",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-jayden-quaintance-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066086",
-    "conditionId": "0xba29570f864e26b576540c16e298dcd342a4c1f6341d2226cd16ec4661864358",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
-  },
-  "will-tounde-yessoufou-be-the-first-pick-in-the-2026-nba-draft": {
-    "id": "1066087",
-    "conditionId": "0x369971c8858007775a0f11359f0e493eb015c0fac52296b13d27c8db0cd3bc76",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-1st-overall-pick",
-    "negRisk": true
   },
   "lai-ching-te-impeached-by-june-30": {
     "id": "1066556",
@@ -50327,16 +49247,6 @@
   "will-usdcad-hit-1pt45-high-in-2026": {
     "id": "1345898",
     "conditionId": "0x3c013daf9e3ed2eb66277adfa1f6419f1cd8d3fc87b8f238a488d896bc4bdcbc",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-usdcad-hit-in-2026",
-    "negRisk": false
-  },
-  "will-usdcad-hit-1pt42-high-in-2026": {
-    "id": "1345899",
-    "conditionId": "0xd29f65560c12015a71884dc65cb1965b5afde4f4f7e6e169efc2814ea244c84f",
     "endDate": "2026-12-31",
     "closed": false,
     "active": true,
@@ -73561,36 +72471,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-col-cdr-2026-06-23-col": {
-    "id": "1897254",
-    "conditionId": "0xe120b5ac48c5e2abdfcb3e34be55567e2ae81caaa87a243e964814ca65e6667e",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-col-cdr-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-col-cdr-2026-06-23-draw": {
-    "id": "1897255",
-    "conditionId": "0x06215a799ed95eb008eea3d8de97448c2030f8ec790547e6ce1bd9e974f9b70d",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-col-cdr-2026-06-23",
-    "negRisk": true
-  },
-  "fifwc-col-cdr-2026-06-23-cdr": {
-    "id": "1897256",
-    "conditionId": "0x8148ac62977e95dd3cb5d2cda5dd0b1071721f3ffb101941b3499fa4e074fae2",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-col-cdr-2026-06-23",
-    "negRisk": true
-  },
   "fifwc-che-can-2026-06-24-che": {
     "id": "1897263",
     "conditionId": "0xe1953a0f479de0ff3efabb7dff6116ff6cb9d7fe2d7ee6526c5d68da9cf09767",
@@ -86911,246 +85791,6 @@
     "eventSlug": "md-01-democratic-primary-winner",
     "negRisk": true
   },
-  "will-adrian-boafo-be-the-democratic-nominee-for-md-05": {
-    "id": "2045016",
-    "conditionId": "0x9468419631bad2d636e689fc04058df3d2989e29a15294483d3774d37ec2ee7f",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-alexis-solis-be-the-democratic-nominee-for-md-05": {
-    "id": "2045017",
-    "conditionId": "0x9c70bfe0d68ec57a783fd7d958700ab6caf14cab926d725b76f52ffae7ff90a2",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-arthur-ellis-be-the-democratic-nominee-for-md-05": {
-    "id": "2045018",
-    "conditionId": "0x22c3073961c52fa7a4028ca54562cbc42a9013ec9196be62f98829b27ab01ac6",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-dave-sundberg-be-the-democratic-nominee-for-md-05": {
-    "id": "2045019",
-    "conditionId": "0x5c7d074bbaa976fce871d496dde63b8a9298dca8b79a67d4a83d62856fbebeac",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-elldwnia-english-be-the-democratic-nominee-for-md-05": {
-    "id": "2045020",
-    "conditionId": "0x7d1e2b2f9a54530249b247632fad4f4ce06f9c2d5c0a9fa622a11c2c966b151c",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-ellis-colvin-be-the-democratic-nominee-for-md-05": {
-    "id": "2045021",
-    "conditionId": "0x70cc2ac159cfbdc861578c6650305b608b8f21cfd6f3db5656382733739b6c26",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-harry-dunn-be-the-democratic-nominee-for-md-05": {
-    "id": "2045022",
-    "conditionId": "0x851531bd074b8a6724037b28bea9a762b99cb5ccaa166965a94c024b047aa9f6",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-harry-jarin-be-the-democratic-nominee-for-md-05": {
-    "id": "2045023",
-    "conditionId": "0x32b4104aff019dbad62ba1c8f6276c0b153220495d59a48d4e8f471d72c5d9c0",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-harold-tolbert-be-the-democratic-nominee-for-md-05": {
-    "id": "2045024",
-    "conditionId": "0x797d6628ae3d080068cb5a50710d530b59f8384729155f1199e85df9807f38b8",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-heather-luper-be-the-democratic-nominee-for-md-05": {
-    "id": "2045025",
-    "conditionId": "0x055efab5370939450ee81e2dc2cbb5dd7132288b4b2ad158eacdd5637c7435c3",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-james-makle-jr-be-the-democratic-nominee-for-md-05": {
-    "id": "2045026",
-    "conditionId": "0x9d8e07dce70a1348f9dc063ef5f7a71ad449d9da9d493d9c693cce1ebaf090de",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-jerry-lightfoot-be-the-democratic-nominee-for-md-05": {
-    "id": "2045027",
-    "conditionId": "0x1ff1536ea12ffd8539d4e0c1cef2b2b9c15ee5c86eaae925773c60430f144d09",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-keith-salkowski-be-the-democratic-nominee-for-md-05": {
-    "id": "2045028",
-    "conditionId": "0xc5cae6a9ec5936f604a863f7f1062c8a8e51e8328989855baa28f5cc50616ae5",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-kenneth-simons-be-the-democratic-nominee-for-md-05": {
-    "id": "2045029",
-    "conditionId": "0xd888b090433cdb1e04fbba90355d854584e7c3d13ab95b5f761264347b1a08da",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-leigha-messick-be-the-democratic-nominee-for-md-05": {
-    "id": "2045030",
-    "conditionId": "0x11338ab0a1b3d6212efb91c6306f72640b741cd1e5405ef4feeb997b91c60806",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-mark-kenneth-arness-be-the-democratic-nominee-for-md-05": {
-    "id": "2045031",
-    "conditionId": "0x64b36ea6e54b7e0b770d817c3f642f79fa45f9edc32141554c204f9c2d7e2eee",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-nicole-williams-be-the-democratic-nominee-for-md-05": {
-    "id": "2045032",
-    "conditionId": "0x2596e4f2d8fb9779479038bcbf77929cdbf9e4dae1319fccd8d15f3ed7eb8c63",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-quincy-bareebe-be-the-democratic-nominee-for-md-05": {
-    "id": "2045033",
-    "conditionId": "0xdcac98df937cc0a1dec9eb47a5a9873e2ca497f68941169f7f171a1a83d29a9c",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-reuben-collins-ii-be-the-democratic-nominee-for-md-05": {
-    "id": "2045034",
-    "conditionId": "0x63999ec09b6a4253f0796fd6816fd7e7a5f9a289040b8eada04fd0ab85c63c9b",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-rushern-baker-iii-be-the-democratic-nominee-for-md-05": {
-    "id": "2045035",
-    "conditionId": "0xab5063a09129f65ca40748c2636e6e88407034c51a58e4fb975dd0dd51710544",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-terry-jackson-be-the-democratic-nominee-for-md-05": {
-    "id": "2045036",
-    "conditionId": "0xa6c29cc8a6e988c041fe8ae8b36d7da3505500f41448748c78e829c4163dff5a",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-tracy-starr-be-the-democratic-nominee-for-md-05": {
-    "id": "2045037",
-    "conditionId": "0x76dfdec6279648a37a44ae218bde761a6cfc7c49a899d964eaf8e4f58051401e",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-walter-kirkland-be-the-democratic-nominee-for-md-05": {
-    "id": "2045038",
-    "conditionId": "0xa94fea024b7cdef1eeb438f976f8d2f633afb414a812aff5d1d7830f82401606",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
-  "will-wala-blegay-be-the-democratic-nominee-for-md-05": {
-    "id": "2045039",
-    "conditionId": "0x2b021d15d7474a40e4da0e01a52861a3a73539ef7543dc68d5b08885e6ab3e29",
-    "endDate": "2026-06-23",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "md-05-democratic-primary-winner",
-    "negRisk": true
-  },
   "will-alexandra-prieditis-be-the-democratic-nominee-for-mi-07": {
     "id": "2045065",
     "conditionId": "0x1b0d48db53d286731be8004f1ae474b62d811dc8452d6bb43143119ccb055586",
@@ -91313,16 +89953,6 @@
   "will-portugal-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070771",
     "conditionId": "0x94cac3a7ff4e968e68674c8dff21d74df39c9519291db5e4628486f977b1cad5",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-colombia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070772",
-    "conditionId": "0x260688608f7d98c9cc5755228dbf4a04eb72c13308e603ba697b5f1ff4e8fe68",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -104715,26 +103345,6 @@
     "eventSlug": "which-airlines-will-announce-bankruptcy-by-december-31",
     "negRisk": false
   },
-  "will-cameron-boozer-be-the-3rd-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167609",
-    "conditionId": "0x79285b82cd5f64c04826cde68b1d90d781c69e26fbbd6dc76db61c7f6cf7f478",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-3rd-overall-pick",
-    "negRisk": true
-  },
-  "will-caleb-wilson-be-the-4th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167653",
-    "conditionId": "0xba075168e977e0ffc3f4f20b7db591d9733788fd57da5c3d58650a1980c67d14",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-4th-overall-pick",
-    "negRisk": true
-  },
   "will-the-next-governing-coalition-of-romania-include-psd": {
     "id": "2167686",
     "conditionId": "0x3c4c0918682f3942d1feff4fd793397ac9c3a6962b933995105a99538cdb78e5",
@@ -105053,16 +103663,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "which-coalition-will-form-the-next-romanian-government",
-    "negRisk": true
-  },
-  "will-keaton-wagler-be-the-5th-overall-pick-in-the-2026-nba-draft": {
-    "id": "2167724",
-    "conditionId": "0xdc8c473640a8d0a7c448208c0a00992292f34abb4591df246e418eaef00eda72",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nba-draft-5th-overall-pick",
     "negRisk": true
   },
   "mlb-aaron-judge-or-juan-soto-to-draw-more-walks": {
@@ -112594,16 +111194,6 @@
     "eventSlug": "russia-x-ukraine-ceasefire-agreement-by",
     "negRisk": false
   },
-  "nba-1st-overall-pick-in-2026-draft-to-be-traded": {
-    "id": "2244061",
-    "conditionId": "0x2ecabd5bdc227351d63a449520d625afae7abe751f57618ea95fa072fb6d16f0",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "nba-1st-overall-pick-in-2026-draft-to-be-traded",
-    "negRisk": false
-  },
   "will-trump-announce-kyle-diamantas-as-the-next-fda-commissioner-by-december-31": {
     "id": "2244062",
     "conditionId": "0x872968b4627268c5f0addef4e5c2170fbeb45e427a732eab8a3a83b4ea447cc8",
@@ -119649,5 +118239,1415 @@
     "acceptingOrders": true,
     "eventSlug": "madden-nfl-27-cover-athlete",
     "negRisk": false
+  },
+  "will-maxx-crosby-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294173",
+    "conditionId": "0x84f34dfc6245bef97b8836b3359293eb87e3258eecb8f7eee766752d0a3dc8fb",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-sam-darnold-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294174",
+    "conditionId": "0x9bdf6821a44571be74d547aa03cb5c710ead4b5ee27433b15feb4fc50ef3e22f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-aaron-rodgers-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294175",
+    "conditionId": "0xae168f6fb9d291114d30a4d3ed47e37a1d1e1690911a01e222f950c61cb8bc31",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jalen-hurts-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294176",
+    "conditionId": "0x53d48af3f658d660961b1af1807c6bdcec3a18b77209ca807393ee1ae6e00cb6",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jahmyr-gibbs-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294177",
+    "conditionId": "0xf9302ff39ea96e4c4f029d185e4bd731c4df1ae82ee617de4b3fd720e4852743",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-josh-allen-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294179",
+    "conditionId": "0xf28c7c6bc90a905b641cf05249bf62dd805ec8be3609c01979e876a203427335",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-shedeur-sanders-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294180",
+    "conditionId": "0xf5bac3e6d5dfa2be7df8dc530d281498485afcc09bd1962445632d48e1b76fbd",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lamar-jackson-be-on-the-cover-of-madden-nfl-27": {
+    "id": "2294181",
+    "conditionId": "0x10115652fcc170d05279041e7c5c9d7207be289413c9c7e37f4e5f9c360c943d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "madden-nfl-27-cover-athlete",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-bol": {
+    "id": "2295047",
+    "conditionId": "0x25ef15b940396383955fd263114a909faf94bf53dd43fa9cfba9e68cf60e5098",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-draw": {
+    "id": "2295052",
+    "conditionId": "0xe95670c5ef50315e6afa9d9ad0e2e85e6c51855435422fdb9fba0c49bfff59e7",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-pot": {
+    "id": "2295055",
+    "conditionId": "0x145e815daea00b606e991ecf5a000f079d6e3138dae994ac6e020935c1253311",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-halftime-result-home": {
+    "id": "2295072",
+    "conditionId": "0x6383448bef7f69392cffdc11df740ad480c9045cd125a967f8073a7180581a97",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-halftime-result-draw": {
+    "id": "2295075",
+    "conditionId": "0x6a8758c01d45b973444d575191eca5ca2d6bedb19c2919706bf658408ff5ad84",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-halftime-result-away": {
+    "id": "2295076",
+    "conditionId": "0x88e9256783aec647357679e3484a579fd3cbac0e7755c4516137cc51b1b660a8",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-0-0": {
+    "id": "2295091",
+    "conditionId": "0x26cac77e4b8d8018a3e8f401ac70c9ccaccc28736a35086467151c939057e66e",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-0-1": {
+    "id": "2295093",
+    "conditionId": "0xb515a1723be7e33e76a8d9a0680aecfca1e75856d867bd74be278d8154805c01",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-1-0": {
+    "id": "2295094",
+    "conditionId": "0xc7694229fc665eb3a5ad083dab86481f3e5e534262111e352c8e806e2d528025",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-0-2": {
+    "id": "2295096",
+    "conditionId": "0x71a267bb74d9145a38f83732aee521d3af7445d7d010e53a5caa2f744f1acb22",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-1-1": {
+    "id": "2295098",
+    "conditionId": "0x626579104e55759f0e37635bd1c2683b404c7a5f07de12f7a5d055f0ab18972c",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-2-0": {
+    "id": "2295099",
+    "conditionId": "0x59d19d8a028af946d687f28dde6eef22913a1d5eeb925204dd937e6caad7ab08",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-0-3": {
+    "id": "2295100",
+    "conditionId": "0x4ab4481a12fc7bb8e6dd54617115c6cd7139dc4105b65285793a5854c2bd9372",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-1-2": {
+    "id": "2295101",
+    "conditionId": "0x4eae0315c85eb73c67c024dd5e3f17b2d2a027aff524f46366d463ec2ff4dfa2",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-2-1": {
+    "id": "2295103",
+    "conditionId": "0x192f649eed3f28a2af383d6f4e42635a07a6f333d8bb88d9c713e6b7f83d306b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-3-0": {
+    "id": "2295104",
+    "conditionId": "0xd2401fc4095275178d89c8919d35e6066c3955e4eedd4425090a744ea86c841e",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-1-3": {
+    "id": "2295105",
+    "conditionId": "0xa15c1cf2d3b2cfc81b21580ea14988e83174683c73a610853b3eeb6da3736221",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-2-2": {
+    "id": "2295106",
+    "conditionId": "0xbf0fa0f3ad4c2d33ef8b11810e48eaf19b383030364df16976ab3f7e568a3556",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-3-1": {
+    "id": "2295107",
+    "conditionId": "0x1233d164ef947639d8ab914d21d4ead81df5b8bb3794cb950a06fdc2cbec5582",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-2-3": {
+    "id": "2295108",
+    "conditionId": "0x4688b512ba37cfb66d0edd707d7446b42e66706758b41283a920cd439e6f3cf7",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-3-2": {
+    "id": "2295109",
+    "conditionId": "0x8e8cade840a50bd0897acf675a9ff1cc0fe4b9db5436461938420999c3912af2",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-3-3": {
+    "id": "2295111",
+    "conditionId": "0xe739044e8ab5303f987a552f216e7fa2234e35c51892306a1e8b70c4cff17f8b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-bol-pot-2026-06-14-exact-score-any-other": {
+    "id": "2295112",
+    "conditionId": "0x211d3c41654e8c2c5484ccf3e485faf01c8f84a688f071ca143597594e7fd122",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-blo": {
+    "id": "2295118",
+    "conditionId": "0xb69f5a3f2c6b5db7a5433340177c1adf0bbbee94dbe0e7560f1baa78c3c55006",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-draw": {
+    "id": "2295121",
+    "conditionId": "0xc27ef6c13bab8edcf322af1c01d88f919ef55cbf0b9703281e671e6f6104cc3a",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-str": {
+    "id": "2295129",
+    "conditionId": "0x1e0ff2ffc86dad73aad378969a52de61d839535aa0bc0ed4ecc5f3b40f959111",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-halftime-result-home": {
+    "id": "2295144",
+    "conditionId": "0xf4073202353c68830c4b7573669c54feb9a0d609d97d675510124c0b32668cb5",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-halftime-result-draw": {
+    "id": "2295145",
+    "conditionId": "0x37f2dc48f6b4f61489518134d2be2d7b0208e39bdb24531fdf3e96bc11a70c34",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-halftime-result-away": {
+    "id": "2295146",
+    "conditionId": "0xfa16e5c293d524ba42783e434b702905136a85d035d247c2d8e51a4ce8697cfa",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-halftime-result",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-0-0": {
+    "id": "2295156",
+    "conditionId": "0x89e8d7464aa68a681a57e463afd66713a766a0d23e0514bd15952343ed34ce69",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-0-1": {
+    "id": "2295158",
+    "conditionId": "0x4b1d3b1649452a21d845ae02aa589a0e4b4dfa38e8126419d8b7d9c522f2cbdf",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-1-0": {
+    "id": "2295160",
+    "conditionId": "0xd221a1e4ef75ee6b63a46aedcef0e29d3f1ba79c3dd0c7d6d8bc631f7e3b8d9f",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-0-2": {
+    "id": "2295162",
+    "conditionId": "0xb1048273209b34ed00fadad771ae23d69adca27ff9002c7527d311e69ef4409c",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-1-1": {
+    "id": "2295165",
+    "conditionId": "0xbf2c95b702c633dad82472037e44961995f781b79927a5409b09115efbe930b2",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-2-0": {
+    "id": "2295167",
+    "conditionId": "0x6c068991befebb69d011e9f147c7b3aa5f83f6eae59a73194611a108150cb232",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-0-3": {
+    "id": "2295169",
+    "conditionId": "0x06e6e10592e7455e8904fb012d0c98afba092e5a6fb19ecceeafc96434d3c47f",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-1-2": {
+    "id": "2295171",
+    "conditionId": "0x6c17c5f03e43b08294341d19d42f1bcda4c09f2cdf1276a9708648f74537c053",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-2-1": {
+    "id": "2295173",
+    "conditionId": "0x364dc3393f13a97ce93ac94bb42306233382b8dd4c429d525d78d93d4ad91b6e",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-3-0": {
+    "id": "2295174",
+    "conditionId": "0x1471dc6e835befce421ef707626950138205d57b66f73ceb8532c7039dd42903",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-1-3": {
+    "id": "2295175",
+    "conditionId": "0xe5418b9bcee00698f99d6342333aebb5850083d60c170fe4ad6a3fe32ef24587",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-2-2": {
+    "id": "2295176",
+    "conditionId": "0x8eb0d1622eaba8cdf122843c7074aae03dbff8c32d93d613725e3daa9d9b2ea2",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-3-1": {
+    "id": "2295178",
+    "conditionId": "0x23a1f69dfd2fbd8a085bde39f702a13e68d6c3cdb685af05f2f6f45bb258ee4d",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-2-3": {
+    "id": "2295179",
+    "conditionId": "0x9d340392646e7f63184ee7152bffd2a3432fb76ed55dc252c54bbca1ab463c5c",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-3-2": {
+    "id": "2295180",
+    "conditionId": "0xccc7432ae2db2f067612783d308bc7b038e082e29fcd25abb5297645b24e4f6d",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-3-3": {
+    "id": "2295181",
+    "conditionId": "0x8e6b852d2c0f3260f8f62bba6a3c312ccc22e45bbf21186752d2874be056c651",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "bol1-blo-str-2026-06-14-exact-score-any-other": {
+    "id": "2295182",
+    "conditionId": "0x797a0f993f374030f0c456cbb5ae46396f9d002a7749c1319485a2a2ff35e92e",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-exact-score",
+    "negRisk": true
+  },
+  "will-victor-wembanyama-be-on-the-cover-of-nba-2k27": {
+    "id": "2295485",
+    "conditionId": "0x10f066763cc2dd67a2a4d2d4f58083bf59772c8389f4ed86a50dae34b01bec98",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-anthony-edwards-be-on-the-cover-of-nba-2k27": {
+    "id": "2295486",
+    "conditionId": "0xdb9c686382227a632ed5a276c33659268849a7167b09597c9330f9ca78538b60",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-luka-doncic-be-on-the-cover-of-nba-2k27": {
+    "id": "2295487",
+    "conditionId": "0xe23ae83dcd5360d09397209d724453b456d754f327a5a0a71e9a0750013256f8",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-nikola-jokic-be-on-the-cover-of-nba-2k27": {
+    "id": "2295488",
+    "conditionId": "0x7be95d0208a4a522fe47a053717eacd25d3bd0a47b25a379a6ead1a71f722415",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-shai-gilgeous-alexander-be-on-the-cover-of-nba-2k27": {
+    "id": "2295489",
+    "conditionId": "0xd8153aeabe40974e7db44e971d27969b719cc22083311db74251eac132675fce",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lebron-james-be-on-the-cover-of-nba-2k27": {
+    "id": "2295490",
+    "conditionId": "0xfb427287676c5535163aa5ca594bb5c571f30ebafe0e6cb827a562c66e533c89",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-chet-holmgren-be-on-the-cover-of-nba-2k27": {
+    "id": "2295491",
+    "conditionId": "0xee454a0d6f508d8c22b68269f28a61b48f5e3b678e40d091d1cafe26d9b7eef5",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-deni-avdija-be-on-the-cover-of-nba-2k27": {
+    "id": "2295492",
+    "conditionId": "0x9d0143dc1637da575ca59613e3a1b346652018369ad76647bb9b29aa67718cb1",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-damian-lillard-be-on-the-cover-of-nba-2k27": {
+    "id": "2295493",
+    "conditionId": "0x39376822da645f730889e3f80fadc82248bc3537c68d69e42672d0b193a2e339",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-stephen-curry-be-on-the-cover-of-nba-2k27": {
+    "id": "2295494",
+    "conditionId": "0x4976658aa70e528450d6ec8c92ba6586dcd70ff8d83b444c160c6b04429eceb5",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jalen-brunson-be-on-the-cover-of-nba-2k27": {
+    "id": "2295495",
+    "conditionId": "0x52561f5ade8af306cde20e965c098281ee8b447b9a0821b4cffdc088ab2b06b8",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-karl-anthony-towns-be-on-the-cover-of-nba-2k27": {
+    "id": "2295496",
+    "conditionId": "0x41eb92b17ae4b447a001fbb5da9f06c938f3a51af82b42db720a715a64d69450",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-cade-cunningham-be-on-the-cover-of-nba-2k27": {
+    "id": "2295497",
+    "conditionId": "0x93be44c9434b7f19f41e06647a5bc8caf91cec094ae5cdc7df9f10127e812934",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-stephon-castle-be-on-the-cover-of-nba-2k27": {
+    "id": "2295498",
+    "conditionId": "0x006c82124e556fa2c49f0c12dc63fc0136f15e14f995701def587c78763ff685",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-paolo-banchero-be-on-the-cover-of-nba-2k27": {
+    "id": "2295499",
+    "conditionId": "0x267137e461f748014ab46f4a99aa93c61853e804fb2a0a567cc508ba08a4e328",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jaylen-brown-be-on-the-cover-of-nba-2k27": {
+    "id": "2295500",
+    "conditionId": "0x5ab8f975665b0c84e8d647ab4a1d93a7cef913c519417a42c0f1bd47f44d87b5",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-kevin-durant-be-on-the-cover-of-nba-2k27": {
+    "id": "2295501",
+    "conditionId": "0x1d174ed19d1376b545360e5a5b7a488285ce9b96a78e8f20fb00940a06a92695",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-donovan-mitchell-be-on-the-cover-of-nba-2k27": {
+    "id": "2295502",
+    "conditionId": "0x75bb54ee8fb573c722b2f370c1eb5d2402d97db48ebd5f480a46ed29e84fad5b",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-tyrese-haliburton-be-on-the-cover-of-nba-2k27": {
+    "id": "2295503",
+    "conditionId": "0xb927951b65eea4fd3e640382ace01fb359d7d4c79b9744c80ac82a9777c604a0",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-giannis-antetokounmpo-be-on-the-cover-of-nba-2k27": {
+    "id": "2295504",
+    "conditionId": "0x5f15524a3519de25f4db114d23e261522d3255b91c37eed8a72522ba85d6e46e",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lamelo-ball-be-on-the-cover-of-nba-2k27": {
+    "id": "2295505",
+    "conditionId": "0x051871341cd0299d84650c705a078d7d827be9424095869263ac4597ad3fbe82",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "nba-2k27-cover-athlete",
+    "negRisk": false
+  },
+  "will-ousmane-dembele-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295649",
+    "conditionId": "0x0f5fdf4eab8c319afd5c785970841b6737d6695bc4de89b05a6e97114cbd58e1",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-florian-wirtz-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295650",
+    "conditionId": "0x23b9edba3c2bb5120090ed74af43bc88dab0f0977f5c1c168cb77e7c34808b96",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-manual-neuer-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295651",
+    "conditionId": "0xc1de0ab31a611945b21c9e24514543ced8036922435957054b9f3396bcd7a19a",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-kylian-mbappe-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295652",
+    "conditionId": "0xc76a3a3ddb38733d4f61cd4c46a4de84596612f58066f836fa53d54ba402f7b2",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lamine-yamal-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295653",
+    "conditionId": "0xaf389d57818f4b9852df63c7994d74b97acd008d7c915e15578fb8707fbe70ec",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-mohamed-salah-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295654",
+    "conditionId": "0x21f826952f58162be90d354307707ca0761c12106087805aa06b28c0fa1891af",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-declan-rice-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295655",
+    "conditionId": "0x1dc914b4b92778cdd4fc221f73d54501ee1314a00c577b442dd1d68e9a932d37",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-harry-kane-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295656",
+    "conditionId": "0xd45324c9a04edb2b39011ddfacda7a6f434259b856c33a072164a7370df19ce2",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-luis-diaz-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295657",
+    "conditionId": "0x9056dfc0cafb0343258f7acf25b7ddae31032158f5d2230b1ef1b32fa88ae9a2",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lionel-messi-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295658",
+    "conditionId": "0xbbd9e1411642cfee65382034a88b79297dd7589e7699739eeae7b302501c89c8",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-cristiano-ronaldo-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295659",
+    "conditionId": "0x74d9fd87147d5b8a8c7ffa8e9b023aab2867080cf16c81a19184822e7fb2d4ab",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-michael-olise-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295660",
+    "conditionId": "0x147309c0b4f8e153534b321c66139056ed36aca39bb6d459758d6fee5eb5bcd5",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-khvicha-kvaratskhelia-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295661",
+    "conditionId": "0x97166ee5d4ddd9d1edf5623efd0d148a39fdedd994c0de33493254ef7b86e138",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bruno-fernandes-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295662",
+    "conditionId": "0x091ffe0bb421e7d7a04f5f5e7280cc7b83eed417b7fa696ba70617d357097cd3",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-vitinha-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295663",
+    "conditionId": "0xfe2e8d908ea88af4d1d6fa994bde14560bc4dd4e79b3e30ff6d85dcc8dc65aab",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-erling-haaland-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295664",
+    "conditionId": "0xb425de9046e67dbb4172edc1f9f5cf584e8852549eb038e7600b10d0b3e11903",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-vinicius-junior-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295665",
+    "conditionId": "0xa9c0023a9cc1b1c7390fab3262dea3dc59461a768470ef65df68eb26d103a130",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-pedri-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295666",
+    "conditionId": "0x24caa1debcc64e52345f079dc9b992c886757749117e9efe1fa53687a72437eb",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-julian-alvarez-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295667",
+    "conditionId": "0x6643324c2afdaaa1d755ea5036fc92004e997fa1e1ba8ff08d0df583915bb89b",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bukayo-saka-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295668",
+    "conditionId": "0x15c74682840c590dfad1eba1be4d2143c7e5bc9417fcf7113a60c3f596540b60",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-rodri-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295669",
+    "conditionId": "0xc3deb8bdffa4f91eab77516884da98de6bd007ddcb2c0348fa5a5db06b1a082f",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-william-saliba-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295670",
+    "conditionId": "0x29116b31e2dc30c6e0a4bfe1bc5658f83a1bce7194adf8f183720266a46a4958",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lautaro-martinez-be-on-the-cover-of-ea-sports-fc-27": {
+    "id": "2295671",
+    "conditionId": "0xa9094bb48d10d4f25fda9e42007998df602a2a6091c783daeddd521a3aee1192",
+    "endDate": "2026-09-25",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-fc27-cover-athlete",
+    "negRisk": false
+  },
+  "will-john-fleming-drop-out": {
+    "id": "2295717",
+    "conditionId": "0x37703c1f659f287f3a8d12b0b33618225bdd2be6b65704732b803b16da2996d8",
+    "endDate": "2026-06-26",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-john-fleming-drop-out",
+    "negRisk": false
+  },
+  "will-arch-manning-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295742",
+    "conditionId": "0xd5374beb684fefa4ca76c64d2a1a4ba826ccfa87d4527206a9ebc5015f222536",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-julian-sayin-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295743",
+    "conditionId": "0x22b2d49299729c95fd2d56647e3ebda278e44e8ecdeaebf2abcc796e452e4f6b",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-dante-moore-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295744",
+    "conditionId": "0x17f3f2cd8f8652390b681abf70552a6869ed4cf8223a0473e6bdba12d620afe7",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-cj-carr-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295745",
+    "conditionId": "0x7877b1aff0cb155e2484c09f69d20d8ec9f6fa3645a4013a2c670cb4a0c2cf84",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-fernando-mendoza-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295746",
+    "conditionId": "0x23013cbca4f0e31e55cb92bb35711440062d33c418cfcc21c100100813d21d3c",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-malachi-toney-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295747",
+    "conditionId": "0x1fa4c9eb1a52266fefc0fd8a43036552ef69d698a884f96759e21edd879c20e4",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-leonard-moore-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295748",
+    "conditionId": "0xa3c2f44361b61427f205d776666b9d661678f3a2557d27b96c541895ded4dbce",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-colin-simmons-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295749",
+    "conditionId": "0xe7f4c4ce912b0d9783f3f17c48959842bb6750524103ee7cb6318ee1ed74819e",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-kewan-lacy-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295750",
+    "conditionId": "0x5fdd78c43d42eb937230d18e288c288c9c3291458b63b098ea0bd6ce584c36c8",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-sam-leavitt-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295751",
+    "conditionId": "0xb914f8c18db67fed4d6c2502cac141903569d231170135b997e61a9afa0b7ae0",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-lanorris-sellers-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295752",
+    "conditionId": "0x68ad303d7efcfde9ca9220268b5b2fbb8af4add5f77e898a24aa72c40661a778",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bo-jackson-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295753",
+    "conditionId": "0x76106a14d25f121ad62d9f943e6f91030fd85b02a1822042f75eefd272a5794e",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jeremiah-smith-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295754",
+    "conditionId": "0x0ac70ccd27f24e234c3af5fc32141d720f3e85bd735545c5e0547e53021ab335",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jyaire-hill-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295755",
+    "conditionId": "0x31e40af6e56093559d548c7cf6e8936fdae243da7209df63d1ee57e52c831809",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-darian-mensah-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295756",
+    "conditionId": "0xda74cba1871a9e03b5eae51a1030f883eaf9dfe5ae01e4ecd3848cd99b906b0d",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-trinidad-chambliss-be-on-the-cover-of-ea-sports-college-football-27": {
+    "id": "2295757",
+    "conditionId": "0xd545e62622414a57f5626875d8891f565a0cbaf26ace0369c696eb2a0a34732c",
+    "endDate": "2026-08-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ea-sports-college-football-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-apyx-launch-a-token-by-september-30-2026": {
+    "id": "2296079",
+    "conditionId": "0x818192c8932447fe21398bad13745f8ee602eebe7f0966a0e43ec872e210ca04",
+    "endDate": "2026-10-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-apyx-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-apyx-launch-a-token-by-december-31-2026": {
+    "id": "2296080",
+    "conditionId": "0xb5a6e726c2869054acbdd374d1e79eae783e6422907fa040b7fd69d535391849",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-apyx-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-apyx-launch-a-token-by-september-30-2027": {
+    "id": "2296083",
+    "conditionId": "0x0744dab6b122ab3fb73bc4dd0b2c93f7032666ee608d2d77dd8a5381351cb153",
+    "endDate": "2027-10-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-apyx-launch-a-token-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-september-30-2026": {
+    "id": "2296167",
+    "conditionId": "0xc8b71f539dd7c9eddeb6f55e8760956e65baa0d546425df0a06777957a9b53c9",
+    "endDate": "2026-10-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-december-31-2026": {
+    "id": "2296168",
+    "conditionId": "0xe71c29e97e0485575a5ee9d2a3babfeb79007d9e9598c782f64d621850f18bd7",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-march-31-2027": {
+    "id": "2296169",
+    "conditionId": "0x3dc8a9f438a3bb76617b0dc08f22f34fd40160e74769a9782bc82cecd5710953",
+    "endDate": "2027-04-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-june-30-2027": {
+    "id": "2296170",
+    "conditionId": "0xb055fc1032e4fb8af34182d84a286f826ed6afcd49982bda6b7e3f9c20aea7de",
+    "endDate": "2027-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-september-30-2027": {
+    "id": "2296171",
+    "conditionId": "0x984b5bc17717acf06a8f7484a75278422da316cbc43abb17235900127ef315eb",
+    "endDate": "2027-10-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-december-31-2027": {
+    "id": "2296172",
+    "conditionId": "0x91a814c7cf9d618f3b343d65d696629de9185c68d29dc8d57430e6bef4b5eee7",
+    "endDate": "2028-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-hyperliquid-introduce-kyc-by-june-30-2026": {
+    "id": "2296173",
+    "conditionId": "0xb1bc64de9d53fafa4afd4536b651fc2e44aba466a89d72b427467226e9a782f6",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hyperliquid-introduce-kyc-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-june-30-2026will-elon-musk-tweet-about-hyperliquid-by-june-30-2026": {
+    "id": "2296215",
+    "conditionId": "0x11de17d292e277b81a6e3b1e3c45a3435e2189aa224d1ed52d8eedf943e6ed5a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-july-31-2026": {
+    "id": "2296216",
+    "conditionId": "0x0fa7b9d6d793a5d36512e2f0d09f68fb8100072d4c2dbafd42c15e3cfe40618e",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-august-31-2026": {
+    "id": "2296217",
+    "conditionId": "0x784aad9ba3f0aa5f8c2e6c4dc9314d8899cd147d6b289e6eb289e66a5b569082",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-september-30-2026": {
+    "id": "2296218",
+    "conditionId": "0xd5fb8ad874064360478b115db715e10997e03ec8a03c29e3d061d25c3f9418bb",
+    "endDate": "2026-10-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-october-31-2026": {
+    "id": "2296219",
+    "conditionId": "0x2f71e39619b61502620d0036949cc9547377c7498ef2ad9d3a1b42fe34a51099",
+    "endDate": "2026-11-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-november-30-2026": {
+    "id": "2296220",
+    "conditionId": "0xf93d688a9ad0c04cab8ce8144d34da5d6e78f0c0439c8c9c86980d00797e0315",
+    "endDate": "2026-12-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-elon-musk-tweet-about-hyperliquid-by-december-31-2026": {
+    "id": "2296221",
+    "conditionId": "0xf52464db4365608f6f135248f83cd1e98e6232bce4917e6cd7d94d911ca8f51a",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-elon-musk-tweet-about-hyperliquid-by",
+    "negRisk": false
+  },
+  "will-enzo-maresca-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296309",
+    "conditionId": "0x5f085f7c0cdeb50f076adeec984d488d09999ae8eedd7d169a21c1c6c917db1d",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-vincent-kompany-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296310",
+    "conditionId": "0x406d3e903f09ac541ce2d6970bb21af752fe49674bb58ee47bc6acf204337efd",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-luis-enrique-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296311",
+    "conditionId": "0x68da17f9f683419b66b15ce9062d1984766642a8b932085c38784310e06f31ee",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-andoni-iraola-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296312",
+    "conditionId": "0xfe0bd7c80adf234eb07cdf02da7a7fc0c4985aa4530c9acaccb97c4db6a78fb8",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-oliver-glasner-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296313",
+    "conditionId": "0xe8b013e4b190d1e5a715a0af83a2fab2d39528f916e7a0ae8fe4c22b4b502f64",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-roberto-de-zerbi-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296314",
+    "conditionId": "0xf8c3091058cfb15fcaa45bff34fba2b50a4a54244b3b0d14f366ee9d1861c6ad",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-jurgen-klopp-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296315",
+    "conditionId": "0xb92cce914c1c9f7fd3c1d3b06b7cbde1d91e7c6f90b16683a7e729c49a4a0201",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-carlo-ancelotti-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296316",
+    "conditionId": "0x7f71abd7f427f85eedf0d83be932025a1bdb70c282c97a1e45182ca23b7b20fb",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-sergio-aguero-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296317",
+    "conditionId": "0x60cb9c156e527fc69c4c6af40909fc6fc1da9549ff83f008cb59d103343b58c6",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
   }
 }
