@@ -1949,96 +1949,6 @@
     "eventSlug": "the-masters-winner-2026",
     "negRisk": true
   },
-  "will-vicky-dvila-win-the-2026-colombian-presidential-election": {
-    "id": "569356",
-    "conditionId": "0x849a3e762977a9ad6b8e5f449ac7c8abb2756409a1b55759e00262e072bd81a7",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-luis-gilberto-murillo-win-the-2026-colombian-presidential-election": {
-    "id": "569357",
-    "conditionId": "0xba75e6ba41372e351ed4755f183c1cdb082bd7cf6182a6d80dc445869c09de10",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-claudia-lpez-win-the-2026-colombian-presidential-election": {
-    "id": "569358",
-    "conditionId": "0x9714c7fe6abc381277370c4287f8b2d30dffddd040565266d0274e67028b5197",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-david-luna-snchez-win-the-2026-colombian-presidential-election": {
-    "id": "569359",
-    "conditionId": "0xf63b20e72086547c789e93d744f811c20d9c0b14be0501599cd4c1c5853c9bd5",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-juan-daniel-oviedo-win-the-2026-colombian-presidential-election": {
-    "id": "569360",
-    "conditionId": "0xe59f59145045f82f8408f1fc5041d33c2c2b1de8ffaf7a4c450c638f5b038079",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election": {
-    "id": "569366",
-    "conditionId": "0xfbe85201ab2b4acff01cd5a3639039fc813d3448c64db081f70926bd9b9e74e9",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election": {
-    "id": "569368",
-    "conditionId": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-roy-barreras-win-the-2026-colombian-presidential-election": {
-    "id": "569370",
-    "conditionId": "0xd0282264ee769e9a77dc5e168cfe7966841955a4b3555485cfbddc6961198ae0",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
-  "will-paloma-valencia-win-the-2026-colombian-presidential-election": {
-    "id": "569373",
-    "conditionId": "0xd6591e966aebf061547ef34cdf3494ed318969887c8b7fb53f10ed5d5461a547",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
   "aaron-taylor-johnson-announced-as-next-james-bond": {
     "id": "572110",
     "conditionId": "0x31eaf3b4bfb0c7107250f8aae9dfaf18a821a6c58fe1b5254a1b77542a4c836c",
@@ -72401,66 +72311,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-che-can-2026-06-24-che": {
-    "id": "1897263",
-    "conditionId": "0xe1953a0f479de0ff3efabb7dff6116ff6cb9d7fe2d7ee6526c5d68da9cf09767",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-che-can-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-che-can-2026-06-24-draw": {
-    "id": "1897265",
-    "conditionId": "0x10b4a49cc233715e3b2154533c654fcbdcac6c03b3b415611c5c014872e80b3b",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-che-can-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-che-can-2026-06-24-can": {
-    "id": "1897266",
-    "conditionId": "0xfec117e3f24c0ee72f753bb35c743d6248212998c001b400609858caeb3fcc00",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-che-can-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-bih-qat-2026-06-24-bih": {
-    "id": "1897271",
-    "conditionId": "0xf224cac9c315d3693bbcbd8406460b8052ecc40df364f7e2bc6079c072cfe219",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bih-qat-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-bih-qat-2026-06-24-draw": {
-    "id": "1897273",
-    "conditionId": "0x44a0f6adbea52acf0a97b90870a637a0bf577dc09b9b376ea56a0fbe86f68e12",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bih-qat-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-bih-qat-2026-06-24-qat": {
-    "id": "1897274",
-    "conditionId": "0x339c300a9cfe452223d315d03c35473063ee904bbf3821741ed2e3ddfc27426d",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-bih-qat-2026-06-24",
-    "negRisk": true
-  },
   "fifwc-mar-hai-2026-06-24-mar": {
     "id": "1897279",
     "conditionId": "0x649bd3dc845f647aa8c9a739ad8de245b853224961afd01127de0071c13f84b3",
@@ -74490,36 +74340,6 @@
     "eventSlug": "cs2-aab-sashia-2026-04-10",
     "negRisk": false
   },
-  "cs2-ent2-waz-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928518",
-    "conditionId": "0xd4d75db734ed87721fad5d6c2b9e87fd52b24e6b26c962cffef6eec4f9a9c7a4",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ent2-waz-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-saw2-eclips-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928521",
-    "conditionId": "0x72c8fe2511bfaab631573819c19dd589c695764fef5c5da6b47199978f823f97",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-saw2-eclips-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-sashia-ent2-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928524",
-    "conditionId": "0xe23b782bd2c64b665896fa1de4caf58825b4cefed59fb71829f10bf2e51d4b67",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-sashia-ent2-2026-04-10",
-    "negRisk": false
-  },
   "cs2-immune-aab-2026-04-10-game1-odd-even-total-kills": {
     "id": "1928527",
     "conditionId": "0xd5fbdf8443fec53bcc018b1be54f96d87baa650e02fd1d6951eee4f785c74756",
@@ -74528,16 +74348,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-immune-aab-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-gbl-saw2-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928530",
-    "conditionId": "0xb84be0d0f5b4d00b091102ac01ea5621985340f41433e4a3c6edabf1767e9cc4",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-gbl-saw2-2026-04-10",
     "negRisk": false
   },
   "mls-nyc-laf-2026-05-06-nyc": {
@@ -113764,16 +113574,6 @@
     "eventSlug": "california-lieutenant-governor-election-winner",
     "negRisk": true
   },
-  "jung-chung-rae-out-as-dp-leader-in-2026": {
-    "id": "2262717",
-    "conditionId": "0x007aa0430cbc24e2a8b39a59dfa5f2d321053d667bf01aa2801c9ba48ea80326",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "jung-chung-rae-out-as-dp-leader-in-2026",
-    "negRisk": false
-  },
   "will-little-joe-escape-again": {
     "id": "2263388",
     "conditionId": "0xd19131fb51b57eae97a9d67333b10848677455a7a48994288c8a3f2478eafc60",
@@ -119649,5 +119449,205 @@
     "acceptingOrders": true,
     "eventSlug": "epl-next-manchester-city-manager",
     "negRisk": true
+  },
+  "will-arne-slot-be-the-next-manager-of-manchester-city-fc-378": {
+    "id": "2296327",
+    "conditionId": "0x05b24ef808d04b1207fa007069f4ffe47be91de21d52f70793febb561ee8985a",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-xavi-hernandez-be-the-next-manager-of-manchester-city-fc-787": {
+    "id": "2296328",
+    "conditionId": "0xfbf89d468fe6b0582eb30f32e1a60b81d87792733fd3c9bd9b44baa8590c9ec3",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "wta-kraus-akugue-2026-05-20-first-set-total-8pt5": {
+    "id": "2297725",
+    "conditionId": "0x4b40d7103fe83539014f919abb740f8a35e0e98f5699b43e8d678d99a5092e01",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "wta-kraus-akugue-2026-05-20",
+    "negRisk": false
+  },
+  "wta-kraus-akugue-2026-05-20-first-set-winner-Kraus-vs-Akugue": {
+    "id": "2297726",
+    "conditionId": "0xf391fd2632dcdeddf107813b7d86e4692506b358e661fee874115e83ef9e30a8",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "wta-kraus-akugue-2026-05-20",
+    "negRisk": false
+  },
+  "wta-kraus-akugue-2026-05-20-first-set-total-9pt5": {
+    "id": "2297729",
+    "conditionId": "0xd3a05ef3d650f95c1e6c58640bc6699245472d1be071160e14eb101a6bb75a38",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "wta-kraus-akugue-2026-05-20",
+    "negRisk": false
+  },
+  "wta-kraus-akugue-2026-05-20-first-set-total-10pt5": {
+    "id": "2297731",
+    "conditionId": "0x3c9515fd38dea579d9217038c500ee525bdca8166f25bcf7d82144d8009ff67e",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "wta-kraus-akugue-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-wraith-algo1-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2297956",
+    "conditionId": "0xb0b1937781038fdac3963a7649f507999f4aec067ea893da2aa8e077d7eadaae",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-wraith-algo1-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-wraith-algo1-2026-05-19-game2-odd-even-total-kills": {
+    "id": "2297958",
+    "conditionId": "0xdcbba633f93c5c212b1f1ce3bd602fb50e460d5d2a2d8e14226d5c15b9029324",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-wraith-algo1-2026-05-19",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt75t-by-june-30": {
+    "id": "2298736",
+    "conditionId": "0x9fe50124f0e6ea1f1706ebe2107e82c66ad6f77071d0fd5a900ad56290403890",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt5t-by-june-30": {
+    "id": "2298737",
+    "conditionId": "0xd17ac9fb3279922ab6888f7d6f3395ee0094322f777c569ed5f2b9f50730bff2",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt25t-by-june-30": {
+    "id": "2298738",
+    "conditionId": "0x57fa09373e78720fbe390d8bf873fd06f8fb3bb27b781bf12309f2f85ba23871",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt1t-by-june-30": {
+    "id": "2298739",
+    "conditionId": "0x0ea81f1ee87b0f3f62cf6553304820aa8ad69e25b2078d62e7f77f0c65ed54ab",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-875b-by-june-30": {
+    "id": "2298744",
+    "conditionId": "0x351654b935455974b1ff5b152479cdbc00a80346d2378d94a69ea17fff96c372",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-850b-by-june-30": {
+    "id": "2298745",
+    "conditionId": "0xac878146c9e2ee28f133d957d606684af8bb1d2ebbfb977928b203275d70ac4f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-800b-by-june-30": {
+    "id": "2298746",
+    "conditionId": "0xc45817aeaf5f390a36cca82888dd9a870d2aba7dc648dadbb65d4e005cff1162",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-750b-by-june-30": {
+    "id": "2298747",
+    "conditionId": "0x7677b744e64c91b1fbb08f87590749120f4cb2681aa1eb60e8171aa463269132",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt5t-by-june-30": {
+    "id": "2298768",
+    "conditionId": "0x91b4cffe392ea0c5ef9378cc91876ab26597240a1db2a0085083ef93059ea2bf",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt25t-by-june-30": {
+    "id": "2298769",
+    "conditionId": "0xc55a64f2d483d86eae36261ad0ec711f14dbdd7a8ff4988a9958285b2592d849",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt1t-by-june-30": {
+    "id": "2298770",
+    "conditionId": "0xea49cbec737d22bf5502197d540cb7409742c57452689e5cd36e4586bd2197bc",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt0t-by-june-30": {
+    "id": "2298771",
+    "conditionId": "0x4fcc440e1b0a5baa55283c20aec089e457eff635eeefc576e51e2e5065e4cb66",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
   }
 }
