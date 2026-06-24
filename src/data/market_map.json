@@ -2049,16 +2049,6 @@
     "eventSlug": "colombia-presidential-election",
     "negRisk": true
   },
-  "will-daniel-quintero-win-the-2026-colombian-presidential-election": {
-    "id": "569369",
-    "conditionId": "0x566196aaed496a8454b0dd572e88dbc096f13631589b8401efb942bbd4e07cdf",
-    "endDate": "2026-06-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election",
-    "negRisk": true
-  },
   "will-roy-barreras-win-the-2026-colombian-presidential-election": {
     "id": "569370",
     "conditionId": "0xd0282264ee769e9a77dc5e168cfe7966841955a4b3555485cfbddc6961198ae0",
@@ -119643,6 +119633,16 @@
   "will-sergio-aguero-be-the-next-manager-of-manchester-city-fc": {
     "id": "2296317",
     "conditionId": "0x60cb9c156e527fc69c4c6af40909fc6fc1da9549ff83f008cb59d103343b58c6",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epl-next-manchester-city-manager",
+    "negRisk": true
+  },
+  "will-steven-gerrard-be-the-next-manager-of-manchester-city-fc": {
+    "id": "2296318",
+    "conditionId": "0x30aa6f843c200bc106dd1ba6ca193492c1e00d787c62dec74d30b3f412e14336",
     "endDate": "2026-09-01",
     "closed": false,
     "active": true,
