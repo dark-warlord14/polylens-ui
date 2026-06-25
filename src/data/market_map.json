@@ -539,16 +539,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-czechia-win-the-2026-fifa-world-cup": {
-    "id": "558984",
-    "conditionId": "0x5e614739363bbfc399469102c600e4e8260032d41e59e0bc12ebc0e71231642d",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "xi-jinping-out-before-2027": {
     "id": "559651",
     "conditionId": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
@@ -18458,39 +18448,9 @@
     "eventSlug": "meloni-out-as-prime-minister-of-italy-by-june-30",
     "negRisk": false
   },
-  "will-brazil-win-group-c-in-the-2026-fifa-world-cup": {
-    "id": "839399",
-    "conditionId": "0x33ec07ceef529f87a3a070e06d5f9b6df9d3e4e6713faec26d9510786f7cd6be",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-c-winner",
-    "negRisk": true
-  },
-  "will-morocco-win-group-c-in-the-2026-fifa-world-cup": {
-    "id": "839400",
-    "conditionId": "0xcd82ced289c1009bb08ea7d74cdc4c56d7e3feaf4eebafa429e04d8d08ba8eb6",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-c-winner",
-    "negRisk": true
-  },
   "will-haiti-win-group-c-in-the-2026-fifa-world-cup": {
     "id": "839401",
     "conditionId": "0x136dc2e22f0945bf14a2cddbdea0ad922b6b39a7d33784e1201fc37695606f29",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-c-winner",
-    "negRisk": true
-  },
-  "will-scotland-win-group-c-in-the-2026-fifa-world-cup": {
-    "id": "839402",
-    "conditionId": "0x810354c62431246e10c094cb357e8209994a467145fc9801d2f1965c8ac5f3ce",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -60981,6 +60941,16 @@
     "eventSlug": "tn-09-democratic-primary-winner",
     "negRisk": true
   },
+  "will-london-lamar-be-the-democratic-nominee-for-tn-09": {
+    "id": "1546002",
+    "conditionId": "0xc65e6ae116a4053e775168d2dfad44fde1fa739c1e3e45cd3d40e087a30700c4",
+    "endDate": "2026-08-06",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "tn-09-democratic-primary-winner",
+    "negRisk": true
+  },
   "cs2-g2a-innerc-2026-03-11-game1-odd-even-total-kills": {
     "id": "1547771",
     "conditionId": "0x0b696d537f489bd88f695eb06fcbf4af432a1b37b17eb23d29c9b0081154cff6",
@@ -72251,66 +72221,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-cze-mex-2026-06-24-cze": {
-    "id": "1897296",
-    "conditionId": "0xb7297ad99cd8e4957c64aca2fbf143efeb7045e95826cf4aa6b327ebfe1f1ec3",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cze-mex-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-cze-mex-2026-06-24-draw": {
-    "id": "1897297",
-    "conditionId": "0x9de91738929365f104420a4246815a47ea2017b17e30370fa4572ceb84d898b9",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cze-mex-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-cze-mex-2026-06-24-mex": {
-    "id": "1897299",
-    "conditionId": "0x1f5cd4d1a23c11229b2781303dd39fb60ec6ee369dd173cedef8a7f7a1a27298",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cze-mex-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-rsa-kr-2026-06-24-rsa": {
-    "id": "1897303",
-    "conditionId": "0xe9b6af2b81a59d36a47915db6f54b6af0e3dd19883382aacc41fe82e43cc2313",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-rsa-kr-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-rsa-kr-2026-06-24-draw": {
-    "id": "1897305",
-    "conditionId": "0x16c51ebf6cea99ba2d958910e743690b40c46c2a426eab1709cd934d8364a96c",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-rsa-kr-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-rsa-kr-2026-06-24-kr": {
-    "id": "1897306",
-    "conditionId": "0x374d4c9c12e766653de985450899cf2181edf47189894bc9c870216b5c6b1d83",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-rsa-kr-2026-06-24",
-    "negRisk": true
   },
   "fifwc-ecu-ger-2026-06-25-ecu": {
     "id": "1897311",
@@ -89211,26 +89121,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-south-africa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070733",
-    "conditionId": "0x601d0d0b6e93e27832d2ecf4482e4fe9fed604cd0a29e7962b09a1d764fb4250",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-czechia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070734",
-    "conditionId": "0x390b496499262807b909b58a9aaa95f6ae0b322d4a324531a3e97b2937904eda",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-scotland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070741",
     "conditionId": "0x73f6028060ff88ff0369307f2c45dde79a5e7d7c437c4987638def21d065bac7",
@@ -90004,16 +89894,6 @@
   "will-south-africa-reach-the-2026-fifa-world-cup-final": {
     "id": "2071520",
     "conditionId": "0x631a7b9f9d7649360f6873024da6a1d2cd1db1f2a2a72e99c41da90e26eb8ce0",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-czechia-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071521",
-    "conditionId": "0xf9da5b6b2668d0e9015d68f29f8ca5af6ebd1c9c1655a4b121db7da89232394f",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -119649,6 +119529,126 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-125b-by-june-30": {
+    "id": "2298963",
+    "conditionId": "0x20fa998ae5ddb7361439ebb32fe656bb3ecbf35b9d3fb4ac099adcd269ff2d45",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-110b-by-june-30": {
+    "id": "2298964",
+    "conditionId": "0x6c520e0613b6223efb20304e7f3e3ccb49f599c028b7cba59ecfe7c516b0fc74",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-100b-by-june-30": {
+    "id": "2298965",
+    "conditionId": "0x690ecb415230b862f523be76deeb42ab62ed00bd6656504cde0b0eed47abc4b2",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-95b-by-june-30": {
+    "id": "2298966",
+    "conditionId": "0x82165cfc6a6b20e2d1814d2ced47fa67b2e6ef43030709e1a5bc80344651fd4c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-90b-by-june-30": {
+    "id": "2298967",
+    "conditionId": "0x0fb78ff3b17941d2dc835f0d0d0101519c365c395486b4f979db9a10fa6a4333",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-low-75b-by-june-30": {
+    "id": "2298970",
+    "conditionId": "0x163fcb7e71bc46428525411bd202648360e4da763fa5d054f8cc5f6014d72e1c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-low-70b-by-june-30": {
+    "id": "2298971",
+    "conditionId": "0x01d1b389ce5a437e1e61b9abf1083d1bca326657baefb72ca69562a35e2e32eb",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-neuralinks-valuation-hit-high-75b-by-june-30": {
+    "id": "2298979",
+    "conditionId": "0x1270380266f7dc250b7d273789d215a28566fdce7d7bc692a55838059d9d936d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-neuralinks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-neuralinks-valuation-hit-high-50b-by-june-30": {
+    "id": "2298980",
+    "conditionId": "0x261a7ce15d8c4b8d7cc043fe773d63c2b0d7e912c7c33f72b9eb2a9ff7a6fd58",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-neuralinks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-neuralinks-valuation-hit-low-37pt5b-by-june-30": {
+    "id": "2298985",
+    "conditionId": "0x6f5f10fc7a2bb565960327fe3f1c126f5b252c89c5b8483182bb06fba96a2e3a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-neuralinks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-neuralinks-valuation-hit-low-35b-by-june-30": {
+    "id": "2298986",
+    "conditionId": "0xf7eff6c6b80cbc9c31f1e04044475e10eb8225e8bff9eac283a3484c6445c3f8",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-neuralinks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-neuralinks-valuation-hit-low-32pt5b-by-june-30": {
+    "id": "2298987",
+    "conditionId": "0x921e1fcef54f3dbc3fb2d57171aa8744028569b88fe3909bb50a90192c19cfde",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-neuralinks-valuation-hit-by-june-30",
     "negRisk": false
   }
 }
