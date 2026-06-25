@@ -15800,6 +15800,16 @@
     "eventSlug": "az-05-republican-primary-winner",
     "negRisk": true
   },
+  "will-daniel-keenan-be-the-republican-nominee-for-az-05": {
+    "id": "704367",
+    "conditionId": "0xebb708843345cb7679137da7bac6aa67ce25ce2256e148a2511776b23e50f6d8",
+    "endDate": "2026-08-04",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "az-05-republican-primary-winner",
+    "negRisk": true
+  },
   "will-madison-cawthorn-be-the-republican-nominee-for-fl-19": {
     "id": "704423",
     "conditionId": "0x1529edbafb824abafb135b50229badd58d073215c8f965ede564be9fbd120fe1",
@@ -26140,16 +26150,6 @@
   "will-silver-si-hit-high-120-by-end-of-june": {
     "id": "1032336",
     "conditionId": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "si-hit-jun-2026",
-    "negRisk": false
-  },
-  "will-silver-si-hit-low-60-by-end-of-june-167-538": {
-    "id": "1032345",
-    "conditionId": "0x898e9ff5045fcd05c26ea1e956d926c191d5aecae1bc184283c94e665f0f7be5",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -47793,6 +47793,16 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "magicblock-fdv-above-one-day-after-launch",
+    "negRisk": false
+  },
+  "bitmine-sells-any-ethereum-in-2026": {
+    "id": "1340780",
+    "conditionId": "0x57a8d45f65ccccf9c576367d5bacb4c307a66eda50720463b5a35fa74750a74f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bitmine-sells-any-ethereum-in-2026",
     "negRisk": false
   },
   "will-usdjpy-hit-200-high-in-2026": {
@@ -119639,16 +119649,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-krakens-valuation-hit-by-june-30",
-    "negRisk": false
-  },
-  "will-lambdas-valuation-hit-high-12pt5b-by-june-30": {
-    "id": "2299036",
-    "conditionId": "0xb9264482e0dcdcfd0112541d486e416f5d3e1fe81ecb6863b460327f0ae0aa65",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
     "negRisk": false
   }
 }
