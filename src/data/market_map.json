@@ -74051,26 +74051,6 @@
     "eventSlug": "cs2-waz-aab-2026-04-10",
     "negRisk": false
   },
-  "cs2-lgod-saw2-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928509",
-    "conditionId": "0x765b4bb22e1f2020c65ac33f07a3adcf6af940a3b33c26015bc2e96109f03719",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-lgod-saw2-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-eclips-gbl-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928512",
-    "conditionId": "0x2e94a84c793016cb1bf647c5fef8186d70709738a31ccc784b2ecae199943aad",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-eclips-gbl-2026-04-10",
-    "negRisk": false
-  },
   "cs2-aab-sashia-2026-04-10-game1-odd-even-total-kills": {
     "id": "1928515",
     "conditionId": "0xb5ea3654d7ae560eae44e5100824fe364bd4af224eaf189d4e904bda977b96f2",
@@ -89421,16 +89401,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-a-player-representing-czechia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070954",
-    "conditionId": "0x3a379b96fc186cebd73d3c63cf6f500676ebe10d5b26ab6cba2a60f4b87ac228",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
   "will-a-player-representing-canada-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070955",
     "conditionId": "0xd2f697fa8bfd2d6e7b6413b44ae408f53f789cbb9a6a7c448462af78acc916f1",
@@ -89484,16 +89454,6 @@
   "will-a-player-representing-scotland-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070961",
     "conditionId": "0x72d077e7101351d9392e694e2078f7803e24ba5815c22259b2ded966c85f0671",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-haiti-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070962",
-    "conditionId": "0x2add8f72da72fec3b2c01fb746e16243dd5d7c996430122eddf850af293c34a2",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -95280,16 +95240,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-czechia-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116720",
-    "conditionId": "0x09d88ffa0a96cd9295d6a99f9d5d106ca1a1d57fa1d68fa20a1e6ff229bd233c",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-dr-congo-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116721",
     "conditionId": "0x1f5329e149f9440a330614b16951b9dec100457dbece49a3ddd4912c59155be4",
@@ -95353,16 +95303,6 @@
   "will-ghana-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116727",
     "conditionId": "0xa48375a7275a25a1c0d1377f42c46eab784bef9b4fc721a135c67c971bdc9658",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-haiti-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116728",
-    "conditionId": "0x336deb87a33a243f2db8c3b7f5e4fc34ebc5aa64f5f0fef0363196d93ea7d775",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -96362,16 +96302,6 @@
     "eventSlug": "world-cup-most-assists",
     "negRisk": true
   },
-  "will-adam-hloek-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117289",
-    "conditionId": "0x23911d660befb6b6217cd11e5930533ecefd49a691935dae56d978aa0b0c82b9",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
   "will-cdric-bakambu-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117290",
     "conditionId": "0x0f1014bf857d302f504e24631841af5f3447fbe203ef7c89c78e01b032d49279",
@@ -96435,16 +96365,6 @@
   "will-mohammed-kudus-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117296",
     "conditionId": "0x30978cfd99c525aeeb50f7924a4db36f7b030e88981a25d75f249eecf7344137",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
-  "will-frantzdy-pierrot-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117297",
-    "conditionId": "0xd08387deeae125bb1b1180d12bd43c636d85109e209124215378ae4be7aef56d",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -96962,16 +96882,6 @@
     "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
   },
-  "will-ondej-duda-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117904",
-    "conditionId": "0x2d483780a4efa8106df14a35520dbd2e3f9812e1c9a7d3f10910c215a52f5ddd",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
   "will-cdric-bakambu-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117905",
     "conditionId": "0xcafaca16589ea688c3fc4cd7198bce2d02efd0fb4e9aa57d7c494946e1a8a631",
@@ -97035,16 +96945,6 @@
   "will-mohammed-kudus-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117911",
     "conditionId": "0xc82e295e6242dde2f79f19c73afc1690b36db0345b6b727fce30a475a9644165",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-frantzdy-pierrot-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117912",
-    "conditionId": "0xe34dcaf51202af685c6750224dbe09c780a274d3b7ec6c1d9142a6b7a98dfaef",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -97445,16 +97345,6 @@
   "will-eloy-room-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118038",
     "conditionId": "0x682a280bba85cec9cad839f05bdef40341df5331d78e6ebc4b4414f4afdab8f1",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-matj-kov-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118039",
-    "conditionId": "0xf3c552600c570fbf5e8012412c505623c01b38085be2895a2858d5313f8d06a1",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -119649,6 +119539,116 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-neuralinks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-30b-by-june-30": {
+    "id": "2298988",
+    "conditionId": "0x52a5f3da973442c686204888710b5d4697373fc8be854a4ba0de52df7400eff4",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-25b-by-june-30": {
+    "id": "2298989",
+    "conditionId": "0x0087d533f4439cce58f7261cdce067887e73c823a37b8e7aa03c71a2f5a738ad",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-22pt5b-by-june-30": {
+    "id": "2298990",
+    "conditionId": "0xa2b6ad517da7fc0623f43e5ca23ff2d67eb339e70a9e9be56b97b32d36562420",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-21b-by-june-30": {
+    "id": "2298991",
+    "conditionId": "0x5fca491eb9f8ff02540a57a7f5a56ddb96f09decb2ff2bc1d58b8cf10de9f22a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-20b-by-june-30": {
+    "id": "2298992",
+    "conditionId": "0x4247ad6c6fec0d7a699833b1716e30f9e018da01a204fd850ea32ed92a1a2df8",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-19pt5b-by-june-30": {
+    "id": "2298993",
+    "conditionId": "0xc7a8ccc1acee6cff8d959603a08ec731f52cb4a654bae346d476125b8d5e5527",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-19b-by-june-30": {
+    "id": "2298994",
+    "conditionId": "0x88b08a33faf1b9d69dfdc822fb1aacb93ccd4a48b665b2f08799e4a303f2f768",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-low-17b-by-june-30": {
+    "id": "2298997",
+    "conditionId": "0x29c518562bbac7cfc55cc5c74b998573a7e66fdbe9c60752e7ccd97ee297fff2",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-low-16pt5b-by-june-30": {
+    "id": "2298998",
+    "conditionId": "0x57035ef47d413b4c2d0ec14e5abd44427b0099d52b5ad54dc385efd957298a36",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-20b-by-june-30": {
+    "id": "2298999",
+    "conditionId": "0x8f00493f5bc8e1e81790dca8f15c0bef17f0f2a6523ef151324262cb89cd9ab2",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-17pt5b-by-june-30": {
+    "id": "2299000",
+    "conditionId": "0x2eb5ff4ccdd8538eb4ed5cfbe07f6d4556f606645b00a5e596622123370902b4",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
     "negRisk": false
   }
 }
