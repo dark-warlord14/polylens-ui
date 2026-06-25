@@ -439,16 +439,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-qatar-win-the-2026-fifa-world-cup": {
-    "id": "558971",
-    "conditionId": "0x4fe305a2ae995a52ff278895344895fe587b4fec3d5f04347b4dbf5e99bce99c",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-saudi-arabia-win-the-2026-fifa-world-cup": {
     "id": "558972",
     "conditionId": "0x3fb8a8de2ac275882d72b2c4f22d41776fcf033f9e413a77a84dd395c0d5257c",
@@ -6436,6 +6426,7 @@
   "spain-snap-election-called-by-june-30-2026": {
     "id": "644510",
     "conditionId": "0xb935ba8bc67b99825f2d7e4759d5d619f9c2beea0b799cc6f444d48c8cdf6149",
+    "endDate": "2026-06-30",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
@@ -18466,26 +18457,6 @@
     "acceptingOrders": true,
     "eventSlug": "meloni-out-as-prime-minister-of-italy-by-june-30",
     "negRisk": false
-  },
-  "will-canada-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839394",
-    "conditionId": "0xec3db24e9dd340f3e1aa8f68d730c666845c8e85f90f2a49df03290b18c66f74",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-b-winner",
-    "negRisk": true
-  },
-  "will-switzerland-win-group-a-in-the-2026-fifa-world-cup": {
-    "id": "839397",
-    "conditionId": "0xbfac0154700ea285426e145725716c4ebb35f3ff1e00a3beeab0e94756b5995e",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-b-winner",
-    "negRisk": true
   },
   "will-brazil-win-group-c-in-the-2026-fifa-world-cup": {
     "id": "839399",
@@ -56144,7 +56115,7 @@
     "eventSlug": "will-russia-capture-all-of-kostyantynivka-by",
     "negRisk": false
   },
-  "will-russia-capture-all-of-kostyantynivka-by-december-31-2026": {
+  "will-russia-capture-all-of-kostyantynivka-by-december-31-2026-372-718": {
     "id": "1397281",
     "conditionId": "0x627ed310dc3977b2d71d96a4f2fccd6050553f6f165efd6c29578f5678f3f863",
     "endDate": "2026-12-31",
@@ -62408,16 +62379,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "which-nfl-players-will-be-traded",
-    "negRisk": false
-  },
-  "will-neymar-play-in-the-world-cup": {
-    "id": "1630444",
-    "conditionId": "0xb60c044bba6f7958768691345df1e102448a5b7ef16e4a08879bb10483fb4567",
-    "endDate": "2026-07-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-neymar-play-in-the-world-cup",
     "negRisk": false
   },
   "will-roger-federer-play-at-wimbledon": {
@@ -70493,26 +70454,6 @@
     "eventSlug": "2026-basketball-turkey-bsl-winner",
     "negRisk": true
   },
-  "2026-basketball-liga-endesa-winner-fc-barcelona": {
-    "id": "1834178",
-    "conditionId": "0xc0a906a04e7538c3c936e116798eaa51d49eb8c7f59cb3d477955a23bbf1392e",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
-  "2026-basketball-liga-endesa-winner-valencia-basket": {
-    "id": "1834190",
-    "conditionId": "0x2236c2e6f8f746217cfbe980d71df7d2a60ffba24a4ad38d58a3cd5e78e83b83",
-    "endDate": "2026-06-08",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-basketball-liga-endesa-winner",
-    "negRisk": true
-  },
   "will-getafe-qualify-for-the-league-phase-of-the-2026-27-uefa-conference-league": {
     "id": "1834974",
     "conditionId": "0x654f819503e93e6d936c2b304d69e3594ef16d09c26f54740c61b8934102dff2",
@@ -72310,66 +72251,6 @@
     "acceptingOrders": true,
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
-  },
-  "fifwc-mar-hai-2026-06-24-mar": {
-    "id": "1897279",
-    "conditionId": "0x649bd3dc845f647aa8c9a739ad8de245b853224961afd01127de0071c13f84b3",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-mar-hai-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-mar-hai-2026-06-24-draw": {
-    "id": "1897280",
-    "conditionId": "0x6fcd127dbe2c45255d6b201b1b250c69dbf940de0fe80b4e40e23822c963443d",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-mar-hai-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-mar-hai-2026-06-24-hai": {
-    "id": "1897281",
-    "conditionId": "0x060f4b969fc1f6b09682c1e7d9ae218273fe3f197977d1db22ccea01f42d895b",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-mar-hai-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-sco-bra-2026-06-24-sco": {
-    "id": "1897286",
-    "conditionId": "0x15ae32bb6f46f35220af9e623242dbcafffc965770a298316699a6ac2bb11b56",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sco-bra-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-sco-bra-2026-06-24-draw": {
-    "id": "1897289",
-    "conditionId": "0xa46926b0bdef66209285cddc3a0fa99e371cccd7459a39693ae7ab76f38d80e7",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sco-bra-2026-06-24",
-    "negRisk": true
-  },
-  "fifwc-sco-bra-2026-06-24-bra": {
-    "id": "1897291",
-    "conditionId": "0xd14544ac7360f37de17eb6a442694de21a8c5ea01714323be6409b002c4d7d7d",
-    "endDate": "2026-06-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sco-bra-2026-06-24",
-    "negRisk": true
   },
   "fifwc-cze-mex-2026-06-24-cze": {
     "id": "1897296",
@@ -74230,36 +74111,6 @@
     "eventSlug": "will-charli-xcx-release-a-new-original-album-by-july-31",
     "negRisk": false
   },
-  "lol-we-omg-2026-04-13-game2-kill-over-30pt5": {
-    "id": "1928112",
-    "conditionId": "0xf253c47f998d6fea076eec5a94dcf03551cd1d6b056c1740a10fb934e83c4956",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-we-omg-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-ent2-immune-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928474",
-    "conditionId": "0x7ccfb2eb1147b8ab850d00ecf64b3a7937b6781af11620e7151aa6467f9e5f29",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ent2-immune-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-waz-sashia-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928477",
-    "conditionId": "0x3a9a9cf1a3625a388c1260eb9a2ee636711e7a8fe8ac06cf2b5ba3dc19264613",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-sashia-2026-04-10",
-    "negRisk": false
-  },
   "cs2-lgod-eclips-2026-04-10-game1-odd-even-total-kills": {
     "id": "1928480",
     "conditionId": "0x31a683063af07f1d8077f197ad6574709681c13a666caec0522ef553ce56ce09",
@@ -74270,16 +74121,6 @@
     "eventSlug": "cs2-lgod-eclips-2026-04-10",
     "negRisk": false
   },
-  "cs2-immune-waz-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928483",
-    "conditionId": "0x29fca957650e16d561447ed9a5884c84dfbbd821fcbab572362eba37bcf6fc43",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-immune-waz-2026-04-10",
-    "negRisk": false
-  },
   "cs2-aab-ent2-2026-04-10-game1-odd-even-total-kills": {
     "id": "1928486",
     "conditionId": "0x9cf035dd17d54398d9c5b19a875b17f96753ccc0af2e032d23c63e0c3f869d27",
@@ -74288,16 +74129,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-aab-ent2-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-gbl-lgod-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928489",
-    "conditionId": "0x1080b93b9f5fa6f610804cfdb452b3bd05b773f82fb3c46f634039f506e5d5ad",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-gbl-lgod-2026-04-10",
     "negRisk": false
   },
   "cs2-waz-aab-2026-04-10-game1-odd-even-total-kills": {
@@ -75650,16 +75481,6 @@
     "eventSlug": "will-variational-launch-a-token-in-2025",
     "negRisk": false
   },
-  "dota2-rnx-xctn-2026-04-13-game2-first-blood": {
-    "id": "1963224",
-    "conditionId": "0xa698febb464c37e919c749c6274bdcc27e37eea6bf5348769c76f1c5a492f9ec",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-rnx-xctn-2026-04-13",
-    "negRisk": false
-  },
   "cs2-vpf-z7-2026-04-13-game1-odd-even-total-kills": {
     "id": "1964121",
     "conditionId": "0x4441879ecb049b4ba00fe1ec0ee3b98bd0617b6571175de927d0d5ab3cc9d7b8",
@@ -76828,16 +76649,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-old-auryb-2026-04-14",
-    "negRisk": false
-  },
-  "lol-we-omg-2026-04-13-game1-kill-over-19pt5": {
-    "id": "1979107",
-    "conditionId": "0x2b459a3efc2c595b148416f5aef74b2e25303d8d5eb00ed8a332b2337c58cc93",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-we-omg-2026-04-13",
     "negRisk": false
   },
   "dota2-l1ga-bb4-2026-04-14-game4-ends-in-daytime": {
@@ -89420,66 +89231,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-canada-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070735",
-    "conditionId": "0x655712b319987805e573590082fbe8bd688f64fb5fc53b8516d397763e6b3cf4",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-switzerland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070736",
-    "conditionId": "0xeea6fafcf500f582bf1999d504b769befcceb645a7ed46c29aeb901d0ea29baf",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-qatar-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070737",
-    "conditionId": "0x3a6c34249d718a5bff78608e20b5cddefe722b73d5515524779747afb9c2a068",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-bosnia-and-herzegovina-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070738",
-    "conditionId": "0x9a2b2aeccf873af12a6171722d70d86e458492424a7adb700b011ca3b7cc28e7",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-brazil-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070739",
-    "conditionId": "0xbc94d393aa6c0c1a3c8c23f0ab2f45e95d05cfd50266a993c582e84c5117d984",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-morocco-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070740",
-    "conditionId": "0x6ad7d53bc2a42daa2b9625eebf9651fd3aac1286078697182a3d1dc3bbd70173",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-scotland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070741",
     "conditionId": "0x73f6028060ff88ff0369307f2c45dde79a5e7d7c437c4987638def21d065bac7",
@@ -89803,16 +89554,6 @@
   "will-a-player-representing-switzerland-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070956",
     "conditionId": "0x66135710406fb193043ec2b40faf6c48e4b3327552b366c4f67e6d4d8d35c7b0",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-qatar-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070957",
-    "conditionId": "0x88e6091a485e586de333b909ceb8a07a1a4ab43834c22bf838237f30a963d6b5",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -90240,16 +89981,6 @@
     "eventSlug": "world-cup-unbeaten-champion",
     "negRisk": false
   },
-  "2026-fifa-world-cup-winless-team": {
-    "id": "2071510",
-    "conditionId": "0xa806643e78624d6f9ba6e52b55a949a208a8c42156de06373d43037ea5adbdd5",
-    "endDate": "2026-06-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-fifa-world-cup-winless-team",
-    "negRisk": false
-  },
   "will-mexico-reach-the-2026-fifa-world-cup-final": {
     "id": "2071518",
     "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
@@ -90303,16 +90034,6 @@
   "will-switzerland-reach-the-2026-fifa-world-cup-final": {
     "id": "2071523",
     "conditionId": "0xf812cd60daad3492c2bbf7a0f1e8ca5574c2d72a5602f6ed8e65547508cd86e2",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-qatar-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071524",
-    "conditionId": "0x42ade71493164079529663adbf3568532f6329749a4ed2675f66ebf1757c1cdd",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -95899,16 +95620,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-qatar-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116742",
-    "conditionId": "0x60a4de45a7fbee1e0fe80469c0bde57bb7b07bd74adebb23b298ff36bcb3c736",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-saudi-arabia-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116743",
     "conditionId": "0xe04cb5e1941bdd9e17a84a9715d9c0fc4f2c9ad8422bdd77846b147f5de15f10",
@@ -96991,16 +96702,6 @@
     "eventSlug": "world-cup-most-assists",
     "negRisk": true
   },
-  "will-akram-afif-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117311",
-    "conditionId": "0x9366d1288603eb08ea926e35ff39600464516a91ca2f03736fb6310c2e3eac88",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
   "will-salem-al-dawsari-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117312",
     "conditionId": "0xfc2e99ac2d3fa45766e877c7d80a367ba0a885763352c14cf82b6a9e70d50ec6",
@@ -97601,16 +97302,6 @@
     "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
   },
-  "will-akram-afif-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117926",
-    "conditionId": "0xf0ddd9aee21363241f3f252b81d3ba141a8f0ce8e94c45f6d22ccd87f724f06a",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
   "will-salem-al-dawsari-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117927",
     "conditionId": "0x91eb35f15f2a6e7082bd00f9c2b1bc457497e2ec58de678701e7dc8680075942",
@@ -98074,16 +97765,6 @@
   "will-diogo-costa-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118060",
     "conditionId": "0x2a11b7244249753451cdc6c6bf92f9988da59a9cc3ecc516a1754a622a87208a",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-meshaal-barsham-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118061",
-    "conditionId": "0xa858f9831969f5ae0f58e1f5e3d4f8a4caab12d28dba8ebee3a2d39af8791465",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -111024,16 +110705,6 @@
     "eventSlug": "will-3jane-launch-a-token-by",
     "negRisk": false
   },
-  "dota2-aur1-liquid-2026-05-13-game1-first-blood": {
-    "id": "2244221",
-    "conditionId": "0x21029216c54aea9074c569cc06c5d04eec1447b66aaea3af1aaa11639cb9fe3e",
-    "endDate": "2026-05-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-aur1-liquid-2026-05-13",
-    "negRisk": false
-  },
   "3jane-fdv-above-40m-one-day-after-launch": {
     "id": "2244241",
     "conditionId": "0x8a3b7a50e4dd587861181f1949744b7fb17860fda8050983abdaf67c6c5110b7",
@@ -119648,6 +119319,336 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-950b-by-june-30": {
+    "id": "2298772",
+    "conditionId": "0xa51fc45da9af7144eb0acbe2fad913099b17df4c2380987b9eda2bf1979fa2e7",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-900b-by-june-30": {
+    "id": "2298773",
+    "conditionId": "0x2a19066f173238a0c300e19135963b26a73a0ad9bdf865a58a1ced148d9edb3d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-875b-by-june-30": {
+    "id": "2298774",
+    "conditionId": "0x7d072fff14f840043344a45128b715c82dd4eb04f6be94ce79555fb340ce4d98",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-800b-by-june-30": {
+    "id": "2298776",
+    "conditionId": "0xeb44c5c4c3cfbd4e8be87ae6b9f7ed021e3f26dce06f7b7f1a3e8a8f412eb626",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-750b-by-june-30": {
+    "id": "2298777",
+    "conditionId": "0x5b90c12002443b1d9feab6dcf029ff4c9ca345e5e85456d0fd2dcda04e15491c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-700b-by-june-30": {
+    "id": "2298778",
+    "conditionId": "0x4c6b420f7b65ade0a51dcfaee1a0488abc4ce325bc0b05732e50903ea98b8fe0",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-600b-by-june-30": {
+    "id": "2298779",
+    "conditionId": "0xbf045f5526bff1c0ba235603a57baf8464bec12134c3bf8cf9194a77b6a1af03",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-spacexs-valuation-hit-high-4pt0t-by-june-30": {
+    "id": "2298906",
+    "conditionId": "0xf594894c1077567713bc88219fd6bcfcec8ea1e0f6e29cbcc9d7688f1c9c11c9",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-spacexs-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-spacexs-valuation-hit-high-3pt5t-by-june-30": {
+    "id": "2298908",
+    "conditionId": "0x57930dc3e9ed94d824a74cf44487ef2d4fc722854f957ec2ae02e316b5574f3e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-spacexs-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-spacexs-valuation-hit-high-3pt0t-by-june-30": {
+    "id": "2298911",
+    "conditionId": "0x271660fedc0b7e2fb1d7f007b704e67102cb29d3def2ebaa66018041430d1fe0",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-spacexs-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "dota2-tt1-st-2026-05-19-game3-both-teams-beat-roshan": {
+    "id": "2298923",
+    "conditionId": "0x9d48bacdefd7ff23454d24d81aec33a61b63b0c5928adc0010db2ea6e4c0a82a",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "dota2-tt1-st-2026-05-19",
+    "negRisk": false
+  },
+  "will-spacexs-valuation-hit-low-1pt35t-by-june-30-826-776-326-269": {
+    "id": "2298930",
+    "conditionId": "0x1de00a36f75df703e458bde878d1730e59349f74960872f40f4b06ab06f0a5c1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-spacexs-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-spacexs-valuation-hit-low-1pt3t-by-june-30-657-574-459-321": {
+    "id": "2298931",
+    "conditionId": "0x82f967dadcec8cee52e0fa29fc0d39e818fc7e320772db0f05c44039042bf72c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-spacexs-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-250b-by-june-30": {
+    "id": "2298932",
+    "conditionId": "0xf3c5c4f6080d88a5f1bd15af5e98054f2b1fbbbf2e21bad1f71269af9ea5fe22",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-225b-by-june-30": {
+    "id": "2298933",
+    "conditionId": "0x09bf5bc47223c257d13590bddf071b8ff4bf6b0d815f93cdc582b7deccbc844b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-210b-by-june-30": {
+    "id": "2298934",
+    "conditionId": "0x96881b710be12f217230a530bd6ea17e3e9947e822874d5dfc80d2faa1884163",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-200b-by-june-30": {
+    "id": "2298935",
+    "conditionId": "0x4cd65621936139342fee39afbd98a4cb402cee03b4ff2e0cdecc48708194156e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-190b-by-june-30": {
+    "id": "2298936",
+    "conditionId": "0x73b09beb15deae2c4acb76b4e6108a5e66dc314db8c09ab0ea9026cfefb1e26c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-185b-by-june-30": {
+    "id": "2298937",
+    "conditionId": "0xe9f8de36a60cdd94cc6f89e18c80e4c46667ec29e48e07894224be576a936c9c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-180b-by-june-30": {
+    "id": "2298938",
+    "conditionId": "0xdb121f0705c1384288f80ed1437f6096145c6ec7524742e884ebd911ab9b6ad1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-low-165b-by-june-30": {
+    "id": "2298941",
+    "conditionId": "0x135a70794f2167bef82fd5dfda1d736e713963dba7fee1c277b6d843453a978d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-low-160b-by-june-30": {
+    "id": "2298942",
+    "conditionId": "0xe3ed44814b8fe728ee3567e4cdc0cdd3f21fdebf45ca6b79da1d899e23d47c5c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-250b-by-june-30": {
+    "id": "2298950",
+    "conditionId": "0x024c5ee74cae1007aba2b0975f4a74602d89821290934a7f98a56fad076574c5",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-225b-by-june-30": {
+    "id": "2298951",
+    "conditionId": "0xe5a4626e566dfa4bd140e0d1f2dcbd2527e23f4d46bc29c999ea67e89e664b92",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-200b-by-june-30": {
+    "id": "2298952",
+    "conditionId": "0x2ffaa93ef631f224316ca89978580362acc7c49a27a77699ebb07f909bcc069e",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-175b-by-june-30": {
+    "id": "2298953",
+    "conditionId": "0xa015045172aef029aebbb68ebfa9a6d4231d50a78c39ae0605f00219a6efc9ee",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-165b-by-june-30": {
+    "id": "2298954",
+    "conditionId": "0xf835e8ff20cd844e1dee8d1a4e2cf886b86a014d13552a74c334ca313b13284f",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-160b-by-june-30": {
+    "id": "2298955",
+    "conditionId": "0xa57da7e7a6e0707fd34b8e10654d214a7d5d5a350b5f6c2ce4d68483ec21512a",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-145b-by-june-30": {
+    "id": "2298958",
+    "conditionId": "0x7c91076df715afc2a07b30d9f3c0533532ec07a8111dca39a58bd77d17ca3124",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-140b-by-june-30": {
+    "id": "2298959",
+    "conditionId": "0x5953dd3718e8da03762cff59f52d1f098606c751367768a82b96a35126c450a8",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-135b-by-june-30": {
+    "id": "2298960",
+    "conditionId": "0x79e9b030ce36ce05dcb2962c4151ea78a247ccca50eccc03c80aa7455653bb3d",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-130b-by-june-30": {
+    "id": "2298961",
+    "conditionId": "0xf17fb21025514c7427989cc6c5ce9e16d8416d55c3b1b2be7d6ac8e6c7e8a970",
+    "endDate": "2026-08-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-150b-by-june-30": {
+    "id": "2298962",
+    "conditionId": "0x30d39ca2b27c7967a0d4f4772638d3b7b690ac55b62f738cbea081def7757e3d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-june-30",
     "negRisk": false
   }
 }
