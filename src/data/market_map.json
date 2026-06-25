@@ -74021,16 +74021,6 @@
     "eventSlug": "will-charli-xcx-release-a-new-original-album-by-july-31",
     "negRisk": false
   },
-  "cs2-lgod-eclips-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928480",
-    "conditionId": "0x31a683063af07f1d8077f197ad6574709681c13a666caec0522ef553ce56ce09",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-lgod-eclips-2026-04-10",
-    "negRisk": false
-  },
   "cs2-aab-ent2-2026-04-10-game1-odd-even-total-kills": {
     "id": "1928486",
     "conditionId": "0x9cf035dd17d54398d9c5b19a875b17f96753ccc0af2e032d23c63e0c3f869d27",
@@ -74049,16 +74039,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-waz-aab-2026-04-10",
-    "negRisk": false
-  },
-  "cs2-aab-sashia-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928515",
-    "conditionId": "0xb5ea3654d7ae560eae44e5100824fe364bd4af224eaf189d4e904bda977b96f2",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-sashia-2026-04-10",
     "negRisk": false
   },
   "cs2-immune-aab-2026-04-10-game1-odd-even-total-kills": {
@@ -78571,16 +78551,6 @@
     "eventSlug": "cs2-tsa-wave-2026-04-16",
     "negRisk": false
   },
-  "lol-dig-dsg-2026-04-16-game2-any-player-quadra-kill": {
-    "id": "1996893",
-    "conditionId": "0x985ac5fdebf324f8566e16d9f05f0f54062e82e74a9fa9b578e39cf2b2153cf6",
-    "endDate": "2026-04-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dig-dsg-2026-04-16",
-    "negRisk": false
-  },
   "cs2-lfo9-hin-2026-04-16-game1-odd-even-total-kills": {
     "id": "1997321",
     "conditionId": "0x42266c630e1ac1f996557070c0ebe1ab677c78530010b0a96ec1394682dd0795",
@@ -79599,26 +79569,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "gc-hit-jun-2026",
-    "negRisk": false
-  },
-  "lol-bg2-esb-2026-04-17-game2-any-player-quadra-kill": {
-    "id": "2001297",
-    "conditionId": "0x1c899c2a6cb154aef54c785caf0b49f8b4d1294cb9ad3fa8692a0d5df00a6004",
-    "endDate": "2026-04-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-bg2-esb-2026-04-17",
-    "negRisk": false
-  },
-  "lol-bg2-esb-2026-04-17-game2-any-player-penta-kill": {
-    "id": "2001298",
-    "conditionId": "0x39af3bd5d2a6dde07575e72999e6bcb9f1ae4dc5516713d36b25cff4ab33d3b3",
-    "endDate": "2026-04-17",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-bg2-esb-2026-04-17",
     "negRisk": false
   },
   "will-juanma-moreno-be-the-next-president-of-andalusia-following-the-regional-election": {
@@ -108245,66 +108195,6 @@
     "eventSlug": "lol-myth-ban2-2026-05-14",
     "negRisk": false
   },
-  "lol-myth-ban2-2026-05-14-game2-both-teams-slay-baron": {
-    "id": "2203806",
-    "conditionId": "0x86435bca9aacaafd32f2cec451cf9beec269d2b42eba29142efe4431fbe56be9",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game2-both-teams-slay-dragon": {
-    "id": "2203807",
-    "conditionId": "0xd666db982fee95c91fb78586c5746c8f2601cdc3029efa17dd5993c022a4b0d2",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game2-both-teams-destroy-inhibitors": {
-    "id": "2203808",
-    "conditionId": "0xad87bdf901f29f30b311bba1856d9b3815db0afee11837306c679d40b881ff1a",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game2-any-player-quadra-kill": {
-    "id": "2203809",
-    "conditionId": "0xd47c1d6710fea4ab79bc311263330d9b51bd23acb67777cbc76757e216674ce7",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game2-any-player-penta-kill": {
-    "id": "2203810",
-    "conditionId": "0x431e8b80717e6ddc9b852c1bc5c257be8c771e56217874b9c0adc702d7ef3c45",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game2-odd-even-total-kills": {
-    "id": "2203811",
-    "conditionId": "0x0f7d7d657adee318a923d1ebd5ecc0dcb94297892c658ee31e0b83e4f1a24846",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
   "lol-myth-ban2-2026-05-14-game3-both-teams-slay-baron": {
     "id": "2203812",
     "conditionId": "0x286f4831389cec0c067ab9c5ab82ddb608f2339aef76ae7697df19193d4c037c",
@@ -109225,16 +109115,6 @@
     "eventSlug": "bank-of-mexico-decision-in-august",
     "negRisk": true
   },
-  "lol-pcific-dp-2026-05-12-game1-odd-even-total-kills": {
-    "id": "2233827",
-    "conditionId": "0x08e1935eca9a061afb757fd01ca09617627d6465f44b655d82ebce1788f71ac1",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-pcific-dp-2026-05-12",
-    "negRisk": false
-  },
   "reserve-bank-of-australia-decreases-interest-rates-by-50-bps-at-the-august-2026-meeting": {
     "id": "2234096",
     "conditionId": "0x1cf3622a379181e9776801cfd93fabd909b3871d82de486e039d5b778042d685",
@@ -109284,16 +109164,6 @@
     "acceptingOrders": true,
     "eventSlug": "reserve-bank-of-australia-decision-in-august",
     "negRisk": true
-  },
-  "lol-doc-dv1-2026-05-19-game1-both-teams-destroy-inhibitors": {
-    "id": "2234152",
-    "conditionId": "0xe058164e8ae5e32429443474b20309a18312691026f81afd2151c72b468f927b",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-doc-dv1-2026-05-19",
-    "negRisk": false
   },
   "will-dua-lipa-perform-at-coachella-2027": {
     "id": "2234267",
@@ -116871,16 +116741,6 @@
     "eventSlug": "mlb-stl-cin-2026-05-24",
     "negRisk": false
   },
-  "lol-dfma-rck-2026-05-22-game3-both-teams-destroy-inhibitors": {
-    "id": "2292935",
-    "conditionId": "0x1fc95f553a1ccbda8a1c045b962c34b43d362b116c6ac8db80bb29345e393366",
-    "endDate": "2026-05-22",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dfma-rck-2026-05-22",
-    "negRisk": false
-  },
   "will-ed-gallrein-win-the-2026-ky-04-republican-primary-election-by-9-or-more": {
     "id": "2293126",
     "conditionId": "0xbffe7025d24426e00f97362e0903a084c31b6eedd9c294200ce87b12f7239657",
@@ -119649,6 +119509,146 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-15b-by-june-30": {
+    "id": "2299001",
+    "conditionId": "0xb0c8dfcd50cb6beef42463904f200a2bd302fdeb0db5e0dfb64ba2b852ee836d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-14b-by-june-30": {
+    "id": "2299002",
+    "conditionId": "0xb878b56b0576cd8de8597ce900e559b34256537de60008d34487b53d5b350f86",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-13pt5b-by-june-30": {
+    "id": "2299003",
+    "conditionId": "0xd23aac84815b293d45c3d3b3257c174986a86520bcf7778b3370073842af8e9f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-13pt25b-by-june-30": {
+    "id": "2299004",
+    "conditionId": "0xee2db39232f86ff89e01f0d34c8332762a3ead0a4c4c05aec8bf236fc18db7ea",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-low-12b-by-june-30": {
+    "id": "2299007",
+    "conditionId": "0x26bb13fcee0e2ca07ef6b22f67c6c9ffdaeb6b146a548398d37a08be0784c1f9",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-low-11pt5b-by-june-30": {
+    "id": "2299008",
+    "conditionId": "0xb0c34d357be218cf135ae152127f627b623644ab6f8a4446de78b104dc8ab848",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-low-10b-by-june-30": {
+    "id": "2299009",
+    "conditionId": "0x739805ef5be1226ed87cf3acc3b075a207729d11fa1dff6a6fd61bc01b908087",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-20b-by-june-30": {
+    "id": "2299025",
+    "conditionId": "0xf03861e1d5f734fb2dc2be329b4a4bfaac6c9e675b601bdbcd723be72b0538f1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-17pt5b-by-june-30": {
+    "id": "2299026",
+    "conditionId": "0x36f4803c3258124bb8e99cb6b497b4f06f994a56789c5f1410c932f2db3cc6e8",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-15b-by-june-30": {
+    "id": "2299027",
+    "conditionId": "0x60f4f93421e0c72eaa4bdd496ec25a0f713c13c647e75fa1dbdfce3b68b575ee",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-12pt5b-by-june-30": {
+    "id": "2299028",
+    "conditionId": "0x727a9843c968d29c465b0771cf0501c5af7c82b2a65c1e093dadb70af8ff7a6d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-low-10b-by-june-30": {
+    "id": "2299034",
+    "conditionId": "0xa023a3b2cb30141f7f2c11385f2b96e7627277f2f676bfe8808b087bb8b87a93",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-low-9b-by-june-30": {
+    "id": "2299035",
+    "conditionId": "0x6a0c14ed4b999bf1f42bc01b238cb732e2a10d6720ebd09d73f6416c0e62fd48",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-12pt5b-by-june-30": {
+    "id": "2299036",
+    "conditionId": "0xb9264482e0dcdcfd0112541d486e416f5d3e1fe81ecb6863b460327f0ae0aa65",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
     "negRisk": false
   }
 }
