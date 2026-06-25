@@ -74051,16 +74051,6 @@
     "eventSlug": "cs2-waz-aab-2026-04-10",
     "negRisk": false
   },
-  "cs2-immune-aab-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928527",
-    "conditionId": "0xd5fbdf8443fec53bcc018b1be54f96d87baa650e02fd1d6951eee4f785c74756",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-immune-aab-2026-04-10",
-    "negRisk": false
-  },
   "mls-nyc-laf-2026-05-06-nyc": {
     "id": "1928770",
     "conditionId": "0x07aa441123aa310a7949312c6233f1d291bd78e1fe5da57c94fa1f4d03c40a4c",
@@ -74090,16 +74080,6 @@
     "acceptingOrders": true,
     "eventSlug": "mls-nyc-laf-2026-05-06",
     "negRisk": true
-  },
-  "scotus-rules-in-favor-of-monsanto": {
-    "id": "1929047",
-    "conditionId": "0xfc351c87c7952c061e38995a5cce5a1ad629c1f9c87fa5d857f077a4cf9af001",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "scotus-rules-in-favor-of-monsanto",
-    "negRisk": false
   },
   "mls-nyc-laf-2026-05-06-spread-home-1pt5": {
     "id": "1929301",
@@ -74279,16 +74259,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "pluto-reclassified-as-a-planet-by-june-30",
-    "negRisk": false
-  },
-  "lol-dp-su-2026-04-10-game2-any-player-quadra-kill": {
-    "id": "1930953",
-    "conditionId": "0xafa835f8876482cd00ceed6494d40fc769eba04f67601579090aa9c347bc25a0",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-dp-su-2026-04-10",
     "negRisk": false
   },
   "will-lebron-james-play-for-the-atlanta-hawks-in-2026-27": {
@@ -75479,26 +75449,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-zotix-fcf-2026-04-13",
-    "negRisk": false
-  },
-  "lol-bw-su-2026-04-16-game2-any-player-quadra-kill": {
-    "id": "1967155",
-    "conditionId": "0x0aa02f96b17f340ec1838a72e12ddd382cff8108a10a511b949faa88662db8ba",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-bw-su-2026-04-16",
-    "negRisk": false
-  },
-  "lol-bw-su-2026-04-16-game2-any-player-penta-kill": {
-    "id": "1967156",
-    "conditionId": "0x97eeca4a08ddcd779ad276e1948c5a37ce6dde503432af5a8892ed22cd30d16a",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-bw-su-2026-04-16",
     "negRisk": false
   },
   "will-apple-stop-selling-macbook-neo": {
@@ -77399,16 +77349,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "ben-gvir-out-as-israeli-minister-of-national-security-by-june-30",
-    "negRisk": false
-  },
-  "lol-ly-fly-2026-04-21-game2-both-teams-slay-baron": {
-    "id": "1987977",
-    "conditionId": "0xfd4eab5d1cce9986793f9a88103b753971d479849019f18cc53f8301d7dc31a3",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-ly-fly-2026-04-21",
     "negRisk": false
   },
   "cs2-par3-inf1-2026-04-15-game1-odd-even-total-kills": {
@@ -108205,66 +108145,6 @@
     "eventSlug": "lol-myth-ban2-2026-05-14",
     "negRisk": false
   },
-  "lol-myth-ban2-2026-05-14-game3-both-teams-slay-baron": {
-    "id": "2203812",
-    "conditionId": "0x286f4831389cec0c067ab9c5ab82ddb608f2339aef76ae7697df19193d4c037c",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game3-both-teams-slay-dragon": {
-    "id": "2203813",
-    "conditionId": "0xb732cf91765ab56fb231e69942f8c3b258c283175cfbcd314a495aef0af0c908",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game3-both-teams-destroy-inhibitors": {
-    "id": "2203814",
-    "conditionId": "0x2155fcaf217c48f33a13867c82ea131b23f3b143482b427abcb93763c54102fc",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game3-any-player-quadra-kill": {
-    "id": "2203815",
-    "conditionId": "0xca92de89270f773b278ca82ad1fa3f3242881742ca7e02f1d5186b41a77f6a6a",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game3-any-player-penta-kill": {
-    "id": "2203816",
-    "conditionId": "0x291a07e749434734fa79339b50d0e72aa0feff5f35da05e418b02601a49184be",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
-  "lol-myth-ban2-2026-05-14-game3-odd-even-total-kills": {
-    "id": "2203817",
-    "conditionId": "0x4bbbb0a57ebe895c45612a94759a24f96706ed5d12126389035a98ab9374841b",
-    "endDate": "2026-05-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-myth-ban2-2026-05-14",
-    "negRisk": false
-  },
   "mlb-tb-bos-2026-05-09-total-7pt5": {
     "id": "2206157",
     "conditionId": "0x1d47449b105669983ffccd94cac9ac3ab7f5afb44da7005124cc1698ce9c43e0",
@@ -119331,16 +119211,6 @@
     "eventSlug": "will-andurils-valuation-hit-by-june-30",
     "negRisk": false
   },
-  "will-andurils-valuation-hit-high-90b-by-june-30": {
-    "id": "2298967",
-    "conditionId": "0x0fb78ff3b17941d2dc835f0d0d0101519c365c395486b4f979db9a10fa6a4333",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-andurils-valuation-hit-by-june-30",
-    "negRisk": false
-  },
   "will-andurils-valuation-hit-low-75b-by-june-30": {
     "id": "2298970",
     "conditionId": "0x163fcb7e71bc46428525411bd202648360e4da763fa5d054f8cc5f6014d72e1c",
@@ -119474,16 +119344,6 @@
   "will-perplexitys-valuation-hit-high-19b-by-june-30": {
     "id": "2298994",
     "conditionId": "0x88b08a33faf1b9d69dfdc822fb1aacb93ccd4a48b665b2f08799e4a303f2f768",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-perplexitys-valuation-hit-by-june-30",
-    "negRisk": false
-  },
-  "will-perplexitys-valuation-hit-low-17b-by-june-30": {
-    "id": "2298997",
-    "conditionId": "0x29c518562bbac7cfc55cc5c74b998573a7e66fdbe9c60752e7ccd97ee297fff2",
     "endDate": "2026-07-01",
     "closed": false,
     "active": true,
@@ -119650,5 +119510,145 @@
     "acceptingOrders": true,
     "eventSlug": "will-krakens-valuation-hit-by-june-30",
     "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-12pt5b-by-june-30": {
+    "id": "2299036",
+    "conditionId": "0xb9264482e0dcdcfd0112541d486e416f5d3e1fe81ecb6863b460327f0ae0aa65",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-10b-by-june-30": {
+    "id": "2299037",
+    "conditionId": "0xcb3f2751fc2e032b69f834e24fce4d55ae0786900c371b3cff387c9761eba3f3",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-9b-by-june-30": {
+    "id": "2299038",
+    "conditionId": "0x33e3cf2686d34581322b00d8fd9e69575cc5237952a3643ce0e8b64897ddac0a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-8pt5b-by-june-30": {
+    "id": "2299039",
+    "conditionId": "0x25bf9766142193b2d940d4064a09e9b13d6504588f69304174891d0000d68e24",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-low-7pt25b-by-june-30": {
+    "id": "2299043",
+    "conditionId": "0xdd9936e5b9d21cd79ada5360052f570491894e850f9775e3ea26b6207085bff2",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-low-7b-by-june-30": {
+    "id": "2299044",
+    "conditionId": "0x014c6bf4d73cdeb2b1a7eb95657baa3e19d0396982552c379f2a3df4b1ec7420",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-low-6b-by-june-30": {
+    "id": "2299045",
+    "conditionId": "0x777645f085101aa4f4fa9c2b236bc5298f4279d8ce28378ec56f023149c0edc1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-60b-by-june-30": {
+    "id": "2299287",
+    "conditionId": "0xe625bdc5c54b0c12e38458c669d59a06b1458962c2b53dca02c572a3e4e32631",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-50b-by-june-30": {
+    "id": "2299288",
+    "conditionId": "0xa15b73088386a981fa669689db8be933477ffb288373b8fbbafe0420c141b4b5",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-45b-by-june-30": {
+    "id": "2299289",
+    "conditionId": "0x76fbf940eefd53ccb14044887e8171f31f08dd5cfe90cb772b44e335982f1043",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-42pt5b-by-june-30": {
+    "id": "2299290",
+    "conditionId": "0x2a3a5874a79f8029bc28b32f3d4fbe0e9f42c2eee574e8f6c36965ff8d135a8e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-low-40b-by-june-30": {
+    "id": "2299294",
+    "conditionId": "0x197a2b85c3cac5cc62da3f697776475a5ab9191b0719f43985cdd625a3521612",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-low-37pt5b-by-june-30": {
+    "id": "2299295",
+    "conditionId": "0x12ba0fd2277999b8d3dddf16f5686e3f5ed3e761fca0d121004d37ff15a26bc4",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-june-30",
+    "negRisk": false
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-24corbelow": {
+    "id": "2299825",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
   }
 }
