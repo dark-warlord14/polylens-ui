@@ -6423,16 +6423,6 @@
     "eventSlug": "french-election-called-by",
     "negRisk": false
   },
-  "billionaire-one-time-wealth-tax-on-california-ballot": {
-    "id": "648378",
-    "conditionId": "0x04f1a10e79a106d18dc45e6087f0757456197ec5c6ffec2506cd066e8215fc62",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "billionaire-one-time-wealth-tax-on-california-ballot",
-    "negRisk": false
-  },
   "billionaire-one-time-wealth-tax-passes-in-california-election-2026": {
     "id": "648383",
     "conditionId": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
@@ -18446,36 +18436,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-c-winner",
-    "negRisk": true
-  },
-  "will-netherlands-win-group-f-in-the-2026-fifa-world-cup": {
-    "id": "839434",
-    "conditionId": "0x9ad73ff7534b1051e2dad167a0b1617ae20f64f20770ae8bf89a59a7a7290669",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-f-winner",
-    "negRisk": true
-  },
-  "will-japan-win-group-f-in-the-2026-fifa-world-cup": {
-    "id": "839435",
-    "conditionId": "0xde6e8331eaaf0b212f688a04f6c4ff5f895ab633a467cb3e9f3da48fce7c6801",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-f-winner",
-    "negRisk": true
-  },
-  "will-sweden-win-group-f-in-the-2026-fifa-world-cup": {
-    "id": "839436",
-    "conditionId": "0x8bd82f13e633448c85e5c79428afcbf2b15bdb1e3c9f6ddbea62cb164f6fb23e",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-f-winner",
     "negRisk": true
   },
   "will-belgium-win-group-g-in-the-2026-fifa-world-cup": {
@@ -72185,66 +72145,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-par-aus-2026-06-25-par": {
-    "id": "1897345",
-    "conditionId": "0x75d91cd268cec8d688b8a7e543b149700bf45d9f62e9fffa479b18f19a60a63e",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-par-aus-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-par-aus-2026-06-25-draw": {
-    "id": "1897347",
-    "conditionId": "0x73cdf481e0d213e3ad3b2c096ad9dfea604b6587900419d0a214aac966c68988",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-par-aus-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-par-aus-2026-06-25-aus": {
-    "id": "1897348",
-    "conditionId": "0x65d30f3d41bbab278c2108ab0883d7ae1a9fac97a2086542a975d885a9c72dba",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-par-aus-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-tur-usa-2026-06-25-tur": {
-    "id": "1897354",
-    "conditionId": "0x81cef42df3d25aecf0bf7e96c344202e86f447f2f3ba2e4b8eb59f4680efeb22",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tur-usa-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-tur-usa-2026-06-25-draw": {
-    "id": "1897355",
-    "conditionId": "0xdc34b1a1507fb269c41fb4750880a7774d396f00b76e95c5746c9fe454e6085c",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tur-usa-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-tur-usa-2026-06-25-usa": {
-    "id": "1897356",
-    "conditionId": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tur-usa-2026-06-25",
-    "negRisk": true
-  },
   "fifwc-nor-fra-2026-06-26-nor": {
     "id": "1897363",
     "conditionId": "0x057885f5f49261eb41504e24899a88e53cb364ddf95e3c0df5608200feaddff8",
@@ -84165,86 +84065,6 @@
     "eventSlug": "who-will-trump-announce-as-next-secretary-of-labor",
     "negRisk": true
   },
-  "will-ivn-cepeda-castro-win-the-first-round-of-the-2026-colombian-presidential-election-by-20": {
-    "id": "2039644",
-    "conditionId": "0xdee3c26a52d890e1b86ff9014d05566e4b05895c968de1e0b86e70c7f2cc9b4f",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ivn-cepeda-castro-win-the-first-round-of-the-2026-colombian-presidential-election-by-15-20": {
-    "id": "2039645",
-    "conditionId": "0xde94ee9bb90f45efa07a7cb069086941f68939494256c27ff1f9c098b681e218",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ivn-cepeda-castro-win-the-first-round-of-the-2026-colombian-presidential-election-by-10-15": {
-    "id": "2039646",
-    "conditionId": "0xe689107d5893d698f499e186bf64b5a70b9b927654eaacf934b0582604c545f1",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ivn-cepeda-castro-win-the-first-round-of-the-2026-colombian-presidential-election-by-5-10": {
-    "id": "2039647",
-    "conditionId": "0x0c2924a04e0159dfdcd2996534d45bdbeade41cdf5cc084b532ec35563e83941",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-ivn-cepeda-castro-win-the-first-round-of-the-2026-colombian-presidential-election-by-0-5": {
-    "id": "2039648",
-    "conditionId": "0x13eff396ae562ffdc52f4d6897551191e64fa718890f1f26afd051e8b8554dd3",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-abelardo-de-la-espriella-win-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039649",
-    "conditionId": "0xe9e8784dd743d09e69a69f87debda6d97b175fd3ccfce7238f68274e30196986",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-paloma-valencia-win-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039650",
-    "conditionId": "0xbc12cd85c0cb00a48320d341b51b4eeab9b4b1a98f2a1ed494a332b143c712db",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-another-candidate-win-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039651",
-    "conditionId": "0xc510fd09d6e1cfbfa57b7e673d78d138dbc4f7bb2b2dafe0e322ad9f1409569c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
   "cs2-aim1-csgopo-2026-04-21-game1-odd-even-total-kills": {
     "id": "2041315",
     "conditionId": "0xb710fd875d653483a20ba44237b8972ae83f7f5b9bc7e7a9b41b5d52efe3ee27",
@@ -88744,16 +88564,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-australia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070744",
-    "conditionId": "0x38f5caccf3b53ef5abeb0056838e4e5df3f000e97a4fad7eb55431781b427d2c",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-paraguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070745",
     "conditionId": "0x0cbb73759bb6ad83040cc6edb908a7dbd51855618082d2f5dd3b58937a79b306",
@@ -89057,16 +88867,6 @@
   "will-a-player-representing-paraguay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070965",
     "conditionId": "0x849d78ce700bddefef90891afc90f48a934d98db27cb250cc2622bada6a00b4e",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-turkiye-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070966",
-    "conditionId": "0x99769f8989d029d2f8f7d248acb5f7b6e50324c917acb27a48c01c6ab8c1183a",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -94744,16 +94544,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-curaao-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116719",
-    "conditionId": "0xed79ebdd03dcba8e0f0ac70fcc7f1910ad67947caeabb444d9cafa55c38ca72f",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-dr-congo-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116721",
     "conditionId": "0x1f5329e149f9440a330614b16951b9dec100457dbece49a3ddd4912c59155be4",
@@ -95027,16 +94817,6 @@
   "will-switzerland-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116750",
     "conditionId": "0x563fb88f97c51d7240df7e2cfd68a4f348800fb2ec62edb5c5bc1f31e4c58fdd",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-trkiye-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116752",
-    "conditionId": "0x6957376cffdd032103fa15872c2ad2b643ad8b20b4be963c831d1af9706a24eb",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -95796,16 +95576,6 @@
     "eventSlug": "world-cup-most-assists",
     "negRisk": true
   },
-  "will-leandro-bacuna-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117288",
-    "conditionId": "0xf2cfbdd1e0e063d6f6bb3a46c54e3939765820823f209c028fbf3e7739d9361a",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
   "will-cdric-bakambu-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117290",
     "conditionId": "0x0f1014bf857d302f504e24631841af5f3447fbe203ef7c89c78e01b032d49279",
@@ -96086,26 +95856,6 @@
     "eventSlug": "world-cup-most-assists",
     "negRisk": true
   },
-  "will-hannibal-mejbri-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117320",
-    "conditionId": "0xf3485079357358ef390faef27da7c2d7c6cdf75f386957d264164f14db229e44",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
-  "will-hakan-alhanolu-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117321",
-    "conditionId": "0xfb4bdd6054941d22641864bc39fa8531093e5a336687594d2547629670b44712",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
   "will-federico-valverde-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117322",
     "conditionId": "0x792d45eb0bf1b999f276a2b53b6ac09330fea0caa89c56f7ab739501c5a4500e",
@@ -96369,16 +96119,6 @@
   "will-andrej-kramari-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117902",
     "conditionId": "0x5a10ae99d9739de040cad2e146024d4d98fb95644681d7a05ad58feb183cf402",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-leandro-bacuna-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117903",
-    "conditionId": "0x0b617716b8cd279f46a7fff26a631fda8bba6bd420b57b850cbede6c11c937a3",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -96666,26 +96406,6 @@
     "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
   },
-  "will-hannibal-mejbri-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117935",
-    "conditionId": "0xd046f3b311fb80d3b1c99f32badad00cdc46a1ee327b822d2b474ef48849fcd8",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-arda-gler-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117936",
-    "conditionId": "0x374b1c5db44479844e5e492239538846ab929fdb68f23ae79cef118d42fd1525",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
   "will-federico-valverde-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117937",
     "conditionId": "0xed87d362d78fd8d45c6339f3bee037f478279cca1f4308b9d8c8b0a10c86d0ae",
@@ -96839,16 +96559,6 @@
   "will-dominik-livakovi-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118037",
     "conditionId": "0xb8691b4aba93f34ba1af9bc6322f2a33a5a6cf4bb35361fb08eb6eec4569d699",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-eloy-room-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118038",
-    "conditionId": "0x682a280bba85cec9cad839f05bdef40341df5331d78e6ebc4b4414f4afdab8f1",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -113145,26 +112855,6 @@
     "eventSlug": "cs2-9daplu-alz-2026-05-18",
     "negRisk": false
   },
-  "cs2-mw-furiaf-2026-05-18-game1-odd-even-total-kills": {
-    "id": "2275254",
-    "conditionId": "0x086bf9e0a5844f4603489ec9defbe9fac4f8ba96631f2d51edd8184b836f4176",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mw-furiaf-2026-05-18",
-    "negRisk": false
-  },
-  "cs2-mibra-odka-2026-05-18-game1-odd-even-total-kills": {
-    "id": "2275257",
-    "conditionId": "0x0e0f83b154252a68988c65108095ebf7d42f293c885f9341371fc9b2e1a651ee",
-    "endDate": "2026-05-19",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mibra-odka-2026-05-18",
-    "negRisk": false
-  },
   "cs2-clutch-eac-2026-05-16-game1-odd-even-total-kills": {
     "id": "2275544",
     "conditionId": "0x95e8e31d56082e07356550ed9046b72c4f03d641afe04ae9e91ae04bb6655627",
@@ -115333,16 +115023,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cuba-leader-miguel-diaz-canel-in-us-custody-by-june-30",
-    "negRisk": false
-  },
-  "cs2-bsta-reda-2026-05-19-game1-odd-even-total-kills": {
-    "id": "2289036",
-    "conditionId": "0xa3e63221744595c2ba32424b5b4f63d94aa08bebd6ad06124d1cbb730d2803b3",
-    "endDate": "2026-05-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-bsta-reda-2026-05-19",
     "negRisk": false
   },
   "ufc-max1-con-2026-07-11": {
@@ -119653,6 +119333,326 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-700b-by-december-31-939-865": {
+    "id": "2299994",
+    "conditionId": "0x782472918d01e1f758c3601540be9cb25357e3ea567903dcb0372ec67ff49af1",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-600b-by-december-31-187-246": {
+    "id": "2299995",
+    "conditionId": "0xf19307d3b033f5d9df233a70283fbdfdbff5f0b01ee3d9ad9b6e4f100b030f91",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-500b-by-december-31-785-717": {
+    "id": "2299996",
+    "conditionId": "0x042a712f74fb759c5eec43cdd1a70dd00d33671ff15fa70b4d47a559cc213f14",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-500b-by-december-31": {
+    "id": "2300092",
+    "conditionId": "0xecfdd6af43dd34329046294cd468933ab866e2c9a1d53202d24a67c2e9eec528",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-400b-by-december-31": {
+    "id": "2300093",
+    "conditionId": "0x3907864af252e96e040405af561e6a3211af130da0db657518d896d2f1495cc0",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-300b-by-december-31": {
+    "id": "2300094",
+    "conditionId": "0x27357c5f2d7cbf2c3090f9b788a39d7f7496f3111b726f48e424ca80edd582c8",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-250b-by-december-31": {
+    "id": "2300095",
+    "conditionId": "0xafa631fb5b20651b8f17eb149e80278ae678b9837c1c08ee0dae89dfbb15f3eb",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-225b-by-december-31": {
+    "id": "2300096",
+    "conditionId": "0x24f5086e38ded172a676b19d2da51e16ac495e1742e703450f27f622a9a26281",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-200b-by-december-31": {
+    "id": "2300097",
+    "conditionId": "0x770170d4c1fcba074aaf166e0c7b17a5363ac996888dabc3b8ba3aa7ecbc80e4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-high-190b-by-december-31": {
+    "id": "2300098",
+    "conditionId": "0xb5d05433a58ebc99c17a31e44adfce64154b74f9a1b52a565b8cfd450270cc75",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-low-160b-by-december-31": {
+    "id": "2300102",
+    "conditionId": "0xfc597a02c065d1b32d176909385ffc95e7f5ccae8eb98429e94563f41db40d42",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-low-150b-by-december-31": {
+    "id": "2300103",
+    "conditionId": "0xc788aac61ac907d5625261c822e6f1c1353f7ee39e108eaeffb08145cced01c4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-stripes-valuation-hit-low-125b-by-december-31": {
+    "id": "2300104",
+    "conditionId": "0x444c92f808d1154dc9ea3b41083f46ccd4b93f5c1bf917b79221d15e75fabebc",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-stripes-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-300b-by-december-31": {
+    "id": "2300137",
+    "conditionId": "0x589df57dcec0bdbb8a12de62f0ceb988a80a31015a8f474e134fae17e42df07f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-250b-by-december-31": {
+    "id": "2300138",
+    "conditionId": "0x7416088efbb11ecf399536b5890766be829715acabbc2b8631a0442f7903ad10",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-225b-by-december-31": {
+    "id": "2300139",
+    "conditionId": "0x7f4ebe86ccefbda94f9e2a3b8d144de5b7ff2dab64066d3fa19fb35e3cb8292f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-200b-by-december-31": {
+    "id": "2300140",
+    "conditionId": "0x892c525f748c60d04c0c94729f18eca9e38f52a66a38039d436048558769fcf0",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-190b-by-december-31": {
+    "id": "2300141",
+    "conditionId": "0x0d28984b01986db6824df82fbcebbf3cba7f830923fc28fe8658598e93d10a0f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-180b-by-december-31": {
+    "id": "2300142",
+    "conditionId": "0x3288c98696dcd907522a06cf31edaf952a51ea7b57110b8bd9b5c623a4e8b7af",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-170b-by-december-31": {
+    "id": "2300143",
+    "conditionId": "0xde6a54170bc8753899d56fa5baaeceae64a2f80e1bbd25f5b7928e3968b20f9a",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-high-160b-by-december-31": {
+    "id": "2300144",
+    "conditionId": "0x13e71b0cb776589f1d9ee3579e7b3db004ff9aa6eeded8c6ce0e4174468cb395",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-140b-by-december-31": {
+    "id": "2300145",
+    "conditionId": "0x4975dc0ce78d9cb390a4a421e0eef3c1fa64a5d771a218a0e46f7a4f21e137b8",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-135b-by-december-31": {
+    "id": "2300146",
+    "conditionId": "0xc6d79b4f7f008751451dd1a50035aa0ce227a5e0573d32805aeae3720f0ee160",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-130b-by-december-31": {
+    "id": "2300147",
+    "conditionId": "0x806aba290e64c23658dbf9a508a52f19fe2afd7dd2aec2cee96b27b2e2a86ab1",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-databricks-valuation-hit-low-125b-by-december-31": {
+    "id": "2300148",
+    "conditionId": "0x1645e84eba76054f1f879938aab04034fe48a491d671f352a099ee4f60cfca2c",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-databricks-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-200b-by-december-31": {
+    "id": "2300156",
+    "conditionId": "0x3464df69c8e2284f6cd80c35e6b83e6f6ca165c490afd113fa28483fcb5cb265",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-175b-by-december-31": {
+    "id": "2300157",
+    "conditionId": "0x8be4e240ce14fb0c952f3d98d748d4a1f93c97116cff5b9dba139d36f5387d7a",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-150b-by-december-31": {
+    "id": "2300158",
+    "conditionId": "0x9baeed292a20e2a795518476fa4f3d0dbb46b8d7bde8b9288835b7fe2da6a16e",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-125b-by-december-31": {
+    "id": "2300159",
+    "conditionId": "0xaae4e59f5cf7f7b7ae56e27017925e220af17c69dd3d7e57dffc08f3de988d79",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-110b-by-december-31": {
+    "id": "2300160",
+    "conditionId": "0x1bb1e56f8281bfcd702061dbe6064d261c9200aa8ee55d3161ea628ae05d7c6d",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-100b-by-december-31": {
+    "id": "2300161",
+    "conditionId": "0xc5e48fa8595851e33245dcdb8b44a939d1257bea9c2f055b21e9e3b274419419",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-high-95b-by-december-31": {
+    "id": "2300162",
+    "conditionId": "0x7184d7458ad53f283791c005dff9061701a117f2926858c6ebd53b00174a3fae",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
     "negRisk": false
   }
 }
