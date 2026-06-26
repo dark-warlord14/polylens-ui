@@ -489,16 +489,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-curaao-win-the-2026-fifa-world-cup": {
-    "id": "558978",
-    "conditionId": "0xdb4b2f370c3d0e996fbb32213c87aa5402936e3d4882432b6738e2f5661b79a6",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-sweden-win-the-2026-fifa-world-cup": {
     "id": "558980",
     "conditionId": "0xd0dbdc94b28c5cffeef64ed6b13e5f0f2324fb177e5ffaa634b48c88fe18d5e7",
@@ -8573,16 +8563,6 @@
   "will-waymo-launch-in-washington-dc-by-june-30-2026": {
     "id": "675596",
     "conditionId": "0xd94894a4125edde80b7af73cff2bc62cfb0fcc90d33c5541c6d8c1ada761bebd",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-cities-will-waymo-launch-in-by-june-30",
-    "negRisk": false
-  },
-  "will-waymo-launch-in-nashville-by-june-30-2026": {
-    "id": "675598",
-    "conditionId": "0x8a201719828d30a8cd1c002306a433033ff7b87d42e528644b4d05f1d47174f7",
     "endDate": "2026-06-30",
     "closed": false,
     "active": true,
@@ -65929,33 +65909,6 @@
     "eventSlug": "meek-mill-gets-y-combinator-funding-by-june-30",
     "negRisk": false
   },
-  "will-the-bank-of-mexico-announce-a-decrease-at-the-june-meeting": {
-    "id": "1744224",
-    "conditionId": "0x2f1db759c6a4f4b67b73374755ecb50ca71a8b549a216881b0bd4581f8c6b403",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-mexico-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-bank-of-mexico-announce-no-change-at-the-june-meeting": {
-    "id": "1744225",
-    "conditionId": "0x7fc2ef7c733fb853dc3247e6ac9f8740265ed5c41423400dfadd4b4601e9cdce",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-mexico-decision-in-june",
-    "negRisk": true
-  },
-  "will-the-bank-of-mexico-announce-an-increase-at-the-june-meeting": {
-    "id": "1744226",
-    "conditionId": "0xb6233af1a33b9803a8cc50d587ad4a281d18afeb5ca897e95a03c069532d2615",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "bank-of-mexico-decision-in-june",
-    "negRisk": true
-  },
   "clavicular-sentenced-to-prison-114": {
     "id": "1745436",
     "conditionId": "0x9c9ec7845f2102afe45b0987351d9fc146e38ed523b55323c82bda4439451597",
@@ -72232,126 +72185,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-ecu-ger-2026-06-25-ecu": {
-    "id": "1897311",
-    "conditionId": "0x44e25f753ae47dbdf2705d35e0a45db24d3a1b2996b82a1350ade2c7e92c4f93",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ecu-ger-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-ecu-ger-2026-06-25-draw": {
-    "id": "1897312",
-    "conditionId": "0x6257ac3bdd0b512bd6470c21d5dc99ed12ef42b5fd9ad6078fad24d351ebda5c",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ecu-ger-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-ecu-ger-2026-06-25-ger": {
-    "id": "1897315",
-    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ecu-ger-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-kor-civ-2026-06-25-kor": {
-    "id": "1897320",
-    "conditionId": "0x5f4340be34f9f45e76f28390111c349b343b6072a0953101fb78ec98e1ad3e90",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-kor-civ-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-kor-civ-2026-06-25-draw": {
-    "id": "1897322",
-    "conditionId": "0x9a07caaff2c446ef13f2ef28c15e788cbf52be21aec37178aa26927952fb32f4",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-kor-civ-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-kor-civ-2026-06-25-civ": {
-    "id": "1897323",
-    "conditionId": "0x8ca66a3012273cbadf1339f2b3c53cbeaf977d61a2f3f97495fd056afc0691f8",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-kor-civ-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-jpn-swe-2026-06-25-jpn": {
-    "id": "1897329",
-    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jpn-swe-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-jpn-swe-2026-06-25-draw": {
-    "id": "1897330",
-    "conditionId": "0x9e9014ddc6e6386e9bbd6bb8e6bd0049094ebaa3fa2eabf51055b2439c08a075",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jpn-swe-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-jpn-swe-2026-06-25-swe": {
-    "id": "1897331",
-    "conditionId": "0x8f0238f109028445232328dce2ff342cb92207a4e9e0e0dda195f1644655b2ab",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jpn-swe-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-tun-nld-2026-06-25-tun": {
-    "id": "1897336",
-    "conditionId": "0xbb8523862374b3edc90cb813b125bd30e8e27030be53fcf40d1f76152339f8d0",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tun-nld-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-tun-nld-2026-06-25-draw": {
-    "id": "1897338",
-    "conditionId": "0x964314cfa3bbe2b74e99f1973135a7678ba86ad048116b1a9846a9fa8cde646f",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tun-nld-2026-06-25",
-    "negRisk": true
-  },
-  "fifwc-tun-nld-2026-06-25-nld": {
-    "id": "1897340",
-    "conditionId": "0xa3150402afe114c762bcd2e5581dc4d0fe93560718640d8d490e0497350de5ad",
-    "endDate": "2026-06-25",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-tun-nld-2026-06-25",
-    "negRisk": true
-  },
   "fifwc-par-aus-2026-06-25-par": {
     "id": "1897345",
     "conditionId": "0x75d91cd268cec8d688b8a7e543b149700bf45d9f62e9fffa479b18f19a60a63e",
@@ -74031,16 +73864,6 @@
     "eventSlug": "will-charli-xcx-release-a-new-original-album-by-july-31",
     "negRisk": false
   },
-  "cs2-aab-ent2-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928486",
-    "conditionId": "0x9cf035dd17d54398d9c5b19a875b17f96753ccc0af2e032d23c63e0c3f869d27",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-aab-ent2-2026-04-10",
-    "negRisk": false
-  },
   "cs2-waz-aab-2026-04-10-game1-odd-even-total-kills": {
     "id": "1928499",
     "conditionId": "0x1a29a93c28fdd93f5bd7865c4ab6bae7b67b9e2a346c70594125c36a2557a97e",
@@ -74811,16 +74634,6 @@
     "eventSlug": "will-israel-annex-any-territory-by-december-31",
     "negRisk": false
   },
-  "dota2-mouz-ngx-2026-04-11-game1-first-blood": {
-    "id": "1942227",
-    "conditionId": "0x263bb04bd2717064cbd21ed5719832dab795e408664799c59a43b8393e815617",
-    "endDate": "2026-04-11",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-mouz-ngx-2026-04-11",
-    "negRisk": false
-  },
   "cs2-vpf-ksm-2026-04-11-game1-odd-even-total-kills": {
     "id": "1942645",
     "conditionId": "0xfa97b22712ec834c42e84df5c8037bdce10b8ed61f860bdb64eb6bc81b2dc4dd",
@@ -75300,16 +75113,6 @@
     "acceptingOrders": true,
     "eventSlug": "crictbcl-new-mel-2026-04-12-team-top-batter",
     "negRisk": true
-  },
-  "dota2-nemiga-1win-2026-04-12-game3-first-blood": {
-    "id": "1959936",
-    "conditionId": "0x8e58a955afe48e020da3b0e8f4534d9142c7ce7f66d7ea1c9c6bbd90bb40111b",
-    "endDate": "2026-04-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-nemiga-1win-2026-04-12",
-    "negRisk": false
   },
   "will-variational-launch-a-token-by-september-30-2026-873": {
     "id": "1962606",
@@ -84362,66 +84165,6 @@
     "eventSlug": "who-will-trump-announce-as-next-secretary-of-labor",
     "negRisk": true
   },
-  "will-voter-turnout-be-48-in-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039532",
-    "conditionId": "0x1d39c4a1a36a4eb905fceb33b6e37dcde0edf73ce338ace175c218427b3aa0b5",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-turnout",
-    "negRisk": true
-  },
-  "will-voter-turnout-be-48-51-in-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039533",
-    "conditionId": "0x258b1127a71bed3958a02bb6fb1efdea5a4d2fe318e07c38c44ba7f7d0fb2613",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-turnout",
-    "negRisk": true
-  },
-  "will-voter-turnout-be-51-54-in-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039534",
-    "conditionId": "0x42ea1c69f5d319d0dfb4e4b3bc67f8b62d76a43eecd9f951e24adb2fc5e9dfe9",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-turnout",
-    "negRisk": true
-  },
-  "will-voter-turnout-be-54-57-in-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039535",
-    "conditionId": "0x85891d3d64d31941b042c277f8d2182fe05d36a317e457cc8c3d07009d21972d",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-turnout",
-    "negRisk": true
-  },
-  "will-voter-turnout-be-57-60-in-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039536",
-    "conditionId": "0x9f741b859dc92f9018257354231e5522ff16f72ef44c649a6e193b99f1ed2a5c",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-turnout",
-    "negRisk": true
-  },
-  "will-voter-turnout-be-60-in-the-first-round-of-the-2026-colombian-presidential-election": {
-    "id": "2039537",
-    "conditionId": "0xba55f0eabef3afd1e0e2ef9cc025c99e396aef5a7cbb1f25e9fd296e72ef0663",
-    "endDate": "2026-05-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "colombia-presidential-election-1st-round-turnout",
-    "negRisk": true
-  },
   "will-ivn-cepeda-castro-win-the-first-round-of-the-2026-colombian-presidential-election-by-20": {
     "id": "2039644",
     "conditionId": "0xdee3c26a52d890e1b86ff9014d05566e4b05895c968de1e0b86e70c7f2cc9b4f",
@@ -87892,16 +87635,6 @@
     "eventSlug": "next-prime-minister-of-ethiopia",
     "negRisk": true
   },
-  "dota2-sar1-1win-2026-04-25-game1-first-blood": {
-    "id": "2065417",
-    "conditionId": "0x5c359accfb02b00fa843dae8cdfa0f4e32a5828bde75a0ddcdb84ff16a01ceb6",
-    "endDate": "2026-04-24",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-sar1-1win-2026-04-25",
-    "negRisk": false
-  },
   "cs2-tsa-ep-2026-04-24-game1-odd-even-total-kills": {
     "id": "2065789",
     "conditionId": "0x78215338a56997d90f500d034a4d07d6076e957819b0435c9a46656b5cc2d6e7",
@@ -89031,66 +88764,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-ecuador-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070748",
-    "conditionId": "0x8d84206ebda85fe26ac0f413f463c7029887a95c5bbc344e266bf4f0a0c2659d",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-ivory-coast-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070749",
-    "conditionId": "0xf1b5eddb0ee3c3398c161f731d21f170342feb192f7c0263d9baa7cbb6c1c31b",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-curacao-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070750",
-    "conditionId": "0x62623e36db475ec25adf71f602ec64dab863e906365e7b27804f8e72a85e7dbe",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-netherlands-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070751",
-    "conditionId": "0x2deac4e9149d7933e977be2a572b46d427b5b52308553e385a42c8e9855ba536",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-japan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070752",
-    "conditionId": "0x9e91380150cd0739da220168cfc99a129a7b6f7dd89e28ae48ae60e5749ca699",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-sweden-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070754",
-    "conditionId": "0xbea8b7504ec86c42abb39512b385c4dc695ba6c1d3f4d3aa9dd0ceddb0957338",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-belgium-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070755",
     "conditionId": "0xc0d63027b98472e48bacae3726cb9cd1929f0c31f91a791b6d5e773b390a3238",
@@ -89431,16 +89104,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-a-player-representing-curacao-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070970",
-    "conditionId": "0xcf3050a8a80c4754f70fb79f6df9c2e4d4d4b906030437f54dc0d279def5020d",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
   "will-a-player-representing-netherlands-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070971",
     "conditionId": "0xc35fa9b5a406c9efc4f1ddecb8c7ac098daf509f6a3a65de9549e4e485f5fa6a",
@@ -89454,16 +89117,6 @@
   "will-a-player-representing-japan-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070972",
     "conditionId": "0x5671824d6c5b3c26ee63897295a00b57adbece307b63ba53405fce44198cc282",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-tunisia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070973",
-    "conditionId": "0x2bb3534669145fcb81df2bab8a1e6367f39aa3677743cb30e3afb3d512d38a88",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -89881,16 +89534,6 @@
     "eventSlug": "world-cup-nation-to-reach-final",
     "negRisk": false
   },
-  "will-curacao-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071537",
-    "conditionId": "0x73faa4237a04fc75911879d5bbda19e5d834fc8604880d4c35fbdf55b2b37efc",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
   "will-netherlands-reach-the-2026-fifa-world-cup-final": {
     "id": "2071538",
     "conditionId": "0xb3cd6f2687376e2fc50563b4c48213b87bee8af5b8f047a6b1b136b7d9fbc90a",
@@ -90271,16 +89914,6 @@
     "eventSlug": "cs2-33-par3-2026-04-25",
     "negRisk": false
   },
-  "dota2-1win-pr1-2026-04-27-game1-first-blood": {
-    "id": "2076192",
-    "conditionId": "0x08b84105acdb627cf10b9893a36b7366c77ae05614f5e5eb1fd213eefa84bbe6",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-1win-pr1-2026-04-27",
-    "negRisk": false
-  },
   "bol1-ant-abb-2026-05-22-spread-home-1pt5": {
     "id": "2077191",
     "conditionId": "0x03a01fc4e99a0b597820aa46f3455be8d20b8045c828b6b50a4358c9dd2eec7d",
@@ -90579,16 +90212,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-reda-red7-2026-04-29",
-    "negRisk": false
-  },
-  "lol-tt-lng-2026-05-03-game2-any-player-penta-kill": {
-    "id": "2085269",
-    "conditionId": "0x866b37e9929eb5ad692782726a90f690acf800ede78e013ae0fd30499063a470",
-    "endDate": "2026-05-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "lol-tt-lng-2026-05-03",
     "negRisk": false
   },
   "bol1-alw-uvi-2026-05-23-spread-home-1pt5": {
@@ -94261,15 +93884,6 @@
     "eventSlug": "mlb-4-homer-game-in-2026",
     "negRisk": false
   },
-  "faze-roster-change-before-gta-vi": {
-    "id": "2109589",
-    "conditionId": "0x78b86705913bc56b0e90e6990f0c3a36f103ae79f37684e1d7d4103b1101d899",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "faze-roster-change-before-gta-vi",
-    "negRisk": false
-  },
   "israel-enacts-military-exemption-for-yeshiva-students-by-sep-30": {
     "id": "2109597",
     "conditionId": "0xbe259598e5a6c822d9d5cd125a853fecf6ebed30425621c4dd6fe4151b32d9ab",
@@ -95413,16 +95027,6 @@
   "will-switzerland-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116750",
     "conditionId": "0x563fb88f97c51d7240df7e2cfd68a4f348800fb2ec62edb5c5bc1f31e4c58fdd",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-tunisia-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116751",
-    "conditionId": "0xd43b25728815902e959cc4877f2191ff2e0d39cfd057fb82bfb2ec70c46a2de6",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -115741,16 +115345,6 @@
     "eventSlug": "cs2-bsta-reda-2026-05-19",
     "negRisk": false
   },
-  "cs2-bsta-reda-2026-05-19-game1-odd-even-total-rounds": {
-    "id": "2289037",
-    "conditionId": "0x43fed1ffd9ede36bd80991a2d2db5c35c9c4ad143e7fe7ea5e93df867f78e2e7",
-    "endDate": "2026-05-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-bsta-reda-2026-05-19",
-    "negRisk": false
-  },
   "ufc-max1-con-2026-07-11": {
     "id": "2289164",
     "conditionId": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
@@ -119650,5 +119244,415 @@
     "acceptingOrders": true,
     "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
     "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-25c": {
+    "id": "2299826",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-26c": {
+    "id": "2299827",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-27c": {
+    "id": "2299828",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-28c": {
+    "id": "2299829",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-29c": {
+    "id": "2299830",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-30c": {
+    "id": "2299831",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-31c": {
+    "id": "2299832",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-32c": {
+    "id": "2299833",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-33c": {
+    "id": "2299834",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-jinan-on-may-21-2026-34corhigher": {
+    "id": "2299835",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-jinan-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-23corbelow": {
+    "id": "2299847",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-24c": {
+    "id": "2299848",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-25c": {
+    "id": "2299849",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-26c": {
+    "id": "2299850",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-27c": {
+    "id": "2299851",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-28c": {
+    "id": "2299852",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-29c": {
+    "id": "2299853",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-30c": {
+    "id": "2299854",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-31c": {
+    "id": "2299855",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-32c": {
+    "id": "2299856",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "highest-temperature-in-zhengzhou-on-may-21-2026-33corhigher": {
+    "id": "2299857",
+    "conditionId": "",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "highest-temperature-in-zhengzhou-on-may-21-2026",
+    "negRisk": true
+  },
+  "will-anthropics-valuation-hit-high-3pt0t-by-december-31": {
+    "id": "2299952",
+    "conditionId": "0xd594753a5d2b4d3b9e65cdd06c3cbb0645d70be7626fad94774f45560b150d23",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-2pt5t-by-december-31-169": {
+    "id": "2299953",
+    "conditionId": "0xdc7c8ada1b8d28300cdc783578e8754d2570a3da067965be15bba638cb94f83a",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-2pt0t-by-december-31-922": {
+    "id": "2299954",
+    "conditionId": "0xf32da8a1740a0d58ffdf87343afefb0bcca4b355cc88e2dba8fd78a88a5308d2",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt75t-by-december-31-328": {
+    "id": "2299955",
+    "conditionId": "0xc68fea7daba83292fdd7bb704f26d38c4f678cbc2ff69c4175d47c55e74b4321",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt5t-by-december-31-797": {
+    "id": "2299956",
+    "conditionId": "0x91a003371cb96dc30511f883052d6b5957d9f099f02704f9838523a260dd1162",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt25t-by-december-31-429": {
+    "id": "2299957",
+    "conditionId": "0x9a615dee0c451b49b0dd68f6ae48d88fa3bdc15669828f725eb309ac5fe56333",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-1pt1t-by-december-31-646": {
+    "id": "2299958",
+    "conditionId": "0x41a32b9d68f3b70839c8d6c87181bd4364da48cb0bde87e8b7d73a7d8a1fd5f4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-800b-by-december-31-957-743": {
+    "id": "2299960",
+    "conditionId": "0xaee6153d03242be37cea3995233ecacd46e49ccd8e38e85fc27738841bad492f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-700b-by-december-31-928": {
+    "id": "2299961",
+    "conditionId": "0xbef3c5d2db53c02b66ad25c4b460746c502af74ad9105858a1e107da545cc828",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-low-600b-by-december-31-732": {
+    "id": "2299962",
+    "conditionId": "0x18d4e1c2e60d67e788adc175928eea7188ddc07191e7ff7fde5459168c16fe8c",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-3pt0t-by-december-31-688-311": {
+    "id": "2299984",
+    "conditionId": "0x62b614201ee04912119c4bd45e4ab8d98d05cc5a4c5af88d89e2b5728fbd1412",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-2pt5t-by-december-31-538-161": {
+    "id": "2299985",
+    "conditionId": "0x475c9930c09c7a7526a9596dd4dc191a31ef99253ccbf7045720501fc49ba0fb",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-2pt0t-by-december-31-937-533": {
+    "id": "2299986",
+    "conditionId": "0x0ed3f07970b2d212acf460bbd4209a13ec4e4b45395b34f8d0bd9df05c909cda",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt75t-by-december-31-882-628": {
+    "id": "2299987",
+    "conditionId": "0xb202db72798accbbae7e83a9ccb4e7120a6556af622a8acd51013041b29c100e",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt5t-by-december-31-574-287": {
+    "id": "2299988",
+    "conditionId": "0xc71dbe9724f537b220b58e35a0a023ca9f6883117b3723eecf6384c5b2c51d45",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt25t-by-december-31-366-424": {
+    "id": "2299989",
+    "conditionId": "0x0a0fb756d8dc5c3cf0a16eebc7d6d39406155a41e13d00bf615fc0fcd9e9c31a",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461": {
+    "id": "2299990",
+    "conditionId": "0x6f107a898291e9e227ef0835f74062c7fbf450363da765cec5372b86cf3686c7",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-900b-by-december-31-942-235": {
+    "id": "2299991",
+    "conditionId": "0x6cfe7a9e60cccf76f79b654192e32585c1f4808ac1abbe17291386b5dc3d6242",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-800b-by-december-31-852-948": {
+    "id": "2299992",
+    "conditionId": "0x3ae127fe5aea62414a5902c438ac63207d561fcb42c8a61ccef1a25f17e0570c",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-low-750b-by-december-31-995-138": {
+    "id": "2299993",
+    "conditionId": "0xf57c3d72c028f618464e1e472eda7ded96ce1c30c31e3a3c453e5e418a6f4de4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
   }
 }
