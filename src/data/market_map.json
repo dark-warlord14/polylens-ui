@@ -73764,16 +73764,6 @@
     "eventSlug": "will-charli-xcx-release-a-new-original-album-by-july-31",
     "negRisk": false
   },
-  "cs2-waz-aab-2026-04-10-game1-odd-even-total-kills": {
-    "id": "1928499",
-    "conditionId": "0x1a29a93c28fdd93f5bd7865c4ab6bae7b67b9e2a346c70594125c36a2557a97e",
-    "endDate": "2026-04-10",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-waz-aab-2026-04-10",
-    "negRisk": false
-  },
   "mls-nyc-laf-2026-05-06-nyc": {
     "id": "1928770",
     "conditionId": "0x07aa441123aa310a7949312c6233f1d291bd78e1fe5da57c94fa1f4d03c40a4c",
@@ -94252,16 +94242,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "mlb-mil-stl-2026-05-05",
-    "negRisk": false
-  },
-  "dota2-ic-ave-2026-04-30-game1-any-player-ultra-kill": {
-    "id": "2115952",
-    "conditionId": "0x8c166781cfab70af17874870fdb70d9ed57a8626f785342c4f6421584675d56b",
-    "endDate": "2026-04-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "dota2-ic-ave-2026-04-30",
     "negRisk": false
   },
   "cs2-psna-inf1-2026-05-01-game1-odd-even-total-kills": {
@@ -119648,6 +119628,26 @@
   "will-andurils-valuation-hit-high-95b-by-december-31": {
     "id": "2300162",
     "conditionId": "0x7184d7458ad53f283791c005dff9061701a117f2926858c6ebd53b00174a3fae",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-low-75b-by-december-31": {
+    "id": "2300164",
+    "conditionId": "0x71aa0b4ed98d3488234ee5df33708d8ca8798da898eec319d76777bd0079259e",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-andurils-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-andurils-valuation-hit-low-70b-by-december-31": {
+    "id": "2300165",
+    "conditionId": "0xdc4f6ac441d910fb699cbe3cbc4d0e5597a47e801a4ee9675c77298f4d1fd94b",
     "endDate": "2027-01-01",
     "closed": false,
     "active": true,
