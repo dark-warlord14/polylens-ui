@@ -219,16 +219,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-uruguay-win-the-2026-fifa-world-cup-932": {
-    "id": "558944",
-    "conditionId": "0x7876851632c295043c66536150a304cb785abdf712ba8489d298c6e6926be106",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-mexico-win-the-2026-fifa-world-cup-529": {
     "id": "558945",
     "conditionId": "0x5ccfe1b69a582d2985db08a8481a0d74c314b1fce9b4711ae2efb2c6467fe6aa",
@@ -18456,36 +18446,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-g-winner",
-    "negRisk": true
-  },
-  "will-spain-win-group-h-in-the-2026-fifa-world-cup": {
-    "id": "839561",
-    "conditionId": "0x766aa2fb8fafc6f063de001e1d441d0e64d84f164093feb087226b47ffc32af1",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-h-winner",
-    "negRisk": true
-  },
-  "will-cape-verde-win-group-h-in-the-2026-fifa-world-cup": {
-    "id": "839562",
-    "conditionId": "0x511e4f617cbdf200aed1dce58c174f4714ae5c0603d62a7d4502ac172ac0a565",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-h-winner",
-    "negRisk": true
-  },
-  "will-uruguay-win-group-h-in-the-2026-fifa-world-cup": {
-    "id": "839564",
-    "conditionId": "0xd136f80c161a40baa5890a7792a2a5bf264de0d5ef2711a23e4564b429969ff8",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-h-winner",
     "negRisk": true
   },
   "will-portugal-win-group-k-in-the-2026-fifa-world-cup": {
@@ -48305,176 +48265,6 @@
     "eventSlug": "major-cex-insolvent-in-2026",
     "negRisk": false
   },
-  "will-oscar-hemming-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343577",
-    "conditionId": "0x0b782961dcf69d37bdcfb6d9ba319a9e31333c83d9a0855e9acce873c57a41ec",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-yegor-shilov-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343578",
-    "conditionId": "0x18d4e16fb76571f62be9e97536b8ef3c0898c8273ce0095de1625fe6d42d5bfd",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-william-hakansson-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343580",
-    "conditionId": "0x205195a78b1742cdc2fef9023af460eb272e0e50c32e169522d849472f6f2ec7",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-alexander-command-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343588",
-    "conditionId": "0xfae4253ad534b867f412a63ff5cf0e3a943ea9aa407289b15e9fb22bd3101d11",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-niklas-aaram-olsen-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343589",
-    "conditionId": "0x96e76e7a8ffe1b1e1852f6a8cc4ca732d7412d4b7f8ec50f6cab7dc917fee701",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-adam-valentini-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343590",
-    "conditionId": "0xd30f6c3ff64594633a704eb03aa27f35817a560e5bf6289099a877308b9b5021",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-nikita-shcherbakov-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343591",
-    "conditionId": "0x46aaf7ddda16f2333a5474b5a8918a83aa4839a2548f162fa32cee39691082d9",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-giorgos-pantelas-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343594",
-    "conditionId": "0x86c0a6366e6a0ca4b17b4d6e69d2bc7bf80770114e41b5bdfa424eea0b869def",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-beckham-edwards-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343597",
-    "conditionId": "0xe398ddb9a2d58a33636bdb8ef838a28b4ad133826b53b34ca44dafe8ccfb0e6d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-simas-ignatavicius-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343598",
-    "conditionId": "0x6663f8859d4daf401ea61447179700586f58ea4fd6fe520b14f9e0d91df19660",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-liam-ruck-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343599",
-    "conditionId": "0xb3b7fe452677ffaef24999bc40cc3216f18b5b482a607802e5794fd30f22d1ab",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-victor-plante-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343600",
-    "conditionId": "0x9cd502cbbed609c86140337fb283bfb17c6e8c65cdfff036ce9b1c4dc2df7b9d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-adam-nemec-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343601",
-    "conditionId": "0x8db6a48e707c841c38399e57821f16e06fcd09e8c64b0dbc786cc8f5db09095a",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-luke-schairer-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343602",
-    "conditionId": "0x400ac41286e29cea94f4a4bdd38b964f9a250fddc0c043c8620508cd3e56c8cb",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-casey-mutryn-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343603",
-    "conditionId": "0xa1d6044abff0a6591a9a0f083d4d7728516afdf9c4d1e700eb8d4acfc05c5b0d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-oscar-holmertz-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343604",
-    "conditionId": "0x9713bf822c7503618c51abddc4f03a9928b9acc69ffa4ba81c7fec6bac89172a",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-mikey-berchild-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343605",
-    "conditionId": "0xb24587f7cec7ec186f7debd58a6b9b7d9a435ed39cd92e9e6298fd5675857ad6",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
   "will-openais-market-cap-be-less-than-500b-at-market-close-on-ipo-day-by-december-31-2027-861": {
     "id": "1345229",
     "conditionId": "0x94f5db837b2d95d30fde488e64f5582b9e6ec0554a0d79a5e1715f3c3e42584f",
@@ -71785,66 +71575,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-egy-irn-2026-06-26-egy": {
-    "id": "1897397",
-    "conditionId": "0x9623b379f3e25ffa6206f8bc7aedeecd67580944645151350e06cb3efd95c090",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-egy-irn-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-egy-irn-2026-06-26-draw": {
-    "id": "1897398",
-    "conditionId": "0x2afe86f96be81a0d89ed776bedbd52d1c75bc47b49e6f0f791ddd009f52faf23",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-egy-irn-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-egy-irn-2026-06-26-irn": {
-    "id": "1897399",
-    "conditionId": "0x3984132d5d0c5be60bc0ad1dff63e44197b5f39a6135329490a0a75c0a372f06",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-egy-irn-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-nzl-bel-2026-06-26-nzl": {
-    "id": "1897406",
-    "conditionId": "0x6c3c1eb9055cf4ff809b8d4f26a8ef56e11e17c184da687353927de474615746",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nzl-bel-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-nzl-bel-2026-06-26-draw": {
-    "id": "1897408",
-    "conditionId": "0xf6fe0dfcb5be2f8e961972059e42700713164673bc7463a28d029602b5e3df18",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nzl-bel-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-nzl-bel-2026-06-26-bel": {
-    "id": "1897409",
-    "conditionId": "0xd01a16e5adf6934d12c7a0e9875332356f74289ae6652a57aacb853e252fbbf4",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nzl-bel-2026-06-26",
-    "negRisk": true
-  },
   "fifwc-pan-eng-2026-06-27-pan": {
     "id": "1897415",
     "conditionId": "0xb53a439c60d979f1c19108b263d97419e0a6ea99eb71ce08cfc0e459622e71cc",
@@ -87944,16 +87674,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-paraguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070745",
-    "conditionId": "0x0cbb73759bb6ad83040cc6edb908a7dbd51855618082d2f5dd3b58937a79b306",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-belgium-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070755",
     "conditionId": "0xc0d63027b98472e48bacae3726cb9cd1929f0c31f91a791b6d5e773b390a3238",
@@ -87974,59 +87694,9 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-egypt-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070757",
-    "conditionId": "0x19eff468ad0ffce9ade9f41d3d323c42e48981a28772b47618d4ef77c7333c55",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-new-zealand-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070758",
     "conditionId": "0x46d7512f30ec5b01e8194cf42457a041ca9bf675e4f58b32edcde8b3c431d18a",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-spain-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070759",
-    "conditionId": "0xbdb9f8af2767fa217f65b2a970a9ec46f88fcf3a96e94421a3b51bc8cda1e12a",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-uruguay-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070760",
-    "conditionId": "0xbafadf181195da28073877849e2a4601a2f4a99371bf94e24e8a6380c7baa072",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-saudi-arabia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070761",
-    "conditionId": "0xe28714396c63822d0c1293f2aad16aaca02a143a32f20b71fd7fb58f078d6602",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-cape-verde-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070762",
-    "conditionId": "0xf75a1084ea00a19ec34957397ea4d0a33258395ba6b50a2d4186ee0f77910c25",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -88064,16 +87734,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-portugal-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070771",
-    "conditionId": "0x94cac3a7ff4e968e68674c8dff21d74df39c9519291db5e4628486f977b1cad5",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-uzbekistan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070773",
     "conditionId": "0x77cdf10e0cbddb64775d735d882925631edcdbf84f23316e23d0d4be83636b30",
@@ -88094,29 +87754,9 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-england-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070775",
-    "conditionId": "0x1b37d3e123b994a315fc445ab4fdbb94bb2fa111437b6305a44a7fcd18c3d217",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-croatia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070776",
     "conditionId": "0x339817a52eeb97cc6cf99afee47a61dbc83244a4266a947d19f9b21aa9d7bbd3",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-ghana-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070778",
-    "conditionId": "0x2d93d3f277602a22f90c8ddcfd775945542d6b4a99449db03489de13609f3290",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -88347,26 +87987,6 @@
   "will-a-player-representing-spain-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070979",
     "conditionId": "0xd201108be9753b5ee8b6069ce9f9287d2931a5174bb4ef6c2daccbe3f005826b",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-uruguay-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070980",
-    "conditionId": "0x179e8fa540b1547f01efec62ca6afc73f847c13c21812327c1087aa35ea4c987",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-saudi-arabia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070981",
-    "conditionId": "0x83c7e5566edc355211013c83d57295c0ff296d098ad4eb9e82d6841c812ab98c",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -88767,26 +88387,6 @@
   "will-spain-reach-the-2026-fifa-world-cup-final": {
     "id": "2071546",
     "conditionId": "0x8bdf55664cb17a543fef1f43bd6aeb0aa7b7849cb31620808ce258b3e2ab136d",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-uruguay-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071547",
-    "conditionId": "0xb8fdd2a20096f85bd146bf1a862ff711eca18c6d6bc972f57a9ffea60295d962",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-saudi-arabia-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071548",
-    "conditionId": "0x55d6c922866a4c1e00b80eec1dca2444d9d08321deee555b0b5d3f2ca9c676cd",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -94147,16 +93747,6 @@
   "will-united-states-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116753",
     "conditionId": "0xe441df14890b26343247abe2eabc9bf7ecd219fcbbcdfbc002bc7c43225c6d48",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-uruguay-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116754",
-    "conditionId": "0xe7d71ed803e1520eb5fc47a35481a110e0fe1bb9e3e323dd1db64ead420d98e2",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -119654,5 +119244,415 @@
     "acceptingOrders": true,
     "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
     "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-spread-home-2pt5": {
+    "id": "2301830",
+    "conditionId": "0xb8bf7769da7598cf851039c9d55012c35c69c5ff15f86fbe55a51b0825fdb8ec",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-spread-away-2pt5": {
+    "id": "2301833",
+    "conditionId": "0x37fe3008718076dfd8bad9ecbd0cdf1b7c1e8f30c56ccd3f306c85e3642bcca4",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-total-0pt5": {
+    "id": "2301835",
+    "conditionId": "0x798d8b46820eda69e7fa8689e98e10f4c7d01fe26cb0c3606b9993015aa9f09a",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-total-1pt5": {
+    "id": "2301837",
+    "conditionId": "0xfe4e3c32807b239262fe68b8420a073edef5592fca3f96b18f429ef67f727f10",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-total-2pt5": {
+    "id": "2301839",
+    "conditionId": "0x4134f6d9020d2378cd5409058d4c89651bed90465024f1a2f78d9633567737dd",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-total-3pt5": {
+    "id": "2301842",
+    "conditionId": "0xdca8d36416fb3da165b98df1dfcfa076d06879b3f8bd22158742d198f90fdf2f",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-total-4pt5": {
+    "id": "2301844",
+    "conditionId": "0xd2e8f4c9d295ddceab7df63665ced4ffe7836396e3beb97085cecf32e3da271e",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-total-5pt5": {
+    "id": "2301847",
+    "conditionId": "0xa4fa8f8aa5fced2f47e114e122d4699d7201d9c1255a207445114e0152b20f70",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-btts": {
+    "id": "2301850",
+    "conditionId": "0x0049d17a37f091e5e25233a3b434c3f08846b4b85855104d650457ecf94b175b",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "cs2-esb-vortex-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2302181",
+    "conditionId": "0xfd5b95b66d47c72efeac2b83af60250cc44f0e7ee7fb186dc688892e9bb006ba",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-esb-vortex-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-esb-vortex-2026-05-19-game2-odd-even-total-kills": {
+    "id": "2302183",
+    "conditionId": "0x8d69bbe269ae90a86549d00e0565ff91a146b3782802d06c95977bc24dd2f9a3",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-esb-vortex-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-esb-vortex-2026-05-19-game3-odd-even-total-kills": {
+    "id": "2302185",
+    "conditionId": "0x6c5eb8e5c00a2aa6992ee3d8d5f61ec102726bbfde70e24b7b1692ebefb2831f",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-esb-vortex-2026-05-19",
+    "negRisk": false
+  },
+  "anthropic-vs-openai-higher-valuation-on-june-30": {
+    "id": "2303063",
+    "conditionId": "0xb43a769ca44edd70a2bb7dc4cf28ecd200c7e315199c8c0e39248540e5ecdcef",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-vs-openai-higher-valuation-on-june-30",
+    "negRisk": false
+  },
+  "will-maurizio-sarri-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303190",
+    "conditionId": "0x3b22b8fed29dc7f51bd57889a8066aa199d77df37d4f623b7cc69bf36dce31d3",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-massimiliano-allegri-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303191",
+    "conditionId": "0x17be3ca0e691850774ca5e68d062c9cf4f8b0775ce3887de9132d54f3d391ed9",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-dries-mertens-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303192",
+    "conditionId": "0xcb8c12fa8fda1c32f160d41c41f4a30967f5102a2a02459392c9395215c2403e",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-lorenzo-insigne-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303193",
+    "conditionId": "0xd45afd98c31c94f33128c7e55b7df2b28cb4324e3383a23bf3fec9db0f6a73cc",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-pep-guardiola-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303194",
+    "conditionId": "0x977acea0bff1a72b1574b95d120a9fc2d7ad63f5534fb0886da443e4f4b250fa",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-thomas-frank-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303195",
+    "conditionId": "0x8c56740dae127f236364fe6e5054d94c06c6390949b7c71daeda68df0595a5bc",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-ruben-amorim-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303196",
+    "conditionId": "0x7233251a2a5ebe76d3460dd02d9ce2818709ef019a0742c0ba54bbcd21d41361",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-marco-silva-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303197",
+    "conditionId": "0x104017f3267e51d7980123e11ab33735945ab02338e2274fba55202693caeaa6",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-xavi-hernandez-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303198",
+    "conditionId": "0xcad13d0c031df66217fa8a8e615e1a05f227843c668a569b2d06de33c720e864",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-filipe-luis-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303199",
+    "conditionId": "0x94cc9c86cb3ecd086afad8f9eba1da5a824d4b1c90f8d1b0c2a6029e7f48973e",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-oliver-glasner-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303200",
+    "conditionId": "0x6026e5f657fcbd17b2bdfb51254011d01d4ef19c64949c0bdab68a4573b557f6",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-mauricio-pochettino-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303201",
+    "conditionId": "0x06383a4c49467de91029e9d4be62b19ac4e2f33577945c6a86c516bd51105567",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "will-andoni-iraola-be-the-next-manager-of-ssc-napoli": {
+    "id": "2303202",
+    "conditionId": "0x600b8a3e15ae0cc1ec9ff70600d35330185fe0b206efc83c8b58fc16b78aa5b4",
+    "endDate": "2026-09-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "serie-a-next-napoli-manager",
+    "negRisk": true
+  },
+  "jos-luis-rodrguez-zapatero-sentenced-to-prison": {
+    "id": "2303265",
+    "conditionId": "0x3fcd367d1aecd2e01fb6ddc7dc971e30c85f64ff58269f58e601849d569c3829",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "jos-luis-rodrguez-zapatero-sentenced-to-prison",
+    "negRisk": false
+  },
+  "ufc-will-conor-mcgregor-fight-in-2026": {
+    "id": "2303266",
+    "conditionId": "0xbfd6478d7e4489ef0d992a7c4772bf2daab73a0ff6946f31e2ae3dc3e6e29209",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "ufc-will-conor-mcgregor-fight-in-2026",
+    "negRisk": false
+  },
+  "databricks-vs-stripe-higher-valuation-on-june-30": {
+    "id": "2303762",
+    "conditionId": "0xd9ecfe7e94c8397cccdd90ffb5d25ff906e4ed0c2d2c0dddf941b653ffc9841f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "databricks-vs-stripe-higher-valuation-on-june-30",
+    "negRisk": false
+  },
+  "anthropic-vs-openai-higher-valuation-on-december-31": {
+    "id": "2303886",
+    "conditionId": "0x15cda44bef6ec2cb20755e8632f1386cf244a1aeb0372d463dbf70a7c44bcde5",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-vs-openai-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "databricks-vs-stripe-higher-valuation-on-december-31": {
+    "id": "2303921",
+    "conditionId": "0xf4528501015c3680777e84e333fac8eb7a858c8146ca6393f29847afd852a347",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "databricks-vs-stripe-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "spacex-vs-tesla-higher-valuation-on-june-30": {
+    "id": "2303952",
+    "conditionId": "0xc7314bfc5ac60bd015c4253b353d346acab9c2f8f833c3016b0cd70fc6ed0db1",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "spacex-vs-tesla-higher-valuation-on-june-30",
+    "negRisk": false
+  },
+  "anduril-vs-lockheed-martin-higher-valuation-on-december-31": {
+    "id": "2304048",
+    "conditionId": "0x4b2c25fd78ceb05a8b1d424788456ebec757a08df9bc7bdb0ced0cbcfa067a82",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anduril-vs-lockheed-martin-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "databricks-vs-salesforce-higher-valuation-on-june-30": {
+    "id": "2304063",
+    "conditionId": "0xc41fb561999d8284f9867dc96070d7c9c189ea1d55eef3fc08de434f38998d84",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "databricks-vs-salesforce-higher-valuation-on-june-30",
+    "negRisk": false
+  },
+  "epic-games-vs-roblox-higher-valuation-on-december-31": {
+    "id": "2304101",
+    "conditionId": "0xaca6fa1aefe48ff454fa81af3a87139033f3750fcf90c60d6f60e29a81fe8b05",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "epic-games-vs-roblox-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "stripe-vs-american-express-higher-valuation-on-december-31": {
+    "id": "2304160",
+    "conditionId": "0x8faef0b98f32c4edee34db7dcd1c3b0b68a6eedfe3bb8e7f830f36b0eebdfeec",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "stripe-vs-american-express-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "openai-anthropic-vs-google-higher-valuation-on-december-31": {
+    "id": "2304178",
+    "conditionId": "0x540c2a3b31825ff036400ad0706f49facd00189a6ba2b00515a518f784901267",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "openai-anthropic-vs-google-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "anthropic-openai-vs-microsoft-higher-valuation-on-december-31": {
+    "id": "2304204",
+    "conditionId": "0xfbf0869b186734f26197fc7c96bded5ed05862b394839716df72c29eb3f4fd60",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-openai-vs-microsoft-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "anthropic-openai-vs-meta-higher-valuation-on-june-30": {
+    "id": "2304219",
+    "conditionId": "0x7cf5ef2095c0905afe8b1387158fc617a48e2abaefcf4712321114c8043c7031",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-openai-vs-meta-higher-valuation-on-june-30",
+    "negRisk": false
+  },
+  "will-the-swedish-social-democratic-party-s-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304227",
+    "conditionId": "0xe7fb9cdad127dc1493d86eb9a29f95cce966c9debffe015552abc8c421bf5fd4",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-sweden-democrats-sd-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304228",
+    "conditionId": "0x9e2966ab58d8cd6efaccfd92b2d7c518ff6c4318e8bcd3032fef68c8254d102a",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
   }
 }
