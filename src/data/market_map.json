@@ -74234,16 +74234,6 @@
     "eventSlug": "cs2-zotix-dia-2026-04-13",
     "negRisk": false
   },
-  "cs2-g2a-jumbo-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967030",
-    "conditionId": "0x77591ca51d517aa8f264150cbdc996320e52b985f73990ed8e00c8297db6022e",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-g2a-jumbo-2026-04-13",
-    "negRisk": false
-  },
   "cs2-clutch1-qua1-2026-04-13-game1-odd-even-total-kills": {
     "id": "1967073",
     "conditionId": "0xaead2013c61214ac1a130dbab405774b66d3136296ae5e426838319e8aa41f3b",
@@ -79584,16 +79574,6 @@
     "eventSlug": "cs2-zotix-clutch1-2026-04-20",
     "negRisk": false
   },
-  "cs2-auryb-cow1-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2031423",
-    "conditionId": "0xaeead5d4793fbad34e9447b071b36468245eb3409abaeedbaf8dab42dc596558",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-auryb-cow1-2026-04-20",
-    "negRisk": false
-  },
   "cs2-dia-fcf-2026-04-20-game1-odd-even-total-kills": {
     "id": "2031429",
     "conditionId": "0x9d6c3275602cfe3925565b8b69c67441418253e20e87c8605e5001bf508fa319",
@@ -79632,16 +79612,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-cow1-imperi-2026-04-20",
-    "negRisk": false
-  },
-  "cs2-g2a-projec-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2031447",
-    "conditionId": "0x580fabba669a8a884ebebc32dec7612c7f4752f08cfd16a9fda27eb1d99b29fa",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-g2a-projec-2026-04-20",
     "negRisk": false
   },
   "bol1-abb-idp-2026-05-17-spread-home-1pt5": {
@@ -92842,16 +92812,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "james-comey-in-jail-by-june-30",
-    "negRisk": false
-  },
-  "cs2-tlr-g2a-2026-04-29-game1-odd-even-total-kills": {
-    "id": "2112100",
-    "conditionId": "0x92210add8291755557f9e38070aa3b9827ea67356925a62b974816108e5f4ae8",
-    "endDate": "2026-04-29",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-tlr-g2a-2026-04-29",
     "negRisk": false
   },
   "cs2-psna-rt1-2026-04-29-game1-odd-even-total-kills": {
@@ -117055,16 +117015,6 @@
     "eventSlug": "will-andurils-valuation-hit-by-june-30",
     "negRisk": false
   },
-  "will-andurils-valuation-hit-high-95b-by-june-30": {
-    "id": "2298966",
-    "conditionId": "0x82165cfc6a6b20e2d1814d2ced47fa67b2e6ef43030709e1a5bc80344651fd4c",
-    "endDate": "2026-07-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-andurils-valuation-hit-by-june-30",
-    "negRisk": false
-  },
   "will-andurils-valuation-hit-low-75b-by-june-30": {
     "id": "2298970",
     "conditionId": "0x163fcb7e71bc46428525411bd202648360e4da763fa5d054f8cc5f6014d72e1c",
@@ -118198,16 +118148,6 @@
   "will-andurils-valuation-hit-high-100b-by-december-31": {
     "id": "2300161",
     "conditionId": "0xc5e48fa8595851e33245dcdb8b44a939d1257bea9c2f055b21e9e3b274419419",
-    "endDate": "2027-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-andurils-valuation-hit-by-december-31",
-    "negRisk": false
-  },
-  "will-andurils-valuation-hit-high-95b-by-december-31": {
-    "id": "2300162",
-    "conditionId": "0x7184d7458ad53f283791c005dff9061701a117f2926858c6ebd53b00174a3fae",
     "endDate": "2027-01-01",
     "closed": false,
     "active": true,
@@ -119638,6 +119578,60 @@
   "will-brice-turang-be-on-the-cover-of-mlb-the-show-27": {
     "id": "2304451",
     "conditionId": "0xfbb746f13c0b28340100efb680e493102f1bcac0cf0c75435dfe1bdacde60e72",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-nick-kurtz-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304452",
+    "conditionId": "0xab485e765ce22ef765c24769d5aa11624f262862570c91f02e10d3296f6c1e8a",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-mason-miller-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304453",
+    "conditionId": "0x498aa74f120f13ee9f736fc84899e8c5594629dd55a6d2efe7f790c02dc6e520",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bryce-harper-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304454",
+    "conditionId": "0x96d4de52b7be2ae4f5b219bbb8c28f6102757b5d0e0b4c5d9762a91d0086c1d8",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-kyle-schwarber-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304455",
+    "conditionId": "0x81de0bfae4e8a4bb5d17ae221f2e5d3059cf32c0cdf2c83a27596dc0aae53f0b",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jazz-chisholm-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304456",
+    "conditionId": "0x9826d29e277c919a16a57ebb9967241495ed9631fbe9352262dc5441466c5eea",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-mike-trout-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304457",
+    "conditionId": "0xda2e9e8ad08e28d88e7906696f41e07e368781cf495da3896e58526b472b0acb",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
