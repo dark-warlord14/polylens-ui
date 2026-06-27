@@ -74224,26 +74224,6 @@
     "eventSlug": "cs2-vpf-z7-2026-04-13",
     "negRisk": false
   },
-  "cs2-vpp-don-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967021",
-    "conditionId": "0xb93e36e306404815baaf22b029b114e960fd8a21ebc77b52c7e6b6b89502541f",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-vpp-don-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-qua1-vpp-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967024",
-    "conditionId": "0xb6eb1a18effb60355463f02afb780cde79052dd6538e8a9a2b074c73e2a41954",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-qua1-vpp-2026-04-13",
-    "negRisk": false
-  },
   "cs2-zotix-dia-2026-04-13-game1-odd-even-total-kills": {
     "id": "1967027",
     "conditionId": "0xdfb280858da0ff45e5f926dcd4a46cca8b452c19398f43b7b712086258cab41b",
@@ -119640,6 +119620,24 @@
   "will-munetaka-murakami-be-on-the-cover-of-mlb-the-show-27": {
     "id": "2304449",
     "conditionId": "0xad51e0c9cf827938076bfdb55b183179c02044cef190e95811d9fc34c1d368b3",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-elly-de-la-cruz-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304450",
+    "conditionId": "0x398be711d4c30168cd5aed68f3c8f0919a59e473e8f1d78e7f6c6f8898572979",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-brice-turang-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304451",
+    "conditionId": "0xfbb746f13c0b28340100efb680e493102f1bcac0cf0c75435dfe1bdacde60e72",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
