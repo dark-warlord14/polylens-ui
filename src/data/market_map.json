@@ -299,16 +299,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-new-zealand-win-the-2026-fifa-world-cup-635": {
-    "id": "558957",
-    "conditionId": "0x9e5f9d8c384f8fe368b195fa9a780be58643dff7360588a4e577012df8af00a7",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-australia-win-the-2026-fifa-world-cup-816": {
     "id": "558958",
     "conditionId": "0x098e2be3df8ab529940c567819f8ef007cf007820e9d627642a5bbfaa42af372",
@@ -422,16 +412,6 @@
   "will-cape-verde-win-the-2026-fifa-world-cup": {
     "id": "558970",
     "conditionId": "0x3bc69cb672591e4fcd2ef856b64b219a906e15d4601b50066ac81a446574dfaf",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
-  "will-saudi-arabia-win-the-2026-fifa-world-cup": {
-    "id": "558972",
-    "conditionId": "0x3fb8a8de2ac275882d72b2c4f22d41776fcf033f9e413a77a84dd395c0d5257c",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -18416,36 +18396,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-c-winner",
-    "negRisk": true
-  },
-  "will-belgium-win-group-g-in-the-2026-fifa-world-cup": {
-    "id": "839439",
-    "conditionId": "0x1e285f49c483634426c54834f840f6bfe780e0039eb0ad31357b936600b7c2d2",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-g-winner",
-    "negRisk": true
-  },
-  "will-egypt-win-group-g-in-the-2026-fifa-world-cup": {
-    "id": "839440",
-    "conditionId": "0xd5f291e4d2dfc44a42ee0eb1d83f2e42a90ce943a71f643cadf4e98c5a6ec3eb",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-g-winner",
-    "negRisk": true
-  },
-  "will-iran-win-group-g-in-the-2026-fifa-world-cup": {
-    "id": "839441",
-    "conditionId": "0x5bf2c54fb4ca9d63427816cd88ab8f7b5ede5b2b9166c366a940f1a0d6d0a290",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-g-winner",
     "negRisk": true
   },
   "will-portugal-win-group-k-in-the-2026-fifa-world-cup": {
@@ -62021,16 +61971,6 @@
     "eventSlug": "cl-hit-jun-2026",
     "negRisk": false
   },
-  "will-crude-oil-cl-hit-low-70-by-end-of-june-776-556-989-392-677-842-888-775-665-545-427-841": {
-    "id": "1652697",
-    "conditionId": "0xe3f8272f4957b7dcc492d988e5c7cd6dbb2f4111cd309571514a280938d617f1",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cl-hit-jun-2026",
-    "negRisk": false
-  },
   "cs2-inf1-biga-2026-03-20-game1-odd-even-total-kills": {
     "id": "1653640",
     "conditionId": "0x8d6fc630a5c2f30d71e30168470a512e2d28e953a56b87e17c7968908f756db0",
@@ -87344,16 +87284,6 @@
     "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
-  "will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2069676",
-    "conditionId": "0xa80c60c7d6bc7e5beb94f095e2ad56afc96e54bd267395ccaf61ee89168821fd",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-golden-boot-winner",
-    "negRisk": true
-  },
   "will-pedri-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2069677",
     "conditionId": "0xc670e80dbb80ba2d33afcfa51d8ec385a3ffaadebdcaf8187e6eb5d14f2289bb",
@@ -87427,16 +87357,6 @@
   "will-florian-wirtz-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2069691",
     "conditionId": "0x651f04bb7e59a6868a3d6c11e234f4fb5e12e38ff735360c54752841fc1798c9",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-golden-boot-winner",
-    "negRisk": true
-  },
-  "will-tim-payne-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2069694",
-    "conditionId": "0x4c0053b3dbe497b36b2cd2b5547e5c6b881f0f31f87b06057c619e353dbccff0",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -87674,39 +87594,9 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-belgium-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070755",
-    "conditionId": "0xc0d63027b98472e48bacae3726cb9cd1929f0c31f91a791b6d5e773b390a3238",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-iran-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070756",
     "conditionId": "0xc2fcce9165ac160807304db5dc0ec730dfd6d17c02a23c0dafce10a471833725",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-new-zealand-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070758",
-    "conditionId": "0x46d7512f30ec5b01e8194cf42457a041ca9bf675e4f58b32edcde8b3c431d18a",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-senegal-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070764",
-    "conditionId": "0x59ffd52a92c4afe5257997bbb6ecb38a260eb2ef4f8da31f0271fe48d35b8622",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -87967,16 +87857,6 @@
   "will-a-player-representing-egypt-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070977",
     "conditionId": "0x4e0f5532f5126f3766e1bb00831303812f63c6b7dc9b95b63c43eca5f6c5c7de",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-new-zealand-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070978",
-    "conditionId": "0x7c54beb4a8be7279d13adbb494ff7e5c0d7b3c3c8db52fd8708a1ecdded76ff2",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -88367,16 +88247,6 @@
   "will-egypt-reach-the-2026-fifa-world-cup-final": {
     "id": "2071544",
     "conditionId": "0x4b28dd865163ffc0f1901a7b547c4c40b3d17d14fdd67f90ef13ad38bdecba01",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-new-zealand-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071545",
-    "conditionId": "0x9ed11c0b247e8dd7b111579643812925d7ec40f02064b259a952eef9b8759147",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -93614,16 +93484,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-new-zealand-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116737",
-    "conditionId": "0x0e9228df032a1ada28456c2ea0ba8e73c5e53152fd968ef73c74ad6dfa9d856e",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-norway-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116738",
     "conditionId": "0xb1310bc2d0a325738b9e7c5fc1d8491caa459f5c08f5687ed17e09fff1d7718f",
@@ -93657,16 +93517,6 @@
   "will-portugal-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116741",
     "conditionId": "0x2431b6fdfb72ff0271407b1855601c057983c8ba3d33eba021c19c7a98cfce63",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-saudi-arabia-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116743",
-    "conditionId": "0xe04cb5e1941bdd9e17a84a9715d9c0fc4f2c9ad8422bdd77846b147f5de15f10",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -94626,16 +94476,6 @@
     "eventSlug": "world-cup-most-assists",
     "negRisk": true
   },
-  "will-liberato-cacace-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117306",
-    "conditionId": "0x013197e476509c978f1f20a241b581cd7891d281285d4edf4aefebf77f04e3e4",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
   "will-martin-degaard-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117307",
     "conditionId": "0xf4d1b6d526a9f1bad7d6e606152946c9f8539d415efe053668c991f29a976e13",
@@ -94669,16 +94509,6 @@
   "will-bruno-fernandes-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117310",
     "conditionId": "0xa6c0e100b2270447d56d3d50b580adc65ca5731e8a26098cddbac1334723c124",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
-  "will-salem-al-dawsari-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117312",
-    "conditionId": "0xfc2e99ac2d3fa45766e877c7d80a367ba0a885763352c14cf82b6a9e70d50ec6",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -94749,16 +94579,6 @@
   "will-granit-xhaka-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117319",
     "conditionId": "0x5ded3855a4d40a790e9bf7e2efb9d19bcb7c4aea994e0bd319fce3b3eb93142e",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
-  "will-federico-valverde-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117322",
-    "conditionId": "0x792d45eb0bf1b999f276a2b53b6ac09330fea0caa89c56f7ab739501c5a4500e",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -95166,16 +94986,6 @@
     "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
   },
-  "will-chris-wood-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117921",
-    "conditionId": "0xd966fda43e1ddf3ab22477baef16155d11dfc935f5676429e93073fb99447cf7",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
   "will-erling-haaland-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117922",
     "conditionId": "0xe7fa55fca14e385bda2b593ede9336c257e9538682e277926d957984f9e2eb05",
@@ -95209,16 +95019,6 @@
   "will-rafael-leo-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117925",
     "conditionId": "0x43c01eb91e99114b6a4be936d1ee66cd1cb97f1f6048767adb341e8260624bcc",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-salem-al-dawsari-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117927",
-    "conditionId": "0x91eb35f15f2a6e7082bd00f9c2b1bc457497e2ec58de678701e7dc8680075942",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -95289,16 +95089,6 @@
   "will-granit-xhaka-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117934",
     "conditionId": "0x1c6c117d23e1d5920680391bcbb7339449d2e45a09306ddfac17c8c35b4ddc57",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
-  "will-federico-valverde-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117937",
-    "conditionId": "0xed87d362d78fd8d45c6339f3bee037f478279cca1f4308b9d8c8b0a10c86d0ae",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -95596,16 +95386,6 @@
     "eventSlug": "world-cup-most-clean-sheets-gk",
     "negRisk": true
   },
-  "will-oliver-sail-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118056",
-    "conditionId": "0x762b34b968efee788db160d1f2f8f479450ea093a07b7ccab3f71d54be214b61",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
   "will-rjan-nyland-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118057",
     "conditionId": "0xdb191aea42f14d0812c9d68c47840ab902b7c54a3360232dd1a591ceffda98f5",
@@ -95629,16 +95409,6 @@
   "will-diogo-costa-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118060",
     "conditionId": "0x2a11b7244249753451cdc6c6bf92f9988da59a9cc3ecc516a1754a622a87208a",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-mohammed-al-owais-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118062",
-    "conditionId": "0x3005b1d3eaf220cc61fe117ddbea7323ab36fbf4caf8d8d58c29df58f2a4db30",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -95709,16 +95479,6 @@
   "will-yann-sommer-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118069",
     "conditionId": "0xf4bbe3a8b4be0bf60f355c0df119ce891b9ae03ba36d6f1a863b33557076a666",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-sergio-rochet-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118072",
-    "conditionId": "0x35eaa005eb9ecddb3aa1f88743c895bafc6628ed12fcf44ab4a20296f4925fdc",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -116275,16 +116035,6 @@
     "eventSlug": "ea-sports-fc27-cover-athlete",
     "negRisk": false
   },
-  "will-john-fleming-drop-out": {
-    "id": "2295717",
-    "conditionId": "0x37703c1f659f287f3a8d12b0b33618225bdd2be6b65704732b803b16da2996d8",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-john-fleming-drop-out",
-    "negRisk": false
-  },
   "will-arch-manning-be-on-the-cover-of-ea-sports-college-football-27": {
     "id": "2295742",
     "conditionId": "0xd5374beb684fefa4ca76c64d2a1a4ba826ccfa87d4527206a9ebc5015f222536",
@@ -119654,5 +119404,247 @@
     "acceptingOrders": true,
     "eventSlug": "sweden-parliamentary-election-2nd-place",
     "negRisk": true
+  },
+  "will-the-moderate-party-m-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304229",
+    "conditionId": "0xa3d50cf0138c0faad988d80e35036aab97ae6d5627f539ce3ce531b555acc209",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-centre-party-c-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304230",
+    "conditionId": "0xa0a8a8e4f1f702f9a2dfb384937363425c5d692b85f3852ef552a003b4263c21",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-left-party-v-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304231",
+    "conditionId": "0x122bf209013fc0b80e146aab519453a71c4f316d5dab8779581c8aea78e2cb2c",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-christian-democrats-kd-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304232",
+    "conditionId": "0x11c8d0277259ec92493cb857e098a2fb5c2dd57a38894e7795d7c7765b0f5bfd",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-green-party-mp-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304233",
+    "conditionId": "0x122b4e42fb8fa20545a6e459b9319b895e885e7376f371087b812022438a595c",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-liberals-l-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304234",
+    "conditionId": "0xd25b9fe9ca32c84b9055bdeb6c7de59c3a1a4fbb2be730e9425f8ad65f87cb2e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "will-the-citizens-coalition-med-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304235",
+    "conditionId": "0x22e3d0a32fbeb0752ff5b1d2aa0ba8ac65a18eee5eb5d84afd06d769e7ddec7c",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-2nd-place",
+    "negRisk": true
+  },
+  "anthropic-vs-meta-higher-valuation-on-june-30": {
+    "id": "2304322",
+    "conditionId": "0x04b8ab38ac02d168169427e3234d3decd66820a44a13d10d301d50e9f7da8d9e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "anthropic-vs-meta-higher-valuation-on-june-30",
+    "negRisk": false
+  },
+  "will-the-swedish-social-democratic-party-s-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304329",
+    "conditionId": "0xac6c0ac47d291c30123b6564bbe434ba3519d3bb23fb9b5bcd8d0d37355a64be",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-sweden-democrats-sd-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304330",
+    "conditionId": "0x939abe4a38f670b916138202bc9045767299998dbb3c3fb389146fb17f24a477",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-moderate-party-m-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304331",
+    "conditionId": "0xbbb881b0ecfbfbd6bdc5fab54fc82871a2daf99417e51106f58ad1abacdbb65b",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-centre-party-c-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304332",
+    "conditionId": "0x1f8af081ead4ac3bf4155f604cf7d6e2d4fdd8f1bcbbcca84cf8e0ff2f858064",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-left-party-v-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304333",
+    "conditionId": "0x079ed31d3145be72ad42f227f57587d046d02240ba72b742b5ef71cd1995e61e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-christian-democrats-kd-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304334",
+    "conditionId": "0x6bc3d43a7d7b4cd5173c7a3e4ee31b097b71f1e7013e12873a3a31827d573015",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-green-party-mp-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304335",
+    "conditionId": "0x33f3ffb4cd939055a7039776c8385da9dfa3a88206d42a80c37ca3d1767a472a",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-liberals-l-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304336",
+    "conditionId": "0x78982ace7c0251ff0bdc5218e83bc9158c54882e0c410067d0696d8d2203e66e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-the-citizens-coalition-med-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election": {
+    "id": "2304337",
+    "conditionId": "0x88e30780c1bc453974a34fa8c3f30f5a6e27771f5a943ca4831ee7aa4ce21ec4",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "sweden-parliamentary-election-3rd-place",
+    "negRisk": true
+  },
+  "will-shohei-ohtani-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304441",
+    "conditionId": "0x21427df6bd270fbc9fbedc6e160546fabf12350607fb82a87168b8e8fb97b0cf",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-aaron-judge-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304442",
+    "conditionId": "0x2102b029d71b18411085ea4f6afae1e05f333b0c16528dc208fc4d1aa4a1b85f",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-paul-skenes-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304443",
+    "conditionId": "0x8b3bb569e63cf15a51f3f211952551d050bbc0a533709efd53b62d3d4c143a9c",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-tarik-skubal-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304444",
+    "conditionId": "0x77bdd69325be84cbe115a2ef987423a7653bf7ee946d4edb2191429c9be996e4",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-cam-schlittler-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304445",
+    "conditionId": "0xdf21619b724dcc01ea54d527e2ff0e63cfd7e6db39e951b004ac25cc1161ef27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-ben-rice-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304446",
+    "conditionId": "0x8c0451433b4d3d8a35b28d20e17f2e40efe4ec35dddd77aed86f2df7ffa8e483",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-yordan-alvarez-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304447",
+    "conditionId": "0xd7581a695cab35525dd5db7d91553aff6ca3c4bbdf167e353f24a38b0e265231",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-jordan-walker-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304448",
+    "conditionId": "0x2cfbfeee0ae2340ce76a3d4fc9fe958e01cd6e01acccfffafa5e93921e421f7b",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
   }
 }
