@@ -71975,16 +71975,6 @@
     "eventSlug": "cs2-cls1-efa-2026-04-07",
     "negRisk": false
   },
-  "cs2-g2a-cow1-2026-04-07-game1-odd-even-total-kills": {
-    "id": "1909429",
-    "conditionId": "0xf9e8269dc950320f7faabcdddca9d7ff252ec9c0790e37deadd15669cf1733f2",
-    "endDate": "2026-04-07",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-g2a-cow1-2026-04-07",
-    "negRisk": false
-  },
   "cs2-brute-inf1-2026-04-08-game1-odd-even-total-kills": {
     "id": "1909436",
     "conditionId": "0x6e07fe40be5b6dcc380e060655ecf80f28170ebff2b3923fa79ecccc84f83786",
@@ -106659,16 +106649,6 @@
     "eventSlug": "cs2-hin-brawls-2026-05-11",
     "negRisk": false
   },
-  "cs2-cow1-bojong-2026-05-11-game1-odd-even-total-kills": {
-    "id": "2229359",
-    "conditionId": "0xa70d13faafbcedfdffc9c903596b83f4f6af5eb2433a2d1696dd2d6fcccbf188",
-    "endDate": "2026-05-12",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-cow1-bojong-2026-05-11",
-    "negRisk": false
-  },
   "will-russia-enter-sloviansk-by-december-31-2026": {
     "id": "2232190",
     "conditionId": "0xd4aa5c6bd2a179244d98ba714dba4441e4bf5f99f27a657b8d967f8f67cfe041",
@@ -109519,6 +109499,86 @@
     "eventSlug": "pll-2026-george-boiardi-hard-hat-winner",
     "negRisk": true
   },
+  "will-mikey-weisshaar-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255267",
+    "conditionId": "0x21af310be76579a7f4c1a34015b3e5e139255baab7969b598f98c2319c31592f",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-eric-spanos-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255268",
+    "conditionId": "0x31ae9ac2eaf77874d97228b663cfa3a8db77ec35c67a0f9d1246b7507a910465",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-ryan-stines-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255269",
+    "conditionId": "0x2a5793028eb10cd01889ab17582da9e602294a69e1fb599313fe69592c537540",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-joey-spallina-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255270",
+    "conditionId": "0x37c1e38a1582fa8d433567ae81b1ab769ffc7e7cca59a893124dfe81df722c13",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-silas-richmond-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255271",
+    "conditionId": "0xf7c7e19aca17ad4bf707df4190fbe9a774d0c546af8238a2582385611018b11e",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-michael-leo-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255272",
+    "conditionId": "0x4db8b2c4dc03c1ad79a9d0697618a674755519130579043248e1f978282d1993",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-evan-plunkett-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255273",
+    "conditionId": "0x2729b9ab37612345f5196d12e7c5e41e2befa90f2fcd33430bedb02ec6b7749a",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
+  "will-matt-collison-win-the-2026-pll-rookie-of-the-year": {
+    "id": "2255274",
+    "conditionId": "0x7af97ea72feee13116b4b97d40027a2a65a8eb711ac673c857fe5dfeef16e51b",
+    "endDate": "2026-09-13",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "pll-2026-rookie-of-the-year",
+    "negRisk": true
+  },
   "will-tim-soudan-win-the-2026-pll-coach-of-the-year": {
     "id": "2255306",
     "conditionId": "0x833e5ab22c6df3b506149d87de910cf4e3dced9454321aca462fc84e4b721188",
@@ -110118,76 +110178,6 @@
     "acceptingOrders": true,
     "eventSlug": "what-price-will-sui-hit-in-2026",
     "negRisk": false
-  },
-  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-05": {
-    "id": "2262322",
-    "conditionId": "0x5af250027e9a56e9fc21b4564804a4c37d7625f951f8908661af930a67751b06",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-510": {
-    "id": "2262323",
-    "conditionId": "0x139d0850e2d7b59914905e07c2ce2932efd1ca920aa1e27189c1e7c4ee5f0a8b",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-1015": {
-    "id": "2262324",
-    "conditionId": "0xd40dd28a2d81c60016ffea7656ffad6c198d72a7212896d1b9f10696f63fc568",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-karen-bass-win-the-first-round-of-the-2026-los-angeles-mayoral-election-by-15": {
-    "id": "2262325",
-    "conditionId": "0x392654f5e17d9ebf4c7d819ac597ddbbfb22706958e76447e38f3da2e241f930",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-spencer-pratt-win-the-first-round-of-the-2026-los-angeles-mayoral-election": {
-    "id": "2262326",
-    "conditionId": "0xe4337bde0b6e6c1773feeafc3e568eca4db2d6ff2f70b925e6204ba94d1e6ec3",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-nithya-raman-win-the-first-round-of-the-2026-los-angeles-mayoral-election": {
-    "id": "2262327",
-    "conditionId": "0xe2d37c04daaab16fb7234c36e4fa14bfe1080cf3cf6c799ec03af6b019996d8f",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
-  },
-  "will-another-candidate-win-the-first-round-of-the-2026-los-angeles-mayoral-election": {
-    "id": "2262328",
-    "conditionId": "0x1de5612d6b83066a3f73420bf667d9bdcc74c66b29d27f8a59587964e7a18170",
-    "endDate": "2026-06-02",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "la-mayoral-election-1st-round-margin-of-victory",
-    "negRisk": true
   },
   "russia-coup-attempt-in-2026": {
     "id": "2262329",
@@ -119641,6 +119631,15 @@
   "will-jordan-walker-be-on-the-cover-of-mlb-the-show-27": {
     "id": "2304448",
     "conditionId": "0x2cfbfeee0ae2340ce76a3d4fc9fe958e01cd6e01acccfffafa5e93921e421f7b",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-munetaka-murakami-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304449",
+    "conditionId": "0xad51e0c9cf827938076bfdb55b183179c02044cef190e95811d9fc34c1d368b3",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
