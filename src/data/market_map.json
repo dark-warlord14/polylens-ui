@@ -509,16 +509,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-iraq-win-the-2026-fifa-world-cup": {
-    "id": "558982",
-    "conditionId": "0x51e8c8df709aa78f64d2d9324d9d2556270f81e3966ade308099e5338bb4e4c9",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-bosnia-herzegovina-win-the-2026-fifa-world-cup": {
     "id": "558983",
     "conditionId": "0xbce6698c9a61376c0709a2a724a9cf0dd0236d8dea882533073b6bb062efbee0",
@@ -18496,26 +18486,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-h-winner",
-    "negRisk": true
-  },
-  "will-france-win-group-i-in-the-2026-fifa-world-cup": {
-    "id": "839959",
-    "conditionId": "0x4ae4a0aecfc6479374c5a9a355f0f0cba2c0680dff010b48a2c8b380423efd05",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-i-winner",
-    "negRisk": true
-  },
-  "will-norway-win-group-i-in-the-2026-fifa-world-cup": {
-    "id": "839962",
-    "conditionId": "0x9da323e862ca9e583ae67a5130c8c79960cf173e7d76165cefd4ecd7f9333b90",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-i-winner",
     "negRisk": true
   },
   "will-portugal-win-group-k-in-the-2026-fifa-world-cup": {
@@ -48335,216 +48305,6 @@
     "eventSlug": "major-cex-insolvent-in-2026",
     "negRisk": false
   },
-  "will-gavin-mckenna-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343556",
-    "conditionId": "0x78e794527d21a251948dba9042c49197dc783349d76742daba2d2f048b707c29",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-ivar-stenberg-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343557",
-    "conditionId": "0x6d1616688cd3d1a21532e66ba3c60d6295c6c7d455fc9c410dce0b692d4ab15f",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-keaton-verhoeff-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343558",
-    "conditionId": "0xac14a21f1b8a34ef3e37247fba2911f861bec7fa0d5379fc1a63b52486765d25",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-tynan-lawrence-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343559",
-    "conditionId": "0x36340008ad22e901dc008bba1080c8276f669eed55f179da0fa7a6ba57cce1e2",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-chase-reid-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343560",
-    "conditionId": "0x35242288ec25cf3c05b9f328f11a47b25b5f608d7e369f6f02fd9e5cd25d5510",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-alberts-smits-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343561",
-    "conditionId": "0xdea628736859007ff63d6c46cf50ed4cfb6251c2087c371bb988a862ac09016c",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-carson-carels-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343562",
-    "conditionId": "0x43cbca3b00cbd9ea11cb075e5baa1f964790ceb630c8a5dbc12b8661f4ade6cb",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-caleb-malhotra-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343563",
-    "conditionId": "0xcf5d97f1febbefbb4074a19526af54fb5481a7d8bb88dc97a8b7a0f73c1ab993",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-ethan-belchetz-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343564",
-    "conditionId": "0xcd74882185b124e73197141b3f121f03be0d75289efa67c207edaaf6f148e155",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-viggo-bjrck-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343565",
-    "conditionId": "0x46ac515c960ae9139fe9caeed46b48f0d0a8a2831e7660d7b401d5c9bcd67742",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-ryan-lin-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343566",
-    "conditionId": "0x2bd00278cea6ae366250367f1f9d6453017625cedf46c0937938b1be403d5226",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-daxon-rudolph-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343567",
-    "conditionId": "0xd722720bb67b3fb699498f9bdf9eb3a4479d4cf09f01ac0c75aeb8803e7b940d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-xavier-villeneuve-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343568",
-    "conditionId": "0xcef95f0f252c9f4daceb941da57eb9a159d7ebb008159afb70d17e756754aa14",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-oliver-suvanto-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343569",
-    "conditionId": "0x2ea36aebf15df3c80c6b2869db1f94311a4da18c113c2aecbfad650081fdbc80",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-adam-novotn-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343570",
-    "conditionId": "0x20d122c81104c5ea88a8c8f84d4fd5dbd5119c7eadee49d1cf2254974ef9a2f7",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-elton-hermansson-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343571",
-    "conditionId": "0xcafc6853c5c940160e538905e1ed7d12b9afce08c032e04e9a2f711e005e0bb3",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-malte-gustafsson-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343572",
-    "conditionId": "0xd81ef96bff3e4c11bb98791639794207fdd59a4690f1c5cd17a256375b00e775",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-mathis-preston-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343573",
-    "conditionId": "0x9228f09b46574f75948f526b4a01f83cdc379823e3ff324913f92b67dc458a84",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-juho-piiparinen-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343574",
-    "conditionId": "0xb29a3c9fc2d12641b3f068e86a8bf2ff85bff55a4d389884f0238f5905a6cc4c",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-jp-hurlbert-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343575",
-    "conditionId": "0x9a136cd7615d241e55677143c7881ef9954779c49d05f51c207835a27debfe17",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-marcus-nordmark-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343576",
-    "conditionId": "0x01b896ca259add3221432ae4aad21d1cc0013c0db258ed655b74c71aee063c99",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
   "will-oscar-hemming-be-drafted-1st-overall-in-the-2026-nhl-draft": {
     "id": "1343577",
     "conditionId": "0x0b782961dcf69d37bdcfb6d9ba319a9e31333c83d9a0855e9acce873c57a41ec",
@@ -48565,89 +48325,9 @@
     "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
     "negRisk": true
   },
-  "will-ilya-morozov-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343579",
-    "conditionId": "0xb756b8f6a77b409d95047c3c20b7ba4bcd455a8bcccf789e9ff4ff8cdeb9780c",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
   "will-william-hakansson-be-drafted-1st-overall-in-the-2026-nhl-draft": {
     "id": "1343580",
     "conditionId": "0x205195a78b1742cdc2fef9023af460eb272e0e50c32e169522d849472f6f2ec7",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-nikita-klepov-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343581",
-    "conditionId": "0x6e9680201ba4ec39828b3acff82fd068222a847916482c4ba437777c4c87c156",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-pierce-mbuyi-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343582",
-    "conditionId": "0xfc5c8ab775d82af16e52ee202ecc7e7fe6cad01961dde928ad336c6fe1add29c",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-maddox-dagenais-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343583",
-    "conditionId": "0xec796fa6225ca2ec776866c27c7cee0602f8f1d74d412959b8334ae6b2739fad",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-ryan-roobroeck-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343584",
-    "conditionId": "0x7431ec39851461dbc878f8cfb18eb8066a1b7c1738e73facd41a54112525965b",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-brooks-rogowski-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343585",
-    "conditionId": "0x2332e51f4618daaf2cc972dd0ff9f1ad69bfa6bc744498764edce7978ab06a59",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-tomas-chrenko-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343586",
-    "conditionId": "0xbcb0eacffa4ae776b6c7427d1dbb2da72911991fa4144233b77dfa224c97b659",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-jack-hextall-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343587",
-    "conditionId": "0x8c551f7e0fe8befba90eabea3ec6c29a1461708ec0c21d21b9c12fd23d4ff31e",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -48695,49 +48375,9 @@
     "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
     "negRisk": true
   },
-  "will-wyatt-cullen-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343592",
-    "conditionId": "0xf76c22ccb6197bbd456cd24fd5af3b79c93623ac3eee03afd73ca0bb77733d9e",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-alessandro-di-iorio-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343593",
-    "conditionId": "0x90b85606aad146ab9200d01388825d3fe43f67fc10c84e6fafcdc18ac4bb9fd0",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
   "will-giorgos-pantelas-be-drafted-1st-overall-in-the-2026-nhl-draft": {
     "id": "1343594",
     "conditionId": "0x86c0a6366e6a0ca4b17b4d6e69d2bc7bf80770114e41b5bdfa424eea0b869def",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-jaxon-cover-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343595",
-    "conditionId": "0xedfff2f29304fe29e6c622385c4fd0a134186a74241c901bf6f522913be47fd8",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-    "negRisk": true
-  },
-  "will-adam-goljer-be-drafted-1st-overall-in-the-2026-nhl-draft": {
-    "id": "1343596",
-    "conditionId": "0xee201824fcb69b7073e905246330e80daf1377d1c4897f6987e48827d5061026",
     "endDate": "2026-06-27",
     "closed": false,
     "active": true,
@@ -72145,106 +71785,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-nor-fra-2026-06-26-fra": {
-    "id": "1897366",
-    "conditionId": "0x09620e07d807241bb41e5cf07d42dfd3e08943ee39e5c93ae3890e3b6164822e",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-nor-fra-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-sen-irq-2026-06-26-sen": {
-    "id": "1897372",
-    "conditionId": "0x0a164e67541bdcd46143a1d6dd768ccd30eca67f68c510ff824bd67e06ef4738",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sen-irq-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-sen-irq-2026-06-26-draw": {
-    "id": "1897373",
-    "conditionId": "0x86160e86690150e60f37bb1fdd7e3b5902b4927b87c4d9c321ed8043d9afcd7c",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sen-irq-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-sen-irq-2026-06-26-irq": {
-    "id": "1897374",
-    "conditionId": "0x09736de43a09191400c25861f599a6c3e8044e0123822d8e30e74e105d9b5e60",
-    "endDate": "2026-06-26",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-sen-irq-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-cvi-ksa-2026-06-26-cvi": {
-    "id": "1897379",
-    "conditionId": "0xe949e3949780dfce68fc24136bb3f79e5e1ad94d0001079ee26f6b474d77d355",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cvi-ksa-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-cvi-ksa-2026-06-26-draw": {
-    "id": "1897381",
-    "conditionId": "0x187651dbb617ad61b8c3342a4a61996273a6a206ff36405c37c5cf029c2f96bb",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cvi-ksa-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-cvi-ksa-2026-06-26-ksa": {
-    "id": "1897383",
-    "conditionId": "0xff3744285965810d599d4ac7037760134c349eab25c289c14ba2523320debda7",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cvi-ksa-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-ury-esp-2026-06-26-ury": {
-    "id": "1897389",
-    "conditionId": "0x61b80a4a7a325eba229ccfa35aaef9cf5879a4ad38bee2fef49a0359d823d9ca",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ury-esp-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-ury-esp-2026-06-26-draw": {
-    "id": "1897390",
-    "conditionId": "0xd0fa27da024261ba5edb5e9eda33651a224fb5a2137d3c9e73b216109b12dd79",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ury-esp-2026-06-26",
-    "negRisk": true
-  },
-  "fifwc-ury-esp-2026-06-26-esp": {
-    "id": "1897392",
-    "conditionId": "0xe322faca2a534900680db54e3a4349a61427d347b6f906d2eeb01f81ae1b082c",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-ury-esp-2026-06-26",
-    "negRisk": true
-  },
   "fifwc-egy-irn-2026-06-26-egy": {
     "id": "1897397",
     "conditionId": "0x9623b379f3e25ffa6206f8bc7aedeecd67580944645151350e06cb3efd95c090",
@@ -75082,26 +74622,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-ep-old-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-mis-rt1-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967079",
-    "conditionId": "0x0ba8d34f87c3c2b40978143d0766f50ec8649ec471df9ef894c5f06e51766135",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-rt1-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-mis-rt1-2026-04-13-game1-odd-even-total-rounds": {
-    "id": "1967080",
-    "conditionId": "0x10582eda1b1127d0538a7ce2748a4d04a9ee8dc8e2a66da596b17377af80d58c",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-rt1-2026-04-13",
     "negRisk": false
   },
   "cs2-jumbo-xi-2026-04-13-game1-odd-even-total-kills": {
@@ -78234,16 +77754,6 @@
     "eventSlug": "cs2-r2-alkaa-2026-04-16",
     "negRisk": false
   },
-  "cs2-pure-enr1-2026-04-16-game1-odd-even-total-kills": {
-    "id": "1997383",
-    "conditionId": "0x83565ec29a283d20a721581220eb7fb21a5f9a46dc359b2631b31a3a13043ea4",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-pure-enr1-2026-04-16",
-    "negRisk": false
-  },
   "cs2-ep-enjoy-2026-04-16-game1-odd-even-total-kills": {
     "id": "1997390",
     "conditionId": "0x13561a5fc93854024ab22b7cff913b8d12049f66e5125161d8cc84e51e486bb7",
@@ -80444,16 +79954,6 @@
     "eventSlug": "cs2-auryb-cow1-2026-04-20",
     "negRisk": false
   },
-  "cs2-bojong-rt1-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2031426",
-    "conditionId": "0x599e17431dda1930dc8e8a1533fd1988806345a07a356304abcbb18ae1017890",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-bojong-rt1-2026-04-20",
-    "negRisk": false
-  },
   "cs2-dia-fcf-2026-04-20-game1-odd-even-total-kills": {
     "id": "2031429",
     "conditionId": "0x9d6c3275602cfe3925565b8b69c67441418253e20e87c8605e5001bf508fa319",
@@ -80952,16 +80452,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-the-us-confirm-that-aliens-exist-before-2027",
-    "negRisk": false
-  },
-  "cs2-old-old1-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2034770",
-    "conditionId": "0x74aa5aa141737a94d1db9b2097ff49d533cf9aaaf4e80c5914a23684a705aab0",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-old-old1-2026-04-20",
     "negRisk": false
   },
   "hailey-bieber-pregnant-in-2026": {
@@ -87914,16 +87404,6 @@
     "eventSlug": "world-cup-golden-boot-winner",
     "negRisk": true
   },
-  "will-depay-memphis-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2069653",
-    "conditionId": "0x61c25d5a2b125ef85a6e45d0b0ba533d9721f04608f55f82f9c21f705ce638c7",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-golden-boot-winner",
-    "negRisk": true
-  },
   "will-cody-gakpo-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2069654",
     "conditionId": "0x4bcc3bab5a77e2d377e5e1f96c87361b8a875d1c71a474c1b81ef1827683d2e4",
@@ -88564,16 +88044,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-iraq-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070766",
-    "conditionId": "0xcb1bcc07313aefb781b5e6426625e525d4071c93d2115a558808ef4495da50a4",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-austria-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070768",
     "conditionId": "0xbd0d83e891497ded91678ee5a6d58dede9b8f1adad52fa3e0b534359b737302c",
@@ -88937,16 +88407,6 @@
   "will-a-player-representing-norway-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070985",
     "conditionId": "0x13769b3c9e8daf0052d90385dcebb80bf28a570a8193bd5576ac73aa82909111",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-iraq-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070986",
-    "conditionId": "0x22b556f20f92db2a56096c461e400270148e02b909fedd38b408730814c77756",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -89367,16 +88827,6 @@
   "will-norway-reach-the-2026-fifa-world-cup-final": {
     "id": "2071552",
     "conditionId": "0x224488d5b8e4e454c6f7ed545bd56d3d5768b582eee6bbddf286ad5ccd8adadf",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-iraq-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071553",
-    "conditionId": "0x5e36639856ef01717c489cee6dea2e732908aec877d4b166c9cf4be1f9d175d3",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -90812,16 +90262,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-vpp-brawls-2026-04-27",
-    "negRisk": false
-  },
-  "cs2-vpp-rt1-2026-04-27-game1-odd-even-total-kills": {
-    "id": "2093079",
-    "conditionId": "0xfc194d269a428ad5496e01b9afb5d51ef830d157ea220e909d96f7ae14eba2c5",
-    "endDate": "2026-04-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-vpp-rt1-2026-04-27",
     "negRisk": false
   },
   "cs2-dia-brawls-2026-04-27-game1-odd-even-total-kills": {
@@ -94514,16 +93954,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-iraq-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116730",
-    "conditionId": "0x24ad8b74672c9b8de408c8e987044bb06b657b5958898ae46fd1f99a9361a486",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-ivory-coast-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116731",
     "conditionId": "0xa0e80240b55023071b8df73eb01ca68ce9f1f693e2051eb6fa25abeeacfb6975",
@@ -95546,16 +94976,6 @@
     "eventSlug": "world-cup-most-assists",
     "negRisk": true
   },
-  "will-aymen-hussein-record-the-most-assists-at-the-2026-fifa-world-cup": {
-    "id": "2117299",
-    "conditionId": "0xb652e70f7f48fc3a1350a53f9b86f9322decf13f3953a85018cc931971a42074",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-assists",
-    "negRisk": true
-  },
   "will-simon-adingra-record-the-most-assists-at-the-2026-fifa-world-cup": {
     "id": "2117300",
     "conditionId": "0x5fc2cd49989d158500833ba49220cfd4e4dafc0bd0febfc86eb34ef252a3f9ec",
@@ -96096,16 +95516,6 @@
     "eventSlug": "world-cup-most-goal-contributions",
     "negRisk": true
   },
-  "will-aymen-hussein-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
-    "id": "2117914",
-    "conditionId": "0x00a1f67a0d212026e17d751db55382c3380e76c8c0b1654c1a5aeaafd49781c3",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-goal-contributions",
-    "negRisk": true
-  },
   "will-sbastien-haller-record-the-most-goal-contributions-at-the-2026-fifa-world-cup": {
     "id": "2117915",
     "conditionId": "0xa3554a0fecf77c9fb9603eb2a457462c425ce710b086ceb2a5c5934ac1f2ab20",
@@ -96529,16 +95939,6 @@
   "will-alireza-beiranvand-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
     "id": "2118048",
     "conditionId": "0x86d3c738f2a1b52d9f7f1ad83c6bb743752199cef0a2cc1dc9a018768c8cd926",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-most-clean-sheets-gk",
-    "negRisk": true
-  },
-  "will-jalal-hassan-record-the-most-clean-sheets-at-the-2026-fifa-world-cup": {
-    "id": "2118049",
-    "conditionId": "0xd81d5a28856ab6539cfd9e71de8f50ba68e443fe5bb46c9f697b0ba52c1b7495",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -119653,6 +119053,606 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-perplexitys-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-high-20b-by-december-31": {
+    "id": "2300189",
+    "conditionId": "0xd759d5d02f08be750232a6e68ad517cd6c01b134f1445ef1f19d50d1613dc161",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-low-15b-by-december-31": {
+    "id": "2300191",
+    "conditionId": "0x2ba13f3056c28943af140a24344413f2bcfbe3f6963a128e78ab1166786ca747",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-perplexitys-valuation-hit-low-12pt5b-by-december-31": {
+    "id": "2300192",
+    "conditionId": "0xcefef2c0b01dbb75302f09d278d11a919a96606d88ae47125e6d04890140f3fe",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-perplexitys-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-100b-by-december-31": {
+    "id": "2300207",
+    "conditionId": "0xd6d02de93697549acc703bf174e0551384684da8d5889503bdef9d9d2e7d9313",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-75b-by-december-31": {
+    "id": "2300208",
+    "conditionId": "0x5a34fe8720846d0deb82577e13573abb296b514e0b3f381774e9b248cb999a24",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-60b-by-december-31": {
+    "id": "2300209",
+    "conditionId": "0x70a6747fadb7f4951c3276a0ec6fcbad4d0e570911c7fe628d517ef37fd2b87c",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-50b-by-december-31": {
+    "id": "2300210",
+    "conditionId": "0x58b6c2b8bfb6955fd66f4f645c04596e138dd4c9e4ce91b0bc05c4e436b83bef",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-45b-by-december-31": {
+    "id": "2300211",
+    "conditionId": "0x321d2529cf4c6efa2fd195b8bd4971d778bddbdca74e20b9ffd2dd523a56abbb",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-high-42pt5b-by-december-31": {
+    "id": "2300212",
+    "conditionId": "0xa6f2cfbc974cf3d981bbea0fbf0f777e00783e9dde79a34545b76001a07304af",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-low-40b-by-december-31": {
+    "id": "2300213",
+    "conditionId": "0x0e67d0b20697d979428fad08d20aee993b322342bcab66ab1eb7c481d8c25a42",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-low-37pt5b-by-december-31": {
+    "id": "2300214",
+    "conditionId": "0x51eadfd41576db72d98be1feeb4a75a45872ed952a3a5425376958dd6c4566eb",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-low-35b-by-december-31": {
+    "id": "2300215",
+    "conditionId": "0xfb612eb6fa7bb98f47ffd711f7c399c756763abab3a847fb247e814ddba1c2c1",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-canvas-valuation-hit-low-30b-by-december-31": {
+    "id": "2300216",
+    "conditionId": "0xb1863ec16730aefa8b8efc4d4ba7f148b38e4211d63025dddb80bb95abf30671",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-canvas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-30b-by-december-31": {
+    "id": "2300240",
+    "conditionId": "0x5d06b69414840614b8b15e9c7b78bfb1205eacf00710b5e293279be63a8a8af8",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-25b-by-december-31": {
+    "id": "2300241",
+    "conditionId": "0x36d026f8cc5ecbf3fafef7415912506bbc1d9e78290531e8fd238d0e7f1980f8",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-20b-by-december-31": {
+    "id": "2300242",
+    "conditionId": "0xedd028cf89336792e18d4083f32648bf361c6cfe9729c3e91244f07f9771404e",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-17pt5b-by-december-31": {
+    "id": "2300243",
+    "conditionId": "0x62652d209f0456b8aa860e47aa173525beec9df67dcc2d227c3c98bb32fb6688",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-15b-by-december-31": {
+    "id": "2300244",
+    "conditionId": "0xef2e2f0c487e99f5c9c7d370f4e37ac72c752d73873acc7d9478269055074b4f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-14b-by-december-31": {
+    "id": "2300245",
+    "conditionId": "0xa6930fadb08512d5f798c2d474493af6d609ba246d43966cdf11af475b139dd6",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-high-13pt5b-by-december-31": {
+    "id": "2300246",
+    "conditionId": "0x0fb63e987b28940eb8d299b466a34e5b404e0bd9a5c98df908bb55e6d00b694b",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-low-11pt5b-by-december-31": {
+    "id": "2300248",
+    "conditionId": "0x725720010ccdd170cac8120e551079a19c2c72162055fc08555093c0972a6420",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-epic-games-valuation-hit-low-10b-by-december-31": {
+    "id": "2300249",
+    "conditionId": "0x9e1905eea7558ae91df57c28e1fb488f701069c2bdf60ce1a4ed491c40d3ca75",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-epic-games-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-25b-by-december-31": {
+    "id": "2300257",
+    "conditionId": "0x436a4e37ebc0d9963b2a825a1229984298d912e3e55552cf078007d933325d6b",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-22pt5b-by-december-31": {
+    "id": "2300258",
+    "conditionId": "0x5c11b7bc6d6795e1ac7978dd4c9c4bdd1febc5ca71a5557e7b3e840127cde2d4",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-20b-by-december-31": {
+    "id": "2300259",
+    "conditionId": "0x08326cf7e498904a75d4a1dc8aad97628c675507d4ca0e22b7f1771cf77a8c84",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-17pt5b-by-december-31": {
+    "id": "2300260",
+    "conditionId": "0xddbb6162d97e648ad15ddfdf3a9628b15ce83b13d73c398ac6a02f1d672e99bb",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-15b-by-december-31": {
+    "id": "2300261",
+    "conditionId": "0x50c3a2076f39f86b6ced128f0cb8f4ff551cd372f086461612fd83d6e4a591fa",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-high-12pt5b-by-december-31": {
+    "id": "2300262",
+    "conditionId": "0x1cdf9c66acd6c4ab6fb052627a86950c4dc6773ab6b22e96b38c32cc924689bb",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-low-10b-by-december-31": {
+    "id": "2300263",
+    "conditionId": "0xf0a6cb0a03c8e0eb5e38d4edb6eb9630df6c6e835625337cd03a22fdc7bca39b",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-low-9b-by-december-31": {
+    "id": "2300264",
+    "conditionId": "0xe17e8bd9d4ea1631adcf4884eb24bd6a2af05b3494a9eb4b4f3ebdcb8bc3ce41",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-krakens-valuation-hit-low-8b-by-december-31": {
+    "id": "2300265",
+    "conditionId": "0x9d89203e4476edb62280701056a828299b7baff0482058753b1445661287b01b",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-krakens-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-15b-by-december-31": {
+    "id": "2300305",
+    "conditionId": "0x6c19fb724f2ea7cb3c00d79b396238bbe25ac228e394f5a7e1c7e116eac1ad56",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-12pt5b-by-december-31": {
+    "id": "2300306",
+    "conditionId": "0xb3927fc6635743118bfd1bf46d474eb9b1d9eafe49d0cab4e3ef66fe4bd79ad0",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-10b-by-december-31": {
+    "id": "2300307",
+    "conditionId": "0x7416249d9f39be2dc4528be0e918e4e841669d76aa7d9c31b595a2e6e6571bb0",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-high-9b-by-december-31": {
+    "id": "2300308",
+    "conditionId": "0x569398bd2efc70ca3a59b1962f2df8f0853e6168cf28283b80fbd7d783c291a3",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-low-7b-by-december-31": {
+    "id": "2300310",
+    "conditionId": "0x224ee255a8ac099dff9c0b89c9b2539af2668a4e878a5f35693e68cb560de31e",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-low-6b-by-december-31": {
+    "id": "2300311",
+    "conditionId": "0xc14e7369f59682d5b0a2ae54d3256e628ad71bc09c8d9cd42259fa6f676b128f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-lambdas-valuation-hit-low-5b-by-december-31": {
+    "id": "2300312",
+    "conditionId": "0x20b0a4eb7e7ce4054637462158e6fdf7d8e9dcedc2caa9e398b51665a98364b2",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-lambdas-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "cs2-melill-haven-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2300541",
+    "conditionId": "0x52633d5e0eaf85ab351b76ebd525f45c385ae70e818e1ec130c6887452685c05",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-melill-haven-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-melill-haven-2026-05-19-game2-odd-even-total-kills": {
+    "id": "2300543",
+    "conditionId": "0x66857c2316517a476bf6c686d8627d0b85bf0a87056f588271120797d52a5493",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-melill-haven-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-melill-haven-2026-05-19-game3-odd-even-total-kills": {
+    "id": "2300545",
+    "conditionId": "0xd039a2344c646570099b87bc0fca8f134bf173f07f74c4884d2bdf0626726e33",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-melill-haven-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-ge2-auryb-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2300733",
+    "conditionId": "0x43a974c6b0fff83b68b09e3f767ba86ffbe42fa9f7b0b99360878f90c8152268",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-ge2-auryb-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-pure-bojong-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2300823",
+    "conditionId": "0xb1c3b81a8e3c5775b2648e4398154537de4e382562bd1fe462f2bc7673214fb1",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-pure-bojong-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-newvis-b8acad-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2300826",
+    "conditionId": "0x830e21c36f1880bbbdde73add35261ce9197c737c4702af6f8148961c972439b",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-newvis-b8acad-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-brawls-pure-2026-05-19": {
+    "id": "2300828",
+    "conditionId": "0x20412da7965696f5c314f0bd73ac37fa45f29a80b74e132c37c03d4aa9c48fb2",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-brawls-pure-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-brawls-pure-2026-05-19-game1-odd-even-total-kills": {
+    "id": "2300829",
+    "conditionId": "0x5949e0897407e350728457e0db7676de1a6e82f9ee87cd2160db49a3045c6149",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-brawls-pure-2026-05-19",
+    "negRisk": false
+  },
+  "cs2-brawls-pure-2026-05-19-game1-odd-even-total-rounds": {
+    "id": "2300830",
+    "conditionId": "0x768d611a0c819109b21dfd4db07b7f333a124917f2b01a5f6d44a53e6d9e1c14",
+    "endDate": "2026-05-19",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-brawls-pure-2026-05-19",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-spread-home-1pt5": {
+    "id": "2301782",
+    "conditionId": "0x926b89aceb113072ef78ca583e8cad6817695d04fe3b22b542347f978c71a86e",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-spread-away-1pt5": {
+    "id": "2301786",
+    "conditionId": "0x14787517faac0c69a1b2624e09bdbbd33a223c89d00d326e8944fac1280576d8",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-spread-home-2pt5": {
+    "id": "2301790",
+    "conditionId": "0xa56a2711bfc4b41c69766ed591f64be02aa77cf6ccfabc6583fc53caf5708413",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-spread-away-2pt5": {
+    "id": "2301793",
+    "conditionId": "0x9cf631ce78e19cefbe403f289d408a8fb52a5c1ee49aa556097787374c85579a",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-total-0pt5": {
+    "id": "2301797",
+    "conditionId": "0xb241d7ddce44c229b9fac38792df432c2e0bb441b35a647a830ff74068c18c60",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-total-1pt5": {
+    "id": "2301800",
+    "conditionId": "0xf057fa39f7e3ee7ddbf9b7cbf9cb94953f3e8c9da5508d0cebfcea200ca8f352",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-total-2pt5": {
+    "id": "2301804",
+    "conditionId": "0xf541b38038f7dfb6bde563557c80505e487476ce1e084ef9cee2026fdc2fe21b",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-total-3pt5": {
+    "id": "2301807",
+    "conditionId": "0x4f3e4fb5fb01e461cf72780189bdba4e384e5b8743ba8209a8a563f254161101",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-total-4pt5": {
+    "id": "2301811",
+    "conditionId": "0xa2dc1030b66281dcb150687ed2f8d1a382b4afab5ac55504121a48a75077fe2a",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-total-5pt5": {
+    "id": "2301815",
+    "conditionId": "0xe774f32967d1ad3721ddaef61971e4cc1d6ceeb1eb54e9bfe0a94ada6896909c",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-blo-str-2026-06-14-btts": {
+    "id": "2301818",
+    "conditionId": "0x507db6406ff49c8b68acb971827633d4ccb8b5ea07ae3ac3ef1cfa7cb6c7cb96",
+    "endDate": "2026-06-15",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-blo-str-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-spread-home-1pt5": {
+    "id": "2301824",
+    "conditionId": "0x2ca1464e4caa6175b8eeac172ba2ad5ec84a83c5341c87b26d24c53e6dfdeabf",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
+    "negRisk": false
+  },
+  "bol1-bol-pot-2026-06-14-spread-away-1pt5": {
+    "id": "2301827",
+    "conditionId": "0x2659740b0c611fef70f2dd1e1a6b740594d9c22d291315d5bf6b0d7d2c63e7f6",
+    "endDate": "2026-06-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "bol1-bol-pot-2026-06-14-more-markets",
     "negRisk": false
   }
 }
