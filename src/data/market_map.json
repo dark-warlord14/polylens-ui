@@ -9850,16 +9850,6 @@
     "eventSlug": "which-movie-has-biggest-opening-weekend-in-2026",
     "negRisk": true
   },
-  "will-the-super-mario-galaxy-movie-have-the-best-domestic-opening-weekend-in-2026": {
-    "id": "678450",
-    "conditionId": "0xcfa7c1c371ba6a2f74a0c0d44e6a441680ed7c90080d31ea96164102327ea5fc",
-    "endDate": "2026-12-31",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "which-movie-has-biggest-opening-weekend-in-2026",
-    "negRisk": true
-  },
   "will-2026-be-the-hottest-year-on-record": {
     "id": "678686",
     "conditionId": "0xe67f4d31f0eba1b009b49d7a7739b2a5f53a2d7d979a0902b465a510492c33bb",
@@ -61331,16 +61321,6 @@
     "eventSlug": "which-nfl-players-will-be-traded",
     "negRisk": false
   },
-  "will-roger-federer-play-at-wimbledon": {
-    "id": "1632313",
-    "conditionId": "0x2b493bb4a760cc5eafa82f905aab7be22e9ae4c0793faf7cbc3c16541d88da1c",
-    "endDate": "2026-07-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-roger-federer-play-at-wimbledon",
-    "negRisk": false
-  },
   "sec-removes-quarterly-reporting-requirement": {
     "id": "1632674",
     "conditionId": "0x9d9bd8ead71da979e2ed1100476253b6beceaaac85db0751ca539d175d3e4d60",
@@ -92514,16 +92494,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-iran-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116729",
-    "conditionId": "0x6d7a62a10b865f5c7429bfb54a9be429983fb5d6d3058a5d5bd36ce64b945ded",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-ivory-coast-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116731",
     "conditionId": "0xa0e80240b55023071b8df73eb01ca68ce9f1f693e2051eb6fa25abeeacfb6975",
@@ -92537,16 +92507,6 @@
   "will-japan-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116732",
     "conditionId": "0x095c2e0e9cebe004c1847f8bd6e436e1f65702867fee67926938d104a82f9e43",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-jordan-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116733",
-    "conditionId": "0x4bcd20b46408292dae754fe903c5dc3e25d0fd05c46195d10948ab26bd692f2a",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -92594,16 +92554,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-panama-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116739",
-    "conditionId": "0x4cf86b310e437381edb9c7e923fc890e33ea9ec3a96e938cf4e352919703be98",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-paraguay-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116740",
     "conditionId": "0xc415f708f3a8f647e8e8c531a6636ded11b0c0b4437a85077d9f993575d055fc",
@@ -92624,16 +92574,6 @@
     "eventSlug": "world-cup-top-scorer-nation",
     "negRisk": true
   },
-  "will-scotland-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116744",
-    "conditionId": "0x10706bc7139d869ce4bf3e9f93e8479161c5f6ee0b708589e5f4bbd0b6dc049a",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
   "will-senegal-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116745",
     "conditionId": "0x2b64c7faa0037364c973158508dcc3643855152e770fe1dd60d5f6d8840c1184",
@@ -92647,16 +92587,6 @@
   "will-south-africa-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116746",
     "conditionId": "0x91616edf355def8b0d33ce21c12b7149c070fd4d8abe36258dc84381e3c7db1a",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-south-korea-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116747",
-    "conditionId": "0xd7fa024a38b29f4d3ffdcd5e6305f806de08f7668187bdbe598286368b921b8c",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -119623,6 +119553,76 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-mccormick-merge-with-unilever-foods-by",
+    "negRisk": false
+  },
+  "fnatic-mergeracquisition-announced-by-july-1-2026-523": {
+    "id": "2313100",
+    "conditionId": "0x91f04e402ad1304326e3dae6e19f1efb1bcdbd8d8841cb2d2f7f4ba0656bb453",
+    "endDate": "2026-09-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fnatic-mergeracquisition-announced-by",
+    "negRisk": false
+  },
+  "fnatic-mergeracquisition-announced-by-september-1-2026": {
+    "id": "2313101",
+    "conditionId": "0xeb81bba4b841a6261bd4f69d81c6fd9d53101d3a049b76f29adc7163ff8280f4",
+    "endDate": "2026-09-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "fnatic-mergeracquisition-announced-by",
+    "negRisk": false
+  },
+  "will-prabowo-subianto-cease-to-be-president-of-indonesia-by-june-30-2026": {
+    "id": "2313679",
+    "conditionId": "0x346ee8896db2b09995f7bb3f79260097ce3b0c5273cf648f1dcc937885e03d08",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "prabowo-subianto-out-as-president-of-indonesia-by",
+    "negRisk": false
+  },
+  "will-prabowo-subianto-cease-to-be-president-of-indonesia-by-december-31-2026": {
+    "id": "2313680",
+    "conditionId": "0x9cbaf6280226bb74dfaac12b5cf3746b43cbf9a6f7ce9fc27385a6d0955a98c6",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "prabowo-subianto-out-as-president-of-indonesia-by",
+    "negRisk": false
+  },
+  "will-usd-reach-19000-indonesian-rupiah-by-june-30": {
+    "id": "2314126",
+    "conditionId": "0xfdc14ac20b6fefd19e0e21e486e483991f26d49f2dc93fa0befd5673fb9f4c4f",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
+    "negRisk": false
+  },
+  "will-usd-reach-18500-indonesian-rupiah-by-june-30": {
+    "id": "2314127",
+    "conditionId": "0xe469ce35a695d5d1369310863a3abca101fca093973570fa5df29e700cf3527a",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
+    "negRisk": false
+  },
+  "will-usd-fall-to-17400-indonesian-rupiah-by-june-30": {
+    "id": "2314130",
+    "conditionId": "0xd35cdbf4902338ec6c24e1d941e03967f92bddfecacb5e9f46315de44ff64c00",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
     "negRisk": false
   }
 }
