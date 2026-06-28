@@ -419,16 +419,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-scotland-win-the-2026-fifa-world-cup": {
-    "id": "558973",
-    "conditionId": "0xf950740bc71136155d6525cc0528a582c81f88812bff227803190c32ca25f54d",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-switzerland-win-the-2026-fifa-world-cup": {
     "id": "558974",
     "conditionId": "0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c",
@@ -18416,36 +18406,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "world-cup-group-k-winner",
-    "negRisk": true
-  },
-  "will-england-win-group-l-in-the-2026-fifa-world-cup": {
-    "id": "840394",
-    "conditionId": "0xd3d833727b8191e8611862f431d5fc0286f3fbd8ac70a9b618d8377526e9bdf5",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-l-winner",
-    "negRisk": true
-  },
-  "will-croatia-win-group-l-in-the-2026-fifa-world-cup": {
-    "id": "840396",
-    "conditionId": "0xc85d79fbcab7ab6a283a2c17fb8595de79de2b2ac10afbd7a6602ddbe0626ad4",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-l-winner",
-    "negRisk": true
-  },
-  "will-ghana-win-group-l-in-the-2026-fifa-world-cup": {
-    "id": "840398",
-    "conditionId": "0x79c8ff02f4fab8be39ef267ae8ed16a03210765e686f221fe3a6811ed0b979e8",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-l-winner",
     "negRisk": true
   },
   "will-africa-win-the-2026-fifa-world-cup": {
@@ -46515,66 +46475,6 @@
     "eventSlug": "will-trump-repeal-presidential-term-limits-in-2026",
     "negRisk": false
   },
-  "cap-fdv-above-50m-one-day-after-launch": {
-    "id": "1322377",
-    "conditionId": "0x2d1fae582a392b7570e6f816303ce0fb7e3eedd2ad075d3672dfbcd14e3c6661",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-100m-one-day-after-launch": {
-    "id": "1322378",
-    "conditionId": "0xd6d564528c3d17a3cf2425067d54807a48fda0991705816af769bce54c7de792",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-150m-one-day-after-launch": {
-    "id": "1322379",
-    "conditionId": "0x7553ea24e9475665abd5b2f04c513d1f71456e06d23b66530c1dc7b58211ea14",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-250m-one-day-after-launch-224": {
-    "id": "1322380",
-    "conditionId": "0x198e2ff99d1eea57a7bebb8c55e7e738518c7631d252df65864b6bf61085e6dd",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-500m-one-day-after-launch-676": {
-    "id": "1322381",
-    "conditionId": "0xf130d32c62f81f79b0eaacc82723b284c79758573e9ae3f7a5c0330c38dd5bff",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-800m-one-day-after-launch-714": {
-    "id": "1322382",
-    "conditionId": "0x13741fbc73fb8fe44d3cc4e8ce1f38d50d0a3afeb76aff5a8195071dd54a2342",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
   "will-trump-launch-a-coin-by-january-31-637-684": {
     "id": "1323001",
     "conditionId": "0x3e531a2beecc6a9bd1b088998133749c3e41e57ed3c44694d93b5de8f1169c90",
@@ -51093,36 +50993,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-trump-wear-a-yarmulke-in-2026",
-    "negRisk": false
-  },
-  "cap-fdv-above-1b-one-day-after-launch-381": {
-    "id": "1363511",
-    "conditionId": "0x3708f8525325f25887d7b87df0b70c141bd0e2c77bd698e2663e6ee6c21614a8",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-2b-one-day-after-launch-361": {
-    "id": "1363512",
-    "conditionId": "0x461326cb0bb11e73a44f944b194068466c8f09aad46de68e38fdddc2a1cf6f90",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
-    "negRisk": false
-  },
-  "cap-fdv-above-4b-one-day-after-launch-669": {
-    "id": "1363513",
-    "conditionId": "0x4ac65964b7cebf0aec2bb6d7034188352b37f3a1fb33e71f0b5f278b85eee4d7",
-    "endDate": "2028-01-01",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cap-fdv-above-one-day-after-launch",
     "negRisk": false
   },
   "nothing-ever-happens-satoshi-nakamoto": {
@@ -71515,126 +71385,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-pan-eng-2026-06-27-pan": {
-    "id": "1897415",
-    "conditionId": "0xb53a439c60d979f1c19108b263d97419e0a6ea99eb71ce08cfc0e459622e71cc",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-pan-eng-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-pan-eng-2026-06-27-draw": {
-    "id": "1897416",
-    "conditionId": "0x099d12093a6214e2dea67296c11dad775d0b3038c413731112a1c52ebd362adc",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-pan-eng-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-pan-eng-2026-06-27-eng": {
-    "id": "1897417",
-    "conditionId": "0x7a582647d279d70223a8cfce98451ef6ecbe2e574f24b7dda17be7f65b387c20",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-pan-eng-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-hrv-gha-2026-06-27-hrv": {
-    "id": "1897423",
-    "conditionId": "0x2cc359648ba6695498c169ceaa44c5444e0479102c453289c47ed9489e7f3e93",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-hrv-gha-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-hrv-gha-2026-06-27-draw": {
-    "id": "1897425",
-    "conditionId": "0x4b38300fb27196d5ca73ae2cca3d601e107cf305e00358d64b2cdeb712eb5c5d",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-hrv-gha-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-hrv-gha-2026-06-27-gha": {
-    "id": "1897427",
-    "conditionId": "0x137ae42a26fde276b0fced88f502e88a67da8e6acbc2ff8760b7e24d99234192",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-hrv-gha-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-col-prt-2026-06-27-col": {
-    "id": "1897432",
-    "conditionId": "0xfbcdae24669153e811b86329a4adb56689b590845b02fd0c16e7b1826c863034",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-col-prt-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-col-prt-2026-06-27-draw": {
-    "id": "1897433",
-    "conditionId": "0x8765cc2b3c75089a9c5de8d12d52274857a2e573a9726bc023faa2a046340fac",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-col-prt-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-col-prt-2026-06-27-prt": {
-    "id": "1897435",
-    "conditionId": "0x597e0e209cef883bb95c6905f07d8066c3ef35652087d3611c43b93f0ed237c2",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-col-prt-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-cdr-uzb-2026-06-27-cdr": {
-    "id": "1897437",
-    "conditionId": "0x26c84897f375ef75367a1fea2bcf3a1601950962c9424f8635b966cc5d9ff4ba",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cdr-uzb-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-cdr-uzb-2026-06-27-draw": {
-    "id": "1897438",
-    "conditionId": "0x57dac5b6332f3d53233950105e7768575e511d90338f3f7be5ce993f424675a7",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cdr-uzb-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-cdr-uzb-2026-06-27-uzb": {
-    "id": "1897439",
-    "conditionId": "0x86fc22f4d262b93a4ea5f28a6c750cde3130dd86f2662fb6641c06b2861eab47",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-cdr-uzb-2026-06-27",
-    "negRisk": true
-  },
   "fifwc-jor-arg-2026-06-27-jor": {
     "id": "1897440",
     "conditionId": "0x26b822b926feab4068f42bf2d0750fb8a65e09462c8edf1159275c2a116081ea",
@@ -74224,26 +73974,6 @@
     "eventSlug": "cs2-vpf-z7-2026-04-13",
     "negRisk": false
   },
-  "cs2-zotix-dia-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967027",
-    "conditionId": "0xdfb280858da0ff45e5f926dcd4a46cca8b452c19398f43b7b712086258cab41b",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-zotix-dia-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-clutch1-qua1-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967073",
-    "conditionId": "0xaead2013c61214ac1a130dbab405774b66d3136296ae5e426838319e8aa41f3b",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-clutch1-qua1-2026-04-13",
-    "negRisk": false
-  },
   "cs2-ep-old-2026-04-13-game1-odd-even-total-kills": {
     "id": "1967076",
     "conditionId": "0x23595187201b4a281a72fd7aa4272ec75f248596021fab007aca221aa4ce3fca",
@@ -74252,26 +73982,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-ep-old-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-jumbo-xi-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967136",
-    "conditionId": "0x4f97e6e449150c4fe7d4623034c5ce34ada09cbe86846822541ca7c42ac93de7",
-    "endDate": "2026-04-13",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-jumbo-xi-2026-04-13",
-    "negRisk": false
-  },
-  "cs2-zotix-fcf-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967145",
-    "conditionId": "0xdbf2d80940a0582d897f841c472fdb7b9e2e2a3eac0ad6bd680cbf5b3bd8d65b",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-zotix-fcf-2026-04-13",
     "negRisk": false
   },
   "will-apple-stop-selling-macbook-neo": {
@@ -75274,36 +74984,6 @@
     "eventSlug": "cs2-mis-auryb-2026-04-14",
     "negRisk": false
   },
-  "cs2-xi-fcf-2026-04-14-game1-odd-even-total-kills": {
-    "id": "1978418",
-    "conditionId": "0x734fe1ad8762313c1424ba2bad0b631782ebc7b241c15cb693822e77d9bea192",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-xi-fcf-2026-04-14",
-    "negRisk": false
-  },
-  "cs2-old-auryb-2026-04-14-game1-odd-even-total-kills": {
-    "id": "1978431",
-    "conditionId": "0xc30e0da9ef47255193e3b6823ad83ebcc5895f3e19c3729511df1b4b37b9a24d",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-old-auryb-2026-04-14",
-    "negRisk": false
-  },
-  "cs2-old-auryb-2026-04-14-game1-odd-even-total-rounds": {
-    "id": "1978433",
-    "conditionId": "0x297be438713b45f1269a9edae2edd2c5532585d04dd1a97529ad8a179a762d1a",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-old-auryb-2026-04-14",
-    "negRisk": false
-  },
   "dota2-l1ga-bb4-2026-04-14-game4-ends-in-daytime": {
     "id": "1980438",
     "conditionId": "0x0c4778b5b183bae871167445fc8711c654ce1d453ea81ffe17ed5492f5c63a8a",
@@ -76292,16 +75972,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-old1-hin-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-clutch1-bg1-2026-04-15-game1-odd-even-total-kills": {
-    "id": "1989716",
-    "conditionId": "0x7d175da91c30f49831cdec8fdb0bfd763c75cd3d215562e0514660940f3e730b",
-    "endDate": "2026-04-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-clutch1-bg1-2026-04-15",
     "negRisk": false
   },
   "cs2-cad-csgopo-2026-04-15-game1-odd-even-total-kills": {
@@ -79562,16 +79232,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-nic1-lph-2026-04-20",
-    "negRisk": false
-  },
-  "cs2-zotix-clutch1-2026-04-20-game1-odd-even-total-kills": {
-    "id": "2031419",
-    "conditionId": "0x62c7b6379d04c49fee7e632442b804df95e09f0df14b3f1f0894b0cfde98d71b",
-    "endDate": "2026-04-21",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-zotix-clutch1-2026-04-20",
     "negRisk": false
   },
   "cs2-dia-fcf-2026-04-20-game1-odd-even-total-kills": {
@@ -87524,16 +87184,6 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-scotland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070741",
-    "conditionId": "0x73f6028060ff88ff0369307f2c45dde79a5e7d7c437c4987638def21d065bac7",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-iran-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070756",
     "conditionId": "0xc2fcce9165ac160807304db5dc0ec730dfd6d17c02a23c0dafce10a471833725",
@@ -87564,29 +87214,9 @@
     "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
     "negRisk": false
   },
-  "will-uzbekistan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070773",
-    "conditionId": "0x77cdf10e0cbddb64775d735d882925631edcdbf84f23316e23d0d4be83636b30",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-dr-congo-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
     "id": "2070774",
     "conditionId": "0xf53b6c5f8c269fb2c6fe8547a8356b6d57084a5d15502672165be922d58c46d6",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-croatia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070776",
-    "conditionId": "0x339817a52eeb97cc6cf99afee47a61dbc83244a4266a947d19f9b21aa9d7bbd3",
     "endDate": "2026-06-28",
     "closed": false,
     "active": true,
@@ -87667,16 +87297,6 @@
   "will-a-player-representing-morocco-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070960",
     "conditionId": "0xabe572cb5aa6814e99f71822fb0b5aea9f02d89c4ab74b16c0e636a24adf692f",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-scotland-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070961",
-    "conditionId": "0x72d077e7101351d9392e694e2078f7803e24ba5815c22259b2ded966c85f0671",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -88057,16 +87677,6 @@
   "will-morocco-reach-the-2026-fifa-world-cup-final": {
     "id": "2071527",
     "conditionId": "0xaeef597d962f131d0ae56979d8697a81b670e2cfc22bcc7fe24f40ea9d2b430a",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-scotland-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071528",
-    "conditionId": "0x691ab9d1e155569f27803beb23f36bf8de726d30156f211b6d4f2e64fe637827",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -97675,26 +97285,6 @@
     "acceptingOrders": true,
     "eventSlug": "will-tucker-carlson-announce-presidential-run-by-june-30",
     "negRisk": false
-  },
-  "will-montpellier-win-the-2026-top-14-final": {
-    "id": "2134657",
-    "conditionId": "0xec72d75ca4418811475d37030723c086183686acd68e2387e29bdeca7a7f5b78",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "french-top-14-winner",
-    "negRisk": true
-  },
-  "will-toulouse-win-the-2026-top-14-final": {
-    "id": "2134663",
-    "conditionId": "0x1408f3c90489ab8cf7c707328555a17e1baf38cd6fd862c93c79f8ea33d386b6",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "french-top-14-winner",
-    "negRisk": true
   },
   "cs2-pitsto-hec-2026-05-02-game1-odd-even-total-kills": {
     "id": "2136588",
@@ -119637,5 +119227,402 @@
     "acceptingOrders": true,
     "eventSlug": "mlb-the-show-27-cover-athlete",
     "negRisk": false
+  },
+  "will-juan-soto-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304458",
+    "conditionId": "0x6f3bc7c6f7a7c288b94b859a119b8f7f9db445d68e1680a265f353acc1f2eee9",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-vladimir-guerrero-jr-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304459",
+    "conditionId": "0xe5ad9e494b916754e1b6a3ce6e045e9bba9734fb5edd6b17678e74b592c0bb80",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-christian-yelich-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304460",
+    "conditionId": "0xe5c6691a569db1e4d13caf4a41dc9589ef05ec7ab61c493a744d59cb780c7c88",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-cal-raleigh-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304461",
+    "conditionId": "0xb4ca3dd436f546421d2f9a8f630dc025de6fa3def01ee19e804633dd8d664acd",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-roman-anthony-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304462",
+    "conditionId": "0x509e72b08ff3142af5a4b5e801fe9df75cb4ee83a77f471b831e42b737469e8e",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-francisco-lindor-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304463",
+    "conditionId": "0x9c040b103e7b0745f673722f775414210569a25b782c163689d45a5cbb61e276",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-ronald-acua-jr-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304464",
+    "conditionId": "0xf3203acd135ead81f8449042c20490fc16a5440e02e958ba19bd8b9b2b84eca1",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bobby-witt-jr-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304465",
+    "conditionId": "0x277db9ee28ef69120bf70b3d060293a5febd73a1ac3185df9952798cbce638f7",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-matt-olson-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304466",
+    "conditionId": "0x5a3bbb5d1e0725d8592529afe787e5241df7ea4842e1a8a77cfa032405de81b5",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-junior-caminero-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304467",
+    "conditionId": "0x9832cf24ecef68b374287b8cd3f3b84c4656e03d9208feec3e9e296d77c86376",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-julio-rodriguez-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304468",
+    "conditionId": "0xf7186044861a1a19ebfa781178d9636082fd22f2aa25b52e66c65bf2e761bb0d",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-chris-sale-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304469",
+    "conditionId": "0x7aa0c4cc3b79a8465ebb36145dcfb5988d68f31c55d0b956f66aef6e7ba2c21d",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "will-bryan-woo-be-on-the-cover-of-mlb-the-show-27": {
+    "id": "2304470",
+    "conditionId": "0x4664d18be5edaac3969f30783bb3ac321f3608139f514018d7df5ba133afb5aa",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "mlb-the-show-27-cover-athlete",
+    "negRisk": false
+  },
+  "openai-vs-meta-higher-valuation-on-december-31": {
+    "id": "2304478",
+    "conditionId": "0x0318c411962a540ec4beb080f43e9a3de7788b8a3cbf77fcec9fdfe25f224273",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "openai-vs-meta-higher-valuation-on-december-31",
+    "negRisk": false
+  },
+  "cs2-lph-mana-2026-05-20-game1-odd-even-total-kills": {
+    "id": "2304523",
+    "conditionId": "0xded44ee5e70573da138d896852e83878fa92ec9b4f261e7164081bab4b3065af",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-mana-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-lph-mana-2026-05-20-game2-odd-even-total-kills": {
+    "id": "2304525",
+    "conditionId": "0x32afdbd000441377e8c952ff3f9ffc600bcf90bfab3f729ae11a89c6148f23a5",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-mana-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-lph-mana-2026-05-20-game3-odd-even-total-kills": {
+    "id": "2304527",
+    "conditionId": "0xd51d371cf579e701aed85687384d853d44ca25eb36f93911eb609e61f78865bd",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-lph-mana-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-algo1-inf1-2026-05-20-game1-odd-even-total-kills": {
+    "id": "2304534",
+    "conditionId": "0xd0f38ea2dcf8ed4171e1857496c742dba77100a0b9fbb73d0057e0688b0cddaa",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-inf1-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-algo1-inf1-2026-05-20-game2-odd-even-total-kills": {
+    "id": "2304536",
+    "conditionId": "0x399f525b27187d0ca8534e9f735bd218da4e371dd7195009b230ef04adbf22ff",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-algo1-inf1-2026-05-20",
+    "negRisk": false
+  },
+  "will-hunter-biden-announce-a-delaware-senate-run-by-july-14": {
+    "id": "2305108",
+    "conditionId": "0xe898bef41657761a10a19810aded573eff23ce7a8e88b74d9c1d1ceec2fec7d6",
+    "endDate": "2026-07-14",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-hunter-biden-announce-a-delaware-senate-run-by-july-14",
+    "negRisk": false
+  },
+  "will-anduril-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305303",
+    "conditionId": "0x51aa2f4f1f861608ac592d93da974e86a232caa0cf08e1a1a7d4a3420110729b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-anthropic-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305304",
+    "conditionId": "0xfff5e5e5e3f1164fc46b6ca345c4b21db84a0d8a657d90a0e2d3d0d8c47d2d1a",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-canva-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305305",
+    "conditionId": "0xe8a33af1327b69d50b464860cb1097b629c0020d2ca2cb31b9bb3cc190578363",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-databricks-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305306",
+    "conditionId": "0x0037bbdff26fb529ab5675590da67c254068da33fd86c73de894ffe36f7b6e33",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-epic-games-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305307",
+    "conditionId": "0xea30fcd9f95e6a6605d66ff75849620358dad5e9f374944f9f3ff4c1e6c2e71c",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-kraken-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305308",
+    "conditionId": "0x36a49bb12658f6f5c9a01367ca15a7ca6a0aad6da68498a5c134527da3e908b0",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-lambda-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305309",
+    "conditionId": "0xccb18656a9e22a15c77d3b2e0befb2b1a467587111634ac0a38e18cf7d858f35",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-neuralink-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305310",
+    "conditionId": "0xc84e293d4aa0d1a2490197b7f6e959ff102adc9b3a0be725bf9ae44c8c22c10b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-openai-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305311",
+    "conditionId": "0xb168f6a1a7237183b704e631d7c63b5570ed4bf3f8ea0dd183481c1c3e357d59",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-perplexity-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305312",
+    "conditionId": "0xaf04310cdf3319e63f3a52caab778c446de9f3f204ce3959f9f881647c7826c7",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-spacex-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305313",
+    "conditionId": "0x4a8856bc27df2111005df39831891deeb2849cd2f865fcc8403366669d9bbdbe",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-stripe-have-the-second-highest-private-market-valuation-on-june-30": {
+    "id": "2305314",
+    "conditionId": "0xbf865313adf8e4093bd190d64ea4414da187b755d1290e39b3b7daadb15e17af",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "2nd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-anduril-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305329",
+    "conditionId": "0xdff41ca589121ddcebe14d1ec198781cff0d5ee4d0eb3c94eb37c6c5d8b663fc",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-anthropic-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305330",
+    "conditionId": "0x2b3deeaecfd9681bd7e6e8cd638ca0c4a052c14fe23a4c95e642580c0de376a0",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-canva-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305331",
+    "conditionId": "0x4f6bd77dce2c103568bef194986137851cff0e6a1e7effd12d0cc48e962f738b",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-databricks-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305332",
+    "conditionId": "0x217a0bd1e19a477e595cac9245205133b9ba4a47bab48faa0273e271fa273744",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-epic-games-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305333",
+    "conditionId": "0x09a2674defa00bcfa9e1fe0cc5cc7a5b29196ffbf56311c98b1b8e418c3ef47f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-kraken-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305334",
+    "conditionId": "0x4462d91bb2ed8b7f3b0341ec3a197e3b0cfe36aa4c815754794c386780432f98",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-lambda-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305335",
+    "conditionId": "0xcc01b67f30b0456157529dd43ab98db4eafe1be4ef8a9af4450e7093b4b53f0d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-neuralink-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305336",
+    "conditionId": "0xf829a33dbf7bed2fc8fc4223eac920696a9e02519a8f502296a27a1388af2c6f",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-openai-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305337",
+    "conditionId": "0xd19a8d016656a688967c7a2b23875fdaca201472a592239d36eb2e034662812d",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
   }
 }
