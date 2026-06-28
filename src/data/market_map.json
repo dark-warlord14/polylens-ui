@@ -309,36 +309,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-iran-win-the-2026-fifa-world-cup-788": {
-    "id": "558959",
-    "conditionId": "0x84edef36bded182da6a395ac6c785dba8f3e09b6c5ad041385b2042536cbef25",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
-  "will-uzbekistan-win-the-2026-fifa-world-cup-773": {
-    "id": "558960",
-    "conditionId": "0x965ebc5d79eb1ec02cad67245a44b9e45b33359018f013fb6cf81d5bbf7bcc8d",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
-  "will-south-korea-win-the-2026-fifa-world-cup-485": {
-    "id": "558961",
-    "conditionId": "0x65307f30dce84ac35e41813035d3c04933da830dc4efbbb2fcdc4b282700ef3b",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-morocco-win-the-2026-fifa-world-cup-464": {
     "id": "558963",
     "conditionId": "0x37a6de1b21803e5f3fb1965116218215d79963af4f7e51659696366267a63a03",
@@ -18388,26 +18358,6 @@
     "eventSlug": "world-cup-group-c-winner",
     "negRisk": true
   },
-  "will-portugal-win-group-k-in-the-2026-fifa-world-cup": {
-    "id": "840171",
-    "conditionId": "0x4795571ed1c6992ca07b6d34853d07d07ef4977b892660b4205cd2f3752c4826",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-k-winner",
-    "negRisk": true
-  },
-  "will-colombia-win-group-k-in-the-2026-fifa-world-cup": {
-    "id": "840174",
-    "conditionId": "0x881c23cb7b27ca775bfc550550ee94e6dc980a1b4dff7ca7f6f5f24e95bff060",
-    "endDate": "2026-06-27",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-group-k-winner",
-    "negRisk": true
-  },
   "will-africa-win-the-2026-fifa-world-cup": {
     "id": "840927",
     "conditionId": "0xd71197329e1145258b960c36269870229ee816b0aa089e8f1b64ea196d7e2d08",
@@ -24576,176 +24526,6 @@
     "acceptingOrders": true,
     "eventSlug": "eth-updown-5m-1766163900",
     "negRisk": false
-  },
-  "will-bill-cassidy-be-the-republican-nominee-for-senate-in-louisiana-231": {
-    "id": "969677",
-    "conditionId": "0x850dcf3f4eb3cab5fcf014de53c89f6139965b0ed6a91a25194b91ed3d078fc2",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-julie-emerson-be-the-republican-nominee-for-senate-in-louisiana-517": {
-    "id": "969678",
-    "conditionId": "0xe68a6a9012306744a733df13344757b3ac6cfb31f59e77a10b748f639d52d53e",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-john-fleming-be-the-republican-nominee-for-senate-in-louisiana-818": {
-    "id": "969679",
-    "conditionId": "0x5ebe9ecaaf198820b277ed929a31f57c7993f5855baf54dcd00e4d9fcd89e22e",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-blake-miguez-be-the-republican-nominee-for-senate-in-louisiana-936": {
-    "id": "969680",
-    "conditionId": "0xa79975dfc1a63e2b9b8defce6a54a48f0bc228f5f7a8b159d8f6243e7092bd98",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-kathy-seiden-be-the-republican-nominee-for-senate-in-louisiana-122": {
-    "id": "969681",
-    "conditionId": "0x95985809ac4f79b96fca1a421ceb9fd85385c7f0a03fb1afefb27fef9982fe1b",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-eric-skrmetta-be-the-republican-nominee-for-senate-in-louisiana-813": {
-    "id": "969682",
-    "conditionId": "0xeab602a74d793c70d393e1ba201257e6cb9ea655191aa2823da42ce487378486",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-samuel-sammy-wyatt-be-the-republican-nominee-for-senate-in-louisiana-862": {
-    "id": "969683",
-    "conditionId": "0xa35e8cc5b0a7e0db0bac826bf90dfa550df050a3559e7265d32cdfe1971916d3",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-randall-arrington-be-the-republican-nominee-for-senate-in-louisiana-876": {
-    "id": "969684",
-    "conditionId": "0x222efb8dc10927cc937201258d07dd5e9e82aef30b2c7f90913c4d583ea669d5",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-tracy-dendy-be-the-republican-nominee-for-senate-in-louisiana-973": {
-    "id": "969685",
-    "conditionId": "0x732e817a9be71446f7247d133f85ff324e820e1333e5904f28cc30e42ef3d7f3",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-chris-holder-be-the-republican-nominee-for-senate-in-louisiana-892": {
-    "id": "969686",
-    "conditionId": "0x2b3d819036efe81a8588fc1cdd9a8cf1ecc218367ff687b30f560ec3d08e7c25",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-xan-john-be-the-republican-nominee-for-senate-in-louisiana-555": {
-    "id": "969687",
-    "conditionId": "0xef6424d3bc9205df70dc30f96d726c59fce2234ee2ac3b13ab107a1edf7e7a24",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-julia-letlow-be-the-republican-nominee-for-senate-in-louisiana": {
-    "id": "969689",
-    "conditionId": "0x9c4c7199fbf5ff25547c254ed3dddb63e93840f566c2bf5bc1680cc4dfa41b6b",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-republican-senate-primary-winner-889",
-    "negRisk": true
-  },
-  "will-tracie-burke-be-the-democratic-nominee-for-senate-in-louisiana-612": {
-    "id": "969726",
-    "conditionId": "0x381d4dbc31885a6d2af5cd3561324c0b1c37712c2e65418bc06d36e3110f42ea",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jamie-davis-jr-be-the-democratic-nominee-for-senate-in-louisiana-265": {
-    "id": "969727",
-    "conditionId": "0xf7327ee0a2475c2c9b4a1ac7bb4e1b49fce57c2a33ebf704e03630ec800f2944",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-jabarie-walker-be-the-democratic-nominee-for-senate-in-louisiana-251": {
-    "id": "969728",
-    "conditionId": "0x05fe39436e185afa9ab4de08d983589eef289f5cc5ea1b8cb75a032c56d13855",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-nick-albares-be-the-democratic-nominee-for-senate-in-louisiana": {
-    "id": "969730",
-    "conditionId": "0x51531de8c91851327a5c941d89c5b6210f507536e55f64d337995bf14dc204c0",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-democratic-senate-primary-winner",
-    "negRisk": true
-  },
-  "will-gary-crockett-be-the-democratic-nominee-for-senate-in-louisiana": {
-    "id": "969731",
-    "conditionId": "0x7040165f58c3f972d5c861df3061e2a1f0f18e830e58f055e082362e8451115d",
-    "endDate": "2026-05-16",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "louisiana-democratic-senate-primary-winner",
-    "negRisk": true
   },
   "will-kent-benham-win-the-republican-primary-for-us-senate-in-michigan-625": {
     "id": "969760",
@@ -71385,66 +71165,6 @@
     "eventSlug": "hamad-bin-isa-al-khalifa-out-as-bahrain-king",
     "negRisk": false
   },
-  "fifwc-jor-arg-2026-06-27-jor": {
-    "id": "1897440",
-    "conditionId": "0x26b822b926feab4068f42bf2d0750fb8a65e09462c8edf1159275c2a116081ea",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jor-arg-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-jor-arg-2026-06-27-draw": {
-    "id": "1897441",
-    "conditionId": "0x7815af57ea657fd0442932a788988b7f6c219a46903e4bce678981b801daf8a4",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jor-arg-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-jor-arg-2026-06-27-arg": {
-    "id": "1897442",
-    "conditionId": "0xb465c0d920be7fa9413909befc3989247de10a1d4feca2621bb36f9a62191a12",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-jor-arg-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-alg-aut-2026-06-27-alg": {
-    "id": "1897443",
-    "conditionId": "0x7806f3a191784bfedb4bb3d99db890d05a834e413a50ecbf6893f7926089e45b",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-alg-aut-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-alg-aut-2026-06-27-draw": {
-    "id": "1897444",
-    "conditionId": "0xd6a5a44e8105c4808ba09d19bce444b22b883330fd6e23e5661988b3583a9d4c",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-alg-aut-2026-06-27",
-    "negRisk": true
-  },
-  "fifwc-alg-aut-2026-06-27-aut": {
-    "id": "1897445",
-    "conditionId": "0xca1f4760e175d71d1c7677dbc56a1856dc2cee6a4d8de8275a16dbca716afd24",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "fifwc-alg-aut-2026-06-27",
-    "negRisk": true
-  },
   "will-bill-hagerty-be-the-democratic-nominee-for-senate-in-tennessee": {
     "id": "1898575",
     "conditionId": "0x4f5333afc3d56a2b4d571dc029684c46e66c6d73f11eb95ac12b2d0cae325d68",
@@ -87174,69 +86894,9 @@
     "eventSlug": "bol1-ant-abb-2026-05-22",
     "negRisk": true
   },
-  "will-south-korea-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070732",
-    "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-iran-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070756",
-    "conditionId": "0xc2fcce9165ac160807304db5dc0ec730dfd6d17c02a23c0dafce10a471833725",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-austria-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070768",
-    "conditionId": "0xbd0d83e891497ded91678ee5a6d58dede9b8f1adad52fa3e0b534359b737302c",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-algeria-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070769",
-    "conditionId": "0xa8cc82d418a2a52f1a8af46d00f8b87353b1926b1e59add939946c195e8f541f",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
-  "will-dr-congo-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup": {
-    "id": "2070774",
-    "conditionId": "0xf53b6c5f8c269fb2c6fe8547a8356b6d57084a5d15502672165be922d58c46d6",
-    "endDate": "2026-06-28",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-team-to-advance-to-knockout-stages",
-    "negRisk": false
-  },
   "will-a-player-representing-mexico-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070951",
     "conditionId": "0x48b93b20ce0397bdea3f3984c25459c19d3bfcd1f44fdc64bddb72544fb1db6b",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-south-korea-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070952",
-    "conditionId": "0x1e2ff2eff677b915dbbe4e06186cea961cf795f2b3b04acd954232f6ffb7353b",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -87404,16 +87064,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-a-player-representing-iran-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070976",
-    "conditionId": "0xd15196f30f746ff5f1ea706a41293da6467b4737a2ee71587911189fef07a7e4",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
   "will-a-player-representing-egypt-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070977",
     "conditionId": "0x4e0f5532f5126f3766e1bb00831303812f63c6b7dc9b95b63c43eca5f6c5c7de",
@@ -87504,16 +87154,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-a-player-representing-jordan-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070990",
-    "conditionId": "0x5ea07327595583f3f5bc63fd098769ca7f3f893aa66ee8109acdb9bef2c6e716",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
   "will-a-player-representing-portugal-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070991",
     "conditionId": "0xc28a6b9da9a853118901950ccffb69caffe21982678be46236b420a42f105ad6",
@@ -87527,16 +87167,6 @@
   "will-a-player-representing-colombia-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070992",
     "conditionId": "0x42d914519f9636b4216d91a3cc90a55507fb334dd08e23930dc165b64a7851c8",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
-  "will-a-player-representing-uzbekistan-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070993",
-    "conditionId": "0x28864e2c8f77312e79a34bc106c40e2ad73e33a07cbb2324d8f8c48ef79fed2f",
     "endDate": "2026-08-20",
     "closed": false,
     "active": true,
@@ -87607,16 +87237,6 @@
   "will-mexico-reach-the-2026-fifa-world-cup-final": {
     "id": "2071518",
     "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-south-korea-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071519",
-    "conditionId": "0x50aa90e1d6657519c4f9f931e9374cfb6d1dd24dc6bb8d3c9680dba6efd9c9e3",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -87784,16 +87404,6 @@
     "eventSlug": "world-cup-nation-to-reach-final",
     "negRisk": false
   },
-  "will-iran-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071543",
-    "conditionId": "0xea49f13c399b5fb91cbf90a52a0798b9bb5c26d72935ae6d35a9a2cf521d16df",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
   "will-egypt-reach-the-2026-fifa-world-cup-final": {
     "id": "2071544",
     "conditionId": "0x4b28dd865163ffc0f1901a7b547c4c40b3d17d14fdd67f90ef13ad38bdecba01",
@@ -87897,16 +87507,6 @@
   "will-colombia-reach-the-2026-fifa-world-cup-final": {
     "id": "2071559",
     "conditionId": "0x275d4fd1c7422fedb53dff0a97bf422a0255d289e527105cdef3357b83f64e29",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-uzbekistan-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071560",
-    "conditionId": "0x5a59b33ae24f5549ad3711071a4764e279f4d7fb488190ad4495d5b573b4f116",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -93137,16 +92737,6 @@
   "will-united-states-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116753",
     "conditionId": "0xe441df14890b26343247abe2eabc9bf7ecd219fcbbcdfbc002bc7c43225c6d48",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-uzbekistan-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116755",
-    "conditionId": "0xb8725b7942778f8c859f88cf453e12d0a8cfc24ebfcb7d3a44c7da8cf555c0b4",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -119624,5 +119214,415 @@
     "acceptingOrders": true,
     "eventSlug": "largest-private-company-end-of-june",
     "negRisk": true
+  },
+  "will-perplexity-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305338",
+    "conditionId": "0x049eb5a85d41cb3c6776d0816055f1097d67f452a20dc85d9554baff8f077cad",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-spacex-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305339",
+    "conditionId": "0x422d727e7a42839fca2d96d76238b8e654fea0f73deeb3ff0f0c52ee43545b07",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-stripe-have-the-highest-private-market-valuation-on-june-30": {
+    "id": "2305340",
+    "conditionId": "0xe2dc8ca0e060cc76df280030cde75a6102b91e787247e4bf81895991a39cf7bb",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-anduril-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305368",
+    "conditionId": "0x34038f6b19d0e424e7fe33482672910d0d52bc25f9aef460ac129d806c6c61f0",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-anthropic-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305369",
+    "conditionId": "0x65a69d96a0536dc646b25f4b1d77c885d90b69ad8de6890eee3ddecca32f157e",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-canva-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305370",
+    "conditionId": "0x92b85e388e9720de0498e35dcde99a58ffa38aecab7bb74fea819d1a4787e8d5",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-databricks-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305371",
+    "conditionId": "0x5e7fc7350532530dfb11c485f9797770fd43cd780300bbca41afa26bce9e3373",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-epic-games-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305372",
+    "conditionId": "0x61a41e6d911a3686f41c33b68043947b12a6bcc9c9fcd3c4b715a98632f701b8",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-kraken-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305373",
+    "conditionId": "0xfa1134946e57577516b7a17b90594dfc3e0bd1c82b6d12e3ff0583d6256e8452",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-lambda-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305374",
+    "conditionId": "0x05e2cc567fada79ed1af73c41bfdd8b356469f74d566ed9f8b2eea856241c284",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-neuralink-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305375",
+    "conditionId": "0x4052c15518dc09a492dfd8d16d954cb020ef5532e7f90dfb28ae3e95fa28fe84",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-openai-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305376",
+    "conditionId": "0xc6d7f78bab262f337103c8377ab2346f9d8fbc2adcaf8a510c44060aea3e1d24",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-perplexity-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305377",
+    "conditionId": "0x9c45be6a430ef82c0d72eab06af367be5538e3cbcfe36ad094c6fda8821dd104",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-spacex-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305378",
+    "conditionId": "0xf25e0a287644f85c5e476c5024bfa0c20ce3f5a08220ab4c8953931238fb7573",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-stripe-have-the-third-highest-private-market-valuation-on-june-30": {
+    "id": "2305379",
+    "conditionId": "0x206a65263423e3bd62a122381d97817fc8e6b70a2b6822ea715cce28f4975728",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "3rd-largest-private-company-end-of-june",
+    "negRisk": true
+  },
+  "will-jos-luis-rodrguez-zapatero-be-arrested-by-june-30": {
+    "id": "2305408",
+    "conditionId": "0xb8a4f22f360b7d81e2c7b7f874696552d5999d25b130c5f424243cf8e6918b3c",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-jos-luis-rodrguez-zapatero-be-arrested-by-june-30",
+    "negRisk": false
+  },
+  "itf-kashyap-colalan-2026-05-20": {
+    "id": "2306424",
+    "conditionId": "0x525a9236e142e73f1d5bc3497eb870e0c4d799a83ed908b3b81f8503b13b2876",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "itf-kashyap-colalan-2026-05-20",
+    "negRisk": false
+  },
+  "itf-kashyap-colalan-2026-05-20-completed-match": {
+    "id": "2306426",
+    "conditionId": "0x3d841c103da65c3370c3bc34b81941ba407a117e89382e1eb6d69ae7c9c96d4d",
+    "endDate": "2026-05-27",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "itf-kashyap-colalan-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-am-fal-2026-05-20-game3-odd-even-total-kills": {
+    "id": "2307299",
+    "conditionId": "0x212242884ac41037638750dd0a98dfa663ea1bf31b8240f113636c6bbd6888e1",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-am-fal-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-am-fal-2026-05-20-game3-odd-even-total-rounds": {
+    "id": "2307300",
+    "conditionId": "0xf5751e26eb13f30f2bed5d4a98b131a60b40226fe3a3357a6a18abfbf6f2a2fe",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-am-fal-2026-05-20",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-4pt0t-by-december-31": {
+    "id": "2307824",
+    "conditionId": "0xb2140927d199c1f224b3485bcd36400481a8382e6746e16c138e067532e90ad6",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-anthropics-valuation-hit-high-5pt0t-by-december-31": {
+    "id": "2307825",
+    "conditionId": "0x6231089f4ea288201b55d3000b19ef8e56ce5edc50a2806067c8b2e4c6d43dc2",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-anthropics-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-4pt0t-by-december-31-643": {
+    "id": "2307896",
+    "conditionId": "0x192617b6b85adde1ce846a603effd87d76cc5e57c0a544f41388df8d4961fa2f",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "will-openais-valuation-hit-high-5pt0t-by-december-31": {
+    "id": "2307904",
+    "conditionId": "0xedbfee6204f26891dbeaebf58c031cb8d9f66d5c9118b4fcdd886c75ba0071e3",
+    "endDate": "2027-01-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-openais-valuation-hit-by-december-31",
+    "negRisk": false
+  },
+  "rodrigo-paz-out-as-president-of-bolivia-by-june-30-2026": {
+    "id": "2308305",
+    "conditionId": "0xe601a94acd76d756a2f6a984d28db271942290f0c485d6225771bffdb18cb9d5",
+    "endDate": "2026-07-01",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "rodrigo-paz-out-as-president-of-bolivia-by",
+    "negRisk": false
+  },
+  "val-tec-ag1-2026-05-20-game1": {
+    "id": "2308641",
+    "conditionId": "0x96e48a99fc4cfbbe5d03fe5ae3f299a94c7d4eea4f3d6b1bf8a1775a70b9ac35",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "val-tec-ag1-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-masq-navij1-2026-05-21-game1-odd-even-total-kills": {
+    "id": "2308878",
+    "conditionId": "0x756bdf28e8d81fbe3df43b053eb80538d20e052adea6aedf450dcd10910dbf5d",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-navij1-2026-05-21",
+    "negRisk": false
+  },
+  "cs2-masq-navij1-2026-05-21-game2-odd-even-total-kills": {
+    "id": "2308880",
+    "conditionId": "0xcaa1f55f3696bc858c7b74568ddc69b302fe26d3b9ce76244f2a131c68275441",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-masq-navij1-2026-05-21",
+    "negRisk": false
+  },
+  "cs2-bb7-dia-2026-05-20-game1-odd-even-total-rounds": {
+    "id": "2310272",
+    "conditionId": "0x64d1b8951495665831f0f4b57d69923c8c13877f9145ae78498bc2844151cf07",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bb7-dia-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-bb7-dia-2026-05-20-game2-odd-even-total-kills": {
+    "id": "2310273",
+    "conditionId": "0xbd80bfed56eb49dc8cfc18abbd81b272eb95285220c3e21ce12947e5fc759acc",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-bb7-dia-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-csgopo-inf1-2026-05-20-game1-odd-even-total-kills": {
+    "id": "2310282",
+    "conditionId": "0x1725ffdb4a4f9d7a215619ae166879210ea06e797f887c0248e9310322e67a99",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-csgopo-inf1-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-csgopo-inf1-2026-05-20-game2-odd-even-total-kills": {
+    "id": "2310284",
+    "conditionId": "0xc67adae5e7c0f7ba8f9fdde4f8b63ceb7eacac3a981fa4124adb54c0d5ffd08c",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-csgopo-inf1-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-csgopo-inf1-2026-05-20-game3-odd-even-total-kills": {
+    "id": "2310286",
+    "conditionId": "0xd54a18f49e708082a90e0204f09f80357347192a4a803c4e898efc1dc4f853f5",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-csgopo-inf1-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-melill-ksm-2026-05-20-game1-odd-even-total-kills": {
+    "id": "2310293",
+    "conditionId": "0x5eece2663066f17997cb0fb2ca225f1abe93c4a137e9349cb9e1905df6a159b4",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-melill-ksm-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-melill-ksm-2026-05-20-game2-odd-even-total-kills": {
+    "id": "2310295",
+    "conditionId": "0xfcb220a7891d5f4ebebe2d98fc0a4b32870d8af562f667f07ec4be16d3945e31",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-melill-ksm-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-shishk-vortex-2026-05-20-game1-odd-even-total-kills": {
+    "id": "2310304",
+    "conditionId": "0x102e869f5b19007b901f03da7ddf70b339444612584dba50af619dfac85ca919",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-vortex-2026-05-20",
+    "negRisk": false
+  },
+  "cs2-shishk-vortex-2026-05-20-game2-odd-even-total-kills": {
+    "id": "2310306",
+    "conditionId": "0xed2c50092e29c0651125966851df327b18e9324a69addccbf6b16798070b5cdc",
+    "endDate": "2026-05-21",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "cs2-shishk-vortex-2026-05-20",
+    "negRisk": false
+  },
+  "lol-t1-drx-2026-05-20-game2-kill-over-50pt5": {
+    "id": "2311351",
+    "conditionId": "0x4b6fb3fc56d66544b92d9b90ea9a06d61d1d94bf5dbe117e514a98c630274c31",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
+  },
+  "lol-t1-drx-2026-05-20-game2-kill-over-51pt5": {
+    "id": "2311353",
+    "conditionId": "0x1523f112d9d7bd3e001d203632d41f85fb6377527ddb0c2bb146d5aac7cf997b",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
+  },
+  "lol-t1-drx-2026-05-20-game2-kill-over-42pt5": {
+    "id": "2311356",
+    "conditionId": "0x944b7da9762b9f1b8f82829f302f16eec1fcd8aa9e65839a7af3213efc807ce2",
+    "endDate": "2026-05-20",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "lol-t1-drx-2026-05-20",
+    "negRisk": false
+  },
+  "kbo-han-nc-2026-05-26": {
+    "id": "2312507",
+    "conditionId": "0xd223ca20e627cf9097e40cf8839403a82a924a3b29ff946afe196858123e2c0e",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-han-nc-2026-05-26",
+    "negRisk": false
   }
 }
