@@ -73694,16 +73694,6 @@
     "eventSlug": "cs2-vpf-z7-2026-04-13",
     "negRisk": false
   },
-  "cs2-ep-old-2026-04-13-game1-odd-even-total-kills": {
-    "id": "1967076",
-    "conditionId": "0x23595187201b4a281a72fd7aa4272ec75f248596021fab007aca221aa4ce3fca",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-ep-old-2026-04-13",
-    "negRisk": false
-  },
   "will-apple-stop-selling-macbook-neo": {
     "id": "1971163",
     "conditionId": "0xfbd22163adde56240e4278c3203d3d14b171c1cb5d6ca9e0c25324ac0a55ab12",
@@ -75672,16 +75662,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-ge2-imperi-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-rgg-auryb-2026-04-15-game1-odd-even-total-kills": {
-    "id": "1989710",
-    "conditionId": "0x082bf1f21ca8cd10843c7d49a126b664a20608c5792c07eb77f34e57caef5f59",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-rgg-auryb-2026-04-15",
     "negRisk": false
   },
   "cs2-old1-hin-2026-04-15-game1-odd-even-total-kills": {
@@ -119623,6 +119603,26 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "kbo-han-nc-2026-05-26",
+    "negRisk": false
+  },
+  "kbo-sam-ssg-2026-05-26": {
+    "id": "2312509",
+    "conditionId": "0x59eaa170544dca6b33cc8eee0952f50302bc6761e389d801d9bec81ae8f4b85a",
+    "endDate": "2026-06-02",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "kbo-sam-ssg-2026-05-26",
+    "negRisk": false
+  },
+  "will-mccormick-merge-with-unilever-foods-by-december-31-2026": {
+    "id": "2313034",
+    "conditionId": "0xc93f711af34fa149cce6c78a7a7c2517be9c924a30b7a518d1c435af524462de",
+    "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mccormick-merge-with-unilever-foods-by",
     "negRisk": false
   }
 }
