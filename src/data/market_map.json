@@ -74684,16 +74684,6 @@
     "eventSlug": "cs2-3dmaxa-wing-2026-04-14",
     "negRisk": false
   },
-  "cs2-mis-auryb-2026-04-14-game1-odd-even-total-kills": {
-    "id": "1978410",
-    "conditionId": "0x73a06ddc87465622d288669a805667109d5901864c43ecdb95153d1925ba76e8",
-    "endDate": "2026-04-14",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-mis-auryb-2026-04-14",
-    "negRisk": false
-  },
   "dota2-l1ga-bb4-2026-04-14-game4-ends-in-daytime": {
     "id": "1980438",
     "conditionId": "0x0c4778b5b183bae871167445fc8711c654ce1d453ea81ffe17ed5492f5c63a8a",
@@ -75642,16 +75632,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "cs2-lph-efa-2026-04-15",
-    "negRisk": false
-  },
-  "cs2-enjoy-auryb-2026-04-15-game1-odd-even-total-kills": {
-    "id": "1989704",
-    "conditionId": "0xe371b00db56bb512b24ad0e7815dffd7a1322abc6197a6b0d6c42650e784bd3e",
-    "endDate": "2026-04-15",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "cs2-enjoy-auryb-2026-04-15",
     "negRisk": false
   },
   "cs2-ge2-imperi-2026-04-15-game1-odd-even-total-kills": {
@@ -119619,6 +119599,26 @@
     "id": "2313034",
     "conditionId": "0xc93f711af34fa149cce6c78a7a7c2517be9c924a30b7a518d1c435af524462de",
     "endDate": "2026-12-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mccormick-merge-with-unilever-foods-by",
+    "negRisk": false
+  },
+  "will-mccormick-merge-with-unilever-foods-by-june-30-2027": {
+    "id": "2313035",
+    "conditionId": "0x8f0df3ef2f53c07199b7979daa8e6f9da806f828a1e5d3313812f489a12707a5",
+    "endDate": "2027-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-mccormick-merge-with-unilever-foods-by",
+    "negRisk": false
+  },
+  "will-mccormick-merge-with-unilever-foods-by-december-31-2027": {
+    "id": "2313036",
+    "conditionId": "0x13adeb30615fb6331949bbc60d3e0f41f6a6ce33f082f4c4591e26719b3ccb9f",
+    "endDate": "2027-12-31",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
