@@ -319,16 +319,6 @@
     "eventSlug": "world-cup-winner",
     "negRisk": true
   },
-  "will-south-africa-win-the-2026-fifa-world-cup": {
-    "id": "558964",
-    "conditionId": "0x233ce0c3969a5cd5079287f16fcd283be7c1db82263e08697f85dbe1b4d2113c",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-winner",
-    "negRisk": true
-  },
   "will-senegal-win-the-2026-fifa-world-cup": {
     "id": "558965",
     "conditionId": "0x6972edb1b3f8cd8192651a665fc424dff846efe1c4a2376f628d4b20c704144c",
@@ -14068,16 +14058,6 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "what-price-will-xrp-hit-before-2027",
-    "negRisk": false
-  },
-  "labour-leadership-election-scheduled-by-june-30": {
-    "id": "701702",
-    "conditionId": "0x6bc2c22c0200475f44030c497e48617311d87c299d8c65d039897a912ebc05b2",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "labour-leadership-election-scheduled-by",
     "negRisk": false
   },
   "will-dogecoin-reach-0pt52-by-december-31-2026": {
@@ -64879,16 +64859,6 @@
     "eventSlug": "clavicular-sentenced-to-prison-114",
     "negRisk": false
   },
-  "will-trump-mobile-release-a-phone-by-june-30-2026": {
-    "id": "1745523",
-    "conditionId": "0x873debbeb6edb7d590c7b661e7bf288dff69306af7e01b02bdfe7d747ed544c2",
-    "endDate": "2026-06-30",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "will-trump-mobile-release-a-phone-by",
-    "negRisk": false
-  },
   "will-giannis-antetokounmpo-play-for-the-atlanta-hawks-in-2026-27": {
     "id": "1747460",
     "conditionId": "0xff2715084bb2cf20d9b88b74ef809c3317b1e99f6c006faee9b83bc85aa0fc99",
@@ -86844,16 +86814,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-a-player-representing-south-africa-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070953",
-    "conditionId": "0x2649673f9d62649a68a43e198c50476cd5f2528473e4ad93838e0b66848a2be8",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
   "will-a-player-representing-canada-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070955",
     "conditionId": "0xd2f697fa8bfd2d6e7b6413b44ae408f53f789cbb9a6a7c448462af78acc916f1",
@@ -87177,16 +87137,6 @@
   "will-mexico-reach-the-2026-fifa-world-cup-final": {
     "id": "2071518",
     "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
-    "endDate": "2026-07-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-to-reach-final",
-    "negRisk": false
-  },
-  "will-south-africa-reach-the-2026-fifa-world-cup-final": {
-    "id": "2071520",
-    "conditionId": "0x631a7b9f9d7649360f6873024da6a1d2cd1db1f2a2a72e99c41da90e26eb8ce0",
     "endDate": "2026-07-20",
     "closed": false,
     "active": true,
@@ -92577,16 +92527,6 @@
   "will-senegal-score-the-most-goals-at-the-2026-fifa-world-cup": {
     "id": "2116745",
     "conditionId": "0x2b64c7faa0037364c973158508dcc3643855152e770fe1dd60d5f6d8840c1184",
-    "endDate": "2026-08-03",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-top-scorer-nation",
-    "negRisk": true
-  },
-  "will-south-africa-score-the-most-goals-at-the-2026-fifa-world-cup": {
-    "id": "2116746",
-    "conditionId": "0x91616edf355def8b0d33ce21c12b7149c070fd4d8abe36258dc84381e3c7db1a",
     "endDate": "2026-08-03",
     "closed": false,
     "active": true,
@@ -119623,6 +119563,64 @@
     "active": true,
     "acceptingOrders": true,
     "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
+    "negRisk": false
+  },
+  "will-usd-fall-to-17000-indonesian-rupiah-by-june-30": {
+    "id": "2314131",
+    "conditionId": "0xfa8e1572457ce51c589796a1d21a37ebd4c5c130f226d0e04cde296ad2f66210",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
+    "negRisk": false
+  },
+  "will-usd-fall-to-16500-indonesian-rupiah-by-june-30": {
+    "id": "2314132",
+    "conditionId": "0x5422f37c4868b06d9ea3a7569ac75e19a4be0b817e7531e59d1f063f76303484",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
+    "negRisk": false
+  },
+  "will-usd-fall-to-16000-indonesian-rupiah-by-june-30": {
+    "id": "2314133",
+    "conditionId": "0x1f92604f204da74363569056ba5dcfbf420b0dbc9fa59aa2a820408cf80d1d6d",
+    "endDate": "2026-06-30",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "will-usd-hit-indonesian-rupiah-by-june-30",
+    "negRisk": false
+  },
+  "chud-the-builder-convicted": {
+    "id": "2314311",
+    "conditionId": "0xb549c8aff4385529b58d05ca393d0bc599edc397768857f740819584b6a77830",
+    "endDate": "2027-07-31",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "chud-the-builder-convicted",
+    "negRisk": false
+  },
+  "will-openai-ipo-by-august-31-2026": {
+    "id": "2314378",
+    "conditionId": "0x8e5b3cca5dd6b5ad77bb203644722ceb5b9d12bfe2dd1ab19d5efd9bf854d04c",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "openai-ipo-by",
+    "negRisk": false
+  },
+  "will-openai-ipo-by-september-30-2026": {
+    "id": "2314379",
+    "conditionId": "0x23e52206ff8a49e4f097ac3b7f32826d930a0b6c76b7902a7858cf2183383c63",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "openai-ipo-by",
     "negRisk": false
   }
 }
