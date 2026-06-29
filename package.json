@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sync": "node scripts/sync.js",
-    "test": "node tests/capital_roi.test.js",
+    "test": "for f in tests/*.test.js; do echo \"-- $f\"; node \"$f\" || exit 1; done",
     "serve": "npx http-server src -p 8080 -c-1",
     "dev": "npm run sync && npm run serve",
     "start": "npm run serve"
