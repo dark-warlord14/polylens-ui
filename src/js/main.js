@@ -136,9 +136,7 @@ async function initDashboard() {
     loadConfig();
 
     try {
-        const response = await fetch('data/cache.json');
-        if (!response.ok) throw new Error('Network response was not ok');
-        const cache = await response.json();
+        const cache = await loadCache(fetch);
 
         if (cache && cache.deals && cache.deals.length > 0) {
             allOpportunities = cache.deals;
