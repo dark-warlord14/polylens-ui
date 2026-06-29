@@ -162,6 +162,45 @@ function processMarkets(markets) {
   return opportunities;
 }
 
+const SHARD_PREFIX = '{"deals":';
+const SHARD_SUFFIX = ']}';
+
+/**
+ * Pack a deals array into shards whose minified serialized size stays at or
+ * below targetBytes. A single deal larger than targetBytes occupies its own
+ * shard (deals are never split). Returns shard metadata + total count; the
+ * caller writes each shard as JSON.stringify({ deals: shard.deals }).
+ */
+function packShards(deals, targetBytes = 20 * 1024 * 1024) {
+  const shards = [];
+  let current = [];
+  let sumLen = 0;
+
+  const shardBytes = (len, count) =>
+    SHARD_PREFIX.length + 1 /*[*/ + len + Math.max(0, count - 1) /*commas*/ + SHARD_SUFFIX.length;
+
+  const flush = () => {
+    if (current.length === 0) return;
+    const name = `cache_${String(shards.length + 1).padStart(2, '0')}.json`;
+    shards.push({ name, deals: current });
+    current = [];
+    sumLen = 0;
+  };
+
+  for (const deal of deals) {
+    const dealLen = JSON.stringify(deal).length;
+    const projected = shardBytes(sumLen + dealLen, current.length + 1);
+    if (current.length > 0 && projected > targetBytes) {
+      flush();
+    }
+    current.push(deal);
+    sumLen += dealLen;
+  }
+  flush();
+
+  return { shards, totalDeals: deals.length };
+}
+
 async function run() {
   try {
     const markets = await fetchAllMarkets();
@@ -200,4 +239,8 @@ async function run() {
   }
 }
 
-run();
+if (require.main === module) {
+  run();
+}
+
+module.exports = { packShards };
