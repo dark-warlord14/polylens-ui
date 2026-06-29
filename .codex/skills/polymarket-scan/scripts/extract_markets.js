@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 // Usage: node extract_markets.js [--strategy capital-roi] [--max-candidates N] [--days N] [--min-vol N] [--category NAME] [--prob-min N] [--prob-max N] [--now ISO]
-// Reads ./src/data/cache.json and prints broad capital-ROI candidates as JSON lines.
+// Reads ./src/data sharded cache (index.json + cache_*.json) and prints broad capital-ROI candidates as JSON lines.
 
 const fs = require('fs');
+const path = require('path');
 const {
   pickResolutionDeadline,
   daysUntil,
@@ -42,8 +43,13 @@ function marketKey(d) {
   return d.conditionId || d.slug;
 }
 
-const raw = fs.readFileSync('./src/data/cache.json', 'utf8');
-const data = JSON.parse(raw);
+const DATA_DIR = './src/data';
+const index = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'index.json'), 'utf8'));
+const data = { timestamp: index.timestamp, count: index.count, deals: [] };
+for (const name of index.shards || []) {
+  const shard = JSON.parse(fs.readFileSync(path.join(DATA_DIR, name), 'utf8'));
+  if (Array.isArray(shard.deals)) data.deals = data.deals.concat(shard.deals);
+}
 
 const grouped = new Map();
 for (const d of data.deals || []) {
