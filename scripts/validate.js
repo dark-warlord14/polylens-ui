@@ -1,35 +1,52 @@
 /**
  * validate.js
- * Ensures the generated data files are valid and not empty.
+ * Ensures the generated sharded data files are valid, fresh, and under the
+ * Cloudflare Workers Static Assets per-file limit (25 MiB; we enforce 24 MiB).
+ *
+ * Usage: node scripts/validate.js [dataDir]   (defaults to ../src/data)
  */
 const fs = require('fs');
 const path = require('path');
 
-const CACHE_PATH = path.join(__dirname, '../src/data/cache.json');
+const DATA_DIR = process.argv[2]
+  ? path.resolve(process.argv[2])
+  : path.join(__dirname, '..', 'src', 'data');
+
+const MAX_BYTES = 24 * 1024 * 1024;
+const MAX_AGE_MS = 60 * 60 * 1000;
+const MIN_DEALS = 100;
 
 try {
-    if (!fs.existsSync(CACHE_PATH)) {
-        throw new Error("cache.json does not exist!");
+  const indexPath = path.join(DATA_DIR, 'index.json');
+  if (!fs.existsSync(indexPath)) {
+    throw new Error('index.json does not exist.');
+  }
+  const index = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
+
+  if (!Array.isArray(index.shards) || index.shards.length === 0) {
+    throw new Error("Invalid index: 'shards' array is missing or empty.");
+  }
+  if (typeof index.totalDeals !== 'number' || index.totalDeals < MIN_DEALS) {
+    throw new Error(`Suspicious data: totalDeals=${index.totalDeals} < ${MIN_DEALS}. Aborting to protect production.`);
+  }
+  if (!index.timestamp || Date.now() - index.timestamp > MAX_AGE_MS) {
+    throw new Error('Timestamp is missing or more than 1 hour old.');
+  }
+
+  for (const name of index.shards) {
+    const shardPath = path.join(DATA_DIR, name);
+    if (!fs.existsSync(shardPath)) {
+      throw new Error(`Shard listed in index is missing on disk: ${name}`);
     }
-
-    const data = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
-
-    // Validation Rules
-    if (!data.deals || !Array.isArray(data.deals)) {
-        throw new Error("Invalid data format: 'deals' array is missing.");
+    const size = fs.statSync(shardPath).size;
+    if (size > MAX_BYTES) {
+      throw new Error(`Shard ${name} is ${(size / (1024 * 1024)).toFixed(1)} MiB — exceeds ${(MAX_BYTES / (1024 * 1024))} MiB deploy limit.`);
     }
+  }
 
-    if (data.deals.length < 100) {
-        throw new Error(`Data looks suspicious: only ${data.deals.length} deals found. Aborting push to protect production.`);
-    }
-
-    if (!data.timestamp || Date.now() - data.timestamp > 3600000) {
-        throw new Error("Timestamp is missing or too old.");
-    }
-
-    console.log(`Validation Passed: ${data.deals.length} deals ready for production.`);
-    process.exit(0);
+  console.log(`Validation Passed: ${index.totalDeals} deals across ${index.shards.length} shard(s). All shards < ${MAX_BYTES / (1024 * 1024)} MiB.`);
+  process.exit(0);
 } catch (e) {
-    console.error("Validation Failed:", e.message);
-    process.exit(1);
+  console.error('Validation Failed:', e.message);
+  process.exit(1);
 }
