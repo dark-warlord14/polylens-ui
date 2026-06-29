@@ -33,6 +33,9 @@ jobs:
         env:
           POLYMARKET_SYNC_MAX_PAGES: 120
 
+      - name: Run tests
+        run: npm test
+
       - name: Validate data
         run: node scripts/validate.js
 
