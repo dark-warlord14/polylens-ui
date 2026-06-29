@@ -87104,16 +87104,6 @@
     "eventSlug": "world-cup-nation-of-top-goalscorer",
     "negRisk": true
   },
-  "will-a-player-representing-panama-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
-    "id": "2070997",
-    "conditionId": "0xaf952eedfbcee3c8711ba90550ae79e1bfd2e6d00ac93ca7e86e74f6bd85ec2d",
-    "endDate": "2026-08-20",
-    "closed": false,
-    "active": true,
-    "acceptingOrders": true,
-    "eventSlug": "world-cup-nation-of-top-goalscorer",
-    "negRisk": true
-  },
   "will-a-player-representing-ghana-be-the-top-goalscorer-at-the-2026-fifa-world-cup": {
     "id": "2070998",
     "conditionId": "0x61a3a5404f788237d6049d8f578799dc50cdbcb14e48f2ad8000316c504a72c0",
@@ -119617,6 +119607,15 @@
   "will-openai-ipo-by-september-30-2026": {
     "id": "2314379",
     "conditionId": "0x23e52206ff8a49e4f097ac3b7f32826d930a0b6c76b7902a7858cf2183383c63",
+    "closed": false,
+    "active": true,
+    "acceptingOrders": true,
+    "eventSlug": "openai-ipo-by",
+    "negRisk": false
+  },
+  "will-openai-ipo-by-july-31-2026": {
+    "id": "2314474",
+    "conditionId": "0x1146a9020af0b4dafcba97375ac13f4dcc591b80c50efa7084973df14cc85833",
     "closed": false,
     "active": true,
     "acceptingOrders": true,
