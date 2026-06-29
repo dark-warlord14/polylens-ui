@@ -201,6 +201,41 @@ function packShards(deals, targetBytes = 20 * 1024 * 1024) {
   return { shards, totalDeals: deals.length };
 }
 
+const CACHE_DIR = path.join(__dirname, '../src/data');
+const MiB = 1024 * 1024;
+const SHARD_LIMIT_BYTES = 24 * MiB;
+
+/** Write sharded cache + index into dir. Removes stale cache_*.json first. */
+function writeShardedCache({ dir, timestamp, count, deals, marketMap }) {
+  fs.mkdirSync(dir, { recursive: true });
+
+  // Remove any stale shard files from a prior run, plus the legacy single cache.json.
+  for (const f of fs.readdirSync(dir)) {
+    if (/^cache_\d+\.json$/.test(f) || f === 'cache.json') fs.unlinkSync(path.join(dir, f));
+  }
+
+  const { shards, totalDeals } = packShards(deals);
+
+  for (const shard of shards) {
+    const serialized = JSON.stringify({ deals: shard.deals });
+    if (serialized.length > SHARD_LIMIT_BYTES) {
+      throw new Error(`Shard ${shard.name} is ${(serialized.length / MiB).toFixed(1)} MiB, exceeds ${SHARD_LIMIT_BYTES / MiB} MiB limit`);
+    }
+    fs.writeFileSync(path.join(dir, shard.name), serialized);
+  }
+
+  const index = {
+    timestamp,
+    count,
+    totalDeals,
+    shards: shards.map(s => s.name),
+  };
+  fs.writeFileSync(path.join(dir, 'index.json'), JSON.stringify(index));
+  fs.writeFileSync(path.join(dir, 'market_map.json'), JSON.stringify(marketMap || {}));
+
+  return { shardCount: shards.length, totalDeals };
+}
+
 async function run() {
   try {
     const markets = await fetchAllMarkets();
@@ -222,17 +257,15 @@ async function run() {
       };
     }
 
-    const cacheData = {
+    const { shardCount, totalDeals } = writeShardedCache({
+      dir: CACHE_DIR,
       timestamp: Date.now(),
       count: markets.length,
       deals: opportunities,
-    };
+      marketMap,
+    });
 
-    fs.mkdirSync(path.dirname(CACHE_PATH), { recursive: true });
-    fs.writeFileSync(CACHE_PATH, JSON.stringify(cacheData, null, 2));
-    fs.writeFileSync(MARKET_MAP_PATH, JSON.stringify(marketMap, null, 2));
-
-    console.log(`Sync complete: ${markets.length} markets, ${opportunities.length} tradable outcomes saved.`);
+    console.log(`Sync complete: ${markets.length} markets, ${totalDeals} tradable outcomes across ${shardCount} shard(s).`);
   } catch (e) {
     console.error('Sync failed:', e);
     process.exit(1);
@@ -243,4 +276,4 @@ if (require.main === module) {
   run();
 }
 
-module.exports = { packShards };
+module.exports = { packShards, writeShardedCache };

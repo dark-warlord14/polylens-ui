@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { packShards } = require('../scripts/sync');
+const { packShards, writeShardedCache } = require('../scripts/sync');
 
 // Build N synthetic deals of realistic-ish size.
 function makeDeals(n) {
@@ -70,6 +70,55 @@ function makeDeals(n) {
   assert.strictEqual(totalDeals, 0);
   assert.strictEqual(shards.length, 0);
   console.log('shard.test: empty-input OK');
+}
+
+// 4. writeShardedCache: writes index.json + shards, no cache.json, stale cleanup.
+{
+  const fs = require('fs');
+  const path = require('path');
+  const os = require('os');
+
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'polylens-shard-'));
+  const deals = makeDeals(60);
+  writeShardedCache({
+    dir,
+    timestamp: 1234567890000,
+    count: 30,
+    deals,
+    marketMap: { 'market-1': { id: 'x' } },
+  });
+
+  const index = JSON.parse(fs.readFileSync(path.join(dir, 'index.json'), 'utf8'));
+  assert.strictEqual(index.timestamp, 1234567890000);
+  assert.strictEqual(index.count, 30);
+  assert.strictEqual(index.totalDeals, 60);
+  assert.ok(Array.isArray(index.shards) && index.shards.length >= 1);
+
+  // No legacy single cache.json should be written.
+  assert.ok(!fs.existsSync(path.join(dir, 'cache.json')), 'cache.json must not be written');
+
+  // Every shard file referenced by index exists and parses.
+  const merged = [];
+  for (const name of index.shards) {
+    const p = path.join(dir, name);
+    assert.ok(fs.existsSync(p), `missing shard file ${name}`);
+    const shard = JSON.parse(fs.readFileSync(p, 'utf8'));
+    assert.ok(Array.isArray(shard.deals), `${name} has no deals array`);
+    merged.push(...shard.deals);
+  }
+  assert.deepStrictEqual(merged, deals, 'round-trip merge must equal input');
+
+  // market_map.json still written.
+  const mm = JSON.parse(fs.readFileSync(path.join(dir, 'market_map.json'), 'utf8'));
+  assert.deepStrictEqual(mm, { 'market-1': { id: 'x' } });
+
+  // Stale-shard cleanup: write a fake old shard, re-run, confirm it is removed.
+  fs.writeFileSync(path.join(dir, 'cache_99.json'), '{}');
+  writeShardedCache({ dir, timestamp: 1, count: 1, deals: makeDeals(5), marketMap: {} });
+  assert.ok(!fs.existsSync(path.join(dir, 'cache_99.json')), 'stale shard must be removed');
+
+  fs.rmSync(dir, { recursive: true, force: true });
+  console.log('shard.test: writeShardedCache OK');
 }
 
 console.log('shard.test: ALL PASS');
