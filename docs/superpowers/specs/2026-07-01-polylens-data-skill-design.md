@@ -5,17 +5,17 @@
 
 ## Scope
 
-Docs only. Zero code changes. Single new file: `SKILL.md` at project root.
+Single new file: `src/SKILL.md` (served at `/SKILL.md` on the live app), plus a header link in `src/index.html` and a guard test. No JS runtime change, no new dependency, no `sync.js` change.
 
 ## Non-goals
 
-- No helper scripts, no data catalog generation, no changes to `sync.js` or the UI.
-- Not a guide to building/modifying the dashboard UI.
+- No helper scripts, no data catalog generation, no changes to `sync.js` data pipeline.
+- Not a guide to building/modifying the dashboard UI behavior.
 - Does not cover the stale root-level ad-hoc dumps beyond a "don't use these" note.
 
 ## Deliverable
 
-`SKILL.md` — Claude skill frontmatter (`name`, `description`) so it is discoverable/invokable, followed by plain-markdown reference.
+`src/SKILL.md` — Claude skill frontmatter (`name`, `description`) followed by plain-markdown reference. Served by Cloudflare Pages (asset root = `src/`, per `wrangler.jsonc`) at `https://polylens.aivault.securityjunky.com/SKILL.md`. A "Data API" link in the dashboard header (`.network-link`, opens `/SKILL.md` in a new tab) makes it discoverable from the UI. `tests/skill.test.js` asserts the file exists with frontmatter and that `index.html` links to it.
 
 ## Sections
 
