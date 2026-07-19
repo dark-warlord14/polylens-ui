@@ -8,6 +8,10 @@ const path = require('path');
 
 const CACHE_PATH = path.join(__dirname, '../src/data/cache.json');
 const MARKET_MAP_PATH = path.join(__dirname, '../src/data/market_map.json');
+const ORDER_CANDIDATES = (process.env.POLYMARKET_SYNC_ORDER || 'volumeClob,liquidityClob|volumeClob|liquidityClob|updatedAt|createdAt')
+  .split('|')
+  .map((s) => s.trim())
+  .filter(Boolean);
 
 function parseJsonArray(value) {
   if (Array.isArray(value)) return value;
@@ -46,24 +50,53 @@ async function fetchAllMarkets() {
   let afterCursor = null;
   let all = [];
   let page = 0;
+  let order = null;
 
   console.log('Starting fetch from Polymarket Gamma keyset API...');
+  console.log(`Trying order fields in order: ${ORDER_CANDIDATES.join(' | ') || 'none (API default)'}`);
+
+  const preferredOrders = ORDER_CANDIDATES.length > 0 ? ORDER_CANDIDATES : ['volumeClob'];
+  let firstPayload = null;
+
+  for (const candidate of preferredOrders) {
+    try {
+      const params = buildQueryParams({ limit: pageSize, afterCursor: null, order: candidate });
+      const res = await fetchWithRetry(`https://gamma-api.polymarket.com/markets/keyset?${params}`);
+      if (!res.ok) {
+        const payloadText = await safeReadResponseText(res);
+        if (res.status === 422 && /order fields are not valid/i.test(payloadText || '')) {
+          console.log(`Order ${candidate} rejected by API, trying fallback...`);
+          continue;
+        }
+        throw new Error(`Gamma keyset HTTP ${res.status}: ${payloadText || 'unknown error'}`);
+      }
+      const data = await res.json();
+      firstPayload = data;
+      order = candidate;
+      break;
+    } catch (e) {
+      if (/order fields are not valid/i.test(String(e.message))) continue;
+      throw e;
+    }
+  }
+
+  if (!firstPayload) {
+    throw new Error(`No valid order field found; tried: ${preferredOrders.join(', ')}`);
+  }
 
   while (true) {
-    const params = new URLSearchParams({
-      limit: String(pageSize),
-      active: 'true',
-      closed: 'false',
-      include_tag: 'true',
-      order: 'volume_num,liquidity_num',
-      ascending: 'false',
-    });
-    if (afterCursor) params.set('after_cursor', afterCursor);
+    const isFirstPage = page === 0;
+    let data = null;
 
-    const url = `https://gamma-api.polymarket.com/markets/keyset?${params}`;
-    const res = await fetchWithRetry(url);
-    if (!res.ok) throw new Error(`Gamma keyset HTTP ${res.status}`);
-    const data = await res.json();
+    if (isFirstPage) {
+      data = firstPayload;
+    } else {
+      const params = buildQueryParams({ limit: pageSize, afterCursor, order });
+      const res = await fetchWithRetry(`https://gamma-api.polymarket.com/markets/keyset?${params}`);
+      if (!res.ok) throw new Error(`Gamma keyset HTTP ${res.status}`);
+      data = await res.json();
+    }
+
     const markets = Array.isArray(data.markets) ? data.markets : [];
     all = all.concat(markets);
     page += 1;
@@ -93,7 +126,11 @@ async function fetchWithRetry(url, attempts = 3) {
     try {
       const res = await fetch(url);
       if (res.ok || attempt === attempts) return res;
-      lastError = new Error(`HTTP ${res.status}`);
+      const body = await safeReadResponseText(res);
+      if (res.status >= 400 && res.status < 500 && res.status !== 429) {
+        throw new Error(`Gamma keyset HTTP ${res.status}: ${body || 'invalid request'}`);
+      }
+      lastError = new Error(`Gamma keyset HTTP ${res.status}: ${body || 'retryable request error'}`);
     } catch (e) {
       lastError = e;
       if (attempt === attempts) throw e;
@@ -101,6 +138,27 @@ async function fetchWithRetry(url, attempts = 3) {
     await new Promise(r => setTimeout(r, 500 * attempt));
   }
   throw lastError;
+}
+
+function buildQueryParams({ limit, order, afterCursor }) {
+  const params = new URLSearchParams({
+    limit: String(limit),
+    active: 'true',
+    closed: 'false',
+    include_tag: 'true',
+    ascending: 'false',
+  });
+  if (order) params.set('order', order);
+  if (afterCursor) params.set('after_cursor', afterCursor);
+  return params;
+}
+
+async function safeReadResponseText(res) {
+  try {
+    return await res.text();
+  } catch {
+    return '';
+  }
 }
 
 function processMarkets(markets) {
