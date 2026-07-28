@@ -1,6 +1,6 @@
 # PolyLens
 
-PolyLens is a professional-grade market discovery dashboard for [Polymarket](https://polymarket.com). It filters thousands of active markets in real-time to surface high-probability opportunities with deep liquidity and imminent resolution. Maintained as part of Shantanu Ghumade's professional project network.
+PolyLens is a market discovery dashboard for [Polymarket](https://polymarket.com). It scans the active market cache and makes it easier to spot high-probability opportunities with real liquidity and near-term resolution. Maintained as part of Shantanu Ghumade's project network.
 
 **🌐 Live App:** [polylens.aivault.securityjunky.com](https://polylens.aivault.securityjunky.com/)
 
@@ -8,14 +8,14 @@ PolyLens is a professional-grade market discovery dashboard for [Polymarket](htt
 
 ## ✨ Key Features
 
-- **Probability Range Filter** — Set a min and max probability to find markets that match your exact confidence level.
-- **Liquidity Presets** — Quick-select 5K / 10K / 25K / 50K minimum volume, or enter a fully custom threshold.
-- **Expiry Window** — Filter markets by days remaining to resolution.
-- **Flexible Sort** — Sort ascending or descending by Probability, Liquidity, or Expiry.
-- **Category Chips** — One-click filter by market category (Politics, Crypto, Finance, Geopolitics, Tech, etc.).
-- **Yes / No Filter** — Further narrow results to Yes or No outcome positions.
-- **Theme Support** — Fully refined Light and Dark modes, saved across sessions.
-- **Persistent Config** — All filter settings are automatically saved to localStorage and restored on next visit.
+- **Probability range** — Set minimum and maximum probabilities so the list matches the confidence band you care about.
+- **Liquidity presets** — Pick 5K / 10K / 25K / 50K minimum liquidity, or type in a custom threshold.
+- **Expiry window** — Focus on markets by days remaining until resolution.
+- **Flexible sort** — Sort either direction by probability, liquidity, or expiry.
+- **Category chips** — Filter quickly by Politics, Crypto, Finance, Geopolitics, Tech, and other market categories.
+- **Yes / No filter** — Narrow the table to one side of a market.
+- **Theme support** — Light and dark modes are saved across visits.
+- **Persistent config** — Filter settings are saved in `localStorage` and restored on the next page load.
 
 ---
 
@@ -32,7 +32,7 @@ PolyLens is a professional-grade market discovery dashboard for [Polymarket](htt
 
 ## 🏗 System Architecture
 
-The system is fully automated, using GitHub Actions for data syncing and Cloudflare Pages for global delivery.
+PolyLens is a static app served by Cloudflare Pages. GitHub Actions refreshes the market data cache on a schedule and commits the generated files back to the repo.
 
 ```mermaid
 graph LR
@@ -55,8 +55,11 @@ src/
 │   ├── main.css      # Dashboard design system
 │   └── popup.css     # Browser extension popup styles
 ├── data/
-│   └── cache.json    # Auto-synced market data (do not edit manually)
+│   ├── index.json    # Manifest for the sharded market cache
+│   ├── cache_*.json  # Auto-synced market shards (do not edit manually)
+│   └── market_map.json
 ├── js/
+│   ├── cacheLoader.js # Shared sharded-cache loader
 │   ├── main.js       # Dashboard controller (filters, render, config)
 │   └── popup.js      # Browser extension popup controller
 ├── icons/            # App icons
@@ -80,18 +83,18 @@ The dashboard will be available at **http://localhost:8080**.
 
 ## 🚢 Deployment
 
-Built for **Cloudflare Pages** with zero-config deployment.
+Built for **Cloudflare Pages**. The app is static, so deployment is intentionally small: serve the `src` directory and let the workflow keep data fresh.
 
 1. **Connect GitHub:** Link this repository to Cloudflare Pages.
 2. **Build Settings:**
    - Build Command: *(leave blank)*
    - Output Directory: `src`
-3. **Automate:** GitHub Actions (`.github/workflows/sync-data.yml`) handle all market data updates automatically every 10 minutes.
+3. **Automate:** GitHub Actions (`.github/workflows/sync-data.yml`) refreshes market data every 4 hours, and it can also be run manually.
 
 ---
 
 ## ✅ Implementation Notes
 
-- **Config Persistence:** All filter settings (liquidity preset, custom value, expiry, probability range, sort direction) are auto-saved to `localStorage` on every change and restored on page load.
-- **Onboarding:** Smart welcome overlay reappears every 7 days.
-- **Privacy First:** No server-side tracking. All preferences are local to your browser.
+- **Config persistence:** Filter settings (liquidity preset, custom value, expiry, probability range, and sort direction) are saved to `localStorage` as they change.
+- **Onboarding:** The welcome overlay reappears every 7 days.
+- **Privacy:** There is no server-side tracking; preferences stay in the browser.
