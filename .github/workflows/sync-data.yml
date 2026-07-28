@@ -32,7 +32,7 @@ jobs:
         run: npm run sync
         env:
           POLYMARKET_SYNC_MAX_PAGES: 120
-          POLYMARKET_SYNC_ORDER: "volumeClob,liquidityClob|volumeClob|liquidityClob|updatedAt|createdAt"
+          POLYMARKET_SYNC_ORDER: "volumeClob|liquidityClob|updatedAt|createdAt"
 
       - name: Run tests
         run: npm test

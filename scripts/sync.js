@@ -8,7 +8,7 @@ const path = require('path');
 
 const CACHE_PATH = path.join(__dirname, '../src/data/cache.json');
 const MARKET_MAP_PATH = path.join(__dirname, '../src/data/market_map.json');
-const ORDER_CANDIDATES = (process.env.POLYMARKET_SYNC_ORDER || 'volumeClob,liquidityClob|volumeClob|liquidityClob|updatedAt|createdAt')
+const ORDER_CANDIDATES = (process.env.POLYMARKET_SYNC_ORDER || 'volumeClob|liquidityClob|updatedAt|createdAt')
   .split('|')
   .map((s) => s.trim())
   .filter(Boolean);
@@ -42,60 +42,47 @@ function categoryForMarket(m) {
   return 'Other';
 }
 
-async function fetchAllMarkets() {
-  const pageSize = 100;
+async function fetchAllMarkets(options = {}) {
+  const pageSize = options.pageSize || 100;
   // Keep generated cache files below GitHub's 100 MB hard file limit by
   // default. Set POLYMARKET_SYNC_MAX_PAGES=0 only for local full-universe scans.
-  const maxPages = parseInt(process.env.POLYMARKET_SYNC_MAX_PAGES || '120', 10);
+  const maxPages = options.maxPages ?? parseInt(process.env.POLYMARKET_SYNC_MAX_PAGES || '120', 10);
+  const fetchFn = options.fetchFn || fetch;
+  const sleepMs = options.sleepMs ?? 80;
+  const preferredOrders = options.orders || (ORDER_CANDIDATES.length > 0 ? ORDER_CANDIDATES : ['volumeClob']);
+
+  console.log('Starting fetch from Polymarket Gamma keyset API...');
+  console.log(`Trying order fields in order: ${preferredOrders.join(' | ') || 'none (API default)'}`);
+
+  const failures = [];
+  for (const candidate of preferredOrders) {
+    try {
+      return await fetchMarketsForOrder({ order: candidate, pageSize, maxPages, fetchFn, sleepMs });
+    } catch (e) {
+      failures.push(`${candidate}: ${e.message}`);
+      if (!isRetryableOrderFailure(e)) throw e;
+      console.log(`Order ${candidate} failed during pagination (${e.message}); trying fallback...`);
+    }
+  }
+
+  throw new Error(`No valid order field completed pagination; tried: ${failures.join('; ')}`);
+}
+
+async function fetchMarketsForOrder({ order, pageSize, maxPages, fetchFn, sleepMs }) {
   let afterCursor = null;
   let all = [];
   let page = 0;
-  let order = null;
-
-  console.log('Starting fetch from Polymarket Gamma keyset API...');
-  console.log(`Trying order fields in order: ${ORDER_CANDIDATES.join(' | ') || 'none (API default)'}`);
-
-  const preferredOrders = ORDER_CANDIDATES.length > 0 ? ORDER_CANDIDATES : ['volumeClob'];
-  let firstPayload = null;
-
-  for (const candidate of preferredOrders) {
-    try {
-      const params = buildQueryParams({ limit: pageSize, afterCursor: null, order: candidate });
-      const res = await fetchWithRetry(`https://gamma-api.polymarket.com/markets/keyset?${params}`);
-      if (!res.ok) {
-        const payloadText = await safeReadResponseText(res);
-        if (res.status === 422 && /order fields are not valid/i.test(payloadText || '')) {
-          console.log(`Order ${candidate} rejected by API, trying fallback...`);
-          continue;
-        }
-        throw new Error(`Gamma keyset HTTP ${res.status}: ${payloadText || 'unknown error'}`);
-      }
-      const data = await res.json();
-      firstPayload = data;
-      order = candidate;
-      break;
-    } catch (e) {
-      if (/order fields are not valid/i.test(String(e.message))) continue;
-      throw e;
-    }
-  }
-
-  if (!firstPayload) {
-    throw new Error(`No valid order field found; tried: ${preferredOrders.join(', ')}`);
-  }
 
   while (true) {
-    const isFirstPage = page === 0;
-    let data = null;
-
-    if (isFirstPage) {
-      data = firstPayload;
-    } else {
-      const params = buildQueryParams({ limit: pageSize, afterCursor, order });
-      const res = await fetchWithRetry(`https://gamma-api.polymarket.com/markets/keyset?${params}`);
-      if (!res.ok) throw new Error(`Gamma keyset HTTP ${res.status}`);
-      data = await res.json();
+    const params = buildQueryParams({ limit: pageSize, afterCursor, order });
+    const res = await fetchWithRetry(`https://gamma-api.polymarket.com/markets/keyset?${params}`, { fetchFn });
+    if (!res.ok) {
+      const payloadText = await safeReadResponseText(res);
+      const err = new Error(`Gamma keyset HTTP ${res.status}: ${payloadText || 'unknown error'}`);
+      err.status = res.status;
+      throw err;
     }
+    const data = await res.json();
 
     const markets = Array.isArray(data.markets) ? data.markets : [];
     all = all.concat(markets);
@@ -108,7 +95,7 @@ async function fetchAllMarkets() {
     }
     if (!data.next_cursor || markets.length < pageSize) break;
     afterCursor = data.next_cursor;
-    await new Promise(r => setTimeout(r, 80));
+    await new Promise(r => setTimeout(r, sleepMs));
   }
 
   const seen = new Set();
@@ -120,17 +107,28 @@ async function fetchAllMarkets() {
   });
 }
 
-async function fetchWithRetry(url, attempts = 3) {
+function isRetryableOrderFailure(e) {
+  const status = e && e.status;
+  const message = String(e && e.message || '');
+  return status === 429 || status >= 500 || /order fields are not valid/i.test(message);
+}
+
+async function fetchWithRetry(url, options = {}) {
+  const attempts = options.attempts || 3;
+  const fetchFn = options.fetchFn || fetch;
   let lastError = null;
   for (let attempt = 1; attempt <= attempts; attempt++) {
     try {
-      const res = await fetch(url);
+      const res = await fetchFn(url);
       if (res.ok || attempt === attempts) return res;
       const body = await safeReadResponseText(res);
       if (res.status >= 400 && res.status < 500 && res.status !== 429) {
-        throw new Error(`Gamma keyset HTTP ${res.status}: ${body || 'invalid request'}`);
+        const err = new Error(`Gamma keyset HTTP ${res.status}: ${body || 'invalid request'}`);
+        err.status = res.status;
+        throw err;
       }
       lastError = new Error(`Gamma keyset HTTP ${res.status}: ${body || 'retryable request error'}`);
+      lastError.status = res.status;
     } catch (e) {
       lastError = e;
       if (attempt === attempts) throw e;
@@ -334,4 +332,4 @@ if (require.main === module) {
   run();
 }
 
-module.exports = { packShards, writeShardedCache };
+module.exports = { fetchAllMarkets, packShards, writeShardedCache };
