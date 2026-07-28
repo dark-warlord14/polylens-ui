@@ -1,11 +1,11 @@
 # Polymarket Data Skill — Design
 
 **Date:** 2026-07-01
-**Goal:** Add a `SKILL.md` so AI agents can access and query the Polymarket market data the PolyLens web app exposes — without reading dozens of files or hand-rolling schemas.
+**Goal:** Add a `SKILL.md` that gives AI agents a clear path into the Polymarket data exposed by PolyLens, without forcing them to inspect every cache file or infer the schema.
 
 ## Scope
 
-Single new file: `src/SKILL.md` (served at `/SKILL.md` on the live app), plus a header link in `src/index.html` and a guard test. No JS runtime change, no new dependency, no `sync.js` change.
+One served reference file, `src/SKILL.md`, plus a header link in `src/index.html` and a guard test. No runtime behavior changes, no new dependency, and no data pipeline change.
 
 ## Non-goals
 
@@ -15,7 +15,7 @@ Single new file: `src/SKILL.md` (served at `/SKILL.md` on the live app), plus a 
 
 ## Deliverable
 
-`src/SKILL.md` — Claude skill frontmatter (`name`, `description`) followed by plain-markdown reference. Served by Cloudflare Pages (asset root = `src/`, per `wrangler.jsonc`) at `https://polylens.aivault.securityjunky.com/SKILL.md`. A "Data API" link in the dashboard header (`.network-link`, opens `/SKILL.md` in a new tab) makes it discoverable from the UI. `tests/skill.test.js` asserts the file exists with frontmatter and that `index.html` links to it.
+`src/SKILL.md` — Claude skill frontmatter (`name`, `description`) followed by a plain Markdown reference. Cloudflare Pages serves it from the `src/` asset root at `https://polylens.aivault.securityjunky.com/SKILL.md`. A "Data API" link in the dashboard header (`.network-link`, opens `/SKILL.md` in a new tab) makes it easy to find. `tests/skill.test.js` checks that the file has frontmatter and that `index.html` links to it.
 
 ## Sections
 
@@ -25,7 +25,7 @@ Single new file: `src/SKILL.md` (served at `/SKILL.md` on the live app), plus a 
    - `src/data/index.json` — `{ timestamp, count, totalDeals, shards }` manifest.
    - `src/data/market_map.json` — `slug → { id, conditionId, endDate, closed, active, acceptingOrders, eventSlug, negRisk }` for fast slug lookup.
    - Refreshed by GitHub Actions and `npm run sync` (`scripts/sync.js`).
-3. **Origin** — Polymarket Gamma API (`gamma-api.polymarket.com/markets`), keyset pagination ordered by `volume_num,liquidity_num`, `active=true,closed=false`. Raw API market objects have stringified `outcomePrices`/`outcomes`/`clobTokenIds`; `sync.js` flattens these into the clean deal rows below.
+3. **Origin** — Polymarket Gamma keyset API (`gamma-api.polymarket.com/markets/keyset`), queried with `active=true`, `closed=false`, and `include_tag=true`. `sync.js` tries `volumeClob`, `liquidityClob`, `updatedAt`, then `createdAt`, falling back if an order fails during pagination. Raw API market objects have stringified `outcomePrices`/`outcomes`/`clobTokenIds`; `sync.js` flattens these into the clean deal rows below.
 4. **Deal object schema** (one row per outcome, e.g. the "Yes" side of a market):
    - `title`, `questionId`, `outcome` ("Yes"/"No"), `outcomeIdx`
    - `probability` — already 0–100 float (no parsing needed)
@@ -36,7 +36,7 @@ Single new file: `src/SKILL.md` (served at `/SKILL.md` on the live app), plus a 
    - `expiryDate` (ISO date), `eventSlug`, `eventId`, `eventTitle`
    - `acceptingOrders`, `enableOrderBook`, `active`, `closed`, `negRisk`
    - `description`, `resolutionSource`
-5. **Query recipes** — copy-paste snippets that read across all three shards (`jq` over concatenated input, or a node loop over `index.json`'s `shards`):
+5. **Query recipes** — copy-paste snippets that read across every shard (`jq` over concatenated input, or a node loop over `index.json`'s `shards`):
    - filter by probability range (e.g. 70–90)
    - filter by expiry window (`daysLeft`)
    - filter by minimum liquidity/volume
@@ -50,6 +50,6 @@ Single new file: `src/SKILL.md` (served at `/SKILL.md` on the live app), plus a 
 
 ## Acceptance
 
-- `SKILL.md` exists at project root with valid frontmatter.
+- `src/SKILL.md` exists with valid frontmatter.
 - An agent reading only `SKILL.md` can derive market probability, filter by prob/expiry/liquidity/category, resolve a slug to a URL, and know which files are canonical vs stale.
-- No source code modified.
+- The only source change is the dashboard link that exposes `/SKILL.md`.

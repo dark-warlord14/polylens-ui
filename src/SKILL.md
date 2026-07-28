@@ -1,19 +1,19 @@
 ---
 name: polylens-data
-description: Query the live Polymarket market data surfaced by the PolyLens web app — the sharded outcome-level cache, market slug map, and deal schema.
+description: Query the live Polymarket market data surfaced by PolyLens: the sharded outcome cache, market slug map, and deal schema.
 ---
 
 # PolyLens Market Data
 
-Live Polymarket market data exposed by the PolyLens dashboard. Use this whenever you need to read market probabilities, expiry, liquidity, categories, or CLOB token ids — the data is already cleaned and derived; do not re-fetch from the API or parse raw Polymarket objects.
+PolyLens exposes a cleaned Polymarket market cache that is ready to query. Use it when you need probabilities, expiry, liquidity, categories, or CLOB token ids. The raw API objects have already been flattened, so start here instead of re-fetching from Polymarket or parsing raw fields by hand.
 
 ## Canonical live data (`src/data/`)
 
-The trusted, fresh source. Refreshed by GitHub Actions and `npm run sync` (`scripts/sync.js`).
+This is the source of truth for the app. GitHub Actions refreshes it on schedule, and `npm run sync` does the same locally.
 
 | File | Shape | Use |
 |---|---|---|
-| `cache_01.json`, `cache_02.json`, `cache_03.json` | `{ deals: [...] }` — sharded outcome rows (~23k deals / 12k markets) | **Query this.** One `deal` per outcome (e.g. the "Yes" side). |
+| `cache_*.json` | `{ deals: [...] }` — sharded outcome rows | **Query these.** One `deal` per outcome, such as the "Yes" side of a market. |
 | `index.json` | `{ timestamp, count, totalDeals, shards }` | Manifest; iterate `shards` to load all data. |
 | `market_map.json` | `slug → { id, conditionId, endDate, closed, active, acceptingOrders, eventSlug, negRisk }` | Fast slug → market lookup. |
 
@@ -33,7 +33,7 @@ Each row in `cache_0N.json#deals`:
 
 ## Query recipes
 
-All recipes read across every shard. Prefer the **node** form — it uses `index.json` so it stays correct if the shard count changes.
+All recipes read across every shard. Prefer the **node** form because it uses `index.json`, so it keeps working if the shard count changes.
 
 ### Filter: probability range + expiry + liquidity + sort
 
@@ -101,10 +101,10 @@ The ~40 root-level `*.json` files (`all_markets.json`, `crypto_markets.json`, `f
 
 ## Origin (when you must fetch fresh)
 
-Polymarket Gamma API, keyset-paginated by `volume_num,liquidity_num`, `active=true,closed=false`:
+`scripts/sync.js` reads from the Polymarket Gamma keyset API with `active=true` and `closed=false`. It tries stable order fields in this order: `volumeClob`, `liquidityClob`, `updatedAt`, then `createdAt`. If one order fails during pagination, sync falls back to the next.
 
 ```
-https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&order=volume_num,liquidity_num&ascending=false
+https://gamma-api.polymarket.com/markets/keyset?active=true&closed=false&include_tag=true&limit=100&order=volumeClob&ascending=false
 ```
 
-Raw API objects use stringified `outcomePrices` / `outcomes` / `clobTokenIds` — `sync.js` flattens these into the clean deal rows above. Run `npm run sync` to refresh the cache rather than hand-parsing the API.
+Raw API objects use stringified `outcomePrices`, `outcomes`, and `clobTokenIds`. `sync.js` flattens those into the deal rows above. Run `npm run sync` to refresh the cache instead of hand-parsing the API.
