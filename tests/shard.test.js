@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { packShards, writeShardedCache } = require('../scripts/sync');
+const { fetchAllMarkets, packShards, writeShardedCache } = require('../scripts/sync');
 
 // Build N synthetic deals of realistic-ish size.
 function makeDeals(n) {
@@ -121,4 +121,54 @@ function makeDeals(n) {
   console.log('shard.test: writeShardedCache OK');
 }
 
-console.log('shard.test: ALL PASS');
+// 5. fetchAllMarkets: an order that fails after page one falls back.
+(async () => {
+  const calls = [];
+  const fetchFn = async (url) => {
+    const parsed = new URL(url);
+    const order = parsed.searchParams.get('order');
+    const cursor = parsed.searchParams.get('after_cursor');
+    calls.push({ order, cursor });
+
+    if (order === 'badOrder' && cursor === 'next') {
+      return {
+        ok: false,
+        status: 500,
+        text: async () => 'upstream pagination failure',
+      };
+    }
+
+    const start = cursor === 'next' ? 2 : 1;
+    return {
+      ok: true,
+      status: 200,
+      json: async () => ({
+        markets: [
+          { id: `${order}-${start}`, slug: `${order}-${start}` },
+          { id: `${order}-${start + 1}`, slug: `${order}-${start + 1}` },
+        ],
+        next_cursor: cursor ? null : 'next',
+      }),
+    };
+  };
+
+  const markets = await fetchAllMarkets({
+    orders: ['badOrder', 'goodOrder'],
+    pageSize: 2,
+    maxPages: 2,
+    fetchFn,
+    sleepMs: 0,
+  });
+
+  assert.deepStrictEqual(
+    markets.map((m) => m.id),
+    ['goodOrder-1', 'goodOrder-2', 'goodOrder-3'],
+  );
+  assert.ok(calls.some((c) => c.order === 'badOrder' && c.cursor === 'next'), 'bad order must reach failing page');
+  assert.ok(calls.some((c) => c.order === 'goodOrder' && c.cursor === 'next'), 'good order must retry from first page');
+  console.log('shard.test: order-fallback OK');
+  console.log('shard.test: ALL PASS');
+})().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
